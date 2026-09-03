@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "diced potatoes",
+      "portion_estimate": "170g",
+      "confidence": 95
+    },
+    {
+      "name": "fried nuggets",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "yogurt or dairy product",
+      "portion_estimate": "150g",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rotini pasta with tomato",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "cubed roasted potatoes",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "breaded meat or fish fillet",
+      "portion_estimate": "130",
+      "confidence": 90
+    },
+    {
+      "name": "bread in plastic bag",
+      "portion_estimate": "40",
+      "confidence": 85
+    },
+    {
+      "name": "liquid in glass",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

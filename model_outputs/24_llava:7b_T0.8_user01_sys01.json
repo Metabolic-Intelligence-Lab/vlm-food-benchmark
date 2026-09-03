@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "White plate with carrots",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Cup of beans",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "White dish with carrots and broccoli",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green salad on plate",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    }
+  ]
+}

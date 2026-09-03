@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "sunny-side-up egg (whole)",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "buttery toast or English muffin half",
+      "portion_estimate": "40g",
+      "confidence": "80"
+    },
+    {
+      "name": "pan-fried potato or hash brown (single serving)",
+      "portion_estimate": "120g",
+      "confidence": "75"
+    },
+    {
+      "name": "saut\u00e9ed greens (kale or spinach, mixed)",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "baked penne pasta with sprinkled grated cheese (and sauce)",
+      "portion_estimate": "180g (cooked)",
+      "confidence": "85"
+    },
+    {
+      "name": "whole green apple",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "small baguette or ciabatta roll (whole)",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    }
+  ]
+}

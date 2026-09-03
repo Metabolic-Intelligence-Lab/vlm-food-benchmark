@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Side Dish: Fried Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Bread: Roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Dessert: Yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

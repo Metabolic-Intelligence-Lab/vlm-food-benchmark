@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "carrot salad",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "leafy greens",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "fish cake",
+      "portion_estimate": "100",
+      "confidence": 85
+    }
+  ]
+}

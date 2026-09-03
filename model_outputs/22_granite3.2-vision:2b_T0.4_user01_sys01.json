@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "whole grain bread",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "orange-colored squash",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "yellow rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowtie pasta with tomato sauce",
+      "portion_estimate": "150-200g",
+      "confidence": 90
+    },
+    {
+      "name": "spinach (possibly cooked or saut\u00e9ed)",
+      "portion_estimate": "100-150g",
+      "confidence": 85
+    },
+    {
+      "name": "sausage with ketchup and cheese",
+      "portion_estimate": "100-120g",
+      "confidence": 85
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50-70g",
+      "confidence": 80
+    },
+    {
+      "name": "Yomo yogurt (125g)",
+      "portion_estimate": "125g",
+      "confidence": 100
+    }
+  ]
+}

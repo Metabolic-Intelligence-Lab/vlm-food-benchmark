@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll (in plastic bag)",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Granola or Oatmeal mix",
+      "portion_estimate": "180g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried bread or hash",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "Cooked peas or small green vegetables",
+      "portion_estimate": "60g",
+      "confidence": "90"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "110g",
+      "confidence": "95"
+    }
+  ]
+}

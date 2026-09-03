@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Carrot sticks with cucumber slices and lettuce leaves",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "26g (assuming standard size)",
+      "confidence": "90"
+    },
+    {
+      "name": "Apple slices with cream and sauce on top of a muffin",
+      "portion_estimate": "uncertain, possibly 15-30g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green grapes",
+      "portion_estimate": "uncertain, approximately 2 handfuls (assuming standard size)",
+      "confidence": "60"
+    }
+  ]
+}

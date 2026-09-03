@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked salmon",
+      "portion_estimate": "60-80 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Potato wedges",
+      "portion_estimate": "80-100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Quinoa with spinach",
+      "portion_estimate": "100-120 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "40-50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50-60 grams",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "Yakult drink",
+      "portion_estimate": "125",
+      "confidence": 95
+    },
+    {
+      "name": "Breaded cutlet (likely pork or chicken)",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "Carrot salad with cucumber",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "Green beans with corn and feta/tomato garnish",
+      "portion_estimate": "80",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "food_items": [
+    {
+      "name": "boiled egg",
+      "portion_estimate": "uncertain, approx. weight of a typical boiled egg",
+      "confidence": "50"
+    },
+    {
+      "name": "sourdough bread",
+      "portion_estimate": "uncertain, approx. 1 slice (2-3 oz)",
+      "confidence": "50"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain, typical size of an apple",
+      "confidence": "60"
+    },
+    {
+      "name": "muffin or scone",
+      "portion_estimate": "uncertain, approx. 1 oz",
+      "confidence": "50"
+    }
+  ],
+  "vegetables": [
+    {
+      "name": "spinach with feta cheese",
+      "portion_estimate": "uncertain, typical portion size of a plate",
+      "confidence": "60"
+    },
+    {
+      "name": "steamed greens (possibly kale or collard greens)",
+      "portion_estimate": "uncertain, approx. 1 cup cooked weight",
+      "confidence": "50"
+    }
+  ],
+  "pasta": [
+    {
+      "name": "penne pasta with tomato sauce and parmesan cheese",
+      "portion_estimate": "uncertain, typical portion size of a plate",
+      "confidence": "60"
+    },
+    {
+      "name": "spaghetti or ziti with tomato sauce and grated Parmesan cheese",
+      "portion_estimate": "uncertain, approx. 1 cup cooked weight",
+      "confidence": "50"
+    }
+  ],
+  "other_items": [
+    {
+      "name": "baked egg white on top of a fried egg (possibly a sunny-side up or over easy)",
+      "portion_estimate": "uncertain, typical portion size for an egg dish",
+      "confidence": "60"
+    },
+    {
+      "name": "white bread roll in plastic wrap",
+      "portion_estimate": "uncertain, approx. 1 slice (2-3 oz)",
+      "confidence": "50"
+    }
+  ]
+}

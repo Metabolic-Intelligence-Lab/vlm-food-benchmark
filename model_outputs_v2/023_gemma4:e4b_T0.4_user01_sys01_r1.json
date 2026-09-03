@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried vegetable or egg patty",
+      "portion_estimate": "90",
+      "confidence": "85"
+    },
+    {
+      "name": "Flaked protein or grain mixture",
+      "portion_estimate": "140",
+      "confidence": "75"
+    },
+    {
+      "name": "Cooked tubular pasta (e.g., penne)",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "220",
+      "confidence": "100"
+    },
+    {
+      "name": "Foil-wrapped snack or dip",
+      "portion_estimate": "60",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried fish",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "salad (vegetables and greens)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta with meat",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

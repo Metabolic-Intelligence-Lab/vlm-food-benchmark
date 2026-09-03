@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with vegetables",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "grilled fish fillet",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "green beans with sauce",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "burger bun",
+      "portion_estimate": "50",
+      "confidence": "75"
+    }
+  ]
+}

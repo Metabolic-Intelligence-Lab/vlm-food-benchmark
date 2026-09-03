@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Green Beans with Crumbs",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Peach",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": 60
+    }
+  ]
+}

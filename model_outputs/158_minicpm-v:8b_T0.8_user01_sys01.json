@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Mushroom balls",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Quiche or frittata with onion slices",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta dish (rotini)",
+      "portion_estimate": "4.8 oz or 135g, assuming standard serving size for a side",
+      "confidence": "95"
+    },
+    {
+      "name": "Yellow apple",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Napkin with writing (Eco)",
+      "portion_estimate": "1 oz or 28g, standard napkin size",
+      "confidence": "95"
+    }
+  ]
+}

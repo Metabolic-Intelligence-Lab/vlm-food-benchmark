@@ -1,0 +1,41 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain, approx. 200g-300g",
+      "confidence": "50"
+    },
+    {
+      "name": "omelet with spinach and cheese",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "potato wedges",
+      "portion_estimate": "uncertain, approx. 75g-100g",
+      "confidence": "45"
+    },
+    {
+      "name": "broccoli and egg quiche slice",
+      "portion_estimate": "uncertain, approx. 60g",
+      "confidence": "55"
+    }
+  ],
+  "additional_items": [
+    {
+      "name": "pudding with pear",
+      "portion_estimate": "uncertain, approx. 120g-150g",
+      "confidence": "50"
+    },
+    {
+      "name": "white bread bun",
+      "portion_estimate": "uncertain, approx. 40g",
+      "confidence": "60"
+    },
+    {
+      "name": "cheese slices",
+      "portion_estimate": "uncertain, approx. 25g-35g",
+      "confidence": "55"
+    }
+  ]
+}

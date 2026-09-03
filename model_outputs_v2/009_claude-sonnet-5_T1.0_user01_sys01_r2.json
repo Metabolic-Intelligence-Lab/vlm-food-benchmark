@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken cutlet with tomato and basil garnish",
+      "portion_estimate": "120",
+      "confidence": "75"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "baked pasta or gratin with mushrooms and cheese",
+      "portion_estimate": "180",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "breadstick (grissini), packaged",
+      "portion_estimate": "10",
+      "confidence": "60"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "75"
+    },
+    {
+      "name": "water in plastic cup",
+      "portion_estimate": "200",
+      "confidence": "65"
+    }
+  ]
+}

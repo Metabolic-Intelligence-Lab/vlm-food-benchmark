@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup (brothy, with leafy greens) topped with grated cheese",
+      "portion_estimate": "420 g",
+      "confidence": "70"
+    },
+    {
+      "name": "grated cheese (on soup)",
+      "portion_estimate": "10 g",
+      "confidence": "65"
+    },
+    {
+      "name": "diced roasted potatoes",
+      "portion_estimate": "180 g",
+      "confidence": "75"
+    },
+    {
+      "name": "breaded round croquettes (2 pieces)",
+      "portion_estimate": "90 g",
+      "confidence": "60"
+    },
+    {
+      "name": "shredded purple cabbage (cooked/sauteed)",
+      "portion_estimate": "50 g",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "banana (whole, with peel)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    }
+  ]
+}

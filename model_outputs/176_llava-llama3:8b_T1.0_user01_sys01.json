@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "red sauce with bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "grain and vegetable mix",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "soup with breadcrumbs",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

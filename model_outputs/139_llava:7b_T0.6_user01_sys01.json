@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Scrambled eggs",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried potatoes",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried meat (possibly chicken)",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Roll or bread",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    }
+  ]
+}

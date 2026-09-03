@@ -1,0 +1,30 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "large",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread rolls",
+      "portion_estimate": "6 small rolls",
+      "confidence": "90"
+    },
+    {
+      "name": "Dessert",
+      "portion_estimate": "small piece",
+      "confidence": "70"
+    }
+  ],
+  "tablecloth": "white with gray pattern",
+  "cutlery": [
+    {
+      "item": "spoon",
+      "location": "left side of tray"
+    },
+    {
+      "item": "fork",
+      "location": "right side of tray"
+    }
+  ]
+}

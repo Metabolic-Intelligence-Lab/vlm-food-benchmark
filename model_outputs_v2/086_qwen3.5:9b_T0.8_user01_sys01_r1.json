@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled salmon fillet",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Pasta with yellow sauce (e.g., macaroni or penne) and green garnish",
+      "portion_estimate": 160,
+      "confidence": 92
+    },
+    {
+      "name": "Mashed potatoes with butter",
+      "portion_estimate": 140,
+      "confidence": 88
+    },
+    {
+      "name": "Plums (3 whole fruits)",
+      "portion_estimate": 90,
+      "confidence": 96
+    },
+    {
+      "name": "Plain bread roll or baguette slice",
+      "portion_estimate": 50,
+      "confidence": 85
+    }
+  ]
+}

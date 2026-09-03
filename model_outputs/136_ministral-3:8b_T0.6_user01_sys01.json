@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with mixed vegetables (peas, carrots, onions) in sauce",
+      "portion_estimate": "500 grams (estimated for the visible portion in the container)",
+      "confidence": 85
+    },
+    {
+      "name": "sauce (likely tomato-based with herbs/spices)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

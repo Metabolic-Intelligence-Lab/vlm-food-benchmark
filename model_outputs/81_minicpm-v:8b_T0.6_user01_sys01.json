@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain, likely around 100g per serving",
+      "confidence": "50"
+    },
+    {
+      "name": "steamed greens (possibly kale or spinach)",
+      "portion_estimate": "uncertain, likely around 70-80g per serving",
+      "confidence": "60"
+    },
+    {
+      "name": "muffin-like baked goods with orange glaze",
+      "portion_estimate": "uncertain, possibly 50g each",
+      "confidence": "40"
+    },
+    {
+      "name": "round brown bread rolls",
+      "portion_estimate": "uncertain, approximately half a roll per piece if cut in half",
+      "confidence": "60"
+    },
+    {
+      "name": "red and white carton of yogurt with red lid",
+      "portion_estimate": "uncertain, likely around 150g for the whole container",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green vegetable soup",
+      "portion_estimate": "1 cup (approx. 200g)",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried potatoes with cheese",
+      "portion_estimate": "1 serving (approx. 100g)",
+      "confidence": "60"
+    },
+    {
+      "name": "Meat dish with sauce",
+      "portion_estimate": "1 serving (approx. 250g)",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded fish fillet with condiments",
+      "portion_estimate": "1 fillet (approx. 150g)",
+      "confidence": "60"
+    }
+  ]
+}

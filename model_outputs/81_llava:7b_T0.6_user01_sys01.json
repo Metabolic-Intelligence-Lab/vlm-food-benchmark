@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green vegetables",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    },
+    {
+      "name": "Creamy mashed potatoes",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Sausage links with gravy",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried chicken drumstick",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded and fried fish fillet",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    }
+  ]
+}

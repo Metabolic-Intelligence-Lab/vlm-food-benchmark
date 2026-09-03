@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Canned Tuna",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Onion",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Cucumber",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Lettuce",
+      "portion_estimate": "20g",
+      "confidence": "70"
+    }
+  ]
+}

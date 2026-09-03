@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "roasted chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "brown chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

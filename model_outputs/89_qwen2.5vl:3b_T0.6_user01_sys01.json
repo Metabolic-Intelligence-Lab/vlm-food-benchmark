@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with Butter",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Grilled Chicken with Herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Butter",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

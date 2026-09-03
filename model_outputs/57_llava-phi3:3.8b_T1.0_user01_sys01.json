@@ -1,0 +1,35 @@
+{
+  "tablecloth": {
+    "color": "gray",
+    "design": "leaves"
+  },
+  "dishware": [
+    {
+      "item": "plate",
+      "color": "white",
+      "contents": [
+        "snap peas",
+        "bread"
+      ]
+    },
+    {
+      "item": "plate",
+      "color": "white",
+      "contents": [
+        "pasta with sauce"
+      ]
+    }
+  ],
+  "snack_items": {
+    "fruits": [
+      {
+        "name": "banana",
+        "status": "unpeeled"
+      }
+    ]
+  },
+  "menu": {
+    "text": "You can order by phone or online. You can also visit us in person.",
+    "category": "restaurant menu"
+  }
+}

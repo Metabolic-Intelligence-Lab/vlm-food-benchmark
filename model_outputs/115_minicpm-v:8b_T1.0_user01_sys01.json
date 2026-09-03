@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta carbonara",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "sliced bread",
+      "portion_estimate": "1 slice",
+      "confidence": "60"
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "salad greens with vinaigrette dressing",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "meatballs in tomato sauce",
+      "portion_estimate": "uncertain, approx. 1 cup",
+      "confidence": "50"
+    }
+  ]
+}

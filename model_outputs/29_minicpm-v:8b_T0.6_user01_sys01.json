@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": 50
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": 40
+    },
+    {
+      "name": "Pizza slice with cheese and mushrooms on a plate",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": 65
+    },
+    {
+      "name": "Macaroni and cheese (white bowl)",
+      "portion_estimate": "100g - uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Zucchini salad with cheese on a plate",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": 45
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "chicken breast portion (with sauce)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "mashed cauliflower or potato (yellowish)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "mixed shredded vegetables (likely cabbage or coleslaw)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "30g",
+      "confidence": 70
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "180g (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "breadstick or cracker-like item",
+      "portion_estimate": "40g",
+      "confidence": 70
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "uncertain (no visible measurement)",
+      "confidence": 30
+    },
+    {
+      "name": "condiment packet (likely salt or seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

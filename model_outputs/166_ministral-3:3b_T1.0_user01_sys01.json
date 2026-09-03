@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "plain pasta with oregano sprinkles",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "sauced or grilled green vegetable filling with eggplant/cheese wrap",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "crispy fried zucchini sticks (tottu)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "baguette-like bread roll",
+      "portion_estimate": "90",
+      "confidence": 80
+    },
+    {
+      "name": "green onion/garlic dip in a container",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "yellow stick (mayonnaise container or food)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

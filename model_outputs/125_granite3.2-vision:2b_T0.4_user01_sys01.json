@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "savory pastry or pie",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "creamy sauce or dip",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "purple substance (herbs or sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish fillet (e.g., fried cod or pollock)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted carrot slices",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "lentil stew or bean-based pasta",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain (glass partially filled)",
+      "confidence": 50
+    },
+    {
+      "name": "plastic-wrapped yogurt or dessert cup (e.g., crema or pudding)",
+      "portion_estimate": "100g",
+      "confidence": 70
+    }
+  ]
+}

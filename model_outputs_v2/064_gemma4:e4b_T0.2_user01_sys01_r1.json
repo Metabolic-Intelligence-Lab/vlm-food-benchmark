@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fusilli pasta with sauce",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Roasted cubed potatoes and vegetables",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Topped bread or pastry slice",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Loaf of bread",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    }
+  ]
+}

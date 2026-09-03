@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "soup (likely tomato-based with herbs and cheese)",
+      "portion_estimate": "300-400 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "yogurt (red lid, likely Yogo brand)",
+      "portion_estimate": "120 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "small pastry or cake (with purple decoration and creamy topping)",
+      "portion_estimate": "60 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "small bread roll (possibly a hamburger bun)",
+      "portion_estimate": "60 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "creamy sauce or puree on plate (yellowish)",
+      "portion_estimate": "80 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "water or clear beverage",
+      "portion_estimate": "300 ml (uncertain if full, estimate for liquid portion)",
+      "confidence": "80"
+    }
+  ]
+}

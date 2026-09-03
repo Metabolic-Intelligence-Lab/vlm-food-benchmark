@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with carrots",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "sweet potato",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "couscous with vegetables and chicken",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": "95"
+    },
+    {
+      "name": "multigrain bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked meat",
+      "portion_estimate": "40g",
+      "confidence": "90"
+    },
+    {
+      "name": "white rice",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "onions",
+      "portion_estimate": "20g",
+      "confidence": "70"
+    }
+  ]
+}

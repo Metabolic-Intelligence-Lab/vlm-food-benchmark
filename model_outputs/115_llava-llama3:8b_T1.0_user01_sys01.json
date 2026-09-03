@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with parmesan sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Dark purple grapes",
+      "portion_estimate": "12 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Sausage rolls with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Salad with lettuce, purple onion, and croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Baguette roll",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

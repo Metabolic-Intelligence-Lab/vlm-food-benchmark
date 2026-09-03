@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed salad",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "100",
+      "confidence": "70"
+    }
+  ]
+}

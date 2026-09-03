@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white yogurt (Yomo brand)",
+      "portion_estimate": "100-120g",
+      "confidence": 90
+    },
+    {
+      "name": "steamed broccoli and cauliflower",
+      "portion_estimate": "100-120g",
+      "confidence": 90
+    },
+    {
+      "name": "multigrain bread (slice)",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "baked or saut\u00e9ed potato cubes",
+      "portion_estimate": "100-120g",
+      "confidence": 85
+    },
+    {
+      "name": "fish fillet (baked or saut\u00e9ed)",
+      "portion_estimate": "100-120g",
+      "confidence": 85
+    }
+  ]
+}

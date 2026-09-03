@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded and Fried Chicken Breast",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Steamed Green Beans",
+      "portion_estimate": "30g",
+      "confidence": "90"
+    },
+    {
+      "name": "Breaded and Fried Potatoes",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Canned Tomatoes",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mushroom",
+      "portion_estimate": "20g",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "creamy chicken with herbs",
+      "portion_estimate": "90",
+      "confidence": 85
+    },
+    {
+      "name": "cooked green beans in tomato sauce",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "boiled greens with potatoes",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "130",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "red fruits",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cooked greens",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fish with yellow toppings",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

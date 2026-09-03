@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with vegetables",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Rice and vegetable stir-fry",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fruit salad (peach and plum)",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

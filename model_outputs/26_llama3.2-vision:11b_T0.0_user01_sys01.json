@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried potatoes and chicken nuggets",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "small bag of bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fruit (orange and apple)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

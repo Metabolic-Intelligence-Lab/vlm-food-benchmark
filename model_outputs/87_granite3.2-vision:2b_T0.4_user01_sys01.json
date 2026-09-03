@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "apple slices",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "beans",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cooked chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "vegetables (carrots, peas, mixed greens)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "slice of savory pie/quiche with dark leafy filling (spinach-like)",
+      "portion_estimate": "220 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed cooked vegetables (diced potatoes and carrots)",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (plain bun)",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "pasta with creamy sauce and mushrooms (fusilli/spaetzle-like) topped with grated cheese",
+      "portion_estimate": "220 g",
+      "confidence": "72"
+    },
+    {
+      "name": "plums (whole)",
+      "portion_estimate": "210 g",
+      "confidence": "90"
+    }
+  ]
+}

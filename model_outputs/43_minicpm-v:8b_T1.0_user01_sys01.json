@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "baguette",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "baked potato with baked beans and cheese topping",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pennoni pasta",
+      "portion_estimate": "264g (approx)",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetables salad",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

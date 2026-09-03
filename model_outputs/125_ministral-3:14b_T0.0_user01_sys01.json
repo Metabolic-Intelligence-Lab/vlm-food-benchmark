@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "chicken and vegetable soup with dumplings or meatballs",
+      "portion_estimate": "450",
+      "confidence": 85
+    },
+    {
+      "name": "fried doughnut with purple cabbage or beet filling",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "sweet spread (possibly apricot jam or similar)",
+      "portion_estimate": "30",
+      "confidence": 75
+    },
+    {
+      "name": "hard-boiled egg (partially visible)",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt or dairy product (partially visible, container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "water in a plastic cup",
+      "portion_estimate": "250",
+      "confidence": 80
+    }
+  ]
+}

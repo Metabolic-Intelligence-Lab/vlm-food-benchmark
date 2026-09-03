@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. 100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green salad with dressing",
+      "portion_estimate": "uncertain, approx. 250g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cucumber and cabbage salad",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    }
+  ]
+}

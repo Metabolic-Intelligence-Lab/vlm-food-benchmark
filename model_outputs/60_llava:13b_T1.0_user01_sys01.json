@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    },
+    {
+      "name": "Baked Potatoes",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pork Chops",
+      "portion_estimate": "120g",
+      "confidence": "50"
+    },
+    {
+      "name": "Baked Mushrooms",
+      "portion_estimate": "90g",
+      "confidence": "70"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "60g",
+      "confidence": "40"
+    }
+  ]
+}

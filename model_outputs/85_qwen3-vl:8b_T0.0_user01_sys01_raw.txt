@@ -1,0 +1,28 @@
+The distinct visible food items in the image are:
+
+1. **Tomato soup with grated cheese**  
+   - Portion: 200g  
+   - Confidence: 80%  
+   *Reasoning: A medium-sized bowl of soup is visible, and the grated cheese on top is evident. The portion estimate is based on typical serving sizes for soup.*
+
+2. **Cooked spinach**  
+   - Portion: 100g  
+   - Confidence: 85%  
+   *Reasoning: A pile of cooked spinach is clearly visible on the plate. The portion estimate aligns with common serving sizes for cooked greens.*
+
+3. **Stuffed mushrooms with cheese**  
+   - Portion: 100g (two mushrooms, each approximately 50g)  
+   - Confidence: 70%  
+   *Reasoning: Two small, stuffed mushrooms with visible cheese filling are present. The portion estimate is based on typical sizes for stuffed mushrooms, though the exact filling is not fully confirmed.*
+
+4. **Green apple**  
+   - Portion: 100g  
+   - Confidence: 90%  
+   *Reasoning: A whole green apple is clearly visible. The portion estimate is based on the size of a standard medium apple.*
+
+5. **Bread roll**  
+   - Portion: 50g  
+   - Confidence: 70%  
+   *Reasoning: A packaged bread roll is visible, and the portion estimate is based on typical sizes for small rolls. The packaging suggests it is a single roll.*
+
+**Note:** There are no beverages visible in the image. All items are food-based, and confidence levels reflect the clarity of the visual evidence (e.g., high confidence for clearly identifiable items like the apple, lower confidence for assumptions like the stuffed mushrooms). Portion estimates are approximate and based on standard serving sizes.

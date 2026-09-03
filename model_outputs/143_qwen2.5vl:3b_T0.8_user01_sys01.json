@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled fish fillet",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Potatoes cooked with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Honey yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Tortelloni (twisted pasta) with tomato-based red sauce",
+      "portion_estimate": 250,
+      "confidence": 95
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": 180,
+      "confidence": 96
+    },
+    {
+      "name": "Whole wheat bun or roll",
+      "portion_estimate": 60,
+      "confidence": 94
+    },
+    {
+      "name": "Baked potato topped with herbs and grated cheese",
+      "portion_estimate": 180,
+      "confidence": 92
+    }
+  ]
+}

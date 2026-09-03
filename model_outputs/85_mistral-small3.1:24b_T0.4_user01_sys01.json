@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and parmesan cheese",
+      "portion_estimate": "300",
+      "confidence": "85"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded and fried mozzarella balls",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "lemon",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "60",
+      "confidence": "70"
+    }
+  ]
+}

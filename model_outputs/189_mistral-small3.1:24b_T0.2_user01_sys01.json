@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "beef pho soup",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "sriracha sauce",
+      "portion_estimate": "15",
+      "confidence": 85
+    },
+    {
+      "name": "hoisin sauce",
+      "portion_estimate": "15",
+      "confidence": 85
+    },
+    {
+      "name": "bean sprouts",
+      "portion_estimate": "30",
+      "confidence": 85
+    }
+  ]
+}

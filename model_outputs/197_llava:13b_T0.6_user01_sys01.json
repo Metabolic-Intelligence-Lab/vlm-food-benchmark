@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried potatoes with spices/curry",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Indian-style chicken pieces",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "dark green leafy vegetable (spinach)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "meat or tofu in sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "orange slice",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

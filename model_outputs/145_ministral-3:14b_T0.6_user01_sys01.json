@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "chickpea and tomato stew (with spices and breadcrumbs topping)",
+      "portion_estimate": "400",
+      "confidence": 85
+    },
+    {
+      "name": "steamed cauliflower florets",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "quiche slice (with spinach or similar green leafy vegetable filling)",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "baked potato wedge (small)",
+      "portion_estimate": "70",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt drink (in sealed container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "packaged crackers or biscuits (partially visible)",
+      "portion_estimate": "30",
+      "confidence": 70
+    }
+  ]
+}

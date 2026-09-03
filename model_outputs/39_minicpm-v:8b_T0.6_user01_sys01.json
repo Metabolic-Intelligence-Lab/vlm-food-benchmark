@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta",
+      "portion_estimate": "uncertain, approx 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "steamed spinach",
+      "portion_estimate": "uncertain, approx 80-100g",
+      "confidence": "70"
+    },
+    {
+      "name": "baked buns",
+      "portion_estimate": "approx. a quarter of the bun visible in bag",
+      "confidence": "65"
+    },
+    {
+      "name": "peaches or apricots",
+      "portion_estimate": "uncertain, approx 10-20g each",
+      "confidence": "75"
+    },
+    {
+      "name": "grilled fish with yellow garnish (possibly corn)",
+      "portion_estimate": "approx. half a fish fillet visible on plate",
+      "confidence": "68"
+    }
+  ]
+}

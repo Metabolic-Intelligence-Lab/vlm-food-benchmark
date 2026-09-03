@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Packaged seasoned rice or mix (from red container)",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked dark leafy greens (e.g., spinach or kale)",
+      "portion_estimate": "120 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Small flat, crusty patty or base",
+      "portion_estimate": "75 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Cubed cooked potatoes or root vegetable",
+      "portion_estimate": "180 grams",
+      "confidence": "80"
+    }
+  ]
+}

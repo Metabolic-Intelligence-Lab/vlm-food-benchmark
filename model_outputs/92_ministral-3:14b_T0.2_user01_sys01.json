@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy vegetable soup with spinach and grated cheese topping",
+      "portion_estimate": "450",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted or pan-fried potato wedges (tator tots)",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "red cabbage salad with dressing",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "baked bread roll (partially visible, wrapped in plastic)",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "banana (partially visible, sliced)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

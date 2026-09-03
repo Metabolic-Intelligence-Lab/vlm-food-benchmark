@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Cheese pasta with sauce",
+      "portion_estimate": "100-150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sliced banana",
+      "portion_estimate": "1 medium",
+      "confidence": "70"
+    },
+    {
+      "name": "Rice pilaf with vegetables",
+      "portion_estimate": "150-200g",
+      "confidence": "90"
+    }
+  ]
+}

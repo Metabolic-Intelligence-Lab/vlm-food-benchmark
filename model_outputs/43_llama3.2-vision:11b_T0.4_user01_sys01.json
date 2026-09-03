@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 95
+    },
+    {
+      "name": "Vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Meat",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish (likely sea bass or similar white fish)",
+      "portion_estimate": 120,
+      "confidence": 85
+    },
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": 30,
+      "confidence": 85
+    },
+    {
+      "name": "cabbage slaw (red cabbage and possibly other greens)",
+      "portion_estimate": 40,
+      "confidence": 80
+    },
+    {
+      "name": "red wine (residue in glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

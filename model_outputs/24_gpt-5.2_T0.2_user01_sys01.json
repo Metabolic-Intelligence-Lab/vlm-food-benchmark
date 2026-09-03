@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "breaded vegetable patties/croquettes (2 pieces) with lemon wedges",
+      "portion_estimate": "180 g",
+      "confidence": "65"
+    },
+    {
+      "name": "lemon wedges (on patties)",
+      "portion_estimate": "20 g",
+      "confidence": "70"
+    },
+    {
+      "name": "sliced cooked carrots",
+      "portion_estimate": "120 g",
+      "confidence": "80"
+    },
+    {
+      "name": "pasta (short/gnocchi-like) with grated cheese",
+      "portion_estimate": "280 g",
+      "confidence": "60"
+    },
+    {
+      "name": "grated cheese (on pasta)",
+      "portion_estimate": "15 g",
+      "confidence": "65"
+    },
+    {
+      "name": "apple (whole, red)",
+      "portion_estimate": "180 g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll/bun (packaged)",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "75"
+    }
+  ]
+}

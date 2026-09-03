@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrot slices",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Cracker-like food (possibly a cracker or flatbread)",
+      "portion_estimate": "30 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Crisp fruit (such as apple or pear)",
+      "portion_estimate": "50 grams",
+      "confidence": "40"
+    },
+    {
+      "name": "Yogurt-based dish, possibly a parfait",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Sweet item (such as candy or cookie)",
+      "portion_estimate": "25 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread or roll, likely a whole wheat or multigrain type",
+      "portion_estimate": "30 grams",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (bowtie pasta with pesto sauce)",
+      "portion_estimate": "200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "brussels sprouts (roasted)",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "omelette or frittata (with cheese)",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll (in plastic wrap)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "125 grams (approx. 4.38 oz)",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150 grams (approx. 5.29 oz)",
+      "confidence": "70"
+    },
+    {
+      "name": "chicken",
+      "portion_estimate": "85 grams (approx. 3 oz)",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "45 grams (approx. 1.59 oz)",
+      "confidence": "70"
+    }
+  ]
+}

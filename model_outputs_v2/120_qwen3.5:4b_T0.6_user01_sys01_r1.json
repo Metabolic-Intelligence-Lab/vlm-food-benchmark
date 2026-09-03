@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup (likely vegetable or pea), topped with grated cheese",
+      "portion_estimate": "450",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll, plain white bread",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "cauliflower florets (steamed or boiled)",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "breaded cutlet, likely schnitzel or similar fried item",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt cup (YOMO brand)",
+      "portion_estimate": "120",
+      "confidence": 90
+    }
+  ]
+}

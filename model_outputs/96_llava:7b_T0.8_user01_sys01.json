@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Cake",
+      "portion_estimate": "60 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "1 slice",
+      "confidence": "70"
+    },
+    {
+      "name": "Milk",
+      "portion_estimate": "250 ml",
+      "confidence": "90"
+    }
+  ]
+}

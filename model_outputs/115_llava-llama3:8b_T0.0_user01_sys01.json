@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "purple grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "meatballs in red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

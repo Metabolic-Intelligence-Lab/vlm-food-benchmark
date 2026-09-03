@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white rice",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "steamed vegetables (carrots, potatoes, onions)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "grilled chicken with greens and pineapple",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baked bread",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    }
+  ]
+}

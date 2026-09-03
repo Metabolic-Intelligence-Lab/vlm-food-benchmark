@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup (green, possibly pea or vegetable)",
+      "portion_estimate": "300-400 grams",
+      "confidence": 85
+    },
+    {
+      "name": "bun or roll",
+      "portion_estimate": "50-70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (Yomo brand)",
+      "portion_estimate": "100-150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "mushroom and spinach dish (with white sauce)",
+      "portion_estimate": "100-120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "vegetable stir-fry (likely potatoes and zucchini)",
+      "portion_estimate": "100-120 grams",
+      "confidence": 85
+    }
+  ]
+}

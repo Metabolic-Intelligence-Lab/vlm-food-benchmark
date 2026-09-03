@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Baked Eggplant with Broccoli",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "200g",
+      "confidence": 75
+    },
+    {
+      "name": "Sweet Potato",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "300ml",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (spaghetti or fettuccine with cheese)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "salad or side dish (peas and ham)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "dessert or snack (muffin or cookie)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread rolls or small pastries",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

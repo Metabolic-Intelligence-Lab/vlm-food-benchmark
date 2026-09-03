@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta with tomato and vegetable sauce",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "grilled white fish fillet",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted green beans",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "100"
+    },
+    {
+      "name": "pomegranate",
+      "portion_estimate": "220",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70",
+      "confidence": "70"
+    }
+  ]
+}

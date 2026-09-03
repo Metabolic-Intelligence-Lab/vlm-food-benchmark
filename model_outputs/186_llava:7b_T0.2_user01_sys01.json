@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Rice",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "200ml",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Greenish Soup or Curry with visible topping",
+      "portion_estimate": "320g",
+      "confidence": "85"
+    },
+    {
+      "name": "Breaded or fried chunks (e.g., tofu or vegetable pieces)",
+      "portion_estimate": "280g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread loaf",
+      "portion_estimate": "350g",
+      "confidence": "75"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bowtie pasta (farfalle) with tomato-based sauce and diced tomatoes",
+      "portion_estimate": 200,
+      "confidence": 95
+    },
+    {
+      "name": "Steamed dark green leafy vegetables (likely kale or spinach)",
+      "portion_estimate": 180,
+      "confidence": 92
+    },
+    {
+      "name": "Baked potato topped with red sauce and possibly cheese",
+      "portion_estimate": 170,
+      "confidence": 94
+    },
+    {
+      "name": "Unopened roll or bread in plastic wrapper",
+      "portion_estimate": 85,
+      "confidence": 98
+    },
+    {
+      "name": "Yomo potimarron dip (butternut squash puree with herbs)",
+      "portion_estimate": 45,
+      "confidence": 97
+    }
+  ]
+}

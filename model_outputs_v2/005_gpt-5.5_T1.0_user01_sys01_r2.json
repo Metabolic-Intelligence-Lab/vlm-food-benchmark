@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "creamy vegetable soup with grated cheese topping",
+      "portion_estimate": "300 g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded chicken nuggets or croquettes",
+      "portion_estimate": "110 g",
+      "confidence": "75"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "140 g",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "85"
+    },
+    {
+      "name": "ketchup packet",
+      "portion_estimate": "10 g",
+      "confidence": "70"
+    }
+  ]
+}

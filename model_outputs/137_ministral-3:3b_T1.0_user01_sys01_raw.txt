@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": 180,  // Approximate for ~half a cup cooked
+      "confidence": 95
+    },
+    {
+      "name": "sauce (tomato-based, likely containing meat sauce)",
+      "portion_estimate": 120,
+      "confidence": 85
+    },
+    {
+      "name": "parmesan cheese (topped on top of sauce)",
+      "portion_estimate": 10,
+      "confidence": 75
+    }
+  ]
+}

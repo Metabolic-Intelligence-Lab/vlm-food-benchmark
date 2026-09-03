@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed green salad",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "iced beverage (likely milk-based)",
+      "portion_estimate": "240",
+      "confidence": "80"
+    },
+    {
+      "name": "hamburger patty",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "hamburger bun",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "seaweed snack",
+      "portion_estimate": "28",
+      "confidence": "75"
+    }
+  ]
+}

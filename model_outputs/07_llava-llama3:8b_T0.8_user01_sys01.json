@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "salad (mixed greens and carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red cups",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "brown lentil soup",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "potato gratin or baked potato wedges with cheese",
+      "portion_estimate": "250g",
+      "confidence": 75
+    },
+    {
+      "name": "canned or packaged condiment (creamy, tomato-based sauce, e.g., Pasta Sauce in a tub)",
+      "portion_estimate": "uncertain (container size unclear, but ~100-150g)",
+      "confidence": 65
+    },
+    {
+      "name": "crispy fried or baked breaded cutlets (appears to be chicken, pork, or veal)",
+      "portion_estimate": "uncertain (two visible pieces totaling ~120g each or ~240g combined)",
+      "confidence": 60
+    },
+    {
+      "name": "steamed green beans with toppings (likely breadcrumbs, garlic, or cheese)",
+      "portion_estimate": "200g",
+      "confidence": 75
+    },
+    {
+      "name": "sliced baguette-style bread (wrapped)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "potato (whole roasted)",
+      "portion_estimate": "uncertain (wrapped, size unclear, but likely ~200-250g)",
+      "confidence": 65
+    }
+  ]
+}

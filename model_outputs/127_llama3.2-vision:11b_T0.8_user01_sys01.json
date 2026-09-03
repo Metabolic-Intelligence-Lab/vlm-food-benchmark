@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Gnocchi in Tomato Sauce",
+      "portion_estimate": "300g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mixed Salad",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

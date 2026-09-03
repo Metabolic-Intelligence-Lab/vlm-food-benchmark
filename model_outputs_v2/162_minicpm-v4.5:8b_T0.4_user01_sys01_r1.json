@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed broccoli and diced potatoes",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "vegetable soup with grated cheese",
+      "portion_estimate": "250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "potato and cheese slice",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "small pear",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "200-300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Main Course (Meat and Vegetables with Sauce and Rice)",
+      "portion_estimate": "400-500 grams",
+      "confidence": 75
+    },
+    {
+      "name": "Salad (Small Bowl)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Roasted Vegetables (Potatoes or Carrots)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Cake or Pastry with Cream",
+      "portion_estimate": "100-150 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Bread (Roll or Piece)",
+      "portion_estimate": "50-75 grams",
+      "confidence": 80
+    }
+  ]
+}

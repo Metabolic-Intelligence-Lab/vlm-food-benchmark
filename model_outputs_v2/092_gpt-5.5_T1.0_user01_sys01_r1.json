@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "leafy vegetable soup",
+      "portion_estimate": "330 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated cheese topping on soup",
+      "portion_estimate": "8 g",
+      "confidence": "82"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "160 g",
+      "confidence": "86"
+    },
+    {
+      "name": "cooked purple cabbage",
+      "portion_estimate": "45 g",
+      "confidence": "78"
+    },
+    {
+      "name": "uncertain breaded vegetable croquettes or falafel",
+      "portion_estimate": "70 g",
+      "confidence": "52"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "88"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "110 g",
+      "confidence": "91"
+    },
+    {
+      "name": "packaged butter pat",
+      "portion_estimate": "10 g",
+      "confidence": "74"
+    }
+  ]
+}

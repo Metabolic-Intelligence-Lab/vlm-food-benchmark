@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetable frittata (or quiche) with tomato, peppers, carrots, peas, and greens",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "pasta (spaghetti) with sauce",
+      "portion_estimate": "300g (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat bun or roll",
+      "portion_estimate": "70g",
+      "confidence": 80
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "water (in a clear plastic cup)",
+      "portion_estimate": "uncertain (volume unclear)",
+      "confidence": 40
+    }
+  ]
+}

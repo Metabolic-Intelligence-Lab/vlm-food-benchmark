@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Salmon",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta with Spinach",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

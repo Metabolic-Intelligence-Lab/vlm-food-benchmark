@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta in tomato sauce, topped with grated Parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Round, crusty bread roll, partially visible at the top left of the image",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Small side salad consisting of diced cucumbers, celery, and carrots, dressed with a light vinaigrette",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Small container of yogurt, likely a fruit or flavored variety, with a red lid",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Glass of water, partially visible at the top right of the image",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

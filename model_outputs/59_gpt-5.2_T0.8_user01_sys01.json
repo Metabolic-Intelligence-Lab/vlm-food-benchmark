@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad (shredded carrot, cucumber slices, leafy greens, small amount of dressing)",
+      "portion_estimate": "140 g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (white bun)",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "plums (whole)",
+      "portion_estimate": "150 g",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked leafy greens (spinach/kale-like)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "small potato gratin/au gratin round with cream sauce and brown gravy",
+      "portion_estimate": "90 g",
+      "confidence": "60"
+    }
+  ]
+}

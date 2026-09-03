@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with Tomato Sauce",
+      "portion_estimate": "100-150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Roasted Potatoes and Vegetables",
+      "portion_estimate": "150-200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Glass of Water",
+      "portion_estimate": "0g",
+      "confidence": "100"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Tomato Soup (with cheese topping)",
+      "portion_estimate": "240 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Roasted Potatoes",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Omelette",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt (in small container)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    }
+  ]
+}

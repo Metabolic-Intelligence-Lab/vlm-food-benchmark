@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken breast",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "creamed vegetables",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "beans in tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "white bread bun",
+      "portion_estimate": "60",
+      "confidence": "80"
+    }
+  ]
+}

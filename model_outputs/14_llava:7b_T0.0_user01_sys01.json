@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Fish fillet",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Salad dressing",
+      "portion_estimate": "1 tablespoon",
+      "confidence": "70"
+    }
+  ]
+}

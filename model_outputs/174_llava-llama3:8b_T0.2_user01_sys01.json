@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fish with tomato and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

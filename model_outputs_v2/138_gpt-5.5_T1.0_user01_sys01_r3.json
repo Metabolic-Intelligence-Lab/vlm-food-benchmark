@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked white rice in mixed dish",
+      "portion_estimate": "220 g",
+      "confidence": "85"
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked leafy greens, likely spinach",
+      "portion_estimate": "50 g",
+      "confidence": "70"
+    },
+    {
+      "name": "small cooked vegetable pieces, possibly potato or onion",
+      "portion_estimate": "30 g",
+      "confidence": "45"
+    }
+  ]
+}

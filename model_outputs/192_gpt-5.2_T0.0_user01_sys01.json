@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried cutlet (likely chicken or pork)",
+      "portion_estimate": "160 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked leafy greens (spinach or similar)",
+      "portion_estimate": "90 g",
+      "confidence": "65"
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "220 g",
+      "confidence": "75"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "180 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    }
+  ]
+}

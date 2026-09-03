@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange soup (likely pumpkin or tomato-based)",
+      "portion_estimate": "300-350 grams",
+      "confidence": 80
+    },
+    {
+      "name": "scrambled egg with vegetables (likely mushrooms and spinach) on a round base",
+      "portion_estimate": "100-120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "roasted potato cubes",
+      "portion_estimate": "100-120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small dinner roll or bread",
+      "portion_estimate": "50-60 grams",
+      "confidence": 70
+    },
+    {
+      "name": "tomato sauce or ketchup packet (Yogo brand)",
+      "portion_estimate": "12 grams (packet size)",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mozzarella sticks with marinara sauce",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mashed potatoes with gravy",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of cooked leafy greens (likely spinach or similar)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "bowl of cooked green beans",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "sandwich with visible yellow spread (likely egg or butter) and white filling (possibly chicken or fish)",
+      "portion_estimate": "50-75 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small piece of bread or cracker",
+      "portion_estimate": "20-30 grams",
+      "confidence": 70
+    },
+    {
+      "name": "small container of yogurt (red lid, 'FOMO' brand)",
+      "portion_estimate": "50-75 grams",
+      "confidence": 80
+    }
+  ]
+}

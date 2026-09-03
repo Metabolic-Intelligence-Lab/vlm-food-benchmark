@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "breaded chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

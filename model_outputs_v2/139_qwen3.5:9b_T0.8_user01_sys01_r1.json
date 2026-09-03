@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken breast with gravy",
+      "portion_estimate": 150,
+      "confidence": 92
+    },
+    {
+      "name": "Mixed vegetables (carrots, onions, celery)",
+      "portion_estimate": 80,
+      "confidence": 88
+    },
+    {
+      "name": "Pasta salad with chicken pieces",
+      "portion_estimate": 160,
+      "confidence": 85
+    },
+    {
+      "name": "Bread roll in wrapper",
+      "portion_estimate": 45,
+      "confidence": 90
+    },
+    {
+      "name": "Yogurt cup (Strawberry flavor)",
+      "portion_estimate": 125,
+      "confidence": 95
+    }
+  ]
+}

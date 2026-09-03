@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken fillet",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "yellow noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "purple figs",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "coleslaw",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

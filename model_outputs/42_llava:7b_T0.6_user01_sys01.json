@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish with sauce",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "1 piece",
+      "confidence": "90"
+    },
+    {
+      "name": "Mushrooms with sauce",
+      "portion_estimate": "80 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Steak with sauce",
+      "portion_estimate": "100 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green vegetable, possibly broccoli",
+      "portion_estimate": "80 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Rice with sauce",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sliced bread",
+      "portion_estimate": "3 slices",
+      "confidence": "60"
+    },
+    {
+      "name": "Sauce on the side, possibly ranch dressing",
+      "portion_estimate": "50 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Red sauce, possibly tomato-based",
+      "portion_estimate": "100 g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed Vegetable Salad",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Grilled Fish Fillet",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Whole Wheat Bread with a spread",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed Vegetables (steamed)",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread Roll with Cheese and Peppers",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Nuts (possibly almonds)",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    },
+    {
+      "name": "Whole Grain Bread Roll with Cheese",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }
+  ]
+}

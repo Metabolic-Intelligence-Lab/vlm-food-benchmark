@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "stir-fried vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "shredded purple cabbage salad",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "apple-like tofu with glaze",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "edible mushroom dish with spices",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

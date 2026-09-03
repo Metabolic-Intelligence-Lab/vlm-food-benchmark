@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with pesto and grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed chickpeas and carrots",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "eggplant with melted cheese and garnish",
+      "portion_estimate": "80 grams",
+      "confidence": "80"
+    }
+  ]
+}

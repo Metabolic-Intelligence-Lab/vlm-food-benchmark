@@ -1,0 +1,26 @@
+{
+  "food_items": [
+    {
+      "name": "green soup",
+      "portion_estimate": "1/2 bowl",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "1 piece",
+      "confidence": "85"
+    },
+    {
+      "name": "garlic bread with melted cheese and butter on top",
+      "portion_estimate": "3 slices",
+      "confidence": "90"
+    },
+    {
+      "name": "meatballs in sauce",
+      "portion_estimate": "1/4 cup",
+      "confidence": "85"
+    }
+  ],
+  "tablecloth": "white with gray pattern",
+  "location": "on a table"
+}

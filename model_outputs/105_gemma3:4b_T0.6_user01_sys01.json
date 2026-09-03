@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Lettuce",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "Red Cabbage",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "30",
+      "confidence": 70
+    },
+    {
+      "name": "Dressing",
+      "portion_estimate": "20",
+      "confidence": 65
+    }
+  ]
+}

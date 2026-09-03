@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Bell Peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Quinoa",
+      "portion_estimate": "uncertain",
+      "confidence": 95
+    },
+    {
+      "name": "Green Salad (Lettuce, Tomatoes, Cucumbers)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Diced Apples",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Olive Oil (Dressing/Sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

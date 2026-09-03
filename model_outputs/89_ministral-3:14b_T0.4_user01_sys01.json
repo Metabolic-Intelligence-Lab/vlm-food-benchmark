@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked white rice (with olive oil drizzle)",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "cooked chickpeas (hummus base or whole)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "onion (roasted or caramelized)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "lemon (whole)",
+      "portion_estimate": "120g",
+      "confidence": 95
+    }
+  ]
+}

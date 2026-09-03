@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with tomato sauce",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Mashed potato cake topped with tomato slice and vegetables (carrots, peas, peppers)",
+      "portion_estimate": 200,
+      "confidence": 90
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": 150,
+      "confidence": 98
+    },
+    {
+      "name": "Bread roll in plastic wrapper",
+      "portion_estimate": 60,
+      "confidence": 92
+    },
+    {
+      "name": "Water",
+      "portion_estimate": 250,
+      "confidence": 95
+    }
+  ]
+}

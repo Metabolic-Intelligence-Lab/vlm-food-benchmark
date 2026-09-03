@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fish with spinach",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Boiled eggs",
+      "portion_estimate": "2",
+      "confidence": "70"
+    },
+    {
+      "name": "Green vegetables (spinach or broccoli)",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Purple fruit (possibly plums)",
+      "portion_estimate": "4",
+      "confidence": "70"
+    }
+  ]
+}

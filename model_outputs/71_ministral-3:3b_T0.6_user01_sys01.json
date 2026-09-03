@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "Frozen pizza slices",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Frozen pizza crust/portion wrapper (non-food component)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

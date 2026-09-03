@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+title: "VLM Food Benchmark"
+type: dataset
+authors:
+  - family-names: Marchetti
+    given-names: Tommaso
+  - family-names: Capezzone
+    given-names: Stefano
+  - family-names: Esposito
+    given-names: Rosita
+  - family-names: De Spirito
+    given-names: Marco
+  - family-names: Maulucci
+    given-names: Giuseppe
+repository-code: "https://github.com/Metabolic-Intelligence-Lab/vlm-food-benchmark"
+license: MIT
+year: 2026

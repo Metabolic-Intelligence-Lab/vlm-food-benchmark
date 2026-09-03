@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": "250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "farro with peas",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "eggplant parmesan slice",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "bananas",
+      "portion_estimate": "120 grams",
+      "confidence": 100
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    }
+  ]
+}

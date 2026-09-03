@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken with orange sauce",
+      "portion_estimate": "uncertain, approx. 100-200g",
+      "confidence": "65"
+    },
+    {
+      "name": "Green leafy vegetables (possibly kale or spinach)",
+      "portion_estimate": "uncertain, approx. 80-150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "approx. 200-300g (pasta), additional unmeasured cheese, approx. 40-60g",
+      "confidence": "95"
+    },
+    {
+      "name": "Baked chicken breast with orange sauce",
+      "portion_estimate": "uncertain, approx. 120-180g",
+      "confidence": "75"
+    },
+    {
+      "name": "Red wine (small portion)",
+      "portion_estimate": "approx. 3 oz",
+      "confidence": "90"
+    }
+  ]
+}

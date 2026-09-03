@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Yellow rice",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Grilled chicken",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Lemon wedge",
+      "portion_estimate": "10 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200 milliliters",
+      "confidence": 80
+    }
+  ]
+}

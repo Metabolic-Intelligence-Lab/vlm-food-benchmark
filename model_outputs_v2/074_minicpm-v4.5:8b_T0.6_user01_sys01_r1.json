@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowtie pasta with vegetables",
+      "portion_estimate": "250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "diced orange bell pepper",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    },
+    {
+      "name": "water (in cup)",
+      "portion_estimate": "200 ml",
+      "confidence": 100
+    }
+  ]
+}

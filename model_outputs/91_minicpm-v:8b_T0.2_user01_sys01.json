@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "plate with chicken and greens",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "dark leafy greens on plate",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "milk carton",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125g",
+      "confidence": "90"
+    }
+  ]
+}

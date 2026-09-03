@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated parmesan",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "baguette bun (wrapped)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "Yogurt (plain, unsweetened, in container)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "Grilled or roasted vegetables (broccoli and potatoes)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "Water (glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Green tea bag (in pouch)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

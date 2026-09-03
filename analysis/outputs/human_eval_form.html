@@ -1,0 +1,1857 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Food-pair annotation</title>
+<style>
+ body { font-family: -apple-system, sans-serif; max-width: 760px; margin: 2rem auto; padding: 0 1rem; }
+ .pair { border: 1px solid #ccc; border-radius: 8px; padding: .8rem 1rem; margin: .6rem 0; }
+ .foods { font-size: 1.05rem; margin-bottom: .4rem; }
+ .foods b { color: #06c; }
+ label { margin-right: 1.2rem; }
+ #out { width: 100%; height: 12rem; margin-top: 1rem; font-family: monospace; }
+ .progress { position: sticky; top: 0; background: #fff; padding: .5rem 0; font-weight: 600; }
+</style></head><body>
+<h2>Are these two descriptions the same food item?</h2>
+<p>For each pair, judge whether description <b>A</b> and description <b>B</b> refer to
+the <i>same food item on a meal tray</i>. Guiding question: <i>would a nutritionist
+tracking this meal consider the item correctly identified?</i> Judge the food's
+IDENTITY, not its attributes (cooking method, brand, variety, extra or missing
+detail).</p>
+<ul>
+<li><b>Same</b> — same identity, even with different specificity or wrong
+attributes. E.g. "100% whole grain pasta with assorted vegetables" vs
+"pasta with carrots and green peas"; "small canned yogurt (tofutti brand)" vs
+"fruit yogurt".</li>
+<li><b>Partial</b> — wrong identity but same family / partial overlap: it got
+<i>what kind of thing</i> but not <i>which</i>. E.g. "steamed kale or collard
+greens" vs "boiled spinach"; "salad" vs "mixed salad with tuna, olives and
+mozzarella" when the salad part is only a fraction of the item.</li>
+<li><b>Different</b> — another food altogether. E.g. "salad with greens and
+vegetables" vs "baked pasta with vegetables".</li>
+</ul>
+<p>Judge name: <input id="judge" placeholder="your name"></p>
+<div class="progress"><span id="done">0</span>/300 answered</div>
+<div class="pair" data-id="P001">
+<div class="foods">P001 &mdash; A: <b>salad with greens and vegetables</b> &nbsp;|&nbsp; B: <b>baked pasta with vegetables</b></div>
+<label><input type="radio" name="P001" value="same"> Same</label>
+<label><input type="radio" name="P001" value="partial"> Partial</label>
+<label><input type="radio" name="P001" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P002">
+<div class="foods">P002 &mdash; A: <b>steamed kale or collard greens</b> &nbsp;|&nbsp; B: <b>boiled spinach</b></div>
+<label><input type="radio" name="P002" value="same"> Same</label>
+<label><input type="radio" name="P002" value="partial"> Partial</label>
+<label><input type="radio" name="P002" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P003">
+<div class="foods">P003 &mdash; A: <b>100% whole grain pasta with assorted vegetables</b> &nbsp;|&nbsp; B: <b>pasta with carrots and green peas</b></div>
+<label><input type="radio" name="P003" value="same"> Same</label>
+<label><input type="radio" name="P003" value="partial"> Partial</label>
+<label><input type="radio" name="P003" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P004">
+<div class="foods">P004 &mdash; A: <b>small canned yogurt (e.g., tofutti brand)</b> &nbsp;|&nbsp; B: <b>fruit yogurt</b></div>
+<label><input type="radio" name="P004" value="same"> Same</label>
+<label><input type="radio" name="P004" value="partial"> Partial</label>
+<label><input type="radio" name="P004" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P005">
+<div class="foods">P005 &mdash; A: <b>breaded potato croquettes</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P005" value="same"> Same</label>
+<label><input type="radio" name="P005" value="partial"> Partial</label>
+<label><input type="radio" name="P005" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P006">
+<div class="foods">P006 &mdash; A: <b>omelette filled with cheese</b> &nbsp;|&nbsp; B: <b>omelette with cheese</b></div>
+<label><input type="radio" name="P006" value="same"> Same</label>
+<label><input type="radio" name="P006" value="partial"> Partial</label>
+<label><input type="radio" name="P006" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P007">
+<div class="foods">P007 &mdash; A: <b>gnocchi with tomato sauce, grated cheese</b> &nbsp;|&nbsp; B: <b>gnocchi with tomato sauce and parmesan</b></div>
+<label><input type="radio" name="P007" value="same"> Same</label>
+<label><input type="radio" name="P007" value="partial"> Partial</label>
+<label><input type="radio" name="P007" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P008">
+<div class="foods">P008 &mdash; A: <b>broccoli or brussels sprouts</b> &nbsp;|&nbsp; B: <b>brussel sprouts</b></div>
+<label><input type="radio" name="P008" value="same"> Same</label>
+<label><input type="radio" name="P008" value="partial"> Partial</label>
+<label><input type="radio" name="P008" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P009">
+<div class="foods">P009 &mdash; A: <b>penne pasta</b> &nbsp;|&nbsp; B: <b>pasta with tuna, olives, tomatoes and mozzarella</b></div>
+<label><input type="radio" name="P009" value="same"> Same</label>
+<label><input type="radio" name="P009" value="partial"> Partial</label>
+<label><input type="radio" name="P009" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P010">
+<div class="foods">P010 &mdash; A: <b>beans</b> &nbsp;|&nbsp; B: <b>beans with tomato sauce</b></div>
+<label><input type="radio" name="P010" value="same"> Same</label>
+<label><input type="radio" name="P010" value="partial"> Partial</label>
+<label><input type="radio" name="P010" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P011">
+<div class="foods">P011 &mdash; A: <b>breaded fried chicken</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P011" value="same"> Same</label>
+<label><input type="radio" name="P011" value="partial"> Partial</label>
+<label><input type="radio" name="P011" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P012">
+<div class="foods">P012 &mdash; A: <b>mashed potato</b> &nbsp;|&nbsp; B: <b>baked potatoes</b></div>
+<label><input type="radio" name="P012" value="same"> Same</label>
+<label><input type="radio" name="P012" value="partial"> Partial</label>
+<label><input type="radio" name="P012" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P013">
+<div class="foods">P013 &mdash; A: <b>mixed salad with tomatoes and lettuce</b> &nbsp;|&nbsp; B: <b>mixed salad with fennels and tomatoes</b></div>
+<label><input type="radio" name="P013" value="same"> Same</label>
+<label><input type="radio" name="P013" value="partial"> Partial</label>
+<label><input type="radio" name="P013" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P014">
+<div class="foods">P014 &mdash; A: <b>pasta bolognese</b> &nbsp;|&nbsp; B: <b>pasta with tomato sauce and parmesan</b></div>
+<label><input type="radio" name="P014" value="same"> Same</label>
+<label><input type="radio" name="P014" value="partial"> Partial</label>
+<label><input type="radio" name="P014" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P015">
+<div class="foods">P015 &mdash; A: <b>strawberry yogurt</b> &nbsp;|&nbsp; B: <b>strawberry yogurt</b></div>
+<label><input type="radio" name="P015" value="same"> Same</label>
+<label><input type="radio" name="P015" value="partial"> Partial</label>
+<label><input type="radio" name="P015" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P016">
+<div class="foods">P016 &mdash; A: <b>mixed vegetables on plate (carrots, brussels sprouts)</b> &nbsp;|&nbsp; B: <b>boiled brussel sprouts and carrots</b></div>
+<label><input type="radio" name="P016" value="same"> Same</label>
+<label><input type="radio" name="P016" value="partial"> Partial</label>
+<label><input type="radio" name="P016" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P017">
+<div class="foods">P017 &mdash; A: <b>diced orange or butternut squash</b> &nbsp;|&nbsp; B: <b>pasta with cherry tomatoes</b></div>
+<label><input type="radio" name="P017" value="same"> Same</label>
+<label><input type="radio" name="P017" value="partial"> Partial</label>
+<label><input type="radio" name="P017" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P018">
+<div class="foods">P018 &mdash; A: <b>breaded fried cutlet (likely chicken or fish)</b> &nbsp;|&nbsp; B: <b>fish cutlet</b></div>
+<label><input type="radio" name="P018" value="same"> Same</label>
+<label><input type="radio" name="P018" value="partial"> Partial</label>
+<label><input type="radio" name="P018" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P019">
+<div class="foods">P019 &mdash; A: <b>omelette</b> &nbsp;|&nbsp; B: <b>omelette</b></div>
+<label><input type="radio" name="P019" value="same"> Same</label>
+<label><input type="radio" name="P019" value="partial"> Partial</label>
+<label><input type="radio" name="P019" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P020">
+<div class="foods">P020 &mdash; A: <b>fried green beans</b> &nbsp;|&nbsp; B: <b>roasted green beans with breadcrumbs</b></div>
+<label><input type="radio" name="P020" value="same"> Same</label>
+<label><input type="radio" name="P020" value="partial"> Partial</label>
+<label><input type="radio" name="P020" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P021">
+<div class="foods">P021 &mdash; A: <b>tater tots</b> &nbsp;|&nbsp; B: <b>roasted potatoes</b></div>
+<label><input type="radio" name="P021" value="same"> Same</label>
+<label><input type="radio" name="P021" value="partial"> Partial</label>
+<label><input type="radio" name="P021" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P022">
+<div class="foods">P022 &mdash; A: <b>pasta salad with peas and cheese</b> &nbsp;|&nbsp; B: <b>boiled peas with ham</b></div>
+<label><input type="radio" name="P022" value="same"> Same</label>
+<label><input type="radio" name="P022" value="partial"> Partial</label>
+<label><input type="radio" name="P022" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P023">
+<div class="foods">P023 &mdash; A: <b>raw carrot slices (cooked or boiled, rounded)</b> &nbsp;|&nbsp; B: <b>boiled carrots</b></div>
+<label><input type="radio" name="P023" value="same"> Same</label>
+<label><input type="radio" name="P023" value="partial"> Partial</label>
+<label><input type="radio" name="P023" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P024">
+<div class="foods">P024 &mdash; A: <b>side salad with balsamic dressing</b> &nbsp;|&nbsp; B: <b>salad with balsamic vinegar</b></div>
+<label><input type="radio" name="P024" value="same"> Same</label>
+<label><input type="radio" name="P024" value="partial"> Partial</label>
+<label><input type="radio" name="P024" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P025">
+<div class="foods">P025 &mdash; A: <b>pasta (penne or rigatoni) with tomato-based sauce and mixed vegetables</b> &nbsp;|&nbsp; B: <b>wholemeal pasta</b></div>
+<label><input type="radio" name="P025" value="same"> Same</label>
+<label><input type="radio" name="P025" value="partial"> Partial</label>
+<label><input type="radio" name="P025" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P026">
+<div class="foods">P026 &mdash; A: <b>roasted brussels sprouts and carrots</b> &nbsp;|&nbsp; B: <b>boiled brussel sprouts and carrots</b></div>
+<label><input type="radio" name="P026" value="same"> Same</label>
+<label><input type="radio" name="P026" value="partial"> Partial</label>
+<label><input type="radio" name="P026" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P027">
+<div class="foods">P027 &mdash; A: <b>baked potato with cheese and broccoli</b> &nbsp;|&nbsp; B: <b>roasted potatoes</b></div>
+<label><input type="radio" name="P027" value="same"> Same</label>
+<label><input type="radio" name="P027" value="partial"> Partial</label>
+<label><input type="radio" name="P027" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P028">
+<div class="foods">P028 &mdash; A: <b>salad with dressing</b> &nbsp;|&nbsp; B: <b>mixed salad with carrots and fennels</b></div>
+<label><input type="radio" name="P028" value="same"> Same</label>
+<label><input type="radio" name="P028" value="partial"> Partial</label>
+<label><input type="radio" name="P028" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P029">
+<div class="foods">P029 &mdash; A: <b>rolled pastry or fried dough (possibly croissant/breadstick)</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P029" value="same"> Same</label>
+<label><input type="radio" name="P029" value="partial"> Partial</label>
+<label><input type="radio" name="P029" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P030">
+<div class="foods">P030 &mdash; A: <b>meat patty (burger-style) topped with shredded zucchini/cucumber</b> &nbsp;|&nbsp; B: <b>burger with courgettes</b></div>
+<label><input type="radio" name="P030" value="same"> Same</label>
+<label><input type="radio" name="P030" value="partial"> Partial</label>
+<label><input type="radio" name="P030" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P031">
+<div class="foods">P031 &mdash; A: <b>side salad with broccoli and vegetables</b> &nbsp;|&nbsp; B: <b>pasta with vegetables and parmesan</b></div>
+<label><input type="radio" name="P031" value="same"> Same</label>
+<label><input type="radio" name="P031" value="partial"> Partial</label>
+<label><input type="radio" name="P031" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P032">
+<div class="foods">P032 &mdash; A: <b>zucchini and onion stir-fry</b> &nbsp;|&nbsp; B: <b>baked courgettes and potatoes</b></div>
+<label><input type="radio" name="P032" value="same"> Same</label>
+<label><input type="radio" name="P032" value="partial"> Partial</label>
+<label><input type="radio" name="P032" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P033">
+<div class="foods">P033 &mdash; A: <b>rice and broccoli</b> &nbsp;|&nbsp; B: <b>boiled cauliflower</b></div>
+<label><input type="radio" name="P033" value="same"> Same</label>
+<label><input type="radio" name="P033" value="partial"> Partial</label>
+<label><input type="radio" name="P033" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P034">
+<div class="foods">P034 &mdash; A: <b>broccoli florets (cooked)</b> &nbsp;|&nbsp; B: <b>broccoli</b></div>
+<label><input type="radio" name="P034" value="same"> Same</label>
+<label><input type="radio" name="P034" value="partial"> Partial</label>
+<label><input type="radio" name="P034" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P035">
+<div class="foods">P035 &mdash; A: <b>mixed salad (greens, carrots, red cabbage)</b> &nbsp;|&nbsp; B: <b>mixed salad with radicchio and carrots</b></div>
+<label><input type="radio" name="P035" value="same"> Same</label>
+<label><input type="radio" name="P035" value="partial"> Partial</label>
+<label><input type="radio" name="P035" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P036">
+<div class="foods">P036 &mdash; A: <b>peach yogurt cup</b> &nbsp;|&nbsp; B: <b>peach yogurt</b></div>
+<label><input type="radio" name="P036" value="same"> Same</label>
+<label><input type="radio" name="P036" value="partial"> Partial</label>
+<label><input type="radio" name="P036" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P037">
+<div class="foods">P037 &mdash; A: <b>green soup with grated cheese on top (e.g., minestrone or similar)</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P037" value="same"> Same</label>
+<label><input type="radio" name="P037" value="partial"> Partial</label>
+<label><input type="radio" name="P037" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P038">
+<div class="foods">P038 &mdash; A: <b>wrapped tortilla</b> &nbsp;|&nbsp; B: <b>vegetable wrap</b></div>
+<label><input type="radio" name="P038" value="same"> Same</label>
+<label><input type="radio" name="P038" value="partial"> Partial</label>
+<label><input type="radio" name="P038" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P039">
+<div class="foods">P039 &mdash; A: <b>green vegetable</b> &nbsp;|&nbsp; B: <b>baked courgettes and potatoes</b></div>
+<label><input type="radio" name="P039" value="same"> Same</label>
+<label><input type="radio" name="P039" value="partial"> Partial</label>
+<label><input type="radio" name="P039" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P040">
+<div class="foods">P040 &mdash; A: <b>quinoa or couscous salad with broccoli rabe/arugula and cheese</b> &nbsp;|&nbsp; B: <b>cous cous with vegetables and chickpeas</b></div>
+<label><input type="radio" name="P040" value="same"> Same</label>
+<label><input type="radio" name="P040" value="partial"> Partial</label>
+<label><input type="radio" name="P040" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P041">
+<div class="foods">P041 &mdash; A: <b>roasted green beans</b> &nbsp;|&nbsp; B: <b>boiled green beans</b></div>
+<label><input type="radio" name="P041" value="same"> Same</label>
+<label><input type="radio" name="P041" value="partial"> Partial</label>
+<label><input type="radio" name="P041" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P042">
+<div class="foods">P042 &mdash; A: <b>pasta salad with sauce</b> &nbsp;|&nbsp; B: <b>pasta with creamy sauce</b></div>
+<label><input type="radio" name="P042" value="same"> Same</label>
+<label><input type="radio" name="P042" value="partial"> Partial</label>
+<label><input type="radio" name="P042" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P043">
+<div class="foods">P043 &mdash; A: <b>roasted vegetables (carrots, potatoes)</b> &nbsp;|&nbsp; B: <b>roasted carrots and potatoes</b></div>
+<label><input type="radio" name="P043" value="same"> Same</label>
+<label><input type="radio" name="P043" value="partial"> Partial</label>
+<label><input type="radio" name="P043" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P044">
+<div class="foods">P044 &mdash; A: <b>crumbled cheese (likely feta or parmesan)</b> &nbsp;|&nbsp; B: <b>pasta with tomato sauce and parmesan</b></div>
+<label><input type="radio" name="P044" value="same"> Same</label>
+<label><input type="radio" name="P044" value="partial"> Partial</label>
+<label><input type="radio" name="P044" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P045">
+<div class="foods">P045 &mdash; A: <b>broiled or baked white fish fillet (possibly cod or pollock)</b> &nbsp;|&nbsp; B: <b>fish filet</b></div>
+<label><input type="radio" name="P045" value="same"> Same</label>
+<label><input type="radio" name="P045" value="partial"> Partial</label>
+<label><input type="radio" name="P045" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P046">
+<div class="foods">P046 &mdash; A: <b>potato</b> &nbsp;|&nbsp; B: <b>roasted potatoes</b></div>
+<label><input type="radio" name="P046" value="same"> Same</label>
+<label><input type="radio" name="P046" value="partial"> Partial</label>
+<label><input type="radio" name="P046" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P047">
+<div class="foods">P047 &mdash; A: <b>boiled pasta</b> &nbsp;|&nbsp; B: <b>pasta with pesto</b></div>
+<label><input type="radio" name="P047" value="same"> Same</label>
+<label><input type="radio" name="P047" value="partial"> Partial</label>
+<label><input type="radio" name="P047" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P048">
+<div class="foods">P048 &mdash; A: <b>cooked white rice (basmati or similar)</b> &nbsp;|&nbsp; B: <b>white rice</b></div>
+<label><input type="radio" name="P048" value="same"> Same</label>
+<label><input type="radio" name="P048" value="partial"> Partial</label>
+<label><input type="radio" name="P048" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P049">
+<div class="foods">P049 &mdash; A: <b>salad</b> &nbsp;|&nbsp; B: <b>baked pasta with vegetables and cheese</b></div>
+<label><input type="radio" name="P049" value="same"> Same</label>
+<label><input type="radio" name="P049" value="partial"> Partial</label>
+<label><input type="radio" name="P049" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P050">
+<div class="foods">P050 &mdash; A: <b>mixed green salad with romaine/leaf lettuce, spinach, and shredded carrots</b> &nbsp;|&nbsp; B: <b>mixed salad with carrots</b></div>
+<label><input type="radio" name="P050" value="same"> Same</label>
+<label><input type="radio" name="P050" value="partial"> Partial</label>
+<label><input type="radio" name="P050" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P051">
+<div class="foods">P051 &mdash; A: <b>yogurt cup (kefir or similar dairy-based drink)</b> &nbsp;|&nbsp; B: <b>mixed salad with carrots</b></div>
+<label><input type="radio" name="P051" value="same"> Same</label>
+<label><input type="radio" name="P051" value="partial"> Partial</label>
+<label><input type="radio" name="P051" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P052">
+<div class="foods">P052 &mdash; A: <b>mixed peas and diced carrots</b> &nbsp;|&nbsp; B: <b>peas and carrots</b></div>
+<label><input type="radio" name="P052" value="same"> Same</label>
+<label><input type="radio" name="P052" value="partial"> Partial</label>
+<label><input type="radio" name="P052" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P053">
+<div class="foods">P053 &mdash; A: <b>steamed cauliflower</b> &nbsp;|&nbsp; B: <b>quiche with spinach</b></div>
+<label><input type="radio" name="P053" value="same"> Same</label>
+<label><input type="radio" name="P053" value="partial"> Partial</label>
+<label><input type="radio" name="P053" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P054">
+<div class="foods">P054 &mdash; A: <b>roasted sweet potatoes</b> &nbsp;|&nbsp; B: <b>roasted potatoes</b></div>
+<label><input type="radio" name="P054" value="same"> Same</label>
+<label><input type="radio" name="P054" value="partial"> Partial</label>
+<label><input type="radio" name="P054" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P055">
+<div class="foods">P055 &mdash; A: <b>baked meatballs in tomato sauce</b> &nbsp;|&nbsp; B: <b>meatballs in tomato sauce</b></div>
+<label><input type="radio" name="P055" value="same"> Same</label>
+<label><input type="radio" name="P055" value="partial"> Partial</label>
+<label><input type="radio" name="P055" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P056">
+<div class="foods">P056 &mdash; A: <b>rounded food balls</b> &nbsp;|&nbsp; B: <b>vegetable meatballs</b></div>
+<label><input type="radio" name="P056" value="same"> Same</label>
+<label><input type="radio" name="P056" value="partial"> Partial</label>
+<label><input type="radio" name="P056" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P057">
+<div class="foods">P057 &mdash; A: <b>carrot and red cabbage salad</b> &nbsp;|&nbsp; B: <b>mixed salad with carrots</b></div>
+<label><input type="radio" name="P057" value="same"> Same</label>
+<label><input type="radio" name="P057" value="partial"> Partial</label>
+<label><input type="radio" name="P057" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P058">
+<div class="foods">P058 &mdash; A: <b>potatoes with skin on</b> &nbsp;|&nbsp; B: <b>pie with potatoes, peppers and tomatoes</b></div>
+<label><input type="radio" name="P058" value="same"> Same</label>
+<label><input type="radio" name="P058" value="partial"> Partial</label>
+<label><input type="radio" name="P058" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P059">
+<div class="foods">P059 &mdash; A: <b>pumpkin</b> &nbsp;|&nbsp; B: <b>boiled pumpkin</b></div>
+<label><input type="radio" name="P059" value="same"> Same</label>
+<label><input type="radio" name="P059" value="partial"> Partial</label>
+<label><input type="radio" name="P059" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P060">
+<div class="foods">P060 &mdash; A: <b>tomato slice</b> &nbsp;|&nbsp; B: <b>pasta with tomatoes</b></div>
+<label><input type="radio" name="P060" value="same"> Same</label>
+<label><input type="radio" name="P060" value="partial"> Partial</label>
+<label><input type="radio" name="P060" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P061">
+<div class="foods">P061 &mdash; A: <b>breaded chicken thighs</b> &nbsp;|&nbsp; B: <b>vegetable meatballs with cheese</b></div>
+<label><input type="radio" name="P061" value="same"> Same</label>
+<label><input type="radio" name="P061" value="partial"> Partial</label>
+<label><input type="radio" name="P061" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P062">
+<div class="foods">P062 &mdash; A: <b>yellowish baked dish (potato/rice-based with topping)</b> &nbsp;|&nbsp; B: <b>baked potatoes</b></div>
+<label><input type="radio" name="P062" value="same"> Same</label>
+<label><input type="radio" name="P062" value="partial"> Partial</label>
+<label><input type="radio" name="P062" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P063">
+<div class="foods">P063 &mdash; A: <b>mixed fresh salad (cucumber, red cabbage, possibly lettuce)</b> &nbsp;|&nbsp; B: <b>mixed salad with cabbage and cucumber</b></div>
+<label><input type="radio" name="P063" value="same"> Same</label>
+<label><input type="radio" name="P063" value="partial"> Partial</label>
+<label><input type="radio" name="P063" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P064">
+<div class="foods">P064 &mdash; A: <b>rigatoni pasta with tomato sauce</b> &nbsp;|&nbsp; B: <b>baked pasta with tomato sauce</b></div>
+<label><input type="radio" name="P064" value="same"> Same</label>
+<label><input type="radio" name="P064" value="partial"> Partial</label>
+<label><input type="radio" name="P064" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P065">
+<div class="foods">P065 &mdash; A: <b>bread roll on plate</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P065" value="same"> Same</label>
+<label><input type="radio" name="P065" value="partial"> Partial</label>
+<label><input type="radio" name="P065" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P066">
+<div class="foods">P066 &mdash; A: <b>whole wheat toast with spinach and cheese</b> &nbsp;|&nbsp; B: <b>bread crouton with spinach and ricotta cheese</b></div>
+<label><input type="radio" name="P066" value="same"> Same</label>
+<label><input type="radio" name="P066" value="partial"> Partial</label>
+<label><input type="radio" name="P066" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P067">
+<div class="foods">P067 &mdash; A: <b>potato croquettes</b> &nbsp;|&nbsp; B: <b>baked potatoes</b></div>
+<label><input type="radio" name="P067" value="same"> Same</label>
+<label><input type="radio" name="P067" value="partial"> Partial</label>
+<label><input type="radio" name="P067" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P068">
+<div class="foods">P068 &mdash; A: <b>mashed potatoes with cheese</b> &nbsp;|&nbsp; B: <b>boiled cauliflower</b></div>
+<label><input type="radio" name="P068" value="same"> Same</label>
+<label><input type="radio" name="P068" value="partial"> Partial</label>
+<label><input type="radio" name="P068" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P069">
+<div class="foods">P069 &mdash; A: <b>plain roll/bread bun (whole or soft)</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P069" value="same"> Same</label>
+<label><input type="radio" name="P069" value="partial"> Partial</label>
+<label><input type="radio" name="P069" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P070">
+<div class="foods">P070 &mdash; A: <b>salted potato chips or crisps (partially visible in bag)</b> &nbsp;|&nbsp; B: <b>baked fennel with boiled potatoes</b></div>
+<label><input type="radio" name="P070" value="same"> Same</label>
+<label><input type="radio" name="P070" value="partial"> Partial</label>
+<label><input type="radio" name="P070" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P071">
+<div class="foods">P071 &mdash; A: <b>tomato soup</b> &nbsp;|&nbsp; B: <b>tomato soup</b></div>
+<label><input type="radio" name="P071" value="same"> Same</label>
+<label><input type="radio" name="P071" value="partial"> Partial</label>
+<label><input type="radio" name="P071" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P072">
+<div class="foods">P072 &mdash; A: <b>meatballs with light sauce</b> &nbsp;|&nbsp; B: <b>meatballs</b></div>
+<label><input type="radio" name="P072" value="same"> Same</label>
+<label><input type="radio" name="P072" value="partial"> Partial</label>
+<label><input type="radio" name="P072" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P073">
+<div class="foods">P073 &mdash; A: <b>breaded vegetable medallions with purple cabbage</b> &nbsp;|&nbsp; B: <b>roasted green beans with breadcrumbs</b></div>
+<label><input type="radio" name="P073" value="same"> Same</label>
+<label><input type="radio" name="P073" value="partial"> Partial</label>
+<label><input type="radio" name="P073" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P074">
+<div class="foods">P074 &mdash; A: <b>penne pasta with pesto sauce and grated parmesan</b> &nbsp;|&nbsp; B: <b>pasta with saffron and parmesan</b></div>
+<label><input type="radio" name="P074" value="same"> Same</label>
+<label><input type="radio" name="P074" value="partial"> Partial</label>
+<label><input type="radio" name="P074" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P075">
+<div class="foods">P075 &mdash; A: <b>bread and lemon wedges</b> &nbsp;|&nbsp; B: <b>quiche with lemon</b></div>
+<label><input type="radio" name="P075" value="same"> Same</label>
+<label><input type="radio" name="P075" value="partial"> Partial</label>
+<label><input type="radio" name="P075" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P076">
+<div class="foods">P076 &mdash; A: <b>grated parmesan cheese (on pasta)</b> &nbsp;|&nbsp; B: <b>pasta with vegetables and parmesan</b></div>
+<label><input type="radio" name="P076" value="same"> Same</label>
+<label><input type="radio" name="P076" value="partial"> Partial</label>
+<label><input type="radio" name="P076" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P077">
+<div class="foods">P077 &mdash; A: <b>beans</b> &nbsp;|&nbsp; B: <b>vegetable burger with lentils</b></div>
+<label><input type="radio" name="P077" value="same"> Same</label>
+<label><input type="radio" name="P077" value="partial"> Partial</label>
+<label><input type="radio" name="P077" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P078">
+<div class="foods">P078 &mdash; A: <b>farfalle pasta with tomato-based sauce (some sausage/ham pieces visible)</b> &nbsp;|&nbsp; B: <b>pasta with cherry tomatoes</b></div>
+<label><input type="radio" name="P078" value="same"> Same</label>
+<label><input type="radio" name="P078" value="partial"> Partial</label>
+<label><input type="radio" name="P078" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P079">
+<div class="foods">P079 &mdash; A: <b>mixed greens salad</b> &nbsp;|&nbsp; B: <b>baked vegetables with tomato and mozzarella cheese</b></div>
+<label><input type="radio" name="P079" value="same"> Same</label>
+<label><input type="radio" name="P079" value="partial"> Partial</label>
+<label><input type="radio" name="P079" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P080">
+<div class="foods">P080 &mdash; A: <b>chickpeas</b> &nbsp;|&nbsp; B: <b>boiled chickpeas</b></div>
+<label><input type="radio" name="P080" value="same"> Same</label>
+<label><input type="radio" name="P080" value="partial"> Partial</label>
+<label><input type="radio" name="P080" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P081">
+<div class="foods">P081 &mdash; A: <b>fried chicken or veal</b> &nbsp;|&nbsp; B: <b>vegetable meatballs with cheese</b></div>
+<label><input type="radio" name="P081" value="same"> Same</label>
+<label><input type="radio" name="P081" value="partial"> Partial</label>
+<label><input type="radio" name="P081" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P082">
+<div class="foods">P082 &mdash; A: <b>chickpeas in tomato sauce (stew or soup)</b> &nbsp;|&nbsp; B: <b>gnocchi with tomato sauce and parmesan</b></div>
+<label><input type="radio" name="P082" value="same"> Same</label>
+<label><input type="radio" name="P082" value="partial"> Partial</label>
+<label><input type="radio" name="P082" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P083">
+<div class="foods">P083 &mdash; A: <b>green beans with breaded meatballs (plate)</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P083" value="same"> Same</label>
+<label><input type="radio" name="P083" value="partial"> Partial</label>
+<label><input type="radio" name="P083" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P084">
+<div class="foods">P084 &mdash; A: <b>grilled meat with sauce</b> &nbsp;|&nbsp; B: <b>meatloaf</b></div>
+<label><input type="radio" name="P084" value="same"> Same</label>
+<label><input type="radio" name="P084" value="partial"> Partial</label>
+<label><input type="radio" name="P084" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P085">
+<div class="foods">P085 &mdash; A: <b>pasta salad with shrimp, carrots, and tomatoes</b> &nbsp;|&nbsp; B: <b>pasta with carrots, olives, tomatoes, tuna and cooked ham</b></div>
+<label><input type="radio" name="P085" value="same"> Same</label>
+<label><input type="radio" name="P085" value="partial"> Partial</label>
+<label><input type="radio" name="P085" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P086">
+<div class="foods">P086 &mdash; A: <b>cheese and spinach stuffed pasta shell</b> &nbsp;|&nbsp; B: <b>crepe with spinach and mozzarella cheese</b></div>
+<label><input type="radio" name="P086" value="same"> Same</label>
+<label><input type="radio" name="P086" value="partial"> Partial</label>
+<label><input type="radio" name="P086" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P087">
+<div class="foods">P087 &mdash; A: <b>plate of farro with peas</b> &nbsp;|&nbsp; B: <b>omelette with vegetables</b></div>
+<label><input type="radio" name="P087" value="same"> Same</label>
+<label><input type="radio" name="P087" value="partial"> Partial</label>
+<label><input type="radio" name="P087" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P088">
+<div class="foods">P088 &mdash; A: <b>yogurt-like substance</b> &nbsp;|&nbsp; B: <b>fruit yogurt</b></div>
+<label><input type="radio" name="P088" value="same"> Same</label>
+<label><input type="radio" name="P088" value="partial"> Partial</label>
+<label><input type="radio" name="P088" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P089">
+<div class="foods">P089 &mdash; A: <b>fried potato dish</b> &nbsp;|&nbsp; B: <b>baked potatoes</b></div>
+<label><input type="radio" name="P089" value="same"> Same</label>
+<label><input type="radio" name="P089" value="partial"> Partial</label>
+<label><input type="radio" name="P089" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P090">
+<div class="foods">P090 &mdash; A: <b>mixed vegetable salad</b> &nbsp;|&nbsp; B: <b>baked cauliflower</b></div>
+<label><input type="radio" name="P090" value="same"> Same</label>
+<label><input type="radio" name="P090" value="partial"> Partial</label>
+<label><input type="radio" name="P090" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P091">
+<div class="foods">P091 &mdash; A: <b>pesto pasta with breadcrumbs and sautéed broccoli florets</b> &nbsp;|&nbsp; B: <b>vegetarian loaf</b></div>
+<label><input type="radio" name="P091" value="same"> Same</label>
+<label><input type="radio" name="P091" value="partial"> Partial</label>
+<label><input type="radio" name="P091" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P092">
+<div class="foods">P092 &mdash; A: <b>sauce/dip (e.g., tomato-based or mayonnaise, small tub)</b> &nbsp;|&nbsp; B: <b>gnocchi with tomato sauce and parmesan</b></div>
+<label><input type="radio" name="P092" value="same"> Same</label>
+<label><input type="radio" name="P092" value="partial"> Partial</label>
+<label><input type="radio" name="P092" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P093">
+<div class="foods">P093 &mdash; A: <b>green vegetables, possibly spinach or kale</b> &nbsp;|&nbsp; B: <b>spinach</b></div>
+<label><input type="radio" name="P093" value="same"> Same</label>
+<label><input type="radio" name="P093" value="partial"> Partial</label>
+<label><input type="radio" name="P093" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P094">
+<div class="foods">P094 &mdash; A: <b>bun</b> &nbsp;|&nbsp; B: <b>baked pasta with tomato sauce and parmesan</b></div>
+<label><input type="radio" name="P094" value="same"> Same</label>
+<label><input type="radio" name="P094" value="partial"> Partial</label>
+<label><input type="radio" name="P094" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P095">
+<div class="foods">P095 &mdash; A: <b>potato salad (potato pieces in creamy mayonnaise-based dressing)</b> &nbsp;|&nbsp; B: <b>potato salad</b></div>
+<label><input type="radio" name="P095" value="same"> Same</label>
+<label><input type="radio" name="P095" value="partial"> Partial</label>
+<label><input type="radio" name="P095" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P096">
+<div class="foods">P096 &mdash; A: <b>pasta (macaroni or spaghetti)</b> &nbsp;|&nbsp; B: <b>white pasta</b></div>
+<label><input type="radio" name="P096" value="same"> Same</label>
+<label><input type="radio" name="P096" value="partial"> Partial</label>
+<label><input type="radio" name="P096" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P097">
+<div class="foods">P097 &mdash; A: <b>breadsticks (packaged)</b> &nbsp;|&nbsp; B: <b>breadsticks</b></div>
+<label><input type="radio" name="P097" value="same"> Same</label>
+<label><input type="radio" name="P097" value="partial"> Partial</label>
+<label><input type="radio" name="P097" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P098">
+<div class="foods">P098 &mdash; A: <b>tomato-based soup with croutons</b> &nbsp;|&nbsp; B: <b>omelette with onions</b></div>
+<label><input type="radio" name="P098" value="same"> Same</label>
+<label><input type="radio" name="P098" value="partial"> Partial</label>
+<label><input type="radio" name="P098" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P099">
+<div class="foods">P099 &mdash; A: <b>fried egg (sunny-side up)</b> &nbsp;|&nbsp; B: <b>fried egg</b></div>
+<label><input type="radio" name="P099" value="same"> Same</label>
+<label><input type="radio" name="P099" value="partial"> Partial</label>
+<label><input type="radio" name="P099" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P100">
+<div class="foods">P100 &mdash; A: <b>roasted mixed vegetables (carrots, peppers, onions)</b> &nbsp;|&nbsp; B: <b>potatoes and broccoli</b></div>
+<label><input type="radio" name="P100" value="same"> Same</label>
+<label><input type="radio" name="P100" value="partial"> Partial</label>
+<label><input type="radio" name="P100" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P101">
+<div class="foods">P101 &mdash; A: <b>cooked spinach or greens</b> &nbsp;|&nbsp; B: <b>spinach</b></div>
+<label><input type="radio" name="P101" value="same"> Same</label>
+<label><input type="radio" name="P101" value="partial"> Partial</label>
+<label><input type="radio" name="P101" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P102">
+<div class="foods">P102 &mdash; A: <b>sliced whole grain bread</b> &nbsp;|&nbsp; B: <b>breaded fish</b></div>
+<label><input type="radio" name="P102" value="same"> Same</label>
+<label><input type="radio" name="P102" value="partial"> Partial</label>
+<label><input type="radio" name="P102" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P103">
+<div class="foods">P103 &mdash; A: <b>salad with lettuce, tomatoes, olives, and tuna</b> &nbsp;|&nbsp; B: <b>mixed salad with lettuce, tomatoes, tuna, black olives and mozzarella</b></div>
+<label><input type="radio" name="P103" value="same"> Same</label>
+<label><input type="radio" name="P103" value="partial"> Partial</label>
+<label><input type="radio" name="P103" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P104">
+<div class="foods">P104 &mdash; A: <b>pasta (likely penne or rigatoni)</b> &nbsp;|&nbsp; B: <b>pasta with carrots, cabbage and beans</b></div>
+<label><input type="radio" name="P104" value="same"> Same</label>
+<label><input type="radio" name="P104" value="partial"> Partial</label>
+<label><input type="radio" name="P104" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P105">
+<div class="foods">P105 &mdash; A: <b>roasted vegetables (broccoli and carrots)</b> &nbsp;|&nbsp; B: <b>boiled brussel sprouts and carrots</b></div>
+<label><input type="radio" name="P105" value="same"> Same</label>
+<label><input type="radio" name="P105" value="partial"> Partial</label>
+<label><input type="radio" name="P105" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P106">
+<div class="foods">P106 &mdash; A: <b>yogurt (plain, in a disposable cup)</b> &nbsp;|&nbsp; B: <b>fruit yogurt</b></div>
+<label><input type="radio" name="P106" value="same"> Same</label>
+<label><input type="radio" name="P106" value="partial"> Partial</label>
+<label><input type="radio" name="P106" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P107">
+<div class="foods">P107 &mdash; A: <b>pasta with pesto sauce</b> &nbsp;|&nbsp; B: <b>pasta with pesto</b></div>
+<label><input type="radio" name="P107" value="same"> Same</label>
+<label><input type="radio" name="P107" value="partial"> Partial</label>
+<label><input type="radio" name="P107" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P108">
+<div class="foods">P108 &mdash; A: <b>baked potato (with brown sauce)</b> &nbsp;|&nbsp; B: <b>roasted broccoli and potatoes</b></div>
+<label><input type="radio" name="P108" value="same"> Same</label>
+<label><input type="radio" name="P108" value="partial"> Partial</label>
+<label><input type="radio" name="P108" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P109">
+<div class="foods">P109 &mdash; A: <b>salad</b> &nbsp;|&nbsp; B: <b>salad</b></div>
+<label><input type="radio" name="P109" value="same"> Same</label>
+<label><input type="radio" name="P109" value="partial"> Partial</label>
+<label><input type="radio" name="P109" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P110">
+<div class="foods">P110 &mdash; A: <b>baked potato or hash browns</b> &nbsp;|&nbsp; B: <b>boiled broccoli</b></div>
+<label><input type="radio" name="P110" value="same"> Same</label>
+<label><input type="radio" name="P110" value="partial"> Partial</label>
+<label><input type="radio" name="P110" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P111">
+<div class="foods">P111 &mdash; A: <b>bowl of salad containing lettuce and possibly other greens</b> &nbsp;|&nbsp; B: <b>baked pasta with tomato sauce</b></div>
+<label><input type="radio" name="P111" value="same"> Same</label>
+<label><input type="radio" name="P111" value="partial"> Partial</label>
+<label><input type="radio" name="P111" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P112">
+<div class="foods">P112 &mdash; A: <b>cherry yogurt cup</b> &nbsp;|&nbsp; B: <b>cherry yogurt</b></div>
+<label><input type="radio" name="P112" value="same"> Same</label>
+<label><input type="radio" name="P112" value="partial"> Partial</label>
+<label><input type="radio" name="P112" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P113">
+<div class="foods">P113 &mdash; A: <b>pasta (penne) with cheese and herbs</b> &nbsp;|&nbsp; B: <b>pasta with tomatoes and parmesan</b></div>
+<label><input type="radio" name="P113" value="same"> Same</label>
+<label><input type="radio" name="P113" value="partial"> Partial</label>
+<label><input type="radio" name="P113" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P114">
+<div class="foods">P114 &mdash; A: <b>sautéed mixed vegetables (diced carrots and onions)</b> &nbsp;|&nbsp; B: <b>boiled potatoes and carrots</b></div>
+<label><input type="radio" name="P114" value="same"> Same</label>
+<label><input type="radio" name="P114" value="partial"> Partial</label>
+<label><input type="radio" name="P114" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P115">
+<div class="foods">P115 &mdash; A: <b>sausage with vegetables in a glass dish</b> &nbsp;|&nbsp; B: <b>sausage and bell peppers</b></div>
+<label><input type="radio" name="P115" value="same"> Same</label>
+<label><input type="radio" name="P115" value="partial"> Partial</label>
+<label><input type="radio" name="P115" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P116">
+<div class="foods">P116 &mdash; A: <b>pasta with tomato-based sauce</b> &nbsp;|&nbsp; B: <b>pasta with tomato and eggplant</b></div>
+<label><input type="radio" name="P116" value="same"> Same</label>
+<label><input type="radio" name="P116" value="partial"> Partial</label>
+<label><input type="radio" name="P116" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P117">
+<div class="foods">P117 &mdash; A: <b>lasagna-like pasta dish with cheese and tomato sauce</b> &nbsp;|&nbsp; B: <b>baked pasta</b></div>
+<label><input type="radio" name="P117" value="same"> Same</label>
+<label><input type="radio" name="P117" value="partial"> Partial</label>
+<label><input type="radio" name="P117" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P118">
+<div class="foods">P118 &mdash; A: <b>bowl of salad with carrots and lettuce</b> &nbsp;|&nbsp; B: <b>mixed salad with carrots</b></div>
+<label><input type="radio" name="P118" value="same"> Same</label>
+<label><input type="radio" name="P118" value="partial"> Partial</label>
+<label><input type="radio" name="P118" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P119">
+<div class="foods">P119 &mdash; A: <b>breaded fish pieces (likely white fish)</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P119" value="same"> Same</label>
+<label><input type="radio" name="P119" value="partial"> Partial</label>
+<label><input type="radio" name="P119" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P120">
+<div class="foods">P120 &mdash; A: <b>multi-grain or whole wheat bread roll</b> &nbsp;|&nbsp; B: <b>cherry yogurt</b></div>
+<label><input type="radio" name="P120" value="same"> Same</label>
+<label><input type="radio" name="P120" value="partial"> Partial</label>
+<label><input type="radio" name="P120" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P121">
+<div class="foods">P121 &mdash; A: <b>salad with broccoli and other vegetables</b> &nbsp;|&nbsp; B: <b>banana</b></div>
+<label><input type="radio" name="P121" value="same"> Same</label>
+<label><input type="radio" name="P121" value="partial"> Partial</label>
+<label><input type="radio" name="P121" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P122">
+<div class="foods">P122 &mdash; A: <b>broth-based soup with cheese sprinkle (likely cheese soup or potato soup)</b> &nbsp;|&nbsp; B: <b>water</b></div>
+<label><input type="radio" name="P122" value="same"> Same</label>
+<label><input type="radio" name="P122" value="partial"> Partial</label>
+<label><input type="radio" name="P122" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P123">
+<div class="foods">P123 &mdash; A: <b>baked bread roll (in plastic bag)</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P123" value="same"> Same</label>
+<label><input type="radio" name="P123" value="partial"> Partial</label>
+<label><input type="radio" name="P123" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P124">
+<div class="foods">P124 &mdash; A: <b>meat, fish or sandwich</b> &nbsp;|&nbsp; B: <b>vegetable meatballs with cheese</b></div>
+<label><input type="radio" name="P124" value="same"> Same</label>
+<label><input type="radio" name="P124" value="partial"> Partial</label>
+<label><input type="radio" name="P124" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P125">
+<div class="foods">P125 &mdash; A: <b>sliced watermelon</b> &nbsp;|&nbsp; B: <b>watermelon</b></div>
+<label><input type="radio" name="P125" value="same"> Same</label>
+<label><input type="radio" name="P125" value="partial"> Partial</label>
+<label><input type="radio" name="P125" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P126">
+<div class="foods">P126 &mdash; A: <b>breaded and fried potato chunks (possibly hash browns or croquette)</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P126" value="same"> Same</label>
+<label><input type="radio" name="P126" value="partial"> Partial</label>
+<label><input type="radio" name="P126" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P127">
+<div class="foods">P127 &mdash; A: <b>salad with cucumbers, carrots and red cabbage</b> &nbsp;|&nbsp; B: <b>mixed salad with radicchio, carrots and cucumber</b></div>
+<label><input type="radio" name="P127" value="same"> Same</label>
+<label><input type="radio" name="P127" value="partial"> Partial</label>
+<label><input type="radio" name="P127" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P128">
+<div class="foods">P128 &mdash; A: <b>penne pasta with tomato sauce</b> &nbsp;|&nbsp; B: <b>pasta with tomato sauce, carrots and peas</b></div>
+<label><input type="radio" name="P128" value="same"> Same</label>
+<label><input type="radio" name="P128" value="partial"> Partial</label>
+<label><input type="radio" name="P128" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P129">
+<div class="foods">P129 &mdash; A: <b>piece of quiche</b> &nbsp;|&nbsp; B: <b>vegetable quiche</b></div>
+<label><input type="radio" name="P129" value="same"> Same</label>
+<label><input type="radio" name="P129" value="partial"> Partial</label>
+<label><input type="radio" name="P129" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P130">
+<div class="foods">P130 &mdash; A: <b>bowl of mixed greens and shredded carrots</b> &nbsp;|&nbsp; B: <b>mixed salad with carrots</b></div>
+<label><input type="radio" name="P130" value="same"> Same</label>
+<label><input type="radio" name="P130" value="partial"> Partial</label>
+<label><input type="radio" name="P130" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P131">
+<div class="foods">P131 &mdash; A: <b>yogurt or dessert ice (vomo brand, 125g container)</b> &nbsp;|&nbsp; B: <b>fruit yogurt</b></div>
+<label><input type="radio" name="P131" value="same"> Same</label>
+<label><input type="radio" name="P131" value="partial"> Partial</label>
+<label><input type="radio" name="P131" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P132">
+<div class="foods">P132 &mdash; A: <b>white beans with olive oil and herbs (e.g., butter beans or cannellini beans)</b> &nbsp;|&nbsp; B: <b>mackerel</b></div>
+<label><input type="radio" name="P132" value="same"> Same</label>
+<label><input type="radio" name="P132" value="partial"> Partial</label>
+<label><input type="radio" name="P132" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P133">
+<div class="foods">P133 &mdash; A: <b>yogurt (container)</b> &nbsp;|&nbsp; B: <b>fruit yogurt</b></div>
+<label><input type="radio" name="P133" value="same"> Same</label>
+<label><input type="radio" name="P133" value="partial"> Partial</label>
+<label><input type="radio" name="P133" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P134">
+<div class="foods">P134 &mdash; A: <b>mixed salad (cucumber, radicchio, carrot, cabbage)</b> &nbsp;|&nbsp; B: <b>pasta with pumpkin and parmesan</b></div>
+<label><input type="radio" name="P134" value="same"> Same</label>
+<label><input type="radio" name="P134" value="partial"> Partial</label>
+<label><input type="radio" name="P134" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P135">
+<div class="foods">P135 &mdash; A: <b>sautéed spinach or greens</b> &nbsp;|&nbsp; B: <b>fried egg</b></div>
+<label><input type="radio" name="P135" value="same"> Same</label>
+<label><input type="radio" name="P135" value="partial"> Partial</label>
+<label><input type="radio" name="P135" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P136">
+<div class="foods">P136 &mdash; A: <b>lentils</b> &nbsp;|&nbsp; B: <b>lentils</b></div>
+<label><input type="radio" name="P136" value="same"> Same</label>
+<label><input type="radio" name="P136" value="partial"> Partial</label>
+<label><input type="radio" name="P136" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P137">
+<div class="foods">P137 &mdash; A: <b>whole grain or sourdough bread slice</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P137" value="same"> Same</label>
+<label><input type="radio" name="P137" value="partial"> Partial</label>
+<label><input type="radio" name="P137" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P138">
+<div class="foods">P138 &mdash; A: <b>salad bowl</b> &nbsp;|&nbsp; B: <b>mixed salad with lettuce, tomatoes, tuna, black olives and mozzarella</b></div>
+<label><input type="radio" name="P138" value="same"> Same</label>
+<label><input type="radio" name="P138" value="partial"> Partial</label>
+<label><input type="radio" name="P138" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P139">
+<div class="foods">P139 &mdash; A: <b>chicken cutlet</b> &nbsp;|&nbsp; B: <b>fish cutlet</b></div>
+<label><input type="radio" name="P139" value="same"> Same</label>
+<label><input type="radio" name="P139" value="partial"> Partial</label>
+<label><input type="radio" name="P139" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P140">
+<div class="foods">P140 &mdash; A: <b>pasta with tomato sauce and vegetables</b> &nbsp;|&nbsp; B: <b>pasta with tomatoes</b></div>
+<label><input type="radio" name="P140" value="same"> Same</label>
+<label><input type="radio" name="P140" value="partial"> Partial</label>
+<label><input type="radio" name="P140" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P141">
+<div class="foods">P141 &mdash; A: <b>plastic-wrapped bread roll (e.g., dinner roll)</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P141" value="same"> Same</label>
+<label><input type="radio" name="P141" value="partial"> Partial</label>
+<label><input type="radio" name="P141" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P142">
+<div class="foods">P142 &mdash; A: <b>pasta with cheese and vegetables</b> &nbsp;|&nbsp; B: <b>pasta with radicchio and parmesan</b></div>
+<label><input type="radio" name="P142" value="same"> Same</label>
+<label><input type="radio" name="P142" value="partial"> Partial</label>
+<label><input type="radio" name="P142" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P143">
+<div class="foods">P143 &mdash; A: <b>salad mix (lettuce, tomatoes, possibly cucumber, cheese)</b> &nbsp;|&nbsp; B: <b>mixed salad</b></div>
+<label><input type="radio" name="P143" value="same"> Same</label>
+<label><input type="radio" name="P143" value="partial"> Partial</label>
+<label><input type="radio" name="P143" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P144">
+<div class="foods">P144 &mdash; A: <b>mixed vegetable salad (cabbage, cucumber, carrot, and possibly radish)</b> &nbsp;|&nbsp; B: <b>rice with spinach and beans</b></div>
+<label><input type="radio" name="P144" value="same"> Same</label>
+<label><input type="radio" name="P144" value="partial"> Partial</label>
+<label><input type="radio" name="P144" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P145">
+<div class="foods">P145 &mdash; A: <b>mixed salad with radicchio and carrots</b> &nbsp;|&nbsp; B: <b>mixed salad with radicchio and carrots</b></div>
+<label><input type="radio" name="P145" value="same"> Same</label>
+<label><input type="radio" name="P145" value="partial"> Partial</label>
+<label><input type="radio" name="P145" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P146">
+<div class="foods">P146 &mdash; A: <b>stuffed pasta with cheese and spinach</b> &nbsp;|&nbsp; B: <b>pasta with tomato and eggplant</b></div>
+<label><input type="radio" name="P146" value="same"> Same</label>
+<label><input type="radio" name="P146" value="partial"> Partial</label>
+<label><input type="radio" name="P146" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P147">
+<div class="foods">P147 &mdash; A: <b>mashed potatoes and corn</b> &nbsp;|&nbsp; B: <b>baked pasta with tomato sauce</b></div>
+<label><input type="radio" name="P147" value="same"> Same</label>
+<label><input type="radio" name="P147" value="partial"> Partial</label>
+<label><input type="radio" name="P147" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P148">
+<div class="foods">P148 &mdash; A: <b>pasta with tomatoes</b> &nbsp;|&nbsp; B: <b>whole pasta with tomato sauce and parmesan</b></div>
+<label><input type="radio" name="P148" value="same"> Same</label>
+<label><input type="radio" name="P148" value="partial"> Partial</label>
+<label><input type="radio" name="P148" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P149">
+<div class="foods">P149 &mdash; A: <b>tortilla or wrap with red filling (likely tomato-based) and cheese</b> &nbsp;|&nbsp; B: <b>flatbread with cheese and tomatoes</b></div>
+<label><input type="radio" name="P149" value="same"> Same</label>
+<label><input type="radio" name="P149" value="partial"> Partial</label>
+<label><input type="radio" name="P149" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P150">
+<div class="foods">P150 &mdash; A: <b>pasta and vegetables</b> &nbsp;|&nbsp; B: <b>whole pasta with pesto and parmesan</b></div>
+<label><input type="radio" name="P150" value="same"> Same</label>
+<label><input type="radio" name="P150" value="partial"> Partial</label>
+<label><input type="radio" name="P150" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P151">
+<div class="foods">P151 &mdash; A: <b>breaded fish</b> &nbsp;|&nbsp; B: <b>fish filet</b></div>
+<label><input type="radio" name="P151" value="same"> Same</label>
+<label><input type="radio" name="P151" value="partial"> Partial</label>
+<label><input type="radio" name="P151" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P152">
+<div class="foods">P152 &mdash; A: <b>garlic bread or toasted baguette slice</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P152" value="same"> Same</label>
+<label><input type="radio" name="P152" value="partial"> Partial</label>
+<label><input type="radio" name="P152" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P153">
+<div class="foods">P153 &mdash; A: <b>chickpeas and fish</b> &nbsp;|&nbsp; B: <b>chickpeas</b></div>
+<label><input type="radio" name="P153" value="same"> Same</label>
+<label><input type="radio" name="P153" value="partial"> Partial</label>
+<label><input type="radio" name="P153" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P154">
+<div class="foods">P154 &mdash; A: <b>mixed salad with grilled chicken, cherry tomatoes, lettuce, and mozzarella</b> &nbsp;|&nbsp; B: <b>mixed salad with lettuce, tomatoes, tuna, black olives and mozzarella</b></div>
+<label><input type="radio" name="P154" value="same"> Same</label>
+<label><input type="radio" name="P154" value="partial"> Partial</label>
+<label><input type="radio" name="P154" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P155">
+<div class="foods">P155 &mdash; A: <b>package of bread</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P155" value="same"> Same</label>
+<label><input type="radio" name="P155" value="partial"> Partial</label>
+<label><input type="radio" name="P155" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P156">
+<div class="foods">P156 &mdash; A: <b>meat</b> &nbsp;|&nbsp; B: <b>baked carrots and potatoes</b></div>
+<label><input type="radio" name="P156" value="same"> Same</label>
+<label><input type="radio" name="P156" value="partial"> Partial</label>
+<label><input type="radio" name="P156" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P157">
+<div class="foods">P157 &mdash; A: <b>roasted potatoes and green vegetables (e.g., cauliflower or zucchini)</b> &nbsp;|&nbsp; B: <b>boiled courgettes and potatoes</b></div>
+<label><input type="radio" name="P157" value="same"> Same</label>
+<label><input type="radio" name="P157" value="partial"> Partial</label>
+<label><input type="radio" name="P157" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P158">
+<div class="foods">P158 &mdash; A: <b>packaged cheese (cubed, likely cheddar or similar)</b> &nbsp;|&nbsp; B: <b>baked vegetables with tomato and mozzarella cheese</b></div>
+<label><input type="radio" name="P158" value="same"> Same</label>
+<label><input type="radio" name="P158" value="partial"> Partial</label>
+<label><input type="radio" name="P158" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P159">
+<div class="foods">P159 &mdash; A: <b>whole wheat bread slice (or sandwich bread)</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P159" value="same"> Same</label>
+<label><input type="radio" name="P159" value="partial"> Partial</label>
+<label><input type="radio" name="P159" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P160">
+<div class="foods">P160 &mdash; A: <b>steamed vegetables (carrots, potatoes, and/or other)</b> &nbsp;|&nbsp; B: <b>boiled potatoes, carrots and brussel sprouts</b></div>
+<label><input type="radio" name="P160" value="same"> Same</label>
+<label><input type="radio" name="P160" value="partial"> Partial</label>
+<label><input type="radio" name="P160" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P161">
+<div class="foods">P161 &mdash; A: <b>soup (possibly vegetable or lentil)</b> &nbsp;|&nbsp; B: <b>vegetable soup with parmesan</b></div>
+<label><input type="radio" name="P161" value="same"> Same</label>
+<label><input type="radio" name="P161" value="partial"> Partial</label>
+<label><input type="radio" name="P161" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P162">
+<div class="foods">P162 &mdash; A: <b>green vegetable</b> &nbsp;|&nbsp; B: <b>baked fennel with boiled potatoes</b></div>
+<label><input type="radio" name="P162" value="same"> Same</label>
+<label><input type="radio" name="P162" value="partial"> Partial</label>
+<label><input type="radio" name="P162" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P163">
+<div class="foods">P163 &mdash; A: <b>bowl of pasta with cheese</b> &nbsp;|&nbsp; B: <b>pasta with pesto and parmesan</b></div>
+<label><input type="radio" name="P163" value="same"> Same</label>
+<label><input type="radio" name="P163" value="partial"> Partial</label>
+<label><input type="radio" name="P163" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P164">
+<div class="foods">P164 &mdash; A: <b>savory spinach and cheese quiche slice</b> &nbsp;|&nbsp; B: <b>quiche with spinach</b></div>
+<label><input type="radio" name="P164" value="same"> Same</label>
+<label><input type="radio" name="P164" value="partial"> Partial</label>
+<label><input type="radio" name="P164" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P165">
+<div class="foods">P165 &mdash; A: <b>potatoes (diced and roasted)</b> &nbsp;|&nbsp; B: <b>baked potatoes</b></div>
+<label><input type="radio" name="P165" value="same"> Same</label>
+<label><input type="radio" name="P165" value="partial"> Partial</label>
+<label><input type="radio" name="P165" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P166">
+<div class="foods">P166 &mdash; A: <b>sweet pastry or cake</b> &nbsp;|&nbsp; B: <b>sweet snacks with chocolate</b></div>
+<label><input type="radio" name="P166" value="same"> Same</label>
+<label><input type="radio" name="P166" value="partial"> Partial</label>
+<label><input type="radio" name="P166" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P167">
+<div class="foods">P167 &mdash; A: <b>rice and beans</b> &nbsp;|&nbsp; B: <b>green beans</b></div>
+<label><input type="radio" name="P167" value="same"> Same</label>
+<label><input type="radio" name="P167" value="partial"> Partial</label>
+<label><input type="radio" name="P167" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P168">
+<div class="foods">P168 &mdash; A: <b>plate of spaghetti with tomato sauce</b> &nbsp;|&nbsp; B: <b>spaghetti with tomato sauce</b></div>
+<label><input type="radio" name="P168" value="same"> Same</label>
+<label><input type="radio" name="P168" value="partial"> Partial</label>
+<label><input type="radio" name="P168" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P169">
+<div class="foods">P169 &mdash; A: <b>pasta with tomato sauce</b> &nbsp;|&nbsp; B: <b>pasta with tomatoes</b></div>
+<label><input type="radio" name="P169" value="same"> Same</label>
+<label><input type="radio" name="P169" value="partial"> Partial</label>
+<label><input type="radio" name="P169" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P170">
+<div class="foods">P170 &mdash; A: <b>shredded carrots and brussels sprouts</b> &nbsp;|&nbsp; B: <b>boiled brussel sprouts and carrots</b></div>
+<label><input type="radio" name="P170" value="same"> Same</label>
+<label><input type="radio" name="P170" value="partial"> Partial</label>
+<label><input type="radio" name="P170" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P171">
+<div class="foods">P171 &mdash; A: <b>baby spinach salad</b> &nbsp;|&nbsp; B: <b>boiled spinach</b></div>
+<label><input type="radio" name="P171" value="same"> Same</label>
+<label><input type="radio" name="P171" value="partial"> Partial</label>
+<label><input type="radio" name="P171" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P172">
+<div class="foods">P172 &mdash; A: <b>boiled cauliflower with olives</b> &nbsp;|&nbsp; B: <b>boiled cauliflower with olives</b></div>
+<label><input type="radio" name="P172" value="same"> Same</label>
+<label><input type="radio" name="P172" value="partial"> Partial</label>
+<label><input type="radio" name="P172" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P173">
+<div class="foods">P173 &mdash; A: <b>bowl of mixed salad</b> &nbsp;|&nbsp; B: <b>radicchio and fennel salad</b></div>
+<label><input type="radio" name="P173" value="same"> Same</label>
+<label><input type="radio" name="P173" value="partial"> Partial</label>
+<label><input type="radio" name="P173" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P174">
+<div class="foods">P174 &mdash; A: <b>bowl of soup with a ladle</b> &nbsp;|&nbsp; B: <b>vegetable soup with parmesan</b></div>
+<label><input type="radio" name="P174" value="same"> Same</label>
+<label><input type="radio" name="P174" value="partial"> Partial</label>
+<label><input type="radio" name="P174" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P175">
+<div class="foods">P175 &mdash; A: <b>whole wheat bun (plain, likely toasted)</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P175" value="same"> Same</label>
+<label><input type="radio" name="P175" value="partial"> Partial</label>
+<label><input type="radio" name="P175" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P176">
+<div class="foods">P176 &mdash; A: <b>pasta with peas and vegetables in sauce</b> &nbsp;|&nbsp; B: <b>pasta with carrots and green peas</b></div>
+<label><input type="radio" name="P176" value="same"> Same</label>
+<label><input type="radio" name="P176" value="partial"> Partial</label>
+<label><input type="radio" name="P176" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P177">
+<div class="foods">P177 &mdash; A: <b>fruit-flavored quark/yogurt dessert cup (packaged)</b> &nbsp;|&nbsp; B: <b>pineapple yogurt</b></div>
+<label><input type="radio" name="P177" value="same"> Same</label>
+<label><input type="radio" name="P177" value="partial"> Partial</label>
+<label><input type="radio" name="P177" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P178">
+<div class="foods">P178 &mdash; A: <b>baked potato pieces</b> &nbsp;|&nbsp; B: <b>baked potatoes</b></div>
+<label><input type="radio" name="P178" value="same"> Same</label>
+<label><input type="radio" name="P178" value="partial"> Partial</label>
+<label><input type="radio" name="P178" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P179">
+<div class="foods">P179 &mdash; A: <b>salad (cucumber, cabbage, red onion)</b> &nbsp;|&nbsp; B: <b>water</b></div>
+<label><input type="radio" name="P179" value="same"> Same</label>
+<label><input type="radio" name="P179" value="partial"> Partial</label>
+<label><input type="radio" name="P179" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P180">
+<div class="foods">P180 &mdash; A: <b>small baked or grilled vegetable or egg on the side</b> &nbsp;|&nbsp; B: <b>pasta with radicchio and parmesan</b></div>
+<label><input type="radio" name="P180" value="same"> Same</label>
+<label><input type="radio" name="P180" value="partial"> Partial</label>
+<label><input type="radio" name="P180" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P181">
+<div class="foods">P181 &mdash; A: <b>grated parmesan cheese (on pasta)</b> &nbsp;|&nbsp; B: <b>pasta with parmesan</b></div>
+<label><input type="radio" name="P181" value="same"> Same</label>
+<label><input type="radio" name="P181" value="partial"> Partial</label>
+<label><input type="radio" name="P181" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P182">
+<div class="foods">P182 &mdash; A: <b>fried fish and roasted potatoes</b> &nbsp;|&nbsp; B: <b>baked potatoes</b></div>
+<label><input type="radio" name="P182" value="same"> Same</label>
+<label><input type="radio" name="P182" value="partial"> Partial</label>
+<label><input type="radio" name="P182" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P183">
+<div class="foods">P183 &mdash; A: <b>roasted diced potatoes and carrots mix</b> &nbsp;|&nbsp; B: <b>boiled potatoes and carrots</b></div>
+<label><input type="radio" name="P183" value="same"> Same</label>
+<label><input type="radio" name="P183" value="partial"> Partial</label>
+<label><input type="radio" name="P183" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P184">
+<div class="foods">P184 &mdash; A: <b>mashed potatoes with butter or cream</b> &nbsp;|&nbsp; B: <b>baked courgettes and potatoes</b></div>
+<label><input type="radio" name="P184" value="same"> Same</label>
+<label><input type="radio" name="P184" value="partial"> Partial</label>
+<label><input type="radio" name="P184" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P185">
+<div class="foods">P185 &mdash; A: <b>sautéed green beans (peas)</b> &nbsp;|&nbsp; B: <b>pasta with carrots and green peas</b></div>
+<label><input type="radio" name="P185" value="same"> Same</label>
+<label><input type="radio" name="P185" value="partial"> Partial</label>
+<label><input type="radio" name="P185" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P186">
+<div class="foods">P186 &mdash; A: <b>green beans with olive oil</b> &nbsp;|&nbsp; B: <b>roasted gren beans</b></div>
+<label><input type="radio" name="P186" value="same"> Same</label>
+<label><input type="radio" name="P186" value="partial"> Partial</label>
+<label><input type="radio" name="P186" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P187">
+<div class="foods">P187 &mdash; A: <b>baked mixed vegetables with cheese (carrots and potatoes)</b> &nbsp;|&nbsp; B: <b>baked carrots and potatoes</b></div>
+<label><input type="radio" name="P187" value="same"> Same</label>
+<label><input type="radio" name="P187" value="partial"> Partial</label>
+<label><input type="radio" name="P187" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P188">
+<div class="foods">P188 &mdash; A: <b>vegetable salad (zucchini &amp; potato)</b> &nbsp;|&nbsp; B: <b>omelette with vegetables</b></div>
+<label><input type="radio" name="P188" value="same"> Same</label>
+<label><input type="radio" name="P188" value="partial"> Partial</label>
+<label><input type="radio" name="P188" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P189">
+<div class="foods">P189 &mdash; A: <b>cheesy macaroni</b> &nbsp;|&nbsp; B: <b>crepe with spinach and mozzarella cheese</b></div>
+<label><input type="radio" name="P189" value="same"> Same</label>
+<label><input type="radio" name="P189" value="partial"> Partial</label>
+<label><input type="radio" name="P189" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P190">
+<div class="foods">P190 &mdash; A: <b>crackers (bio)</b> &nbsp;|&nbsp; B: <b>crackers</b></div>
+<label><input type="radio" name="P190" value="same"> Same</label>
+<label><input type="radio" name="P190" value="partial"> Partial</label>
+<label><input type="radio" name="P190" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P191">
+<div class="foods">P191 &mdash; A: <b>whole wheat bread (two slices)</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P191" value="same"> Same</label>
+<label><input type="radio" name="P191" value="partial"> Partial</label>
+<label><input type="radio" name="P191" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P192">
+<div class="foods">P192 &mdash; A: <b>mixed roasted vegetables (carrot, potato, bell pepper)</b> &nbsp;|&nbsp; B: <b>boiled potatoes, carrots and green peas</b></div>
+<label><input type="radio" name="P192" value="same"> Same</label>
+<label><input type="radio" name="P192" value="partial"> Partial</label>
+<label><input type="radio" name="P192" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P193">
+<div class="foods">P193 &mdash; A: <b>grilled fish on top of vegetables</b> &nbsp;|&nbsp; B: <b>baked fish</b></div>
+<label><input type="radio" name="P193" value="same"> Same</label>
+<label><input type="radio" name="P193" value="partial"> Partial</label>
+<label><input type="radio" name="P193" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P194">
+<div class="foods">P194 &mdash; A: <b>pasta dish with vegetables and herbs</b> &nbsp;|&nbsp; B: <b>boiled potatoes, carrots and brussel sprouts</b></div>
+<label><input type="radio" name="P194" value="same"> Same</label>
+<label><input type="radio" name="P194" value="partial"> Partial</label>
+<label><input type="radio" name="P194" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P195">
+<div class="foods">P195 &mdash; A: <b>chickpeas</b> &nbsp;|&nbsp; B: <b>chickpeas</b></div>
+<label><input type="radio" name="P195" value="same"> Same</label>
+<label><input type="radio" name="P195" value="partial"> Partial</label>
+<label><input type="radio" name="P195" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P196">
+<div class="foods">P196 &mdash; A: <b>broccoli and potatoes</b> &nbsp;|&nbsp; B: <b>roasted brussel sprouts and potatoes</b></div>
+<label><input type="radio" name="P196" value="same"> Same</label>
+<label><input type="radio" name="P196" value="partial"> Partial</label>
+<label><input type="radio" name="P196" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P197">
+<div class="foods">P197 &mdash; A: <b>cooked fish</b> &nbsp;|&nbsp; B: <b>baked fish fillet</b></div>
+<label><input type="radio" name="P197" value="same"> Same</label>
+<label><input type="radio" name="P197" value="partial"> Partial</label>
+<label><input type="radio" name="P197" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P198">
+<div class="foods">P198 &mdash; A: <b>plain yogurt cup</b> &nbsp;|&nbsp; B: <b>apricot yogurt</b></div>
+<label><input type="radio" name="P198" value="same"> Same</label>
+<label><input type="radio" name="P198" value="partial"> Partial</label>
+<label><input type="radio" name="P198" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P199">
+<div class="foods">P199 &mdash; A: <b>steamed green beans with diced carrots and potatoes</b> &nbsp;|&nbsp; B: <b>green beans and carrots</b></div>
+<label><input type="radio" name="P199" value="same"> Same</label>
+<label><input type="radio" name="P199" value="partial"> Partial</label>
+<label><input type="radio" name="P199" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P200">
+<div class="foods">P200 &mdash; A: <b>green beans (on the bottom plate)</b> &nbsp;|&nbsp; B: <b>boiled green beans with lemon</b></div>
+<label><input type="radio" name="P200" value="same"> Same</label>
+<label><input type="radio" name="P200" value="partial"> Partial</label>
+<label><input type="radio" name="P200" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P201">
+<div class="foods">P201 &mdash; A: <b>grated hard cheese (parmesan-like) on pasta</b> &nbsp;|&nbsp; B: <b>pasta with pumpkin and parmesan</b></div>
+<label><input type="radio" name="P201" value="same"> Same</label>
+<label><input type="radio" name="P201" value="partial"> Partial</label>
+<label><input type="radio" name="P201" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P202">
+<div class="foods">P202 &mdash; A: <b>lemon wedges (on top of patties)</b> &nbsp;|&nbsp; B: <b>roasted cauliflowers with lemon</b></div>
+<label><input type="radio" name="P202" value="same"> Same</label>
+<label><input type="radio" name="P202" value="partial"> Partial</label>
+<label><input type="radio" name="P202" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P203">
+<div class="foods">P203 &mdash; A: <b>yellow apple (whole, with skin)</b> &nbsp;|&nbsp; B: <b>apple</b></div>
+<label><input type="radio" name="P203" value="same"> Same</label>
+<label><input type="radio" name="P203" value="partial"> Partial</label>
+<label><input type="radio" name="P203" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P204">
+<div class="foods">P204 &mdash; A: <b>potato pancake (latkes or similar, plain)</b> &nbsp;|&nbsp; B: <b>potato muffin</b></div>
+<label><input type="radio" name="P204" value="same"> Same</label>
+<label><input type="radio" name="P204" value="partial"> Partial</label>
+<label><input type="radio" name="P204" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P205">
+<div class="foods">P205 &mdash; A: <b>mini vegetable patty with spinach topping</b> &nbsp;|&nbsp; B: <b>pasta with vegetables and parmesan</b></div>
+<label><input type="radio" name="P205" value="same"> Same</label>
+<label><input type="radio" name="P205" value="partial"> Partial</label>
+<label><input type="radio" name="P205" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P206">
+<div class="foods">P206 &mdash; A: <b>mixed cooked vegetables (potato cubes, carrot slices, brussels sprouts, cauliflower)</b> &nbsp;|&nbsp; B: <b>pasta with vegetables and parmesan</b></div>
+<label><input type="radio" name="P206" value="same"> Same</label>
+<label><input type="radio" name="P206" value="partial"> Partial</label>
+<label><input type="radio" name="P206" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P207">
+<div class="foods">P207 &mdash; A: <b>white rice (cooked)</b> &nbsp;|&nbsp; B: <b>white rice with curry</b></div>
+<label><input type="radio" name="P207" value="same"> Same</label>
+<label><input type="radio" name="P207" value="partial"> Partial</label>
+<label><input type="radio" name="P207" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P208">
+<div class="foods">P208 &mdash; A: <b>pasta dish with sauce and vegetables</b> &nbsp;|&nbsp; B: <b>baked pasta with tomato sauce</b></div>
+<label><input type="radio" name="P208" value="same"> Same</label>
+<label><input type="radio" name="P208" value="partial"> Partial</label>
+<label><input type="radio" name="P208" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P209">
+<div class="foods">P209 &mdash; A: <b>roasted green beans</b> &nbsp;|&nbsp; B: <b>roasted green beans</b></div>
+<label><input type="radio" name="P209" value="same"> Same</label>
+<label><input type="radio" name="P209" value="partial"> Partial</label>
+<label><input type="radio" name="P209" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P210">
+<div class="foods">P210 &mdash; A: <b>broccoli and eggs on toast</b> &nbsp;|&nbsp; B: <b>potato cake with egg</b></div>
+<label><input type="radio" name="P210" value="same"> Same</label>
+<label><input type="radio" name="P210" value="partial"> Partial</label>
+<label><input type="radio" name="P210" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P211">
+<div class="foods">P211 &mdash; A: <b>mixed salad (lettuce/radicchio) with tomato and fennel</b> &nbsp;|&nbsp; B: <b>mixed salad with fennels and tomatoes</b></div>
+<label><input type="radio" name="P211" value="same"> Same</label>
+<label><input type="radio" name="P211" value="partial"> Partial</label>
+<label><input type="radio" name="P211" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P212">
+<div class="foods">P212 &mdash; A: <b>fruit compote cup (likely strawberry)</b> &nbsp;|&nbsp; B: <b>fruit yogurt</b></div>
+<label><input type="radio" name="P212" value="same"> Same</label>
+<label><input type="radio" name="P212" value="partial"> Partial</label>
+<label><input type="radio" name="P212" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P213">
+<div class="foods">P213 &mdash; A: <b>salad with radicchio and carrots</b> &nbsp;|&nbsp; B: <b>mixed salad with radicchio and carrots</b></div>
+<label><input type="radio" name="P213" value="same"> Same</label>
+<label><input type="radio" name="P213" value="partial"> Partial</label>
+<label><input type="radio" name="P213" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P214">
+<div class="foods">P214 &mdash; A: <b>roasted brussels sprouts</b> &nbsp;|&nbsp; B: <b>roasted potatoes</b></div>
+<label><input type="radio" name="P214" value="same"> Same</label>
+<label><input type="radio" name="P214" value="partial"> Partial</label>
+<label><input type="radio" name="P214" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P215">
+<div class="foods">P215 &mdash; A: <b>cooked greens</b> &nbsp;|&nbsp; B: <b>crepes with mozzarella and spinach</b></div>
+<label><input type="radio" name="P215" value="same"> Same</label>
+<label><input type="radio" name="P215" value="partial"> Partial</label>
+<label><input type="radio" name="P215" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P216">
+<div class="foods">P216 &mdash; A: <b>feta cheese on tomato</b> &nbsp;|&nbsp; B: <b>beans with tomato sauce</b></div>
+<label><input type="radio" name="P216" value="same"> Same</label>
+<label><input type="radio" name="P216" value="partial"> Partial</label>
+<label><input type="radio" name="P216" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P217">
+<div class="foods">P217 &mdash; A: <b>fruit bread</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P217" value="same"> Same</label>
+<label><input type="radio" name="P217" value="partial"> Partial</label>
+<label><input type="radio" name="P217" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P218">
+<div class="foods">P218 &mdash; A: <b>gnocchi with tomato sauce and grated parmesan</b> &nbsp;|&nbsp; B: <b>mixed salad with fennels and tomatoes</b></div>
+<label><input type="radio" name="P218" value="same"> Same</label>
+<label><input type="radio" name="P218" value="partial"> Partial</label>
+<label><input type="radio" name="P218" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P219">
+<div class="foods">P219 &mdash; A: <b>round sandwich bun on a plastic wrapper, possibly containing lettuce and meat (unclear)</b> &nbsp;|&nbsp; B: <b>plums</b></div>
+<label><input type="radio" name="P219" value="same"> Same</label>
+<label><input type="radio" name="P219" value="partial"> Partial</label>
+<label><input type="radio" name="P219" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P220">
+<div class="foods">P220 &mdash; A: <b>salad made of mixed greens, shredded carrots, and thinly sliced cucumbers</b> &nbsp;|&nbsp; B: <b>mixed salad with carrots and fennels</b></div>
+<label><input type="radio" name="P220" value="same"> Same</label>
+<label><input type="radio" name="P220" value="partial"> Partial</label>
+<label><input type="radio" name="P220" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P221">
+<div class="foods">P221 &mdash; A: <b>spinach/vegetable soup (minestrone-style) with grated cheese</b> &nbsp;|&nbsp; B: <b>vegetable soup with parmesan</b></div>
+<label><input type="radio" name="P221" value="same"> Same</label>
+<label><input type="radio" name="P221" value="partial"> Partial</label>
+<label><input type="radio" name="P221" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P222">
+<div class="foods">P222 &mdash; A: <b>rice and vegetable dish</b> &nbsp;|&nbsp; B: <b>cous cous with vegetables and chickpeas</b></div>
+<label><input type="radio" name="P222" value="same"> Same</label>
+<label><input type="radio" name="P222" value="partial"> Partial</label>
+<label><input type="radio" name="P222" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P223">
+<div class="foods">P223 &mdash; A: <b>tomato sauce (visible on pasta)</b> &nbsp;|&nbsp; B: <b>pasta with tomato sauce</b></div>
+<label><input type="radio" name="P223" value="same"> Same</label>
+<label><input type="radio" name="P223" value="partial"> Partial</label>
+<label><input type="radio" name="P223" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P224">
+<div class="foods">P224 &mdash; A: <b>green vegetables</b> &nbsp;|&nbsp; B: <b>roasted potatoes</b></div>
+<label><input type="radio" name="P224" value="same"> Same</label>
+<label><input type="radio" name="P224" value="partial"> Partial</label>
+<label><input type="radio" name="P224" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P225">
+<div class="foods">P225 &mdash; A: <b>yogurt with fruit flavor</b> &nbsp;|&nbsp; B: <b>fruit yogurt</b></div>
+<label><input type="radio" name="P225" value="same"> Same</label>
+<label><input type="radio" name="P225" value="partial"> Partial</label>
+<label><input type="radio" name="P225" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P226">
+<div class="foods">P226 &mdash; A: <b>burger lettuce</b> &nbsp;|&nbsp; B: <b>vegetable burger with tomato and cheese</b></div>
+<label><input type="radio" name="P226" value="same"> Same</label>
+<label><input type="radio" name="P226" value="partial"> Partial</label>
+<label><input type="radio" name="P226" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P227">
+<div class="foods">P227 &mdash; A: <b>penne with pesto and grated parmesan</b> &nbsp;|&nbsp; B: <b>pasta with pesto</b></div>
+<label><input type="radio" name="P227" value="same"> Same</label>
+<label><input type="radio" name="P227" value="partial"> Partial</label>
+<label><input type="radio" name="P227" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P228">
+<div class="foods">P228 &mdash; A: <b>green and brown round food items</b> &nbsp;|&nbsp; B: <b>caramelized pear</b></div>
+<label><input type="radio" name="P228" value="same"> Same</label>
+<label><input type="radio" name="P228" value="partial"> Partial</label>
+<label><input type="radio" name="P228" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P229">
+<div class="foods">P229 &mdash; A: <b>pasta in a creamy sauce on whole-grain breadsticks</b> &nbsp;|&nbsp; B: <b>quiche</b></div>
+<label><input type="radio" name="P229" value="same"> Same</label>
+<label><input type="radio" name="P229" value="partial"> Partial</label>
+<label><input type="radio" name="P229" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P230">
+<div class="foods">P230 &mdash; A: <b>green beans with cheese</b> &nbsp;|&nbsp; B: <b>pasta with vegetable sauce</b></div>
+<label><input type="radio" name="P230" value="same"> Same</label>
+<label><input type="radio" name="P230" value="partial"> Partial</label>
+<label><input type="radio" name="P230" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P231">
+<div class="foods">P231 &mdash; A: <b>mixed salad greens (lettuce, radicchio, frisée, iceberg)</b> &nbsp;|&nbsp; B: <b>mixed salad</b></div>
+<label><input type="radio" name="P231" value="same"> Same</label>
+<label><input type="radio" name="P231" value="partial"> Partial</label>
+<label><input type="radio" name="P231" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P232">
+<div class="foods">P232 &mdash; A: <b>salad with shredded carrots and a protein source</b> &nbsp;|&nbsp; B: <b>mixed salad with carrots</b></div>
+<label><input type="radio" name="P232" value="same"> Same</label>
+<label><input type="radio" name="P232" value="partial"> Partial</label>
+<label><input type="radio" name="P232" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P233">
+<div class="foods">P233 &mdash; A: <b>steamed green beans and carrots</b> &nbsp;|&nbsp; B: <b>green beans and carrots</b></div>
+<label><input type="radio" name="P233" value="same"> Same</label>
+<label><input type="radio" name="P233" value="partial"> Partial</label>
+<label><input type="radio" name="P233" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P234">
+<div class="foods">P234 &mdash; A: <b>sliced bread roll (e.g., ciabatta)</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P234" value="same"> Same</label>
+<label><input type="radio" name="P234" value="partial"> Partial</label>
+<label><input type="radio" name="P234" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P235">
+<div class="foods">P235 &mdash; A: <b>steamed carrot coins (whole, unpeeled)</b> &nbsp;|&nbsp; B: <b>peach</b></div>
+<label><input type="radio" name="P235" value="same"> Same</label>
+<label><input type="radio" name="P235" value="partial"> Partial</label>
+<label><input type="radio" name="P235" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P236">
+<div class="foods">P236 &mdash; A: <b>grated parmesan cheese</b> &nbsp;|&nbsp; B: <b>spinach with parmesan</b></div>
+<label><input type="radio" name="P236" value="same"> Same</label>
+<label><input type="radio" name="P236" value="partial"> Partial</label>
+<label><input type="radio" name="P236" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P237">
+<div class="foods">P237 &mdash; A: <b>dumplings (filled with sauerkraut and possibly meat or other ingredients)</b> &nbsp;|&nbsp; B: <b>dumplings</b></div>
+<label><input type="radio" name="P237" value="same"> Same</label>
+<label><input type="radio" name="P237" value="partial"> Partial</label>
+<label><input type="radio" name="P237" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P238">
+<div class="foods">P238 &mdash; A: <b>breaded and fried item (chicken or fish)</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P238" value="same"> Same</label>
+<label><input type="radio" name="P238" value="partial"> Partial</label>
+<label><input type="radio" name="P238" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P239">
+<div class="foods">P239 &mdash; A: <b>vegetable lasagna with tomato sauce and green beans</b> &nbsp;|&nbsp; B: <b>oven-baked vegetables with tomato sauce</b></div>
+<label><input type="radio" name="P239" value="same"> Same</label>
+<label><input type="radio" name="P239" value="partial"> Partial</label>
+<label><input type="radio" name="P239" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P240">
+<div class="foods">P240 &mdash; A: <b>pasta dish with creamy sauce</b> &nbsp;|&nbsp; B: <b>pasta with pesto</b></div>
+<label><input type="radio" name="P240" value="same"> Same</label>
+<label><input type="radio" name="P240" value="partial"> Partial</label>
+<label><input type="radio" name="P240" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P241">
+<div class="foods">P241 &mdash; A: <b>pita bread (whole, toasted or baked)</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P241" value="same"> Same</label>
+<label><input type="radio" name="P241" value="partial"> Partial</label>
+<label><input type="radio" name="P241" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P242">
+<div class="foods">P242 &mdash; A: <b>mixed leaf lettuce</b> &nbsp;|&nbsp; B: <b>mixed salad</b></div>
+<label><input type="radio" name="P242" value="same"> Same</label>
+<label><input type="radio" name="P242" value="partial"> Partial</label>
+<label><input type="radio" name="P242" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P243">
+<div class="foods">P243 &mdash; A: <b>green beans and pasta</b> &nbsp;|&nbsp; B: <b>baked green beans</b></div>
+<label><input type="radio" name="P243" value="same"> Same</label>
+<label><input type="radio" name="P243" value="partial"> Partial</label>
+<label><input type="radio" name="P243" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P244">
+<div class="foods">P244 &mdash; A: <b>cup with sauce and spoon</b> &nbsp;|&nbsp; B: <b>baked pasta with tomato sauce</b></div>
+<label><input type="radio" name="P244" value="same"> Same</label>
+<label><input type="radio" name="P244" value="partial"> Partial</label>
+<label><input type="radio" name="P244" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P245">
+<div class="foods">P245 &mdash; A: <b>tomato-based soup (likely lentil/vegetable) in bowl</b> &nbsp;|&nbsp; B: <b>tomato soup</b></div>
+<label><input type="radio" name="P245" value="same"> Same</label>
+<label><input type="radio" name="P245" value="partial"> Partial</label>
+<label><input type="radio" name="P245" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P246">
+<div class="foods">P246 &mdash; A: <b>salad with lettuce and carrots</b> &nbsp;|&nbsp; B: <b>mixed salad with carrots</b></div>
+<label><input type="radio" name="P246" value="same"> Same</label>
+<label><input type="radio" name="P246" value="partial"> Partial</label>
+<label><input type="radio" name="P246" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P247">
+<div class="foods">P247 &mdash; A: <b>scrambled eggs with vegetables and cheese</b> &nbsp;|&nbsp; B: <b>vegetable burger with cheese</b></div>
+<label><input type="radio" name="P247" value="same"> Same</label>
+<label><input type="radio" name="P247" value="partial"> Partial</label>
+<label><input type="radio" name="P247" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P248">
+<div class="foods">P248 &mdash; A: <b>garden salad with carrots and purple cabbage</b> &nbsp;|&nbsp; B: <b>mixed salad with purple cabbage and carrots</b></div>
+<label><input type="radio" name="P248" value="same"> Same</label>
+<label><input type="radio" name="P248" value="partial"> Partial</label>
+<label><input type="radio" name="P248" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P249">
+<div class="foods">P249 &mdash; A: <b>garlic bread roll or breadstick</b> &nbsp;|&nbsp; B: <b>boiled potatoes, carrots and green peas</b></div>
+<label><input type="radio" name="P249" value="same"> Same</label>
+<label><input type="radio" name="P249" value="partial"> Partial</label>
+<label><input type="radio" name="P249" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P250">
+<div class="foods">P250 &mdash; A: <b>breaded food item</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P250" value="same"> Same</label>
+<label><input type="radio" name="P250" value="partial"> Partial</label>
+<label><input type="radio" name="P250" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P251">
+<div class="foods">P251 &mdash; A: <b>black bean soup</b> &nbsp;|&nbsp; B: <b>lentils</b></div>
+<label><input type="radio" name="P251" value="same"> Same</label>
+<label><input type="radio" name="P251" value="partial"> Partial</label>
+<label><input type="radio" name="P251" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P252">
+<div class="foods">P252 &mdash; A: <b>grilled or toasted breadstick</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P252" value="same"> Same</label>
+<label><input type="radio" name="P252" value="partial"> Partial</label>
+<label><input type="radio" name="P252" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P253">
+<div class="foods">P253 &mdash; A: <b>baked chicken breast with lemon pepper seasoning</b> &nbsp;|&nbsp; B: <b>beans with celery</b></div>
+<label><input type="radio" name="P253" value="same"> Same</label>
+<label><input type="radio" name="P253" value="partial"> Partial</label>
+<label><input type="radio" name="P253" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P254">
+<div class="foods">P254 &mdash; A: <b>breaded balls (meatballs or veggie balls)</b> &nbsp;|&nbsp; B: <b>vegetable meatballs</b></div>
+<label><input type="radio" name="P254" value="same"> Same</label>
+<label><input type="radio" name="P254" value="partial"> Partial</label>
+<label><input type="radio" name="P254" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P255">
+<div class="foods">P255 &mdash; A: <b>fusilli pasta with tomato and vegetables</b> &nbsp;|&nbsp; B: <b>pasta with tomatoes</b></div>
+<label><input type="radio" name="P255" value="same"> Same</label>
+<label><input type="radio" name="P255" value="partial"> Partial</label>
+<label><input type="radio" name="P255" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P256">
+<div class="foods">P256 &mdash; A: <b>bread roll (small round bun)</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P256" value="same"> Same</label>
+<label><input type="radio" name="P256" value="partial"> Partial</label>
+<label><input type="radio" name="P256" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P257">
+<div class="foods">P257 &mdash; A: <b>mushroom omelette</b> &nbsp;|&nbsp; B: <b>omelette with mushroom</b></div>
+<label><input type="radio" name="P257" value="same"> Same</label>
+<label><input type="radio" name="P257" value="partial"> Partial</label>
+<label><input type="radio" name="P257" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P258">
+<div class="foods">P258 &mdash; A: <b>spinach and feta cheese pie</b> &nbsp;|&nbsp; B: <b>quiche with spinach</b></div>
+<label><input type="radio" name="P258" value="same"> Same</label>
+<label><input type="radio" name="P258" value="partial"> Partial</label>
+<label><input type="radio" name="P258" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P259">
+<div class="foods">P259 &mdash; A: <b>pasta and broccoli</b> &nbsp;|&nbsp; B: <b>pasta with vegetables and parmesan</b></div>
+<label><input type="radio" name="P259" value="same"> Same</label>
+<label><input type="radio" name="P259" value="partial"> Partial</label>
+<label><input type="radio" name="P259" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P260">
+<div class="foods">P260 &mdash; A: <b>brown beans with celery</b> &nbsp;|&nbsp; B: <b>beans with celery</b></div>
+<label><input type="radio" name="P260" value="same"> Same</label>
+<label><input type="radio" name="P260" value="partial"> Partial</label>
+<label><input type="radio" name="P260" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P261">
+<div class="foods">P261 &mdash; A: <b>mixed salad with radicchio, carrots, and onions</b> &nbsp;|&nbsp; B: <b>mixed salad with radicchio and carrots</b></div>
+<label><input type="radio" name="P261" value="same"> Same</label>
+<label><input type="radio" name="P261" value="partial"> Partial</label>
+<label><input type="radio" name="P261" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P262">
+<div class="foods">P262 &mdash; A: <b>green vegetables (peppers)</b> &nbsp;|&nbsp; B: <b>baked potatoes</b></div>
+<label><input type="radio" name="P262" value="same"> Same</label>
+<label><input type="radio" name="P262" value="partial"> Partial</label>
+<label><input type="radio" name="P262" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P263">
+<div class="foods">P263 &mdash; A: <b>brussels sprouts (cooked/roasted)</b> &nbsp;|&nbsp; B: <b>baked brussel sprouts</b></div>
+<label><input type="radio" name="P263" value="same"> Same</label>
+<label><input type="radio" name="P263" value="partial"> Partial</label>
+<label><input type="radio" name="P263" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P264">
+<div class="foods">P264 &mdash; A: <b>fried dough or onion rings (on a plate)</b> &nbsp;|&nbsp; B: <b>roasted fennels</b></div>
+<label><input type="radio" name="P264" value="same"> Same</label>
+<label><input type="radio" name="P264" value="partial"> Partial</label>
+<label><input type="radio" name="P264" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P265">
+<div class="foods">P265 &mdash; A: <b>sliced turkey breast on bread</b> &nbsp;|&nbsp; B: <b>breaded pork cutlet</b></div>
+<label><input type="radio" name="P265" value="same"> Same</label>
+<label><input type="radio" name="P265" value="partial"> Partial</label>
+<label><input type="radio" name="P265" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P266">
+<div class="foods">P266 &mdash; A: <b>piece of bread</b> &nbsp;|&nbsp; B: <b>bread</b></div>
+<label><input type="radio" name="P266" value="same"> Same</label>
+<label><input type="radio" name="P266" value="partial"> Partial</label>
+<label><input type="radio" name="P266" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P267">
+<div class="foods">P267 &mdash; A: <b>rolled crepe/tortilla wrap with filling</b> &nbsp;|&nbsp; B: <b>vegetable wrap</b></div>
+<label><input type="radio" name="P267" value="same"> Same</label>
+<label><input type="radio" name="P267" value="partial"> Partial</label>
+<label><input type="radio" name="P267" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P268">
+<div class="foods">P268 &mdash; A: <b>sandwich with spinach and cheese</b> &nbsp;|&nbsp; B: <b>spinach</b></div>
+<label><input type="radio" name="P268" value="same"> Same</label>
+<label><input type="radio" name="P268" value="partial"> Partial</label>
+<label><input type="radio" name="P268" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P269">
+<div class="foods">P269 &mdash; A: <b>mixed cooked vegetables with mushrooms (peas, carrots, potatoes, eggplant, mushrooms)</b> &nbsp;|&nbsp; B: <b>mixed vegetables (mushrooms, potatoes, carrots, peas)</b></div>
+<label><input type="radio" name="P269" value="same"> Same</label>
+<label><input type="radio" name="P269" value="partial"> Partial</label>
+<label><input type="radio" name="P269" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P270">
+<div class="foods">P270 &mdash; A: <b>breadsticks</b> &nbsp;|&nbsp; B: <b>breadsticks</b></div>
+<label><input type="radio" name="P270" value="same"> Same</label>
+<label><input type="radio" name="P270" value="partial"> Partial</label>
+<label><input type="radio" name="P270" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P271">
+<div class="foods">P271 &mdash; A: <b>green salad with cucumber and carrots</b> &nbsp;|&nbsp; B: <b>mixed salad with cabbage and cucumber</b></div>
+<label><input type="radio" name="P271" value="same"> Same</label>
+<label><input type="radio" name="P271" value="partial"> Partial</label>
+<label><input type="radio" name="P271" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P272">
+<div class="foods">P272 &mdash; A: <b>yogurt drink (in red cup, partially visible)</b> &nbsp;|&nbsp; B: <b>strawberry yogurt</b></div>
+<label><input type="radio" name="P272" value="same"> Same</label>
+<label><input type="radio" name="P272" value="partial"> Partial</label>
+<label><input type="radio" name="P272" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P273">
+<div class="foods">P273 &mdash; A: <b>chickpeas and chickpea salad with couscous</b> &nbsp;|&nbsp; B: <b>cous cous with vegetables and chickpeas</b></div>
+<label><input type="radio" name="P273" value="same"> Same</label>
+<label><input type="radio" name="P273" value="partial"> Partial</label>
+<label><input type="radio" name="P273" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P274">
+<div class="foods">P274 &mdash; A: <b>lettuce salad greens</b> &nbsp;|&nbsp; B: <b>boiled peas and carrots</b></div>
+<label><input type="radio" name="P274" value="same"> Same</label>
+<label><input type="radio" name="P274" value="partial"> Partial</label>
+<label><input type="radio" name="P274" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P275">
+<div class="foods">P275 &mdash; A: <b>cauliflower salad with sliced cucumrette and cheese</b> &nbsp;|&nbsp; B: <b>mixed salad with cabbage and cucumber</b></div>
+<label><input type="radio" name="P275" value="same"> Same</label>
+<label><input type="radio" name="P275" value="partial"> Partial</label>
+<label><input type="radio" name="P275" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P276">
+<div class="foods">P276 &mdash; A: <b>pasta with tomato and sausage</b> &nbsp;|&nbsp; B: <b>pasta with cherry tomatoes</b></div>
+<label><input type="radio" name="P276" value="same"> Same</label>
+<label><input type="radio" name="P276" value="partial"> Partial</label>
+<label><input type="radio" name="P276" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P277">
+<div class="foods">P277 &mdash; A: <b>meatballs with orange slices</b> &nbsp;|&nbsp; B: <b>vegetable meatballs with orange</b></div>
+<label><input type="radio" name="P277" value="same"> Same</label>
+<label><input type="radio" name="P277" value="partial"> Partial</label>
+<label><input type="radio" name="P277" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P278">
+<div class="foods">P278 &mdash; A: <b>breaded cutlet with tomato and herbs</b> &nbsp;|&nbsp; B: <b>pasta with tomato sauce</b></div>
+<label><input type="radio" name="P278" value="same"> Same</label>
+<label><input type="radio" name="P278" value="partial"> Partial</label>
+<label><input type="radio" name="P278" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P279">
+<div class="foods">P279 &mdash; A: <b>green vegetable soup with grated cheese (likely pea or lentil soup)</b> &nbsp;|&nbsp; B: <b>vegetable soup</b></div>
+<label><input type="radio" name="P279" value="same"> Same</label>
+<label><input type="radio" name="P279" value="partial"> Partial</label>
+<label><input type="radio" name="P279" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P280">
+<div class="foods">P280 &mdash; A: <b>baked broccoli and spinach patties with cheese</b> &nbsp;|&nbsp; B: <b>boiled cauliflower</b></div>
+<label><input type="radio" name="P280" value="same"> Same</label>
+<label><input type="radio" name="P280" value="partial"> Partial</label>
+<label><input type="radio" name="P280" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P281">
+<div class="foods">P281 &mdash; A: <b>white fish fillet (e.g., cod or haddock)</b> &nbsp;|&nbsp; B: <b>fish fillet</b></div>
+<label><input type="radio" name="P281" value="same"> Same</label>
+<label><input type="radio" name="P281" value="partial"> Partial</label>
+<label><input type="radio" name="P281" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P282">
+<div class="foods">P282 &mdash; A: <b>raw chickpeas (uncooked)</b> &nbsp;|&nbsp; B: <b>pear</b></div>
+<label><input type="radio" name="P282" value="same"> Same</label>
+<label><input type="radio" name="P282" value="partial"> Partial</label>
+<label><input type="radio" name="P282" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P283">
+<div class="foods">P283 &mdash; A: <b>baked potato</b> &nbsp;|&nbsp; B: <b>baked potatoes</b></div>
+<label><input type="radio" name="P283" value="same"> Same</label>
+<label><input type="radio" name="P283" value="partial"> Partial</label>
+<label><input type="radio" name="P283" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P284">
+<div class="foods">P284 &mdash; A: <b>crab cake</b> &nbsp;|&nbsp; B: <b>lentils with tomato sauce</b></div>
+<label><input type="radio" name="P284" value="same"> Same</label>
+<label><input type="radio" name="P284" value="partial"> Partial</label>
+<label><input type="radio" name="P284" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P285">
+<div class="foods">P285 &mdash; A: <b>broccoli with potatoes</b> &nbsp;|&nbsp; B: <b>roasted brussel sprouts and potatoes</b></div>
+<label><input type="radio" name="P285" value="same"> Same</label>
+<label><input type="radio" name="P285" value="partial"> Partial</label>
+<label><input type="radio" name="P285" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P286">
+<div class="foods">P286 &mdash; A: <b>beverage (milk or juice)</b> &nbsp;|&nbsp; B: <b>fruit yogurt</b></div>
+<label><input type="radio" name="P286" value="same"> Same</label>
+<label><input type="radio" name="P286" value="partial"> Partial</label>
+<label><input type="radio" name="P286" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P287">
+<div class="foods">P287 &mdash; A: <b>baked bean dish (possibly chickpea or lentil curry)</b> &nbsp;|&nbsp; B: <b>mixed salad with carrots</b></div>
+<label><input type="radio" name="P287" value="same"> Same</label>
+<label><input type="radio" name="P287" value="partial"> Partial</label>
+<label><input type="radio" name="P287" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P288">
+<div class="foods">P288 &mdash; A: <b>carrots, diced</b> &nbsp;|&nbsp; B: <b>pasta with carrots, olives, tomatoes, tuna and cooked ham</b></div>
+<label><input type="radio" name="P288" value="same"> Same</label>
+<label><input type="radio" name="P288" value="partial"> Partial</label>
+<label><input type="radio" name="P288" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P289">
+<div class="foods">P289 &mdash; A: <b>chopped boiled potato (diced, skin partially removed)</b> &nbsp;|&nbsp; B: <b>boiled potatoes</b></div>
+<label><input type="radio" name="P289" value="same"> Same</label>
+<label><input type="radio" name="P289" value="partial"> Partial</label>
+<label><input type="radio" name="P289" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P290">
+<div class="foods">P290 &mdash; A: <b>carrot slices</b> &nbsp;|&nbsp; B: <b>boiled carrots</b></div>
+<label><input type="radio" name="P290" value="same"> Same</label>
+<label><input type="radio" name="P290" value="partial"> Partial</label>
+<label><input type="radio" name="P290" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P291">
+<div class="foods">P291 &mdash; A: <b>soup with carrots</b> &nbsp;|&nbsp; B: <b>vegetable pie</b></div>
+<label><input type="radio" name="P291" value="same"> Same</label>
+<label><input type="radio" name="P291" value="partial"> Partial</label>
+<label><input type="radio" name="P291" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P292">
+<div class="foods">P292 &mdash; A: <b>caesar salad</b> &nbsp;|&nbsp; B: <b>mixed salad with cabbage and cucumber</b></div>
+<label><input type="radio" name="P292" value="same"> Same</label>
+<label><input type="radio" name="P292" value="partial"> Partial</label>
+<label><input type="radio" name="P292" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P293">
+<div class="foods">P293 &mdash; A: <b>tofu with herbs</b> &nbsp;|&nbsp; B: <b>baked potatoes</b></div>
+<label><input type="radio" name="P293" value="same"> Same</label>
+<label><input type="radio" name="P293" value="partial"> Partial</label>
+<label><input type="radio" name="P293" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P294">
+<div class="foods">P294 &mdash; A: <b>pan-seared or roasted potato cubes (hash browns or diced potatoes)</b> &nbsp;|&nbsp; B: <b>roasted potatoes</b></div>
+<label><input type="radio" name="P294" value="same"> Same</label>
+<label><input type="radio" name="P294" value="partial"> Partial</label>
+<label><input type="radio" name="P294" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P295">
+<div class="foods">P295 &mdash; A: <b>fried noodles with vegetables (likely carrots, celery)</b> &nbsp;|&nbsp; B: <b>baked pasta with tomato sauce</b></div>
+<label><input type="radio" name="P295" value="same"> Same</label>
+<label><input type="radio" name="P295" value="partial"> Partial</label>
+<label><input type="radio" name="P295" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P296">
+<div class="foods">P296 &mdash; A: <b>mixed salad with dressing</b> &nbsp;|&nbsp; B: <b>mixed salad</b></div>
+<label><input type="radio" name="P296" value="same"> Same</label>
+<label><input type="radio" name="P296" value="partial"> Partial</label>
+<label><input type="radio" name="P296" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P297">
+<div class="foods">P297 &mdash; A: <b>baked potatoes with cheese and herbs</b> &nbsp;|&nbsp; B: <b>white pizza with potatoes</b></div>
+<label><input type="radio" name="P297" value="same"> Same</label>
+<label><input type="radio" name="P297" value="partial"> Partial</label>
+<label><input type="radio" name="P297" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P298">
+<div class="foods">P298 &mdash; A: <b>polenta or grits with mixed toppings (potatoes, meat, herbs)</b> &nbsp;|&nbsp; B: <b>pasta with tomato sauce and parmesan</b></div>
+<label><input type="radio" name="P298" value="same"> Same</label>
+<label><input type="radio" name="P298" value="partial"> Partial</label>
+<label><input type="radio" name="P298" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P299">
+<div class="foods">P299 &mdash; A: <b>baked zucchini and carrot salad</b> &nbsp;|&nbsp; B: <b>mixed salad with radicchio, carrots and cucumber</b></div>
+<label><input type="radio" name="P299" value="same"> Same</label>
+<label><input type="radio" name="P299" value="partial"> Partial</label>
+<label><input type="radio" name="P299" value="different"> Different</label>
+</div>
+<div class="pair" data-id="P300">
+<div class="foods">P300 &mdash; A: <b>mixed vegetable hash (potatoes, carrots, onions, possibly other root vegetables)</b> &nbsp;|&nbsp; B: <b>baked carrots and potatoes</b></div>
+<label><input type="radio" name="P300" value="same"> Same</label>
+<label><input type="radio" name="P300" value="partial"> Partial</label>
+<label><input type="radio" name="P300" value="different"> Different</label>
+</div>
+<button onclick="gen()">Generate CSV</button>
+<p>Copy the text below into a file named <code>human_labels_&lt;yourname&gt;.csv</code>:</p>
+<textarea id="out" readonly></textarea>
+<script>
+function upd() {
+  const n = document.querySelectorAll('.pair').length;
+  let d = 0;
+  document.querySelectorAll('.pair').forEach(p => {
+    if (p.querySelector('input[type=radio]:checked')) d++;
+  });
+  document.getElementById('done').textContent = d;
+}
+document.addEventListener('change', upd);
+function gen() {
+  const judge = document.getElementById('judge').value.trim() || 'anonymous';
+  let rows = ['pair_id,judge,label'];
+  document.querySelectorAll('.pair').forEach(p => {
+    const c = p.querySelector('input[type=radio]:checked');
+    rows.push(p.dataset.id + ',' + judge + ',' + (c ? c.value : ''));
+  });
+  document.getElementById('out').value = rows.join('\n');
+}
+</script>
+</body></html>

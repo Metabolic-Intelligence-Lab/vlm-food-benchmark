@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "potatoes and chicken nuggets",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pastry (likely croissant)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "yogurt (YOKO)",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "spoon",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

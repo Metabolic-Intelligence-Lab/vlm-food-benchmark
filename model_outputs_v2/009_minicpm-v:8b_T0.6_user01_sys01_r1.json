@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain, approximately 100g",
+      "confidence": "50"
+    },
+    {
+      "name": "Green tea bag",
+      "portion_estimate": "uncertain, approximately 2-3 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Potato wedges with herbs and tomato pieces",
+      "portion_estimate": "uncertain, approximately 150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Grilled chicken breast on a bed of greens",
+      "portion_estimate": "uncertain, approximately 120-150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed vegetables (potatoes and possibly zucchini)",
+      "portion_estimate": "uncertain, approximately 80g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green tea bag in a clear plastic cup with water",
+      "portion_estimate": "uncertain, approximately 2-3 grams for the tea bag and possibly up to 500ml of water",
+      "confidence": "60"
+    }
+  ]
+}

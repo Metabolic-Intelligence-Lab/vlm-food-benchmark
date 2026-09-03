@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Gnocchi",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Lentil Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

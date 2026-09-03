@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "savory tart",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "white plate with remaining brownie or cake slice",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "small bread bun in plastic bag labeled 'Freshly made from 100% durum wheat flour, Gluten free and dairy free'",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "green apple with brown stem on white plate",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Brussel sprouts or similar green vegetables in small round dish, approximately 1-2 oz.",
+      "portion_estimate": "approx. 30g",
+      "confidence": "95"
+    },
+    {
+      "name": "yellow and red soup with cheese powder sprinkled on top of a bowl labeled 'Kurkuri Butter Chicken Soup'",
+      "portion_estimate": "uncertain",
+      "confidence": "65"
+    }
+  ]
+}

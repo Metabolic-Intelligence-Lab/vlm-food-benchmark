@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni and Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Chicken-based dish (meatball/stew/casserole)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Pickles/Cured Food",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Lemonade",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

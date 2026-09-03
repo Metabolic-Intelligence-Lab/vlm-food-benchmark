@@ -1,0 +1,32 @@
+{
+  "food_items": [
+    {
+      "name": "Stew",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrot slice",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "70"
+    }
+  ]
+}
+```
+
+Please note that the confidence levels are an estimation based on the image provided. The actual portion sizes and types of food can vary from what is visible in the photo, as we're not able to identify every ingredient or item with certain

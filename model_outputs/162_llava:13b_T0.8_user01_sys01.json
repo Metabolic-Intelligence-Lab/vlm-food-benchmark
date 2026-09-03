@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed broccoli and potatoes in seasoned water",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Creamy soup",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "Minestrone soup with pasta, tomato, and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Breaded and fried fish",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

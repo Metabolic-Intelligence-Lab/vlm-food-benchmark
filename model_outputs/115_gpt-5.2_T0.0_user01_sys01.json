@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto sauce and grated parmesan",
+      "portion_estimate": "240 g",
+      "confidence": "72"
+    },
+    {
+      "name": "meatballs in tomato sauce (4 pieces)",
+      "portion_estimate": "180 g",
+      "confidence": "78"
+    },
+    {
+      "name": "mixed green salad (lettuce and radicchio) with balsamic-style dressing",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "red/purple grapes (small bunch)",
+      "portion_estimate": "110 g",
+      "confidence": "76"
+    },
+    {
+      "name": "slice of whole grain bread",
+      "portion_estimate": "45 g",
+      "confidence": "74"
+    }
+  ]
+}

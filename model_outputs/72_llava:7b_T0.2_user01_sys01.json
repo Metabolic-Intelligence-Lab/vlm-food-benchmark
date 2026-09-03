@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Indian meal",
+      "portion_estimate": "approx. 150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Carrot slices",
+      "portion_estimate": "approx. 70g",
+      "confidence": "80"
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "approx. 120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Naan bread",
+      "portion_estimate": "approx. 70g",
+      "confidence": "85"
+    }
+  ]
+}

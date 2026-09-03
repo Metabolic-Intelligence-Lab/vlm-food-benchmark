@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat roll (or bun)",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt (plain, likely Greek yogurt in a 150ml container)",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "fried food item (likely a fish stick or similar)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "chickpea soup with cheese topping",
+      "portion_estimate": "400 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed green salad with lettuce, carrots, and possibly other vegetables",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    }
+  ]
+}

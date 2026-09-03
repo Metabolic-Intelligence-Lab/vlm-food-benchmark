@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "lentil stew with grated cheese topping",
+      "portion_estimate": "300",
+      "confidence": 75
+    },
+    {
+      "name": "steamed cauliflower florets",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "spinach and egg frittata slice",
+      "portion_estimate": "90",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "individually packaged fresh cheese (Le Polpine)",
+      "portion_estimate": "50",
+      "confidence": 65
+    },
+    {
+      "name": "uncertain packaged item (possibly grissini or wafer, wrapped)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

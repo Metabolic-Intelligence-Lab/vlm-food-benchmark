@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "300",
+      "confidence": "85"
+    },
+    {
+      "name": "kale",
+      "portion_estimate": "80",
+      "confidence": "90"
+    },
+    {
+      "name": "pita bread",
+      "portion_estimate": "60",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "food_items": [
+    {
+      "name": "Plate of Food",
+      "type": "Gruyere and Broccoli Frittata with Orange",
+      "portion_estimate": {
+        "broccoli": "100g",
+        "cheese": "150g",
+        "orange": "1/4",
+        "frittata": "200g"
+      },
+      "confidence": 80
+    },
+    {
+      "name": "Bread and Orange",
+      "type": "Sliced Bread with Whole Orange",
+      "portion_estimate": {
+        "bread": "50g",
+        "orange": "1/2"
+      },
+      "confidence": 80
+    },
+    {
+      "name": "Bottle of Water",
+      "type": "Coke Soda Bottle",
+      "portion_estimate": {
+        "water": "250ml"
+      },
+      "confidence": 80
+    }
+  ]
+}

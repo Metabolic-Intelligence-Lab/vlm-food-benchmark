@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup with grated cheese",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "chicken nuggets",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit yogurt",
+      "portion_estimate": "125",
+      "confidence": "90"
+    },
+    {
+      "name": "packet of crackers",
+      "portion_estimate": "20",
+      "confidence": "75"
+    }
+  ]
+}

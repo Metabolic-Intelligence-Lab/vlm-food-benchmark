@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "yellow rice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

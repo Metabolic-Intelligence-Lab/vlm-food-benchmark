@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

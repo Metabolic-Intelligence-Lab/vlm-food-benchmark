@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of brown soup or gravy",
+      "portion_estimate": "350g",
+      "confidence": 90
+    },
+    {
+      "name": "roasted meat with creamy sauce",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "roasted chickpeas",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "crunchy snack packet",
+      "portion_estimate": "40g",
+      "confidence": 85
+    },
+    {
+      "name": "yellow snack packet",
+      "portion_estimate": "30g",
+      "confidence": 80
+    }
+  ]
+}

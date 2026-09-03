@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "shell pasta (e.g., jumbo or large shells)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "diced carrots",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "chopped broccoli florets",
+      "portion_estimate": "30",
+      "confidence": 85
+    },
+    {
+      "name": "ground beef or turkey (cooked)",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "cream-based or cheese sauce (uncertain exact type)",
+      "portion_estimate": "80",
+      "confidence": 75
+    }
+  ]
+}

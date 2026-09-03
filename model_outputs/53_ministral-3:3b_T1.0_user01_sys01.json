@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomatoes and vegetables",
+      "portion_estimate": "150g (assuming standard serving of 100-150g)",
+      "confidence": 85
+    },
+    {
+      "name": "green beans (likely stir-fried or steamed)",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "sliced meat on bread (e.g., caprese-style or grilled meat sandwich)",
+      "portion_estimate": "100g (one small slice)",
+      "confidence": 80
+    },
+    {
+      "name": "plain roasted or fried bread roll/pizza pocket",
+      "portion_estimate": "100-110g",
+      "confidence": 75
+    },
+    {
+      "name": "plain water (non-alcoholic beverage in the glass)",
+      "portion_estimate": "150ml",
+      "confidence": 80
+    },
+    {
+      "name": "one ripe pomegranate (seeds)",
+      "portion_estimate": "80g (approximate portion from one fruit)",
+      "confidence": 75
+    }
+  ]
+}

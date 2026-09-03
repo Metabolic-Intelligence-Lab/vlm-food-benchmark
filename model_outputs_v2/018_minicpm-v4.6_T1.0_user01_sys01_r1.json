@@ -1,0 +1,30 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta dish with tomatoes",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "fish fillet",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "small salad with shredded carrots and cabbage",
+      "portion_estimate": "120 grams",
+      "confidence": 95
+    },
+    {
+      "name": "beverage in glass",
+      "portion_estimate": "70 grams (equivalent to ~200ml)",
+      "confidence": 85
+    },
+    {
+      "name": "drink in cup",
+      "portion_estimate": "40 grams (equivalent to ~150ml)",
+      "confidence": 80
+    }
+  ],
+  "note": "Portion estimates are based on visual assessment of typical serving sizes."
+}

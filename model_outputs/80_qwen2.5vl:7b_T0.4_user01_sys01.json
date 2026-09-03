@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed rice with vegetables and nuts",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Potato wedges",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Scrambled egg with vegetables",
+      "portion_estimate": "50",
+      "confidence": 60
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "30",
+      "confidence": 70
+    },
+    {
+      "name": "Mayonnaise sachet",
+      "portion_estimate": "10",
+      "confidence": 60
+    }
+  ]
+}

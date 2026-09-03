@@ -1,0 +1,35 @@
+Based on the visual description of the scene, the distinct, visible food and beverage items are identified as follows. Each item is described with its portion size (estimated based on typical serving sizes and visual cues) and a confidence level (ranging from 70 to 90, where 90 indicates high certainty from packaging or clear visual evidence, and 80–70 indicates estimation based on common portions and context). Note that yogurt is a food item, not a beverage, so it is included under "food."
+
+1. **Bread roll (packaged)**  
+   - **Portion size**: 200 g  
+   - **Confidence level**: 90  
+   - *Rationale*: The item is clearly a packaged bread roll (e.g., a bagel or similar), with the packaging explicitly stating "200 g" as the net weight. This is a high-confidence estimate due to direct visual evidence from the packaging.
+
+2. **Breaded cutlet (fried protein)**  
+   - **Portion size**: 120 g  
+   - **Confidence level**: 80  
+   - *Rationale*: The item is a golden-brown, breaded cutlet (likely chicken or fish) placed on a plate. The portion size is estimated based on typical serving sizes for a single cutlet, which is commonly around 120 g. Confidence is moderate due to visual estimation (e.g., comparing to a standard measuring cup or hand size).
+
+3. **Greek yogurt (brand: GODA)**  
+   - **Portion size**: 120 g  
+   - **Confidence level**: 90  
+   - *Rationale*: The container is labeled "GODA," a well-known brand of Greek yogurt, and the container size corresponds to a standard 120 g serving (common for single-serve yogurt cups). This is high-confidence due to clear branding and packaging details.
+
+4. **Shredded carrots (side dish)**  
+   - **Portion size**: 100 g  
+   - **Confidence level**: 80  
+   - *Rationale*: The item is a bowl of finely shredded carrots, likely served as a side. The portion size is estimated based on typical serving sizes for a side dish (e.g., a standard serving of shredded vegetables is around 100 g). Confidence is moderate due to visual estimation (e.g., the volume relative to a standard cup).
+
+5. **Soft cheese with corn and green beans (dish)**  
+   - **Portion size**: 50 g  
+   - **Confidence level**: 80  
+   - *Rationale*: The item is a plate containing a soft cheese (e.g., mozzarella or brie) mixed with corn kernels and green beans. The portion size is estimated based on the small quantity visible on the plate, which is typical for a light side or appetizer (around 50 g). Confidence is moderate due to visual estimation of the portion relative to the plate size.
+
+### Summary of All Items
+- **Bread roll**: 200 g, confidence 90  
+- **Breaded cutlet**: 120 g, confidence 80  
+- **Greek yogurt**: 120 g, confidence 90  
+- **Shredded carrots**: 100 g, confidence 80  
+- **Soft cheese with corn and green beans**: 50 g, confidence 80  
+
+This list accounts for all distinct, visible food items in the scene. No beverages are present, as the description focuses on solid food items. The portion sizes and confidence levels are derived from standard culinary practices and visual analysis.

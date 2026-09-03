@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "baked peas",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "polenta or bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

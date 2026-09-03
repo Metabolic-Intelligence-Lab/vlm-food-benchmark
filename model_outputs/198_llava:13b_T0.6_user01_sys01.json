@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "bread or bun",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "condiment or sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "meat (possibly chicken or fish)",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    },
+    {
+      "name": "small bottle",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

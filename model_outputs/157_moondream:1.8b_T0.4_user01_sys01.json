@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwiches",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

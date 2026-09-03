@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "baked polenta with mixed vegetables and cheese",
+      "portion_estimate": "90",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat penne pasta with grated cheese",
+      "portion_estimate": "170",
+      "confidence": 90
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "130",
+      "confidence": 95
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "45",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy soup or porridge with visible grains",
+      "portion_estimate": "320 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Steamed green beans",
+      "portion_estimate": "180 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "Small yellow/orange baked slice (e.g., sweet potato)",
+      "portion_estimate": "60 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Whole pear",
+      "portion_estimate": "180 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "Small bread roll or baked pastry",
+      "portion_estimate": "90 grams",
+      "confidence": "90"
+    }
+  ]
+}

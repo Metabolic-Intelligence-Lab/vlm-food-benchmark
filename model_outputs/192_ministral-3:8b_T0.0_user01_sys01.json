@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded cutlet (likely chicken or veal)",
+      "portion_estimate": "180-200g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed kale",
+      "portion_estimate": "100-120g",
+      "confidence": 80
+    },
+    {
+      "name": "roasted or fried carrot fries",
+      "portion_estimate": "150-180g",
+      "confidence": 85
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "uncertain (small portion, ~30g)",
+      "confidence": 60
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "uncertain (likely ~200-250ml)",
+      "confidence": 60
+    }
+  ]
+}

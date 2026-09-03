@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "yellow omelette with green herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "farfalle or bow-tie pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "slice of bread with tomato sauce and cheese",
+      "portion_estimate": "80 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "boiled potatoes and zucchini",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "peach yogurt",
+      "portion_estimate": "125 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "water in a cup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

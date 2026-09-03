@@ -1,0 +1,20 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta Salad",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Apple Chunks (Frozen)",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Coffee Mug",
+      "portion_estimate": "200 milliliters",
+      "confidence": "70"
+    }
+  ],
+  "notes": "The image shows a table with three distinct food items: pasta salad, apple chunks, and coffee. The pasta salad is in a white bowl, the apple chunks are on a plate, and the coffee is in a mug. There's also a napkin next to the plate of apple chunks."
+}

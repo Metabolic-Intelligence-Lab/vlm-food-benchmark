@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup/pureed green soup",
+      "portion_estimate": "300 g",
+      "confidence": "70"
+    },
+    {
+      "name": "grated cheese topping on soup",
+      "portion_estimate": "15 g",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "75"
+    },
+    {
+      "name": "breaded fried cutlet/patty (likely chicken or fish)",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    },
+    {
+      "name": "potato chips/crisps on cutlet",
+      "portion_estimate": "10 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked cabbage (stewed/boiled)",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "apple sauce cup (Yomo foodsservice)",
+      "portion_estimate": "125 g",
+      "confidence": "85"
+    }
+  ]
+}

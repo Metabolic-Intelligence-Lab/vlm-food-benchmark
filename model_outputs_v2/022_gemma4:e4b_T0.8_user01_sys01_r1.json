@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans and mixed vegetables stir-fry",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "Vegetable and protein crumble/mash",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "Herbed grain pilaf or couscous",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "Sliced bread (vacuum-sealed portion)",
+      "portion_estimate": "60",
+      "confidence": "95"
+    },
+    {
+      "name": "Milk or beverage",
+      "portion_estimate": "250",
+      "confidence": "75"
+    }
+  ]
+}

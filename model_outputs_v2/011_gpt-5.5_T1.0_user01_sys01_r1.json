@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "shredded cabbage and red cabbage salad",
+      "portion_estimate": "80 g",
+      "confidence": "80"
+    },
+    {
+      "name": "small orange stone fruit, possibly peach or apricot",
+      "portion_estimate": "70 g",
+      "confidence": "55"
+    },
+    {
+      "name": "cooked leafy greens, likely spinach",
+      "portion_estimate": "75 g",
+      "confidence": "75"
+    },
+    {
+      "name": "folded stuffed flatbread or crepe",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    }
+  ]
+}

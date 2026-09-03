@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed white fish fillet",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "boiled diced potatoes",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "sauteed green vegetables",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "whole grain bread",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "spread in small container",
+      "portion_estimate": "100",
+      "confidence": 80
+    }
+  ]
+}

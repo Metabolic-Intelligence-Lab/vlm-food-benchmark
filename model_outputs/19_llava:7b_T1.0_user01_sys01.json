@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Sunday Breakfast",
+      "portion_estimate": "2 eggs, 1 slice of sausage, 1 toast",
+      "confidence": 90
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "half",
+      "confidence": 85
+    },
+    {
+      "name": "Breakfast Rice",
+      "portion_estimate": "1 cup",
+      "confidence": 70
+    },
+    {
+      "name": "Slices of Orange and Grapes",
+      "portion_estimate": "5 slices of orange, 1 small bunch of grapes",
+      "confidence": 90
+    }
+  ]
+}

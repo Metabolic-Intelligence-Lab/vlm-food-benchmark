@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Fishcake",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pea Soup",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Yogurt with Oats",
+      "portion_estimate": "123g",
+      "confidence": "95"
+    }
+  ]
+}

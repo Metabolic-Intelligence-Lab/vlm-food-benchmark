@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Whole Wheat Bread",
+      "portion_estimate": "60 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Pasta (Penne)",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "White Rice with Cheese",
+      "portion_estimate": "80 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Green Apple",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    }
+  ]
+}

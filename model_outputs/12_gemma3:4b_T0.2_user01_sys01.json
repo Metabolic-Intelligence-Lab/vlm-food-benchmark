@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Egg",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "French Fries",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": 60
+    }
+  ]
+}

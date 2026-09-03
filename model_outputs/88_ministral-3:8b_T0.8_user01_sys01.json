@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "250g (uncertain)",
+      "confidence": 75
+    },
+    {
+      "name": "whole wheat bun (likely for sandwich)",
+      "portion_estimate": "80g (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "brown rice and green peas mixture",
+      "portion_estimate": "200g (uncertain)",
+      "confidence": 80
+    },
+    {
+      "name": "plain cheese pizza slice (e.g., Margherita or similar)",
+      "portion_estimate": "120g (uncertain)",
+      "confidence": 85
+    },
+    {
+      "name": "banana (with some bruising)",
+      "portion_estimate": "120g (uncertain)",
+      "confidence": 90
+    }
+  ]
+}

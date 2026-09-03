@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne with pesto sauce",
+      "portion_estimate": "uncertain, approx. weight of a portion (150g-200g)",
+      "confidence": "60"
+    },
+    {
+      "name": "Boiled cauliflower pieces",
+      "portion_estimate": "uncertain, approx. weight of a portion (150g-200g)",
+      "confidence": "70"
+    },
+    {
+      "name": "Cauliflower fried with carrots and turmeric in yellow mustard sauce",
+      "portion_estimate": "uncertain, approx. weight of a portion (150g-200g)",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread rolls",
+      "portion_estimate": "uncertain, approx. weight of one roll (50g-75g)",
+      "confidence": "50"
+    }
+  ]
+}

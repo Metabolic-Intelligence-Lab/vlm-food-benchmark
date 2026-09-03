@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried fish",
+      "portion_estimate": "20g",
+      "confidence": "90"
+    },
+    {
+      "name": "potatoes and onions",
+      "portion_estimate": "30g",
+      "confidence": "85"
+    },
+    {
+      "name": "oranges",
+      "portion_estimate": "2 pieces",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll in plastic bag",
+      "portion_estimate": "1 piece",
+      "confidence": "85"
+    },
+    {
+      "name": "green vegetables in bowl",
+      "portion_estimate": "40g",
+      "confidence": "90"
+    }
+  ]
+}

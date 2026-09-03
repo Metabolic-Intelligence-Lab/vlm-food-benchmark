@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta with red sauce",
+      "portion_estimate": "uncertain, but possibly approx. 200g",
+      "confidence": "50"
+    },
+    {
+      "name": "baked potato",
+      "portion_estimate": "approx. 180g - 220g",
+      "confidence": "60"
+    },
+    {
+      "name": "broccoli with garlic",
+      "portion_estimate": "uncertain, but possibly approx. 95-110g",
+      "confidence": "40"
+    },
+    {
+      "name": "mashed potatoes and gravy",
+      "portion_estimate": "approx. 75g - 125g",
+      "confidence": "60"
+    }
+  ]
+}

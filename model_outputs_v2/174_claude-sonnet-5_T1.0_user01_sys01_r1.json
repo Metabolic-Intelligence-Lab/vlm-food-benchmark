@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled white fish fillet with tomato and herb sauce",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "sauteed diced zucchini with peppers",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed broccoli florets",
+      "portion_estimate": "80",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "130",
+      "confidence": "85"
+    },
+    {
+      "name": "packaged butter/margarine pat",
+      "portion_estimate": "10",
+      "confidence": "55"
+    }
+  ]
+}

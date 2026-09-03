@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "bowl of soup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "plate of roasted brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

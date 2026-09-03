@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "peanuts",
+      "portion_estimate": "30",
+      "confidence": "70"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "50",
+      "confidence": "75"
+    }
+  ]
+}

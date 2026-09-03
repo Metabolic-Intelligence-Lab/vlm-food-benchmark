@@ -1,0 +1,121 @@
+Based on the input image, I'll attempt to identify the visible food and beverages, and estimate their portion sizes in grams.
+
+### Food Items and Portion Estimates
+
+1. **Pasta with Parmesan**:
+	* Name: Pasta with Parmesan
+	* Portion Estimate: 150-200g (approx.)
+	* Confidence: 80
+2. **Meatballs in Tomato Sauce**:
+	* Name: Meatballs in Tomato Sauce
+	* Portion Estimate: 100-120g (4-6 meatballs)
+	* Confidence: 85
+3. **Mixed Green Salad**:
+	* Name: Mixed Green Salad
+	* Portorment Estimate: 100-120g (approx.)
+	* Confidence: 80
+4. **Grapes**:
+	* Name: Grapes
+	* Portorment Estimate: 100-120g (10-12 grapes)
+	* Confidence: 80
+5. **Bread**:
+	* Name: Bread
+	* Portorment Estimate: 100-120g (one slice)
+	* Confidence: 85
+
+### Output JSON
+
+```json
+{
+  "food_items": [
+    {
+      "name": "Pasta with Parmesan",
+      "portion_estonide": "150-200g",
+      "confidence": 80
+    },
+    {
+      "name": "Meatballs in Tomato Sauce",
+      "portionestide": "100-120g (4-6-omile),",
+      "confidence": 85
+    },
+    {
+      "name": "Mixed Green Salad",
+      "portionestile": "100-120g",
+      "c
+      "i: 80"
+    }
+    {
+      "name": "Grapes",
+      "Por
+      “l : “
+  “a: “
+“G
+      “t
+  “a”
+    ,s,”e”
+    ,”e
+    “,”
+”w
+    ,e
+“p”)
+,”
+,””:
+”,”
+,”
+,”
+  )
+,”
+“c
+)
+“a”
+  “
+,”
+,”
+”)
+”.”
+“
+,”
+,”
+”
+”,
+,”
+ “
+,”
+“
+,”
+”,
+“
+“”-:
+    , “
+“:
+,”,”,”
+,”
+,”
+“,”
+,”,”
+“,”,”
+,”
+,”,”
+,”
+,”
+,”
+,”,”
+,”,”
+,”
+,”
+,”,”
+,”
+,”,”,”,”
+,”,”,”,”
+,”,”,”,”,”,”,”,”,”
+,”
+,”,”,”,”,”
+,”,”,”,”,”,”,”
+,”,”,”
+,”,”,”,”,”,”
+,”,”,”,”
+,”
+,”,”,”,”,”
+,”,”,”,”,”
+,”,”,”,”,”,”,”,”,”,”,”,”,”
+,”,”,”,”,”,”,”,”,”,”,”,”,”,”,”,”,”,”,”,”,”,”,”,”,”,”,”,”,”,”,”

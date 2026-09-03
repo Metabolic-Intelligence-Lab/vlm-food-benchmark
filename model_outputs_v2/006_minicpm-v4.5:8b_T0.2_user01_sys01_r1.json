@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne) with green sauce",
+      "portion_estimate": "200-250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "70 grams",
+      "confidence": 90
+    },
+    {
+      "name": "hashed brown (or hash brown patty)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "chopped zucchini",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "small roll (bun)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt (in small cup)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "water (in clear cup)",
+      "portion_estimate": "200-250 ml",
+      "confidence": 95
+    }
+  ]
+}

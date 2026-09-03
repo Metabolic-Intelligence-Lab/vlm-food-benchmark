@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled swordfish fillet",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta with cheese sauce",
+      "portion_estimate": 180,
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": 120,
+      "confidence": 80
+    },
+    {
+      "name": "whole fresh plums (3 medium)",
+      "portion_estimate": 120,
+      "confidence": 85
+    },
+    {
+      "name": "custard or flan dessert (sliced)",
+      "portion_estimate": 100,
+      "confidence": 70
+    }
+  ]
+}

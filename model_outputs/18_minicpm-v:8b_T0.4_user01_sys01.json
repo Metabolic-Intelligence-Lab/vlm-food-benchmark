@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled fish",
+      "portion_estimate": "uncertain, approx. weight in grams based on typical size of fillet and plate dimensions.",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta with vegetables",
+      "portion_estimate": "uncertain, approx. weight in grams based on the visible portion sizes.",
+      "confidence": "75"
+    },
+    {
+      "name": "Salad (purple cabbage and carrots)",
+      "portion_estimate": "uncertain, approx. weight in grams based on typical serving size of salad mix.",
+      "confidence": "60"
+    }
+  ]
+}

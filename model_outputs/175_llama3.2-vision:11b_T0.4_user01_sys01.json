@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fish with Creamy Sauce",
+      "portion_estimate": "100-150g",
+      "confidence": 90
+    },
+    {
+      "name": "Green Vegetables",
+      "portion_estimate": "100-150g",
+      "confidence": 80
+    },
+    {
+      "name": "Yellow Pieces",
+      "portion_estimate": "50-100g",
+      "confidence": 70
+    },
+    {
+      "name": "Orange Object",
+      "portion_estimate": "50-100g",
+      "confidence": 80
+    }
+  ]
+}

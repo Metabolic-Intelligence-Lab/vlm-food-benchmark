@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "cucumber salad",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "potato salad",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "15g-20g (approximate)",
+      "confidence": "80"
+    },
+    {
+      "name": "drink container with water",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

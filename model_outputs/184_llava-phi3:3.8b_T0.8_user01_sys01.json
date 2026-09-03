@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Brown Bun",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Macaroni and Cheese",
+      "portion_estimate": "125g",
+      "confidence": "80"
+    },
+    {
+      "name": "Cup of Salad",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Two Boiled Eggs with Avocado",
+      "portion_estimate": "180g",
+      "confidence": "60"
+    },
+    {
+      "name": "Piece of Fruit (Grape)",
+      "portion_estimate": "20g",
+      "confidence": "50"
+    }
+  ]
+}

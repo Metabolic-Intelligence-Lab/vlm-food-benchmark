@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "yellow noodles with white sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pink shrimp in clear broth",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "brown beans",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "bag of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

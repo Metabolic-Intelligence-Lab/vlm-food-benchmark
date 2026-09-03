@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Split pea soup with grated cheese",
+      "portion_estimate": 350,
+      "confidence": 95
+    },
+    {
+      "name": "Baked pastry square (quiche or savory tart)",
+      "portion_estimate": 80,
+      "confidence": 92
+    },
+    {
+      "name": "Frozen peas and carrot mix",
+      "portion_estimate": 150,
+      "confidence": 93
+    },
+    {
+      "name": "Plum (whole)",
+      "portion_estimate": 70,
+      "confidence": 88
+    },
+    {
+      "name": "Bread roll in plastic bag",
+      "portion_estimate": 60,
+      "confidence": 90
+    }
+  ]
+}

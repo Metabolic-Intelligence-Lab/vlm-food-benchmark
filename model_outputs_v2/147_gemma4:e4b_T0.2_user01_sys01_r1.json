@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (Fusilli or Rotini)",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Mashed Potatoes or Mash",
+      "portion_estimate": "170g",
+      "confidence": "90"
+    },
+    {
+      "name": "Meat and Vegetable Rag\u00f9/Stew",
+      "portion_estimate": "280g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "110g",
+      "confidence": "95"
+    },
+    {
+      "name": "Plums or Dark Grapes",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    }
+  ]
+}

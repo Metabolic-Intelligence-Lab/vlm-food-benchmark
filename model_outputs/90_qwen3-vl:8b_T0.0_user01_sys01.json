@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "Mixed vegetable salad",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrots and potatoes",
+      "portion_estimate": "150",
+      "confidence": "90"
+    }
+  ]
+}

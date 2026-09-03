@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange chunks (cubed sweet potato)",
+      "portion_estimate": "150g",
+      "confidence": 70
+    },
+    {
+      "name": "whole sweet potatoes",
+      "portion_estimate": "200g (two medium-sized whole sweet potatoes)",
+      "confidence": 75
+    },
+    {
+      "name": "tomato-based soup with croutons on top",
+      "portion_estimate": "350g (including bowl)",
+      "confidence": 85
+    },
+    {
+      "name": "dressing/sauce in small bowl",
+      "portion_estimate": "50g (estimated)",
+      "confidence": 60
+    },
+    {
+      "name": "packaged dish (possible meat patty or similar)",
+      "portion_estimate": "100g (estimated)",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "100-200g",
+      "confidence": "100"
+    },
+    {
+      "name": "Diced Vegetables",
+      "portion_estimate": "100-200g",
+      "confidence": "100"
+    },
+    {
+      "name": "Fruit",
+      "portion_estimate": "100-200g",
+      "confidence": "100"
+    },
+    {
+      "name": "Bread or Crackers",
+      "portion_estimate": "100-200g",
+      "confidence": "100"
+    },
+    {
+      "name": "Cheese or Dairy Product",
+      "portion_estimate": "100-200g",
+      "confidence": "100"
+    }
+  ]
+}

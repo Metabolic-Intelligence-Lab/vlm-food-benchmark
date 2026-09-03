@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked egg omelette base",
+      "portion_estimate": "approximately 120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "spaghetti or noodles mixed into omelette",
+      "portion_estimate": "approximately 60 grams",
+      "confidence": "65"
+    },
+    {
+      "name": "melted cheese topping",
+      "portion_estimate": "approximately 35 grams",
+      "confidence": "75"
+    }
+  ]
+}

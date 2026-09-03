@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rotini pasta",
+      "portion_estimate": "150g",
+      "confidence": 0.8
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "100g",
+      "confidence": 0.7
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "180g",
+      "confidence": 0.85
+    },
+    {
+      "name": "Stewed vegetable dish",
+      "portion_estimate": "180g",
+      "confidence": 0.75
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "150g",
+      "confidence": 0.8
+    }
+  ]
+}

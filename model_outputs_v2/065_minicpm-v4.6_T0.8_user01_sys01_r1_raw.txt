@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "leafy green salad",
+      "portion_estimate": "approximately 120 grams",
+      "confidence": 95
+    },
+    {
+      "name": "bun/roll",
+      "portion_estimate": "approximately 60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "patty with sauce",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "diced potatoes",
+      "portion_estimate": "approximately 200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "yogurt cup",

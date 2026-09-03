@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "yellowish side dish (potatoes or starch)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "casserole or baked food",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "banana slices",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and basil",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "breaded cutlet with fresh tomato and basil topping",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "radicchio and carrot salad",
+      "portion_estimate": "90",
+      "confidence": 75
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "plain yogurt (Sprint Day brand)",
+      "portion_estimate": "125",
+      "confidence": 85
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": 70
+    }
+  ]
+}

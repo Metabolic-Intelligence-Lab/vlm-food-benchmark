@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne or rigatoni)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "carrots and vegetables/legumes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "yellow sauce/condiment",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "dessert/snack",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "nuts or dried fruits",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apple (halved)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

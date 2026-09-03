@@ -1,0 +1,33 @@
+The distinct, visible food items in the image are gnocchi, red bell peppers, grated cheese, and fresh herbs. Portion estimates and confidence levels are based on typical serving sizes for such dishes, with confidence reflecting the likelihood of accurate identification.
+
+- **Gnocchi**: The round, soft pieces are clearly identifiable as gnocchi. A standard serving size is approximately 150 grams, with high confidence (90%) due to the distinct appearance and common use in dishes.
+- **Red bell peppers**: The red chunks are likely red bell peppers, a common ingredient in gnocchi dishes. A serving size of about 50 grams is reasonable, with moderate confidence (80%) as the color and shape are consistent with bell peppers.
+- **Grated cheese**: The white powder is clearly grated cheese, typically used as a topping. A serving size of around 20 grams is plausible, with moderate confidence (70%) based on the texture and context.
+- **Fresh herbs**: The small green bits are likely fresh herbs (e.g., basil), which are often used in such preparations. A serving size of approximately 5 grams is reasonable, with lower confidence (60%) due to the small quantity and potential for similar-looking ingredients.
+
+The portion estimates are approximate and based on typical culinary practices.
+
+\boxed{
+[
+  {
+    "name": "gnocchi",
+    "portion_estimate": "150",
+    "confidence": "90"
+  },
+  {
+    "name": "red bell peppers",
+    "portion_estimate": "50",
+    "confidence": "80"
+  },
+  {
+    "name": "grated cheese",
+    "portion_estimate": "20",
+    "confidence": "70"
+  },
+  {
+    "name": "fresh herbs",
+    "portion_estimate": "5",
+    "confidence": "60"
+  }
+]
+}

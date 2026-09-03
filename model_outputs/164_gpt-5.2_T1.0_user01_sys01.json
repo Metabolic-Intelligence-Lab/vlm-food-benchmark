@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup (pureed) with grated cheese",
+      "portion_estimate": "320 g",
+      "confidence": "74"
+    },
+    {
+      "name": "grated cheese topping on soup",
+      "portion_estimate": "15 g",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "70"
+    },
+    {
+      "name": "vanilla pudding/custard cup (Yomo Foodservice, 125 g)",
+      "portion_estimate": "125 g",
+      "confidence": "88"
+    },
+    {
+      "name": "breaded fried cutlet (likely chicken or pork)",
+      "portion_estimate": "110 g",
+      "confidence": "62"
+    },
+    {
+      "name": "potato chips on cutlet",
+      "portion_estimate": "8 g",
+      "confidence": "66"
+    },
+    {
+      "name": "cooked cabbage (possibly braised)",
+      "portion_estimate": "120 g",
+      "confidence": "68"
+    }
+  ]
+}

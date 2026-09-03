@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "unidentified beverage",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

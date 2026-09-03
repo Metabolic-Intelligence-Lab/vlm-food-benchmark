@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Lentil soup with cheese topping",
+      "portion_estimate": "350g",
+      "confidence": "90"
+    },
+    {
+      "name": "Peas and carrots",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "70g",
+      "confidence": "90"
+    },
+    {
+      "name": "Elio spread",
+      "portion_estimate": "80g",
+      "confidence": "85"
+    },
+    {
+      "name": "Small white container (yogurt or dip)",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    }
+  ]
+}

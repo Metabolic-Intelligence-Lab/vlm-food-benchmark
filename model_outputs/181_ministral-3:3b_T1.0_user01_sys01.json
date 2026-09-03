@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (uncooked or with minimal water)",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "buttered grilled chicken in a pie",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "bun (from baguette or burger bun) wrapped",
+      "portion_estimate": 80,
+      "confidence": 80
+    },
+    {
+      "name": "plain or unsweetened apple",
+      "portion_estimate": 175,
+      "confidence": 90
+    },
+    {
+      "name": "sweet potato or yam puree (soup or mashed texture)",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "cheddar cheese slice",
+      "portion_estimate": 25,
+      "confidence": 75
+    },
+    {
+      "name": "canned or cooked cabbage/cooked vegetables shreds",
+      "portion_estimate": 50,
+      "confidence": 70
+    }
+  ]
+}

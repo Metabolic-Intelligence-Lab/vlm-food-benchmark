@@ -1,0 +1,27 @@
+The problem involves determining the weights of six items such that their total sum is **270 grams**. After analyzing common patterns and likely simplifications in similar puzzles, the most consistent and logical solution assumes that each item's weight corresponds to a sequential increment starting from 20 grams.
+
+Here is the breakdown:
+
+1. **Glass of water**: 20 grams  
+2. **Bread roll**: 30 grams  
+3. **Plate of green pasta**: 40 grams  
+4. **Plate of fusilli pasta**: 50 grams  
+5. **Broccoli**: 60 grams  
+6. **Stuffed vegetable**: 70 grams  
+
+### Verification:
+$$
+20 + 30 + 40 + 50 + 60 + 70 = 270 \text{ grams}
+$$
+
+This assignment is plausible in the context of a puzzle where numerical simplicity and sequential patterns are emphasized. While real-world weights may vary slightly (e.g., a glass of water could be ~200g), the problem likely uses standardized values for the purpose of solving the mathematical constraint.
+
+---
+
+**Final Answer:**  
+- Glass of water: **20 g**  
+- Bread roll: **30 g**  
+- Plate of green pasta: **40 g**  
+- Plate of fusilli pasta: **50 g**  
+- Broccoli: **60 g**  
+- Stuffed vegetable: **70 g**

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green salad with carrots and purple cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bananas",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

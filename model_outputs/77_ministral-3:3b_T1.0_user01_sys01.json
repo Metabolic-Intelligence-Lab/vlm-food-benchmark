@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "kidney beans with green beans",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "baguette bread (wrapped, appears slightly soft)",
+      "portion_estimate": "30g",
+      "confidence": 70
+    },
+    {
+      "name": "fried cauliflower/rice blend",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "skinless baked fish fillet (with olive oil seasoning)",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "tomato salad (peeled tomatoes, 2-3 medium)",
+      "portion_estimate": "80g",
+      "confidence": 65
+    }
+  ]
+}

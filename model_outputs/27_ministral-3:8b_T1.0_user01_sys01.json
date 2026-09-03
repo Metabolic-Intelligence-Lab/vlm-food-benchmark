@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "sourdough sandwich with egg, herbs, and cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baked or fried fries (potato wedges)",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed spinach",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "plain yogurt (in red container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

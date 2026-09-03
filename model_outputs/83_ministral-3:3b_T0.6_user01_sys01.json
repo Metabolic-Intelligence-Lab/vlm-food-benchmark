@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed kale and quinoa mixture",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "plain yogurt (Greek-style) in carton",
+      "portion_estimate": "175",
+      "confidence": 85
+    },
+    {
+      "name": "grilled chicken breast with mashed sweet potato topping",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "sweet potato chunks (roasted or baked)",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "salted carrot sticks (in plastic wrap)",
+      "portion_estimate": "30",
+      "confidence": 80
+    }
+  ]
+}

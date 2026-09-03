@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based vegetable soup or stew",
+      "portion_estimate": "300 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked salmon fillet with small sauce/garnish",
+      "portion_estimate": "100 g",
+      "confidence": "75"
+    },
+    {
+      "name": "uncertain cooked dark leafy greens or seaweed",
+      "portion_estimate": "80 g",
+      "confidence": "55"
+    },
+    {
+      "name": "plain bread rolls, packaged",
+      "portion_estimate": "140 g",
+      "confidence": "75"
+    },
+    {
+      "name": "mandarin orange or small orange",
+      "portion_estimate": "120 g",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 g",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked chickpeas (dry roasted)",
+      "portion_estimate": 120,
+      "confidence": 85
+    },
+    {
+      "name": "chopped cucumber (or similar raw salad topping)",
+      "portion_estimate": 20,
+      "confidence": 80
+    },
+    {
+      "name": "olive oil or tahini dressing",
+      "portion_estimate": 5,
+      "confidence": 75
+    },
+    {
+      "name": "toasted pita bread (crusty piece)",
+      "portion_estimate": 80,
+      "confidence": 80
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": 180,
+      "confidence": 90
+    },
+    {
+      "name": "condiment packet (type uncertain, possibly ketchup or tomato sauce)",
+      "portion_estimate": 25,
+      "confidence": 50
+    },
+    {
+      "name": "beverage in sealed plastic container (likely milk or milk-based drink)",
+      "portion_estimate": 200,
+      "confidence": 65
+    }
+  ]
+}

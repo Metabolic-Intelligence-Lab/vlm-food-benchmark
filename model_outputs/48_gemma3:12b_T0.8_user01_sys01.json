@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Rigatoni Pasta with Red Sauce",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "Roasted Potatoes",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "Yogurt - Uncertain Flavor",
+      "portion_estimate": "125",
+      "confidence": "70"
+    }
+  ]
+}

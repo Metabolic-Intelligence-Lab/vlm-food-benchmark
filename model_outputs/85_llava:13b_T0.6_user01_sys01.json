@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chili or similar stew",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "apple and half-eaten sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "stuffed grape leaves or similar rolled dishes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "meatballs or similar meat-based dish",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

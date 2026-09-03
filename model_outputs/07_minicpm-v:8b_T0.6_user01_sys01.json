@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked bun",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "vegan yogurt with cherry tomatoes and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "salad mix (lettuce, carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "breaded chicken cutlet",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "chickpea stew with herbs and spices",
+      "portion_estimate": "300g",
+      "confidence": "95"
+    }
+  ]
+}

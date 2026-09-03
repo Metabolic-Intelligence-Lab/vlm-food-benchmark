@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato-based sauce and vegetables",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Baked potato wedges or cubes with seasoning",
+      "portion_estimate": 120,
+      "confidence": 90
+    },
+    {
+      "name": "Crispy breaded cutlets (likely chicken or fish)",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "Yogurt cup",
+      "portion_estimate": 125,
+      "confidence": 95
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": 200,
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cauliflower rice",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Stewed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Fish fillet with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "approx. 60 grams",
+      "confidence": "80"
+    }
+  ]
+}

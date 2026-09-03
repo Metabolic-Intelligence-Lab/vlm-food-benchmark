@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bun (uncertain portion, standard size)",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed salad with cucumber, tomatoes, olives, and greens",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "chicken and rice filling wrapped in lettuce (or possibly cabbage)",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "side of sliced mushrooms",
+      "portion_estimate": "30",
+      "confidence": "60"
+    },
+    {
+      "name": "whole plum",
+      "portion_estimate": "50",
+      "confidence": "75"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bun",
+      "portion_estimate": "7",
+      "confidence": "100"
+    },
+    {
+      "name": "dried fruit",
+      "portion_estimate": "5",
+      "confidence": "100"
+    },
+    {
+      "name": "fusilli",
+      "portion_estimate": "15",
+      "confidence": "100"
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "10",
+      "confidence": "100"
+    },
+    {
+      "name": "fritters",
+      "portion_estimate": "10",
+      "confidence": "100"
+    }
+  ]
+}

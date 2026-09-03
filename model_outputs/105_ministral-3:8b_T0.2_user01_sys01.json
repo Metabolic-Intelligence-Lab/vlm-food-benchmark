@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "iceberg or similar lettuce",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "red cabbage (sliced)",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "grilled or baked chicken breast (diced)",
+      "portion_estimate": "70g",
+      "confidence": 75
+    },
+    {
+      "name": "white radish (daikon)",
+      "portion_estimate": "60g",
+      "confidence": 70
+    }
+  ]
+}

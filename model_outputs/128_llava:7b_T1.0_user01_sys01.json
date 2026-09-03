@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti bolognese with meat sauce and cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Garlic bread",
+      "portion_estimate": "80 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Meatballs or chicken nuggets",
+      "portion_estimate": "30 grams",
+      "confidence": "50"
+    }
+  ]
+}

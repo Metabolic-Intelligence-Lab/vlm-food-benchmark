@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with herbs",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "saut\u00e9ed carrot slices",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "mashed potato or grain base topped with shredded chicken and vegetables",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "fresh peach",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "dried fruit in package",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250g",
+      "confidence": 90
+    }
+  ]
+}

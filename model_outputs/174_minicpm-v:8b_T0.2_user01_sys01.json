@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed vegetables (zucchini, bell pepper)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

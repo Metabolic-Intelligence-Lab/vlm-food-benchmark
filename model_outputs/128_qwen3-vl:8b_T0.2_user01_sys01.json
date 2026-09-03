@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "Tomato meat sauce",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Shredded Parmesan cheese",
+      "portion_estimate": "20",
+      "confidence": "85"
+    }
+  ]
+}

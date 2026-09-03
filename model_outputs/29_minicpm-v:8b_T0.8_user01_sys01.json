@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain, but likely 1 slice approx. 50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "approx. 249g",
+      "confidence": "70"
+    },
+    {
+      "name": "Roasted mushrooms and pasta with cheese sauce",
+      "portion_estimate": "uncertain, but likely plate size approx. 350-400g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green salad (possibly zucchini)",
+      "portion_estimate": "uncertain, but likely small bowl approx. 120-150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Cheese pizza slice with various toppings and cheese topping",
+      "portion_estimate": "uncertain, but likely serving size approx. 75g - see detailed description below",
+      "confidence": "80"
+    }
+  ]
+}

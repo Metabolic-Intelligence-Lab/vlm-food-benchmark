@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meat",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "pizza",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

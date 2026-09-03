@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried rice with egg, vegetables (corn, peas, carrots), and mushrooms",
+      "portion_estimate": "300",
+      "confidence": "95"
+    },
+    {
+      "name": "Egg frittata or omelette",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "Sliced white bread roll (wrapped)",
+      "portion_estimate": "80",
+      "confidence": "95"
+    },
+    {
+      "name": "Coffee creamer",
+      "portion_estimate": "125",
+      "confidence": "90"
+    }
+  ]
+}

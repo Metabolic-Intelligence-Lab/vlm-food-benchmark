@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with cheese and greens",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Sliced sandwich with leafy greens and other ingredients",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Bun",
+      "portion_estimate": "50",
+      "confidence": 60
+    }
+  ]
+}

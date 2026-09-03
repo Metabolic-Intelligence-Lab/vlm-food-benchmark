@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Fish Patty",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Steamed Carrots",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Peas and Corn Salad",
+      "portion_estimate": "80 grams",
+      "confidence": "65"
+    }
+  ]
+}

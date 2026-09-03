@@ -1,0 +1,25 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Green lentils with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60,
+      "description": "Unwrapped and partially unwrapped"
+    },
+    {
+      "name": "Yogurt (red lid)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

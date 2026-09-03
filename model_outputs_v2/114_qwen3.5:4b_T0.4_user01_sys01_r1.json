@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "potato wedges (fries)",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "meat patty or cutlet",
+      "portion_estimate": "100",
+      "confidence": 75
+    }
+  ]
+}

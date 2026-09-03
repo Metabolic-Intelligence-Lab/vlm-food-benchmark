@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup/puree (spinach or broccoli-like)",
+      "portion_estimate": "280 g",
+      "confidence": "78"
+    },
+    {
+      "name": "sliced carrots (raw or cooked)",
+      "portion_estimate": "70 g",
+      "confidence": "82"
+    },
+    {
+      "name": "breaded fried balls (croquettes/arancini-like), 2 pieces",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Torinesi cheese stick/slice (semi-hard cheese)",
+      "portion_estimate": "30 g",
+      "confidence": "67"
+    },
+    {
+      "name": "single-serve fruit yogurt (strawberry or mixed berry)",
+      "portion_estimate": "125 g",
+      "confidence": "74"
+    }
+  ]
+}

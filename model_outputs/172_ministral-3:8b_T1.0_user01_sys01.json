@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green peas (cooked)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "mixed leaf salad (lettuce/cabbage blend with tomatoes and possibly other vegetables)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "pasta (penne or similar with butter or oil)",
+      "portion_estimate": "120g (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "hard-boiled egg",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "mayonnaise (spread in a small container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

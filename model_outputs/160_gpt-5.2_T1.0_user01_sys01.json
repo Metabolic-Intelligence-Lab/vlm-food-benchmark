@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "creamy soup with small pasta (possibly ditalini) and beans",
+      "portion_estimate": "320 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "140 g",
+      "confidence": "85"
+    },
+    {
+      "name": "vegetable patty/croquette (round, breaded or baked)",
+      "portion_estimate": "90 g",
+      "confidence": "65"
+    },
+    {
+      "name": "white sauce/dip on patty (possibly yogurt or mayonnaise-based)",
+      "portion_estimate": "20 g",
+      "confidence": "60"
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "15 g",
+      "confidence": "80"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "160 g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    }
+  ]
+}

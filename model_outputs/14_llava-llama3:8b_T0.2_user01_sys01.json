@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "pasta salad",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "coleslaw",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

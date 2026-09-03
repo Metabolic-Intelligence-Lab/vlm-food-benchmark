@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Crackers or crackers",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed nuts",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Diced potatoes",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrot sticks",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "Fruit, possibly apple",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "Unsurendered items",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

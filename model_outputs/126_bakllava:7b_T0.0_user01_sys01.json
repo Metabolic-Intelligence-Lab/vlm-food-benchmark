@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

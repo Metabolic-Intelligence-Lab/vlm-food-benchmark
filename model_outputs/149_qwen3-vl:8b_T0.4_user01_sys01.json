@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spinach flatbread",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Cooked cabbage",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Penne pasta",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "150g (3 plums, ~50g each)",
+      "confidence": "90"
+    },
+    {
+      "name": "Muffin",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    }
+  ]
+}

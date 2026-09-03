@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta dish with tomato sauce and cheese",
+      "portion_estimate": "200-250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetable side (zucchini, potatoes, possibly garlic)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "bun or roll",
+      "portion_estimate": "50-75 grams",
+      "confidence": 75
+    }
+  ]
+}

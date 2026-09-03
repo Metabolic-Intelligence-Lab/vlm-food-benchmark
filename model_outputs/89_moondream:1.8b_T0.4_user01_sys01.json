@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

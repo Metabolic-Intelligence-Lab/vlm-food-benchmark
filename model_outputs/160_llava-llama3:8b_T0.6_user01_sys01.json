@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "beige soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "green beans and orange corn",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "wheat bread sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sugar packet",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

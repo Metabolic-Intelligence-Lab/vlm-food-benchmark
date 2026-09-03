@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "chili",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "radiatore pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "spinach or leafy green",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "small white bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt or sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

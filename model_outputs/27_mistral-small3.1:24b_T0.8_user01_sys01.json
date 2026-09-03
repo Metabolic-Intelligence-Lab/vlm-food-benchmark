@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce and parmesan",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "cheese and herb sandwich",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed kale",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "small cup of water",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "yogurt container",
+      "portion_estimate": "150",
+      "confidence": "60"
+    },
+    {
+      "name": "cookie packet",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

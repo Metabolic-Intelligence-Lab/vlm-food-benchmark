@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Spinach and cheese quiche",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Salad with cucumber, cabbage, carrots, and dressing",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Two mandarin oranges",
+      "portion_estimate": "uncertain, approx. 200g each",
+      "confidence": "70"
+    }
+  ]
+}

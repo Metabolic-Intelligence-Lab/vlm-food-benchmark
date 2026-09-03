@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "meatballs",
+      "portion_estimate": "8-10 grams",
+      "confidence": 85
+    },
+    {
+      "name": "lasagna",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

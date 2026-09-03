@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pesto pasta with cheese",
+      "portion_estimate": "250-300g",
+      "confidence": 95
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "140-160g",
+      "confidence": 90
+    },
+    {
+      "name": "Burger patty (uncooked)",
+      "portion_estimate": "150-180g",
+      "confidence": 85
+    },
+    {
+      "name": "Cheese toast",
+      "portion_estimate": "120-150g",
+      "confidence": 80
+    },
+    {
+      "name": "Roasted Brussels sprouts",
+      "portion_estimate": "130-150g",
+      "confidence": 95
+    }
+  ]
+}

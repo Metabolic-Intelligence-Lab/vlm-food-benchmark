@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "stuffed vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "pasta with pesto",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "unidentifiable item in a wrapper",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

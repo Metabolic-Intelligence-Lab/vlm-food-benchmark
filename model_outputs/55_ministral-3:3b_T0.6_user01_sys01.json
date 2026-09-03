@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "steamed white rice (or similar starch)",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "mixed stir-fried vegetables with mushrooms and carrots",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "kale or spinach greens saut\u00e9ed",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "water (clear glass)",
+      "portion_estimate": "250",
+      "confidence": 85
+    }
+  ]
+}

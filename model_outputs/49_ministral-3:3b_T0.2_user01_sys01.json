@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (with sauce)",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "chicken meat (in sauce)",
+      "portion_estimate": "30",
+      "confidence": 85
+    },
+    {
+      "name": "tomato chunks",
+      "portion_estimate": "20",
+      "confidence": 80
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "15",
+      "confidence": 85
+    }
+  ]
+}

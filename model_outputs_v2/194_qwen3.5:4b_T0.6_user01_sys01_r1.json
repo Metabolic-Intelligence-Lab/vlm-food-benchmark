@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup (likely tomato-based)",
+      "portion_estimate": "250",
+      "confidence": 80
+    },
+    {
+      "name": "waffle or pancake with toppings",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "steamed greens (likely kale)",
+      "portion_estimate": "80",
+      "confidence": 75
+    },
+    {
+      "name": "orange segment",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100",
+      "confidence": 70
+    }
+  ]
+}

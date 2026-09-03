@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sweet potato cubes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "peaches",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

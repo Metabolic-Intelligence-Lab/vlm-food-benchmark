@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "vegetables (carrots and potatoes)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "grilled or roasted meat",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

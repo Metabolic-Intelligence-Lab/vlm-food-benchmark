@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato-based sauce and a few vegetables (e.g., zucchini/pepper)",
+      "portion_estimate": "200 g",
+      "confidence": "72"
+    },
+    {
+      "name": "roasted diced potatoes (seasoned)",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "breaded chicken cutlets/fillets (2 pieces)",
+      "portion_estimate": "180 g",
+      "confidence": "70"
+    },
+    {
+      "name": "fruit yogurt cup (likely berry flavor)",
+      "portion_estimate": "125 g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll (in plastic bag, partially visible)",
+      "portion_estimate": "60 g",
+      "confidence": "62"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "200 g",
+      "confidence": "60"
+    }
+  ]
+}

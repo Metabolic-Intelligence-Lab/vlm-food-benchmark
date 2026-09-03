@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed rice and vegetable stir-fry (with carrots, peas, and possibly corn)",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "plain yogurt (plain, possibly Greek)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "roasted potatoes with green beans",
+      "portion_estimate": "180",
+      "confidence": 92
+    },
+    {
+      "name": "fried egg (in plastic wrap)",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "sweet potato or hash browns (top right of plate)",
+      "portion_estimate": "120",
+      "confidence": 80
+    }
+  ]
+}

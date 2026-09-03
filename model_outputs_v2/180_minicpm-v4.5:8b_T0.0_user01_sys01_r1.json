@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "chickpeas and diced orange vegetables (likely carrots or sweet potatoes)",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "small stuffed vegetable (likely eggplant) with cheese",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    }
+  ]
+}

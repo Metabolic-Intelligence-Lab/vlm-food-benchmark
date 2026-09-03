@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "cooked white rice",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated Parmesan-style cheese on rice",
+      "portion_estimate": "10 g",
+      "confidence": "60"
+    },
+    {
+      "name": "olive oil or melted butter drizzled on rice",
+      "portion_estimate": "7 g",
+      "confidence": "55"
+    },
+    {
+      "name": "cooked chickpeas (garbanzo beans)",
+      "portion_estimate": "160 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked white fish fillet",
+      "portion_estimate": "90 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "75"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "170 g",
+      "confidence": "72"
+    },
+    {
+      "name": "packaged sliced cheese",
+      "portion_estimate": "20 g",
+      "confidence": "65"
+    }
+  ]
+}

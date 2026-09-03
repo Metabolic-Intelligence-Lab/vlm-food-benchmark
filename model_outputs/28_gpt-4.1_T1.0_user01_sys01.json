@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce and vegetables (peas, mushrooms, eggplant, tomato)",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "steamed leafy greens (possibly spinach or chard)",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "stuffed pasta (possibly spinach and ricotta ravioli with cheese)",
+      "portion_estimate": "80",
+      "confidence": 75
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "40",
+      "confidence": 90
+    },
+    {
+      "name": "mixed salad (cabbage, lettuce, carrots, radicchio)",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "plain yogurt (red container, unopened)",
+      "portion_estimate": "125",
+      "confidence": 95
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200",
+      "confidence": 98
+    }
+  ]
+}

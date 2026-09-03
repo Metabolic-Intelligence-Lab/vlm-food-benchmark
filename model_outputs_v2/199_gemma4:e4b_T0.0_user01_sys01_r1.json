@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green pasta with grated cheese",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Green peas",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Savory rolled pastry or wrap",
+      "portion_estimate": "70g",
+      "confidence": "80"
+    }
+  ]
+}

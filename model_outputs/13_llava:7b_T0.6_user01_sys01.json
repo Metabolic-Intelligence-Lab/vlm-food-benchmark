@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Watermelon",
+      "portion_estimate": "1 slice",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "Fried chicken",
+      "portion_estimate": "1 piece",
+      "confidence": "70"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken or pork cutlet with red sauce and shredded cabbage/lettuce topping",
+      "portion_estimate": "190 g",
+      "confidence": "62"
+    },
+    {
+      "name": "cooked farfalle pasta (plain/lightly seasoned)",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "82"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked cauliflower (pieces/florets)",
+      "portion_estimate": "110 g",
+      "confidence": "70"
+    }
+  ]
+}

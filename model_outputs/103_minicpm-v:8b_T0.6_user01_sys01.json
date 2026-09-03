@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain, approximate weight in grams if known",
+      "confidence": "60"
+    },
+    {
+      "name": "Pork chop with garnish",
+      "portion_estimate": "uncertain, approximate weight in grams if known",
+      "confidence": "50"
+    },
+    {
+      "name": "Broth-based soup",
+      "portion_estimate": "uncertain, approximate weight in grams if known",
+      "confidence": "60"
+    }
+  ]
+}

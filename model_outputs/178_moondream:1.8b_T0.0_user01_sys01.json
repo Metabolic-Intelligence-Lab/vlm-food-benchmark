@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "noodles with broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta with pear",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread with other food items",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

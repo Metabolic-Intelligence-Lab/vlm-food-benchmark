@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "crispy breadstick",
+      "portion_estimate": 50,
+      "confidence": 95
+    },
+    {
+      "name": "mixed vegetable stir-fry with mushrooms, carrots, and snap peas",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "polenta with tomato sauce, herbs, and possibly grated cheese",
+      "portion_estimate": 180,
+      "confidence": 85
+    },
+    {
+      "name": "water (in clear plastic cup)",
+      "portion_estimate": 250,
+      "confidence": 98
+    },
+    {
+      "name": "small roll (possibly garlic or naan bread)",
+      "portion_estimate": 40,
+      "confidence": 70
+    }
+  ]
+}

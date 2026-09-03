@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "carrots (in bowl)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "cake",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "carrots (in bowl)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

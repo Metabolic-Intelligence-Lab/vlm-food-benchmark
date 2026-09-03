@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "spaghetti with cheese and spinach on toast",
+      "portion_estimate": "200g (approximate)",
+      "confidence": "70"
+    },
+    {
+      "name": "french toast with egg",
+      "portion_estimate": "uncertain, but likely 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "spiralized vegetables (possibly cabbage and carrots)",
+      "portion_estimate": "uncertain, possibly a cup or more",
+      "confidence": "40"
+    }
+  ]
+}

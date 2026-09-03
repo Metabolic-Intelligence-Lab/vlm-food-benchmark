@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta and meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread and sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "beans and rice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "cake",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "wrapped snack",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "juice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

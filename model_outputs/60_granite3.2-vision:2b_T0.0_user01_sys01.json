@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "breaded and fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red sauce or dip",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "yogurt or dairy product",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

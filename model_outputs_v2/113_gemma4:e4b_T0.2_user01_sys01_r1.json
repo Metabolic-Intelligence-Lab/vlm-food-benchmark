@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread rolls (in plastic bag)",
+      "portion_estimate": "350",
+      "confidence": "95"
+    },
+    {
+      "name": "soup or stew (with white topping)",
+      "portion_estimate": "380",
+      "confidence": "90"
+    },
+    {
+      "name": "meatballs or savory croquettes",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "slice of savory pie or quiche",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "red fruit (e.g., apples or plums)",
+      "portion_estimate": "230",
+      "confidence": "90"
+    }
+  ]
+}

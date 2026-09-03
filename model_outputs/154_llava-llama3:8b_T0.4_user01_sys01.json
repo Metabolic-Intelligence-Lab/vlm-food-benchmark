@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices and broccoli florets",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "yellow noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "piece of meat",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pasta salad",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "blueberry muffin",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "baguette roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

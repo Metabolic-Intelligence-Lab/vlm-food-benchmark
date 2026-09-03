@@ -1,0 +1,31 @@
+{
+  "food_items": [
+    {
+      "name": "steamed green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "120-180 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "muffins or cakes with dark spots",
+      "portion_estimate": "uncertain, possibly 35-45g each based on size and typical serving sizes for this type of food.",
+      "confidence": "60"
+    },
+    {
+      "name": "sliced white bread roll",
+      "portion_estimate": "120 grams",
+      "confidence": "80"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "red canned drink with visible label (possibly juice or soda)",
+      "portion_estimate": "uncertain, possibly a small can of around 354ml based on common serving sizes for this type of beverage.",
+      "confidence": "60"
+    }
+  ]
+}

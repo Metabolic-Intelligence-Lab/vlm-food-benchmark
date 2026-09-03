@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bread slice",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "pasta with cheese sauce (e.g., fettuccine al burro)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "salted crackers (e.g., saltine crackers)",
+      "portion_estimate": "30",
+      "confidence": 85
+    },
+    {
+      "name": "plain waffle or griddle pancake",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "plum (1 whole)",
+      "portion_estimate": "80",
+      "confidence": 90
+    }
+  ]
+}

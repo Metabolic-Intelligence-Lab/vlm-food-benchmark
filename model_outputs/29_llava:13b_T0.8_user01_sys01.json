@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with meat sauce",
+      "portion_estimate": "150-200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Side of beans or peas",
+      "portion_estimate": "100-150 grams",
+      "confidence": "40"
+    },
+    {
+      "name": "Green bean casserole (if topped with cheese)",
+      "portion_estimate": "200-250 grams",
+      "confidence": "60"
+    }
+  ]
+}

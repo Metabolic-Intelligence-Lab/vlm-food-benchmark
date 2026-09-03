@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "diced tomatoes",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "grated cheese",
+      "portion_estimate": "30",
+      "confidence": "70"
+    },
+    {
+      "name": "basil leaves",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

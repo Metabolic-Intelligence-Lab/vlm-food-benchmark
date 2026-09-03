@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Beans with vegetable mix",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "Cooked fish fillet",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Vegetable medley",
+      "portion_estimate": "50g",
+      "confidence": 75
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "20g",
+      "confidence": 80
+    }
+  ]
+}

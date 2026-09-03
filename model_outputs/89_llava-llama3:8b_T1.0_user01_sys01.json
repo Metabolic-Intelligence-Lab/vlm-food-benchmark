@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "salmon",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread in blue wrapper",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

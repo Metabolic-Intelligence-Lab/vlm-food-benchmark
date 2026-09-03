@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce and grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "glazed bun",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "potato cubes (likely with crumbled topping)",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "green and yellow open-faced sandwich (possibly pesto and mozzarella)",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt (Yomogi flavor)",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 ml",
+      "confidence": "100"
+    },
+    {
+      "name": "packaged butter or cream (yellow tub)",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    }
+  ]
+}

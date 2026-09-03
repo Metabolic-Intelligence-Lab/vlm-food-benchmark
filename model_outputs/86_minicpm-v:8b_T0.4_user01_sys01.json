@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled fish",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with cheese sauce and broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Blueberries",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

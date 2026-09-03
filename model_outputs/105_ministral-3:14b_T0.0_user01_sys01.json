@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken breast",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "red cabbage (raw, shredded)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "green leaf lettuce (romaine or similar)",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "carrot (shredded)",
+      "portion_estimate": "30g",
+      "confidence": 75
+    },
+    {
+      "name": "white bean (cannellini or similar, halved)",
+      "portion_estimate": "50g",
+      "confidence": 70
+    }
+  ]
+}

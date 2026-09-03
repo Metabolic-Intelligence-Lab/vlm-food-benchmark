@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "brown bread roll",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "pasta with meat sauce",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "green bean casserole with cream",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "plain yogurt cup (unspecified flavor)",
+      "portion_estimate": "150",
+      "confidence": 75
+    }
+  ]
+}

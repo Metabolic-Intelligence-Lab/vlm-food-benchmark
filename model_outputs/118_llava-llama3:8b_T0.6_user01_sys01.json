@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange pasta with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "diced potatoes garnished with parsley",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "chicken smothered in red sauce and green herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pink liquid (beverage)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

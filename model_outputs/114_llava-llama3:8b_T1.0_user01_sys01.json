@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "fish fillets and potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Kix cereal",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

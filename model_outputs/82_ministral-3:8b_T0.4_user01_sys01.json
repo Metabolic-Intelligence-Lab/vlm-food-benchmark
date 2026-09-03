@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "mixed greens salad (lettuce/cabbage)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "fried or baked potato dish (e.g., hash browns, croquettes)",
+      "portion_estimate": "180g",
+      "confidence": 80
+    },
+    {
+      "name": "seaweed salad or dried seaweed",
+      "portion_estimate": "30g",
+      "confidence": 75
+    },
+    {
+      "name": "raw onion",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "wrap or tortilla (unopened)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "yogurt or dairy product in small container",
+      "portion_estimate": "uncertain (likely ~120g)",
+      "confidence": 60
+    },
+    {
+      "name": "plastic cup with liquid (likely water or beverage)",
+      "portion_estimate": "uncertain (likely ~250ml)",
+      "confidence": 50
+    }
+  ]
+}

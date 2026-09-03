@@ -1,0 +1,31 @@
+{
+  "food_items": [
+    {
+      "name": "Penne with tomato sauce",
+      "portion_estimate": "uncertain (visible portion)",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain (visible portion)",
+      "confidence": "60"
+    },
+    {
+      "name": "Mushroom omelette or frittata",
+      "portion_estimate": "uncertain (visible portion)",
+      "confidence": "60"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain (visible amount)",
+      "confidence": "50"
+    },
+    {
+      "name": "Sprinday drink",
+      "portion_estimate": "uncertain (visible amount)",
+      "confidence": "50"
+    }
+  ]
+}

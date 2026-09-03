@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "coffee or dark liquid in cup",
+      "portion_estimate": "200 g (estimated liquid)",
+      "confidence": 95
+    },
+    {
+      "name": "red-brown sauce or dip",
+      "portion_estimate": "30 g (based on small spoonful)",
+      "confidence": 85
+    },
+    {
+      "name": "green leafy salad or steamed greens",
+      "portion_estimate": "70 g",
+      "confidence": 80
+    },
+    {
+      "name": "crunchy snack packets (one with 'CRAZY' branding)",
+      "portion_estimate": "15 g (single packet)",
+      "confidence": 90
+    }
+  ]
+}

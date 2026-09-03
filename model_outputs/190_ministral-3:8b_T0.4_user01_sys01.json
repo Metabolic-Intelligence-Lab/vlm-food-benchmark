@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried fish fillet",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed greens (likely spinach or collard greens)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with tomato-based sauce (penne or similar)",
+      "portion_estimate": "150g (cooked)",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with green sauce (pesto) and grated cheese",
+      "portion_estimate": 250,
+      "confidence": 94
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": 120,
+      "confidence": 96
+    },
+    {
+      "name": "Grilled eggplant topped with cheese and herbs",
+      "portion_estimate": 85,
+      "confidence": 93
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": 120,
+      "confidence": 98
+    },
+    {
+      "name": "Bread roll (in plastic packaging)",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Water in a glass",
+      "portion_estimate": 250,
+      "confidence": 97
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish fillet (or similar fried cutlet)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "scrambled eggs with corn kernels and tomato",
+      "portion_estimate": "100g (eggs only)",
+      "confidence": 80
+    },
+    {
+      "name": "green beans with corn kernels",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "shredded orange sweet potato or carrot salad",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "condiment packet (likely soy sauce or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "small plastic container of sauce (e.g., teriyaki or sweet chili)",
+      "portion_estimate": "uncertain (likely 50-70g)",
+      "confidence": 60
+    },
+    {
+      "name": "bottled water",
+      "portion_estimate": "uncertain (likely 500ml)",
+      "confidence": 60
+    }
+  ]
+}

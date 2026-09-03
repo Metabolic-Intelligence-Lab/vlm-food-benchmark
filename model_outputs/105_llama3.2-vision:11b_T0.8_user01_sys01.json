@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed lettuce (red and green)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Red cabbage",
+      "portion_estimate": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "Carrot",
+      "portion_estimate": "20g",
+      "confidence": 70
+    },
+    {
+      "name": "Cooked chicken breast",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250mL",
+      "confidence": 100
+    },
+    {
+      "name": "Mixed fruit salad (apples, grapes, and pineapple)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Coffee",
+      "portion_estimate": "120mL",
+      "confidence": 95
+    },
+    {
+      "name": "Crackers",
+      "portion_estimate": "30g",
+      "confidence": 80
+    }
+  ]
+}

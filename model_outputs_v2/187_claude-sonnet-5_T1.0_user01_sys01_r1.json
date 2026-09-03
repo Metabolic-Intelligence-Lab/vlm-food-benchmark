@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta with tomato sauce and cheese (pasta al forno)",
+      "portion_estimate": "200",
+      "confidence": 65
+    },
+    {
+      "name": "green beans with breadcrumb topping",
+      "portion_estimate": "120",
+      "confidence": 65
+    },
+    {
+      "name": "breaded fried croquettes (2 pieces, potato or rice croquettes)",
+      "portion_estimate": "100",
+      "confidence": 55
+    },
+    {
+      "name": "dark leafy vegetable side (possibly sautéed radicchio or seaweed)",
+      "portion_estimate": "30",
+      "confidence": 30
+    },
+    {
+      "name": "bread roll (panino), individually wrapped",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "sliced cheese, individually wrapped",
+      "portion_estimate": "20",
+      "confidence": 40
+    },
+    {
+      "name": "fruit yogurt cup (Yomo)",
+      "portion_estimate": "125",
+      "confidence": 60
+    }
+  ]
+}

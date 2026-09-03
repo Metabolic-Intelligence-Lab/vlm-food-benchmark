@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with creamy sauce",
+      "portion_estimate": "250g",
+      "confidence": "95"
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "50g",
+      "confidence": "98"
+    },
+    {
+      "name": "fried chicken or fish",
+      "portion_estimate": "130g",
+      "confidence": "90"
+    },
+    {
+      "name": "diced cucumber and avocado",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": "90"
+    },
+    {
+      "name": "sauce/spread in small container",
+      "portion_estimate": "40g",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250g",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of soup with grated cheese",
+      "portion_estimate": "uncertain, approx. bowl size",
+      "confidence": "50"
+    },
+    {
+      "name": "Plate of green vegetable patties or fritters",
+      "portion_estimate": "uncertain, approx. plate size",
+      "confidence": "60"
+    },
+    {
+      "name": "Bowl with salad greens and shredded chicken",
+      "portion_estimate": "uncertain, approx. bowl size",
+      "confidence": "50"
+    },
+    {
+      "name": "Sliced bread in plastic wrap",
+      "portion_estimate": "uncertain, approx. slice weight",
+      "confidence": "60"
+    },
+    {
+      "name": "Cup of water with logo on side",
+      "portion_estimate": "uncertain, approx. cup size",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "220",
+      "confidence": "70"
+    },
+    {
+      "name": "chopped zucchini and vegetables",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100",
+      "confidence": "70"
+    }
+  ]
+}

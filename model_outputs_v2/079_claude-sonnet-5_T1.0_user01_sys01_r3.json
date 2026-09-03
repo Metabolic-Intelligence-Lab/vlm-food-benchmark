@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cavatappi pasta with tomato sauce and grated parmesan",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "wrapped bread roll (panino)",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "white cannellini beans, plain boiled",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "savory stuffed pastry/focaccia with leafy greens filling",
+      "portion_estimate": "120g",
+      "confidence": 65
+    },
+    {
+      "name": "sliced provolone or scamorza cheese, wrapped",
+      "portion_estimate": "50g",
+      "confidence": 65
+    },
+    {
+      "name": "small red plums (whole fruit, approx. 3 pieces)",
+      "portion_estimate": "150g",
+      "confidence": 70
+    }
+  ]
+}

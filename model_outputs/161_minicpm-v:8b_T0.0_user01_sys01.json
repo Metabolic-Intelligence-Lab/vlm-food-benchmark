@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce and grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mixed vegetable salad (peas, carrots, green beans, zucchini)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "quinoa or spinach-based dish with white cheese on top",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pear fruit",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

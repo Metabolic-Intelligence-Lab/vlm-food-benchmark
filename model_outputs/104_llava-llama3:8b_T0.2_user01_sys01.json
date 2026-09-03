@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup with croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "peas and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "baguette sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "milk",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

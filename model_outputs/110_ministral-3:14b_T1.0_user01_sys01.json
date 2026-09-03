@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup with carrots, topped with grated cheese",
+      "portion_estimate": 350,
+      "confidence": 85
+    },
+    {
+      "name": "spinach and cheese quiche slice",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetable medley (peas and diced carrots)",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat baguette slice",
+      "portion_estimate": 80,
+      "confidence": 85
+    },
+    {
+      "name": "roasted purple eggplant pieces (2 small)",
+      "portion_estimate": 100,
+      "confidence": 75
+    }
+  ]
+}

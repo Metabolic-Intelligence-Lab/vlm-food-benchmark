@@ -1,0 +1,54 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Omelette with eggs and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread or bun",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Butter and condiment packets",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt with granola or nuts",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Side salad with greens and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Butter in a wrapper",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Chocolate dessert",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

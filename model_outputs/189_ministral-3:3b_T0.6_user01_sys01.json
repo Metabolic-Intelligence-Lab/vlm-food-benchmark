@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "espresso or dark coffee",
+      "portion_estimate": "200 g (assuming ~150 ml liquid)",
+      "confidence": 85
+    },
+    {
+      "name": "small side sauce or dip",
+      "portion_estimate": "30 g",
+      "confidence": 70
+    },
+    {
+      "name": "green leafy vegetables (likely saut\u00e9ed or cooked greens)",
+      "portion_estimate": "50 g",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt or dairy-based snack container (likely Greek yogurt with some fruit)",
+      "portion_estimate": "50 g",
+      "confidence": 65
+    },
+    {
+      "name": "granola or cereal bar (unopened, from wrapper)",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    }
+  ]
+}

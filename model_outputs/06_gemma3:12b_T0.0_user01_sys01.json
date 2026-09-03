@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked penne pasta",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked chicken breast",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed green salad",
+      "portion_estimate": "75",
+      "confidence": "75"
+    },
+    {
+      "name": "yogurt (small container)",
+      "portion_estimate": "125",
+      "confidence": "95"
+    }
+  ]
+}

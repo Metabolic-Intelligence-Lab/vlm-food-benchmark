@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spinach leaves",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "orange juice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "coffee",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "black beans",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

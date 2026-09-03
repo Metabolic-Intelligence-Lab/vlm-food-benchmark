@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti bolognese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "garlic bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pasta in a sauce (tomato-based)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "grain dish (couscous or quinoa with mixed vegetables)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "roll or bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bananas",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "apples",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "yogurt cup with granola or other food item",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

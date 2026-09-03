@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Quiche",
+      "portion_estimate": "uncertain, possibly a full piece",
+      "confidence": "50"
+    },
+    {
+      "name": "Mashed potatoes with greens and carrots",
+      "portion_estimate": "approx. half plate size for adult",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta dish, possibly penne or linguine, mixed with raisins and sprinkled with powdered sugar",
+      "portion_estimate": "uncertain, but approx. a quarter to half of the bowl's contents.",
+      "confidence": "65"
+    },
+    {
+      "name": "Raisin bread in plastic wrap (baguette shape)",
+      "portion_estimate": "uncertain, possibly 1 small piece",
+      "confidence": "70"
+    },
+    {
+      "name": "Plums or similar dark purple fruit",
+      "portion_estimate": "approx. two to three fruits visible on a yellow napkin labeled 'ClearKit'",
+      "confidence": "95"
+    }
+  ]
+}

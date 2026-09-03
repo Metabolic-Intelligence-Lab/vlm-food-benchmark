@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fettuccine pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "salad with vegetables and greens, broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

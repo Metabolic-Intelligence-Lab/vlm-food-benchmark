@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "green vegetable pie",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "chicken salad",
+      "portion_estimate": "100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "unwrapped bun",
+      "portion_estimate": "30 grams",
+      "confidence": "50"
+    }
+  ]
+}

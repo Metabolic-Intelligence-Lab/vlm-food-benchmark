@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "80-120 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Eggs Benedict with English muffins",
+      "portion_estimate": "50 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Banana and chocolate chip bread",
+      "portion_estimate": "100 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Macaroni with sauce, vegetables, and herbs",
+      "portion_estimate": "150 g",
+      "confidence": "90"
+    }
+  ]
+}

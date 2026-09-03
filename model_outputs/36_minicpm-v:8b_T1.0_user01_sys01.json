@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta Carbonara",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Purple Cabbage Slaw with Pickles",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Green Croquettes",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Sweet and Sour Pork Skewers (unclear name)",
+      "portion_estimate": "uncertain",
+      "confidence": 35
+    }
+  ]
+}

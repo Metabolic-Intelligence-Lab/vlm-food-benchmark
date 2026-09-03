@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "baked potato wedges",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "fried cheese ball (possibly ricotta-filled or cheese croquette)",
+      "portion_estimate": "80 grams",
+      "confidence": 80
+    },
+    {
+      "name": "steamed green beans with cheese sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "baby potatoes with herbs",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "spreadable dairy product (possibly sour cream or sweetened yogurt)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "soft white bread roll or bun",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    }
+  ]
+}

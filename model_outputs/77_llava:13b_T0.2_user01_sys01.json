@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "beans",
+      "portion_estimate": "100 g",
+      "confidence": "80"
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "50 g",
+      "confidence": "70"
+    },
+    {
+      "name": "fish fillet",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    },
+    {
+      "name": "spinach and cheese casserole",
+      "portion_estimate": "200 g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100 g",
+      "confidence": "50"
+    },
+    {
+      "name": "fruit salad",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    }
+  ]
+}

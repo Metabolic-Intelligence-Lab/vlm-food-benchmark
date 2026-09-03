@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Peaches",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Peanut Butter",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

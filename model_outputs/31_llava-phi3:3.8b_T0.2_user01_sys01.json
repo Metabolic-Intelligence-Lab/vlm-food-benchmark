@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Parmesan Cheese",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    },
+    {
+      "name": "Baked Beans on Toast",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green Beans with Cheese Sauce",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    }
+  ]
+}

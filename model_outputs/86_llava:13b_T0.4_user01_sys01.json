@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish with herb garnish",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "grain or cereal (rice or quinoa)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "side salad with blueberries",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich with chicken or meat filling",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

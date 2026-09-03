@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "yogurt (container with lid, likely Greek yogurt, ~150g)",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "water in clear plastic cup (likely ~250ml)",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "tomato slices with toppings (white sauce, seeds, possibly guacamole)",
+      "portion_estimate": "120",
+      "confidence": 70
+    },
+    {
+      "name": "roasted or fried potato chunks (home fries or similar)",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "lettuce or mixed greens (small portion, ~30g)",
+      "portion_estimate": "30",
+      "confidence": 70
+    },
+    {
+      "name": "baguette or bread roll (wrapped, ~60g)",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "condiment packet (likely ketchup or similar, small size)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "butter or margarine packet (small size)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

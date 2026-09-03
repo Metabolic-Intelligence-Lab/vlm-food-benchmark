@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "chocolate oatmeal",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "boiled potatoes",
+      "portion_estimate": "75",
+      "confidence": "75"
+    },
+    {
+      "name": "spinach and ricotta pie slice",
+      "portion_estimate": "60",
+      "confidence": "80"
+    }
+  ]
+}

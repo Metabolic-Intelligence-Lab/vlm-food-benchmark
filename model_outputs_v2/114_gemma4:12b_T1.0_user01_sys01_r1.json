@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "French fries with cheese and seasoning",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "Roasted potato wedges",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Bread slice on plate",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "Wrapped bread slice",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "Cheddar cheese dip",
+      "portion_estimate": "100g",
+      "confidence": 80
+    }
+  ]
+}

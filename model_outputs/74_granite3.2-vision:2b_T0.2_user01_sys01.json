@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "garlic bread",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

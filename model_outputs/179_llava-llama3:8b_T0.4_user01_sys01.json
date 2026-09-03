@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "red pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "yellow rice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green broccoli and white chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "lemon",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

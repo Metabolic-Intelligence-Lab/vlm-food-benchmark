@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Cheese sticks",
+      "portion_estimate": "uncertain, but possibly around 20-50 grams per stick",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta in marinara sauce (likely small potatoes or dumplings)",
+      "portion_estimate": "approx. 100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked lentils with chopped vegetables",
+      "portion_estimate": "possibly around 250-300 grams, based on common serving sizes for cooked lentils and the visible volume of food in a typical bowl size.",
+      "confidence": "85"
+    }
+  ]
+}

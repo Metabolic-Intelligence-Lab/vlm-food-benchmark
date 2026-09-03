@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried egg with cheese on top",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ],
+  "drink": {
+    "type": "Water",
+    "container": "Glass",
+    "quantity": "250ml"
+  },
+  "other": [
+    {
+      "name": "Bread roll",
+      "quantity": "1"
+    },
+    {
+      "name": "Cheese slice",
+      "quantity": "1"
+    }
+  ]
+}

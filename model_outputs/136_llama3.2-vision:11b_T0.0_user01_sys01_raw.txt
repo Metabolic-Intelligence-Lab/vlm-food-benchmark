@@ -1,0 +1,43 @@
+Here is the food image:
+
+**Food Image Description**
+
+* The image shows a clear plastic container filled with a pasta dish.
+* The pasta is a type of rigatoni, which is a tubular pasta shape.
+* The pasta is cooked al dente and is mixed with a variety of vegetables, including:
+	+ Peas
+	+ Carrots
+	+ Onions
+	+ Bell peppers
+* The vegetables are sautéed in a tomato-based sauce and are scattered throughout the pasta.
+* The pasta is topped with a sprinkle of parmesan cheese.
+* The background of the image is a light-colored wood table.
+
+**Food Recognition Output**
+
+* **Food Items:**
+	+ Pasta (rigatoni)
+	+ Peas
+	+ Carrots
+	+ Onions
+	+ Bell peppers
+	+ Tomato-based sauce
+	+ Parmesan cheese
+* **Portion Size Estimates:**
+	+ Pasta: 200g
+	+ Peas: 50g
+	+ Carrots: 50g
+	+ Onions: 25g
+	+ Bell peppers: 25g
+	+ Tomato-based sauce: 100g
+	+ Parmesan cheese: 20g
+* **Confidence:**
+	+ Pasta: 100%
+	+ Peas: 90%
+	+ Carrots: 90%
+	+ Onions: 80%
+	+ Bell peppers: 80%
+	+ Tomato-based sauce: 95%
+	+ Parmesan cheese: 95%
+
+**Note:** The portion size estimates are based on the visual appearance of the food and may not be exact. The confidence values are based on the model's confidence in its food recognition predictions.

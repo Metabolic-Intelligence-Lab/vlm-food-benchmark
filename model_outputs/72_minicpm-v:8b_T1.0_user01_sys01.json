@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Baby carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Husked lentils with bits of carrot",
+      "portion_estimate": "uncertain, approx. 100g for portion estimate (lentils and carrot ratio is not clear)",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt cup",
+      "portion_estimate": "uncertain, approximately half full",
+      "confidence": "50"
+    }
+  ]
+}

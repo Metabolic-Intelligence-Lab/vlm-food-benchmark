@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked diced potatoes with zucchini (mixed vegetables)",
+      "portion_estimate": "180 g",
+      "confidence": "70"
+    },
+    {
+      "name": "sliced meat (likely chicken/turkey) with creamy herb sauce",
+      "portion_estimate": "140 g",
+      "confidence": "65"
+    },
+    {
+      "name": "white beans in tomato sauce",
+      "portion_estimate": "160 g",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "string cheese stick",
+      "portion_estimate": "25 g",
+      "confidence": "80"
+    },
+    {
+      "name": "bottled water (still)",
+      "portion_estimate": "330 g",
+      "confidence": "70"
+    }
+  ]
+}

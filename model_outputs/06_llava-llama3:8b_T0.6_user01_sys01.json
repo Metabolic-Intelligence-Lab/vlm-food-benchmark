@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sunny-side up egg with fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "carton of milk",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

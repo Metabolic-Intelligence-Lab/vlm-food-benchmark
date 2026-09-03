@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat or multigrain bagel wrapped in plastic",
+      "portion_estimate": "150-200g",
+      "confidence": 95
+    },
+    {
+      "name": "yogurt cup (likely vanilla or berry-flavored)",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "salad with lettuce, carrots, and possibly other greens",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "fried eggplant or potato patty (possibly breaded)",
+      "portion_estimate": "120-150g",
+      "confidence": 80
+    },
+    {
+      "name": "chickpea soup with beans and possibly cheese",
+      "portion_estimate": "300-350g",
+      "confidence": 90
+    }
+  ]
+}

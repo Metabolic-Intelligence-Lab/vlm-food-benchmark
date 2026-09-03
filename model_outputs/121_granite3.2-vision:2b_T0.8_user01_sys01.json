@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled or toasted sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "piece of meat, possibly chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "large banana",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "salad with greens and possibly some dressing",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta with a creamy sauce and bits of meat or vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

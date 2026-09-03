@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "chicken or fish with carrots and mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

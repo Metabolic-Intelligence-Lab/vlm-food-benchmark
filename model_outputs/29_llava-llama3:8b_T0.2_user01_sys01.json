@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with vegetables and creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "slice of pizza",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

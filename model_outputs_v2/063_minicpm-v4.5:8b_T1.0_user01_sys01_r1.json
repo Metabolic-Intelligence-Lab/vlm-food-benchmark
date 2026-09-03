@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta dish (rigatoni) with meat and cheese",
+      "portion_estimate": "250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "salad with noodles, cabbage, carrot, and sliced meat",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "stuffed eggplant with vegetables",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    },
+    {
+      "name": "empty glass (likely water or juice)",
+      "portion_estimate": "100 grams (assuming water)",
+      "confidence": 60
+    }
+  ]
+}

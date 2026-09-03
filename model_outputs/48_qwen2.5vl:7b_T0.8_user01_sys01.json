@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spicy Pasta with Tomato Sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Grilled Aubergine with Cheese",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Potato Hash",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    }
+  ]
+}

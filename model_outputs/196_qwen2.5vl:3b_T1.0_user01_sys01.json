@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cracker",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "cereal",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

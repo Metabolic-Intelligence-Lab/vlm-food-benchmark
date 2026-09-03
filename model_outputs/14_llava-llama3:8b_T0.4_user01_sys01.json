@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "coleslaw",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "pasta with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

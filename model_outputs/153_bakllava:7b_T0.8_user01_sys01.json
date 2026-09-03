@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "vegetables (green beans and rice)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apples and bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

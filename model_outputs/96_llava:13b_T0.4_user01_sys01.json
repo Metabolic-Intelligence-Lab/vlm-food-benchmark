@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "orange juice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "chocolate-covered biscuit",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sweet pastry or cake",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

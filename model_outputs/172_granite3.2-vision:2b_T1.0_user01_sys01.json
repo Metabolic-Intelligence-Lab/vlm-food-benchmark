@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "freshly baked bread",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "orange juice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "muffin",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

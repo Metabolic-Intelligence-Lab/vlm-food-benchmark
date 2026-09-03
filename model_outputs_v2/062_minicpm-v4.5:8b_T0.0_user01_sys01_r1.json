@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowtie pasta with tomato sauce",
+      "portion_estimate": "150-200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "spinach (cooked)",
+      "portion_estimate": "100-150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "potato croquette with ketchup",
+      "portion_estimate": "100-120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "bun (small bread roll)",
+      "portion_estimate": "50-60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (Yomo brand)",
+      "portion_estimate": "125 grams",
+      "confidence": 100
+    }
+  ]
+}

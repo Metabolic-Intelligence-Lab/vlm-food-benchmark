@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "mashed sweet potatoes",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "rice with chicken and vegetables",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80g",
+      "confidence": "60"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250ml",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roasted cashews",
+      "portion_estimate": "60 grams",
+      "confidence": 90
+    },
+    {
+      "name": "toast with butter and jam",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "macaroni and cheese with parmesan",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

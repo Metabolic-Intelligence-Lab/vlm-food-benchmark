@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried or baked pasta (e.g., gnocchi or small pasta shapes)",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "mixed chopped vegetables (likely zucchini and possibly black olives or another dark ingredient)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll or bun (partially visible, wrapped in plastic)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pureed vegetable soup with grated cheese",
+      "portion_estimate": "320 g",
+      "confidence": "78"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "90"
+    },
+    {
+      "name": "cabbage salad with dressing",
+      "portion_estimate": "120 g",
+      "confidence": "82"
+    },
+    {
+      "name": "two vegetable patties or croquettes",
+      "portion_estimate": "90 g",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "150 g",
+      "confidence": "75"
+    },
+    {
+      "name": "uncertain packaged red fruit yogurt or dessert cup",
+      "portion_estimate": "125 g",
+      "confidence": "55"
+    }
+  ]
+}

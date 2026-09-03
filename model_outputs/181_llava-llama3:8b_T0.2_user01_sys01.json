@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "cake",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "corn",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

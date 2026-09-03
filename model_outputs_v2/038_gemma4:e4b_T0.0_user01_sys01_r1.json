@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (fusilli/rotini style) with sauce and cheese",
+      "portion_estimate": "300",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried croquettes or arancini",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "Mixed green salad with sliced cucumber",
+      "portion_estimate": "220",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll or small bun",
+      "portion_estimate": "110",
+      "confidence": "90"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "130",
+      "confidence": "95"
+    }
+  ]
+}

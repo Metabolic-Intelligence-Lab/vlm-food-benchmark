@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": 140,
+      "confidence": 95
+    },
+    {
+      "name": "Breaded fish fillet",
+      "portion_estimate": 220,
+      "confidence": 85
+    },
+    {
+      "name": "Cooked greens (chard or spinach)",
+      "portion_estimate": 130,
+      "confidence": 85
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": 200,
+      "confidence": 95
+    },
+    {
+      "name": "Cheese stick (unwrapped)",
+      "portion_estimate": 30,
+      "confidence": 80
+    }
+  ]
+}

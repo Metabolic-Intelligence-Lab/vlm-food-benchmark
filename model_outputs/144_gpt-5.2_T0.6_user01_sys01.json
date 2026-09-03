@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne) with creamy sauce and grated cheese",
+      "portion_estimate": "300 g",
+      "confidence": "78"
+    },
+    {
+      "name": "white beans in tomato sauce",
+      "portion_estimate": "180 g",
+      "confidence": "82"
+    },
+    {
+      "name": "omelet or egg patty (round) with melted cheese/cream sauce on top",
+      "portion_estimate": "90 g",
+      "confidence": "62"
+    },
+    {
+      "name": "sliced white bread (2 slices)",
+      "portion_estimate": "70 g",
+      "confidence": "74"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "170 g",
+      "confidence": "86"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pancake or crepe",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "200",
+      "confidence": 75
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "75",
+      "confidence": 80
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "150",
+      "confidence": 90
+    }
+  ]
+}

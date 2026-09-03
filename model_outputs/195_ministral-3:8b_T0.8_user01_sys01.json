@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with meat and tomato sauce (likely spaghetti bolognese)",
+      "portion_estimate": "300g (uncertain due to overlapping bowls and sauce spill)",
+      "confidence": 70
+    },
+    {
+      "name": "potato cubes (possibly fried or boiled)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "ground meat (likely beef or a meat mixture, possibly as a patty or filling)",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "uncertain (size of glass not fully visible, estimate ~300ml)",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti and meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "green beans and scrambled egg",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

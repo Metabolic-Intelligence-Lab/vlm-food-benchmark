@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup with cheese",
+      "portion_estimate": "350",
+      "confidence": "85"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "spinach and feta filo pastry",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100",
+      "confidence": "85"
+    }
+  ]
+}

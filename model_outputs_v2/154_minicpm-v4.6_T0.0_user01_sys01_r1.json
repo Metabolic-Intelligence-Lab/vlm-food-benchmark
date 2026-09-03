@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with grated cheese",
+      "portion_estimate": "200 g",
+      "confidence": 95
+    },
+    {
+      "name": "Sliced carrots",
+      "portion_estimate": "150 g",
+      "confidence": 85
+    },
+    {
+      "name": "Veggie and tomato small patty",
+      "portion_estimate": "50 g",
+      "confidence": 80
+    },
+    {
+      "name": "Bread bun",
+      "portion_estimate": "100 g",
+      "confidence": 75
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "150 g",
+      "confidence": 80
+    },
+    {
+      "name": "Butter/cheese package",
+      "portion_estimate": "10 g",
+      "confidence": 70
+    }
+  ]
+}

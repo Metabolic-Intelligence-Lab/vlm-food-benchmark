@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "mixed salad with cucumber and cabbage",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "tofu yogurt (Tomofuri brand)",
+      "portion_estimate": "60g (container portion)",
+      "confidence": 75
+    },
+    {
+      "name": "plain baguette roll",
+      "portion_estimate": "80g",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "bowl of mixed salad greens and shredded cabbage with vinaigrette dressing",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "sliced peach",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "plate of wrap or flatbread with a filling, topped with greens and drizzled sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    }
+  ],
+  "nutrition_information": [
+    {
+      "name": "orange fruit (1 medium)",
+      "calories": "49 kcal per medium orange",
+      "vitamin_c_content": "37% of Daily Value, based on a diet rich in fruits and vegetables.",
+      "fiber_content": "2.5 g"
+    },
+    {
+      "name": "mixed salad greens with shredded cabbage",
+      "calories": "uncertain (approximate estimate needed)",
+      "vitamin_c_content": "uncertain (based on approximate content of mixed greens and cabbage, exact values unknown)",
+      "fibre_content": "uncertain"
+    },
+    {
+      "name": "sliced peach fruit (1 medium)",
+      "calories": "53 kcal per medium peach",
+      "vitamin_c_content": "42% Daily Value based on a diet rich in fruits and vegetables.",
+      "fiber_content": "3.8 g"
+    }
+  ]
+}

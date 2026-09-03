@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "tuna fish roll or similar wrap",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "empty plate",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

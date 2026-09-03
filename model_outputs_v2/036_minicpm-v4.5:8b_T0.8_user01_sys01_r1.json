@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bun",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "spaghetti with fried onions",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "salad (purple cabbage, cucumber slices, and orange segments)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "two green patty balls (possibly falafel or similar)",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "dark brown sauce or glaze (in white bowl)",
+      "portion_estimate": "30g",
+      "confidence": 70
+    }
+  ]
+}

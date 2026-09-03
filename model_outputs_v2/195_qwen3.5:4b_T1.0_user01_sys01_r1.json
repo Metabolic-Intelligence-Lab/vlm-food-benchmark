@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spicy ramen noodles (noodles with sauce, meat, and toppings)",
+      "portion_estimate": "250",
+      "confidence": "70"
+    },
+    {
+      "name": "seasoned diced potatoes (likely home-fried or roasted)",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "grilled meatballs or ground meat in sauce",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "water (soda water with ice)",
+      "portion_estimate": "300",
+      "confidence": "95"
+    }
+  ]
+}

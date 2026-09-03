@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato and vegetable sauce",
+      "portion_estimate": "250",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": "65"
+    },
+    {
+      "name": "spinach or broccoli rolls with cheese",
+      "portion_estimate": "100",
+      "confidence": "55"
+    },
+    {
+      "name": "yellow apple",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": "80"
+    }
+  ]
+}

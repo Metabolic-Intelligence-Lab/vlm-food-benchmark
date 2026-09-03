@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "flour tortilla",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "cooked meat filling",
+      "portion_estimate": "130g",
+      "confidence": 85
+    },
+    {
+      "name": "red sauce",
+      "portion_estimate": "30g",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable chili",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "salad with mixed greens, beetroot, and cranberries",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "chicken and vegetable meatballs",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Caesar salad",
+      "portion_estimate": "200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Meatballs with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Gnocchi",
+      "portion_estimate": "120 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Breadsticks",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    }
+  ]
+}

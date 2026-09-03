@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cheese balls",
+      "portion_estimate": "uncertain, approx. weight of a few pieces",
+      "confidence": "50"
+    },
+    {
+      "name": "Fried tofu (or cake)",
+      "portion_estimate": "approx. 120g-150g based on size and typical serving sizes",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "uncertain, approx. weight of a few servings",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll (unspecified type)",
+      "portion_estimate": "approx. 50g-70g based on size and typical serving sizes",
+      "confidence": "80"
+    },
+    {
+      "name": "Yellow fruit (possibly mango or peach)",
+      "portion_estimate": "uncertain, approx. weight of a medium piece",
+      "confidence": "60"
+    }
+  ]
+}

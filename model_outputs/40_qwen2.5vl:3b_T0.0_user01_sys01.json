@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Rice with Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Fried Egg",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Apricots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

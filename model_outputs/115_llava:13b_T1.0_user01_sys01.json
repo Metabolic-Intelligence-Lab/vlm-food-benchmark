@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Red Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Grape Tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Meatballs in Red Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Breadstick or Garlic Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

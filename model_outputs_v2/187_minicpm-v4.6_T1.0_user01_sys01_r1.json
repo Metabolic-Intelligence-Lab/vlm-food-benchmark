@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked pasta dish",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "yogurt or cream cup",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "green beans with breadcrumb topping",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

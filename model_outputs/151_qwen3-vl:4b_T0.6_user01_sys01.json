@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "60g",
+      "confidence": 70
+    },
+    {
+      "name": "Omelet",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Penne pasta",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "30g",
+      "confidence": 80
+    }
+  ]
+}

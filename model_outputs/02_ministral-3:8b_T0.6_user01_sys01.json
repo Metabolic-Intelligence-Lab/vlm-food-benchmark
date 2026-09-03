@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cucumber slices",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "thinly sliced red onion",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "shredded cabbage (green)",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "shredded purple cabbage",
+      "portion_estimate": "60g",
+      "confidence": 70
+    },
+    {
+      "name": "tomato slices",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "julienned carrots",
+      "portion_estimate": "40g",
+      "confidence": 70
+    },
+    {
+      "name": "lettuce leaves (green leafy)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "wrappaged bread roll",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "salad in bowl",
+      "portion_estimate": "250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "main plate baked item with rice",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small appetizer with greens and tomatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "fruity fruit (plum)",
+      "portion_estimate": "30 grams",
+      "confidence": 95
+    }
+  ]
+}

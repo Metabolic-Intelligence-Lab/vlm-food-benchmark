@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas (boiled, seasoned)",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded and fried vegetable/cheese patty with grated cheese topping",
+      "portion_estimate": "90",
+      "confidence": "55"
+    },
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "220",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged cheese portion (Kraft/Sole triangle-style spreadable cheese)",
+      "portion_estimate": "20",
+      "confidence": "65"
+    }
+  ]
+}

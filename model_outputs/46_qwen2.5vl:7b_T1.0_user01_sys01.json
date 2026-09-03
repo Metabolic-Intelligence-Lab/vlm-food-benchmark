@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soupy greens with grated cheese",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "baked potato",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "salad with greens and dressing",
+      "portion_estimate": "100",
+      "confidence": 80
+    }
+  ]
+}

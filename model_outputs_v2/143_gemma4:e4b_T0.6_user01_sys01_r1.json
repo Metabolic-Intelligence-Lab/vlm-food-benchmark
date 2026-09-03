@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Condiment/sauce in small container",
+      "portion_estimate": "60g",
+      "confidence": "90"
+    },
+    {
+      "name": "Saut\u00e9ed dark leafy greens in a bowl",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Wrapped bread or baked good slice",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "Light-colored cooked protein or vegetable pieces",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Yellow cubed side dish (e.g., potatoes)",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    }
+  ]
+}

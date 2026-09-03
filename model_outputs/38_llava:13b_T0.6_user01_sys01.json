@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Baked potatoes",
+      "portion_estimate": "200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Salad with vegetables and carrots",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    }
+  ]
+}

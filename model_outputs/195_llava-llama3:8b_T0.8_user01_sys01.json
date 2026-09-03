@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "potato salad",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "chili",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

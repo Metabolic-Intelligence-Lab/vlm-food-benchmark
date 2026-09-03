@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with herbs",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "slice of quiche",
+      "portion_estimate": "75 grams",
+      "confidence": 70
+    },
+    {
+      "name": "potato dish",
+      "portion_estimate": "100 grams",
+      "confidence": 60
+    },
+    {
+      "name": "baked bread",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150 grams",
+      "confidence": 70
+    }
+  ]
+}

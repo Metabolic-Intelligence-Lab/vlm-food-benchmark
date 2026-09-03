@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Sourdough roll",
+      "portion_estimate": "30g",
+      "confidence": "80"
+    },
+    {
+      "name": "Caesar salad with croutons and dressing",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Sourdough bread roll",
+      "portion_estimate": "30g",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with pesto and grated cheese",
+      "portion_estimate": "approx. 220 g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "approx. 55 g",
+      "confidence": "90"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "approx. 120 g",
+      "confidence": "95"
+    },
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "approx. 130 g",
+      "confidence": "90"
+    },
+    {
+      "name": "uncertain stuffed grilled eggplant or vegetable roll",
+      "portion_estimate": "approx. 70 g",
+      "confidence": "55"
+    }
+  ]
+}

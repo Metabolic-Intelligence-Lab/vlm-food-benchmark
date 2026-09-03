@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup (chili or bean stew)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "grilled chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "saut\u00e9ed spinach and kale",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "condiment or sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "packet of seasoning (salt)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded meat patty",
+      "portion_estimate": "85g",
+      "confidence": "60"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "1 medium banana",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad with lettuce and vegetables",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    }
+  ]
+}

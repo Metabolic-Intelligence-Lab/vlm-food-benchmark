@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with pesto sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "hamburger bun",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

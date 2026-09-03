@@ -1,0 +1,22 @@
+To determine the visible food and beverage items in the image and estimate their portion sizes, we analyze the key elements based on typical visual characteristics and standard measurements.
+
+### **1. Beverage Item: Cappuccino**
+- **Description**: The beverage appears to be a cappuccino, identifiable by its characteristic layered structure with a visible layer of milk foam on top. This is consistent with the traditional composition of a cappuccino (typically 1/3 espresso, 1/3 steamed milk, and 1/3 milk foam).
+- **Portion Size Estimation**: 
+  - A standard cappuccino cup holds approximately 150 ml of liquid.
+  - Given that the density of coffee-based beverages like cappuccino is close to water (around 1 g/ml), the estimated weight is **150 g**.
+- **Confidence**: High (70%) due to the recognizable visual cues and common serving size.
+
+### **2. Food Item: Cookies**
+- **Description**: The visible food consists of a set of small, rectangular baked goods. These are consistent with the appearance of cookies, particularly in a casual or home setting.
+- **Portion Size Estimation**:
+  - Visual inspection shows **8 distinct items**, each appearing to be a standard cookie.
+  - Based on typical cookie weight (20–25 g per cookie), an estimate of **160 g** (8 × 20 g) is reasonable for the total weight.
+- **Confidence**: High (80%) due to the countable number of items and common cookie size estimates.
+
+### **Final Answer**
+The visible items and their estimated portion sizes are:
+
+$$
+\boxed{Cappuccino: 150\ \text{g}, Cookies: 160\ \text{g}}
+$$

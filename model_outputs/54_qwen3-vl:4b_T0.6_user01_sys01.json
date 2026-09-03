@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cucumber and cabbage salad",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "40g",
+      "confidence": "70"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    }
+  ]
+}

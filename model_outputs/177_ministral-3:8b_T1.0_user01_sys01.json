@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pesto pasta with breadcrumbs and saut\u00e9ed broccoli florets",
+      "portion_estimate": "550 grams (based on a full white bowl)",
+      "confidence": 75
+    },
+    {
+      "name": "penne pasta with oil-based or tomato-based sauce",
+      "portion_estimate": "350 grams (based on a full white bowl)",
+      "confidence": 75
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "90 grams (standard size)",
+      "confidence": 90
+    },
+    {
+      "name": "yellow-green apple",
+      "portion_estimate": "180 grams (standard medium apple)",
+      "confidence": 85
+    }
+  ]
+}

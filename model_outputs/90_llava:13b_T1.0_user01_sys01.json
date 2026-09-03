@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "rice with sauce or gravy",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "steamed vegetables (carrots, green beans, peas)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "apples and orange",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

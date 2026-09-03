@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "ham",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "gravy or sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

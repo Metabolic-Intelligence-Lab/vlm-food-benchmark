@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green salad with leafy greens",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Grilled chicken breast with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Ravioli with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Piece of fish or chicken with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Rolled item on a plate, possibly lasagna or roll-up",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

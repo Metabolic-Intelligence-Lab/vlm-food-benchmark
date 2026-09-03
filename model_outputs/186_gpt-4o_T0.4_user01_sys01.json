@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "cauliflower gratin",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "sliced roast pork with peppercorns",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200 ml",
+      "confidence": "90"
+    }
+  ]
+}

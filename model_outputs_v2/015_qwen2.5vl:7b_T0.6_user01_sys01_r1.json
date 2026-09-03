@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "baked beans",
+      "portion_estimate": "50",
+      "confidence": 60
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "80",
+      "confidence": 70
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "cup of water",
+      "portion_estimate": "200",
+      "confidence": 90
+    }
+  ]
+}

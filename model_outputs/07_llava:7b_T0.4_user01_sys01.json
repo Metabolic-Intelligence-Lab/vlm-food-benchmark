@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fish fillet",
+      "portion_estimate": "125g",
+      "confidence": "70"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "450g",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fish sticks",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ]
+}

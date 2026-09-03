@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "meat patty/burger with tomato sauce and shredded cabbage salad",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "farfalle pasta (bow-tie) with light seasoning",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "shredded celeriac or cabbage salad (grated white vegetable salad)",
+      "portion_estimate": "80",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120",
+      "confidence": "85"
+    }
+  ]
+}

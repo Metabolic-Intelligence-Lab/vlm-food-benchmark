@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat roll (baguette)",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "chickpea patties (two)",
+      "portion_estimate": "120 grams total (60 grams each)",
+      "confidence": 80
+    },
+    {
+      "name": "carrot slices",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "fresh banana (partially visible, ~3/4 of whole)",
+      "portion_estimate": "70 grams (assuming ~90g total banana)",
+      "confidence": 75
+    },
+    {
+      "name": "pasta (penne) with cheese",
+      "portion_estimate": "150 grams (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

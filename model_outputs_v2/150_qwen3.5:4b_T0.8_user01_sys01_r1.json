@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with Alfredo sauce and parmesan",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "Baked potato cubes with baby carrots, peas, and corn",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Spinach and feta quiche (one slice)",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "Mini dinner rolls in plastic bag",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "80g",
+      "confidence": 95
+    }
+  ]
+}

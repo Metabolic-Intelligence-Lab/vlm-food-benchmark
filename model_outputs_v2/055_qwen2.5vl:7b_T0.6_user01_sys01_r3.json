@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pancake with vegetables",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "sauteed greens",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "plain water",
+      "portion_estimate": "200",
+      "confidence": 90
+    }
+  ]
+}

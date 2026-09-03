@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried cutlet",
+      "portion_estimate": "140 grams",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked spinach or leafy greens",
+      "portion_estimate": "120 grams",
+      "confidence": "86"
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "160 grams",
+      "confidence": "88"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 grams",
+      "confidence": "65"
+    }
+  ]
+}

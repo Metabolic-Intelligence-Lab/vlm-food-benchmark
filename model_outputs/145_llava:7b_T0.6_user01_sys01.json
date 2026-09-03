@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Indian soup with a lentil base",
+      "portion_estimate": "150-200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Plain steamed white rice",
+      "portion_estimate": "80-100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Sliced orange, possibly a mandarin or tangerine",
+      "portion_estimate": "2 slices",
+      "confidence": "60"
+    },
+    {
+      "name": "Indian spiced vegetables with sauce",
+      "portion_estimate": "100-150 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Dinner roll or naan",
+      "portion_estimate": "50-60 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Breaded meat patty with sauce and toppings",
+      "portion_estimate": "120-140 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Slices of cheese or paneer",
+      "portion_estimate": "60-80 grams",
+      "confidence": "60"
+    }
+  ]
+}

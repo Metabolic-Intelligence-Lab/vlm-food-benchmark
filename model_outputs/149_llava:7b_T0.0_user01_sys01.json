@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Sandwich",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with sauce and cheese",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed fruit salad",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll with butter",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    }
+  ]
+}

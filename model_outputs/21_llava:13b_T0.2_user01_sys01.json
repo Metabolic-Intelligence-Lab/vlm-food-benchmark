@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried fish",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed potatoes with gravy",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    }
+  ]
+}

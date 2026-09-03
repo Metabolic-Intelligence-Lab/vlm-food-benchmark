@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (penne)",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "Ground Meat (in tomato sauce)",
+      "portion_estimate": "75",
+      "confidence": 75
+    },
+    {
+      "name": "Shredded Cheese",
+      "portion_estimate": "30",
+      "confidence": 80
+    }
+  ]
+}

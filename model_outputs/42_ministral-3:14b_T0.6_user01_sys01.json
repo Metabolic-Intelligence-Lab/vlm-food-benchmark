@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce and mixed vegetables",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "roasted Brussels sprouts with glaze",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "mashed potato or yellow corn-based side dish",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "roasted red cabbage",
+      "portion_estimate": "40",
+      "confidence": 80
+    },
+    {
+      "name": "fresh apricots",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "packaged sliced cheese or crackers (uncertain)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

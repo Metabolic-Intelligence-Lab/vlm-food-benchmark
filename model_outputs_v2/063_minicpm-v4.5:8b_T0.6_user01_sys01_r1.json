@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and breaded topping",
+      "portion_estimate": "200-250g",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetable salad (coleslaw with cabbage, carrots, and possibly radish)",
+      "portion_estimate": "100-120g",
+      "confidence": 80
+    },
+    {
+      "name": "stuffed eggplant slice (with visible zucchini and white creamy topping)",
+      "portion_estimate": "50-60g",
+      "confidence": 85
+    },
+    {
+      "name": "small dinner roll (bun)",
+      "portion_estimate": "40-50g",
+      "confidence": 80
+    },
+    {
+      "name": "empty glass (likely for water or a clear beverage)",
+      "portion_estimate": "empty",
+      "confidence": 100
+    }
+  ]
+}

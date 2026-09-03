@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Soup (brown broth with chunks)",
+      "portion_estimate": "350g",
+      "confidence": "75"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mini muffin with purple topping",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Sauce (dollop on plate)",
+      "portion_estimate": "30g",
+      "confidence": "65"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "170g",
+      "confidence": "85"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200g",
+      "confidence": "60"
+    }
+  ]
+}

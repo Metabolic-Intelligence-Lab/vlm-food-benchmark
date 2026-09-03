@@ -1,0 +1,24 @@
+Based on the image description, the distinct, visible food and beverage items are identified with their approximate portions and confidence levels. Confidence levels reflect the accuracy of the portion estimation based on typical serving sizes and visual assessment (e.g., standard portions for common foods, and the volume of water). The portions are approximate due to the limitations of visual estimation.
+
+- **Pasta (rotini with tomato sauce)**: Approximately 120g, 80% confidence  
+  (A standard serving of pasta with sauce, typical for a single portion.)
+
+- **Leafy greens (spinach/kale)**: Approximately 100g, 70% confidence  
+  (A serving of mixed greens, estimated based on the visible amount on the plate.)
+
+- **Stuffed vegetable (courgette/zucchini)**: Approximately 50g, 60% confidence  
+  (A single piece of stuffed courgette, which is a small portion.)
+
+- **Salad (cucumber, cabbage, red onion)**: Approximately 50g, 60% confidence  
+  (A serving of mixed salad vegetables, estimated from the visible contents of the bowl.)
+
+- **Bread (roll)**: Approximately 50g, 70% confidence  
+  (A standard-sized roll, typical for a single serving.)
+
+- **Water**: Approximately 400g (400ml), 80% confidence  
+  (Two glasses of water, each estimated at 200ml, totaling 400ml.)
+
+- **Yogurt**: Approximately 100g, 70% confidence  
+  (A standard container of yogurt, typically around 100g for a single serving.)
+
+**Note**: Portions are based on common serving sizes and visual estimation. Confidence levels are subjective and reflect the reliability of the estimation given the image context. For example, water volume is highly accurate due to the clear measurement of two glasses, while smaller items like the stuffed vegetable or salad portions have lower confidence due to potential variations in size.

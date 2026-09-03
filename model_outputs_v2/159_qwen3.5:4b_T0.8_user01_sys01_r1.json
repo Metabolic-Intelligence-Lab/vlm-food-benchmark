@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with creamy sauce and parmesan",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "Salad with leafy greens and shredded cheese/crisps",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Pesto-based flatbread or savory pastry slice",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "Steamed bread roll",
+      "portion_estimate": "60g",
+      "confidence": 80
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "150g",
+      "confidence": 95
+    }
+  ]
+}

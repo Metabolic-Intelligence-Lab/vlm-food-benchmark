@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Fried tofu with sauce on top",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta salad",
+      "portion_estimate": "120g (approx)",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Yellow fruit, possibly a mango or peach",
+      "portion_estimate": "17g (approx)",
+      "confidence": "80"
+    }
+  ]
+}

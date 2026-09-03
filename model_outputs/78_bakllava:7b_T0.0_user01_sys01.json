@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup with a spoon",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "plate of orange food with a piece of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "plate of fruit, including peaches and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "tray containing all the food items",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

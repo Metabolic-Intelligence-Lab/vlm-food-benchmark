@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot",
+      "portion_estimate": "1 piece",
+      "confidence": "70"
+    },
+    {
+      "name": "Celery stalks",
+      "portion_estimate": "2 stalks",
+      "confidence": "60"
+    },
+    {
+      "name": "Steamed chicken thighs with sauce",
+      "portion_estimate": "1 serving",
+      "confidence": "50"
+    },
+    {
+      "name": "Sliced apples",
+      "portion_estimate": "2 slices",
+      "confidence": "60"
+    },
+    {
+      "name": "Green olives (or possibly whole green grapes)",
+      "portion_estimate": "5 pieces",
+      "confidence": "50"
+    }
+  ]
+}

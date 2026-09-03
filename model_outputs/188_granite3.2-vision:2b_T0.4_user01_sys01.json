@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "salad with green vegetables (spinach or kale)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "grilled chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "quinoa or another grain",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

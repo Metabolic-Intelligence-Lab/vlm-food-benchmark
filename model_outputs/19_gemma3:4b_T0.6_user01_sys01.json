@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Yellow Corn on the Cob",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "Pasta Salad",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "80g",
+      "confidence": 90
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "240g",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cheese omelette with vegetable mix",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain pasta with raisins",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed fruit salad",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Bun",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

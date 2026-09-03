@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pureed vegetable soup",
+      "portion_estimate": "300 g",
+      "confidence": "85"
+    },
+    {
+      "name": "grated cheese topping",
+      "portion_estimate": "8 g",
+      "confidence": "80"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed salad with creamy dressing",
+      "portion_estimate": "110 g",
+      "confidence": "75"
+    },
+    {
+      "name": "two breaded vegetable patties",
+      "portion_estimate": "90 g",
+      "confidence": "75"
+    },
+    {
+      "name": "packaged fruit yogurt or dessert cup",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 g",
+      "confidence": "90"
+    }
+  ]
+}

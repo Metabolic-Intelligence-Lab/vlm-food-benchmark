@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried fish fillet (or schnitzel-style cutlet)",
+      "portion_estimate": "140 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed vegetables with mushrooms (carrot, peas, corn, potatoes) in light sauce",
+      "portion_estimate": "130 g",
+      "confidence": "75"
+    },
+    {
+      "name": "pasta shells (conchiglie) with tomato-based sauce and herbs",
+      "portion_estimate": "260 g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "90"
+    }
+  ]
+}

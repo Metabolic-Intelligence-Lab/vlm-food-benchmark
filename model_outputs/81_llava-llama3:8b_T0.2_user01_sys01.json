@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "dark green leafy vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "round, brown meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "yellow mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "light brown rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

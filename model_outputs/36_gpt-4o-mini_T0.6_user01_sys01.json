@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "salad with red cabbage and cucumber",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "fried green patties",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "sweet dessert ball",
+      "portion_estimate": "50",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    }
+  ]
+}

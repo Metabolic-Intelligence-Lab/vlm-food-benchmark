@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta with Sauce",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "Green Vegetables",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread Roll in Plastic Bag",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with Sauce in Plastic Bag",
+      "portion_estimate": "250g",
+      "confidence": "75"
+    }
+  ]
+}

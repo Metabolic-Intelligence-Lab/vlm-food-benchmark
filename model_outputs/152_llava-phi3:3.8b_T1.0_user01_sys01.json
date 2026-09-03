@@ -1,0 +1,31 @@
+{
+  "food_items": [
+    {
+      "name": "Caviar appetizer",
+      "portion_estimate": "45g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fruit salad",
+      "portion_estimate": "30g",
+      "confidence": "90"
+    },
+    {
+      "name": "Gluten-free pasta with cheese sauce and purple potatoes",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    }
+  ],
+  "tray": [
+    {
+      "item": "Plastic wrap for sealing bento box",
+      "color": "blue",
+      "position": "bottom left"
+    },
+    {
+      "name": "Bread roll with black filling",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    }
+  ]
+}

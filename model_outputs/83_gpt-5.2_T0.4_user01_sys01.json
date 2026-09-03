@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "170 g",
+      "confidence": "78"
+    },
+    {
+      "name": "baked/roasted fish fillet (white fish)",
+      "portion_estimate": "110 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed vegetables (leafy greens and couscous/breadcrumb-like grains)",
+      "portion_estimate": "180 g",
+      "confidence": "58"
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "85"
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "82"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "250 g",
+      "confidence": "65"
+    }
+  ]
+}

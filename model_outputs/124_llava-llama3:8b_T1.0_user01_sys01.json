@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based soup",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Kix cereal",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "pasta salad",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pancakes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bananas",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

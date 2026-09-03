@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fish (cod or haddock)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Brussels Sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Potatoes (cubed)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Plums (2)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

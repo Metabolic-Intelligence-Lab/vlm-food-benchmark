@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked spaghetti with light oil/herb seasoning",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "baked fish fillet with herb/spinach crust",
+      "portion_estimate": "140 g",
+      "confidence": "72"
+    },
+    {
+      "name": "cooked cabbage (likely saut\u00e9ed or braised)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "82"
+    },
+    {
+      "name": "sealed dairy portion (possibly yogurt or milk-based dessert)",
+      "portion_estimate": "125 g",
+      "confidence": "45"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti (dry, uncooked-like appearance, likely boiled)",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "cantaloupe or honeydew melon chunks (with rind)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "baked cantaloupe/honeydew melon dish (with breadcrumbs)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "fried cantaloupe/honeydew melon (saut\u00e9ed in oil)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "cheese slice (cheddar or similar)",
+      "portion_estimate": "20g",
+      "confidence": 75
+    },
+    {
+      "name": "pear (ripe, golden variety)",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "bun or bread roll (toasted or plain)",
+      "portion_estimate": "100g",
+      "confidence": 70
+    }
+  ]
+}

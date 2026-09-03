@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (spaghetti)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta (fusilli or rotini)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "meat (chicken or beef)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cherry tomato",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "lemon or lime",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "sugar or sweetener",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

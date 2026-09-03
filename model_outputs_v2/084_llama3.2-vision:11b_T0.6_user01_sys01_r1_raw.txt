@@ -1,0 +1,35 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Carrot",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Potato",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Yogurt",
+      "portion_est
+: "100g",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Rolled sandwich",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Baked item with topping (possibly pizza)",
+      "portion_estimate": "125 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Steamed broccoli",
+      "portion_estimate": "75 grams",
+      "confidence": "90"
+    }
+  ]
+}

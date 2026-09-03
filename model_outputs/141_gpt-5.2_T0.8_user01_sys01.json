@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked broccoli",
+      "portion_estimate": "120 g",
+      "confidence": "75"
+    },
+    {
+      "name": "white fish fillet (cooked, with herbs/sauce)",
+      "portion_estimate": "140 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked chickpeas (garbanzo beans)",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    },
+    {
+      "name": "slice of whole-grain bread",
+      "portion_estimate": "45 g",
+      "confidence": "80"
+    },
+    {
+      "name": "single-serve fruit yogurt (Yomo, strawberry/fruit flavor)",
+      "portion_estimate": "125 g",
+      "confidence": "65"
+    }
+  ]
+}

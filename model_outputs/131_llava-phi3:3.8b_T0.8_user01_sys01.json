@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Garbanzo bean",
+      "portion_estimate": "400g",
+      "confidence": "85"
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "300g",
+      "confidence": "92"
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta with pesto",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "hamburger",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cauliflower and zucchini mix",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "sliced chicken breast with sauce",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "baked beans in sauce",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "240",
+      "confidence": "90"
+    }
+  ]
+}

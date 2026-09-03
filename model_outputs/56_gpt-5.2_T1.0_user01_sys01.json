@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried chicken cutlet (schnitzel-style)",
+      "portion_estimate": "120 g",
+      "confidence": "78"
+    },
+    {
+      "name": "mixed vegetables with mushrooms (carrots, peas, potatoes, mushrooms)",
+      "portion_estimate": "140 g",
+      "confidence": "72"
+    },
+    {
+      "name": "pasta shells with tomato-based sauce and herbs",
+      "portion_estimate": "230 g",
+      "confidence": "74"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "85"
+    }
+  ]
+}

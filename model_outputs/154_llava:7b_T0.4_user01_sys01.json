@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed vegetables (broccoli, carrots)",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Carrot salad with dressing",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Rolled up bread (possibly a sandwich roll)",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Fruit salad with berries and possibly other fruits",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    }
+  ]
+}

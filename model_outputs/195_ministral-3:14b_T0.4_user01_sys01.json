@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato-based sauce and meat chunks",
+      "portion_estimate": "300g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted or fried potato wedges",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "ground beef or meat crumbles (possibly seasoned)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "water (in a glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "white powder (possibly sugar or salt, in a small dish)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

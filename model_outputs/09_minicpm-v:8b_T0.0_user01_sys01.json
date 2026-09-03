@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain, approx. slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "Green Salad Pack",
+      "portion_estimate": "uncertain, approx. small packet",
+      "confidence": "60"
+    },
+    {
+      "name": "Potato Wedges with Red Bell Pepper and Green Onions",
+      "portion_estimate": "approx. 150g for the wedges",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried Chicken Breast with Herbs",
+      "portion_estimate": "uncertain, approx. medium size",
+      "confidence": "60"
+    },
+    {
+      "name": "Mashed Potatoes with Vegetables and Gravy",
+      "portion_estimate": "approx. 150g for the portion visible in the bowl",
+      "confidence": "80"
+    },
+    {
+      "name": "Red Berry Yogurt Cup",
+      "portion_estimate": "uncertain, approx. cup size",
+      "confidence": "60"
+    }
+  ]
+}

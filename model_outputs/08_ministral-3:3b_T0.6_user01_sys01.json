@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup (with possible herbs/seasoning)",
+      "portion_estimate": "300 g",
+      "confidence": 95
+    },
+    {
+      "name": "baked or fried eggplant balls",
+      "portion_estimate": "50 g",
+      "confidence": 85
+    },
+    {
+      "name": "shredded carrots and other raw vegetables (likely zucchini, bell peppers)",
+      "portion_estimate": "80 g",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat bun or roll",
+      "portion_estimate": "120 g",
+      "confidence": 80
+    },
+    {
+      "name": "tomato-based tomato soup or dip (from the red container)",
+      "portion_estimate": "60 g",
+      "confidence": 70
+    },
+    {
+      "name": "water or similar beverage",
+      "portion_estimate": "240 ml (assuming standard glass size)",
+      "confidence": 75
+    }
+  ]
+}

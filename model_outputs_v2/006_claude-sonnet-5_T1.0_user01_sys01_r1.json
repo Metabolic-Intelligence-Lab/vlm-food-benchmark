@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto sauce",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded chicken cutlet with fried egg on top",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "sauteed zucchini and diced potato side salad",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "75"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "200",
+      "confidence": "50"
+    }
+  ]
+}

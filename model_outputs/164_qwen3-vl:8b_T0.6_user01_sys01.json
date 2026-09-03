@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread Roll",
+      "portion": 100,
+      "confidence": 70
+    },
+    {
+      "name": "Yomo Fruit Yogurt",
+      "portion": 125,
+      "confidence": 90
+    },
+    {
+      "name": "Green Soup with Cheese Garnish",
+      "portion": 300,
+      "confidence": 80
+    },
+    {
+      "name": "Breaded Croquette with Apple Slices",
+      "portion": 150,
+      "confidence": 75
+    },
+    {
+      "name": "Mashed Green Beans",
+      "portion": 150,
+      "confidence": 75
+    }
+  ]
+}

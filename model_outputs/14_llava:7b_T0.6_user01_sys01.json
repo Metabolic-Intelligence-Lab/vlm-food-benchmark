@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta salad with mixed vegetables",
+      "portion_estimate": "100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Fish fillet",
+      "portion_estimate": "125 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed vegetables on a bed of rice",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Burger with side salad",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed vegetable salad",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    }
+  ]
+}

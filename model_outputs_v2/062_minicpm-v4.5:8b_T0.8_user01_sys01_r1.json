@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowtie pasta with tomato and vegetable sauce",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "mashed potato with gravy and a dollop of sauce",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked leafy greens (likely spinach or chard)",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "small bagel",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "125g tub of Yomo foodservice cream",
+      "portion_estimate": "125g",
+      "confidence": "95"
+    }
+  ]
+}

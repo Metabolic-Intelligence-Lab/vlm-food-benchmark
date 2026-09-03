@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fresh green leafy lettuce",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "red leafy vegetable (radicchio)",
+      "portion_estimate": "120 g",
+      "confidence": 98
+    },
+    {
+      "name": "carrot sticks",
+      "portion_estimate": "40 g",
+      "confidence": 85
+    },
+    {
+      "name": "croutons or bread crumbs",
+      "portion_estimate": "25 g",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "250g (uncertain)",
+      "confidence": 65
+    },
+    {
+      "name": "fried or roasted broccoli florets",
+      "portion_estimate": "150g (uncertain)",
+      "confidence": 75
+    },
+    {
+      "name": "mixed salad (cabbage, cucumber, carrots, onion)",
+      "portion_estimate": "120g (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "banana (partially wrapped)",
+      "portion_estimate": "130g (uncertain)",
+      "confidence": 85
+    },
+    {
+      "name": "water in plastic cup (with green label)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "chicken patty with sauce and shredded cabbage",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "pasta sauce (in jar)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bowtie pasta (farfalle)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "shredded chicken breast",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "ClearKit packet (likely seasoning or sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

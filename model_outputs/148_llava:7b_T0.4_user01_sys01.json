@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with creamy sauce",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "120g",
+      "confidence": "60"
+    },
+    {
+      "name": "Steamed vegetables (including carrots)",
+      "portion_estimate": "70g",
+      "confidence": "80"
+    },
+    {
+      "name": "Cornbread muffin",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fruit salad with berries",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    }
+  ]
+}

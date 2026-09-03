@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

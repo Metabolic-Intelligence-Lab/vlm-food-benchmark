@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with red sauce, peppers, and spinach",
+      "portion_estimate": 250,
+      "confidence": 96
+    },
+    {
+      "name": "Baked potato pieces (hash browns) with herbs",
+      "portion_estimate": 200,
+      "confidence": 95
+    },
+    {
+      "name": "Breaded baked fish fillets",
+      "portion_estimate": 140,
+      "confidence": 93
+    },
+    {
+      "name": "Glass of water (full glass)",
+      "portion_estimate": 250,
+      "confidence": 88
+    },
+    {
+      "name": "Yogurt pot with red lid",
+      "portion_estimate": 125,
+      "confidence": 94
+    }
+  ]
+}

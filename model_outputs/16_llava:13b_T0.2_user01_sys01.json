@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "meat patty with vegetables",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "steamed carrots",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    }
+  ]
+}

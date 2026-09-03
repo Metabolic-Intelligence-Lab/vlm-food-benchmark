@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "grilled chicken breast",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "peach",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "iced beverage (likely tea)",
+      "portion_estimate": "240",
+      "confidence": "70"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "60",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked bow-tie pasta with grated cheese",
+      "portion_estimate": "240 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "45 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "omelette or egg frittata",
+      "portion_estimate": "130 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked mixed vegetables with broad beans, carrots, and peas",
+      "portion_estimate": "170 grams",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried protein pieces (e.g., chicken or fish)",
+      "portion_estimate": "220",
+      "confidence": "85"
+    },
+    {
+      "name": "Breaded fried cutlet or protein",
+      "portion_estimate": "140",
+      "confidence": "85"
+    },
+    {
+      "name": "Cubed yellow side dish (e.g., potato or fruit)",
+      "portion_estimate": "180",
+      "confidence": "75"
+    },
+    {
+      "name": "Ketchup or dipping sauce",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "Water or clear beverage",
+      "portion_estimate": "320",
+      "confidence": "90"
+    }
+  ]
+}

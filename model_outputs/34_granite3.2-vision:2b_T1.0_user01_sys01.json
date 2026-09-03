@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "tomato sauce/pesto",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta (fettuccine or penne)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "parsley",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

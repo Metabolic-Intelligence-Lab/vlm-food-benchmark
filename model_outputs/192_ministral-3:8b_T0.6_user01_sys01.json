@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "battered fried cutlet (appears to be chicken or fish)",
+      "portion_estimate": "180-200 grams",
+      "confidence": 75
+    },
+    {
+      "name": "steamed green leafy vegetables (kale or collard greens)",
+      "portion_estimate": "100-120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "roasted or fried pasta (likely penne or rigatoni)",
+      "portion_estimate": "150-180 grams (cooked weight)",
+      "confidence": 75
+    },
+    {
+      "name": "lemon wedge (for garnish)",
+      "portion_estimate": "uncertain (estimated 20-30 grams)",
+      "confidence": 50
+    },
+    {
+      "name": "clear liquid (likely water or broth)",
+      "portion_estimate": "uncertain (estimated 50-100 ml)",
+      "confidence": 40
+    }
+  ]
+}

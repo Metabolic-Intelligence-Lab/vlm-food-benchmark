@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable/legume soup with grated cheese on top",
+      "portion_estimate": "350 g",
+      "confidence": "72"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "45 g",
+      "confidence": "78"
+    },
+    {
+      "name": "fruit yogurt cup (strawberry/cherry, 125 g)",
+      "portion_estimate": "125 g",
+      "confidence": "85"
+    },
+    {
+      "name": "mashed potatoes (or potato mash with small pieces)",
+      "portion_estimate": "160 g",
+      "confidence": "62"
+    },
+    {
+      "name": "breaded meat cutlet/roll with pesto coating (2 pieces) with sauce",
+      "portion_estimate": "140 g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice or grain base",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "leafy greens",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "beans or tofu",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

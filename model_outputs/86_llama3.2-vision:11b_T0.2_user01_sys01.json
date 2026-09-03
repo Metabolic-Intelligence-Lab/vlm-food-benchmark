@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (macaroni or penne in creamy sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "salad (mixed greens, cherry tomatoes, cucumber in vinaigrette)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "grilled chicken with roasted vegetables (carrots, zucchini, bell peppers)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

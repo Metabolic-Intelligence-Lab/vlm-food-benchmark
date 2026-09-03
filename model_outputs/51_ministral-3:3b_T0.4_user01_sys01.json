@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "shredded cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "saut\u00e9ed mushrooms",
+      "portion_estimate": "15-20 grams (sliced)",
+      "confidence": 85
+    },
+    {
+      "name": "onion rings (or fried onion slices)",
+      "portion_estimate": "30-40 grams (whole rings)",
+      "confidence": 80
+    },
+    {
+      "name": "baked egg custard or quiche filling (yellow base)",
+      "portion_estimate": "120-150 grams (whole dish portion)",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy Vegetable Soup",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Yomoto Whole Wheat Bun",
+      "portion_estimate": "80g",
+      "confidence": 90
+    },
+    {
+      "name": "Chopped Cucumber",
+      "portion_estimate": "50g",
+      "confidence": 70
+    }
+  ]
+}

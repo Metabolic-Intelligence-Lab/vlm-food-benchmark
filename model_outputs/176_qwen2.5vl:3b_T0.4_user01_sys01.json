@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Baked Falafel with Tomato and Hummus",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Lentil Soup",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta with Cheese and Olives",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

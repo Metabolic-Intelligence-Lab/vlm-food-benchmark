@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetables (green beans and carrots)",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "sweet potato mash",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "yellow rice with peas",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "90"
+    }
+  ]
+}

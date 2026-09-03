@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "diced potatoes (fries or hash browns)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "ground meat (likely beef or pork) with visible seasoning/herbs",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetables (likely carrots and possibly onions) in sauce",
+      "portion_estimate": "180g",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "meat or fish balls with sauce or seasoning",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "cabbage or leafy green vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "small, round bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "dark brown or black object (fruit, nut, or small item)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

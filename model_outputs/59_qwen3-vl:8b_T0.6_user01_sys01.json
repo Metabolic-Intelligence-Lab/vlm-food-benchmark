@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot and cucumber salad",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "dinner roll",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "cooked spinach",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "small pastry with cheese and sauce",
+      "portion_estimate": "40g",
+      "confidence": 70
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "40g",
+      "confidence": 85
+    }
+  ]
+}

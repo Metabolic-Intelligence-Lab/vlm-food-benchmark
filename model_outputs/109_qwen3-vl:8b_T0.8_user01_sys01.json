@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Apple",
+      "portion_estimate": "0.2 kg",
+      "confidence": 100
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "0.3 kg",
+      "confidence": 100
+    },
+    {
+      "name": "Carrot",
+      "portion_estimate": "0.1 kg",
+      "confidence": 100
+    }
+  ]
+}

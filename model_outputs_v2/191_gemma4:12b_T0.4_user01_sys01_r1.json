@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup",
+      "portion_estimate": "350g",
+      "confidence": 95
+    },
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "breaded croquettes",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "contents of red container",
+      "portion_estimate": "50g",
+      "confidence": 55
+    },
+    {
+      "name": "seaweed or green vegetables",
+      "portion_estimate": "30g",
+      "confidence": 80
+    }
+  ]
+}

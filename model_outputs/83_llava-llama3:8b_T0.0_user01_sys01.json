@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green salad",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange-colored food (sweet potatoes or carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "grilled chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

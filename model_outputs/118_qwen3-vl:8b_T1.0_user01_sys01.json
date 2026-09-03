@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": 180,
+      "confidence_level": 85
+    },
+    {
+      "name": "Diced roasted potatoes",
+      "portion_estimate": 170,
+      "confidence_level": 80
+    },
+    {
+      "name": "Omelet with tomato sauce and cheese",
+      "portion_estimate": 120,
+      "confidence_level": 80
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": 75,
+      "confidence_level": 80
+    }
+  ]
+}

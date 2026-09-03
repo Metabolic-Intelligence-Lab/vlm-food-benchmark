@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "crispy parmesan fries with meat gravy",
+      "portion_estimate": "250",
+      "confidence": 95
+    },
+    {
+      "name": "sliced cucumber in a mushroom cap",
+      "portion_estimate": "30",
+      "confidence": 70
+    },
+    {
+      "name": "chicken salad wrap (carrot and possibly other mix-ins)",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "baked or boiled potato fries (in foil)",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "orange and carrot salad (raw)",
+      "portion_estimate": "150",
+      "confidence": 85
+    }
+  ]
+}

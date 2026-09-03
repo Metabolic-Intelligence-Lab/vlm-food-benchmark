@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "creamy soup or stew",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "chicken and rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fried fish or meat (seafood dish)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

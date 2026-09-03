@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried egg on toast",
+      "portion_estimate": "20g (toast) + 35g (egg, yolk approx.)",
+      "confidence": 90
+    },
+    {
+      "name": "massaged spinach",
+      "portion_estimate": "30g",
+      "confidence": 90
+    },
+    {
+      "name": "penne pasta (plain)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "small hoagie roll (or similar bun)",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "apple, raw",
+      "portion_estimate": "120g (approx. one small-sized apple)",
+      "confidence": 85
+    }
+  ]
+}

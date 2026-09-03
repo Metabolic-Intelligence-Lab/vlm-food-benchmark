@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "unpeeled banana",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "sliced bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mixed vegetables (carrots and beans)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

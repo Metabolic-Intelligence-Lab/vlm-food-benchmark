@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta with Tomato Sauce",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Brussels Sprouts with Cheese",
+      "portion_estimate": "80",
+      "confidence": 70
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "100",
+      "confidence": 80
+    }
+  ]
+}

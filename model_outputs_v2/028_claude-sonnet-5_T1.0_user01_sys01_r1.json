@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "sautéed spinach (cooked leafy greens)",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "stuffed crepe/crespelle with béchamel and cheese gratin",
+      "portion_estimate": "120",
+      "confidence": "65"
+    },
+    {
+      "name": "fusilli pasta with tomato sauce and vegetables",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed salad (cabbage and cucumber)",
+      "portion_estimate": "80",
+      "confidence": "70"
+    },
+    {
+      "name": "single-serve fruit yogurt or dessert cup",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "water in glass (second glass)",
+      "portion_estimate": "150",
+      "confidence": "60"
+    }
+  ]
+}

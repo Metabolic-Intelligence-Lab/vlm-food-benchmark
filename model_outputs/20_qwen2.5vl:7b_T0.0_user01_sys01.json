@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Sliced carrots",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken in sauce",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200",
+      "confidence": "90"
+    }
+  ]
+}

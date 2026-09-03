@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed salad greens",
+      "portion_estimate": "uncertain, approximately 100g",
+      "confidence": "50"
+    },
+    {
+      "name": "Cucumber slices",
+      "portion_estimate": "uncertain, approximately 20g each",
+      "confidence": "50"
+    },
+    {
+      "name": "Sliced red bell peppers",
+      "portion_estimate": "uncertain, approximately 15-20g each",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrot slices",
+      "portion_estimate": "uncertain, approximately 15-20g each",
+      "confidence": "60"
+    },
+    {
+      "name": "Sliced red onions",
+      "portion_estimate": "uncertain, approximately 15-20g each",
+      "confidence": "60"
+    },
+    {
+      "name": "Green pesto spread",
+      "portion_estimate": "uncertain, approximately 30g",
+      "confidence": "40"
+    }
+  ]
+}

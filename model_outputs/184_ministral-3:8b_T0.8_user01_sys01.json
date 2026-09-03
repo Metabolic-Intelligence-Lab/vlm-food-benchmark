@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (whole wheat, wrapped)",
+      "portion_estimate": "70 grams",
+      "confidence": 85
+    },
+    {
+      "name": "chicken and stuffing in tortilla (or wrap) with greens and tomato",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed fruit salad with berries and chunks (e.g., grapes, plum, and possibly peaches/nectarines)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "single plum",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    }
+  ]
+}

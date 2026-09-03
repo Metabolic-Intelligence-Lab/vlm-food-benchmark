@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": 140,
+      "confidence": 95
+    },
+    {
+      "name": "White rice with melted cheese and herbs",
+      "portion_estimate": 150,
+      "confidence": 92
+    },
+    {
+      "name": "Pineapple chunks",
+      "portion_estimate": 130,
+      "confidence": 95
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": 180,
+      "confidence": 92
+    },
+    {
+      "name": "Wrapped bun or bread roll",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Packaged butter",
+      "portion_estimate": 15,
+      "confidence": 85
+    }
+  ]
+}

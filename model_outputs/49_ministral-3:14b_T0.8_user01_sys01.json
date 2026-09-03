@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "canned tuna in water (chunk light)",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "whole wheat rigatoni or penne pasta",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "cherry tomatoes (whole, sliced)",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "pitted black olives (whole, sliced)",
+      "portion_estimate": "30g",
+      "confidence": 80
+    },
+    {
+      "name": "creamy dressing (likely mayo-based)",
+      "portion_estimate": "20g",
+      "confidence": 75
+    }
+  ]
+}

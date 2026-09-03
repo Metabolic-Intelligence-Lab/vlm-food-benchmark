@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Minestrone Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Yogurt Parfait with Fruit Preservative",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Macaroni and Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Loaf of Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Small Food Items (Breakfast)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

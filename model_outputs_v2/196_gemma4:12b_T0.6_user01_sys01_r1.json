@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of gravy",
+      "portion_estimate": "250",
+      "confidence": "95"
+    },
+    {
+      "name": "roasted meat with gravy",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "roasted chickpeas",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250",
+      "confidence": "95"
+    },
+    {
+      "name": "Crunchy snack packet",
+      "portion_estimate": "30",
+      "confidence": "90"
+    },
+    {
+      "name": "yellow snack packet",
+      "portion_estimate": "30",
+      "confidence": "85"
+    }
+  ]
+}

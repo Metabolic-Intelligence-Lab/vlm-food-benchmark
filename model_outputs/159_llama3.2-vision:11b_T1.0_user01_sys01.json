@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "30g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pesto Pasta",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Steamed Broccoli",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "80g",
+      "confidence": "70"
+    },
+    {
+      "name": "Lemon",
+      "portion_estimate": "50g",
+      "confidence": "65"
+    }
+  ]
+}

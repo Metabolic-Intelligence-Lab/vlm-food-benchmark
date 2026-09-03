@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bowtie pasta with grated cheese",
+      "portion_estimate": 280,
+      "confidence": 95
+    },
+    {
+      "name": "Water",
+      "portion_estimate": 240,
+      "confidence": 100
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": 135,
+      "confidence": 98
+    },
+    {
+      "name": "Fried potato wedges",
+      "portion_estimate": 200,
+      "confidence": 96
+    },
+    {
+      "name": "Egg omelette or frittata slice",
+      "portion_estimate": 150,
+      "confidence": 92
+    }
+  ]
+}

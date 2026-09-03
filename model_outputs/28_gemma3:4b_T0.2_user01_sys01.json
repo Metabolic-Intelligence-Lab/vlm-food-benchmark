@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Salad with Spinach",
+      "portion_estimate": "75",
+      "confidence": 70
+    },
+    {
+      "name": "Cucumber",
+      "portion_estimate": "30",
+      "confidence": 65
+    }
+  ]
+}

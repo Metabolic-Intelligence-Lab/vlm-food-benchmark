@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with cheese (parmesan)",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "stuffed potato/peasant-style potato with peas and small meat pieces (ham, likely)",
+      "portion_estimate": 180,
+      "confidence": 80
+    },
+    {
+      "name": "peas",
+      "portion_estimate": 60,
+      "confidence": 85
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": 80,
+      "confidence": 90
+    }
+  ]
+}

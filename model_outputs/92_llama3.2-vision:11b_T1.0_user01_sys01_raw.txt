@@ -1,0 +1,73 @@
+Based on the input image, I have identified the following food items:
+
+### Food Items
+
+1.  **Vegetable Soup**: The main course consists of a vegetable-based soup. The broth is a light color, indicating it is a vegetable-based soup. 
+    -  **Portion Estimate**: 300g
+    -  **Confidence**: 85
+2.  **Bread**: A bread roll is present on the tray. It is small, and its presence is not directly related to the main course. 
+    -  **Portion Estimate**: 20g
+    -  **Confidence**: 90
+3.  **Fried Potatoes**: The main course includes fried potatoes. They are a mix of small, irregularly-shaped, and often crick- or … – […]
+    -  **Portion Estimate**: 100g
+    -  **Confidence**: 95
+4.  **Crisp Red Cabbage**: Red cabbage is present on top of the main course. The dark red color of the … – […]
+    -  **Portion Estimate**: 50g
+    -  **Confidence**: 95
+5.  **Meatballs**: The main course consists of meatballs. They are small and often … – […]
+    -  **Portion Estimate**: 50g
+    -  **Confidence**: 95
+
+### Food Items List
+
+- 1.  **Ve…** 
+    -  **Port…** – ….
+    -  **… …**…
+    -  **C … … …
+    -  **F ……
+    -  **……  …
+- 2.  **B… … …
+    -  **…… ……
+    -  **C … …
+- 3.  **… …… …
+    -  **…… …
+    -  **… ……
+- 4.  **C… … …
+    -  **… …
+    -  **… …
+
+
+### Final Output
+
+```json
+{
+  "food_items": [
+    {
+      "name": "… … …
+    },
+    {
+      “… … … …
+    },
+    {
+      “…
+    },
+    {
+      “…
+    },
+    {
+      “…
+    }
+  ],
+}
+```
+
+### API Response
+
+To get the final answer, you can use the following API endpoint and JSON payload:
+
+```bash
+POST /api/v1/food-recognition
+{
+  "image_url": “https://…
+}
+```

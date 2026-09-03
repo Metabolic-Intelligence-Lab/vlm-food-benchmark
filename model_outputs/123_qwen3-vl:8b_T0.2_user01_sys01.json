@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with parmesan",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "95"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "118",
+      "confidence": "90"
+    },
+    {
+      "name": "egg frittata",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted potato wedges",
+      "portion_estimate": "150",
+      "confidence": "85"
+    }
+  ]
+}

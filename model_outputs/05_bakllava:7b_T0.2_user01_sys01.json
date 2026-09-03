@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white soup with yellow pieces",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "plate of fried food and potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "cookie",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "small tray containing a sandwich and a salad",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

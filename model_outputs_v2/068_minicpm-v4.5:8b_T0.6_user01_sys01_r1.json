@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta salad",
+      "portion_estimate": "200-250g",
+      "confidence": 80
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "30-40g",
+      "confidence": 70
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "30-40g",
+      "confidence": 60
+    },
+    {
+      "name": "carrot strips",
+      "portion_estimate": "10-15g",
+      "confidence": 50
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "10-15g",
+      "confidence": 50
+    },
+    {
+      "name": "cubes of cheese or feta",
+      "portion_estimate": "20-30g",
+      "confidence": 60
+    },
+    {
+      "name": "small diced ham or luncheon meat",
+      "portion_estimate": "20-30g",
+      "confidence": 50
+    }
+  ]
+}

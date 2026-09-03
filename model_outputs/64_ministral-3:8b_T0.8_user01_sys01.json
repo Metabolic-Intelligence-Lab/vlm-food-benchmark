@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (fusilli) with tomato sauce and diced tomato",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "fried potato wedges (or hash browns)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "grilled or fried ham-filled bread roll (e.g., pork roll or similar)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "condiment packet (likely salt or seasoning, unclear exact type)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "dipping sauce (yogurt or sour cream-based, red packet)",
+      "portion_estimate": "uncertain (small container, likely ~100g)",
+      "confidence": 65
+    },
+    {
+      "name": "packaged bread rolls (background)",
+      "portion_estimate": "uncertain (one visible, ~50g per roll)",
+      "confidence": 50
+    }
+  ]
+}

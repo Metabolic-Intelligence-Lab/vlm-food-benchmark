@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese with broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "chips (red and blue)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Cheese and Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Fried Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Zucchini and Onion Salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pizza",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Cup of Milk",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

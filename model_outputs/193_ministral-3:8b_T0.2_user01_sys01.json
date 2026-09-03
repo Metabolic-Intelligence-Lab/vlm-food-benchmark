@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetable and meat stew (bowl)",
+      "portion_estimate": "300 grams",
+      "confidence": 75
+    },
+    {
+      "name": "fried rice or mixed rice dish (small plate)",
+      "portion_estimate": "150 grams",
+      "confidence": 70
+    },
+    {
+      "name": "fried or baked bread roll (bottom left)",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "orange (whole)",
+      "portion_estimate": "uncertain (size not easily estimable)",
+      "confidence": 55
+    },
+    {
+      "name": "water (two glasses)",
+      "portion_estimate": "uncertain (each glass ~250ml)",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mango",
+      "portion_estimate": "1 medium",
+      "confidence": "60"
+    },
+    {
+      "name": "Beans",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Sausage balls",
+      "portion_estimate": "5 pieces",
+      "confidence": "60"
+    }
+  ]
+}

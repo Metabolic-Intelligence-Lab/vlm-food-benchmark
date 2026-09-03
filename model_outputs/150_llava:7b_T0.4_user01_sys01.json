@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed vegetables with sauce",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Carrot salad",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Purple grapes",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    }
+  ]
+}

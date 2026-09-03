@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich with bite",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "blueberry muffin",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "blueberries",
+      "portion_estimate": "3 plump blueberries",
+      "confidence": 80
+    },
+    {
+      "name": "yellow napkin",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

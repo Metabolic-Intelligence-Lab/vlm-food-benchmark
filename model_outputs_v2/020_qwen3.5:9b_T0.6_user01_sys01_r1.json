@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed Brussels sprouts",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Sliced cooked carrots",
+      "portion_estimate": 150,
+      "confidence": 96
+    },
+    {
+      "name": "Glazed chicken wings (3 pieces)",
+      "portion_estimate": 220,
+      "confidence": 92
+    },
+    {
+      "name": "Whole apple",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Water",
+      "portion_estimate": 200,
+      "confidence": 90
+    }
+  ]
+}

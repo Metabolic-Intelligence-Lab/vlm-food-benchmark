@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "lettuce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "mozzarella cheese cubes",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "hard-boiled eggs or tuna",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

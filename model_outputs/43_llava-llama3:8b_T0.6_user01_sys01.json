@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "grilled chicken with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "fresh salad with mixed vegetables and greens",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

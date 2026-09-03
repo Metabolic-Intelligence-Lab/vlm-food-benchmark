@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Leafy Green Vegetables (Bowl)",
+      "portion_estimate": "100 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green Beans (Bowl)",
+      "portion_estimate": "100 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Chicken Breast (Sliced)",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Jelly (in Container)",
+      "portion_estimate": "50 g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread (Two Slices)",
+      "portion_estimate": "100 g",
+      "confidence": "75"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed fish fillet with a light sauce",
+      "portion_estimate": 140,
+      "confidence": 85
+    },
+    {
+      "name": "Saut\u00e9ed vegetables (appears to be zucchini and spinach)",
+      "portion_estimate": 90,
+      "confidence": 82
+    },
+    {
+      "name": "Steamed broccoli florets",
+      "portion_estimate": 65,
+      "confidence": 85
+    },
+    {
+      "name": "Soft white bread roll in plastic wrap",
+      "portion_estimate": 40,
+      "confidence": 92
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": 130,
+      "confidence": 95
+    }
+  ]
+}

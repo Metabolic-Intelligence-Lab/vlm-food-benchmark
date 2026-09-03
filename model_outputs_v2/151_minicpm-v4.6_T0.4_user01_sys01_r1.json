@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with mushrooms",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Brussel sprouts and diced carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

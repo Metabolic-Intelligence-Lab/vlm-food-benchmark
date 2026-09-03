@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bean soup",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "Peas",
+      "portion_estimate": "50",
+      "confidence": 60
+    },
+    {
+      "name": "Carrot pieces",
+      "portion_estimate": "40",
+      "confidence": 60
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "100",
+      "confidence": 60
+    }
+  ]
+}

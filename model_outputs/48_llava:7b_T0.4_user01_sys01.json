@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Breaded and fried food item, possibly chicken or fish",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Green salad with dressing",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll or bun, likely for the pasta dish",
+      "portion_estimate": "30 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Mashed potatoes with cheese sprinkles",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded and fried food item, possibly chicken or fish",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Scoop of ice cream with a topping, possibly nuts or sprinkles",
+      "portion_estimate": "100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "French fries, likely seasoned",
+      "portion_estimate": "80 grams",
+      "confidence": "70"
+    }
+  ]
+}

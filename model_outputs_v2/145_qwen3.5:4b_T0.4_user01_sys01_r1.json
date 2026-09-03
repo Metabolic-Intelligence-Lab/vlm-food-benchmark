@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Lentil stew with cheese",
+      "portion_estimate": "400",
+      "confidence": 90
+    },
+    {
+      "name": "Cauliflower and frittata",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "quiche or savory tart with spinach and cheese filling",
+      "portion_estimate": "180-200g",
+      "confidence": 85
+    },
+    {
+      "name": "diced mixed vegetables (potatoes, carrots, and onions)",
+      "portion_estimate": "100-120g",
+      "confidence": 80
+    },
+    {
+      "name": "small baguette-style roll",
+      "portion_estimate": "50-60g",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with meat sauce (possibly meatballs or chunks)",
+      "portion_estimate": "150-180g (dry weight, cooked portion would be ~300-350g)",
+      "confidence": 80
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100-120g (4-5 plums)",
+      "confidence": 75
+    }
+  ]
+}

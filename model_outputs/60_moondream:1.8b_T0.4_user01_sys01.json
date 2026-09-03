@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta and potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fish covered in white sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

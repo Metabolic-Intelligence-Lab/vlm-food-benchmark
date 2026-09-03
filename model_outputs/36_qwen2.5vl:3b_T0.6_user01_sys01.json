@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "crispy fried noodle",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "sauce in a bowl",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "vegetable salad",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "crispy vegetable balls",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

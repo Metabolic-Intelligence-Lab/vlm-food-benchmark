@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with olive oil and grated parmesan",
+      "portion_estimate": "200g",
+      "confidence": "95"
+    },
+    {
+      "name": "butternut squash stuffed baked (likely with some meat or tomato topping)",
+      "portion_estimate": "220g",
+      "confidence": "95"
+    },
+    {
+      "name": "shredded cucumber",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "sourdough bread roll",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    },
+    {
+      "name": "container of yogurt or soft-serve (red container)",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "water bottle (plain water, no contents visible but recognizable by bottle)",
+      "portion_estimate": "355g (17 oz)",
+      "confidence": "70"
+    }
+  ]
+}

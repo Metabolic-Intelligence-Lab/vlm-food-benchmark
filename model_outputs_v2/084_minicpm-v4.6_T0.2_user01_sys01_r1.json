@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli and diced potatoes",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "Diced potatoes or cheese",
+      "portion_estimate": "75 g",
+      "confidence": 90
+    },
+    {
+      "name": "Bread (sandwich or roll)",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "Mixed vegetable dish (salad or casserole)",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "Breaded dish with sauce (e.g., breaded cutlet)",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt or dip (in small cup)",
+      "portion_estimate": "10 g",
+      "confidence": 85
+    },
+    {
+      "name": "Butter",
+      "portion_estimate": "10 g",
+      "confidence": 95
+    }
+  ]
+}

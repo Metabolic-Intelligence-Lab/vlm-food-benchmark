@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "steamed carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "buttery bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    },
+    {
+      "name": "gravy",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    }
+  ]
+}

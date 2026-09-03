@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Apple",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "Spaghetti with Egg",
+      "portion_estimate": "200",
+      "confidence": "70"
+    },
+    {
+      "name": "Coleslaw",
+      "portion_estimate": "100",
+      "confidence": "65"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Eggplant",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "150g",
+      "confidence": "65"
+    },
+    {
+      "name": "Bread bun",
+      "portion_estimate": "15g",
+      "confidence": "80"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    }
+  ]
+}

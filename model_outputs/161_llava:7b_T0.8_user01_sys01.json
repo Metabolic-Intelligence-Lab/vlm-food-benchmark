@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with red sauce and grated cheese",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "carrot salad",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "fruit plate with mango and peach",
+      "portion_estimate": "200g",
+      "confidence": "60"
+    },
+    {
+      "name": "breaded meat patty with sauce on side",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "fruit and vegetable salad with dressing",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

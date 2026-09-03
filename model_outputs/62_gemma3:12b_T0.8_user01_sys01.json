@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked shrimp",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked collard greens",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "125",
+      "confidence": "70"
+    },
+    {
+      "name": "sliced tomatoes",
+      "portion_estimate": "50",
+      "confidence": "65"
+    }
+  ]
+}

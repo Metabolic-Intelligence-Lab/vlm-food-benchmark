@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne or rigatoni)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "shredded or chopped meat (likely chicken or beef)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baguette or bread roll",
+      "portion_estimate": "80 grams",
+      "confidence": 75
+    },
+    {
+      "name": "packaged spread or dip (possibly pesto or similar)",
+      "portion_estimate": "uncertain (container size not clear)",
+      "confidence": 50
+    },
+    {
+      "name": "packaged cheese or cheese spread",
+      "portion_estimate": "uncertain (container size not clear)",
+      "confidence": 50
+    },
+    {
+      "name": "sliced lemon",
+      "portion_estimate": "30 grams",
+      "confidence": 80
+    },
+    {
+      "name": "breaded or fried meat patty (small portion)",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    }
+  ]
+}

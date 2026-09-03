@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with meat sauce (rag\u00f9/bolognese) and grated cheese",
+      "portion_estimate": "270 g",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded cutlet (likely pork or chicken)",
+      "portion_estimate": "120 g",
+      "confidence": "65"
+    },
+    {
+      "name": "potato wedges",
+      "portion_estimate": "180 g",
+      "confidence": "75"
+    },
+    {
+      "name": "slice of bread (white/whole wheat, packaged)",
+      "portion_estimate": "35 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cherry fruit yogurt (packaged cup)",
+      "portion_estimate": "125 g",
+      "confidence": "85"
+    }
+  ]
+}

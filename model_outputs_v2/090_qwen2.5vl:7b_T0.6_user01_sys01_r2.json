@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Basmati rice",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Carrot and potato stir-fry",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "Chicken and spinach stir-fry",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain, estimated weight around 150g-200g",
+      "confidence": "65"
+    },
+    {
+      "name": "Whole grain bread slices with butter",
+      "portion_estimate": "uncertain, estimated portion size for one slice is about 30g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cheese sticks or vegetable sticks (unclear)",
+      "portion_estimate": "uncertain, exact weight unclear but possibly around 50-100g per stick",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta salad with dressing and cheese on top",
+      "portion_estimate": "uncertain, estimated portion size for one serving is about 250g (assuming average plate size)",
+      "confidence": "70"
+    },
+    {
+      "name": "Salad bowl with mixed greens, shredded carrots, red cabbage, and possibly other vegetables or nuts",
+      "portion_estimate": "uncertain, estimated portion size for one serving is about 250g (assuming average plate size)",
+      "confidence": "70"
+    },
+    {
+      "name": "Dairy product on a white round dish with visible texture lines indicating it might be cheese or yogurt",
+      "portion_estimate": "uncertain, exact weight unclear but possibly around 30-50g per portion",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup or Broth",
+      "portion_estimate": "320g",
+      "confidence": "90"
+    },
+    {
+      "name": "Sliced Carrots",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried/Baked Snack (round)",
+      "portion_estimate": "35g",
+      "confidence": "75"
+    },
+    {
+      "name": "Cooked Greens or Seaweed",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Starch Base (Rice or Bread)",
+      "portion_estimate": "120g",
+      "confidence": "65"
+    }
+  ]
+}

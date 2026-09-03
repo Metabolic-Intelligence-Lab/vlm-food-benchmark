@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (whole wheat)",
+      "portion_estimate": "60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "grilled or baked fish fillet (e.g., cod or tilapia)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "diced carrots and onions (mixed)",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "breaded and fried cutlet (likely chicken or vegetable-based)",
+      "portion_estimate": "120 grams",
+      "confidence": 70
+    },
+    {
+      "name": "condiment packet (likely salt or seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

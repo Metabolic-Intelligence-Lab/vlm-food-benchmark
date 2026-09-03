@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "meat (possibly ham)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

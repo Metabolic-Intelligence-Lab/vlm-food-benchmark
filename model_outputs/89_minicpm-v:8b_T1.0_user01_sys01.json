@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Rice with butter",
+      "portion_estimate": "180g (approx.) for the rice portion and an additional 30-45g of butter on top. Uncertainty adds to the total estimate due to variable melting rates.",
+      "confidence": "70"
+    },
+    {
+      "name": "Chicken with chickpeas",
+      "portion_estimate": "uncertain, approx., estimated at chicken size and proportionate chickpea portion around 1/3 -2/5 of overall. Uncertainty adds to the total estimate due to variable portioning by cook.",
+      "confidence": "60"
+    }
+  ]
+}

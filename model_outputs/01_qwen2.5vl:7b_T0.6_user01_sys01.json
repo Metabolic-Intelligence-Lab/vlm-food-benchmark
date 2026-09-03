@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Green Soup",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Yellow Rice",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Red Tomato",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "White Rice",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Yogurt with Berries",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200 milliliters",
+      "confidence": 80
+    }
+  ]
+}

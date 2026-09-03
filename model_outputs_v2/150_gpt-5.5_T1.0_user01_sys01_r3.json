@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "88"
+    },
+    {
+      "name": "cooked penne pasta",
+      "portion_estimate": "220 g",
+      "confidence": "85"
+    },
+    {
+      "name": "grated hard cheese on pasta",
+      "portion_estimate": "12 g",
+      "confidence": "82"
+    },
+    {
+      "name": "boiled potato pieces",
+      "portion_estimate": "120 g",
+      "confidence": "82"
+    },
+    {
+      "name": "boiled carrot slices",
+      "portion_estimate": "50 g",
+      "confidence": "85"
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "savory egg frittata or quiche with spinach topping",
+      "portion_estimate": "110 g",
+      "confidence": "72"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "150 g",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "baked dish",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "chicken breast topped with slaw",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "portion of roasted potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

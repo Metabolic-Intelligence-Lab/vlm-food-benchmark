@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable soup or stew",
+      "portion_estimate": "350",
+      "confidence": "95"
+    },
+    {
+      "name": "Toasted bread or sandwich component",
+      "portion_estimate": "90",
+      "confidence": "85"
+    },
+    {
+      "name": "Cooked leafy greens (e.g., kale or spinach)",
+      "portion_estimate": "90",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of Beans",
+      "portion_estimate": "approx. 200g of beans, unknown sauce/dressing amount",
+      "confidence": 80
+    },
+    {
+      "name": "Chicken Fillet",
+      "portion_estimate": "approx. 150g of cooked chicken",
+      "confidence": 90
+    },
+    {
+      "name": "Vegetables",
+      "portion_estimate": "approx. 100g of vegetables",
+      "confidence": 80
+    }
+  ]
+}

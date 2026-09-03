@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "broccoli and cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "potato wedges with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "grain-based snack bar or breadstick",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

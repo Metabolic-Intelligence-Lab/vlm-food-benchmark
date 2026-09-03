@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "apple pie",
+      "portion_estimate": "uncertain, approx. weight unknown",
+      "confidence": "50"
+    },
+    {
+      "name": "mashed potatoes with gravy",
+      "portion_estimate": "approx. 120g for the serving size of mashed potatoes visible in image",
+      "confidence": "90"
+    },
+    {
+      "name": "roast turkey breast",
+      "portion_estimate": "approx. 65-70g based on typical portion sizes, but exact weight unknown due to angle and visibility issues.",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed cauliflower with butter",
+      "portion_estimate": "approx. 120g for the serving size of mashed cauliflower visible in image",
+      "confidence": "90"
+    },
+    {
+      "name": "apple pie",
+      "portion_estimate": "uncertain, approx. weight unknown",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with clear liquid",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "quesadilla",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "potato wedges",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "salad with arugula and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "light-colored pasta dish with tomato sauce and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "orange and kiwi with cooked peas or lima beans",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

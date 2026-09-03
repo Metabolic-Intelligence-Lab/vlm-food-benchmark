@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green soup with cheese",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "breaded cutlet",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "crispy fried potato",
+      "portion_estimate": "30",
+      "confidence": 70
+    },
+    {
+      "name": "stewed cabbage",
+      "portion_estimate": "50",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Fagioli (bean stew)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Butter",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

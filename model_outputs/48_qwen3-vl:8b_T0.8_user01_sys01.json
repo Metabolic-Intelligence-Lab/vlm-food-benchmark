@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rigatoni pasta",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Whole wheat roll",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Guacamole",
+      "portion_estimate": "50g",
+      "confidence": 95
+    },
+    {
+      "name": "Peanut butter",
+      "portion_estimate": "50g",
+      "confidence": 95
+    }
+  ]
+}

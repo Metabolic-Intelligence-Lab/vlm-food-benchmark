@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with tomato sauce and grated cheese",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "strawberry yogurt (container, Yomo brand)",
+      "portion_estimate": "125",
+      "confidence": 95
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "vegetable patty with zucchini garnish",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "boiled cod with potatoes",
+      "portion_estimate": "90",
+      "confidence": 85
+    }
+  ]
+}

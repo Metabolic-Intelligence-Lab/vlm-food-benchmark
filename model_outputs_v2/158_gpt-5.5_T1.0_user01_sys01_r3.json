@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "sauced small meatballs",
+      "portion_estimate": "180 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "square slice of focaccia or pizza bread",
+      "portion_estimate": "90 grams",
+      "confidence": "65"
+    },
+    {
+      "name": "fusilli pasta with tomato sauce and grated cheese",
+      "portion_estimate": "230 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "plain bread roll in plastic wrapper",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "yellow apple or pear",
+      "portion_estimate": "150 grams",
+      "confidence": "55"
+    },
+    {
+      "name": "packaged pale cheese or snack item",
+      "portion_estimate": "80 grams",
+      "confidence": "45"
+    }
+  ]
+}

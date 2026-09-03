@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread (unspecified type)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta with cheese and spinach on toast",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Egg (fried)",
+      "portion_estimate": "12g",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with cheese",
+      "portion_estimate": "120 grams",
+      "confidence": 95
+    },
+    {
+      "name": "boiled or roasted parsnips or carrots with herbs",
+      "portion_estimate": "150 grams",
+      "confidence": 92
+    },
+    {
+      "name": "small meatball/mushroom and tomato topping (on parsnip side)",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    },
+    {
+      "name": "packaged cream cheese/yogurt (yellow container)",
+      "portion_estimate": "80 grams (container portion)",
+      "confidence": 70
+    },
+    {
+      "name": "celery stalk",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+The image shows a container with a brown liquid that appears to be soup, possibly containing some herbs or spices visible on top. There are two images side by side, one showing the full container and the other showing an empty container.
+
+The left image (full container):
+```json
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "400 grams",
+      "confidence": "80"
+    }
+  ]
+}
+```
+
+The right image (empty container):
+```json
+{
+  "food_items": []
+}
+```

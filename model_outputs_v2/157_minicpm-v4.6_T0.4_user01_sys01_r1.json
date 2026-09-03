@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni pasta with grated cheese",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "lentils",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "breaded potatoes or fish cakes",
+      "portion_estimate": "30g",
+      "confidence": 75
+    },
+    {
+      "name": "mushroom slice",
+      "portion_estimate": "15g",
+      "confidence": 60
+    },
+    {
+      "name": "packaged bread (bun)",
+      "portion_estimate": "40g",
+      "confidence": 80
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "120g",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Boiled egg",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Sauerkraut",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Mashed sweet potato with butter",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Saffron rice",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "red pasta salad",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "salmon",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

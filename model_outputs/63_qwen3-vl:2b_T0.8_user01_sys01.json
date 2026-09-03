@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "name": "Pasta (penne)",
+      "portion_size": 25,
+      "confidence": 80
+    },
+    {
+      "name": "Eggplant (with vegetables)",
+      "portion_size": 20,
+      "confidence": 80
+    },
+    {
+      "name": "Salad",
+      "portion_size": 20,
+      "confidence": 80
+    },
+    {
+      "name": "Bread roll",
+      "portion_size": 50,
+      "confidence": 80
+    },
+    {
+      "name": "Drink (glass bottle)",
+      "portion_size": 100,
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of bowtie pasta (farfalle) with pesto sauce and grated cheese",
+      "portion_estimate": 300,
+      "confidence": 95
+    },
+    {
+      "name": "Piece of breaded cutlet (likely chicken or veal) with melted cheese",
+      "portion_estimate": 180,
+      "confidence": 92
+    },
+    {
+      "name": "Roasted Brussels sprouts",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Whole banana",
+      "portion_estimate": 120,
+      "confidence": 98
+    },
+    {
+      "name": "Packaged bread roll or bun",
+      "portion_estimate": 60,
+      "confidence": 90
+    }
+  ]
+}

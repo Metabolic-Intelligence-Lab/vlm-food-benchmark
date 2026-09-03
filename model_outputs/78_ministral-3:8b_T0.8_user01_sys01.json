@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cubed sweet potato (sweet potato chunks)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "buttered sweet potato patty (or fried sweet potato slice)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "whole roasted sweet potato or sweet potato balls (3 pieces)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "creamy soup (likely a stew or vegetable soup with seasoning and garnished with breadcrumbs)",
+      "portion_estimate": "300g",
+      "confidence": 75
+    },
+    {
+      "name": "yellow sauce (dip, possibly garlic yoghurt or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

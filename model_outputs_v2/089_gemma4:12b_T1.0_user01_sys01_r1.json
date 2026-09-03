@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice",
+      "portion_estimate": "200g",
+      "confidence": "95"
+    },
+    {
+      "name": "cooked chickpeas",
+      "portion_estimate": "130g",
+      "confidence": "95"
+    },
+    {
+      "name": "cooked fish fillet",
+      "portion_estimate": "140g",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80g",
+      "confidence": "95"
+    },
+    {
+      "name": "whole pear",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "canned baked beans",
+      "portion_estimate": "250",
+      "confidence": "90"
+    },
+    {
+      "name": "glazed ham (or roast beef)",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "boiled chickpeas",
+      "portion_estimate": "100",
+      "confidence": "88"
+    },
+    {
+      "name": "grapefruit (orange-colored, likely a ruby red variety)",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "cream-based soup (possibly tomato or chicken noodle)",
+      "portion_estimate": "300",
+      "confidence": "75"
+    },
+    {
+      "name": "sugar packet (granulated sugar)",
+      "portion_estimate": "5",
+      "confidence": "95"
+    },
+    {
+      "name": "water (in a clear cup)",
+      "portion_estimate": "250",
+      "confidence": "80"
+    }
+  ]
+}

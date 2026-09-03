@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "potatoes or mashed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta, possibly macaroni or spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fish, grilled or baked with green beans and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "condiments (mustard or jam)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "roll of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "whole carrots (thinly sliced, ~15 slices)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "carrot and grain/chickpea patty (1 piece)",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with breadcrumbs (bowl)",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "frozen mixed berries (blueberries, in cling wrap)",
+      "portion_estimate": "100",
+      "confidence": 70
+    }
+  ]
+}

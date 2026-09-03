@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Sour soup",
+      "portion_estimate": "250-300 grams (estimated)",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "100 grams, partially eaten",
+      "confidence": "90"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain (scoopable item in plastic cup)",
+      "confidence": "50"
+    },
+    {
+      "name": "Water or clear beverage",
+      "portion_estimate": "473ml, partially consumed from clear glass",
+      "confidence": "80"
+    },
+    {
+      "name": "Green salad with grilled chicken and dark leafy greens (likely seaweed)",
+      "portion_estimate": "uncertain but likely 150-200 grams of green parts plus roughly another 75g for the rest",
+      "confidence": "90"
+    }
+  ]
+}

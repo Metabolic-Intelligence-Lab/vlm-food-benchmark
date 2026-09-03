@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetable fried rice",
+      "portion_estimate": "300 grams (approximate, based on typical portion size)",
+      "confidence": "75"
+    },
+    {
+      "name": "diced potatoes with cheese and possibly peas",
+      "portion_estimate": "250 grams (approximate)",
+      "confidence": "70"
+    },
+    {
+      "name": "packaged individual butter (unsalted or salted)",
+      "portion_estimate": "22 grams (typical package size)",
+      "confidence": "90"
+    },
+    {
+      "name": "flavored yogurt (red packaged cup)",
+      "portion_estimate": "150 grams (typical small cup size)",
+      "confidence": "80"
+    },
+    {
+      "name": "whole boiled egg (plastic wrapped)",
+      "portion_estimate": "55 grams (approximate for one large egg)",
+      "confidence": "85"
+    }
+  ]
+}

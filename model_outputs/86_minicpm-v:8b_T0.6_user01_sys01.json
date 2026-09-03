@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta with yellow sauce and garnish",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "steamed white rice",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "lettuce wrap with cheese and sandwich filling",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "blueberries",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

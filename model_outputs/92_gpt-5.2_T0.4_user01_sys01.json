@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "banana (whole, unpeeled)",
+      "portion_estimate": "120 g",
+      "confidence": "75"
+    },
+    {
+      "name": "vegetable soup (greens/leafy vegetables, possibly with potatoes) topped with grated cheese",
+      "portion_estimate": "420 g",
+      "confidence": "65"
+    },
+    {
+      "name": "grated cheese topping (likely parmesan) on soup",
+      "portion_estimate": "10 g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll (white roll)",
+      "portion_estimate": "60 g",
+      "confidence": "75"
+    },
+    {
+      "name": "pan-fried diced potatoes (seasoned)",
+      "portion_estimate": "170 g",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded croquettes/balls (2 pieces)",
+      "portion_estimate": "90 g",
+      "confidence": "70"
+    },
+    {
+      "name": "red cabbage (cooked/shredded)",
+      "portion_estimate": "50 g",
+      "confidence": "65"
+    }
+  ]
+}

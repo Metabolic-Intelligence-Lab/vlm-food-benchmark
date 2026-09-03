@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato-based meat sauce",
+      "portion_estimate": "260 g",
+      "confidence": "72"
+    },
+    {
+      "name": "bread roll (plain bun, packaged)",
+      "portion_estimate": "65 g",
+      "confidence": "78"
+    },
+    {
+      "name": "red cabbage salad with cucumber slice (light dressing)",
+      "portion_estimate": "90 g",
+      "confidence": "74"
+    },
+    {
+      "name": "meatball or stuffed meat patty in brown gravy (in bowl)",
+      "portion_estimate": "130 g",
+      "confidence": "55"
+    },
+    {
+      "name": "breaded spinach/vegetable patties (2 pieces)",
+      "portion_estimate": "100 g",
+      "confidence": "60"
+    }
+  ]
+}

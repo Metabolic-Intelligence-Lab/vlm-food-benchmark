@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked broccoli and potatoes",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll (bun)",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "approximately 300 grams",
+      "confidence": 70
+    }
+  ]
+}

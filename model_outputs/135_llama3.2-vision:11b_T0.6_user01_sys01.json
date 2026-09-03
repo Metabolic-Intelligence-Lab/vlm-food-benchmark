@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Meat (chicken or beef)",
+      "portion_estimate": "200-300g",
+      "confidence": "80"
+    },
+    {
+      "name": "Potatoes or other root vegetables",
+      "portion_estimate": "100-200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread or pastry",
+      "portion_estimate": "50-100g",
+      "confidence": "60"
+    }
+  ]
+}

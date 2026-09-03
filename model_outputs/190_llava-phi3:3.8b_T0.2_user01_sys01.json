@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Biscuit",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "300g",
+      "confidence": "75"
+    }
+  ]
+}

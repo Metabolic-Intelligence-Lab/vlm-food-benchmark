@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "shredded cheese",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "ground beef or meat",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "rice or shredded white pasta",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    }
+  ]
+}

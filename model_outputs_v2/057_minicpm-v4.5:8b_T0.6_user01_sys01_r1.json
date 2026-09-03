@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "egg omelette with mushroom",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": 95
+    },
+    {
+      "name": "bun (possibly a sandwich or bread roll)",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    }
+  ]
+}

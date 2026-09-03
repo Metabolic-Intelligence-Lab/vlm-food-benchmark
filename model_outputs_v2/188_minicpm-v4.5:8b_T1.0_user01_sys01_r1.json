@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup (chicken noodle or similar broth-based soup with vegetables)",
+      "portion_estimate": "300-400 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "sandwich (likely a wrap or flatbread with visible grain/seed crust)",
+      "portion_estimate": "150-200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked leafy greens (likely spinach or similar)",
+      "portion_estimate": "100-150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt (small cup with red lid, likely plain or berry-flavored)",
+      "portion_estimate": "100-150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "water (small clear bottle, likely water or clear beverage)",
+      "portion_estimate": "100-200 grams",
+      "confidence": "70"
+    }
+  ]
+}

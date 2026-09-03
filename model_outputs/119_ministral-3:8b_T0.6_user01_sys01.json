@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "savory potato croquettes (approx. 6-8 pieces)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "white bread roll (single)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "butter or margarine packet (visible, but not consumed)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "lentil or split pea soup",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "condiment packet (e.g., salt or seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "condensed tomato or tomato-based sauce (small container)",
+      "portion_estimate": "uncertain (likely ~100-120 grams if fully consumed)",
+      "confidence": 70
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "uncertain (likely ~250 ml)",
+      "confidence": 30
+    }
+  ]
+}

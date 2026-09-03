@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "meat",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "0",
+      "confidence": "80"
+    }
+  ]
+}

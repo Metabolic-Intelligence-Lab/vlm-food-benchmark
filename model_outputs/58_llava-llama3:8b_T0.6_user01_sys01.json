@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "yellow macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange baby carrots with white mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "burger with red apple",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

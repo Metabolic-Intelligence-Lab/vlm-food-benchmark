@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Indian meal",
+      "portion_estimate": "200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Rice with vegetables",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Vegetable curry",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    }
+  ]
+}

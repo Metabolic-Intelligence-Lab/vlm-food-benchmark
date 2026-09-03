@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup with grated cheese",
+      "portion_estimate": 300,
+      "confidence": 90
+    },
+    {
+      "name": "container of cheese slices (likely cottage cheese or similar)",
+      "portion_estimate": 100,
+      "confidence": 75
+    },
+    {
+      "name": "toasted sandwich (bread with hole pattern, likely filled with cheese or meat)",
+      "portion_estimate": 70,
+      "confidence": 85
+    },
+    {
+      "name": "single-piece whole-grain or light bread roll",
+      "portion_estimate": 40,
+      "confidence": 80
+    },
+    {
+      "name": "water from transparent glass",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "diet soda (if the transparent plastic can was can soda)",
+      "portion_estimate": 120,
+      "confidence": 70
+    }
+  ]
+}

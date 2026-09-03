@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Gnocchi with Tomato Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Lentils",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt with Berries",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

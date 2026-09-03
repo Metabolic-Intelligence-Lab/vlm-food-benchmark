@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green split peas",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "mixed salad (lettuce, carrots, red onion, possibly other greens)",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "120 grams (cooked)",
+      "confidence": 90
+    },
+    {
+      "name": "orange slice (likely a halved orange)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "cucumber slice",
+      "portion_estimate": "30 grams",
+      "confidence": 75
+    }
+  ]
+}

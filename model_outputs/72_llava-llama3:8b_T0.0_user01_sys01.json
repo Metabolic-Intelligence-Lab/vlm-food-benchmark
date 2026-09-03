@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "baby carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "brown rice",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "dark-colored sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "ketchup",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

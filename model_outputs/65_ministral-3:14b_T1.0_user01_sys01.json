@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Yogurt, likely plain with vanilla flavor (YOGO brand)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Green leafy salad with herbs (e.g., parsley, cilantro) and possibly thinly sliced cucumbers or radishes",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "Baguette or sandwich roll (whole grain or light bread)",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "Poached egg",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "Cubes of fried or baked potato (e.g., potato hash)",
+      "portion_estimate": "100",
+      "confidence": 88
+    },
+    {
+      "name": "Unknown dipping sauce (yellow color, possibly egg yolk-based or mustard)",
+      "portion_estimate": "20",
+      "confidence": 75
+    },
+    {
+      "name": "Drink in glass (appears to be water)",
+      "portion_estimate": "250",
+      "confidence": 90
+    }
+  ]
+}

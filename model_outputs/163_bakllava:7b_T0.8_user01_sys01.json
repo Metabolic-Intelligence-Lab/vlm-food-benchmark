@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "curry",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "beans",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sauce packet",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

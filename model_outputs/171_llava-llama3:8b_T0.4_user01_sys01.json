@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spinach leaves",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "light green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "cake",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "chips",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

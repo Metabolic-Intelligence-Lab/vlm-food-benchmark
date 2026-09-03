@@ -1,0 +1,30 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain, estimate at most ~150g for a typical serving size of green beans",
+      "confidence": "60"
+    },
+    {
+      "name": "rice with cheese",
+      "portion_estimate": "approx. 200-300g",
+      "confidence": "70"
+    },
+    {
+      "name": "apple slices",
+      "portion_estimate": "uncertain, estimate at most ~150g for a typical serving size of apple slices",
+      "confidence": "60"
+    }
+  ],
+  "non_food_items": [
+    {
+      "name": "baked bun in plastic wrap",
+      "confidence": "90"
+    },
+    {
+      "name": "pineapple chunks on plate",
+      "portion_estimate": "uncertain, estimate at most ~150g for a typical serving size of pineapple chunks",
+      "confidence": "60"
+    }
+  ]
+}

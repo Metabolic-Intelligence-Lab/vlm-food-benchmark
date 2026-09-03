@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Potatoes",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Stewed beans",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried chicken (possibly breaded)",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green vegetables in sauce",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded and fried item (possibly meat)",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    }
+  ]
+}

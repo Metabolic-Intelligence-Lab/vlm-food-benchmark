@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (with marinara/cream sauce)",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "carrots, diced",
+      "portion_estimate": 50,
+      "confidence": 90
+    },
+    {
+      "name": "cauliflower, chopped",
+      "portion_estimate": 40,
+      "confidence": 85
+    },
+    {
+      "name": "ground meat (beef/lamb/sausage), cooked",
+      "portion_estimate": 60,
+      "confidence": 70
+    },
+    {
+      "name": "green beans, trimmed and chopped",
+      "portion_estimate": 30,
+      "confidence": 75
+    }
+  ]
+}

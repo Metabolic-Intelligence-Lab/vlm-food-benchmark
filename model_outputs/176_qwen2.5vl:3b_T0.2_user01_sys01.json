@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Lentil Soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Tomato with Mayonnaise",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Macaroni and Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with Olives",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

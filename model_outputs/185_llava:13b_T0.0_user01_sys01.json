@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti or pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "breaded and fried chicken pieces",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "potatoes (mashed or roasted)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "meat-based curry or stew (with vegetables)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

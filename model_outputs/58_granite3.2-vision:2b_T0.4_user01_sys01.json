@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sausage and roasted vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sausage",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roasted vegetables (carrots, potatoes, mushrooms)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "rice and beans",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "soup with meat and vegetables",
+      "portion_estimate": "300g",
+      "confidence": "50"
+    },
+    {
+      "name": "chicken",
+      "portion_estimate": "120g",
+      "confidence": "40"
+    }
+  ]
+}

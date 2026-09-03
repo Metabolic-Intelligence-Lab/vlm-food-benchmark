@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cartonized almond milk (200 mL)",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "plain chocolate or coffee brioche bun (packaged)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "chocolate layered bread roll (packaged)",
+      "portion_estimate": "70-90 (estimated from typical single unit)",
+      "confidence": 80
+    }
+  ]
+}

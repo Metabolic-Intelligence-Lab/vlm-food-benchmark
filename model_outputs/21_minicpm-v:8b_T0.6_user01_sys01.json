@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fish with crusty topping",
+      "portion_estimate": "uncertain, approx 100g",
+      "confidence": "65"
+    },
+    {
+      "name": "Steamed greens (Brussels sprouts)",
+      "portion_estimate": "uncertain, approx 80g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried quail eggs with green leafy herbs",
+      "portion_estimate": "uncertain, approx 50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Quinoa salad (with chickpeas and carrot)",
+      "portion_estimate": "uncertain, approx 120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Dark plums",
+      "portion_estimate": "uncertain, approx 50-60g",
+      "confidence": "70"
+    }
+  ]
+}

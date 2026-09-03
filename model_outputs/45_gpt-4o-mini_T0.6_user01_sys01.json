@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta dish with vegetables",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "corn",
+      "portion_estimate": "20",
+      "confidence": "70"
+    },
+    {
+      "name": "diced tomatoes",
+      "portion_estimate": "15",
+      "confidence": "70"
+    },
+    {
+      "name": "carrot salad",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    }
+  ]
+}

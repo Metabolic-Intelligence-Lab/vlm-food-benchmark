@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "creamy soup",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "saltine crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "breaded meat",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "tartar sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "creamy sauce or spread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

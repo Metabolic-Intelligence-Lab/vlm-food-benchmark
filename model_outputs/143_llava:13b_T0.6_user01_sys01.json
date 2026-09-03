@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "yogurt with fruit (strawberry or blueberry)",
+      "portion_estimate": "60-80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "sour cream or similar dairy product",
+      "portion_estimate": "50-70 grams",
+      "confidence": 70
+    },
+    {
+      "name": "cooked greens (spinach or similar leafy green)",
+      "portion_estimate": "60-80 grams",
+      "confidence": 75
+    },
+    {
+      "name": "bread rolls or buns",
+      "portion_estimate": "30-50 grams",
+      "confidence": 60
+    },
+    {
+      "name": "omelette or scrambled eggs",
+      "portion_estimate": "80-120 grams",
+      "confidence": 65
+    },
+    {
+      "name": "hash browns or similar fried potato dish (possibly gnocchi or noodles covered in cheese)",
+      "portion_estimate": "70-90 grams",
+      "confidence": 60
+    }
+  ]
+}

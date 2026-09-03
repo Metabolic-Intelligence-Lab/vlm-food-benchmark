@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Chickpea-based pasta (or similar legume-based dish)",
+      "portion_estimate": "200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Diced tomatoes",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "portion_estimate": "75 grams",
+      "confidence": 90
+    }
+  ]
+}

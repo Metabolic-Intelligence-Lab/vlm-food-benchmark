@@ -1,0 +1,39 @@
+The image contains the following visible food items:
+
+- **Mashed potatoes**: A standard serving size on a plate is approximately 150 grams. Confidence in identification is high due to the common presentation of mashed potatoes as a side dish.  
+- **Spinach**: A typical serving of leafy greens is about 100 grams. The dark green, leafy appearance confirms it is spinach.  
+- **Meatball**: Two meatballs are visible, each estimated at 40 grams, totaling 80 grams. The shape and texture are consistent with meatballs.  
+- **Yogurt**: A small container of yogurt is visible, with a typical serving size of 120 grams. The label on the container confirms it is yogurt.  
+- **Bread roll**: A single wrapped bread roll is present, with a standard serving size of 25 grams.  
+
+No beverages or utensils (e.g., the empty glass) are counted as food items. All portions are approximate based on typical serving sizes and visual observation. Confidence levels reflect the reliability of identification and portion estimation.
+
+\boxed{
+[
+  {
+    "name": "mashed potatoes",
+    "portion": 150,
+    "confidence": 80
+  },
+  {
+    "name": "spinach",
+    "portion": 100,
+    "confidence": 70
+  },
+  {
+    "name": "meatball",
+    "portion": 80,
+    "confidence": 75
+  },
+  {
+    "name": "yogurt",
+    "portion": 120,
+    "confidence": 85
+  },
+  {
+    "name": "bread roll",
+    "portion": 25,
+    "confidence": 70
+  }
+]
+}

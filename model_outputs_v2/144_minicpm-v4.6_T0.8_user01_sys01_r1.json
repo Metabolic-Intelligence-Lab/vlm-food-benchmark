@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with cheese",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "baked beans with potato dish",
+      "portion_estimate": "120 g",
+      "confidence": 85
+    },
+    {
+      "name": "sliced bread",
+      "portion_estimate": "30 g",
+      "confidence": 80
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "100 g",
+      "confidence": 75
+    },
+    {
+      "name": "clearKit packet (likely a beverage or snack)",
+      "portion_estimate": "10 g",
+      "confidence": 70
+    }
+  ]
+}

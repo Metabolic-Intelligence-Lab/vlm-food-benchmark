@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "meatballs with sauce and cheese on top",
+      "portion_estimate": "150g",
+      "confidence": "75"
+    },
+    {
+      "name": "white rice with red sauce",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    }
+  ]
+}

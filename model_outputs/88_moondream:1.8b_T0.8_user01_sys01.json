@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta and vegetables (peas or beans)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sushi (two pieces, cut in half)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

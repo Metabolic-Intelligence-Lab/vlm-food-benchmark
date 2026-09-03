@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup (likely vegetable or minestrone) in bowl",
+      "portion_estimate": "500 grams (estimated by standard bowl size)",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll or garlic bread (packaged in plastic)",
+      "portion_estimate": "100 grams (single roll, estimated by standard serving size)",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes or potato croquettes (with mixed vegetables)",
+      "portion_estimate": "300 grams (mixed dish on plate, estimated)",
+      "confidence": 75
+    },
+    {
+      "name": "butter in tub (Kroger or similar brand)",
+      "portion_estimate": "113 grams (standard 1/2 cup tub, partially visible)",
+      "confidence": 90
+    }
+  ]
+}

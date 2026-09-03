@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Saut\u00e9ed mushrooms with garlic",
+      "portion_estimate": "uncertain, approx 100g",
+      "confidence": "50"
+    },
+    {
+      "name": "Boiled quail eggs",
+      "portion_estimate": "approx 40-60g per egg depending on size",
+      "confidence": "80"
+    },
+    {
+      "name": "White wine",
+      "portion_estimate": "uncertain, approx 150ml (small glass)",
+      "confidence": "60"
+    },
+    {
+      "name": "Green olives with herbs and spices",
+      "portion_estimate": "approx 2-3 tbsp per olive based on visible size",
+      "confidence": "70"
+    }
+  ]
+}

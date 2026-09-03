@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "baked potato (whole, medium)",
+      "portion_estimate": "150-180 grams",
+      "confidence": 85
+    },
+    {
+      "name": "white rice (cooked, small bowl)",
+      "portion_estimate": "100-120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "chicken breast (skinless, grilled)",
+      "portion_estimate": "120-150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mushrooms (saut\u00e9ed, small portion)",
+      "portion_estimate": "50-70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "butter or margarine (packaged, small tub)",
+      "portion_estimate": "uncertain (likely 25-50 grams)",
+      "confidence": 55
+    },
+    {
+      "name": "garlic cloves (whole, visible in packaging)",
+      "portion_estimate": "uncertain (likely 10-15 grams total)",
+      "confidence": 50
+    }
+  ]
+}

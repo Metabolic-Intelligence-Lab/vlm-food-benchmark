@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cereal with breadcrumbs",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "Broth",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200",
+      "confidence": 80
+    }
+  ]
+}

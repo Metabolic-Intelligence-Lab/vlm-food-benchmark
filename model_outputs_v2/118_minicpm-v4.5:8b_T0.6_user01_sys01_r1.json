@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "200-250 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "diced potatoes with seasoning",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "small patty (likely chicken or vegetable) with tomato sauce and cheese",
+      "portion_estimate": "100-120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Yomo Tofuservice yogurt (assumed)",
+      "portion_estimate": "100 grams",
+      "confidence": "75"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans and red peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fish with black sesame seeds",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "white bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "orange crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

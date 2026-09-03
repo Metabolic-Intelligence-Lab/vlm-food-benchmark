@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Boiled egg",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Cucumber salad with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mashed potato",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread slice",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Orange fruit",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

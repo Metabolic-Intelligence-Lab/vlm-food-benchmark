@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "plums",
+      "portion_estimate": "approximately 100g",
+      "confidence": 80
+    },
+    {
+      "name": "packet of cheese or butter",
+      "portion_estimate": "approximately 20g",
+      "confidence": 70
+    },
+    {
+      "name": "brussel sprouts",
+      "portion_estimate": "approximately 50g",
+      "confidence": 80
+    },
+    {
+      "name": "breaded fish fillet",
+      "portion_estimate": "approximately 150g",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed spinach",
+      "portion_estimate": "approximately 50g",
+      "confidence": 70
+    }
+  ]
+}

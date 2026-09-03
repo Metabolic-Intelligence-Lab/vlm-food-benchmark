@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "80 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "vegetable pizza slice",
+      "portion_estimate": "120 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "mandarins",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    }
+  ]
+}

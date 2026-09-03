@@ -1,0 +1,32 @@
+The image shows a dish that appears to be a type of omelette or frittata, possibly containing cheese and vegetables. It's placed in a clear container with a lid.
+
+The left side of the image displays the same dish, but it looks like there is an additional layer of cheese on top, which might suggest that it has been baked or broiled for a longer period, resulting in a crispier texture. The right side shows the same dish without this extra layer of cheese.
+
+Below the images are two separate JSON outputs:
+
+Left JSON:
+```json
+{
+  "food_items": [
+    {
+      "name": "Cheese and vegetable omelette",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    }
+  ]
+}
+```
+Right JSON:
+```json
+{
+  "food_items": [
+    {
+      "name": "Cheese and vegetable omelette",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    }
+  ]
+}
+```
+
+The JSON outputs are identical, indicating that the dish is the same in both images. The portion estimate and confidence level for each food item are also consistent across the two images.

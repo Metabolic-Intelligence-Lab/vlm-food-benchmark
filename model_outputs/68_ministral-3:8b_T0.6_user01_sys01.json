@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with meatballs (or ground meat)",
+      "portion_estimate": "uncertain (visual estimation suggests ~200-250g cooked pasta + ~100-150g meat)",
+      "confidence": 65
+    },
+    {
+      "name": "diced tomatoes",
+      "portion_estimate": "uncertain (~50-80g)",
+      "confidence": 70
+    },
+    {
+      "name": "diced carrots",
+      "portion_estimate": "uncertain (~30-50g)",
+      "confidence": 65
+    },
+    {
+      "name": "diced onions",
+      "portion_estimate": "uncertain (~20-40g)",
+      "confidence": 65
+    },
+    {
+      "name": "diced cheese (e.g., mozzarella or cheddar)",
+      "portion_estimate": "uncertain (~30-50g)",
+      "confidence": 70
+    }
+  ]
+}

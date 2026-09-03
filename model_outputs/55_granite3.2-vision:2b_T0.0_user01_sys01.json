@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "steamed vegetables (carrots, potatoes, leafy greens)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "protein source (chicken, fish, or other meat)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

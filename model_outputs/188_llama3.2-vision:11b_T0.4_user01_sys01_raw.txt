@@ -1,0 +1,30 @@
+To identify the food items in the image, we can follow these steps:
+
+1. **Identify the food items**: The image shows a bowl of soup, a plate with a slice of bread and some green vegetables, and a yogurt cup.
+
+2. **Estimate portion sizes**: 
+   - The soup bowl appears to be about 1/2 to 3/4 full, which is approximately 200-300 grams.
+   - The slice of bread is about 1/4 to 1/3 of a standard slice, which is approximately 25-50 grams.
+   - The green vegetables on the plate are difficult to estimate, but they appear to be about 1/4 to 1/2 cup, which is approximately 50-100 grams.
+
+3. **Combine the information**: Based on the above estimates, the total food intake for this meal is approximately 275-450 grams.
+
+4. **Return the result**: The final answer is:
+
+{ "food_items": [
+  {
+    "name": "soup",
+    "portion_estimate": "200-300g",
+    "confidence": "80"
+  },
+  {
+    "name": "bread",
+    "portion_estimate": "25-50g",
+    "confidence": "70"
+  },
+  {
+    "name": "green vegetables",
+    "portion_estimate": "50-100g",
+    "confidence": "60"
+  }
+] }

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "carrot and cabbage salad",
+      "portion_estimate": "120",
+      "confidence": "90"
+    },
+    {
+      "name": "potato and fruit mixture (likely including apple, pineapple chunks, and possibly sweet potato)",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "sweet roll or muffin (small baked pastry with a crumb topping)",
+      "portion_estimate": "70",
+      "confidence": "90"
+    },
+    {
+      "name": "sugar or sugar alternative (in shaker)",
+      "portion_estimate": "20",
+      "confidence": "80"
+    },
+    {
+      "name": "apple juice or nectar in small sealed pouch",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "jam or jelly in small container",
+      "portion_estimate": "30",
+      "confidence": "85"
+    }
+  ]
+}

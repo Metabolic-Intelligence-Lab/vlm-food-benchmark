@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetable salad (carrots, possibly cabbage or broccoli rabe)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "meatball (likely beef or pork)",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "diced potatoes (roasted)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "packaged orange-colored fruit (likely mandarin orange or similar)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "red grape or cherry tomato",
+      "portion_estimate": "30g",
+      "confidence": 70
+    },
+    {
+      "name": "shredded cheese (on meatball)",
+      "portion_estimate": "10g",
+      "confidence": 70
+    },
+    {
+      "name": "salt (in shaker)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

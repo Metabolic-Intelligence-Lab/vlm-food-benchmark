@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "200g",
+      "confidence": 100
+    },
+    {
+      "name": "vegetable side",
+      "portion_estimate": "150g",
+      "confidence": 100
+    },
+    {
+      "name": "pastry",
+      "portion_estimate": "50g",
+      "confidence": 100
+    }
+  ]
+}

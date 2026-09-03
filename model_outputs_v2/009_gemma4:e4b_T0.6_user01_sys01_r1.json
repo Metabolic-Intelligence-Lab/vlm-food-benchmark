@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried protein pieces (e.g., fish or chicken fritters)",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "Breaded cutlet or croquette",
+      "portion_estimate": "110g",
+      "confidence": "80"
+    },
+    {
+      "name": "Diced yellow and green vegetable/potato cubes",
+      "portion_estimate": "180g",
+      "confidence": "75"
+    },
+    {
+      "name": "Water or clear beverage",
+      "portion_estimate": "350g",
+      "confidence": "95"
+    },
+    {
+      "name": "Red condiment packet (e.g., sauce or ketchup)",
+      "portion_estimate": "30g",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese with parmesan",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "lasagna or baked pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "omelette with carrots, peas, and beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

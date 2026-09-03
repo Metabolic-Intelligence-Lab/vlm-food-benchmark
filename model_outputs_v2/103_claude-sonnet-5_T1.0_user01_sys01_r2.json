@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sliced cured ham/prosciutto with shredded vegetable garnish",
+      "portion_estimate": "80",
+      "confidence": "55"
+    },
+    {
+      "name": "cooked broccoli florets",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "vegetable and legume soup with grated parmesan cheese",
+      "portion_estimate": "300",
+      "confidence": "75"
+    },
+    {
+      "name": "strawberry yogurt (Sprindaly brand, single-serve cup)",
+      "portion_estimate": "125",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "70"
+    }
+  ]
+}

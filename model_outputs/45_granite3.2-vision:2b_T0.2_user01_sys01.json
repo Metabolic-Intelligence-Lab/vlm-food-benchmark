@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "breaded and fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "side salad with green beans and corn kernels",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "small portion, meat or seafood with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

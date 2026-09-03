@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Oatmeal with berries and leaves",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Macaroni with peppers and mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Grape",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    }
+  ]
+}

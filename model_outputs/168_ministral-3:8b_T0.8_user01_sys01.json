@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (macaroni/cuspidine)",
+      "portion_estimate": "200 grams (uncertain)",
+      "confidence": 75
+    },
+    {
+      "name": "diced carrots",
+      "portion_estimate": "100 grams (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "50 grams (uncertain)",
+      "confidence": 65
+    },
+    {
+      "name": "diced cabbage or broccoli florets (green portion)",
+      "portion_estimate": "30 grams (uncertain)",
+      "confidence": 60
+    },
+    {
+      "name": "mixed chopped vegetables (unknown type, beige/yellow)",
+      "portion_estimate": "40 grams (uncertain)",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "sauteed spinach or kale",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "boiled cauliflower with butter",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    }
+  ]
+}

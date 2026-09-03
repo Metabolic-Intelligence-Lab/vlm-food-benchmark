@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with leafy greens and white powder",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Bread bun",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

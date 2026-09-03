@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "brown broth-based soup",
+      "portion_estimate": 280,
+      "confidence": 95
+    },
+    {
+      "name": "pan-fried patty or meatloaf with red sauce",
+      "portion_estimate": 130,
+      "confidence": 90
+    },
+    {
+      "name": "cooked leafy greens (e.g., kale)",
+      "portion_estimate": 85,
+      "confidence": 85
+    },
+    {
+      "name": "Dutch-style cheese sticks",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Orch BIO GRA crackers",
+      "portion_estimate": 25,
+      "confidence": 90
+    },
+    {
+      "name": "Tomo brand cream cheese spread",
+      "portion_estimate": 45,
+      "confidence": 88
+    }
+  ]
+}

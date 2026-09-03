@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "hearty soup with vegetables",
+      "portion_estimate": "300 g",
+      "confidence": 95
+    },
+    {
+      "name": "grilled sandwich or pastry",
+      "portion_estimate": "200 g",
+      "confidence": 90
+    },
+    {
+      "name": "leafy green vegetable (kale or spinach)",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "dairy product (e.g., yogurt cup)",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "beverage (water or drink)",
+      "portion_estimate": "200 g",
+      "confidence": 70
+    }
+  ]
+}

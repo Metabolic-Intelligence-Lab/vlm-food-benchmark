@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "breaded and fried fish fillet (e.g., coleslaw-topped fish or similar)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "shredded carrot salad (with possible green leafy vegetables)",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "poached egg with corn kernels and diced tomato on green beans",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "plastic container of condiment (likely ketchup or similar sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "plastic-wrapped bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "plastic-wrapped green packet (likely butter or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

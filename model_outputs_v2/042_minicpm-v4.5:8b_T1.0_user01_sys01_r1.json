@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "250 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted brussels sprouts",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "purple cabbage",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "yellow corn cakes",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    }
+  ]
+}

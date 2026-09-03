@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta salad with fusilli noodles, tomato, and possibly mushrooms",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "Potatoes, cubed and roasted/fried",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "Rolled egg omelet or frittata with tomato",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Bread, partially visible in packaging",
+      "portion_estimate": "80",
+      "confidence": 70
+    },
+    {
+      "name": "Yoplait fruit yogurt cup",
+      "portion_estimate": "135",
+      "confidence": 95
+    }
+  ]
+}

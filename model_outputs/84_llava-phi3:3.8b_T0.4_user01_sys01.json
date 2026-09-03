@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Baked beans on toast",
+      "portion_estimate": "200g",
+      "confidence": "95"
+    },
+    {
+      "name": "Broccoli and carrot salad",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll with jam",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    }
+  ]
+}

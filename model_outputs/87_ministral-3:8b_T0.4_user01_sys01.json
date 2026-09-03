@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat or semolina pasta (uncooked)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "green beans with breadcrumbs (cooked)",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "breaded cutlet or meatball (likely chicken or veal)",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "packaged butter or margarine (portion visible)",
+      "portion_estimate": "uncertain (likely ~20 grams)",
+      "confidence": 60
+    },
+    {
+      "name": "packaged cheese (portion visible)",
+      "portion_estimate": "uncertain (likely ~30 grams)",
+      "confidence": 60
+    },
+    {
+      "name": "whole peeled plum or small apple",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    }
+  ]
+}

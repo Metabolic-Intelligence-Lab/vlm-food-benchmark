@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "meat pie",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed greens (possibly kale or spinach)",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "Yomo yogurt drink",
+      "portion_estimate": "125",
+      "confidence": "95"
+    }
+  ]
+}

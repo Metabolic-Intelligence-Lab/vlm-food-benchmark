@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "piece of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bowl of soup",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "plate with meat and vegetables",
+      "portion_estimate": "250 grams",
+      "confidence": 70
+    },
+    {
+      "name": "two plums",
+      "portion_estimate": "100 grams",
+      "confidence": 60
+    }
+  ]
+}

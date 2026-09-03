@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta with cheese and herbs",
+      "portion_estimate": "200-300g",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed vegetables including peas, carrots, broccoli, spinach omelette",
+      "portion_estimate": "uncertain weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "plums (purple fruits)",
+      "portion_estimate": "uncertain weight in grams",
+      "confidence": "60"
+    }
+  ]
+}

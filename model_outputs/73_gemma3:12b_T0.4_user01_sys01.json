@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt with fruit",
+      "portion_estimate": "125",
+      "confidence": "100"
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "mashed potatoes with gravy",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "90"
+    }
+  ]
+}

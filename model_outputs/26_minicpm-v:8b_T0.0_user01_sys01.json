@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fried chicken nuggets",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Roasted potatoes with spices",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Green leafy vegetables (possibly kale)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Whole grain bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

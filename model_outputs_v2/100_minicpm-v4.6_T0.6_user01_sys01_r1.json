@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (bun)",
+      "portion_estimate": "120 grams",
+      "confidence": 95
+    },
+    {
+      "name": "pasta dish with sauce",
+      "portion_estimate": "350 grams",
+      "confidence": 98
+    },
+    {
+      "name": "chopped vegetables (e.g., cucumbers)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "crackers",
+      "portion_estimate": "10 grams",
+      "confidence": 85
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "meat",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    }
+  ]
+}

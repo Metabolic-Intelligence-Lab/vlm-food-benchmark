@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meat dish",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "oranges",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

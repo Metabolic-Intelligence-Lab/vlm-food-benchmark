@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Rigatoni pasta with tomato sauce and parmesan",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60 g",
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "120 g",
+      "confidence": 95
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "120 g",
+      "confidence": 95
+    },
+    {
+      "name": "Spinach and cheese dish",
+      "portion_estimate": "60 g",
+      "confidence": 95
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200 g",
+      "confidence": 95
+    },
+    {
+      "name": "Cabbage",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    }
+  ]
+}

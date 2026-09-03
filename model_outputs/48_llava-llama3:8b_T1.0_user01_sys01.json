@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "pasta in tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "bacon",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sausage",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "hash browns",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange juice",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

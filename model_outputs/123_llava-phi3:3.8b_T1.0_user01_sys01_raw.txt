@@ -1,0 +1,39 @@
+{
+"meal":[
+{
+"type":"appetizer",
+"dish":"pasta salad",
+"quantity":250,
+"color":"yellow",
+"shape":"round",
+"material":"flour"
+},
+{
+"type":"main course",
+"dish":"french toast",
+"quantity":340,
+"color":"yellow",
+"shape":"rectangle",
+"material":"bread"
+},
+{
+"type":"side dish",
+"dish":"gold potatoes",
+"quantity":365,
+"color":"white",
+"shape":"round",
+"material":"potato"
+},
+{
+"type":"beverage",
+"container":[
+{
+"type":"glass",
+"quantity":140,
+"clear":true,
+"water_level":50
+}
+],
+"drink":"water"
+}
+]

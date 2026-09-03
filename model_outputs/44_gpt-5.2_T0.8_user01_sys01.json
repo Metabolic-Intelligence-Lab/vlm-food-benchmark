@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "plain yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "72"
+    },
+    {
+      "name": "drinking water (in plastic cup)",
+      "portion_estimate": "250 g",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll (white bun)",
+      "portion_estimate": "70 g",
+      "confidence": "70"
+    },
+    {
+      "name": "tomato slices topped with soft cheese and anchovy (2 pieces)",
+      "portion_estimate": "170 g",
+      "confidence": "62"
+    },
+    {
+      "name": "mixed salad leaves (lettuce/radicchio)",
+      "portion_estimate": "25 g",
+      "confidence": "60"
+    },
+    {
+      "name": "fried diced potatoes (home fries)",
+      "portion_estimate": "180 g",
+      "confidence": "68"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken pieces (with skin)",
+      "portion_estimate": "200 grams (approximate)",
+      "confidence": 70
+    },
+    {
+      "name": "creamy tomato-based soup (with grated cheese on top)",
+      "portion_estimate": "350 grams",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll (whole wheat, wrapped)",
+      "portion_estimate": "80 grams",
+      "confidence": 75
+    },
+    {
+      "name": "lemon wedges (2 pieces)",
+      "portion_estimate": "20 grams",
+      "confidence": 85
+    },
+    {
+      "name": "fried breaded cutlet/chicken-like item (small portion, possibly fish)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "condiment packet (likely soy sauce or similar)",
+      "portion_estimate": "uncertain (no visible quantity to estimate)",
+      "confidence": 30
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "chicken breast with pesto",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "steamed cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "macaroni salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "lemon",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Ensure Plus protein shake",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sliced carrots (raw)",
+      "portion_estimate": "130 g",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked chicken pieces in sauce (stewed/roasted)",
+      "portion_estimate": "170 g",
+      "confidence": "75"
+    },
+    {
+      "name": "Brussels sprouts (cooked)",
+      "portion_estimate": "160 g",
+      "confidence": "80"
+    },
+    {
+      "name": "green apple (whole)",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "220 g",
+      "confidence": "90"
+    }
+  ]
+}

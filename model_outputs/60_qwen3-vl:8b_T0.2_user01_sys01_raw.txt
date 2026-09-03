@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded chicken",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "diced potatoes" is not correct. Let's recheck:
+
+Wait, the bottom plate has diced potatoes, so "diced potatoes" is correct.
+
+Yoplait Oatmeal yogurt: the label is visible, so name is specific.
+
+Water: correct.
+
+Now, confirm portion estimates:
+
+- Penne pasta: a typical serving is around 150-200g, so 150 is reasonable.
+
+- Breaded chicken: two pieces, each about 50g, so 100g.
+
+- Diced potatoes: a serving size is often 150g.
+
+- Yogurt: standard serving is 100-150g, so 100g.
+
+- Water: a standard glass is about 200ml, so 200g (since water density is 1g/ml).
+
+All estimates are reasonable.
+
+Confidence: all items are clearly visible, so confidence is 80.
+
+Thus, the JSON is correct.
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with meat (bolognese-style) tomato sauce and grated cheese",
+      "portion_estimate": "300 g",
+      "confidence": "78"
+    },
+    {
+      "name": "breaded cutlet (likely pork or chicken)",
+      "portion_estimate": "150 g",
+      "confidence": "65"
+    },
+    {
+      "name": "potato wedges",
+      "portion_estimate": "180 g",
+      "confidence": "74"
+    },
+    {
+      "name": "slice of bread (white/gray loaf), packaged",
+      "portion_estimate": "35 g",
+      "confidence": "80"
+    },
+    {
+      "name": "strawberry jam (single-serve cup)",
+      "portion_estimate": "20 g",
+      "confidence": "85"
+    }
+  ]
+}

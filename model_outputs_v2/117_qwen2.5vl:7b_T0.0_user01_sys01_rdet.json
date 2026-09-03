@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup with green vegetables and cheese",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "cottage cheese",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "meat with sauce",
+      "portion_estimate": "100",
+      "confidence": "60"
+    }
+  ]
+}

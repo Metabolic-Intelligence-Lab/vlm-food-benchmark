@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "Breakfast",
+      "portion_estimate": "2 eggs, 1 slice of bacon, 1 medium-sized orange",
+      "confidence": "90"
+    },
+    {
+      "name": "Toast",
+      "portion_estimate": "2 slices",
+      "confidence": "80"
+    }
+  ]
+}

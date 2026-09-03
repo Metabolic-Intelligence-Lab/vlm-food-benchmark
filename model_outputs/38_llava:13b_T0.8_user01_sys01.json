@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Breaded and fried vegetables",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Fresh vegetables salad",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Banana and muffin",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    }
+  ]
+}

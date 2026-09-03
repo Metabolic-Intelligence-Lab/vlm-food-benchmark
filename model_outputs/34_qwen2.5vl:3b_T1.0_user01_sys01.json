@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Baked Spinach with Parmesan",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Egg",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Whole Wheat Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    },
+    {
+      "name": "Penne",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

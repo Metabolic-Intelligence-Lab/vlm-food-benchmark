@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "75 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "orange bell peppers",
+      "portion_estimate": "80 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "125 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "sliced banana peppers",
+      "portion_estimate": "40 grams",
+      "confidence": "50"
+    }
+  ]
+}

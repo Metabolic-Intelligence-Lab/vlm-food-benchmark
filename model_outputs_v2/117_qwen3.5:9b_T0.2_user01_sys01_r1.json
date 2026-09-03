@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green vegetable soup with grated cheese",
+      "portion_estimate": 350,
+      "confidence": 92
+    },
+    {
+      "name": "Baguette roll (bread)",
+      "portion_estimate": 80,
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt cup (strawberry flavor)",
+      "portion_estimate": 125,
+      "confidence": 95
+    },
+    {
+      "name": "Mashed potatoes with gravy",
+      "portion_estimate": 180,
+      "confidence": 90
+    },
+    {
+      "name": "Stuffed mushrooms (3 pieces)",
+      "portion_estimate": 65,
+      "confidence": 88
+    }
+  ]
+}

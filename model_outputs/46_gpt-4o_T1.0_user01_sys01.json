@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "bowl of green soup with cheese",
+      "portion_estimate": "300 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "two potato cakes with red cabbage",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "green salad with dressing",
+      "portion_estimate": "80 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "cup of fruit yogurt",
+      "portion_estimate": "125 grams",
+      "confidence": "95"
+    }
+  ]
+}

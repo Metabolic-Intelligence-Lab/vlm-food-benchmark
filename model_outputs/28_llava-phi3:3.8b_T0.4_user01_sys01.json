@@ -1,0 +1,42 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "200g",
+      "confidence": "95"
+    },
+    {
+      "name": "Cabbage rolls",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad with dressing",
+      "portion_estimate": "120g",
+      "confidence": "75"
+    },
+    {
+      "name": "Bread rolls",
+      "portion_estimate": "3 bread rolls",
+      "confidence": "90"
+    }
+  ],
+  "tablecloth": "white with green leaves pattern",
+  "dishes": [
+    {
+      "type": "plate",
+      "material": "ceramic",
+      "color": "white"
+    },
+    {
+      "type": "bowl",
+      "material": "glass",
+      "color": "clear"
+    },
+    {
+      "type": "tray",
+      "material": "metal",
+      "color": "gray"
+    }
+  ]
+}

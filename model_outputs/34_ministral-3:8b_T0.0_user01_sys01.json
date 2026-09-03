@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "sunny-side-up egg (whole)",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "potato pancake (latke)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed spinach",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "penne pasta with seasoning (parmesan and red pepper flakes)",
+      "portion_estimate": "150g (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat roll (in plastic packaging)",
+      "portion_estimate": "uncertain (likely 50-70g per roll)",
+      "confidence": 55
+    },
+    {
+      "name": "apple (whole)",
+      "portion_estimate": "180g",
+      "confidence": 90
+    }
+  ]
+}

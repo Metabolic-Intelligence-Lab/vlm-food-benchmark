@@ -1,0 +1,38 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of salad",
+      "portion_estimate": "120 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll in plastic wrap",
+      "portion_estimate": "80 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "plate of pasta and red sauce",
+      "portion_estimate": "120 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "piece of chicken on a white plate with vegetables",
+      "portion_estimate": "65 grams",
+      "confidence": "80"
+    }
+  ],
+  "other_items": [
+    {
+      "item": "white napkin",
+      "location": "table next to tray"
+    },
+    {
+      "item": "clear glass of water with straw in it",
+      "location": "left side of tray"
+    },
+    {
+      "item": "plate on top of tray",
+      "description": "plate that is holding chicken and veggies"
+    }
+  ]
+}

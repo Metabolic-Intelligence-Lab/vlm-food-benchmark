@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni with cheese and tomato sauce",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "grilled sandwich (toasted bread with filling, possibly egg or meat-based)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "boiled chickpeas",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "cheese slice (pre-packaged)",
+      "portion_estimate": "20g",
+      "confidence": 80
+    },
+    {
+      "name": "fresh red grapes (cluster of 3-4 grapes)",
+      "portion_estimate": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "pre-packaged butter or margarine",
+      "portion_estimate": "15g",
+      "confidence": 75
+    },
+    {
+      "name": "pre-packaged dessert (possibly custard or cheesecake slice)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    }
+  ]
+}

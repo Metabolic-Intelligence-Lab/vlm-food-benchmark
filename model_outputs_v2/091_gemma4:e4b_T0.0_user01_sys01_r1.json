@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Wrapped bread roll",
+      "portion_estimate": "90",
+      "confidence": "95"
+    },
+    {
+      "name": "Curry or stew in a bowl",
+      "portion_estimate": "320",
+      "confidence": "85"
+    },
+    {
+      "name": "Shredded protein and vegetable mix",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "Dark green seaweed or greens",
+      "portion_estimate": "120",
+      "confidence": "90"
+    },
+    {
+      "name": "Clear beverage in a glass",
+      "portion_estimate": "280",
+      "confidence": "90"
+    }
+  ]
+}

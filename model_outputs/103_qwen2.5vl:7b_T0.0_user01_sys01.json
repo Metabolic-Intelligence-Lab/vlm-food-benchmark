@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Ham",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": 60
+    }
+  ]
+}

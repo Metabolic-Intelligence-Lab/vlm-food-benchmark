@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based soup (likely lentil/vegetable) in bowl",
+      "portion_estimate": "350 g",
+      "confidence": "70"
+    },
+    {
+      "name": "crumbled fried chicken or breaded meat pieces on plate",
+      "portion_estimate": "140 g",
+      "confidence": "55"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "80"
+    },
+    {
+      "name": "orange (whole)",
+      "portion_estimate": "160 g",
+      "confidence": "85"
+    },
+    {
+      "name": "sparkling water (2 plastic cups)",
+      "portion_estimate": "400 g",
+      "confidence": "75"
+    }
+  ]
+}

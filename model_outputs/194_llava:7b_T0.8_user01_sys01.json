@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "meat (chicken or pork) with vegetables (broccoli)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "side dishes/garnishes",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "greens",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "hot sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "chili-based sauce/jam",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta in tomato sauce (spaghetti Bolognese or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Meatballs with melted cheese and breadstick",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Steamed asparagus with grains (polenta or grits)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Two meatballs with mashed potatoes or stuffed peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Sausage links",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

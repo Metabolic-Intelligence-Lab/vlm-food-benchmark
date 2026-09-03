@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bun",
+      "portion_estimate": "70 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "120 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded cutlet",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "chickpea soup",
+      "portion_estimate": "250 grams",
+      "confidence": "90"
+    }
+  ]
+}

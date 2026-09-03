@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Savory crepe or omelet base with green filling",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "Small fried appetizers or croquettes",
+      "portion_estimate": "130",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta (Penne or similar tubular shape)",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll or bun",
+      "portion_estimate": "110",
+      "confidence": "90"
+    },
+    {
+      "name": "Lemon or small citrus fruit",
+      "portion_estimate": "60",
+      "confidence": "75"
+    }
+  ]
+}

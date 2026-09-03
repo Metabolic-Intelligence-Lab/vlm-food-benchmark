@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "egg and potato dish",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fries",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "vegetables (broccoli and carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "hash browns (small portion, likely ~3 pieces)",
+      "portion_estimate": "30",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetable stir-fry with mushrooms and chopped vegetables (e.g., carrots, bell peppers)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "collard greens (or similar dark leafy greens)",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "plain water (from the glass)",
+      "portion_estimate": "200",
+      "confidence": 90
+    }
+  ]
+}

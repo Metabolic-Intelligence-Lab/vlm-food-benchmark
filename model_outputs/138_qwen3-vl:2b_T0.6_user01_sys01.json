@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Rice",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "Beans",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "Leafy Greens",
+      "portion_estimate": "20",
+      "confidence": "85"
+    }
+  ]
+}

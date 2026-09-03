@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled fish with seasoning",
+      "portion_estimate": "100 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Baked pasta with sauce and cheese",
+      "portion_estimate": "200 g",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "100 g",
+      "confidence": "40"
+    },
+    {
+      "name": "Bread roll with butter",
+      "portion_estimate": "50 g",
+      "confidence": "30"
+    },
+    {
+      "name": "Side of yellow beans",
+      "portion_estimate": "100 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Garnished salad with dressing",
+      "portion_estimate": "150 g",
+      "confidence": "40"
+    }
+  ]
+}

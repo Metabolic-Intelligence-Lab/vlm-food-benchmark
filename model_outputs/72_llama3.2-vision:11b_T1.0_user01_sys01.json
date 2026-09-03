@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled or baked fish with a light crust or topping (likely breadcrumbs or parmesan), possibly seasoned with herbs and lemon",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Roasted or saut\u00e9ed carrots, sliced and seasoned with herbs or spices, possibly with a drizzle of olive oil",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Grilled or roasted potatoes, sliced or wedged, seasoned with herbs or spices",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Lens beans (lentils), cooked in a tomato-based sauce with onions, garlic, and herbs, possibly with a drizzle of olive oil",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Glass of water with an ice cube, likely served chilled",
+      "portion_estimate": "empty",
+      "confidence": 90
+    }
+  ]
+}

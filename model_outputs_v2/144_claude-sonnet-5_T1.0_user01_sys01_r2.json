@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto and grated cheese",
+      "portion_estimate": "220",
+      "confidence": "75"
+    },
+    {
+      "name": "white bean stew in tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded fried vegetable patty with melted cheese topping",
+      "portion_estimate": "80",
+      "confidence": "55"
+    },
+    {
+      "name": "slices of crusty white bread",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150",
+      "confidence": "85"
+    }
+  ]
+}

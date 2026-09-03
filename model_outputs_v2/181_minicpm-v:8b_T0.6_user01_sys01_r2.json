@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain, approx. weight of spaghetti portion",
+      "confidence": "50"
+    },
+    {
+      "name": "baguette",
+      "portion_estimate": "uncertain, approximate baguette slice size",
+      "confidence": "60"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "1 medium pear",
+      "confidence": "80"
+    },
+    {
+      "name": "yellow fruit bar (possibly pineapple or mango)",
+      "portion_estimate": "uncertain, approx. weight of a piece from the bar",
+      "confidence": "50"
+    },
+    {
+      "name": "sliced yellow apple",
+      "portion_estimate": "1 medium sliced apple slice",
+      "confidence": "70"
+    }
+  ]
+}

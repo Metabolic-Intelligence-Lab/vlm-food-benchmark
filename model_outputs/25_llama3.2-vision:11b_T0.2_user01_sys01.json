@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Grilled Chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

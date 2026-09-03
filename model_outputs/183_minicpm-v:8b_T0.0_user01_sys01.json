@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Brussel sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Sliced cake or pie with green filling",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bowl of soup (possibly lentil)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

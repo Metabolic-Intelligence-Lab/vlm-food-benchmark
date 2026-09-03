@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup with leafy greens and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "bun in a plastic wrapper",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "fried potatoes with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "crushed fried ball with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "bananas",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

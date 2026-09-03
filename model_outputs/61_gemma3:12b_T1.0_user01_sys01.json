@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked diced beef",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt dessert (likely vanilla)",
+      "portion_estimate": "123",
+      "confidence": "90"
+    }
+  ]
+}

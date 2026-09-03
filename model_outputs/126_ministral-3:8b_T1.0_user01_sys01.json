@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with grated parmesan",
+      "portion_estimate": 250,
+      "confidence": 75
+    },
+    {
+      "name": "baked potato (or mashed potatoes in packaging)",
+      "portion_estimate": 150,
+      "confidence": 70
+    },
+    {
+      "name": "steamed or boiled broccoli florets",
+      "portion_estimate": 100,
+      "confidence": 75
+    },
+    {
+      "name": "rolled meat (possibly pork or chicken) wrapped in plastic",
+      "portion_estimate": 120,
+      "confidence": 70
+    },
+    {
+      "name": "plain bun or roll",
+      "portion_estimate": 80,
+      "confidence": 75
+    },
+    {
+      "name": "Yogurt or cheese product (small tub, brand 'YOMO')",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "green salad or leafy mixture (in plastic bag)",
+      "portion_estimate": 50,
+      "confidence": 65
+    }
+  ]
+}

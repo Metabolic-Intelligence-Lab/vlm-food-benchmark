@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "white rice",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

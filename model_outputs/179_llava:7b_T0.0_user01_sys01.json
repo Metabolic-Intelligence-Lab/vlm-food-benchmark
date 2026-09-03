@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Breaded meat patty",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "80 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Rice with broccoli",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Lemon wedge",
+      "portion_estimate": "1 slice",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Green Beans with Sesame Seeds and Soy Sauce",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fruit (Peach)",
+      "portion_estimate": "uncertain, approx. 80g",
+      "confidence": "70"
+    }
+  ]
+}

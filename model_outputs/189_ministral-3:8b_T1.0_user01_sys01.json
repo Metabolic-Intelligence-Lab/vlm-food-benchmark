@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of coffee or dark liquid drink (appears to be a beverage)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "side sauce/dipping sauce in small dish",
+      "portion_estimate": "30g",
+      "confidence": "65"
+    },
+    {
+      "name": "mixed greens or saut\u00e9ed vegetables",
+      "portion_estimate": "uncertain (appearances suggest ~150g, possibly less)",
+      "confidence": "70"
+    },
+    {
+      "name": "packaged yogurt or dairy drink with packaging (visible label)",
+      "portion_estimate": "uncertain (likely 100g or 150ml based on packaging size)",
+      "confidence": "55"
+    },
+    {
+      "name": "packaged cereal bars",
+      "portion_estimate": "30g (one small bar)",
+      "confidence": "80"
+    },
+    {
+      "name": "white sauce or dipping spread in the empty corner of the tray",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta in light sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "breaded item (chicken or fish)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

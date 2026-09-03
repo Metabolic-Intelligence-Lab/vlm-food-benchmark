@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with vegetables",
+      "portion_estimate": "uncertain, approx 100g-250g",
+      "confidence": "60"
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "uncertain, approx 75g-150g",
+      "confidence": "55"
+    },
+    {
+      "name": "Pork roll with onions and peppers",
+      "portion_estimate": "uncertain, approx 125g-300g",
+      "confidence": "60"
+    }
+  ]
+}

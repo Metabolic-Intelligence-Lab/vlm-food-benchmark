@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "noodles",
+      "portion_estimate": "uncertain, approx. weight in grams (exact not visible)",
+      "confidence": "60"
+    },
+    {
+      "name": "spaghetti with tomato sauce and green vegetables",
+      "portion_estimate": "uncertain, approx. weight in grams (exact not visible)",
+      "confidence": "55"
+    },
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "uncertain, exact weight indeterminate but likely several hundred grams of flesh with rind",
+      "confidence": "60"
+    },
+    {
+      "name": "cooked green leafy vegetable (possibly spinach)",
+      "portion_estimate": "uncertain, approx. weight in grams (exact not visible)",
+      "confidence": "55"
+    },
+    {
+      "name": "breaded and fried meat cutlet",
+      "portion_estimate": "uncertain, exact portion size indeterminate but likely small serving such as a single patty or slice.",
+      "confidence": "60"
+    }
+  ]
+}

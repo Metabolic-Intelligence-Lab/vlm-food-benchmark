@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto and parmesan cheese",
+      "portion_estimate": "250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "whole wheat dinner roll (in plastic wrap)",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "farro with green peas",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "eggplant and cheese pizza slice",
+      "portion_estimate": "120 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": "100"
+    }
+  ]
+}

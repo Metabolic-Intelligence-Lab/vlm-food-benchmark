@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato and spinach",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Rice dish, possibly risotto or paella mix",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll with cheese and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Fruit, possibly plums or peaches",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

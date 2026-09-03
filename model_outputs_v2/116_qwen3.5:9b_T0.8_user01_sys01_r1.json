@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup with grated cheese",
+      "portion_estimate": 270,
+      "confidence": 95
+    },
+    {
+      "name": "plain bread slice (approx. 1/3 loaf)",
+      "portion_estimate": 80,
+      "confidence": 92
+    },
+    {
+      "name": "steamed cauliflower florets",
+      "portion_estimate": 150,
+      "confidence": 94
+    },
+    {
+      "name": "square quiche or savory pastry (grid-patterned crust)",
+      "portion_estimate": 75,
+      "confidence": 88
+    },
+    {
+      "name": "water in plastic cup (approx. half-full)",
+      "portion_estimate": 150,
+      "confidence": 70
+    },
+    {
+      "name": "yogurt portion (closed container, partially visible label)",
+      "portion_estimate": 125,
+      "confidence": 65
+    }
+  ]
+}

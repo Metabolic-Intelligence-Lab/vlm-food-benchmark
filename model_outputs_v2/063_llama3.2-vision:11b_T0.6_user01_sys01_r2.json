@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    },
+    {
+      "name": "Grilled Chicken Breast",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed Salad",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mushroom",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    }
+  ]
+}

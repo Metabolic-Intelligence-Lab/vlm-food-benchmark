@@ -1,0 +1,27 @@
+Based on the analysis of the image, the distinct, visible food and beverage items along with their portions and confidence levels are as follows. The confidence levels are estimated as a percentage based on the visibility, typical serving sizes, and the ability to measure portions from the image. Items with a confidence level of 60% or higher are considered identifiable; those below 60% are marked as "uncertain." However, in this case, all items have a confidence level above 60%, so none are "uncertain."
+
+- **Yogurt**: 150g, 80% confidence  
+  (Visible in a container; typical serving size for yogurt is 150g, and the container's size aligns with this estimate.)
+
+- **Water**: 200g, 90% confidence  
+  (Visible in a glass; standard glass of water is approximately 200ml, which equals 200g, and the image confirms this volume.)
+
+- **Bread roll**: 35g, 70% confidence  
+  (Visible as a single roll; average weight of a small bread roll is about 35g, and the size in the image matches this.)
+
+- **Tomato with goat cheese**: 60g, 80% confidence  
+  (Visible as a portion; the combination of tomato slices and goat cheese in the dish is approximately 60g, based on typical portion sizes.)
+
+- **Roasted potatoes**: 120g, 75% confidence  
+  (Visible as a pile of diced potatoes; a standard serving of roasted potatoes is around 120g, and the image shows a reasonable portion size.)
+
+- **Salad**: 50g, 70% confidence  
+  (Visible as a leafy mix; the salad portion appears to be about 50g, consistent with the size of the greens and vegetables shown.)
+
+### Notes:
+- **Confidence level explanation**: Confidence is derived from the clarity of the image, typical serving sizes, and the ability to estimate portions. For example:
+  - Water has high confidence (90%) because the glass volume is easily measurable.
+  - Yogurt has 80% confidence due to the container's size matching standard yogurt portions.
+  - Salad has 70% confidence as the portion is somewhat compact but visible.
+- **No items are "uncertain"** in this analysis, as all confidence levels exceed 60%.
+- This list includes only the food and beverage items directly visible in the image; background elements (e.g., tableware) are not included.

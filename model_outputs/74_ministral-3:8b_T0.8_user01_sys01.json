@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "diced orange or butternut squash",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat or white bread (loaf portion)",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with mixed vegetables (tomatoes, peppers, and possibly chicken or meat)",
+      "portion_estimate": "200g (cooked pasta + veggies)",
+      "confidence": 85
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "clear glass with water or another beverage",
+      "portion_estimate": "uncertain (empty or negligible)",
+      "confidence": 30
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Caesar salad",
+      "portion_estimate": "uncertain, approximated as plate size",
+      "confidence": "50"
+    },
+    {
+      "name": "Boiled chicken breast with mixed vegetables",
+      "portion_estimate": "uncertain, approximated as bowl size",
+      "confidence": "45"
+    },
+    {
+      "name": "Bread roll (2 slices)",
+      "portion_estimate": "uncertain, approximated by slice thickness and visible weight.",
+      "confidence": "70"
+    },
+    {
+      "name": "Black plums x 3",
+      "portion_estimate": "uncertain, individual fruit size estimated as snack portion for plum type",
+      "confidence": "45"
+    }
+  ]
+}

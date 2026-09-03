@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roasted cauliflower florets",
+      "portion_estimate": "180",
+      "confidence": "75"
+    },
+    {
+      "name": "white bean salad",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "grilled/baked fish fillet (mackerel or similar) with herbs and lemon",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "whole grain bread slices",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "80",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "small potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "white sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad dressing",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

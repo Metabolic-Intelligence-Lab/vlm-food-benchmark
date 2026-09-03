@@ -1,0 +1,31 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and vegetables",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Baked potatoes with seasoning",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Sausage roll on a bed of lettuce and tomato",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    }
+  ],
+  "beverage_items": [
+    {
+      "name": "Red tea bag in container",
+      "portion_estimate": "uncertain, approx. portion size typical for such product",
+      "confidence": "60"
+    },
+    {
+      "name": "Glass of water or clear liquid",
+      "portion_estimate": "uncertain, full glass",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Lettuce Salad",
+      "portion_estimate": "75g",
+      "confidence": 70
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250ml",
+      "confidence": 90
+    }
+  ]
+}

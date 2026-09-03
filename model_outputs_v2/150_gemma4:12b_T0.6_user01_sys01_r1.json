@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with creamy sauce and herbs",
+      "portion_estimate": "250g",
+      "confidence": "95"
+    },
+    {
+      "name": "mixed cooked vegetables (potatoes, carrots, broccoli)",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "mashed pumpkin or sweet potato topped with herbs",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": "95"
+    },
+    {
+      "name": "two fresh plums",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    }
+  ]
+}

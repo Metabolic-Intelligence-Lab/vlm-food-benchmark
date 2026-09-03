@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "dark green leafy vegetables (spinach or kale)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "mashed potato dish",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

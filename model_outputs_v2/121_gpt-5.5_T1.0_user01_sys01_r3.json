@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with grated cheese",
+      "portion_estimate": "260 grams",
+      "confidence": "88"
+    },
+    {
+      "name": "mixed salad with shredded carrots and leafy greens",
+      "portion_estimate": "150 grams",
+      "confidence": "86"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "grilled panini or toasted sandwich",
+      "portion_estimate": "130 grams",
+      "confidence": "78"
+    },
+    {
+      "name": "wrapped sliced bread or sandwich, filling uncertain",
+      "portion_estimate": "70 grams",
+      "confidence": "55"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    }
+  ]
+}

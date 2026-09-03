@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Vegetables (peas, carrots, potatoes, and mushrooms)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

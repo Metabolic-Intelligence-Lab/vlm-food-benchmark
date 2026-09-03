@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "50 g",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "85"
+    },
+    {
+      "name": "orange sauced breaded cutlet or casserole piece",
+      "portion_estimate": "120 g",
+      "confidence": "50"
+    },
+    {
+      "name": "shredded carrot and cabbage salad",
+      "portion_estimate": "110 g",
+      "confidence": "75"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "55 g",
+      "confidence": "85"
+    },
+    {
+      "name": "fresh white cheese slice",
+      "portion_estimate": "45 g",
+      "confidence": "70"
+    },
+    {
+      "name": "sweet corn kernels",
+      "portion_estimate": "15 g",
+      "confidence": "80"
+    },
+    {
+      "name": "red sauce or ketchup on cheese",
+      "portion_estimate": "15 g",
+      "confidence": "65"
+    },
+    {
+      "name": "partial serving of pasta with vegetables",
+      "portion_estimate": "80 g",
+      "confidence": "45"
+    }
+  ]
+}

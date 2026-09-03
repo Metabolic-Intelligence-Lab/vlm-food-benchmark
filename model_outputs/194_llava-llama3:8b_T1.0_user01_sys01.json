@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread with purple spread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "chips",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

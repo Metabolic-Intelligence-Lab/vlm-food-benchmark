@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked chickpeas",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "mixed greens salad",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "plain yogurt",
+      "portion_estimate": "125",
+      "confidence": "100"
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "175",
+      "confidence": "90"
+    }
+  ]
+}

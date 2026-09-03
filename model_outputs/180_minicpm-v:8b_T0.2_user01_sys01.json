@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with pesto",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "chickpeas and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "hamburger bun",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

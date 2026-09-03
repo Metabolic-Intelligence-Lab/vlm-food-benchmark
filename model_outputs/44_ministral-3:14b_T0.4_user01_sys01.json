@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "plain baguette or roll (whole)",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "tomato slice (2 medium slices)",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "lettuce leaves (2 large leaves)",
+      "portion_estimate": "20",
+      "confidence": 75
+    },
+    {
+      "name": "boiled or fried potato cubes (roasted potatoes)",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "white cheese or mozzarella balls (2 small balls)",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt or sour cream (single-serving cup, partially visible)",
+      "portion_estimate": "120",
+      "confidence": 65
+    },
+    {
+      "name": "water (in clear glass, ~200ml)",
+      "portion_estimate": "200",
+      "confidence": 90
+    }
+  ]
+}

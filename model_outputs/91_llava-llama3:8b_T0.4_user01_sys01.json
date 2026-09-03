@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "creamy tomato soup with croutons and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "salad with mixed greens, chicken, and avocado",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "dark green leafy vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "red cup",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "clear cup",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "clear plastic cup with lid",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

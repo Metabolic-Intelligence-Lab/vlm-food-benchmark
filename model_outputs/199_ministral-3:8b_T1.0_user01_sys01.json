@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "shell-shaped pasta (penne) with melted cheese",
+      "portion_estimate": "220g",
+      "confidence": 80
+    },
+    {
+      "name": "sliced bread (whole wheat/brioche-like)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "mashed or shredded potato casserole with peas (green pea salad)",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "green peas (steamed or boiled)",
+      "portion_estimate": "80g",
+      "confidence": 85
+    }
+  ]
+}

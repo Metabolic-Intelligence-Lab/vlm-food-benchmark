@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli with chunks of cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Sliced deli meat on a slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed vegetables (carrots, peas, corn) with tomato sauce on top",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt cup",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

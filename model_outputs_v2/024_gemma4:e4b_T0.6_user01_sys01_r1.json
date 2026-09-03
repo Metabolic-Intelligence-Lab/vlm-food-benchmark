@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable fritters (2 pieces)",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Sliced raw carrots",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Steamed edamame beans",
+      "portion_estimate": "180g",
+      "confidence": "80"
+    },
+    {
+      "name": "Red apple",
+      "portion_estimate": "160g",
+      "confidence": "95"
+    },
+    {
+      "name": "Plain bread roll",
+      "portion_estimate": "90g",
+      "confidence": "90"
+    }
+  ]
+}

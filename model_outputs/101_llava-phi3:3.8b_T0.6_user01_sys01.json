@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta Salad",
+      "portion_estimate": "150g",
+      "image": "<https://source.unsplash.com/random-3x4/?pasta>"
+    },
+    {
+      "name": "Chicken Strips",
+      "portion_estimate": "200g",
+      "image": "<https://source.unsplash.com/random-3x4/?chicken>"
+    },
+    {
+      "name": "Bread and Butter",
+      "portion_estimate": "50g bread, 100g butter",
+      "image": "<https://source.unsplash.com/random-3x4/?bread+butter>"
+    },
+    {
+      "name": "Fruit Salad",
+      "portion_estimate": "200g",
+      "image": "<https://source.unsplash.com/random-3x4/?fruit+salad>"
+    }
+  ]
+}

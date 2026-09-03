@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green Beans with Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mashed Sweet Potatoes or Yam",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Rice with Vegetables and Curry Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Whole Grain Bread or Flatbread",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt with Red Label",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

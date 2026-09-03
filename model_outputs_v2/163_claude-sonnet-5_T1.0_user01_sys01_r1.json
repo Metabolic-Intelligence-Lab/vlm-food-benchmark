@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable cream soup (broth-based, minestrone-like)",
+      "portion_estimate": "300",
+      "confidence": "70"
+    },
+    {
+      "name": "grated parmesan cheese topping on soup",
+      "portion_estimate": "5",
+      "confidence": "55"
+    },
+    {
+      "name": "spinach and breaded fish/meat patty with white sauce and grilled scallop or mushroom garnish",
+      "portion_estimate": "120",
+      "confidence": "45"
+    },
+    {
+      "name": "sauteed diced vegetables (zucchini, carrot, peppers) side dish",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt cup (Yomo)",
+      "portion_estimate": "125",
+      "confidence": "75"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150",
+      "confidence": "50"
+    }
+  ]
+}

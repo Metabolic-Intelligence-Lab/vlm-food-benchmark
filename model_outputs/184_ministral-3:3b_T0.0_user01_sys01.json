@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bun (sliced portion)",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "salad mix (lettuce, cucumber, cherry tomatoes, olives, possibly other greens)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "stuffed mushroom cap (with meat/filling)",
+      "portion_estimate": "30",
+      "confidence": 80
+    },
+    {
+      "name": "shrimp roll (half of a bun with shrimp and garnish)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "pickled purple plum (plum or plum jam)",
+      "portion_estimate": "15",
+      "confidence": 75
+    }
+  ]
+}

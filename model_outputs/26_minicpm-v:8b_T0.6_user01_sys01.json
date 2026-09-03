@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Crispy fried chicken nuggets",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Potato wedges with spices and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Green leafy vegetables, likely seaweed or spinach",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Whole wheat roll",
+      "portion_estimate": "approx 120g",
+      "confidence": "70"
+    }
+  ]
+}

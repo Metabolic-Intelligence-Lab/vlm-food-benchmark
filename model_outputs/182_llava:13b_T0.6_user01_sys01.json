@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta dish (ravioli or penne with sausage)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "green vegetables (spinach or leafy greens)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pizza with cheese and toppings",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread (wrapped)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "grapefruit",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

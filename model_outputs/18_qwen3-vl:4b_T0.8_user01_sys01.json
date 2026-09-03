@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "baked fish",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "180g",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetable salad",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200g",
+      "confidence": 80
+    }
+  ]
+}

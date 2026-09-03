@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed or roasted broccoli and mixed vegetables",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Scrambled eggs or omelet portion",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Breaded protein pieces (e.g., chicken or tofu)",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "Seasoning or breadcrumbs",
+      "portion_estimate": "30g",
+      "confidence": "75"
+    },
+    {
+      "name": "Slice of whole wheat bread",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    }
+  ]
+}

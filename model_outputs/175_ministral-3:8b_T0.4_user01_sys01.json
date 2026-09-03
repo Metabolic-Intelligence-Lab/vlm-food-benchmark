@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken breast with sauce (likely creamy)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "green beans (steamed or saut\u00e9ed)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "spinach or collard greens with cheese or butter",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "potato cubes (likely roasted or saut\u00e9ed)",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "navel orange",
+      "portion_estimate": "150g",
+      "confidence": 90
+    }
+  ]
+}

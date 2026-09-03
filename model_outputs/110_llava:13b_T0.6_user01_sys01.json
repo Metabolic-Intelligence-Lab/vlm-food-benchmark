@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "chili con carne with beans and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread, wrapped in plastic",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sliced vegetable roll or savory snack item (pasty or pastry)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "mixed vegetables (peas and carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread or crackers with sliced cheese and tomato/spread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "beverage (coffee or tea)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "condiments, sauces, or additional food items",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

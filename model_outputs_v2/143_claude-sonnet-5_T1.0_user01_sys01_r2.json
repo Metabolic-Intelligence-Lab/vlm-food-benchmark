@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked white fish fillets (two pieces)",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "roasted diced potatoes with herbs",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "steamed/sauteed broccoli florets",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "whole grain bread roll, sliced (packaged)",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "plain yogurt cup (Yomo brand, sealed)",
+      "portion_estimate": "125",
+      "confidence": 80
+    }
+  ]
+}

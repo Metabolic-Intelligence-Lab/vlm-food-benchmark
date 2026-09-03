@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with sauce and grated cheese",
+      "portion_estimate": "250g",
+      "confidence": "95"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "baked savory pastry",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "wrapped cheese",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "250 grams (estimated based on standard serving glass size)",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt (plain, possibly Greek-style) in plastic cup (e.g., Oikos)",
+      "portion_estimate": "130 grams",
+      "confidence": 85
+    },
+    {
+      "name": "english muffin or similar baked bread",
+      "portion_estimate": "60 grams (whole muffin)",
+      "confidence": 80
+    },
+    {
+      "name": "bacon strips",
+      "portion_estimate": "uncertain (too small to estimate accurately)",
+      "confidence": 50
+    },
+    {
+      "name": "roasted potatoes (or hash browns)",
+      "portion_estimate": "120 grams (small side serving)",
+      "confidence": 75
+    },
+    {
+      "name": "tomatoes sliced and topped with what appears to be fried eggs (or egg topping, e.g., omelet/egg bits)",
+      "portion_estimate": "120 grams for tomatoes and ~40 grams for egg topping",
+      "confidence": 80
+    },
+    {
+      "name": "french dressing or condiment packet",
+      "portion_estimate": "uncertain (too small to estimate accurately)",
+      "confidence": 40
+    }
+  ]
+}

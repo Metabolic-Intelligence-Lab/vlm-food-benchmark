@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "150 g",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked patty, possibly vegetable or meat",
+      "portion_estimate": "100 g",
+      "confidence": "55"
+    },
+    {
+      "name": "yellow cheese-style sauce on patty",
+      "portion_estimate": "25 g",
+      "confidence": "60"
+    },
+    {
+      "name": "mixed green salad with dark dressing",
+      "portion_estimate": "80 g",
+      "confidence": "80"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "90"
+    },
+    {
+      "name": "sealed yogurt or dessert cup",
+      "portion_estimate": "125 g",
+      "confidence": "55"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 g",
+      "confidence": "95"
+    }
+  ]
+}

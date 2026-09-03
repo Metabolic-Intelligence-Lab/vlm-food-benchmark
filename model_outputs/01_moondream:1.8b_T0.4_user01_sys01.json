@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup and sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "egg muffin or pancake",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

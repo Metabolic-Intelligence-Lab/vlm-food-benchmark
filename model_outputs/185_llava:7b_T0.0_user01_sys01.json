@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried potatoes",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Sliced meat with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    }
+  ]
+}

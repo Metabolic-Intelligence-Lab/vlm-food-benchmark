@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bun (or baguette)",
+      "portion_estimate": "150-200",
+      "confidence": 90
+    },
+    {
+      "name": "white rice (cooked)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "chicken breast (sliced, seasoned)",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "mushrooms (saut\u00e9ed)",
+      "portion_estimate": "50",
+      "confidence": 75
+    },
+    {
+      "name": "cheese (sliced, possibly cheddar or similar)",
+      "portion_estimate": "30",
+      "confidence": 70
+    },
+    {
+      "name": "butter or cream sauce (on chicken)",
+      "portion_estimate": "10",
+      "confidence": 65
+    },
+    {
+      "name": "green herbs (parsley or similar garnish)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "garlic cloves (whole, visible in bag)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

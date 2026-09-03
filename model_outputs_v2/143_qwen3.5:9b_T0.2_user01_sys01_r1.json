@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed broccoli florets",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Diced potatoes with herbs (likely roasted or steamed)",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Steamed white fish fillets",
+      "portion_estimate": 140,
+      "confidence": 92
+    },
+    {
+      "name": "Whole grain bread roll (in plastic packaging)",
+      "portion_estimate": 60,
+      "confidence": 85
+    },
+    {
+      "name": "Yomo brand yogurt cup",
+      "portion_estimate": 125,
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta dish with creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "cauliflower and cracker side",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "small bag of cheese or crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

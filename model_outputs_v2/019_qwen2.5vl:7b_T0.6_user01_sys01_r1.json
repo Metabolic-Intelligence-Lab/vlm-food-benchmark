@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked fish with vegetables",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "30 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "150 milliliters",
+      "confidence": "80"
+    }
+  ]
+}

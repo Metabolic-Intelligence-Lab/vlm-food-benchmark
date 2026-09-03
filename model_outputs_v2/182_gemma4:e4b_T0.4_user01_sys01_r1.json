@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked green vegetable side dish (e.g., spinach or broccoli mash)",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Baked casserole or gratin dish",
+      "portion_estimate": "220g",
+      "confidence": "85"
+    },
+    {
+      "name": "Macaroni and cheese or pasta bake",
+      "portion_estimate": "280g",
+      "confidence": "90"
+    },
+    {
+      "name": "Small cherry tomatoes",
+      "portion_estimate": "40g",
+      "confidence": "90"
+    }
+  ]
+}

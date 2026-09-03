@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "greens",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sugar",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

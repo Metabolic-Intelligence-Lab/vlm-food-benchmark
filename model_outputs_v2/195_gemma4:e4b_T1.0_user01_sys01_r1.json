@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Saut\u00e9ed or cooked meaty chunks",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "Cubed yellow/white solid ingredient (e.g., potato, paneer)",
+      "portion_estimate": "140g",
+      "confidence": "75"
+    },
+    {
+      "name": "Reddish-brown crumbled granular dish (e.g., lentils, spiced scramble)",
+      "portion_estimate": "130g",
+      "confidence": "88"
+    },
+    {
+      "name": "Small portion of white granular side dish or yogurt",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    }
+  ]
+}

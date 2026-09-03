@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "Approximately 250 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "1",
+      "confidence": 60
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "5-6",
+      "confidence": 70
+    },
+    {
+      "name": "Sour cream topping soup",
+      "portion_estimate": "Approximately 30 grams",
+      "confidence": 80
+    }
+  ]
+}

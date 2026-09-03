@@ -1,0 +1,25 @@
+{
+  "tray": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "300g",
+      "confidence": "80"
+    },
+    {
+      "name": "beans with barley",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "apple slice",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ],
+  "tablecloth": [
+    {
+      "image": "https://i.stack.imgur.com/LqG7B.png",
+      "description": "white table cloth with brown designs"
+    }
+  ]
+}

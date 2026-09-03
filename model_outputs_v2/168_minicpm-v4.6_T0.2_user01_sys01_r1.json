@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne)",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "70 g",
+      "confidence": 90
+    },
+    {
+      "name": "peas (green)",
+      "portion_estimate": "40 g",
+      "confidence": 85
+    },
+    {
+      "name": "shredded cabbage",
+      "portion_estimate": "60 g",
+      "confidence": 95
+    },
+    {
+      "name": "beans/lentils",
+      "portion_estimate": "80 g",
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broth",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "green vegetables (possibly broccoli)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "cheese slices",
+      "portion_estimate": "uncertain, likely 1-2 ounces each slice based on packaging and typical serving size",
+      "confidence": "50"
+    },
+    {
+      "name": "processed cheese sticks (likely Velveeta)",
+      "portion_estimate": "uncertain, typically around half a stick per package depending on the brand",
+      "confidence": "60"
+    },
+    {
+      "name": "red sauce with bread crumbles and tomato spread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "rotini pasta with vegetables",
+      "portion_estimate": "200-250 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "150-200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "sausage or meat-wrapped item (possibly a cannoli with filling)",
+      "portion_estimate": "100-120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt or dessert (ROMO brand)",
+      "portion_estimate": "100-120 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "water or clear beverage",
+      "portion_estimate": "300 ml (estimate from cup size)",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll or similar baked item (in plastic bag)",
+      "portion_estimate": "50-60 grams",
+      "confidence": "60"
+    }
+  ]
+}

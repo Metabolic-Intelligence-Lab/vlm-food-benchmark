@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked pasta (bowtie shape) with sauce",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "Mixed vegetables (carrots and onions)",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "Baked potato or sweet potato",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Sprinkles fruit cup (mixed berries)",
+      "portion_estimate": "120",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Fish fillet",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Vegetable soup",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100",
+      "confidence": 80
+    }
+  ]
+}

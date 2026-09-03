@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Salad (mixed greens and shredded carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Toast with scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

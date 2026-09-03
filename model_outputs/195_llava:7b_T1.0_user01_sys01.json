@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Uncooked pasta on a plate",
+      "portion_estimate": "80 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Chopped meat (could be chicken or beef) in bowl",
+      "portion_estimate": "150-200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Tater tots on a plate",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Red sauce in bowl",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    }
+  ]
+}

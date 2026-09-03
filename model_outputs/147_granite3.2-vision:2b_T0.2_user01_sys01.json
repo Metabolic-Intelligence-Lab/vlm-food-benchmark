@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta dish with red sauce and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "creamy yellow substance (mashed potatoes or gratin)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "reddish-brown sauce (stew or curry)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green leafy vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

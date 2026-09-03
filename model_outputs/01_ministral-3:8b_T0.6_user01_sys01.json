@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup with grated cheese",
+      "portion_estimate": "300 grams (estimated based on bowl size and typical serving)",
+      "confidence": 85
+    },
+    {
+      "name": "yellow rice or grain patty with red sauce",
+      "portion_estimate": "150 grams (estimated based on standard portion size for patty)",
+      "confidence": 85
+    },
+    {
+      "name": "shredded meat (likely chicken or pork)",
+      "portion_estimate": "100 grams (estimated based on visible quantity)",
+      "confidence": 80
+    },
+    {
+      "name": "packaged bread roll or bun (partially visible)",
+      "portion_estimate": "50 grams (estimated based on typical size)",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt or fruit preparation (red, in small container)",
+      "portion_estimate": "uncertain (container too small to estimate accurately)",
+      "confidence": 30
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Whole wheat muffin",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Breaded chicken with tomatoes and spinach served on a bed of potatoes",
+      "portion_estimate": "150g-200g (uncertain, confidence: 70)",
+      "confidence": "70"
+    },
+    {
+      "name": "Roasted potato cubes",
+      "portion_estimate": "30g-40g per cube estimated based on size (uncertain, confidence: 65)",
+      "confidence": "65"
+    },
+    {
+      "name": "Dairy yogurt in a plastic cup with strawberries",
+      "portion_estimate": "approx. 125ml (uncertain, confidence: 70)",
+      "confidence": "70"
+    },
+    {
+      "name": "Packaged green condiment packet, likely relish or a similar sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Sliced bread with an indeterminate topping (possible jam or another spread)",
+      "portion_estimate": "uncertain, but it's part of the sliced bread which likely contains around 15g per slice based on size and thickness",
+      "confidence": "60"
+    },
+    {
+      "name": "Green vegetable stir-fry in a bowl (possibly bell peppers or tomatoes with other ingredients)",
+      "portion_estimate": "uncertain, but it appears to be about half the content of the white bowl, estimated at 125g",
+      "confidence": "60"
+    },
+    {
+      "name": "Tray containing various food items and condiments",
+      "portion_estimate": "uncertain (total for all visible components within this section)",
+      "confidence": "60"
+    }
+  ]
+}

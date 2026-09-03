@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish fillets",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "70 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked lentils",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "water in a plastic cup",
+      "portion_estimate": "200 grams",
+      "confidence": "85"
+    }
+  ]
+}

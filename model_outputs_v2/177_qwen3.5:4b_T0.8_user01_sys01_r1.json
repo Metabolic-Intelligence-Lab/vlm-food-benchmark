@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with pesto and cheese",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Bread slice with pesto, sour cream and chicken piece (open-faced)",
+      "portion_estimate": "60g",
+      "confidence": 80
+    },
+    {
+      "name": "Roasted potatoes or root vegetables with herbs",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "Burger bun (plain)",
+      "portion_estimate": "60g",
+      "confidence": 90
+    }
+  ]
+}

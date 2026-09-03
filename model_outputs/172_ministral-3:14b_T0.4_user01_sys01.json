@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green peas (boiled or steamed)",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "chopped salad with mixed greens, shredded carrots, and radishes",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked fusilli pasta (with visible herbs/spices)",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "hard-boiled egg (peeled)",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "cucumber slices (partially visible)",
+      "portion_estimate": "30",
+      "confidence": "75"
+    }
+  ]
+}

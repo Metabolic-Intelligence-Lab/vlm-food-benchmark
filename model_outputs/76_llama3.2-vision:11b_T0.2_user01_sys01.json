@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Couscous",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Fish",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Nuts",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

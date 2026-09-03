@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "cottage cheese",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "cracker",
+      "portion_estimate": "30",
+      "confidence": "60"
+    }
+  ]
+}

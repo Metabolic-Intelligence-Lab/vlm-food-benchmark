@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Brown liquid soup (e.g., lentil or vegetable)",
+      "portion_estimate": 280,
+      "confidence": 95
+    },
+    {
+      "name": "Sliced meatloaf or roast beef with gravy",
+      "portion_estimate": 140,
+      "confidence": 95
+    },
+    {
+      "name": "Canned chickpeas (garbanzo beans)",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Whole orange",
+      "portion_estimate": 130,
+      "confidence": 98
+    },
+    {
+      "name": "Cracker snack pack (Uncrunchers brand)",
+      "portion_estimate": 25,
+      "confidence": 85
+    },
+    {
+      "name": "Still water",
+      "portion_estimate": 170,
+      "confidence": 95
+    }
+  ]
+}

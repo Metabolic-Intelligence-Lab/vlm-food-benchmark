@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with pesto sauce and grated cheese",
+      "portion_estimate": "180",
+      "confidence": 75
+    },
+    {
+      "name": "sliced cooked carrots",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "breaded vegetable patty topped with tomato slice",
+      "portion_estimate": "90",
+      "confidence": 55
+    },
+    {
+      "name": "bread roll, packaged",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "fresh plums",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "butter pat, packaged",
+      "portion_estimate": "10",
+      "confidence": 60
+    }
+  ]
+}

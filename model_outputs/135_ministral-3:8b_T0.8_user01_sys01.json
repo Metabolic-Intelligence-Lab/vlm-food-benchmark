@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "sliced roasted meat (likely beef) with gravy",
+      "portion_estimate": "uncertain (portion appears ~150-200g based on standard serving size reference)",
+      "confidence": 70
+    },
+    {
+      "name": "mashed potatoes (with visible chunks)",
+      "portion_estimate": "uncertain (portion appears ~150-200g based on standard serving size reference)",
+      "confidence": 75
+    },
+    {
+      "name": "mixed vegetables (peas/carrots/other mix) in gravy",
+      "portion_estimate": "uncertain (portion appears ~50-100g based on standard serving size reference)",
+      "confidence": 70
+    }
+  ]
+}

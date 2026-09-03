@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "250g (approximate for the bowl)",
+      "confidence": 75
+    },
+    {
+      "name": "mixed salad with shredded carrots and cabbage/lettuce",
+      "portion_estimate": "150g (approximate for the bowl)",
+      "confidence": 70
+    },
+    {
+      "name": "whole wheat bread (single slice)",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "banana (whole)",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "cheesecake or custard slice",
+      "portion_estimate": "100g",
+      "confidence": 70
+    }
+  ]
+}

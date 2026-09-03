@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (fusilli) with tomato sauce and tomato chunks",
+      "portion_estimate": "180 grams",
+      "confidence": 85
+    },
+    {
+      "name": "potato hash with bacon bits",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "packaged bread roll (visible in background, partially wrapped)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "yogurt drink (in plastic cup)",
+      "portion_estimate": "uncertain (likely 120-150ml)",
+      "confidence": 70
+    },
+    {
+      "name": "condiment packet (likely salt or seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

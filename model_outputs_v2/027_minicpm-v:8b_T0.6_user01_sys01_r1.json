@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": "uncertain, approximately 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Broccoli rabe",
+      "portion_estimate": "uncertain, approximately 80g",
+      "confidence": "50"
+    },
+    {
+      "name": "Baked salmon with sauce",
+      "portion_estimate": "uncertain, approximately 120g",
+      "confidence": "60"
+    },
+    {
+      "name": "White bread roll",
+      "portion_estimate": "uncertain, approximately 50g",
+      "confidence": "40"
+    },
+    {
+      "name": "Yogurt with fruit and cereal mix",
+      "portion_estimate": "uncertain, approximately 120g",
+      "confidence": "60"
+    }
+  ]
+}

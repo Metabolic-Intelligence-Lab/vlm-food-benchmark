@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "salad with shredded carrots and a protein source",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "plate with a fried food item and a side of vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "dessert or snack with a creamy texture and a crunchy topping",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

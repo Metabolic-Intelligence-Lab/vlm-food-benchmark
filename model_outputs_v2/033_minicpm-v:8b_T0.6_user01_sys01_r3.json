@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "250g",
+      "confidence": 80
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "170-230g",
+      "confidence": 90
+    },
+    {
+      "name": "Green Pea and Carrot Stew with Red Pepper",
+      "portion_estimate": "uncertain, approx. 50g",
+      "confidence": 60
+    }
+  ]
+}

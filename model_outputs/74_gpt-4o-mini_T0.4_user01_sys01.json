@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "diced butternut squash",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "steamed green beans",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "sparkling water",
+      "portion_estimate": "250",
+      "confidence": "70"
+    }
+  ]
+}

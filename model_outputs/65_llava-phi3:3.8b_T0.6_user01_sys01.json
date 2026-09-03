@@ -1,0 +1,26 @@
+{
+  "food_items": [
+    {
+      "name": "Egg Benedict",
+      "portion_estimate": "30g",
+      "confidence": "90"
+    },
+    {
+      "name": "Hash Browns",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Garden Salad",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ],
+  "drink_items": [
+    {
+      "name": "Glass of Water",
+      "portion_estimate": "250ml",
+      "confidence": "80"
+    }
+  ]
+}

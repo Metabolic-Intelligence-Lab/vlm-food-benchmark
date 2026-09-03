@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (likely fettuccine)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Sauce (likely pesto)",
+      "portion_estimate": "80",
+      "confidence": 75
+    },
+    {
+      "name": "Cheese (likely Parmesan)",
+      "portion_estimate": "30",
+      "confidence": 70
+    }
+  ]
+}

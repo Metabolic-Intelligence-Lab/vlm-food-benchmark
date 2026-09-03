@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange macaroni",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "rice and broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "lemon",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

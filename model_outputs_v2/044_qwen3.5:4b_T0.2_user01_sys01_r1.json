@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Potatoes, roasted",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "Tomato halves with mozzarella and caponata",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "Bun, wrapped",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "Yogurt cup (Toma)",
+      "portion_estimate": "125",
+      "confidence": 80
+    }
+  ]
+}

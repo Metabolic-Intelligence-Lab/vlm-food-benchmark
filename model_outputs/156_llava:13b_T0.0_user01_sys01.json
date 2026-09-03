@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread or rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cake",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "roasted vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "bananas",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

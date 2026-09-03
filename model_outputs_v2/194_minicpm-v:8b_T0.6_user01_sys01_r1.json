@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable soup",
+      "portion_estimate": "uncertain, approximately 300g",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll with butter",
+      "portion_estimate": "uncertain, approximately 120-150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Orange fruit",
+      "portion_estimate": "uncertain, approximately 130g",
+      "confidence": "70"
+    }
+  ]
+}

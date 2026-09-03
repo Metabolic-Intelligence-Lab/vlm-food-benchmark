@@ -1,0 +1,62 @@
+{
+  "tray": [
+    {
+      "food_items": [
+        {
+          "name": "Pasta",
+          "portion_estimate": "100g",
+          "color": "green"
+        },
+        {
+          "name": "Carrots",
+          "portion_estimate": "50g",
+          "color": "orange"
+        },
+        {
+          "name": "Bread",
+          "portion_estimate": "100g",
+          "color": "brown"
+        },
+        {
+          "name": "Apple",
+          "portion_estimate": "100g",
+          "color": "red"
+        }
+      ],
+      "location": [
+        {
+          "x": 0.35,
+          "y": 0.42
+        },
+        {
+          "x": 0.67,
+          "y": 0.71
+        }
+      ]
+    },
+    {
+      "food_items": [
+        {
+          "name": "Sesame Bread",
+          "portion_estimate": "50g",
+          "color": "brown"
+        },
+        {
+          "name": "Pasta Salad",
+          "portion_estimate": "100g",
+          "color": "green"
+        }
+      ],
+      "location": [
+        {
+          "x": 0.36,
+          "y": 0.78
+        },
+        {
+          "x": 0.59,
+          "y": 0.91
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Fried Fish",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

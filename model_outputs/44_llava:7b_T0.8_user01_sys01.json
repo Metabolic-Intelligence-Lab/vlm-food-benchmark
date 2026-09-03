@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Caesar salad with croutons",
+      "portion_estimate": "150 grams (half of a restaurant portion)",
+      "confidence": "60"
+    },
+    {
+      "name": "Tomato and cheese toasted baguette slices",
+      "portion_estimate": "1 slice, approximately 40 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Homemade Caesar dressing (assuming a small amount for the salad)",
+      "portion_estimate": "2 tablespoons, approximately 30 grams",
+      "confidence": "40"
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "1 cup, approximately 150 grams",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "three different kinds of food",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pasta and bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "two bowls with additional food items",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

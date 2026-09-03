@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "black bean or lentil soup with added grated cheese",
+      "portion_estimate": "400 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed green peas",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed baby carrots",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt (red/yogurt cup, likely Greek or similar variety)",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "garlic and herb bread roll (in foil packet)",
+      "portion_estimate": "80 grams",
+      "confidence": 80
+    }
+  ]
+}

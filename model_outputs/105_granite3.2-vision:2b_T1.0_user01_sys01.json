@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "lettuce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "beetroot",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "carrot",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "spinach or arugula",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "feta cheese or crumbled mozzarella",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

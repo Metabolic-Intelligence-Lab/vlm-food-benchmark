@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (fusilli) with tomato sauce and cherry tomatoes",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "potato hash or diced potatoes with bacon bits",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "bacon or cooked pork belly strips",
+      "portion_estimate": "50 grams",
+      "confidence": 75
+    },
+    {
+      "name": "packaged bread roll or roll-up (partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "yogurt or dairy dessert in plastic cup",
+      "portion_estimate": "120 grams",
+      "confidence": 70
+    }
+  ]
+}

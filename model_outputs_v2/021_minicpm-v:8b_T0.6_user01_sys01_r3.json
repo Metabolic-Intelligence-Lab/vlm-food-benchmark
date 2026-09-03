@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Sardines",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Baked fish with breadcrumbs",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Green olives in brine or oil",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Baked potatoes with cheese and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Fried fish",
+      "portion_estimate": "uncertain",
+      "confidence": "35"
+    },
+    {
+      "name": "Black olives in brine or oil",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Dark plums",
+      "portion_estimate": "uncertain",
+      "confidence": "35"
+    },
+    {
+      "name": "A glass of water with a lemon slice",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

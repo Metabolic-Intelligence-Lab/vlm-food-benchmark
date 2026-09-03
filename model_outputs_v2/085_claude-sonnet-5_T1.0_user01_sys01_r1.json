@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "legume and vegetable soup with grated parmesan",
+      "portion_estimate": "350",
+      "confidence": 75
+    },
+    {
+      "name": "baked breaded chicken/vegetable patty with melted cheese",
+      "portion_estimate": "150",
+      "confidence": 55
+    },
+    {
+      "name": "sautéed spinach",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": 80
+    }
+  ]
+}

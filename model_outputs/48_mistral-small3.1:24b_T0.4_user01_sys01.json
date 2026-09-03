@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roasted potatoes with rosemary",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "guacamole with shredded cheese",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "plain bagel",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "150",
+      "confidence": 85
+    }
+  ]
+}

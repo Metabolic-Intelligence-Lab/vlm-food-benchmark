@@ -1,0 +1,26 @@
+{
+  "tray": [
+    {
+      "plate1": {
+        "food": "soup",
+        "color": "green"
+      },
+      "plate2": {
+        "food": "meatballs and mushrooms",
+        "color": "brown"
+      },
+      "plate3": {
+        "food": "macaroni and cheese",
+        "color": "orange"
+      },
+      "glass": {
+        "contents": "water",
+        "color": "clear"
+      },
+      "bagel": {
+        "type": "bagel sandwich",
+        "color": "white"
+      }
+    }
+  ]
+}

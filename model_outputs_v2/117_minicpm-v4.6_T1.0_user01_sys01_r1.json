@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "400g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "cauliflower side",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "meat-filled balls",
+      "portion_estimate": "100g",
+      "confidence": 88
+    }
+  ]
+}

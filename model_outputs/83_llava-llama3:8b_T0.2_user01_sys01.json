@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad (mixed greens and yellow corn)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "yogurt (red container)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

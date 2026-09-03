@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and cheese",
+      "portion_estimate": "200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125 grams",
+      "confidence": 90
+    },
+    {
+      "name": "slice of bread with tomato sauce and cheese",
+      "portion_estimate": "70 grams",
+      "confidence": 85
+    },
+    {
+      "name": "cooked mixed vegetables",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "plastic cup of water",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

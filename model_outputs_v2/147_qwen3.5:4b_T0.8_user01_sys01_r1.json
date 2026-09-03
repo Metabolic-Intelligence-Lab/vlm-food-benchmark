@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fusilli pasta, dry",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "Stuffed vegetable (potato), with sauce",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "Plums, fresh",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "Bun bread, wrapped",
+      "portion_estimate": "60",
+      "confidence": 80
+    }
+  ]
+}

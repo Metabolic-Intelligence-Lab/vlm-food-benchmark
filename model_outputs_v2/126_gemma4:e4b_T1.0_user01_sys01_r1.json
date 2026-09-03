@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (rigatoni style) with cheese topping",
+      "portion_estimate": "180 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "Plain baked bread roll or bun",
+      "portion_estimate": "110 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Saut\u00e9ed green vegetables (possibly zucchini or spinach mash)",
+      "portion_estimate": "90 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Mixed pickled or saut\u00e9ed side vegetables",
+      "portion_estimate": "70 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Clear beverage (likely water)",
+      "portion_estimate": "250 grams",
+      "confidence": "95"
+    }
+  ]
+}

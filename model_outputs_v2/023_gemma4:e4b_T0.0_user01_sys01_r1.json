@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable or Meat Patty/Fritter",
+      "portion_estimate": "110g",
+      "confidence": "85"
+    },
+    {
+      "name": "Grain or Rice Mixture",
+      "portion_estimate": "180g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta (Penne/Ziti style)",
+      "portion_estimate": "220g",
+      "confidence": "95"
+    },
+    {
+      "name": "Fried/Cooked Pieces (Ambiguous, possibly chicken or tofu)",
+      "portion_estimate": "100g",
+      "confidence": "65"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "300g",
+      "confidence": "90"
+    }
+  ]
+}

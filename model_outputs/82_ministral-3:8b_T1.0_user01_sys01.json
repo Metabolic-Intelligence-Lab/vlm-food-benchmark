@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "mixed green salad (lettuce, tomato) on a plate",
+      "portion_estimate": "120g",
+      "confidence": "75"
+    },
+    {
+      "name": "mashed or baked potato dish on a plate",
+      "portion_estimate": "250g",
+      "confidence": "85"
+    },
+    {
+      "name": "steamed or boiled dark leafy greens (e.g., bok choy, broccoli rabe) on a plate",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "whole onion (yellow)",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "packaged tortilla wraps",
+      "portion_estimate": "100g (estimated for 3-4 wraps)",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt or cheese container",
+      "portion_estimate": "uncertain (red packaging, approximately 150ml/yogurt cup)",
+      "confidence": "50"
+    },
+    {
+      "name": "trail mix or small snack bag (inside clear packaging)",
+      "portion_estimate": "uncertain (100g)",
+      "confidence": "60"
+    },
+    {
+      "name": "butter or cream in a plastic cup",
+      "portion_estimate": "uncertain (approximately 60g, small serving)",
+      "confidence": "50"
+    }
+  ]
+}

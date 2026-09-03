@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Steamed rice with herbs",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Potato wedges",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green salad with dressing",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    }
+  ]
+}

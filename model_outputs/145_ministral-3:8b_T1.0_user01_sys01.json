@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup with breadcrumbs",
+      "portion_estimate": "400 grams (main portion, likely broth + solids combined)",
+      "confidence": 85
+    },
+    {
+      "name": "grilled salmon fillet with side of lemon and seasoned vegetables (cauliflower)",
+      "portion_estimate": "200 grams (salmon fillet) + 150 grams (mixed vegetables)",
+      "confidence": 80
+    },
+    {
+      "name": "single-serving yogurt-like product in cylindrical container",
+      "portion_estimate": "120 grams (approx.)",
+      "confidence": 75
+    },
+    {
+      "name": "individual bag of saltine crackers",
+      "portion_estimate": "uncertain (likely 20-30 grams per bag)",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Round bun",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Soup with cheese topping and vegetables",
+      "portion_estimate": "125g (YOMO foodservice container)",
+      "confidence": "90"
+    },
+    {
+      "name": "Saucer of white sauce or condiment",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Rashers of bacon with a dark-colored topping, possibly cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

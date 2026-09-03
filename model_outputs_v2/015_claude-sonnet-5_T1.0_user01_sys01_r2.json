@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "stewed sauerkraut / braised cabbage and onions",
+      "portion_estimate": "120",
+      "confidence": 65
+    },
+    {
+      "name": "pumpkin and carrot stew (zucca in umido)",
+      "portion_estimate": "180",
+      "confidence": 70
+    },
+    {
+      "name": "rice salad balls (insalata di riso, rice with herbs/parmesan)",
+      "portion_estimate": "80",
+      "confidence": 55
+    },
+    {
+      "name": "bread roll (panino), wrapped",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "plum (dark red fruit), wrapped",
+      "portion_estimate": "70",
+      "confidence": 60
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150",
+      "confidence": 50
+    }
+  ]
+}

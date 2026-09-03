@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich or wrap",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "meat or protein (burger or steak)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "green salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

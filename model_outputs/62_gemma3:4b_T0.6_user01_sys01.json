@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Dark Green Leafy Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Cooked Meat (likely beef)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

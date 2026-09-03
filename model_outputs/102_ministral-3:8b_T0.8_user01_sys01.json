@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried cheese dish (likely cheese curds or cheddar bites)",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "baked potato wedges with herbs (seasoned)",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed fruit salad (pineapple and raisins)",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll (whole grain or similar)",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sprite (carbonated lemon/lime soda, partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

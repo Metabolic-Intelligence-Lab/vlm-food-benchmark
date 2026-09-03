@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (likely penne or rigatoni)",
+      "portion_estimate": "200 grams (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "diced tomatoes",
+      "portion_estimate": "50 grams (uncertain)",
+      "confidence": 65
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "30 grams (uncertain)",
+      "confidence": 75
+    },
+    {
+      "name": "chicken breast (shredded)",
+      "portion_estimate": "100 grams (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "mozzarella cheese (shredded)",
+      "portion_estimate": "60 grams (uncertain)",
+      "confidence": 65
+    }
+  ]
+}

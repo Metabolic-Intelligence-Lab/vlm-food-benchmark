@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice with creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "vegetable salad (carrots, broccoli)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "breaded meat or fish (chicken or pork) with mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "creamy soup or sauce with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "fruit salad (apples, oranges/citrus)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

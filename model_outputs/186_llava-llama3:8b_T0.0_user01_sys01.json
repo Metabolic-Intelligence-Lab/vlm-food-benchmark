@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "meat (possibly ham or pork)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "rice (jasmine or basmati)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich (toasted bread, obscured filling)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "chips",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

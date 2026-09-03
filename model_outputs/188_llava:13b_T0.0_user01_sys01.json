@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "minestrone soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "quiche or pie with spinach or kale",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "condiment or sauce (mustard or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "coffee or tea",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

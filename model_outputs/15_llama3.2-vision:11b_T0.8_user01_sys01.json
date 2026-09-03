@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

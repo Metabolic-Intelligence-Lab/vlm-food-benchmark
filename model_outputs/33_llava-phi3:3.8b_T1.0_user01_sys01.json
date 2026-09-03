@@ -1,0 +1,36 @@
+{
+  "food_items": [
+    {
+      "name": "Muffin",
+      "portion_estimate": "45g",
+      "confidence": "90"
+    },
+    {
+      "name": "Burger Patty with vegetables and bread crust",
+      "portion_estimate": "85g",
+      "confidence": "85"
+    },
+    {
+      "name": "Pasta with tomato sauce on a plate",
+      "portion_estimate": "210g",
+      "confidence": "90"
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": "80g",
+      "confidence": "60"
+    }
+  ],
+  "cutlery": [
+    {
+      "item": "Bread roll next to the egg muffin",
+      "portion_estimate": "45g",
+      "confidence": "100"
+    },
+    {
+      "item": "Lunch in a bag with water bottle on the table",
+      "portion_estimate": "230g",
+      "confidence": "60"
+    }
+  ]
+}

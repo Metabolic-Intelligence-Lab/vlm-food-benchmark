@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Farfalle pasta with tomato sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Steamed greens",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Vegetable risotto or pilaf",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Baguette",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Condiment or dip",
+      "portion_estimate": "25g",
+      "confidence": "60"
+    }
+  ]
+}

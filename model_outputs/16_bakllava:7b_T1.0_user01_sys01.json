@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "burger",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apples",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pizza",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "vegetable and meat medley",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fruits and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

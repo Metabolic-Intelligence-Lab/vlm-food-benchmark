@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Tomato dish with sauce",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta salad (bow-tie pasta)",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "75"
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. 120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    }
+  ]
+}

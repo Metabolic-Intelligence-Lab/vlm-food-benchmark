@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "banana",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "100",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "red apple",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "purple cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "red container (sauce/dip)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "clear glass with straw (drink)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

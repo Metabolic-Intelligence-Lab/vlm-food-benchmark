@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken strips",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Penne pasta with green vegetables and red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "White bread toast",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed salad with shredded carrots and purple cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

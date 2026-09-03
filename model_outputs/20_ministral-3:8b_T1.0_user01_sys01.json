@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sliced carrots (approximately 100g)",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "chicken thigh or breast portion with sauce (estimated 150g)",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "whole apple",
+      "portion_estimate": 180,
+      "confidence": 85
+    },
+    {
+      "name": "steamed or boiled brussels sprouts (approximately 150g)",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "water in clear glass (assuming standard glass size of ~250ml)",
+      "portion_estimate": 250,
+      "confidence": 75
+    }
+  ]
+}

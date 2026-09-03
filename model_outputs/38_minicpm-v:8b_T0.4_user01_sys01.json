@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted Brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Pasta with cheese and mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "150-200 grams",
+      "confidence": 90
+    }
+  ]
+}

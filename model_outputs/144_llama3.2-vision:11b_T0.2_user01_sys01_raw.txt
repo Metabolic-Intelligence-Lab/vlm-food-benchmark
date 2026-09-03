@@ -1,0 +1,53 @@
+Here is the food image:
+
+**Food Image Description**
+
+*   The image shows a tray of food with a variety of dishes.
+*   The tray is black and has a white paper lining.
+*   There are several dishes on the tray, including:
+    *   A bowl of pasta with a creamy sauce and grated cheese on top.
+    *   A plate of sliced meat or fish, possibly chicken or salmon.
+    *   A side salad with mixed greens, cherry tomatoes, and cucumber slices.
+    *   A slice of bread or a roll.
+    *   A small bowl of fruit, possibly grapes or berries.
+*   The background of the image is a white table or countertop.
+
+**Food Items and Portion Sizes**
+
+*   Pasta: 1/2 cup (120g)
+*   Meat/Fish: 3 oz (85g)
+*   Salad: 1 cup (30g)
+*   Bread/ Roll: 1 slice (30g)
+*   Fruit: 1/2 cup (60g)
+
+**Confidence Level**
+
+*   The confidence level for each food item is 100%, as they are all clearly visible and identifiable.
+
+**Food Items List**
+
+*   {
+    "name": "Pasta",
+    "portion_estimate": "120g",
+    "confidence": "100"
+    },
+*   {
+    "name": "Meat/Fish",
+    "portion_estimate": "85g",
+    "confidence": "100"
+    },
+*   {
+    "name": "Salad",
+    "portion_estimate": "30g",
+    "confidence": "100"
+    },
+*   {
+    "name": "Bread/ Roll",
+    "portion_estimate": "30g",
+    "confidence": "100"
+    },
+*   {
+    "name": "Fruit",
+    "portion_estimate": "60g",
+    "confidence": "100"
+    }

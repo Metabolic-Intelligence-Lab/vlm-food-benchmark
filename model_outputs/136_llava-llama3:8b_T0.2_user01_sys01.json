@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta salad",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sausage or ground beef",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

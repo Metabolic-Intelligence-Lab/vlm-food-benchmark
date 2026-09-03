@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked farfalle pasta (plain/lightly sauced)",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated hard cheese (parmesan-like) on pasta",
+      "portion_estimate": "12 g",
+      "confidence": "70"
+    },
+    {
+      "name": "crumbled white cheese (feta-like) on pasta",
+      "portion_estimate": "10 g",
+      "confidence": "62"
+    },
+    {
+      "name": "banana (whole, with peel)",
+      "portion_estimate": "120 g",
+      "confidence": "88"
+    },
+    {
+      "name": "slice of white/semolina bread",
+      "portion_estimate": "45 g",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed cooked legumes and vegetables (broad beans/fava with carrots)",
+      "portion_estimate": "200 g",
+      "confidence": "72"
+    },
+    {
+      "name": "omelet or egg-based slice (possibly with vegetables)",
+      "portion_estimate": "110 g",
+      "confidence": "60"
+    }
+  ]
+}

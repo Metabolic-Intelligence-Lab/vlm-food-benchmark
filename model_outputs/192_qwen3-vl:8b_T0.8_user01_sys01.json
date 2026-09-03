@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken Schnitzel",
+      "portion_estimate": "150g",
+      "confidence": 100
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "Tteokbokki",
+      "portion_estimate": "150g",
+      "confidence": 100
+    },
+    {
+      "name": "Lemon",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200g",
+      "confidence": 100
+    }
+  ]
+}

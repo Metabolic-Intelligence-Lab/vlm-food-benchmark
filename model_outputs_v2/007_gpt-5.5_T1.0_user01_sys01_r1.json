@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed green salad with carrot shreds",
+      "portion_estimate": "80 g",
+      "confidence": "85"
+    },
+    {
+      "name": "breaded fried cutlet or croquette",
+      "portion_estimate": "90 g",
+      "confidence": "75"
+    },
+    {
+      "name": "chickpea soup or stew with grated cheese",
+      "portion_estimate": "350 g",
+      "confidence": "85"
+    }
+  ]
+}

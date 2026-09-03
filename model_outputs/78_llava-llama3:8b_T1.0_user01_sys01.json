@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "slice of orange bread",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "red peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "yellow squash",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "whole oranges",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "yellow spread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "orange sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

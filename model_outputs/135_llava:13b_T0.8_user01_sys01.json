@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Shakshuka with meat and sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Potatoes or rice with spices and sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Small tray with garnish",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

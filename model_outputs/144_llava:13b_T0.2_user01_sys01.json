@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with vegetables and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sandwich or wrap",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "baked beans",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "salad or cooked vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

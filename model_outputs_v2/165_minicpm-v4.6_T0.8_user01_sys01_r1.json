@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green soup",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "100 g",
+      "confidence": 8
+    },
+    {
+      "name": "small yogurt cup",
+      "portion_estimate": "15 g",
+      "confidence": 9
+    },
+    {
+      "name": "beverage (glass)",
+      "portion_estimate": "250 ml (~210 g)",
+      "confidence": 9
+    },
+    {
+      "name": "patty with zucchini",
+      "portion_estimate": "120 g",
+      "confidence": 8
+    },
+    {
+      "name": "mashed potato",
+      "portion_estimate": "200 g",
+      "confidence": 9
+    },
+    {
+      "name": "cheese stick",
+      "portion_estimate": "50 g",
+      "confidence": 9
+    }
+  ]
+}

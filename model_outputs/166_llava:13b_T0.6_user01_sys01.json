@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce (spaghetti bolognese or rigatoni alla vodka)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "greens (spinach or similar leafy green)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich or burger with chicken or turkey filling, lettuce, and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "small plastic container (salad or dessert)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "condiment packets (ketchup and mustard)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "small plastic cup (beverage)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "napkin roll with paper napkins",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "plastic spoon or fork",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

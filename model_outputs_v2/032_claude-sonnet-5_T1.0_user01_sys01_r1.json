@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "orecchiette pasta with tomato sauce and grated cheese",
+      "portion_estimate": "280",
+      "confidence": 75
+    },
+    {
+      "name": "cherry tomatoes, halved, cooked",
+      "portion_estimate": "60",
+      "confidence": 65
+    },
+    {
+      "name": "grated hard cheese (parmesan-style) topping",
+      "portion_estimate": "15",
+      "confidence": 55
+    }
+  ]
+}

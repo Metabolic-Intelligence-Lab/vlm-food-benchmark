@@ -1,0 +1,53 @@
+Based on the image description, the distinct visible food and beverage items are identified along with their approximate total weights. Each item is assessed based on typical serving sizes for common foods, considering the visual context of the meal. The weights are rounded to the nearest 10 grams for practicality, and confidence levels reflect the reliability of the estimation (higher confidence = more certain).
+
+### List of Items with Total Weights:
+1. **Grilled Fish**  
+   - *Weight:* ~150 grams  
+   - *Confidence:* 85%  
+   - *Reason:* The fish appears as a single, whole serving (e.g., a fillet or piece), which is typical for a main course. Standard grilled fish portions range from 100–180 g, so 150 g is reasonable.
+
+2. **Pasta**  
+   - *Weight:* ~120 grams  
+   - *Confidence:* 80%  
+   - *Reason:* The pasta is in a bowl, likely cooked and mixed with sauce. A standard serving of pasta (e.g., penne or spaghetti) for a meal is 100–150 g, so 120 g is a plausible estimate.
+
+3. **Plums**  
+   - *Weight:* ~150 grams  
+   - *Confidence:* 75%  
+   - *Reason:* Three plums are visible. A single plum weighs about 40–60 g (averaging 50 g), so three plums total ~150 g. Plums are not grapes, as they are larger and have a distinct shape.
+
+4. **Mashed Potatoes**  
+   - *Weight:* ~100 grams  
+   - *Confidence:* 80%  
+   - *Reason:* The creamy, lumpy dish matches mashed potatoes. A typical serving size is 100–150 g, and the portion appears standard for a side dish.
+
+5. **Bread Roll**  
+   - *Weight:* ~40 grams  
+   - *Confidence:* 85%  
+   - *Reason:* The bread roll is a single, small roll (e.g., a dinner roll or bagel slice). A standard roll weighs 30–50 g, so 40 g is accurate.
+
+6. **Butter**  
+   - *Weight:* ~15 grams  
+   - *Confidence:* 90%  
+   - *Reason:* The butter is in a small stick or packet. A single serving of butter (e.g., for cooking or spreading) is typically 10–20 g, so 15 g is very specific to the item.
+
+### Summary of Total Weight by Item:
+| Item             | Total Weight | Confidence |
+|------------------|--------------|------------|
+| Grilled Fish     | 150 g        | 85%        |
+| Pasta            | 120 g        | 80%        |
+| Plums            | 150 g        | 75%        |
+| Mashed Potatoes  | 100 g        | 80%        |
+| Bread Roll       | 40 g         | 85%        |
+| Butter           | 15 g         | 90%        |
+
+### Notes:
+- **Why no beverage items?** The description does not mention any drinks (e.g., water, juice, or soda), so none were included.
+- **Weight estimates:** These are based on standard cooking and food service guidelines. For example:
+  - Plums: ~50 g each (e.g., from USDA data on fresh fruit weights).
+  - Butter: A "single serving" in culinary contexts is usually 15 g (e.g., a small cube for baking).
+- **Confidence factors:**  
+  - High confidence (85%+) reflects items with clear visual cues (e.g., the bread roll is visibly small, and butter is distinctly packaged).  
+  - Medium confidence (75–80%) accounts for items where visual estimation has minor uncertainties (e.g., pasta or plums can vary by type or cooking method).
+
+This list covers all distinct visible items in the meal context. If the image contains additional elements (e.g., sauce or garnishes), they would need to be assessed separately.

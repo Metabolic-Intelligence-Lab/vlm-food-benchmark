@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with tomatoes",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "diced orange fruit (possibly mango or papaya)",
+      "portion_estimate": "100 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "80 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "bottled water",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with grated cheese",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Baked potato",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Lentils",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Breaded and fried item",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    }
+  ]
+}

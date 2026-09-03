@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spinach/fresh greens with fried egg and mushrooms",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "pasta with tomato sauce and herbs (penne or fusilli)",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "cucumber and lettuce salad (on a tray)",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "bagel/tartine bread",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "plain water (glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "crustless cheese or quiche (plastic-wrapped)",
+      "portion_estimate": "150",
+      "confidence": 70
+    }
+  ]
+}

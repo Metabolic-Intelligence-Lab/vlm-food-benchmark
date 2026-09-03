@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with breaded/gratin topping (au gratin style)",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "breaded fish fillet (baked/pan-fried)",
+      "portion_estimate": "90",
+      "confidence": 65
+    },
+    {
+      "name": "mixed diced vegetables (carrots, celery, onions)",
+      "portion_estimate": "120",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt or fruit cup, sealed cup (Santa Lucia brand)",
+      "portion_estimate": "125",
+      "confidence": 55
+    },
+    {
+      "name": "banana (partially visible, top of image)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pickled vegetable mix (e.g., pickled papaya/cabbage)",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread bun or savory roll",
+      "portion_estimate": "90g",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried protein pieces (e.g., fried chicken or tofu)",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "White topping or filling (Small mound, possibly rice or mashed potato)",
+      "portion_estimate": "40g",
+      "confidence": "85"
+    },
+    {
+      "name": "Second white topping or filling (Small mound, possibly rice or mashed potato)",
+      "portion_estimate": "40g",
+      "confidence": "85"
+    }
+  ]
+}

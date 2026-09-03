@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup (likely miso or vegetable)",
+      "portion_estimate": "300 grams",
+      "confidence": 75
+    },
+    {
+      "name": "dried or fried seaweed/snack (e.g., nori or kinpira gobo)",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "baked or boiled egg",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "orange (segmented)",
+      "portion_estimate": "150 grams (half of a typical orange)",
+      "confidence": 85
+    },
+    {
+      "name": "water (in clear glass)",
+      "portion_estimate": "uncertain (no visible scale reference)",
+      "confidence": 30
+    }
+  ]
+}

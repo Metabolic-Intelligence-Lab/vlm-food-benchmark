@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with Vegetables and Apple",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 90
+    },
+    {
+      "name": "Mixed Vegetables",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 80
+    },
+    {
+      "name": "Green Apple",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 70
+    }
+  ]
+}

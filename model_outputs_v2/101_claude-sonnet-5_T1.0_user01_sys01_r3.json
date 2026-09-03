@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with light sauce/oil",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (panino), plastic wrapped",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "shredded boiled meat or fish (possibly tripe or chicken)",
+      "portion_estimate": "120",
+      "confidence": "40"
+    },
+    {
+      "name": "fruit yogurt cup (mixed berries flavor)",
+      "portion_estimate": "125",
+      "confidence": "85"
+    },
+    {
+      "name": "baked dish with golden glazed top, possibly fish or vegetable bake, served with lemon wedge",
+      "portion_estimate": "150",
+      "confidence": "35"
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "10",
+      "confidence": "70"
+    }
+  ]
+}

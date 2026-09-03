@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "salsa",
+      "portion_estimate": "spoonful",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Bread with butter",
+      "portion_estimate": "2 slices",
+      "confidence": "80"
+    },
+    {
+      "name": "Sandwich with meat and cheese",
+      "portion_estimate": "1 sandwich",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "1 serving",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll with butter",
+      "portion_estimate": "1 roll",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta salad with broccoli and carrots",
+      "portion_estimate": "1 serving",
+      "confidence": "60"
+    },
+    {
+      "name": "Fruit salad with grapes and berries",
+      "portion_estimate": "1 serving",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "food_items": [
+    {
+      "name": "Plate of vegetables",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Plate of fish",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "Package of beans",
+      "portion_estimate": "70g",
+      "confidence": 60
+    },
+    {
+      "name": "Bread with a brown wrapper",
+      "portion_estimate": "95g",
+      "confidence": 85
+    },
+    {
+      "name": "Package of dried cherries",
+      "portion_estimate": "40g",
+      "confidence": 70
+    }
+  ],
+  "tray": [
+    "a tray with a variety of food items on it"
+  ]
+}

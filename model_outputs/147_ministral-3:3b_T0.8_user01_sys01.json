@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "stuffed mushroom cap (dinner roll or sausage-like item)",
+      "portion_estimate": "50g",
+      "confidence": 75
+    },
+    {
+      "name": "pitted prunes (dried plums)",
+      "portion_estimate": "20g",
+      "confidence": 90
+    },
+    {
+      "name": "roasted vegetable medley (with potatoes, carrots, and green beans in sauce)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150g",
+      "confidence": 90
+    }
+  ]
+}

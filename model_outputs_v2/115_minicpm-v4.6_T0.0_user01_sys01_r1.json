@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "vegetable salad",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "meatballs in tomato sauce",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "whole grain bread",
+      "portion_estimate": "50g",
+      "confidence": 85
+    }
+  ]
+}

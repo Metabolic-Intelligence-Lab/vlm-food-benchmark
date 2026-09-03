@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Salad (in the bowl)",
+      "portion_estimate": "150 g",
+      "confidence": "100"
+    },
+    {
+      "name": "Diced potatoes (on the main plate)",
+      "portion_estimate": "100 g",
+      "confidence": "100"
+    },
+    {
+      "name": "Baked item (round with toppings)",
+      "portion_estimate": "15-20 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mango (the red fruit)",
+      "portion_estimate": "100 g",
+      "confidence": "100"
+    },
+    {
+      "name": "Bread roll (in the plastic wrap)",
+      "portion_estimate": "10-15 g",
+      "confidence": "100"
+    }
+  ]
+}

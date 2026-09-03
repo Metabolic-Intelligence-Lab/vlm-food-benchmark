@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "meat with sauce or gravy",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "cooked vegetables (broccoli and potatoes)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "pasta (macaroni or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roll (bun or bread roll)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "lemon slices",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "butternut squash puree/soup in plastic container",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "baked rigatoni with tomato-based sauce (served on the top plate)",
+      "portion_estimate": "200g",
+      "confidence": 75
+    },
+    {
+      "name": "saut\u00e9ed broccoli florets (on the left plate)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "cheesy baked pasta/tortellini with mixed vegetables (on the left plate)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "oranges",
+      "portion_estimate": "150g (total for both)",
+      "confidence": 70
+    }
+  ]
+}

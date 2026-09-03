@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish (fusilli/rotini with sauce)",
+      "portion_estimate": "220",
+      "confidence": "95"
+    },
+    {
+      "name": "Baked or pan-fried white protein (fish or chicken)",
+      "portion_estimate": "140",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked green beans",
+      "portion_estimate": "180",
+      "confidence": "95"
+    },
+    {
+      "name": "Small tomato or roasted vegetable side",
+      "portion_estimate": "30",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll or bun",
+      "portion_estimate": "90",
+      "confidence": "90"
+    }
+  ]
+}

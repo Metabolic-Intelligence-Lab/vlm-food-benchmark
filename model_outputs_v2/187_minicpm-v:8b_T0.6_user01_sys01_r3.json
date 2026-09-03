@@ -1,0 +1,30 @@
+{
+  "food_items": [
+    {
+      "name": "Mozzarella sticks",
+      "portion_estimate": "uncertain, estimated at approximately 50g each",
+      "confidence": "60"
+    },
+    {
+      "name": "Cannelloni pasta with tomato sauce",
+      "portion_estimate": "uncertain, estimated at approximately 100g per serving",
+      "confidence": "70"
+    },
+    {
+      "name": "Green beans and roasted potatoes",
+      "portion_estimate": "uncertain, estimated at approximately 50-60g each for green beans and potato, total portion estimate: uncertain but approximated to be around a serving size of typical dinner plate (7.4cm diameter)",
+      "confidence": "60"
+    },
+    {
+      "name": "Ricotta cheese",
+      "portion_estimate": "uncertain, estimated at approximately 30g per container",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain but approximated to be a standard dinner bun size (approximately 8.6cm diameter)",
+      "confidence": "70"
+    }
+  ],
+  "confidence": "50-80"
+}

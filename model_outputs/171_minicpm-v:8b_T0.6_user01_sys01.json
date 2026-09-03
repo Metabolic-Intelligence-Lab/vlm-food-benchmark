@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "steamed green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "red cabbage",
+      "portion_estimate": "1/2 cup",
+      "confidence": "70"
+    },
+    {
+      "name": "muffin with nut topping (possibly banana-nut)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

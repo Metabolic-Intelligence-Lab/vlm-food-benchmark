@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "quiche slice with carrot and potato mix",
+      "portion_estimate": "250g",
+      "confidence": 75
+    },
+    {
+      "name": "mixed grain salad with corn, peas, diced meat, and roasted vegetables",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "whole mandarin oranges",
+      "portion_estimate": "200g (2 oranges)",
+      "confidence": 85
+    }
+  ]
+}

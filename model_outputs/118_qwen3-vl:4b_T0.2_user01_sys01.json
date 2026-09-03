@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "name": "penne pasta with tomato sauce and parmesan cheese",
+      "portion": 180,
+      "unit": "g",
+      "confidence": 70
+    },
+    {
+      "name": "diced potatoes with herbs",
+      "portion": 150,
+      "unit": "g",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt",
+      "portion": 100,
+      "unit": "g",
+      "confidence": 80
+    },
+    {
+      "name": "corn on the cob",
+      "portion": 150,
+      "unit": "g",
+      "confidence": 70
+    },
+    {
+      "name": "tuna patty",
+      "portion": 100,
+      "unit": "g",
+      "confidence": 70
+    }
+  ]
+}

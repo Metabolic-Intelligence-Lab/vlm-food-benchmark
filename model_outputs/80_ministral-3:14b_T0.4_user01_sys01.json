@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetable and rice pilaf",
+      "portion_estimate": "300",
+      "confidence": 90
+    },
+    {
+      "name": "roasted or baked potato wedges with cheese and broccoli topping",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt drink (unsweetened, likely dairy-based)",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "hard-boiled egg",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "butter packet (partially visible)",
+      "portion_estimate": "14",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked penne pasta (with oil/butter)",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "saut\u00e9ed spinach (or similar leafy green)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "grilled or baked fish fillet (with yellow sauce, possibly lemon butter)",
+      "portion_estimate": "150g",
+      "confidence": 88
+    },
+    {
+      "name": "whole wheat or white bread roll (partially wrapped in plastic)",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "cherry tomatoes (3 medium)",
+      "portion_estimate": "80g",
+      "confidence": 90
+    }
+  ]
+}

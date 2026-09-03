@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "meatballs with gravy",
+      "portion_estimate": "150 g",
+      "confidence": "60"
+    },
+    {
+      "name": "fried vegetables",
+      "portion_estimate": "200 g",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed green salad",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "whole grain bread rolls (2)",
+      "portion_estimate": "2 pieces",
+      "confidence": "90"
+    },
+    {
+      "name": "soup in a bowl",
+      "portion_estimate": "300 ml",
+      "confidence": "60"
+    }
+  ]
+}

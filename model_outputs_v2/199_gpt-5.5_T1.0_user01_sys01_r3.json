@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pesto penne pasta with grated cheese",
+      "portion_estimate": "200 g",
+      "confidence": "90"
+    },
+    {
+      "name": "green peas with small pieces of ham",
+      "portion_estimate": "160 g",
+      "confidence": "85"
+    },
+    {
+      "name": "uncertain savory baked roll or flan",
+      "portion_estimate": "80 g",
+      "confidence": "45"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "90"
+    }
+  ]
+}

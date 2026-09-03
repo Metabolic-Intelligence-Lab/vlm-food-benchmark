@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "quiche or savory pie slice",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "broccoli florets (roasted)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "cream soup in bowl (likely potato or butternut squash)",
+      "portion_estimate": "250g",
+      "confidence": 75
+    },
+    {
+      "name": "packaged roll or breadstick",
+      "portion_estimate": "uncertain (likely 50-80g)",
+      "confidence": 50
+    },
+    {
+      "name": "whole apple",
+      "portion_estimate": "180g",
+      "confidence": 90
+    }
+  ]
+}

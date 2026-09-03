@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green Curry Soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Crispy Chicken Cutlet",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Cucumber Salad",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "125g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

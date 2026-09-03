@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "230 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated parmesan cheese (on pasta)",
+      "portion_estimate": "8 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked spinach",
+      "portion_estimate": "140 g",
+      "confidence": "72"
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "55 g",
+      "confidence": "82"
+    },
+    {
+      "name": "mashed potato patty/croquette (round)",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "170 g",
+      "confidence": "83"
+    }
+  ]
+}

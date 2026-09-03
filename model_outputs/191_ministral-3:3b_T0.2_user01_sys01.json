@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "100 grams (approx. 6-8 slices)",
+      "confidence": 90
+    },
+    {
+      "name": "falafel balls",
+      "portion_estimate": "50 grams (approx. 2 medium-sized balls)",
+      "confidence": 85
+    },
+    {
+      "name": "green soup (likely lentil or vegetable-based)",
+      "portion_estimate": "200 grams (bowl size estimate)",
+      "confidence": 80
+    },
+    {
+      "name": "packaged tomato sauce (Torinese brand)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "potato or rice-based side (from packaging)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

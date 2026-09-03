@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Penne",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Tomato sauce",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Grated Parmesan",
+      "portion_estimate": "20g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "food_items": [
+    {
+      "name": "Orange carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Green beans with cheese sauce",
+      "portion_estimate": "approx. 120g (assuming standard serving size)",
+      "confidence": "80"
+    },
+    {
+      "name": "Pretzel bun, likely from a store-bought package or deli style bread",
+      "portion_estimate": "uncertain, approximately the same weight as an average pretzel bun which can range from 50-120g depending on size and type",
+      "confidence": "60"
+    },
+    {
+      "name": "Brown sauce in plastic container with a spoon included, likely gravy or barbecue sauce.",
+      "portion_estimate": "uncertain, approximately the same weight as an average small jar of this kind which can range from 100-350g depending on brand and type",
+      "confidence": "60"
+    },
+    {
+      "name": "White plate with a serving of vegetables (possibly carrot pieces) served alongside what appears to be chicken breast or pork tenderloin, possibly covered in cheese",
+      "portion_estimate": "uncertain, approximately the same weight as an average portion size for this type of protein which can range from 100-250g depending on cut and preparation method.",
+      "confidence": "60"
+    },
+    {
+      "name": "White plate with a serving of what appears to be meat covered in gravy, possibly chicken or pork",
+      "portion_estimate": "uncertain, approximately the same weight as an average portion size for this type of protein which can range from 150-300g depending on cut and preparation method.",
+      "confidence": "60"
+    }
+  ],
+  "total_weight": "approx. estimated total based on typical serving sizes",
+  "confidence": "overall confidence is approximately '60', assuming standard portion sizes for these types of foods."
+}

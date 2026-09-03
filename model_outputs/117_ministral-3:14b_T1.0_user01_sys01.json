@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy spinach soup with grated cheese topping",
+      "portion_estimate": "450",
+      "confidence": 85
+    },
+    {
+      "name": "fried bread pieces (potato or cassava-based) with cabbage salad",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "baguette roll (partially wrapped in plastic)",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "plastic container of light spread (e.g., margarine or cheese spread, partially visible)",
+      "portion_estimate": "30",
+      "confidence": 70
+    },
+    {
+      "name": "sausage or meat patty (on the side of cabbage salad)",
+      "portion_estimate": "35",
+      "confidence": 75
+    }
+  ]
+}

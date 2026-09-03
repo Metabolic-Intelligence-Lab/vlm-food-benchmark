@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato-based sauce and mixed vegetables",
+      "portion_estimate": "250 g",
+      "confidence": "78"
+    },
+    {
+      "name": "bread roll pieces (white bread)",
+      "portion_estimate": "60 g",
+      "confidence": "72"
+    },
+    {
+      "name": "strawberry yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "80"
+    },
+    {
+      "name": "baked fish fillet pieces (white fish)",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    },
+    {
+      "name": "mashed orange vegetable (likely pumpkin or sweet potato)",
+      "portion_estimate": "120 g",
+      "confidence": "58"
+    },
+    {
+      "name": "tomato slice with crumb topping (baked/grilled)",
+      "portion_estimate": "30 g",
+      "confidence": "63"
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "15 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "88"
+    }
+  ]
+}

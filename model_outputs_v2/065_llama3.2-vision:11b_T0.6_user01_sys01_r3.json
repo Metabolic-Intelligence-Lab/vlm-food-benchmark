@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green Salad",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mushroom Patty",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    }
+  ]
+}

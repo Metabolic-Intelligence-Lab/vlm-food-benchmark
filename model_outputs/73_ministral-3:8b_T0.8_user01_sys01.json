@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and cheese (likely macaroni or penne) with visible chunks of cheese and herbs",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "fried or roasted brussels sprouts",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "white fish fillet (likely breaded or coated with herbs) with a portion of sauce or garnish",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "single-serve packet of tomato-based sauce (e.g., TOMO sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "small glass container with powdered sugar or powdered drink mix (white powder)",
+      "portion_estimate": "uncertain (likely 30-50 grams)",
+      "confidence": 35
+    },
+    {
+      "name": "baguette or French bread roll, partially wrapped in plastic",
+      "portion_estimate": "75 grams",
+      "confidence": 85
+    }
+  ]
+}

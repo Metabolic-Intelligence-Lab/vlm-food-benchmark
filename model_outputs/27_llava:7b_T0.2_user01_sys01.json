@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Green salad",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded meat patty",
+      "portion_estimate": "125 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Green vegetables in a bowl",
+      "portion_estimate": "75 grams",
+      "confidence": "70"
+    }
+  ]
+}

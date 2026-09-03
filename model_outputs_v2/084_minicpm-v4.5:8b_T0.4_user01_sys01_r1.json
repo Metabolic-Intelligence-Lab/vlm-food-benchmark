@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed broccoli and diced potatoes",
+      "portion_estimate": "200-250g",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetable stir-fry (peas, carrots, potatoes, mushrooms)",
+      "portion_estimate": "150-200g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50-70g",
+      "confidence": 80
+    },
+    {
+      "name": "breaded and baked meat patty with tomato",
+      "portion_estimate": "120-150g",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (small container)",
+      "portion_estimate": "50-60g",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "sautéed spinach",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed lettuce and radicchio salad",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit yogurt (berry flavor)",
+      "portion_estimate": "125",
+      "confidence": "65"
+    },
+    {
+      "name": "water in plastic cup",
+      "portion_estimate": "200",
+      "confidence": "55"
+    }
+  ],
+  "food_items_note": "uncertain"
+}

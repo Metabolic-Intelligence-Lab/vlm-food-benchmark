@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole banana",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "penne pasta with cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "grilled mushroom and green bean mix",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "plain water (from glass)",
+      "portion_estimate": "200 milliliters (approx. 200 grams)",
+      "confidence": 70
+    },
+    {
+      "name": "unopened orange (on tray)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

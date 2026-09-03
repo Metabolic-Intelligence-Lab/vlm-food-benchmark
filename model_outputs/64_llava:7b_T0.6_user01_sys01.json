@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried potatoes (home fries)",
+      "portion_estimate": "120g",
+      "confidence": "60"
+    },
+    {
+      "name": "Egg omelette with cheese and ham",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ]
+}

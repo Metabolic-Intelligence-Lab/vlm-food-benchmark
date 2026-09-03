@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese (pappardelle or similar) and meat rag\u00f9",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "baked dish with broccoli and cheese topping (likely a baked pasta or casserole)",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "diced potatoes (likely part of the baked dish)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "whole lemon",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "buttered bread or roll (partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

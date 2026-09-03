@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "frosted pastry",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "striped pastry",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "juice",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

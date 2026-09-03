@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken noodle soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "cooked greens or vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sambal",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

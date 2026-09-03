@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed chicken",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed vegetables (green and yellow) with a hint of tomato",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "White bread in plastic wrap",
+      "portion_estimate": "uncertain, small portion size likely 25-30 grams each piece",
+      "confidence": "60"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain, possibly a medium-sized head estimated at around 100-150 grams",
+      "confidence": "40"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "uncertain, likely small portion size estimated between 60-80 grams each fruit",
+      "confidence": "30"
+    }
+  ]
+}

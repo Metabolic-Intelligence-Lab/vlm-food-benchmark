@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "plate of food",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "bowl of beans and pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "wrapped sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "piece of cake",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "piece of fruit, possibly an apple",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "couple of donuts",
+      "portion_estimate": "uncertain",
+      "confidence": 68
+    },
+    {
+      "name": "cup with a beverage in it",
+      "portion_estimate": "uncertain",
+      "confidence": 62
+    }
+  ]
+}

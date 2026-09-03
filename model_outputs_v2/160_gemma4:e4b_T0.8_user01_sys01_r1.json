@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy Soup or Porridge",
+      "portion_estimate": "350g",
+      "confidence": "95"
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "200g",
+      "confidence": "95"
+    },
+    {
+      "name": "Small Bread/Side Dish",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

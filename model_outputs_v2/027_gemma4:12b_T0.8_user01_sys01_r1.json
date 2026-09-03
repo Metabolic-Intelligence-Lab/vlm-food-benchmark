@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "meat with tomato sauce and herbs",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "saut\u00e9ed leafy greens",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "pasta in tomato sauce with cheese",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "white milky beverage",
+      "portion_estimate": "300g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70g",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole grain roll",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "cheese tortellini with mushrooms",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "vegetable quiche",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "sliced vegetables with herbs",
+      "portion_estimate": "100",
+      "confidence": 80
+    }
+  ]
+}

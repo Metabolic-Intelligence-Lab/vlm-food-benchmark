@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with creamy tomato sauce",
+      "portion_estimate": "260 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated parmesan cheese (topping on pasta)",
+      "portion_estimate": "8 g",
+      "confidence": "65"
+    },
+    {
+      "name": "cooked Brussels sprouts",
+      "portion_estimate": "180 g",
+      "confidence": "72"
+    },
+    {
+      "name": "mixed salad (cucumber slices, leafy greens/radicchio, shredded carrot, onion)",
+      "portion_estimate": "170 g",
+      "confidence": "70"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50 g",
+      "confidence": "75"
+    },
+    {
+      "name": "banana (with peel)",
+      "portion_estimate": "120 g",
+      "confidence": "76"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "250 g",
+      "confidence": "85"
+    }
+  ]
+}

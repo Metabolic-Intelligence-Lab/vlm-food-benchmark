@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable Ball with Orange Slice",
+      "portion_estimate": "60 g",
+      "confidence": 95
+    },
+    {
+      "name": "Carrot Slices",
+      "portion_estimate": "200 g",
+      "confidence": 95
+    },
+    {
+      "name": "Green Beans (Fresh)",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "Apple (Fresh)",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt (Plain, Greek Style)",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "Bread Slice",
+      "portion_estimate": "30 g",
+      "confidence": 95
+    }
+  ]
+}

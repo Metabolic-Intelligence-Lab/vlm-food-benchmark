@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Peach",
+      "portion_estimate": "1/2",
+      "confidence": "80"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250g",
+      "confidence": "95"
+    }
+  ]
+}

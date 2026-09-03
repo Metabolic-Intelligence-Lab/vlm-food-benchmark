@@ -1,0 +1,17 @@
+The image shows a bowl of food with some visible ingredients such as what appears to be soup and a dark green leafy vegetable, possibly spinach. The soup has a reddish-brown broth and there are herbs or spices floating on top. Due to the limitations of a text-based description, I cannot provide specific details about the ingredients or their proportions within the dish.
+
+Based on the image provided, here is an example of how you might structure your JSON output:
+
+```json
+{
+  "food_items": [
+    {
+      "name": "Soup with greens",
+      "portion_estimate": "approx. 250 grams",
+      "confidence": 60
+    }
+  ]
+}
+```
+
+Please note that the portion estimate is an approximation and the confidence level should reflect how certain you are about the quantity of food shown in the image. In this case, I've set it to a medium level as there may be some uncertainty due to the angle and focus of the photo.

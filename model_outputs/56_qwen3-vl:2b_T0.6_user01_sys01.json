@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "30",
+      "confidence": "90"
+    },
+    {
+      "name": "gnocchi pasta",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": "90"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "10",
+      "confidence": "90"
+    }
+  ]
+}

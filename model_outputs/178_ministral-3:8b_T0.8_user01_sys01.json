@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with herbs (fettuccine or similar)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "baked or fried fish fillet with breadcrumbs",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "fried or baked potato wedges",
+      "portion_estimate": "110 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole lemon",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "baguette-style roll or bread",
+      "portion_estimate": "70 grams",
+      "confidence": 75
+    },
+    {
+      "name": "yellow butter or spread in packet",
+      "portion_estimate": "uncertain (packet size not clearly visible)",
+      "confidence": 50
+    }
+  ]
+}

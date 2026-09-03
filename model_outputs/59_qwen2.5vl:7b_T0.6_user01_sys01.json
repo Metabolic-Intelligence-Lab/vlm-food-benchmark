@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot salad",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "75",
+      "confidence": "85"
+    },
+    {
+      "name": "Grilled or saut\u00e9ed leafy greens",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "Baked potato with toppings",
+      "portion_estimate": "120",
+      "confidence": "75"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

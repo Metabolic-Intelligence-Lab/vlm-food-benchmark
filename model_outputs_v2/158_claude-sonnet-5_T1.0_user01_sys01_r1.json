@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "roasted potato wedges/chunks in tomato sauce",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "baked frittata/omelette square (egg and cheese bake)",
+      "portion_estimate": "100",
+      "confidence": 60
+    },
+    {
+      "name": "fusilli pasta with tomato sauce and grated cheese",
+      "portion_estimate": "200",
+      "confidence": 75
+    },
+    {
+      "name": "bread roll (panino)",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "yellow apple",
+      "portion_estimate": "130",
+      "confidence": 80
+    },
+    {
+      "name": "breadstick (grissino) in wrapper",
+      "portion_estimate": "10",
+      "confidence": 65
+    }
+  ]
+}

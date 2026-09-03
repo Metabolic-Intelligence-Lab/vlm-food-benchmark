@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Penne with Tomato Sauce and Chicken",
+      "portion_estimate": "250g",
+      "confidence": 80
+    },
+    {
+      "name": "Mixed Greens with Cherry Tomatoes, Cucumber, and Croutons",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "Still Water",
+      "portion_estimate": "500g",
+      "confidence": 90
+    }
+  ]
+}

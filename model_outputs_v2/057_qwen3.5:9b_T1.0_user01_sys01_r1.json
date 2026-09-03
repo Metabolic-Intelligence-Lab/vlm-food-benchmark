@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": 140,
+      "confidence": 95
+    },
+    {
+      "name": "Egg frittata with mushrooms and spinach",
+      "portion_estimate": 120,
+      "confidence": 98
+    },
+    {
+      "name": "Pasta (penne) salad with tomato sauce, basil, and cherry tomatoes",
+      "portion_estimate": 160,
+      "confidence": 92
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": 85,
+      "confidence": 96
+    },
+    {
+      "name": "Bread roll / bun (sealed in plastic)",
+      "portion_estimate": 45,
+      "confidence": 97
+    },
+    {
+      "name": "Squeeze bottle (likely yogurt or drink mix)",
+      "portion_estimate": 120,
+      "confidence": 85
+    }
+  ]
+}

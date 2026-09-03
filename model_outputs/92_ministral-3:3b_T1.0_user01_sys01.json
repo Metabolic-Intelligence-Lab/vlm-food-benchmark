@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "creamy vegetable soup (mushrooms, spinach)",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "small soft bun or bread roll",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "cooked potato wedges with onion topping",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed shredded sauerkraut",
+      "portion_estimate": "80",
+      "confidence": 70
+    },
+    {
+      "name": "ball-shaped meat/fat ball (e.g., potato balls, knedels)",
+      "portion_estimate": "30",
+      "confidence": 60
+    },
+    {
+      "name": "buttered potatoes (slices)",
+      "portion_estimate": "50",
+      "confidence": 80
+    }
+  ]
+}

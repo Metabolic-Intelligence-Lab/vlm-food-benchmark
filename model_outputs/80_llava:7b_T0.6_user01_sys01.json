@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with mixed vegetables",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried potatoes (home fries)",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sausage and eggs",
+      "portion_estimate": "125g",
+      "confidence": "70"
+    },
+    {
+      "name": "Toast with butter",
+      "portion_estimate": "30g",
+      "confidence": "60"
+    },
+    {
+      "name": "Tea bag",
+      "portion_estimate": "1",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with meat sauce",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "roasted potatoes (brussels sprouts or similar veggie)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "grilled fish with greens",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "plain white bread roll",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "plain white yogurt in container (approx TOMO brand)",
+      "portion_estimate": "120",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with tomato-based sauce",
+      "portion_estimate": 250,
+      "confidence": 92
+    },
+    {
+      "name": "Diced hash browns or home fries",
+      "portion_estimate": 180,
+      "confidence": 88
+    },
+    {
+      "name": "Sloppy Joes with shredded lettuce topping",
+      "portion_estimate": 250,
+      "confidence": 85
+    },
+    {
+      "name": "Burger patty wrapped in plastic",
+      "portion_estimate": 150,
+      "confidence": 65
+    }
+  ]
+}

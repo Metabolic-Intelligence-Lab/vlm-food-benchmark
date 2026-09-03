@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "orange soup with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "red container with white lid",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "clear glass cup with water",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sliced meat with vegetables and noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

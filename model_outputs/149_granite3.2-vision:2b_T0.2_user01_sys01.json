@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne or fusilli)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "grapes (red or black)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "condiment packet (garlic powder or parmesan cheese)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

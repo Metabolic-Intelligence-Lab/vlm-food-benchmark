@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "150 g",
+      "confidence": 80
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "40 g",
+      "confidence": 70
+    },
+    {
+      "name": "Peas",
+      "portion_estimate": "20 g",
+      "confidence": 65
+    },
+    {
+      "name": "Celery",
+      "portion_estimate": "25 g",
+      "confidence": 60
+    },
+    {
+      "name": "Cooked Meat",
+      "portion_estimate": "50 g",
+      "confidence": 75
+    }
+  ]
+}

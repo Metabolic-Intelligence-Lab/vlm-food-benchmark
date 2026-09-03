@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "rotini pasta",
+      "portion_estimate": "100-250 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "tomato sauce with meat",
+      "portion_estimate": "150-300 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "vegetable salad",
+      "portion_estimate": "100-250 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "toasted sandwich",
+      "portion_estimate": "250-500 grams",
+      "confidence": "80"
+    }
+  ]
+}

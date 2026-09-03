@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded meat patty (appears to be chicken or pork)",
+      "portion_estimate": "180g",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or saut\u00e9ed kale leaves",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "fried or roasted penne pasta",
+      "portion_estimate": "150g",
+      "confidence": 70
+    },
+    {
+      "name": "sliced lemon wedge (partial, likely 1/2 or 1/3 of a whole lemon)",
+      "portion_estimate": "30g",
+      "confidence": 85
+    },
+    {
+      "name": "water in glass (transparent container)",
+      "portion_estimate": "uncertain (visual estimate unavailable)",
+      "confidence": 50
+    }
+  ]
+}

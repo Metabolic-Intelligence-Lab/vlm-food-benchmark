@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi pasta with cheese",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "lentil soup",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "bread rolls",
+      "portion_estimate": "175g",
+      "confidence": 90
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250ml (approx 85g)",
+      "confidence": 95
+    }
+  ]
+}

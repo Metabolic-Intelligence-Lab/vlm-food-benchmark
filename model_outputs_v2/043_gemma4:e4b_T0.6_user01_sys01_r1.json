@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with grated cheese topping",
+      "portion_estimate": "220",
+      "confidence": "95"
+    },
+    {
+      "name": "Cooked protein fillet (e.g., fish or chicken)",
+      "portion_estimate": "170",
+      "confidence": "85"
+    },
+    {
+      "name": "Mixed chopped vegetables side salad",
+      "portion_estimate": "120",
+      "confidence": "90"
+    }
+  ]
+}

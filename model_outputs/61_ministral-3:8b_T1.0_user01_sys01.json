@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based soup with grated cheese or herbs",
+      "portion_estimate": "450",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetables (potatoes, onions, mushrooms, etc.) with gravy",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "small packet of sugar-free sweetener",
+      "portion_estimate": "uncertain (typically 3-5g)",
+      "confidence": 55
+    }
+  ]
+}

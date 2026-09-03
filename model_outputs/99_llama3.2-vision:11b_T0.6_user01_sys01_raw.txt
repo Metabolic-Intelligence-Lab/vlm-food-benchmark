@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Potato",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mushroom",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Onion",
+      "portion_estimate": "20g",
+      "confidence": "70"
+    },
+    {
+      "name": "Butter",
+      "portion_estimate": "15g",
+      "confidence": "85"
+    }
+  ]
+}

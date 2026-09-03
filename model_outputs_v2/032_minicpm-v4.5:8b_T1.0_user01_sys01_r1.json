@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi",
+      "portion_estimate": "300 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "diced red bell peppers",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "parmesan cheese",
+      "portion_estimate": "30 grams",
+      "confidence": "80"
+    }
+  ]
+}

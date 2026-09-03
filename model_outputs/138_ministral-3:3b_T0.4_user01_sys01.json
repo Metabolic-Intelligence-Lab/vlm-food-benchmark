@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "brown rice",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "black-eyed peas or lentils",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "spinach or dark green leafy vegetable",
+      "portion_estimate": "30",
+      "confidence": 80
+    },
+    {
+      "name": "small pieces of onion or garlic",
+      "portion_estimate": "15",
+      "confidence": 65
+    }
+  ]
+}

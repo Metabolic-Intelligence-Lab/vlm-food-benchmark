@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken patty",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted cauliflower",
+      "portion_estimate": "75",
+      "confidence": "80"
+    },
+    {
+      "name": "chicken and vegetable soup",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "yogurt, mixed fruit",
+      "portion_estimate": "125",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roasted brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "75",
+      "confidence": "85"
+    },
+    {
+      "name": "pasta with mushrooms and sauce",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "40",
+      "confidence": "85"
+    },
+    {
+      "name": "bread slices",
+      "portion_estimate": "30",
+      "confidence": "70"
+    }
+  ]
+}

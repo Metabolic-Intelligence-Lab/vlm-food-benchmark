@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Sliced deli meat on bread",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed vegetables (carrots, peas, cauliflower)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Cheese with crackers",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

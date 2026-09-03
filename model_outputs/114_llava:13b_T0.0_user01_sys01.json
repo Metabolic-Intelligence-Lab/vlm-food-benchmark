@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with meat sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "french fries",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "chicken or fish",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread, possibly garlic bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "ketchup",
+      "portion_estimate": "uncertain",
+      "confidence": 95
+    }
+  ]
+}

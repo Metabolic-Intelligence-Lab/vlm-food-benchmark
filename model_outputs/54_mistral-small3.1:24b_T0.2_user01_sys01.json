@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of pasta with tomato sauce",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "salad with cucumber, cabbage, and dressing",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "potato salad",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt with blueberries",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "80",
+      "confidence": "80"
+    }
+  ]
+}

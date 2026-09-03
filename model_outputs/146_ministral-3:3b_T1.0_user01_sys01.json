@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "salt and pepper flakes packet (plain)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "fried pasta shells (e.g., in butter or oil)",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "crispy waffle or breadstick",
+      "portion_estimate": "approximately 30 grams",
+      "confidence": 95
+    },
+    {
+      "name": "small piece of toast",
+      "portion_estimate": "approximately 20 grams",
+      "confidence": 80
+    },
+    {
+      "name": "black olives or preserved plums",
+      "portion_estimate": "uncertain but one small plum (~3g)",
+      "confidence": 85
+    }
+  ]
+}

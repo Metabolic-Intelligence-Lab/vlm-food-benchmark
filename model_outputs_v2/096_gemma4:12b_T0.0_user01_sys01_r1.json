@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "peach juice carton",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "chocolate-topped sponge cake (left)",
+      "portion_estimate": "90g",
+      "confidence": 85
+    },
+    {
+      "name": "chocolate-topped sponge cake (right)",
+      "portion_estimate": "90g",
+      "confidence": 85
+    }
+  ]
+}

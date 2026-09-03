@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain, approx. slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "Salad (Lettuce and Carrots)",
+      "portion_estimate": "uncertain, bowl full",
+      "confidence": "60"
+    },
+    {
+      "name": "Chickpea Soup or Stew",
+      "portion_estimate": "uncertain, plate size",
+      "confidence": "50"
+    },
+    {
+      "name": "Fried Fish Fillet (Chicken)",
+      "portion_estimate": "uncertain, single fillet on a white plate",
+      "confidence": "60"
+    }
+  ]
+}

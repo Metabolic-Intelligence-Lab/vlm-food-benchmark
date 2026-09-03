@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta shells in tomato sauce with vegetables",
+      "portion_estimate": "250",
+      "confidence": 75
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "baked vegetable and cheese casserole (parmigiana-style)",
+      "portion_estimate": "150",
+      "confidence": 60
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "clementine/mandarin oranges",
+      "portion_estimate": "140",
+      "confidence": 80
+    }
+  ]
+}

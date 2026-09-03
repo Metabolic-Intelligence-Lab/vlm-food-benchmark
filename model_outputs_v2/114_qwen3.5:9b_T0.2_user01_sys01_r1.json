@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Fried potato wedges (fries) with tomato sauce and grated cheese",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Breaded pork cutlet (schnitzel)",
+      "portion_estimate": 140,
+      "confidence": 92
+    },
+    {
+      "name": "Roasted potato wedges",
+      "portion_estimate": 160,
+      "confidence": 93
+    },
+    {
+      "name": "Slice of white bread (wrapped)",
+      "portion_estimate": 45,
+      "confidence": 98
+    },
+    {
+      "name": "Yogurt cup (brand 'Omo')",
+      "portion_estimate": 120,
+      "confidence": 96
+    },
+    {
+      "name": "Pickled cucumber slices",
+      "portion_estimate": 30,
+      "confidence": 85
+    }
+  ]
+}

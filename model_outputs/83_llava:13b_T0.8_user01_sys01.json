@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sliced cooked chicken breast",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    },
+    {
+      "name": "serving of greens (spinach and broccoli)",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    },
+    {
+      "name": "mashed sweet potatoes",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "small bowl of soup (creamy)",
+      "portion_estimate": "80 g",
+      "confidence": "40"
+    },
+    {
+      "name": "package of saltine crackers",
+      "portion_estimate": "15 g",
+      "confidence": "60"
+    }
+  ]
+}

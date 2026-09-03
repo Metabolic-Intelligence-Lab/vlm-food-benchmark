@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Rigatoni with tomato sauce",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    },
+    {
+      "name": "Small baked pastry filled with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Salad with mixed greens, croutons, and dressing",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Rolled sandwich on a white plate",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Side of salad with mixed greens and dressing",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bowl of soup with vegetable toppings",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Two oranges on a plate",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ]
+}

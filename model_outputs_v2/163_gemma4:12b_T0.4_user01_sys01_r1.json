@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green lentil or spinach soup",
+      "portion_estimate": "350",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80",
+      "confidence": 95
+    },
+    {
+      "name": "small container of spread",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "fish fillet with herb crust and sauce",
+      "portion_estimate": "130",
+      "confidence": 90
+    },
+    {
+      "name": "saut\u00e9ed pumpkin and vegetable medley",
+      "portion_estimate": "150",
+      "confidence": 90
+    }
+  ]
+}

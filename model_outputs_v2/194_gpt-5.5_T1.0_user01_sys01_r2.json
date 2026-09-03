@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based soup or stew with vegetables",
+      "portion_estimate": "approximately 300 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked salmon fillet with sauce",
+      "portion_estimate": "approximately 90 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked leafy greens",
+      "portion_estimate": "approximately 70 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "shredded purple cabbage or onion garnish",
+      "portion_estimate": "approximately 5 grams",
+      "confidence": "55"
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "approximately 70 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "mandarin orange",
+      "portion_estimate": "approximately 90 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "approximately 200 grams",
+      "confidence": "90"
+    }
+  ]
+}

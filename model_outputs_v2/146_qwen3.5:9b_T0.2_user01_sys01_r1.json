@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of creamy pasta (farfalle) with grated cheese on top",
+      "portion_estimate": 300,
+      "confidence": 95
+    },
+    {
+      "name": "Plate of steamed cauliflower florets",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "Square whole wheat cracker with seeds",
+      "portion_estimate": 25,
+      "confidence": 95
+    },
+    {
+      "name": "Sliced white bread (baguette style) in plastic wrapper",
+      "portion_estimate": 60,
+      "confidence": 85
+    },
+    {
+      "name": "Whole plum",
+      "portion_estimate": 100,
+      "confidence": 90
+    },
+    {
+      "name": "Second whole plum",
+      "portion_estimate": 100,
+      "confidence": 90
+    },
+    {
+      "name": "Wrapped butter packet (brand partially visible)",
+      "portion_estimate": 25,
+      "confidence": 80
+    }
+  ]
+}

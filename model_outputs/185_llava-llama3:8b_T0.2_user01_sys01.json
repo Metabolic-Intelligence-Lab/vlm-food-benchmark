@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange spaghetti (carrot-based)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "roasted potatoes and meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "burger with lettuce and tomato",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

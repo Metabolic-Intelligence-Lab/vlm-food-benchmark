@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked meat (ham or roast beef) with steamed broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "vegetable-based soup with herbs (parsley)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread roll with cheese or butter",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "mustard or other condiment",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "small bowl with yogurt, ice cream, or other food item",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "frozen meat (chicken or pork)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

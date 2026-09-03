@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "cakes",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "savory pie or quiche",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "soup with chunks (vegetables or meat)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "small side dish (salad or garnish)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

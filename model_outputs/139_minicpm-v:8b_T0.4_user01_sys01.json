@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "steamed carrot",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "saut\u00e9ed carrots and onions",
+      "portion_estimate": "2.1 oz (60g)",
+      "confidence": "90"
+    },
+    {
+      "name": "chicken breast with cheese sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mashed potatoes and gravy",
+      "portion_estimate": "2.1 oz (60g)",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "salad with tomatoes, lettuce, and other vegetables",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": 60
+    }
+  ]
+}

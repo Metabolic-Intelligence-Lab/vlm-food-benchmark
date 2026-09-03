@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "green beans with egg and corn",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "shredded carrots with vegetables",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni and cheese",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta with sauce (possibly bolognese)",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sliced bread roll",
+      "portion_estimate": "65g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed vegetables including peas and carrots",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sliced fruits, possibly melons or cantaloupes",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed beans and rice",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Cooked meat, possibly chicken or beef, with sauce",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Sliced potatoes",
+      "portion_estimate": "120g",
+      "confidence": "60"
+    }
+  ]
+}

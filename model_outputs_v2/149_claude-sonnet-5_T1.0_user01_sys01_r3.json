@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cauliflower and pasta gratin/salad side",
+      "portion_estimate": "150",
+      "confidence": "55"
+    },
+    {
+      "name": "sandwich on ciabatta bread with spinach filling",
+      "portion_estimate": "180",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll, packaged",
+      "portion_estimate": "70",
+      "confidence": "75"
+    },
+    {
+      "name": "black plums, whole",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "penne pasta with tomato sauce, spinach, and grated cheese",
+      "portion_estimate": "220",
+      "confidence": "75"
+    },
+    {
+      "name": "packaged breadstick or wafer, uncertain",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

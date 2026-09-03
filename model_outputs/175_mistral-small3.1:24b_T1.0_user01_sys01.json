@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pork roast",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "green beans with sauce",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "spinach with onions",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "170",
+      "confidence": "98"
+    }
+  ]
+}

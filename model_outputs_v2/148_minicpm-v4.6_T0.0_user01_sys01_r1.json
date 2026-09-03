@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green penne pasta with cheese",
+      "portion_estimate": "200 g",
+      "confidence": 95
+    },
+    {
+      "name": "cauliflower and vegetable mix",
+      "portion_estimate": "150 g",
+      "confidence": 90
+    },
+    {
+      "name": "small veggie patty with diced carrots",
+      "portion_estimate": "50 g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "25 g",
+      "confidence": 80
+    }
+  ]
+}

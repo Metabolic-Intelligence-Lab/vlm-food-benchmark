@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded chicken breast",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Roasted carrots",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Steamed broccoli",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    }
+  ]
+}

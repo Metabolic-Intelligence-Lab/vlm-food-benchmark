@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked or breaded pork cutlet (cotoletta)",
+      "portion_estimate": 180,
+      "confidence": 92
+    },
+    {
+      "name": "Steamed dark leafy greens (spinach or kale)",
+      "portion_estimate": 75,
+      "confidence": 88
+    },
+    {
+      "name": "Pasta (rigatoni) with tomato-based sauce",
+      "portion_estimate": 220,
+      "confidence": 94
+    },
+    {
+      "name": "Lemon fruit",
+      "portion_estimate": 135,
+      "confidence": 86
+    },
+    {
+      "name": "Candy or chocolate bar (partial view)",
+      "portion_estimate": 20,
+      "confidence": 75
+    }
+  ]
+}

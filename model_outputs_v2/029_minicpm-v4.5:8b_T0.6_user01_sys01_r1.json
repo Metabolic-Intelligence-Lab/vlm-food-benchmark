@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni with beans and cheese",
+      "portion_estimate": "200-250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "sliced bread",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "sauteed zucchini and potato",
+      "portion_estimate": "100-120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "quiche slice",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "mixed leafy lettuce (including red-veined)",
+      "portion_estimate": "250 grams",
+      "confidence": 95
+    },
+    {
+      "name": "carrot sticks",
+      "portion_estimate": "15 grams",
+      "confidence": 90
+    },
+    {
+      "name": "radicchio leafy pieces",
+      "portion_estimate": "120 grams",
+      "confidence": 95
+    },
+    {
+      "name": "croutons or protein bits (possibly chicken)",
+      "portion_estimate": "20 grams",
+      "confidence": 85
+    }
+  ]
+}

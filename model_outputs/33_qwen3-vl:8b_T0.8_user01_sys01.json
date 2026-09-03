@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable and tomato frittata",
+      "portion_estimate": 180,
+      "confidence": 85
+    },
+    {
+      "name": "spaghetti",
+      "portion_estimate": 170,
+      "confidence": 85
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": 60,
+      "confidence": 85
+    },
+    {
+      "name": "water",
+      "portion_estimate": 200,
+      "confidence": 80
+    }
+  ]
+}

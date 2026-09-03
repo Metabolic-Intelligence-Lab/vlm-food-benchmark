@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "diced cooked potatoes",
+      "portion_estimate": "200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "vegetable patty with tomato sauce and melted cheese",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "plastic packaging for straws or dip",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    }
+  ]
+}

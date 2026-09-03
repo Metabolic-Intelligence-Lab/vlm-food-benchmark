@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto sauce and grated Parmesan",
+      "portion_estimate": "220 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "steamed cauliflower florets",
+      "portion_estimate": "180 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "vegetable patty or frittata topped with diced carrots",
+      "portion_estimate": "90 grams",
+      "confidence": "55"
+    },
+    {
+      "name": "fresh plums",
+      "portion_estimate": "180 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 grams",
+      "confidence": "80"
+    }
+  ]
+}

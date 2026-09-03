@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked short pasta (rigatoni/mezze rigatoni) with grated cheese",
+      "portion_estimate": "320 g",
+      "confidence": "72"
+    },
+    {
+      "name": "mixed salad (lettuce, shredded carrots, beetroot) with light dressing",
+      "portion_estimate": "140 g",
+      "confidence": "70"
+    },
+    {
+      "name": "grilled ham-and-cheese panini/sandwich piece",
+      "portion_estimate": "130 g",
+      "confidence": "62"
+    },
+    {
+      "name": "sliced bread (white/semolina), 2 slices",
+      "portion_estimate": "70 g",
+      "confidence": "68"
+    },
+    {
+      "name": "banana (with peel)",
+      "portion_estimate": "120 g",
+      "confidence": "75"
+    }
+  ]
+}

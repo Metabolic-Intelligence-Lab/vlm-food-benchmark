@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "sliced cooked carrots",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "chicken wings in sauce",
+      "portion_estimate": "180g",
+      "confidence": 75
+    },
+    {
+      "name": "boiled brussels sprouts",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "whole green apple",
+      "portion_estimate": "130g",
+      "confidence": 85
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "200g",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

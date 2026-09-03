@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Fried fish",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrot salad",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "Sliced carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "Corn on the cob",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "Sliced tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "Cottage cheese with carrots and celery",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    }
+  ]
+}

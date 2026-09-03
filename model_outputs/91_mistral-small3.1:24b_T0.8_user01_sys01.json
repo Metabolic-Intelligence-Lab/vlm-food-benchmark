@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Minestrone soup",
+      "portion_estimate": "350",
+      "confidence": "85"
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "85",
+      "confidence": "80"
+    },
+    {
+      "name": "Tortellini salad",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "Parmesan cheese",
+      "portion_estimate": "20",
+      "confidence": "80"
+    },
+    {
+      "name": "Saut\u00e9ed greens",
+      "portion_estimate": "100",
+      "confidence": "70"
+    }
+  ]
+}

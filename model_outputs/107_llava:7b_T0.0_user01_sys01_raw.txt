@@ -1,0 +1,19 @@
+The image shows a dish that appears to be a type of omelette or frittata, possibly containing cheese and vegetables. It's placed in a clear container with a lid. There are two images side by side, one showing the dish from a slightly different angle than the other.
+
+The left image is a close-up view of the food item, while the right image provides a wider perspective. The dish looks like it could be a breakfast or brunch item, given its appearance and the context provided.
+
+Based on the visible ingredients and the overall presentation, here's an estimation of the portion sizes in grams:
+
+```json
+{
+  "food_items": [
+    {
+      "name": "Omelette or Frittata",
+      "portion_estimate": "150-200 grams",
+      "confidence": "60"
+    }
+  ]
+}
+```
+
+Please note that this is an approximate estimate based on the image provided, and actual portion sizes can vary. The confidence level is set to 60 because while the dish appears to be a single serving, the exact size of the omelette or frittata is not entirely clear from the image.

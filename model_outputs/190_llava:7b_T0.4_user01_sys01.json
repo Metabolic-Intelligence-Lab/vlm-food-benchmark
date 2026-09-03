@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fried fish fillet",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Spaghetti with tomato sauce",
+      "portion_estimate": "200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green salad, possibly spinach or arugula mix",
+      "portion_estimate": "100g",
+      "confidence": "50"
+    }
+  ]
+}

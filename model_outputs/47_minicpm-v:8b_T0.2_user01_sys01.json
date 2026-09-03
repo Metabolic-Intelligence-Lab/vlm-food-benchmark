@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne with Tomato Sauce",
+      "portion_estimate": "uncertain, approx. weight of pasta and sauce combined",
+      "confidence": "60"
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "uncertain, approx. weight based on plate size",
+      "confidence": "50"
+    },
+    {
+      "name": "Omelette with Mushrooms",
+      "portion_estimate": "uncertain, approx. weight of omelette and mushrooms combined",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "uncertain, approx. standard roll size",
+      "confidence": "50"
+    }
+  ]
+}

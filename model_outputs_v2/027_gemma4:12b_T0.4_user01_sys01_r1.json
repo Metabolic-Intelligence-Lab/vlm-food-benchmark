@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded meat cutlet with tomato-based sauce",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "saut\u00e9ed spinach",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "glass of milk",
+      "portion_estimate": "240g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice with meat and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "chicken pieces",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "flatbread (naan or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sauce or spread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable Soup",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "100",
+      "confidence": 60
+    },
+    {
+      "name": "Peas and Carrots",
+      "portion_estimate": "50",
+      "confidence": 70
+    }
+  ]
+}

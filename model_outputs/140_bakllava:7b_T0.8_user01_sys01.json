@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable 1",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "vegetable 2",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "vegetable 3",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "fish",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

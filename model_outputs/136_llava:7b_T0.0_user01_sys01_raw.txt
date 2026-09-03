@@ -1,0 +1,15 @@
+The image shows a dish that appears to be a type of pasta with vegetables, possibly a vegetable curry or stew. It includes ingredients such as carrots, peas, and what looks like chunks of meat or tofu. The portion size is estimated to be approximately 200 grams. The confidence level for the identification of the food items is set at 60 due to the complexity of the dish and the difficulty in distinguishing some ingredients clearly.
+
+Here's the JSON representation:
+
+```json
+{
+  "food_items": [
+    {
+      "name": "Vegetable curry or stew",
+      "portion_estimate": "200 grams",
+      "confidence": "60"
+    }
+  ]
+}
+```

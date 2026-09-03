@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "ground beef with tomato sauce (meat sauce)",
+      "portion_estimate": "uncertain (visual estimation suggests ~200-250g for the meat portion alone)",
+      "confidence": 60
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "uncertain (visual estimation suggests ~100-150g)",
+      "confidence": 60
+    },
+    {
+      "name": "white rice",
+      "portion_estimate": "uncertain (visual estimation suggests ~150-200g)",
+      "confidence": 65
+    }
+  ]
+}

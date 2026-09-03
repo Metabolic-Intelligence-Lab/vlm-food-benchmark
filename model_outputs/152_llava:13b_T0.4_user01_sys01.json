@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pastry or bread-based item",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "vegetables (carrots and root vegetables)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pasta or noodles with sauce/condiment",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "fruits (blueberries and plums/other fruit)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "savory fish cake with garnish",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "farfalle pasta",
+      "portion_estimate": "180",
+      "confidence": "95"
+    },
+    {
+      "name": "cooked bamboo shoots",
+      "portion_estimate": "70",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70",
+      "confidence": "95"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "130",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Stew",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Carrot slice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad greens (shredded cabbage/lettuce blend)",
+      "portion_estimate": "120 g",
+      "confidence": "78"
+    },
+    {
+      "name": "tomato wedges",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "cucumber slice",
+      "portion_estimate": "10 g",
+      "confidence": "80"
+    },
+    {
+      "name": "shredded carrot",
+      "portion_estimate": "8 g",
+      "confidence": "70"
+    },
+    {
+      "name": "salad dressing (light vinaigrette, amount uncertain)",
+      "portion_estimate": "12 g",
+      "confidence": "45"
+    }
+  ]
+}

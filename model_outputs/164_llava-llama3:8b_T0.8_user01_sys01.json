@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "small yellow vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "red cup containing a beverage",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

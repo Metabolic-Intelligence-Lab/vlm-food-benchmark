@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "hot soup",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "spicy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pickled vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "condensed milk",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

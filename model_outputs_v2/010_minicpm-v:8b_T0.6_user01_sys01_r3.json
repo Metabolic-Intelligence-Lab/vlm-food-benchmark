@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Broth with bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Cottage cheese balls on a plate with sauce",
+      "portion_estimate": "uncertain, estimated at 15-20g each",
+      "confidence": "60"
+    }
+  ]
+}

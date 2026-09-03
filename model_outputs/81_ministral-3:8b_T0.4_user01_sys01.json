@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes (in small bowl)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "broccoli (steamed)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "meatballs (fried, 2 pieces)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "sauce or gravy (in plastic container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "condiment packet (e.g., salt or seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

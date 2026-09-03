@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne or rigatoni) with sauce",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "fried egg (sunny-side-up)",
+      "portion_estimate": "70g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed green vegetables (broccoli or similar)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "fried fish or tofu cutlet",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "buttered or plain roll/bun",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (plain or flavored, in small tub)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "water (in clear glass)",
+      "portion_estimate": "uncertain (empty glass)",
+      "confidence": 0
+    }
+  ]
+}

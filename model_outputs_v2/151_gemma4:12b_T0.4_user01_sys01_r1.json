@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roasted pumpkin",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "roasted Brussels sprouts",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "pasta with mushrooms and cheese",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "30g",
+      "confidence": 90
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "60g",
+      "confidence": 95
+    }
+  ]
+}

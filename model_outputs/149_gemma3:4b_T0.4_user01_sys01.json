@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Pesto",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "Cheese Wedge",
+      "portion_estimate": "75",
+      "confidence": 80
+    },
+    {
+      "name": "Grapes",
+      "portion_estimate": "50",
+      "confidence": 70
+    }
+  ]
+}

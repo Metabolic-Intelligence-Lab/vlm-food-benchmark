@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "uncertain, approx. weight of pasta and sauce combined",
+      "confidence": "60"
+    },
+    {
+      "name": "Broccoli dish on a plate",
+      "portion_estimate": "uncertain, approx. weight of broccoli and other ingredients combined",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll with cheese wrapper",
+      "portion_estimate": "uncertain, approx. weight of bread only or including the cheese wrapper",
+      "confidence": "60"
+    },
+    {
+      "name": "Yellow pear",
+      "portion_estimate": "uncertain, approx. weight based on size and typical fruit portion",
+      "confidence": "50"
+    }
+  ]
+}

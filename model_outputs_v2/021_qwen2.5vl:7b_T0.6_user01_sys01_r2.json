@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked fish",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes with mixed vegetables",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200",
+      "confidence": 80
+    }
+  ]
+}

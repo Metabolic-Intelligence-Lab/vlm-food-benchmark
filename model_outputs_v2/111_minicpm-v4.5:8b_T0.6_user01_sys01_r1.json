@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "50-70 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "bowtie pasta (farfalle)",
+      "portion_estimate": "150-200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "small pasta (possibly short-cut or broken pasta)",
+      "portion_estimate": "50-75 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "meat patty with sauce and shredded vegetable garnish",
+      "portion_estimate": "100-150 grams",
+      "confidence": "80"
+    }
+  ]
+}

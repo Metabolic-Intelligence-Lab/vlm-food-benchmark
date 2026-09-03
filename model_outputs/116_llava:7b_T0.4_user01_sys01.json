@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy mushroom soup",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Macaroni and cheese with breadcrumbs on top",
+      "portion_estimate": "200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Crispy chicken breast",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }
+  ]
+}

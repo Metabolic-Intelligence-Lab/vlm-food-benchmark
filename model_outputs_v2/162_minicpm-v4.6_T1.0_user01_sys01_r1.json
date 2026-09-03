@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "boiled potatoes and broccoli",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "wrapped bun",
+      "portion_estimate": "120 g",
+      "confidence": 80
+    },
+    {
+      "name": "soup with soup base and grated cheese",
+      "portion_estimate": "300 g",
+      "confidence": 90
+    },
+    {
+      "name": "diced potato-topped toast",
+      "portion_estimate": "180 g",
+      "confidence": 95
+    },
+    {
+      "name": "fruit, possibly a pear",
+      "portion_estimate": "100 g",
+      "confidence": 85
+    }
+  ]
+}

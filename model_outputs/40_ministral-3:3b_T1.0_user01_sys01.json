@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "brown rice, corn, peas and ham stir-fry mix (main plate)",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "mini whole-wheat dinner roll (from baguette)",
+      "portion_estimate": "40g",
+      "confidence": 75
+    },
+    {
+      "name": "small pizza (with vegetables, including carrots and mushrooms)",
+      "portion_estimate": "130g",
+      "confidence": 85
+    },
+    {
+      "name": "carrot slices and boiled potatoes (pizza side dish)",
+      "portion_estimate": "70g",
+      "confidence": 80
+    },
+    {
+      "name": "mandarin oranges (tray center-right)",
+      "portion_estimate": "120g (6 medium oranges)",
+      "confidence": 70
+    }
+  ]
+}

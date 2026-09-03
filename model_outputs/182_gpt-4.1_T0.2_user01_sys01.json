@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta with tomato sauce and cheese",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "steamed or roasted broccoli",
+      "portion_estimate": "70",
+      "confidence": 90
+    },
+    {
+      "name": "vegetable lasagna or pizza slice with cheese",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "mandarin orange",
+      "portion_estimate": "70",
+      "confidence": 95
+    },
+    {
+      "name": "mandarin orange",
+      "portion_estimate": "70",
+      "confidence": 95
+    }
+  ]
+}

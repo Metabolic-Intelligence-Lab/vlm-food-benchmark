@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (macaroni), mushrooms, and meat sauce",
+      "portion_estimate": "350g",
+      "confidence": 90
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll (wheat or similar)",
+      "portion_estimate": "60g",
+      "confidence": 95
+    },
+    {
+      "name": "frittata/omelette, approximately one slice",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "sauteed vegetables (zucchini/courgette and possibly onions)",
+      "portion_estimate": "250g",
+      "confidence": 95
+    }
+  ]
+}

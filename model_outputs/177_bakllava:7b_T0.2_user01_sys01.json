@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "bowl of pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "piece of broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

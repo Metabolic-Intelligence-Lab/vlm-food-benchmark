@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried egg omelette or frittata base",
+      "portion_estimate": "170 g",
+      "confidence": "78"
+    },
+    {
+      "name": "melted cheese topping",
+      "portion_estimate": "35 g",
+      "confidence": "80"
+    },
+    {
+      "name": "uncertain noodles or spaghetti mixed into omelette",
+      "portion_estimate": "40 g",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "Fries",
+      "portion_estimate": "180g",
+      "confidence": 60
+    },
+    {
+      "name": "Breaded chicken cutlet",
+      "portion_estimate": "250g",
+      "confidence": 90
+    }
+  ],
+  "tableware": [
+    {
+      "item": "Glass",
+      "purpose": "Drinking"
+    },
+    {
+      "item": "Fork",
+      "purpose": "Eating fries"
+    },
+    {
+      "item": "Banana peel",
+      "purpose": "Snacking"
+    }
+  ]
+}

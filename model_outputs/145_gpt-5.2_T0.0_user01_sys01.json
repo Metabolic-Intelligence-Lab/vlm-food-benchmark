@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "lentil stew/soup (lentils in sauce)",
+      "portion_estimate": "320 g",
+      "confidence": "80"
+    },
+    {
+      "name": "grated cheese topping (likely parmesan) on lentils",
+      "portion_estimate": "12 g",
+      "confidence": "65"
+    },
+    {
+      "name": "steamed/boiled cauliflower florets",
+      "portion_estimate": "120 g",
+      "confidence": "78"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "baked egg/vegetable casserole slice (spinach frittata/quiche-like)",
+      "portion_estimate": "90 g",
+      "confidence": "70"
+    },
+    {
+      "name": "white cheese portion (fresh cheese/ricotta-like)",
+      "portion_estimate": "45 g",
+      "confidence": "60"
+    }
+  ]
+}

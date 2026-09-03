@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Biscuit",
+      "portion_estimate": "0.12",
+      "confidence": "95"
+    },
+    {
+      "name": "Pasta Salad",
+      "portion_estimate": "0.16",
+      "confidence": "85"
+    },
+    {
+      "name": "Tuna Salad",
+      "portion_estimate": "0.37",
+      "confidence": "92"
+    },
+    {
+      "name": "Sandwich on white bread",
+      "portion_estimate": "0.61",
+      "confidence": "84"
+    },
+    {
+      "name": "Lemon wedge and lemon juice",
+      "portion_estimate": "0.23",
+      "confidence": "77"
+    }
+  ]
+}

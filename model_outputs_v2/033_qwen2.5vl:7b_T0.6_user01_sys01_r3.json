@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "250",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed Vegetables",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Corn Fritter",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "Bun",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200",
+      "confidence": "80"
+    }
+  ]
+}

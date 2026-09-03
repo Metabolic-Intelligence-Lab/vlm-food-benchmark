@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "green beans and fish",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "black greens and yellow potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta with Creamy Sauce",
+      "portion_estimate": "250g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried Egg",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "Canned White Beans",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

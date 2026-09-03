@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "bread roll (unseen)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125g",
+      "confidence": "90"
+    },
+    {
+      "name": "mushroom and spinach omelet",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "stewed vegetables (potatoes, carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

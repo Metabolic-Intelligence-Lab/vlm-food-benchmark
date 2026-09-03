@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "quiche",
+      "portion_estimate": "0.25",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "0.35",
+      "confidence": "60"
+    },
+    {
+      "name": "spaghetti",
+      "portion_estimate": "0.59",
+      "confidence": "70"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "0.43",
+      "confidence": "60"
+    },
+    {
+      "name": "cup of water",
+      "portion_estimate": "0.35",
+      "confidence": "80"
+    }
+  ]
+}

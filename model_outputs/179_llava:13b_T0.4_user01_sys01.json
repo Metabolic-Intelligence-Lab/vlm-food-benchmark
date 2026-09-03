@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato-based sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "rice and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich or bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    }
+  ]
+}

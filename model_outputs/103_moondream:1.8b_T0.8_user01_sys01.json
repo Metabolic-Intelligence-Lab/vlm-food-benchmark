@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup with spoon",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "broccoli pieces",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "egg salad and hamburger patty sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

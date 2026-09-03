@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Red Peppers and Basil",
+      "portion_estimate": "45 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Rice Pilaf with Vegetables",
+      "portion_estimate": "60 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Roasted Peppers and Zucchini",
+      "portion_estimate": "40 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Fresh Bread Rolls",
+      "portion_estimate": "25 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Dried Fruit Platter",
+      "portion_estimate": "15 grams",
+      "confidence": "70"
+    }
+  ]
+}

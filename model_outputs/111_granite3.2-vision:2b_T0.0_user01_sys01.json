@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (fusilli or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread (ciabatta)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "cheese (Parmesan)",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "olive oil",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

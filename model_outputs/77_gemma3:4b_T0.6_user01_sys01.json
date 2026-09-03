@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Peanuts",
+      "portion_estimate": "60 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Fish with vegetables",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "80 grams",
+      "confidence": 90
+    }
+  ]
+}

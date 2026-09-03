@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken or veal",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pesto",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

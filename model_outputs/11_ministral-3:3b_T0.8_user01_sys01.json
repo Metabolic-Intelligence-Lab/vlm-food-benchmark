@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sweet potato (peeled and wrapped in plastic)",
+      "portion_estimate": "100-150g",
+      "confidence": 90
+    },
+    {
+      "name": "cabbage and green apple slaw (in bowl)",
+      "portion_estimate": "60-80g",
+      "confidence": 90
+    },
+    {
+      "name": "carrot slice (halved, cut from a whole carrot)",
+      "portion_estimate": "20-25g",
+      "confidence": 90
+    },
+    {
+      "name": "kale salad with seasoning (on a plate)",
+      "portion_estimate": "50-70g",
+      "confidence": 85
+    },
+    {
+      "name": "pita bread wrap with spread (possibly hummus or tahini)",
+      "portion_estimate": "40-50g (whole piece, cut portion)",
+      "confidence": 75
+    }
+  ]
+}

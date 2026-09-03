@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Salad with blue cheese and carrots",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta dish with red sauce and cheese",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    }
+  ]
+}

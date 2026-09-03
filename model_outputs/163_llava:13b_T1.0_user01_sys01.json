@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Cup of Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Roll (possibly bread or a bun)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Pasta dish",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Side Dish (possibly chickpeas)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Empty Packets",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed vegetables in a bowl",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Dark green spinach on plate",
+      "portion_estimate": "80g",
+      "confidence": "70"
+    },
+    {
+      "name": "Plate with tofu in a bowl of soy sauce",
+      "portion_estimate": "165g",
+      "confidence": "90"
+    },
+    {
+      "name": "Sliced fruit - grapes and kiwi",
+      "portion_estimate": "85g",
+      "confidence": "70"
+    }
+  ]
+}

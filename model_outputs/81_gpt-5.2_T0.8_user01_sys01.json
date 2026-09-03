@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked spinach (possibly creamed or saut\u00e9ed)",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded fried balls (arancini/croquettes/meatballs), 2 pieces",
+      "portion_estimate": "120 g",
+      "confidence": "62"
+    },
+    {
+      "name": "mashed potatoes (or polenta), plain",
+      "portion_estimate": "250 g",
+      "confidence": "60"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "40 g",
+      "confidence": "70"
+    },
+    {
+      "name": "single-serve jam (uncertain flavor)",
+      "portion_estimate": "20 g",
+      "confidence": "65"
+    }
+  ]
+}

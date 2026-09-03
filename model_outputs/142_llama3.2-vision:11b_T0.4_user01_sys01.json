@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "White food (possibly rice or pasta)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Brown food (possibly vegetables)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

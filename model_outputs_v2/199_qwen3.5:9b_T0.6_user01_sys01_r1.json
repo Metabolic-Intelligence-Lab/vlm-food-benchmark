@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (penne) with green pesto sauce and grated parmesan cheese",
+      "portion_estimate": 320,
+      "confidence": 95
+    },
+    {
+      "name": "Green peas served with bacon pieces",
+      "portion_estimate": 180,
+      "confidence": 90
+    },
+    {
+      "name": "Baked sweet potato topped with a slice of ham and green relish/garnish",
+      "portion_estimate": 250,
+      "confidence": 85
+    },
+    {
+      "name": "Packaged bread roll or bun",
+      "portion_estimate": 100,
+      "confidence": 90
+    }
+  ]
+}

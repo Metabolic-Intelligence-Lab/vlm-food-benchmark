@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked quinoa or couscous with olive oil drizzle",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "chickpeas (garbanzo beans)",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "drizzled cheese (appears to be feta)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "whole roasted potato or sweet potato",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pears (whole, partially sliced)",
+      "portion_estimate": "250 grams (whole pear)",
+      "confidence": 95
+    }
+  ]
+}

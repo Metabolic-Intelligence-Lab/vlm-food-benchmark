@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "100 g",
+      "confidence": 100
+    },
+    {
+      "name": "Baked dish",
+      "portion_estimate": "150 g",
+      "confidence": 100
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "100 g",
+      "confidence": 100
+    },
+    {
+      "name": "Bun",
+      "portion_estimate": "30 g",
+      "confidence": 100
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "100 g",
+      "confidence": 100
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100 g",
+      "confidence": 100
+    }
+  ]
+}

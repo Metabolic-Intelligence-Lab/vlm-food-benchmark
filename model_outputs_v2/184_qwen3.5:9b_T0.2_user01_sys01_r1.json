@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Whole wheat bun in plastic wrapper",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Mixed green salad with red cabbage and carrots",
+      "portion_estimate": 120,
+      "confidence": 90
+    },
+    {
+      "name": "Steamed or baked fish fillet (white meat)",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "Baked potato halves with herbs and tomato",
+      "portion_estimate": 200,
+      "confidence": 90
+    },
+    {
+      "name": "Mashed potatoes or rice pilaf side dish",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "Whole plum fruit",
+      "portion_estimate": 60,
+      "confidence": 95
+    }
+  ]
+}

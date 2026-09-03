@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Rigatoni and Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Ravioli (Meat-Filled)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Salad (Vegetable Based)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Soft White Bread Roll (Possibly Baguette)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Meat Pie or Pastry",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

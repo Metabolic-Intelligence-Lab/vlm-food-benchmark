@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "uncertain (no visible measurement reference)",
+      "confidence": 30
+    },
+    {
+      "name": "yogurt (plain, in a small plastic container)",
+      "portion_estimate": "125g (standard small yogurt cup)",
+      "confidence": 80
+    },
+    {
+      "name": "baguette or ciabatta roll (wrapped in plastic)",
+      "portion_estimate": "50g (small roll)",
+      "confidence": 75
+    },
+    {
+      "name": "tomato slices with topping (likely burrata or mozzarella)",
+      "portion_estimate": "150g (two large slices with cheese)",
+      "confidence": 70
+    },
+    {
+      "name": "baby potatoes (roasted or fried)",
+      "portion_estimate": "100g (small side portion)",
+      "confidence": 75
+    },
+    {
+      "name": "lettuce or mixed greens",
+      "portion_estimate": "30g (small garnish)",
+      "confidence": 60
+    },
+    {
+      "name": "sauce packet (e.g., sweet chili or soy sauce)",
+      "portion_estimate": "uncertain (not consumed, unknown quantity)",
+      "confidence": 40
+    }
+  ]
+}

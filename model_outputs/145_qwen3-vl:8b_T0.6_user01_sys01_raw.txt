@@ -1,0 +1,43 @@
+### Distinct, Visible Food and Beverage Items with Estimated Portions and Confidence Levels
+
+1. **Lentil Soup**  
+   - **Portion**: 300g  
+   - **Confidence Level**: 75%  
+   - **Reasoning**: Estimated based on typical serving size for a bowl of soup. The visual cues (e.g., liquid volume and bowl dimensions) support this estimate.
+
+2. **Cauliflower**  
+   - **Portion**: 120g  
+   - **Confidence Level**: 80%  
+   - **Reasoning**: Clear visibility of florets allows for precise estimation of a standard serving size (commonly 100–150g per serving).
+
+3. **Sweet Potato**  
+   - **Portion**: 50g  
+   - **Confidence Level**: 70%  
+   - **Reasoning**: Estimated based on the size of a single piece (e.g., a small, cooked wedge), which is typical for a serving.
+
+4. **Spinach Frittata**  
+   - **Portion**: 100g  
+   - **Confidence Level**: 70%  
+   - **Reasoning**: Estimated from the visible portion of the dish, which aligns with a standard serving size for an egg-based dish.
+
+5. **Yogurt**  
+   - **Portion**: 50g  
+   - **Confidence Level**: 70%  
+   - **Reasoning**: Small container size (e.g., a single-serve cup) is consistent with typical yogurt servings.
+
+6. **Bread Roll**  
+   - **Portion**: 50g  
+   - **Confidence Level**: 75%  
+   - **Reasoning**: Visual assessment of the roll’s size and typical bread roll weights (e.g., 40–60g per roll) supports this estimate.
+
+7. **Butter**  
+   - **Portion**: 10g  
+   - **Confidence Level**: 60%  
+   - **Reasoning**: Small, wrapped package (e.g., a single-serving stick) is common for butter, but exact weight is less precise due to packaging variations.
+
+---
+
+### Notes:
+- **No beverage items** were visible in the image (e.g., no drinks or liquids other than the soup).  
+- **Confidence levels** reflect the reliability of the estimate based on visual cues (e.g., object size, container dimensions). Higher confidence indicates clearer visibility, while lower confidence accounts for estimation uncertainty.  
+- All items are **distinct** and **visible** in the context of the image.

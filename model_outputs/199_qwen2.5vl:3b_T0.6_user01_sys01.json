@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Peas",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Bacon",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    }
+  ]
+}

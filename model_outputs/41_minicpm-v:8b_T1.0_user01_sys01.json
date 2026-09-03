@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "90"
+    },
+    {
+      "name": "omelette with spinach and cheese",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "85"
+    },
+    {
+      "name": "fruits (apricots)",
+      "portion_estimate": "uncertain, exact weight unknown",
+      "confidence": "70"
+    }
+  ]
+}

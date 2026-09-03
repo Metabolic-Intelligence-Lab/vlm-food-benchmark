@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with red sauce",
+      "portion_estimate": "uncertain, possibly 200-300g",
+      "confidence": "65"
+    },
+    {
+      "name": "Cauliflower rice and scrambled eggs on toast",
+      "portion_estimate": "100g for the cauliflower part; uncertain exact portion size of egg mixture but likely around 70-80g based on typical meal sizes",
+      "confidence": "65"
+    },
+    {
+      "name": "Yogurt with red fruit topping (tomato-based)",
+      "portion_estimate": "uncertain, possibly 120g",
+      "confidence": "60"
+    },
+    {
+      "name": "Water cup",
+      "portion_estimate": "uncertain, likely around a standard water bottle size of about 500ml or more",
+      "confidence": "60"
+    }
+  ]
+}

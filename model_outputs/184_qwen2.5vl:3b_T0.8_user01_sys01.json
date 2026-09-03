@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fried chicken with sesame seeds",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Salad with mixed greens and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Steamed or boiled vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Hamburger bun",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

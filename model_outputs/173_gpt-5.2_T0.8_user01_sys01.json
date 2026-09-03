@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans (possibly with oil/seasoning)",
+      "portion_estimate": "140 g",
+      "confidence": "70"
+    },
+    {
+      "name": "two scoops of mashed potatoes or potato puree",
+      "portion_estimate": "160 g",
+      "confidence": "60"
+    },
+    {
+      "name": "cooked penne pasta (light sauce or butter/oil)",
+      "portion_estimate": "190 g",
+      "confidence": "75"
+    },
+    {
+      "name": "slice of whole grain bread",
+      "portion_estimate": "35 g",
+      "confidence": "80"
+    },
+    {
+      "name": "wrapped butter or margarine portion",
+      "portion_estimate": "10 g",
+      "confidence": "55"
+    },
+    {
+      "name": "whole orange/mandarin",
+      "portion_estimate": "140 g",
+      "confidence": "85"
+    }
+  ]
+}

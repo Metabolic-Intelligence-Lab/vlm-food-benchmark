@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans in tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "sliced roast pork or turkey with herbs",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "sauteed leafy greens (spinach or chicory) with diced potatoes",
+      "portion_estimate": "180",
+      "confidence": "75"
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

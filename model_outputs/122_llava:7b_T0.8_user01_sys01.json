@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with sauce",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "carrot salad",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "meatballs with sauce and bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "fresh carrots",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

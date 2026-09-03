@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (fettuccine or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "creamy sauce with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "carrot slices",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sliced yellow squash or bell pepper",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

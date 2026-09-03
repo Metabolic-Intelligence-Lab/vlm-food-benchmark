@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "plain water (in glass)",
+      "portion_estimate": "250 g",
+      "confidence": "70"
+    },
+    {
+      "name": "omelet (folded, likely 2-egg) with herbs",
+      "portion_estimate": "120 g",
+      "confidence": "65"
+    },
+    {
+      "name": "diced zucchini/cucumber salad (cooked or marinated)",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "cauliflower pieces (cooked)",
+      "portion_estimate": "90 g",
+      "confidence": "55"
+    },
+    {
+      "name": "slice of rye/whole grain bread",
+      "portion_estimate": "40 g",
+      "confidence": "70"
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "160 g",
+      "confidence": "80"
+    }
+  ]
+}

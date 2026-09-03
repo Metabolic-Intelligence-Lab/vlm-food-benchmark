@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "yogurt (plain, single-serving container)",
+      "portion_estimate": 180,
+      "confidence": 90
+    },
+    {
+      "name": "water (clear glass)",
+      "portion_estimate": 200,
+      "confidence": 100
+    },
+    {
+      "name": "sweet roll or croissant (whole)",
+      "portion_estimate": 100,
+      "confidence": 75
+    },
+    {
+      "name": "small sandwich wrap or half (on plastic wrap)",
+      "portion_estimate": 70,
+      "confidence": 70
+    },
+    {
+      "name": "lettuce salad (lettuce leaves in portion, mixed with tomatoes)",
+      "portion_estimate": 15,
+      "confidence": 80
+    },
+    {
+      "name": "grilled tomatoes or tomato-based dish (2 medium pieces)",
+      "portion_estimate": 70,
+      "confidence": 90
+    },
+    {
+      "name": "béchamel or cheese-topped dish (halved)",
+      "portion_estimate": 70,
+      "confidence": 70
+    },
+    {
+      "name": "hash browns or potato wedges (whole basket, approx. small serving)",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "condiment packet (soup or sauce, uncapped, likely ketchup/mustard)",
+      "portion_estimate": uncertain,
+      "confidence": 60
+    }
+  ]
+}

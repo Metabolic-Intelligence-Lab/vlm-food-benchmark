@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "sausage",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "green peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "black beans",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+    "food_items": [
+        {
+            "name": "Penne with Tomato Sauce",
+            "portion_estimate": 250,
+            "confidence": 90
+        },
+        {
+            "name": "Grilled Chicken Breast",
+            "portion_estimate": uncertain,
+            "confidence": below(60)
+        },
+        {
+            "name": "Roasted Potatoes with Herbs",
+            "portion_estimate": unknown,
+            "confidence": 75
+        },
+        {
+            "name": "Yogurt (Tomato Flavor)",
+            "portion_estimate": uncertain,
+            "confidence": below(60)
+        }
+    ]
+}

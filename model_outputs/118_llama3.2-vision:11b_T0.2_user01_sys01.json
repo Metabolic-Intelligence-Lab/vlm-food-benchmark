@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "200g",
+      "confidence": "80%"
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "150g",
+      "confidence": "70%"
+    },
+    {
+      "name": "Meat patty",
+      "portion_estimate": "100g",
+      "confidence": "60%"
+    }
+  ]
+}

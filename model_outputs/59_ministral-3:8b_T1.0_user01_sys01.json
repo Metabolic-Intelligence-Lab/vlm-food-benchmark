@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed greens salad with carrots and cucumbers",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baked potato or sweet potato slices with honey-like sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed greens/spinach or collard greens",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll (plain, whole grain or white)",
+      "portion_estimate": "70 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole, red plums (4 small plums)",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    }
+  ]
+}

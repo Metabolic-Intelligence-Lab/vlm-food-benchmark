@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "gemelli pasta",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "50g",
+      "confidence": 95
+    },
+    {
+      "name": "saut\u00e9ed onion pieces",
+      "portion_estimate": "30g",
+      "confidence": 85
+    },
+    {
+      "name": "carrot pieces",
+      "portion_estimate": "15g",
+      "confidence": 85
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "15g",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+Based on the typical components of a balanced meal described in the problem (e.g., a plate with bread, pesto, white sauce, fried brussels sprouts, roasted potatoes, penne pasta, a bread roll, a pear, and a chocolate bar), the estimated portion sizes in grams for each visible item are as follows:
+
+- **Slice of bread**: 30g (standard slice)  
+- **Pesto**: 20g (small amount on bread)  
+- **White sauce**: 10g (light coating)  
+- **Fried brussels sprouts**: 50g (approximately 5 sprouts)  
+- **Roasted potatoes**: 100g (moderate pile)  
+- **Penne pasta**: 150g (standard bowl)  
+- **Bread roll**: 50g (single roll)  
+- **Pear**: 150g (medium-sized fruit)  
+- **Chocolate bar**: 50g (small bar)  
+
+Each estimate is based on standard serving sizes and visual context. Confidence levels are high for items like the bread roll and pear (90%), while lower-confidence items (e.g., pesto and white sauce) are estimated based on typical culinary portions.
+
+\boxed{30\text{g (bread)}, 20\text{g (pesto)}, 10\text{g (white sauce)}, 50\text{g (brussels sprouts)}, 100\text{g (potatoes)}, 150\text{g (pasta)}, 50\text{g (bread roll)}, 150\text{g (pear)}, 50\text{g (chocolate bar)}}

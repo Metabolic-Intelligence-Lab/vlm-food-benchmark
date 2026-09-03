@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Beans",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Sausage",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Fish fillet",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Fruits (oranges and apples)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Bread roll with seeds on top",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

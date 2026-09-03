@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish (penne/ziti style) with sauce and grated cheese",
+      "portion_estimate": "220",
+      "confidence": "95"
+    },
+    {
+      "name": "Baked, breaded item with tomato sauce and melted cheese",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "Saut\u00e9ed, seasoned cubes (likely vegetables or potatoes)",
+      "portion_estimate": "150",
+      "confidence": "85"
+    }
+  ]
+}

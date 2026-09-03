@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with spinach and cheese",
+      "portion_estimate": "180g",
+      "confidence": 75
+    },
+    {
+      "name": "shredded chicken breast",
+      "portion_estimate": "150g",
+      "confidence": 70
+    },
+    {
+      "name": "carrot and yellow vegetable mix (e.g., cheese sauce with carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "small round purple grapes",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "60g",
+      "confidence": 70
+    }
+  ]
+}

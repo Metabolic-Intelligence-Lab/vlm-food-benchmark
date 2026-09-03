@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "borlotti bean and celery salad",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "baked white fish fillet",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "sauteed broccoli with shaved parmesan",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "whole wheat bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "fresh apricot",
+      "portion_estimate": "50",
+      "confidence": "65"
+    },
+    {
+      "name": "fresh plum",
+      "portion_estimate": "60",
+      "confidence": "65"
+    },
+    {
+      "name": "fresh plum",
+      "portion_estimate": "60",
+      "confidence": "65"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based soup/stew with herbs (possibly lentil or vegetable)",
+      "portion_estimate": "300 g",
+      "confidence": "65"
+    },
+    {
+      "name": "cooked leafy greens (boiled/sauteed greens or seaweed-like greens)",
+      "portion_estimate": "90 g",
+      "confidence": "60"
+    },
+    {
+      "name": "breaded fried patty/croquette with sauce and shredded purple cabbage on top",
+      "portion_estimate": "80 g",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll/bun (packaged)",
+      "portion_estimate": "65 g",
+      "confidence": "85"
+    },
+    {
+      "name": "mandarin/orange",
+      "portion_estimate": "90 g",
+      "confidence": "90"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "220 g",
+      "confidence": "80"
+    }
+  ]
+}

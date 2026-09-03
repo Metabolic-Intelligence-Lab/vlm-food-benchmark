@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "roasted Brussels sprouts and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "pasta (fettuccine or spaghetti)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

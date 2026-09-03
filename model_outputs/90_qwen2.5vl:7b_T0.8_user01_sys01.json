@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "boiled rice",
+      "portion_estimate": "200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "baked apple",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "vegetable medley (carrots, potatoes, and possibly cauliflower)",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "baked bread",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    }
+  ]
+}

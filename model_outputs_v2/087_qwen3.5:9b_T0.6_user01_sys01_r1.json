@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked pasta (conchiglie)",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Green bean casserole",
+      "portion_estimate": 240,
+      "confidence": 90
+    },
+    {
+      "name": "Peach (fresh)",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": 60,
+      "confidence": 90
+    },
+    {
+      "name": "Butter packet",
+      "portion_estimate": 25,
+      "confidence": 85
+    }
+  ]
+}

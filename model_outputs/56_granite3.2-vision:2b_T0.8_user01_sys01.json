@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (fusilli or rotini)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "tomato-based sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "grilled vegetables (zucchini, eggplant, bell peppers)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

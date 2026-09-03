@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable soup or stew (with visible chunks of vegetables)",
+      "portion_estimate": "380",
+      "confidence": "95"
+    },
+    {
+      "name": "Toasted bread slice",
+      "portion_estimate": "90",
+      "confidence": "90"
+    },
+    {
+      "name": "Steamed cauliflower florets",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Woven cracker or bread piece",
+      "portion_estimate": "60",
+      "confidence": "85"
+    }
+  ]
+}

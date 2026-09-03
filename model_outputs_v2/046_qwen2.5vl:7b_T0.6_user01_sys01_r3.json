@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spinach soup",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "lettuce",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "crispy bread",
+      "portion_estimate": "100",
+      "confidence": 70
+    }
+  ]
+}

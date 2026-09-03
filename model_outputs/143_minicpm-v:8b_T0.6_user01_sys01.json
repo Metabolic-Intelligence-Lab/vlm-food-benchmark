@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Oatmeal yogurt cup",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "2 slices, approx. 148g each",
+      "confidence": "95"
+    },
+    {
+      "name": "Roasted potatoes with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Steamed fish fillets",
+      "portion_estimate": "2 pieces, approx. 148g each",
+      "confidence": "95"
+    }
+  ]
+}

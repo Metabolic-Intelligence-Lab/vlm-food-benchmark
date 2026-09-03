@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked pasta (possibly macaroni)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "steamed green beans and sauteed vegetable/meat dish (possibly with spinach)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "yogurt (dessert or side)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "condiment or accompaniment (unclear)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "apple and peach",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sealed package (sauce or spread)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

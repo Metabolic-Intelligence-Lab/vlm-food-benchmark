@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "chicken pieces",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "20 grams",
+      "confidence": 90
+    },
+    {
+      "name": "tomato chunks",
+      "portion_estimate": "40 grams",
+      "confidence": 90
+    },
+    {
+      "name": "mozzarella cheese",
+      "portion_estimate": "30 grams",
+      "confidence": 85
+    }
+  ]
+}

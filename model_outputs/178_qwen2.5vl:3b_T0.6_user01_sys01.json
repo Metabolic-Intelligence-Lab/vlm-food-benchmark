@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "broccoli and potato dish",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "buttered bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

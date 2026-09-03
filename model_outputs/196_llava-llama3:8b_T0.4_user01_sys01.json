@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "meat",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "orange beans",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "brown sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried cauliflower florets (approx. 10 pieces)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "fried cutlet (likely chicken or vegetable-based)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "creamy soup with cheese topping (likely cheese soup or bisque)",
+      "portion_estimate": "300g",
+      "confidence": 85
+    },
+    {
+      "name": "single-serve yogurt (Yomo brand, plain or vanilla)",
+      "portion_estimate": "125g",
+      "confidence": 95
+    },
+    {
+      "name": "packaged crackers or breadsticks (small portion visible)",
+      "portion_estimate": "uncertain (likely ~30g)",
+      "confidence": 55
+    }
+  ]
+}

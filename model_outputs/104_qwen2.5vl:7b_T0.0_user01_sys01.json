@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bean Soup",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "Mixed Vegetables",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "150",
+      "confidence": 80
+    }
+  ]
+}

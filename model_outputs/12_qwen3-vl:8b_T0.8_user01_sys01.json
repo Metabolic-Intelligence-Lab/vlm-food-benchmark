@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Egg",
+      "portion_estimate": "60g",
+      "confidence": 95
+    },
+    {
+      "name": "French Fries",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Cooked Greens (Kale/Spinach)",
+      "portion_estimate": "80g",
+      "confidence": 95
+    },
+    {
+      "name": "Bun (Roll)",
+      "portion_estimate": "35g",
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Green Package (Unknown Food Item)",
+      "portion_estimate": "30g",
+      "confidence": 80
+    }
+  ]
+}

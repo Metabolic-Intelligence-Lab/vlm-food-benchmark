@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "breaded and fried food (possibly chicken)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "vegetable salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "jar (condiment or sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "bread rolls or slices",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "bananas",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

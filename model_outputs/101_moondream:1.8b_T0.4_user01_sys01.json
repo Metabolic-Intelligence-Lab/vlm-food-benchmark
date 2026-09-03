@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese with lemon",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "lasagna",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread slices",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

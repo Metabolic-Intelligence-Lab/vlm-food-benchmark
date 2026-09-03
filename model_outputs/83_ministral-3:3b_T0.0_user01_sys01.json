@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed kale with corn and chickpeas",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "plain yogurt (unsweetened, likely Greek)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "grilled chicken breast with mushroom cap",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "roasted sweet potato or butternut squash cubes",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "plain baked or fried sweet potato wedge",
+      "portion_estimate": "80g",
+      "confidence": 85
+    }
+  ]
+}

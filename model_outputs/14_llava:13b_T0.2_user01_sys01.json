@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed vegetables with dressing",
+      "portion_estimate": "80g",
+      "confidence": "60"
+    }
+  ]
+}

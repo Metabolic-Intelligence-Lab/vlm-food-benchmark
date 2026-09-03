@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Parmesan Cheese",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Salad with Carrots and Celery",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Slice of Pizza",
+      "portion_estimate": "120g",
+      "confidence": "60"
+    }
+  ]
+}

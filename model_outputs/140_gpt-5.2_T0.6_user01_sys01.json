@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "plums (whole)",
+      "portion_estimate": "160 g",
+      "confidence": "78"
+    },
+    {
+      "name": "white bread roll (wrapped)",
+      "portion_estimate": "70 g",
+      "confidence": "62"
+    },
+    {
+      "name": "Brussels sprouts (cooked)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded fish fillet (fried or baked)",
+      "portion_estimate": "140 g",
+      "confidence": "72"
+    },
+    {
+      "name": "cooked leafy greens (spinach or similar)",
+      "portion_estimate": "110 g",
+      "confidence": "60"
+    }
+  ]
+}

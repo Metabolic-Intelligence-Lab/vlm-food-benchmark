@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta with tomato sauce and melted cheese (penne/rigatoni)",
+      "portion_estimate": "280 g",
+      "confidence": "78"
+    },
+    {
+      "name": "green beans with breadcrumbs (seasoned)",
+      "portion_estimate": "170 g",
+      "confidence": "72"
+    },
+    {
+      "name": "breaded fried croquettes/cutlets (2 pieces)",
+      "portion_estimate": "120 g",
+      "confidence": "58"
+    },
+    {
+      "name": "cooked red cabbage (small portion)",
+      "portion_estimate": "40 g",
+      "confidence": "62"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "string cheese / mozzarella stick (packaged)",
+      "portion_estimate": "60 g",
+      "confidence": "66"
+    },
+    {
+      "name": "tomato-flavored yogurt/dessert cup",
+      "portion_estimate": "125 g",
+      "confidence": "55"
+    }
+  ]
+}

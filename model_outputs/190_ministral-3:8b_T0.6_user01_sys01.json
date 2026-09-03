@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried cutlet (appears to be chicken or pork)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed greens (spinach or similar leafy vegetable)",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with tomato sauce (likely penne or similar shape)",
+      "portion_estimate": "180 grams (cooked)",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "25g",
+      "confidence": 95
+    },
+    {
+      "name": "Quiche",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "20g",
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "20g",
+      "confidence": 95
+    }
+  ]
+}

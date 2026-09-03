@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "quiche",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "salad with carrots and broccoli",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "orzo pasta in a bowl",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    }
+  ]
+}

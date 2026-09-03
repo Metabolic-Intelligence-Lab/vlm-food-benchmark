@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fusilli with tomato sauce",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Chickpeas with sauce",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Wrapped bread",
+      "portion_estimate": "200 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt cup",
+      "portion_estimate": "100 grams",
+      "confidence": 60
+    }
+  ]
+}

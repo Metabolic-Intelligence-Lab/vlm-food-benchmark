@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable soup",
+      "portion_estimate": "300",
+      "confidence": "80"
+    },
+    {
+      "name": "Grated cheese (Parmesan)",
+      "portion_estimate": "15",
+      "confidence": "90"
+    },
+    {
+      "name": "Russet bread slice",
+      "portion_estimate": "60",
+      "confidence": "85"
+    },
+    {
+      "name": "Croutons",
+      "portion_estimate": "10",
+      "confidence": "80"
+    },
+    {
+      "name": "Whole wheat rye cracker (Volk),",
+      "portion_estimate": "15",
+      "confidence": "90"
+    }
+  ]
+}

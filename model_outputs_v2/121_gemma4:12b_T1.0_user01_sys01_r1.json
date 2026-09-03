@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with sauce",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "shredded carrot and vegetable salad",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "grilled salmon fillet",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "130g",
+      "confidence": 98
+    },
+    {
+      "name": "slices of bread",
+      "portion_estimate": "80g",
+      "confidence": 90
+    }
+  ]
+}

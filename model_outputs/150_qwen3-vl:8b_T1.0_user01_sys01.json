@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 95
+    },
+    {
+      "name": "Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Grapes",
+      "portion_estimate": "3 grams",
+      "confidence": 98
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 92
+    }
+  ]
+}

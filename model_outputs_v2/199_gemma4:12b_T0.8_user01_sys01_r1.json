@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto sauce and grated cheese",
+      "portion_estimate": "250g",
+      "confidence": "95"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "stuffed vegetable roll",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "green peas",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "bits of ham or bacon",
+      "portion_estimate": "40g",
+      "confidence": "80"
+    }
+  ]
+}

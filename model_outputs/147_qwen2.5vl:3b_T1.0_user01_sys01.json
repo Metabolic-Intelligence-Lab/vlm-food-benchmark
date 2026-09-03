@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fusilli pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Vegetables (green beans, corn, potato)",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

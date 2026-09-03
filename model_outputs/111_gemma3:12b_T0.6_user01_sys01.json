@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "fusilli pasta",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120",
+      "confidence": "90"
+    }
+  ]
+}

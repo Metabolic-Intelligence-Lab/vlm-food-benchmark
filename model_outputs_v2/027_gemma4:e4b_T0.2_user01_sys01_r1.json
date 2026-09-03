@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Stacked fried or baked cheese/bread cutlets",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Cooked dark leafy greens (e.g., spinach)",
+      "portion_estimate": "70g",
+      "confidence": "90"
+    },
+    {
+      "name": "Spaghetti with tomato sauce and grated cheese",
+      "portion_estimate": "220g",
+      "confidence": "95"
+    },
+    {
+      "name": "Creamy dipping sauce (e.g., aioli or cheese dip)",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "Water or clear beverage",
+      "portion_estimate": "250g",
+      "confidence": "95"
+    }
+  ]
+}

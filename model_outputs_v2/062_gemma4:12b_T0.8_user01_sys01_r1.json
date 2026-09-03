@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Farfalle pasta with tomatoes and seasonings",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Saut\u00e9ed leafy greens (spinach or kale)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Baked dish with sauce topping (possibly a potato cake or similar)",
+      "portion_estimate": "130g",
+      "confidence": 85
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "70g",
+      "confidence": 95
+    },
+    {
+      "name": "White liquid (milk or latte)",
+      "portion_estimate": "250g",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "hamburger with potatoes and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "salad ingredients (lettuce, carrots, broccoli)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "slices of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

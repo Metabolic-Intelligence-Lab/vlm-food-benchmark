@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Turkey and Avocado Wrap",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    },
+    {
+      "name": "Carb-Flour Bread",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Lettuce",
+      "portion_estimate": "20g",
+      "confidence": "90"
+    },
+    {
+      "name": "Tomato",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Avocado",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

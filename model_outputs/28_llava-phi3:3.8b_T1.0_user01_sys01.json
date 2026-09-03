@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Rigatoni with marinara sauce",
+      "portion_estimate": "0.43",
+      "confidence": "85"
+    },
+    {
+      "name": "Green leafy vegetable with cheese or spinach stuffed crust pizza",
+      "portion_estimate": "0.29",
+      "confidence": "67"
+    },
+    {
+      "name": "Piece of bread",
+      "portion_estimate": "0.41",
+      "confidence": "93"
+    },
+    {
+      "name": "Beverage in plastic cup with straw",
+      "portion_estimate": "0.51",
+      "confidence": "82"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Fish fillet",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

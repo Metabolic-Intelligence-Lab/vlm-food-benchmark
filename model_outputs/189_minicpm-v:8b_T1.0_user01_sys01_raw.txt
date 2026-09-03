@@ -1,0 +1,22 @@
+{
+  "food_items": [
+    {
+      "name": "dark brown soup",
+      "portion_estimate": "approximate weight in grams for each bowl not available",
+      "confidence": 95,
+      "uncertain_portion_estimate": false
+    },
+    {
+      "name": "green vegetables (likely spinach)",
+      "portion_estimate": "approximately a small to medium size portion based on visible quantity, no exact measurement possible.",
+      "confidence": 70,
+      "uncertain_portion_estimate": true
+    },
+    {
+      "name": "white rice cake with tomato sauce",
+      "portion_estimate": "1-2 slices of the entire item not available for estimation",
+      "confidence": 95,
+      "uncertain_portion_estimate": false
+    }
+  ],
+}

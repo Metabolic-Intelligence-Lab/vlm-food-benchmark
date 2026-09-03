@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "80"
+    }
+  ]
+}

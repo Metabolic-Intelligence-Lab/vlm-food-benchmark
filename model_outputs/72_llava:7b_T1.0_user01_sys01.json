@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Naan bread",
+      "portion_estimate": "60 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed vegetables with sauce",
+      "portion_estimate": "300 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Rice and vegetables with meat",
+      "portion_estimate": "250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Indian chai tea with sugar and creamer",
+      "portion_estimate": "1 cup",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup",
+      "portion_estimate": "400-500 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "peas and carrot mix",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "yogurt (peach flavor)",
+      "portion_estimate": "125 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    }
+  ]
+}

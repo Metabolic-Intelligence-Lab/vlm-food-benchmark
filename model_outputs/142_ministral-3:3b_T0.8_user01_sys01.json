@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grated cheese and potato mash",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "small piece of smoked fish (sashimi-style)",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "yellow peas/carrots in beans",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "herbs (parsley or similar) on fish",
+      "portion_estimate": "10",
+      "confidence": 75
+    },
+    {
+      "name": "black plums",
+      "portion_estimate": "20",
+      "confidence": 80
+    },
+    {
+      "name": "small roll or bread slice",
+      "portion_estimate": "25",
+      "confidence": 80
+    }
+  ]
+}

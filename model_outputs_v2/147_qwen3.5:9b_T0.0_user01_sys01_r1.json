@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fusilli pasta with grated cheese",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Hot cross bun (wrapped)",
+      "portion_estimate": 60,
+      "confidence": 92
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": 160,
+      "confidence": 93
+    },
+    {
+      "name": "Vegetable lasagna slice with side vegetables",
+      "portion_estimate": 250,
+      "confidence": 88
+    }
+  ]
+}

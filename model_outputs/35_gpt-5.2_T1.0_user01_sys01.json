@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "140 g",
+      "confidence": "82"
+    },
+    {
+      "name": "vegetable patty (falafel/veggie burger style)",
+      "portion_estimate": "85 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked rigatoni pasta with tomato sauce and grated cheese",
+      "portion_estimate": "260 g",
+      "confidence": "78"
+    },
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll (white bun)",
+      "portion_estimate": "70 g",
+      "confidence": "72"
+    }
+  ]
+}

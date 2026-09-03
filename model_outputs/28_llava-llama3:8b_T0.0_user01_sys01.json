@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce and meat",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "fish",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

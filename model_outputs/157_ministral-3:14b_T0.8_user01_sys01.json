@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "uncooked cavatappi or corkscrew pasta (dry)",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "grated cheese (likely Parmesan or Pecorino)",
+      "portion_estimate": "10g",
+      "confidence": 85
+    },
+    {
+      "name": "cooked lentils or small brown beans",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "roasted or saut\u00e9ed gnocchi (potato dumplings)",
+      "portion_estimate": "80g",
+      "confidence": 90
+    },
+    {
+      "name": "roasted eggplant (unpeeled)",
+      "portion_estimate": "25g",
+      "confidence": 75
+    },
+    {
+      "name": "whole pear (with skin)",
+      "portion_estimate": "180g",
+      "confidence": 95
+    }
+  ]
+}

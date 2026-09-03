@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "creamy soup with beans",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed green beans",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "carrot slices with sauce",
+      "portion_estimate": "80 grams",
+      "confidence": 80
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "30 grams",
+      "confidence": 75
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "toasted bread (whole grain)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    }
+  ]
+}

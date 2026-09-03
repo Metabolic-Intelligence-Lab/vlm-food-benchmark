@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Beef stew",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Saut\u00e9ed peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Roasted Potatoes or Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Sliced Pie or Cake (likely Apple Pie)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Corn Grits",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Butter or Spreadable Item",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Cheese and Ham Sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Unidentified Sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

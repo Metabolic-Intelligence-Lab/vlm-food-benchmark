@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fish",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mushroom and cheese pizza slice (with visible cauliflower)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or roasted cauliflower florets",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "savory porridge or grain-based dish with sesame seeds",
+      "portion_estimate": "250g",
+      "confidence": 75
+    },
+    {
+      "name": "packaged butter or spread (le Polnareff)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "small packaged baked goods (e.g., croissant or pastry)",
+      "portion_estimate": "50g",
+      "confidence": 70
+    }
+  ]
+}

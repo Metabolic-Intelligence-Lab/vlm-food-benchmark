@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked Beans on a white plate",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Sliced bread on a clear plastic bag",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked potato with skin",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green vegetables on a white plate",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Orange on a napkin",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    }
+  ]
+}

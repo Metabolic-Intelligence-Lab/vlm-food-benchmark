@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Baked fish with sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta salad",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed rice with vegetables",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta salad",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried potato wedges",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Parmesan cheese with breadsticks",
+      "portion_estimate": "75g",
+      "confidence": "60"
+    },
+    {
+      "name": "Breadsticks",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    }
+  ]
+}

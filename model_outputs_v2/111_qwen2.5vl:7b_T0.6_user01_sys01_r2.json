@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "chicken with sauce",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": 75
+    },
+    {
+      "name": "clearKit",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

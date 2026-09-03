@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pizza with broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad with mixed greens and orange vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "oranges",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

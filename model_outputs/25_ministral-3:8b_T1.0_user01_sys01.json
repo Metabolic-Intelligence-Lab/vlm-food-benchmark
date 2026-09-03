@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "brown chickpeas (hummus base, toppings included)",
+      "portion_estimate": "150g (chickpeas only ~120g)",
+      "confidence": 75
+    },
+    {
+      "name": "pasta (penne/fusilli) in tomato-based sauce",
+      "portion_estimate": "170g (cooked weight)",
+      "confidence": 70
+    },
+    {
+      "name": "sliced bread (packaged, likely whole wheat or similar)",
+      "portion_estimate": "45g",
+      "confidence": 85
+    },
+    {
+      "name": "butter or margarine packet (likely on the tray)",
+      "portion_estimate": "uncertain (not clearly visible)",
+      "confidence": 30
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fish",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Brussel Sprouts",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "50"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200ml",
+      "confidence": "90"
+    },
+    {
+      "name": "Yomg Yogurt",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Salt",
+      "portion_estimate": "5g",
+      "confidence": "70"
+    }
+  ]
+}

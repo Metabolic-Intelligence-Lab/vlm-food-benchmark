@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with meatballs/sauce (paccheri or similar)",
+      "portion_estimate": "250-300g",
+      "confidence": 85
+    },
+    {
+      "name": "quinoa or couscous salad with broccoli rabe/arugula and cheese",
+      "portion_estimate": "120-150g (dry weight)",
+      "confidence": 80
+    },
+    {
+      "name": "sausage or similar (grilled or fried, wrapped in plastic)",
+      "portion_estimate": "100-120g",
+      "confidence": 85
+    },
+    {
+      "name": "scallop or clam wrapped in bacon/prosciutto with saut\u00e9ed vegetables",
+      "portion_estimate": "100-120g (including shell)",
+      "confidence": 75
+    },
+    {
+      "name": "fresh plum or similar stone fruit",
+      "portion_estimate": "150-180g",
+      "confidence": 90
+    }
+  ]
+}

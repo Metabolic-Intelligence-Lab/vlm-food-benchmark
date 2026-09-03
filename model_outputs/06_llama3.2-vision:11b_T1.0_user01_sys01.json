@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta in light sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Fried egg",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Fried chicken cutlet",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Zucchini",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Pastry",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

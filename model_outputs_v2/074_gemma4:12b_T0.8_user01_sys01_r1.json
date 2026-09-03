@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "water",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "roasted butternut squash",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "farfalle pasta with tomato sauce",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "steamed green beans",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": 90
+    }
+  ]
+}

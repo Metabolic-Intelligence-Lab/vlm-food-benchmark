@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans with carrots",
+      "portion_estimate": "120g",
+      "confidence": 100
+    },
+    {
+      "name": "Sweet potato",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "Yellow rice",
+      "portion_estimate": "120g",
+      "confidence": 100
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "60g",
+      "confidence": 100
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "60g",
+      "confidence": 100
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "120g",
+      "confidence": 100
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200ml",
+      "confidence": 100
+    }
+  ]
+}

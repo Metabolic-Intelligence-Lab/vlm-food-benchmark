@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked leafy greens (spinach/chard, saut\u00e9ed)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    },
+    {
+      "name": "white fish fillet (steamed/poached)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "hard-boiled egg (piece)",
+      "portion_estimate": "15 g",
+      "confidence": "65"
+    },
+    {
+      "name": "sliced whole-grain bread (2 slices)",
+      "portion_estimate": "70 g",
+      "confidence": "75"
+    },
+    {
+      "name": "fruit yogurt cup (strawberry/apricot style)",
+      "portion_estimate": "125 g",
+      "confidence": "75"
+    },
+    {
+      "name": "butter packet",
+      "portion_estimate": "10 g",
+      "confidence": "80"
+    }
+  ]
+}

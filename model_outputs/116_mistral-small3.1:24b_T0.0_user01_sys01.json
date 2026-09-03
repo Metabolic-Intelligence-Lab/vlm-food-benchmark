@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup with parmesan cheese",
+      "portion_estimate": "300",
+      "confidence": "85"
+    },
+    {
+      "name": "caesar salad",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "grilled cheese sandwich",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "whole grain bread",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "240",
+      "confidence": "90"
+    }
+  ]
+}

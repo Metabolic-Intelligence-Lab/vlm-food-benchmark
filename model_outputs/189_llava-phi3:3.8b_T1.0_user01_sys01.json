@@ -1,0 +1,31 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "200g",
+      "confidence": "95"
+    },
+    {
+      "name": "Pasta with Meatballs",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried Cabbage Rolls",
+      "portion_estimate": "130g",
+      "confidence": "90"
+    }
+  ],
+  "additional_info": [
+    {
+      "item": "Chocolate Chip Cookie with Milk in a Plastic Bag",
+      "portion_estimate": "185g",
+      "confidence": "70"
+    },
+    {
+      "item": "Garlic Bread on Table near Soup",
+      "portion_estimate": "140g",
+      "confidence": "60"
+    }
+  ]
+}

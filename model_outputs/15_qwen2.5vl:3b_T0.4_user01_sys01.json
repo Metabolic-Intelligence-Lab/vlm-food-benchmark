@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "crispy fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "buttered onions",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "buttered onion",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "crusty bread",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

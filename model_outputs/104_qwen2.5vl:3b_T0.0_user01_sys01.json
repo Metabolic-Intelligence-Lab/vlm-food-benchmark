@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup with beans and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "baguette",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Vegetable side dish",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Meat patty with tomato and lettuce",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "70g",
+      "confidence": "80"
+    }
+  ]
+}

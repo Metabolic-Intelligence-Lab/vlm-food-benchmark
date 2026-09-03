@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Fish and Chips",
+      "portion_estimate": "80g",
+      "confidence": "94"
+    },
+    {
+      "name": "Lemon wedges on plate",
+      "portion_estimate": "1 wedge",
+      "confidence": "97"
+    },
+    {
+      "name": "Bread roll in plastic bag",
+      "portion_estimate": "80g",
+      "confidence": "96"
+    },
+    {
+      "name": "Pasta with sauce on plate",
+      "portion_estimate": "200g",
+      "confidence": "94"
+    }
+  ]
+}

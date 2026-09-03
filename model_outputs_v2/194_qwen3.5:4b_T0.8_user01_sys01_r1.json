@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Soup (likely tomato, vegetable, or minestrone)",
+      "portion_estimate": "250",
+      "confidence": 70
+    },
+    {
+      "name": "Stuffed bun / roll (looks like a pizza bread base with toppings)",
+      "portion_estimate": "100",
+      "confidence": 60
+    },
+    {
+      "name": "Steamed greens (likely broccoli or similar vegetable)",
+      "portion_estimate": "80",
+      "confidence": 75
+    }
+  ]
+}

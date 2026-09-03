@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "75",
+      "confidence": 95
+    },
+    {
+      "name": "Green Vegetable with Sauce",
+      "portion_estimate": "120",
+      "confidence": 70
+    },
+    {
+      "name": "Yomo Cheese",
+      "portion_estimate": "15",
+      "confidence": 90
+    }
+  ]
+}

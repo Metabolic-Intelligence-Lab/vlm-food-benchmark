@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "1 bowl",
+      "confidence": 90
+    },
+    {
+      "name": "pasta and meat",
+      "portion_estimate": "1 plate",
+      "confidence": 80
+    },
+    {
+      "name": "yogurts",
+      "portion_estimate": "2",
+      "confidence": 70
+    }
+  ]
+}

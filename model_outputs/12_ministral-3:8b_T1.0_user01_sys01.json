@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "sunny-side-up egg (1 whole)",
+      "portion_estimate": "60 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "potato fries (large portion)",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed or saut\u00e9ed leafy greens (likely bok choy or broccoli stems)",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "sausage or bacon (wrapped in foil, partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

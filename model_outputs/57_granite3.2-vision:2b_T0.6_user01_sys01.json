@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "red sauce (tomato-based)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "garlic",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "green peas",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "eggplant",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

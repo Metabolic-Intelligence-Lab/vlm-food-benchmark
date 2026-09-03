@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni and cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Bread roll with some spread or butter",
+      "portion_estimate": "60 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Steak with sauce on top",
+      "portion_estimate": "120 grams",
+      "confidence": 40
+    },
+    {
+      "name": "Beef and vegetable stew with beans and lentils",
+      "portion_estimate": "160 grams",
+      "confidence": 50
+    },
+    {
+      "name": "Baked bean dish",
+      "portion_estimate": "140 grams",
+      "confidence": 30
+    },
+    {
+      "name": "Steamed vegetable with herbs",
+      "portion_estimate": "60 grams",
+      "confidence": 50
+    },
+    {
+      "name": "Green salad",
+      "portion_estimate": "120 grams",
+      "confidence": 30
+    },
+    {
+      "name": "Baked potato with sour cream and chives",
+      "portion_estimate": "160 grams",
+      "confidence": 50
+    }
+  ]
+}

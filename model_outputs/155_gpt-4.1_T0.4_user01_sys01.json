@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bow-tie pasta with grated cheese",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "110",
+      "confidence": 95
+    },
+    {
+      "name": "sliced white bread (2 slices)",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "vegetable frittata",
+      "portion_estimate": "90",
+      "confidence": 85
+    },
+    {
+      "name": "broad beans and carrots",
+      "portion_estimate": "80",
+      "confidence": 85
+    }
+  ]
+}

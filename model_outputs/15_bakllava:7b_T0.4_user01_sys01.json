@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Indian food",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "tray with different types of food",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cookie",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "table with several different dishes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

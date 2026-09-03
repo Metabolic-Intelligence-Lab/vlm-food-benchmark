@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Parmesan Cheese",
+      "portion_estimate": "medium",
+      "confidence": 70
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "small",
+      "confidence": 60
+    },
+    {
+      "name": "Stuffed Mushroom with Cheese",
+      "portion_estimate": "medium",
+      "confidence": 75
+    },
+    {
+      "name": "Baby Brussels Sprouts",
+      "portion_estimate": "small",
+      "confidence": 60
+    }
+  ]
+}

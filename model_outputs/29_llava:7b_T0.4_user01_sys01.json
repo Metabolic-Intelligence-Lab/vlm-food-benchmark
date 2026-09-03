@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni and cheese with bread",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fruit salad (apple, peach)",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cheese pizza",
+      "portion_estimate": "1 slice",
+      "confidence": "60"
+    },
+    {
+      "name": "Roasted vegetables (broccoli, cauliflower)",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ]
+}

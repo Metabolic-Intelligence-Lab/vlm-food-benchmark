@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "salad with shredded carrots, cucumber, and leafy greens",
+      "portion_estimate": "200-250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat roll",
+      "portion_estimate": "50-60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "spinach (cooked, possibly saut\u00e9ed)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "potato croquette with mayonnaise and brown sauce",
+      "portion_estimate": "100-120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "three red plums",
+      "portion_estimate": "70-80 grams",
+      "confidence": 90
+    }
+  ]
+}

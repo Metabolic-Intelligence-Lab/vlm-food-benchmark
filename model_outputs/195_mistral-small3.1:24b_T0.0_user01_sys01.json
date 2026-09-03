@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "diced potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "ground beef",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "sugar",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

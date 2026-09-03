@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll or bun",
+      "portion_estimate": "110g",
+      "confidence": "95"
+    },
+    {
+      "name": "Green/brown soup or curry (in bowl)",
+      "portion_estimate": "320g",
+      "confidence": "90"
+    },
+    {
+      "name": "Omelet or savory crepe with white topping",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Saut\u00e9ed mixed vegetables or curry side",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    }
+  ]
+}

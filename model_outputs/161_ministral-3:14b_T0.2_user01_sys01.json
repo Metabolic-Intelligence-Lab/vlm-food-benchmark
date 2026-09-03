@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce and grated cheese",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "mixed vegetable medley (carrots, peas, broccoli, corn)",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "quinoa or couscous salad with herbs and cheese",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "baked bread roll (ciabatta or similar)",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "ripe pear",
+      "portion_estimate": "180",
+      "confidence": 95
+    }
+  ]
+}

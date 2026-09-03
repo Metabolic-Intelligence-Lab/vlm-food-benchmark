@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "boiled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "pasta with cheese sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "bread slice in plastic wrap",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "orange fruit",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "boiled green beans",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "crispy cheese-topped baked egg whites/yolk halves",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "cooked roasted vegetable/bread with butter",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange (whole slice, approximately \u00bd cup)",
+      "portion_estimate": "50 grams",
+      "confidence": 75
+    }
+  ]
+}

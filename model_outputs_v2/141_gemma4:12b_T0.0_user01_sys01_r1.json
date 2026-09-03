@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "whole grain bread slice",
+      "portion_estimate": "60g",
+      "confidence": 95
+    },
+    {
+      "name": "broccoli and white cheese/vegetable mixture",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted chickpeas",
+      "portion_estimate": "130g",
+      "confidence": 95
+    },
+    {
+      "name": "squeeze yogurt cup",
+      "portion_estimate": "125g",
+      "confidence": 90
+    }
+  ]
+}

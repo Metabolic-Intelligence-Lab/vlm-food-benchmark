@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni and Cheese",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Side Salad",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "Yomo Yogurt",
+      "portion_estimate": "60g",
+      "confidence": 90
+    }
+  ]
+}

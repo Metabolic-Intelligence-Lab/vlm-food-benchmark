@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "roasted potato cubes",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "ground meat with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "roasted potato cubes",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "ground meat with tomato sauce",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "90"
+    }
+  ]
+}

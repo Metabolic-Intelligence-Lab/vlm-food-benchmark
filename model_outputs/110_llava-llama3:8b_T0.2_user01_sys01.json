@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "vegetable mix",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

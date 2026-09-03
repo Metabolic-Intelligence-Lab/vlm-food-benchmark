@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green soup (likely spinach or lentil-based)",
+      "portion_estimate": "300g",
+      "confidence": 85
+    },
+    {
+      "name": "grated cheese (on soup)",
+      "portion_estimate": "15g",
+      "confidence": 70
+    },
+    {
+      "name": "fried plantain chips",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "fried dough fritters (possibly empanadas or arepas)",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "whole wheat or multigrain bread roll",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "Yogurt (plain, unsweetened)",
+      "portion_estimate": "125g",
+      "confidence": 100
+    }
+  ]
+}

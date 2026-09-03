@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese and tomato-based sauce",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Grilled salmon fillet",
+      "portion_estimate": "130g",
+      "confidence": 95
+    },
+    {
+      "name": "Cooked white beans",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Cheese portion",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "Red grapes",
+      "portion_estimate": "45g",
+      "confidence": 95
+    }
+  ]
+}

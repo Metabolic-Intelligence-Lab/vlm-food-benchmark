@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "burrito bun",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "tamarind chutney",
+      "portion_estimate": "40",
+      "confidence": 80
+    },
+    {
+      "name": "red onion salad",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "cucumber slices",
+      "portion_estimate": "30",
+      "confidence": 85
+    },
+    {
+      "name": "fried onion salad",
+      "portion_estimate": "70",
+      "confidence": 80
+    },
+    {
+      "name": "vegetable patty",
+      "portion_estimate": "100",
+      "confidence": 80
+    }
+  ]
+}

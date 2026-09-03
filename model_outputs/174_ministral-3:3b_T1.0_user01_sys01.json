@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled or pan-seared fish fillet",
+      "portion_estimate": "200-250 grams",
+      "confidence": 95
+    },
+    {
+      "name": "roasted broccoli and zucchini mix with garlic oil drizzle",
+      "portion_estimate": "120 grams",
+      "confidence": 92
+    },
+    {
+      "name": "plain grilled broccoli florets",
+      "portion_estimate": "100 grams",
+      "confidence": 94
+    },
+    {
+      "name": "orange, whole fruit",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Starbucks bun, small",
+      "portion_estimate": "45-55 grams",
+      "confidence": 75
+    }
+  ]
+}

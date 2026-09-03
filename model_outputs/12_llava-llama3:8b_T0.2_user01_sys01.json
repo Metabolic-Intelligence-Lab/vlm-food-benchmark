@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fried egg",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "kale",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red and white cup",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "clear cup with red lid",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

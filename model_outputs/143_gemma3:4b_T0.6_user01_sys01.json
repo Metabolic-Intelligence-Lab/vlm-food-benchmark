@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Yomo Plain Greek Yogurt",
+      "portion_estimate": "60 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Baked Fish with Potatoes",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "Granola Bar",
+      "portion_estimate": "45 grams",
+      "confidence": 80
+    }
+  ]
+}

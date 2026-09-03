@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Rice",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    }
+  ]
+}

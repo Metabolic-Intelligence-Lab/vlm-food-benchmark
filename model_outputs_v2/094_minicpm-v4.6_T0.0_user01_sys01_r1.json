@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "tortilla wrap",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "shredded cheese",
+      "portion_estimate": "approximately 80 grams",
+      "confidence": 90
+    },
+    {
+      "name": "red sauce (salsa)",
+      "portion_estimate": "approximately 30 grams",
+      "confidence": 85
+    }
+  ]
+}

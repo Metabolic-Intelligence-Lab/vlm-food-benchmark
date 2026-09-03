@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli and potato soup",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "bread or roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "baked food (dessert or savory)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

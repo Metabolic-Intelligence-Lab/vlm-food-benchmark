@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup/broth (with olive oil drizzle)",
+      "portion_estimate": "250",
+      "confidence": "75"
+    },
+    {
+      "name": "sliced boiled carrots",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "breaded fried croquettes (arancini/cutlets)",
+      "portion_estimate": "160",
+      "confidence": "65"
+    },
+    {
+      "name": "grissini breadsticks (Torinesi)",
+      "portion_estimate": "20",
+      "confidence": "70"
+    },
+    {
+      "name": "sliced bread roll",
+      "portion_estimate": "50",
+      "confidence": "55"
+    },
+    {
+      "name": "single-serve jam/marmalade cup",
+      "portion_estimate": "20",
+      "confidence": "60"
+    },
+    {
+      "name": "uncertain green side dish (partially visible bottom of tray)",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

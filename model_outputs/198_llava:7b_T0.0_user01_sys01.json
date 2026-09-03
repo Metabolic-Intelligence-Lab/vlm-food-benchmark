@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken breast with sauce",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "30 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Sour cream and chives",
+      "portion_estimate": "15 grams",
+      "confidence": "60"
+    }
+  ]
+}

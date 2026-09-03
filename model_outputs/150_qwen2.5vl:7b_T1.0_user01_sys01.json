@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with creamy sauce and grated cheese",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Mixed vegetables (carrots, potatoes, brussels sprouts, squash, and spinach)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "Small whole wheat roll",
+      "portion_estimate": "50g",
+      "confidence": 75
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "50g",
+      "confidence": 70
+    }
+  ]
+}

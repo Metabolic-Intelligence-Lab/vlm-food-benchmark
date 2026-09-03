@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "broth or soup in bowl",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "crackers (single pack, likely saltine or similar)",
+      "portion_estimate": "30g",
+      "confidence": 80
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250ml (\u2248250g)",
+      "confidence": 85
+    },
+    {
+      "name": "chicken or turkey breast slice with gravy",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "chickpeas (roasted or boiled)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    }
+  ]
+}

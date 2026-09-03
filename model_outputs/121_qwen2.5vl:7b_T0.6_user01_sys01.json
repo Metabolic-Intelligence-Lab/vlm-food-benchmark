@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with parmesan",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "carrot and lettuce salad",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": 95
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "40 grams",
+      "confidence": 80
+    },
+    {
+      "name": "piece of quiche",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    }
+  ]
+}

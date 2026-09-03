@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable soup",
+      "portion_estimate": "225 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "35 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cabbage salad",
+      "portion_estimate": "180 g",
+      "confidence": "75"
+    },
+    {
+      "name": "Breaded vegetable balls",
+      "portion_estimate": "50 g",
+      "confidence": "65"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200 g",
+      "confidence": "90"
+    }
+  ]
+}

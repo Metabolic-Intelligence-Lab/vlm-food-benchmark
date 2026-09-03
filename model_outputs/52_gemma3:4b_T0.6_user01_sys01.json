@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Cheese Sandwich",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "Pasta with Sauce",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "Fruit (apple)",
+      "portion_estimate": "80g",
+      "confidence": 60
+    }
+  ]
+}

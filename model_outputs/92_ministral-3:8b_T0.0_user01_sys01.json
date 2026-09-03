@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy vegetable soup with grated cheese",
+      "portion_estimate": "300g",
+      "confidence": 75
+    },
+    {
+      "name": "roasted potatoes (small cubes)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "stuffed cabbage rolls (or possibly meatballs with cabbage)",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "whole wheat or multigrain roll/bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "banana (partially visible, cut)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

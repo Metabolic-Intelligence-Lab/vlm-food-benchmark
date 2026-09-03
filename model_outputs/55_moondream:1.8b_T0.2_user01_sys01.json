@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "carrots and mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "broccoli and cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "other vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

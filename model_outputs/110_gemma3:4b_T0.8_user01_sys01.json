@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Cheese and Herb Pastry",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "Peas with carrots",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "Purple Grape",
+      "portion_estimate": "15",
+      "confidence": 70
+    }
+  ]
+}

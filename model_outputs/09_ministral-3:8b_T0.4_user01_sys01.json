@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked potato with cheese and toppings (likely chili or similar)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "mashed or diced potatoes with herbs",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "packaged bread roll or bun",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt or dairy dessert in small cup",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "water in clear plastic cup",
+      "portion_estimate": "uncertain (no visible measurement)",
+      "confidence": 50
+    }
+  ]
+}

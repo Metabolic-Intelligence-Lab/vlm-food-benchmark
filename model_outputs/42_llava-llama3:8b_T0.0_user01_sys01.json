@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked pasta with vegetables and meat",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "rice with purple cabbage and orange carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

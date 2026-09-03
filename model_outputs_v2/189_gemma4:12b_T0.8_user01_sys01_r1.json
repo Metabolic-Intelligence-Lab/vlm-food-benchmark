@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup",
+      "portion_estimate": "350g",
+      "confidence": 90
+    },
+    {
+      "name": "flatbread with red chutney",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "sauteed green leafy vegetables",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Lassi (yogurt drink)",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "fried potato sticks",
+      "portion_estimate": "150g",
+      "confidence": 75
+    }
+  ]
+}

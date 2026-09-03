@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cup of tomato soup with croutons",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Whole grain roll",
+      "portion_estimate": "65g",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrot salad with dressing",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Mixed vegetables including peas, green beans, and broccoli",
+      "portion_estimate": "150g",
+      "confidence": "40"
+    }
+  ]
+}

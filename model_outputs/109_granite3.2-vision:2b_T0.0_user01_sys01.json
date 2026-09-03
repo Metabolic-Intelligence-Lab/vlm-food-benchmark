@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "green apple slices",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "hard-boiled egg",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

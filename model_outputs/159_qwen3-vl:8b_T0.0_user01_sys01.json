@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with Parmesan cheese",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Spinach and cheese tart",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Dinner roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "150",
+      "confidence": "90"
+    }
+  ]
+}

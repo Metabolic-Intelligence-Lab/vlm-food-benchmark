@@ -1,0 +1,30 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Roasted vegetables (brussels sprouts)",
+      "portion_estimate": "uncertain",
+      "confidence": "65"
+    },
+    {
+      "name": "Pork dumplings or potstickers",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread bun",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Yoplait yogurt with fruit",
+      "portion_estimate": "uncertain",
+      "confidence": "63"
+    }
+  ],
+  "summary": "The image shows a meal consisting of pasta, roasted vegetables (brussels sprouts), pork dumplings or potstickers, bread bun, and possibly Yoplait yogurt. The portion sizes are uncertain for most items except the bread which is estimated to be about 180g."
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green lentil soup with parmesan",
+      "portion_estimate": "400",
+      "confidence": 85
+    },
+    {
+      "name": "steamed cabbage roll with mushroom",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "diced root vegetables in sauce (squash/peppers)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "plain baguette roll",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt cup (240g)",
+      "portion_estimate": "190",
+      "confidence": 90
+    }
+  ]
+}

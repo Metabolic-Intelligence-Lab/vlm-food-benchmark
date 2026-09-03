@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "uncertain, approximately a bowl's worth",
+      "confidence": "50"
+    },
+    {
+      "name": "toasted sandwich with butter and cheese",
+      "portion_estimate": "1 slice of bread (28g) + 1 small piece of butter (3.9g)",
+      "confidence": "60"
+    },
+    {
+      "name": "cauliflower mash",
+      "portion_estimate": "uncertain, approximately a quarter plate's worth",
+      "confidence": "50"
+    },
+    {
+      "name": "cracker with herbs and cheese",
+      "portion_estimate": "1 cracker (28g) + 1 small piece of butter (3.9g)",
+      "confidence": "60"
+    }
+  ]
+}

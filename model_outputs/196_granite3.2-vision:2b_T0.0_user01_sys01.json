@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Bread (pita or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Stew or Soup with meat and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Roasted or saut\u00e9ed chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

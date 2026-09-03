@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "creamy vegetable soup",
+      "portion_estimate": "250",
+      "confidence": "75"
+    },
+    {
+      "name": "white bread slice",
+      "portion_estimate": "30",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed vegetables (likely potatoes and carrots)",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt (plain)",
+      "portion_estimate": "125",
+      "confidence": "100"
+    }
+  ]
+}

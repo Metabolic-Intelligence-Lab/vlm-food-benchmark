@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "creamy soup (likely lentil or split pea)",
+      "portion_estimate": "350 grams",
+      "confidence": 75
+    },
+    {
+      "name": "bun (plain or sesame seed)",
+      "portion_estimate": "60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "grilled meat patty (likely beef or chicken)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "pickled vegetables (e.g., pickles or relish)",
+      "portion_estimate": "30 grams",
+      "confidence": 70
+    },
+    {
+      "name": "mashed potatoes or potato salad",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "butter or margarine packet",
+      "portion_estimate": "10 grams (small packet)",
+      "confidence": 60
+    },
+    {
+      "name": "condiment packet (likely salt or seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "water or clear beverage in cup",
+      "portion_estimate": "uncertain (cup size unclear)",
+      "confidence": 40
+    }
+  ]
+}

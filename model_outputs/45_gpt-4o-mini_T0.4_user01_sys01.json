@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked casserole with vegetables",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "shredded carrots salad",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "green beans with corn and tomato",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    }
+  ]
+}

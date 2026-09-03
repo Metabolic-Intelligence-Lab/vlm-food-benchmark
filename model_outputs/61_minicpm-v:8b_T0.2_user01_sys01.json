@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Tomato soup",
+      "portion_estimate": "uncertain, approx. 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Omelette with mushrooms and potatoes",
+      "portion_estimate": "uncertain, approx. 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Instant coffee pod",
+      "portion_estimate": "uncertain, approx. 3g",
+      "confidence": "40"
+    }
+  ]
+}

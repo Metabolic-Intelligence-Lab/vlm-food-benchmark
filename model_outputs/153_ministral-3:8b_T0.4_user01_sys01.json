@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans (steamed or saut\u00e9ed)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "fried egg with cheese and tomato",
+      "portion_estimate": "100g (egg + toppings)",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with meat sauce and grated cheese",
+      "portion_estimate": "200g (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "whole pear",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "baguette or bread roll (partially visible, wrapped)",
+      "portion_estimate": "uncertain (likely ~50-70g per roll)",
+      "confidence": 55
+    }
+  ]
+}

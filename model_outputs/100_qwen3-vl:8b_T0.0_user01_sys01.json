@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta with cheese",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "diced cucumber and zucchini salad",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

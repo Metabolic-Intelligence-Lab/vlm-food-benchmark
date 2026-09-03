@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and basil",
+      "portion_estimate": "100-120g",
+      "confidence": 95
+    },
+    {
+      "name": "roasted potatoes and onions",
+      "portion_estimate": "150-180g",
+      "confidence": 92
+    },
+    {
+      "name": "fried breaded meatball (likely chicken or beef)",
+      "portion_estimate": "50-70g",
+      "confidence": 90
+    },
+    {
+      "name": "plain water glass",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "plain yogurt container (unlabelled specific type, Tolomino brand)",
+      "portion_estimate": "uncertain, but likely under 100g (standard single serve)",
+      "confidence": 80
+    }
+  ]
+}

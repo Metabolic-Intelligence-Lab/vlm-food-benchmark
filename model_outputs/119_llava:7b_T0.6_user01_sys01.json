@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with red sauce",
+      "portion_estimate": "about 200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "garlic bread",
+      "portion_estimate": "one piece",
+      "confidence": "65"
+    },
+    {
+      "name": "veggie soup with lentils",
+      "portion_estimate": "about 300 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "side of breadsticks",
+      "portion_estimate": "two pieces",
+      "confidence": "75"
+    }
+  ]
+}

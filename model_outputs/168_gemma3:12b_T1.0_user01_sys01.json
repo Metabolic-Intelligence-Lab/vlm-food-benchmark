@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked elbow macaroni",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked carrots (chopped)",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked cabbage (shredded)",
+      "portion_estimate": "75",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "40",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked kidney beans",
+      "portion_estimate": "30",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sausages or meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "quiche or savory pie",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pasta salad (red kidney beans, pasta, other beans/legumes)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

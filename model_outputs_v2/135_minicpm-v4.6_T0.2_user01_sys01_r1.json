@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "baked casserole with barbecue sauce",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "potatoes or mashed vegetables",
+      "portion_estimate": "120 g",
+      "confidence": 80
+    },
+    {
+      "name": "carrots or other orange veg",
+      "portion_estimate": "50 g",
+      "confidence": 70
+    }
+  ]
+}

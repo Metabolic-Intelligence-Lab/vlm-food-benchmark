@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Scrambled eggs with toast",
+      "portion_estimate": "200-300 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Pasta with red sauce (spaghetti Bolognese)",
+      "portion_estimate": "150-250 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Vegetables (spinach and leafy greens)",
+      "portion_estimate": "75-150 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100-200 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Bread or roll",
+      "portion_estimate": "50-100 grams",
+      "confidence": 60
+    }
+  ]
+}

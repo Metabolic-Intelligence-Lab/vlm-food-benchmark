@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne with Tomato Sauce",
+      "portion_estimate": "uncertain, approx 250g",
+      "confidence": "60"
+    },
+    {
+      "name": "Steamed Spinach Leaves",
+      "portion_estimate": "uncertain, approx 100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Grilled Salmon with Glaze",
+      "portion_estimate": "uncertain, approx 250g",
+      "confidence": "60"
+    },
+    {
+      "name": "Packed Cookies or Biscuits",
+      "portion_estimate": "uncertain, approx 120-150g per biscuit based on visible count of at least three",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked penne pasta with tomato sauce and melted cheese",
+      "portion_estimate": "260 g",
+      "confidence": "78"
+    },
+    {
+      "name": "eggplant slice with hummus (or similar creamy spread) and shredded lettuce garnish",
+      "portion_estimate": "70 g",
+      "confidence": "60"
+    },
+    {
+      "name": "mixed salad (cabbage/lettuce, shredded carrot) with sliced chicken",
+      "portion_estimate": "140 g",
+      "confidence": "72"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "65 g",
+      "confidence": "80"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "250 g",
+      "confidence": "55"
+    }
+  ]
+}

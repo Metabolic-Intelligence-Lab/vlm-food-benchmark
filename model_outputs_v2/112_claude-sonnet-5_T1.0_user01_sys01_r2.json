@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto sauce and grated parmesan",
+      "portion_estimate": "220",
+      "confidence": "80"
+    },
+    {
+      "name": "baked cheese and tomato lasagna/pasta bake square",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "boiled brussels sprouts",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "black plums, whole",
+      "portion_estimate": "130",
+      "confidence": "75"
+    },
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "60",
+      "confidence": "55"
+    },
+    {
+      "name": "individually wrapped cheese wedge (e.g. Babybel-style)",
+      "portion_estimate": "20",
+      "confidence": "55"
+    },
+    {
+      "name": "uncertain packaged item (top of tray, plastic wrapped)",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

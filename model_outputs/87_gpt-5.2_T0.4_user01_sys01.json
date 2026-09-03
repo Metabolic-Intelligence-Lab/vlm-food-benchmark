@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked small pasta (orecchiette/shell-like) with oil/seasoning",
+      "portion_estimate": "220 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked green beans with breadcrumb/seasoning topping",
+      "portion_estimate": "180 g",
+      "confidence": "75"
+    },
+    {
+      "name": "breaded patties/croquettes (round, fried/baked)",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "cooked eggplant slices (dark purple pieces)",
+      "portion_estimate": "50 g",
+      "confidence": "60"
+    },
+    {
+      "name": "peach/nectarine (whole)",
+      "portion_estimate": "140 g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll (in plastic bag)",
+      "portion_estimate": "60 g",
+      "confidence": "65"
+    }
+  ]
+}

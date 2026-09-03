@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with cheese (whole bowl)",
+      "portion_estimate": "450-500g (raw weight, cooked weight may be ~250-300g)",
+      "confidence": 75
+    },
+    {
+      "name": "assorted roasted vegetables (cauliflower, carrots, potatoes)",
+      "portion_estimate": "350-400g",
+      "confidence": 80
+    },
+    {
+      "name": "vegetable quiche or frittata (one item)",
+      "portion_estimate": "200-250g",
+      "confidence": 85
+    },
+    {
+      "name": "plums (two whole)",
+      "portion_estimate": "100-120g",
+      "confidence": 85
+    },
+    {
+      "name": "packaged baguette or breadsticks (loosely packed in bag)",
+      "portion_estimate": "200-250g",
+      "confidence": 70
+    }
+  ]
+}

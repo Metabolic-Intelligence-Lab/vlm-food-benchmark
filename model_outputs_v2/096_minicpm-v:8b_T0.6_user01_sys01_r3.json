@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "apple juice",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "chocolate wafer bars",
+      "portion_estimate": "uncertain exact weight, likely around 1-2 servings each (approximately 40-60g per bar)",
+      "confidence": "70"
+    }
+  ]
+}

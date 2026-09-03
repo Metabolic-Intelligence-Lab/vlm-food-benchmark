@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "chickpea and carrot salad (cooked chickpeas with diced carrots)",
+      "portion_estimate": "170 g",
+      "confidence": "78"
+    },
+    {
+      "name": "penne pasta with pesto sauce",
+      "portion_estimate": "240 g",
+      "confidence": "75"
+    },
+    {
+      "name": "grated Parmesan cheese (topping on pasta)",
+      "portion_estimate": "8 g",
+      "confidence": "65"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "170 g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (white bun)",
+      "portion_estimate": "60 g",
+      "confidence": "70"
+    },
+    {
+      "name": "string cheese (mozzarella stick, packaged)",
+      "portion_estimate": "30 g",
+      "confidence": "62"
+    },
+    {
+      "name": "baked eggplant slice with melted cheese (eggplant parm-style bite)",
+      "portion_estimate": "55 g",
+      "confidence": "58"
+    }
+  ]
+}

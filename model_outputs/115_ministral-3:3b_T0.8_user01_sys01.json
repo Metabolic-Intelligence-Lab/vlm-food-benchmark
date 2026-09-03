@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with Parmesan coating",
+      "portion_estimate": "180 g",
+      "confidence": 95
+    },
+    {
+      "name": "grape cluster (likely seedless table grapes)",
+      "portion_estimate": "20 g (1 small bunch)",
+      "confidence": 85
+    },
+    {
+      "name": "salad with mixed greens, tomatoes, cucumbers, and cheese",
+      "portion_estimate": "120 g",
+      "confidence": 85
+    },
+    {
+      "name": "meatballs (likely minced beef/pork) in sauce",
+      "portion_estimate": "100 g",
+      "confidence": 80
+    },
+    {
+      "name": "unsliced baguette (barely visible underneath penne)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

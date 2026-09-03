@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "200g",
+      "image": "http://example.com/pasta"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "150g",
+      "image": "http://example.com/breadroll"
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "300g",
+      "image": "http://example.com/brusselssprouts"
+    }
+  ]
+}

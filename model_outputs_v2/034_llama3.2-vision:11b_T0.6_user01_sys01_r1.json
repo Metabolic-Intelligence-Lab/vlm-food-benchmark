@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "spinach",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "fritter",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "parmesan",
+      "portion_estimate": "20g",
+      "confidence": "90"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    }
+  ]
+}

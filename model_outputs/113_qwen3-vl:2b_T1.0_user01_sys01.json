@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "300 grams",
+      "confidence": "100"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "150 grams",
+      "confidence": "100"
+    },
+    {
+      "name": "Apples",
+      "portion_estimate": "200 grams",
+      "confidence": "100"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "200 grams",
+      "confidence": "100"
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "100 grams",
+      "confidence": "100"
+    }
+  ]
+}

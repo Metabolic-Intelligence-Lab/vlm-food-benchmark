@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with green herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "grilled salmon (sliced)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "grilled salmon (whole)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "golden-brown croissant",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "yellow mango",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

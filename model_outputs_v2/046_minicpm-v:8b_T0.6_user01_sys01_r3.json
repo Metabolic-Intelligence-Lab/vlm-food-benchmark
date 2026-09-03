@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "mushroom soup with croutons",
+      "portion_estimate": "uncertain, approx. 300-400g",
+      "confidence": "50"
+    },
+    {
+      "name": "toasted bread roll",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "sour cream with herbs",
+      "portion_estimate": "uncertain, approx. 3-4tbsp",
+      "confidence": "50"
+    },
+    {
+      "name": "salad greens and vinaigrette dressing",
+      "portion_estimate": "uncertain, approx. 120g",
+      "confidence": "60"
+    }
+  ]
+}

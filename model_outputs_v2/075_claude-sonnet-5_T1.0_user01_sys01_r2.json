@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "sliced roasted turkey/chicken breast with parsley garnish",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "boiled diced potatoes and zucchini mix",
+      "portion_estimate": "150",
+      "confidence": "65"
+    },
+    {
+      "name": "white beans in tomato sauce",
+      "portion_estimate": "180",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "water in plastic cup",
+      "portion_estimate": "200",
+      "confidence": "60"
+    },
+    {
+      "name": "small white plastic cup, possibly containing coffee or condiment, uncertain",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cheese",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "tomato yogurt",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "pastry",
+      "portion_estimate": "100g",
+      "confidence": 85
+    }
+  ]
+}

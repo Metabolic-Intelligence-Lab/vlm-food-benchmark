@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "40",
+      "confidence": 95
+    },
+    {
+      "name": "brown soup with grated cheese (possibly lentil or bean soup)",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "slice of vegetable quiche or omelette",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "boiled Brussels sprouts",
+      "portion_estimate": "70",
+      "confidence": 90
+    },
+    {
+      "name": "boiled carrots",
+      "portion_estimate": "40",
+      "confidence": 90
+    },
+    {
+      "name": "red plums",
+      "portion_estimate": "120",
+      "confidence": 95
+    }
+  ]
+}

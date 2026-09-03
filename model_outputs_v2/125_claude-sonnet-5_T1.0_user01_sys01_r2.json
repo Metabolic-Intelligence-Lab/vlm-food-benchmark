@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "minestrone vegetable soup with grated parmesan",
+      "portion_estimate": "300",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (panino)",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "breaded fried patty/cutlet with edible purple flowers garnish",
+      "portion_estimate": "90",
+      "confidence": "55"
+    },
+    {
+      "name": "mashed potatoes or bechamel-style sauce",
+      "portion_estimate": "80",
+      "confidence": "50"
+    },
+    {
+      "name": "tomato sauce cup (Yoyo brand condiment)",
+      "portion_estimate": "20",
+      "confidence": "65"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150",
+      "confidence": "60"
+    },
+    {
+      "name": "breadsticks (grissini, wrapped)",
+      "portion_estimate": "15",
+      "confidence": "55"
+    }
+  ]
+}

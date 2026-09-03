@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetable medley with chicken (including carrots, mushrooms, peas, corn, and possibly other vegetables)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "fried breadstick or crouton",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with tomato sauce and herbs (likely penne or similar shape)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "garlic bread or toasted bread roll",
+      "portion_estimate": "70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "water in clear plastic cup",
+      "portion_estimate": "uncertain (no visible measurement scale)",
+      "confidence": 30
+    }
+  ]
+}

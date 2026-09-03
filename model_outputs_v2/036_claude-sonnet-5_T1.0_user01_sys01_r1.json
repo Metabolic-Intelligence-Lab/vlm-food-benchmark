@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce and cheese",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "stewed apple or fruit compote in brown sauce",
+      "portion_estimate": "90",
+      "confidence": 55
+    },
+    {
+      "name": "breaded green vegetable patties (spinach or herb croquettes)",
+      "portion_estimate": "120",
+      "confidence": 65
+    },
+    {
+      "name": "red cabbage and cucumber salad with citrus dressing",
+      "portion_estimate": "130",
+      "confidence": 75
+    }
+  ]
+}

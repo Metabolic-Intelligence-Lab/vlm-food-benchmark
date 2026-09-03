@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "banana",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "wrapped bun or bread",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "two chicken/fish patties (seasoned with herbs/pasta sauce), total approx. 200 grams",
+      "portion_estimate": "100 grams per patty",
+      "confidence": 85
+    },
+    {
+      "name": "roasted or raw carrots ( sliced)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pasta (fettuccine or similar) coated with grated cheese (mix)",
+      "portion_estimate": "160 grams",
+      "confidence": 85
+    }
+  ]
+}

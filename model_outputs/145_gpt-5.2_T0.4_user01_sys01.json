@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup/stew with grated cheese on top",
+      "portion_estimate": "420 g",
+      "confidence": "72"
+    },
+    {
+      "name": "steamed cauliflower florets",
+      "portion_estimate": "130 g",
+      "confidence": "75"
+    },
+    {
+      "name": "spinach omelette/frittata slice",
+      "portion_estimate": "100 g",
+      "confidence": "66"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "80"
+    },
+    {
+      "name": "plain yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "78"
+    }
+  ]
+}

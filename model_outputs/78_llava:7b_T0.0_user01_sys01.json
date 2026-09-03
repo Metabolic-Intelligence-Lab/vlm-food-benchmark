@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Fruit salad",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Sliced orange",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Dipping sauce",
+      "portion_estimate": "2 tablespoons",
+      "confidence": "50"
+    }
+  ]
+}

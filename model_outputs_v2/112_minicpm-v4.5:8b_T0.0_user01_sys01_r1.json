@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto and grated cheese",
+      "portion_estimate": "200-250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "small round cheese (possibly cheddar or similar)",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "two plums",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "small square baked item (possibly cornbread or quiche)",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "brussels sprouts (cooked)",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "shredded carrot and beetroot salad (with mixed vegetables)",
+      "portion_estimate": "180 g",
+      "confidence": "72"
+    },
+    {
+      "name": "cooked potato cubes (pan-fried/roasted)",
+      "portion_estimate": "140 g",
+      "confidence": "78"
+    },
+    {
+      "name": "breaded meat patty/cutlet (possibly with a small amount of sauce/condiment on top)",
+      "portion_estimate": "110 g",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll/bun",
+      "portion_estimate": "55 g",
+      "confidence": "70"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "250 g",
+      "confidence": "65"
+    }
+  ]
+}

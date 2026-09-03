@@ -1,0 +1,26 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "baked potato",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "broccoli and cheese on top of mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "unspecified drink in a pouch (possibly juice or smoothie)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

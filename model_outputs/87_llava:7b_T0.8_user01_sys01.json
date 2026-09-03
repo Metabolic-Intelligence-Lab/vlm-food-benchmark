@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "approximate 100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Baked macaroni and cheese",
+      "portion_estimate": "approximate 150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Steamed broccoli",
+      "portion_estimate": "approximate 100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed fruit salad",
+      "portion_estimate": "small portion, 40g",
+      "confidence": "60"
+    }
+  ]
+}

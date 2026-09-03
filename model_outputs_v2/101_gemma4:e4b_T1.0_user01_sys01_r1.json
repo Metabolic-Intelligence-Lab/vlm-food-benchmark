@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rotini pasta with sauce",
+      "portion_estimate": "180",
+      "confidence": "95"
+    },
+    {
+      "name": "Crumbled seasoned protein (ground meat or tofu)",
+      "portion_estimate": "140",
+      "confidence": "85"
+    },
+    {
+      "name": "Rectangular slice of bread or pastry",
+      "portion_estimate": "90",
+      "confidence": "88"
+    },
+    {
+      "name": "Lemon wedge",
+      "portion_estimate": "20",
+      "confidence": "98"
+    },
+    {
+      "name": "Bread roll or bun",
+      "portion_estimate": "90",
+      "confidence": "92"
+    }
+  ]
+}

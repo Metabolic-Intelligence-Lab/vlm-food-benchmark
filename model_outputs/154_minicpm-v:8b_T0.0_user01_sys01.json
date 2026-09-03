@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Broccoli and tomato patty",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta with pesto sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Burger bun",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Farfalle pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Fried potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Omelette",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

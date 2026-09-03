@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Veggie patty",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "Cheese slice",
+      "portion_estimate": "30g",
+      "confidence": 90
+    },
+    {
+      "name": "Diced potatoes",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "80g",
+      "confidence": 90
+    },
+    {
+      "name": "OWOS",
+      "portion_estimate": "30g",
+      "confidence": 90
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200g",
+      "confidence": 90
+    }
+  ]
+}

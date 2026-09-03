@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "bowl of pasta",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "bowl of shredded carrots",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "cup of yogurt",
+      "portion_estimate": "125",
+      "confidence": "70"
+    },
+    {
+      "name": "plate of green beans, corn, and tomato",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

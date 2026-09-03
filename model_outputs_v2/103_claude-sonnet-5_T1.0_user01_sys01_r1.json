@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pork/turkey roll with green vegetable filling (cotoletta involtino)",
+      "portion_estimate": "100",
+      "confidence": "55"
+    },
+    {
+      "name": "sautéed broccoli florets",
+      "portion_estimate": "90",
+      "confidence": "75"
+    },
+    {
+      "name": "vegetable soup (minestrone) with grated cheese",
+      "portion_estimate": "300",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "strawberry yogurt (packaged, Spindalay brand)",
+      "portion_estimate": "125",
+      "confidence": "85"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150",
+      "confidence": "50"
+    }
+  ]
+}

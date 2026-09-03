@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "spinach (cooked)",
+      "portion_estimate": "100-120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "meatballs (or meat patties)",
+      "portion_estimate": "100-120 grams (2 pieces)",
+      "confidence": 85
+    },
+    {
+      "name": "small bread roll (or pastry)",
+      "portion_estimate": "30-40 grams",
+      "confidence": 70
+    },
+    {
+      "name": "spreadable cheese (in foil packaging)",
+      "portion_estimate": "20-30 grams",
+      "confidence": 70
+    }
+  ]
+}

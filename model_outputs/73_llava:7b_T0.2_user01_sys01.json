@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green vegetables",
+      "portion_estimate": "75g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fish fillet",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Sliced tomatoes",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Breaded and fried food item (possibly chicken)",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    }
+  ]
+}

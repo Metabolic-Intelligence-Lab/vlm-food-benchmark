@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Potato Soup",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread Rolls",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Peas and Carrots",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Soup Cup",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    }
+  ]
+}

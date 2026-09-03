@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with pesto and grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Carrot and vegetable mix",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "150 grams",
+      "confidence": "75"
+    }
+  ]
+}

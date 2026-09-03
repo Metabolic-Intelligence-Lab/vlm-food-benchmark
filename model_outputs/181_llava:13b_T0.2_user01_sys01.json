@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (spaghetti or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "cake with fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "vegetable side dish (potatoes or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

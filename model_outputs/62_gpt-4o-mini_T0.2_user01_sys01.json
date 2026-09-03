@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and bell peppers",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked greens (likely spinach or similar)",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "savory muffin with sauce",
+      "portion_estimate": "80",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "129",
+      "confidence": "90"
+    }
+  ]
+}

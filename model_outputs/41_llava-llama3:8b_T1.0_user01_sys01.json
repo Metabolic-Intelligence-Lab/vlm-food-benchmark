@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "breaded fish",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "breaded chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "salad (mixed greens and shredded carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water bottle",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

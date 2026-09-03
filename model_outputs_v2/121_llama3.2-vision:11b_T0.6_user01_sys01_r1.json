@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Grated Cheese",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mixed Green Salad",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Whole-Womout-Bread",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Fish with Herbs/Greens",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Pasta with Yellow Noodles in Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Pasta with White Noodles in Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Purple Root Vegetables (Potatoes/Root Vegetable)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Creamy Mashed Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

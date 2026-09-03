@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll (possibly a burger bun)",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "Eggs with vegetables, possibly fried",
+      "portion_estimate": "135 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Side of potato salad",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "Sliced cheese with sauce and toppings, possibly pizza",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    }
+  ]
+}

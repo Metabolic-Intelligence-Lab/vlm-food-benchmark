@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked greens",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "Butter (pat)",
+      "portion_estimate": "5g",
+      "confidence": 95
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "50g",
+      "confidence": 95
+    },
+    {
+      "name": "Butter packet",
+      "portion_estimate": "10g",
+      "confidence": 95
+    }
+  ]
+}

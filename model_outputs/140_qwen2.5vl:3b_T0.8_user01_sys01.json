@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pan-fried breaded fish fillet",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "buttered green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "green brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "unidentifiable wrapped item",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

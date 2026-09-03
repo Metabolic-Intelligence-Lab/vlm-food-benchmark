@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Nuts in a bowl",
+      "portion_estimate": "30g",
+      "confidence": "60"
+    },
+    {
+      "name": "Sandwich with filling",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fruit on the side",
+      "portion_estimate": "75g",
+      "confidence": "60"
+    }
+  ]
+}

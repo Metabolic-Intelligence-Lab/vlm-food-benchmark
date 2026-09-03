@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "200-300g",
+      "confidence": "95"
+    },
+    {
+      "name": "oranges",
+      "portion_estimate": "uncertain, possibly around half a medium-sized orange each",
+      "confidence": "40"
+    },
+    {
+      "name": "brussel sprouts",
+      "portion_estimate": "uncertain, approximately 1 cup (250g)",
+      "confidence": "60"
+    },
+    {
+      "name": "quinoa",
+      "portion_estimate": "approx. 70-80g",
+      "confidence": "90"
+    }
+  ]
+}

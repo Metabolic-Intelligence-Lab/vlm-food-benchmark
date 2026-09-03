@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "thick lentil soup",
+      "portion_estimate": "270 g",
+      "confidence": 85
+    },
+    {
+      "name": "small yogurt or dairy cup",
+      "portion_estimate": "130 g",
+      "confidence": 75
+    },
+    {
+      "name": "rectangular grilled sandwich or panini",
+      "portion_estimate": "210 g",
+      "confidence": 90
+    },
+    {
+      "name": "cooked leafy greens (kale or spinach)",
+      "portion_estimate": "170 g",
+      "confidence": 95
+    },
+    {
+      "name": "plastic water bottle",
+      "portion_estimate": "320 g",
+      "confidence": 70
+    }
+  ]
+}

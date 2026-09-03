@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed broccoli and potatoes",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Vegetable soup",
+      "portion_estimate": "300g",
+      "confidence": 95
+    },
+    {
+      "name": "Wrapped bread roll",
+      "portion_estimate": "10g",
+      "confidence": 70
+    },
+    {
+      "name": "Baked dish with diced potatoes",
+      "portion_estimate": "120g",
+      "confidence": 88
+    },
+    {
+      "name": "Small fruit (e.g., pear)",
+      "portion_estimate": "50g",
+      "confidence": 75
+    }
+  ]
+}

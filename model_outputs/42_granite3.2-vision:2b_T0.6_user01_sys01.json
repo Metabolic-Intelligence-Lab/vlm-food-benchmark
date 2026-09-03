@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "sweet potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

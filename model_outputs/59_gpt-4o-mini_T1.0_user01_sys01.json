@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad with carrots and cucumbers",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed greens (probably spinach or similar)",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "savory muffin with sauce",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

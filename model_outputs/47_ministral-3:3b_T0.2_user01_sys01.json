@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "scrambled eggs with saut\u00e9ed mushrooms",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or seeded roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "plain water (from the clear plastic cup)",
+      "portion_estimate": "200",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "tomato and hummus",
+      "portion_estimate": "50",
+      "confidence": 60
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "cereal with nuts and raisins",
+      "portion_estimate": "70",
+      "confidence": 75
+    }
+  ]
+}

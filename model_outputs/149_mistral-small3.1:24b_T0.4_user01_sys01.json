@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken and rice",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "sandwich with cheese and greens",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "penne pasta with pesto",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "120",
+      "confidence": "90"
+    }
+  ]
+}

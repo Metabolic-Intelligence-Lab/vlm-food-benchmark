@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "egg (hard-boiled)",
+      "portion_estimate": "70-80g (including shell)",
+      "confidence": 90
+    },
+    {
+      "name": "creamy mushroom soup with chunks",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with egg roll-like item (likely filled with veggies/potatoes)",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "dipping sauce (yellow, likely from a pouch)",
+      "portion_estimate": "30g",
+      "confidence": 85
+    },
+    {
+      "name": "small carton of yogurt-like item (likely a protein pouch)",
+      "portion_estimate": "40g",
+      "confidence": 90
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain (liquid volume)",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Garbanzo beans (Chickpeas)",
+      "portion_estimate": "75 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    }
+  ]
+}

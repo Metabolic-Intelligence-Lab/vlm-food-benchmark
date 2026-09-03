@@ -1,0 +1,30 @@
+{
+  "food_items": [
+    {
+      "name": "Rice",
+      "portion_estimate": "approximately 250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Fork",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    }
+  ],
+  "tablecloth": {
+    "color": "white",
+    "design": "floral pattern"
+  },
+  "background": {
+    "items": [
+      {
+        "name": "Sugar container",
+        "location": "top left corner of photo"
+      },
+      {
+        "name": "Coffee cup",
+        "location": "top right corner of photo"
+      }
+    ]
+  }
+}

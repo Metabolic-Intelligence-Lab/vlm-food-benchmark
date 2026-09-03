@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice salad with peas, corn, and diced ham (mixed)",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "slice of omelette/frittata with mushrooms and ham",
+      "portion_estimate": "160 g",
+      "confidence": "72"
+    },
+    {
+      "name": "cooked mixed vegetables (carrots and potatoes)",
+      "portion_estimate": "180 g",
+      "confidence": "70"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "75"
+    },
+    {
+      "name": "clementines/mandarins (whole, 3 pieces)",
+      "portion_estimate": "240 g",
+      "confidence": "68"
+    }
+  ]
+}

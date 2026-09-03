@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "shell pasta with tomato sauce and grated cheese",
+      "portion_estimate": "260 g",
+      "confidence": "85"
+    },
+    {
+      "name": "spinach and cheese filled pasta/crepe with melted cheese",
+      "portion_estimate": "230 g",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed salad with cabbage, cucumber, and purple cabbage",
+      "portion_estimate": "100 g",
+      "confidence": "85"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "small apricots",
+      "portion_estimate": "105 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bottled water",
+      "portion_estimate": "500 g",
+      "confidence": "80"
+    }
+  ]
+}

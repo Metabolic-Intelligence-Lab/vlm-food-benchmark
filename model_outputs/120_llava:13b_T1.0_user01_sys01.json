@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "chicken tenders (or similar breaded meat patties)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "soup with pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "side salad with carrot pieces",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

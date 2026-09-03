@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi with tomato sauce",
+      "portion_estimate": "250",
+      "confidence": "90"
+    },
+    {
+      "name": "brown onion",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "broccoli with olive oil",
+      "portion_estimate": "125",
+      "confidence": "90"
+    },
+    {
+      "name": "olive oil",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

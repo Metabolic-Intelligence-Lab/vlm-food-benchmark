@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Spoon Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Green Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Soy Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "uncertain",
+      "confidence": 25
+    },
+    {
+      "name": "Vegetable Salad",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Fried Eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Rolled Oats in a Bowl",
+      "portion_estimate": "uncertain",
+      "confidence": 25
+    },
+    {
+      "name": "Bread Rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

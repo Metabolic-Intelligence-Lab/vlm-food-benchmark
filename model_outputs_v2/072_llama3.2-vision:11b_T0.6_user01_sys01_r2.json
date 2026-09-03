@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted carrots",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "lentil and vegetable stew",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    }
+  ]
+}

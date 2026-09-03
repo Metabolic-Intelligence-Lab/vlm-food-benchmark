@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed Broccoli",
+      "portion_estimate": "uncertain, approximately half a cup",
+      "confidence": "50"
+    },
+    {
+      "name": "Quinoa with Chickpeas and Vegetables",
+      "portion_estimate": "uncertain, about 1/3 of the plate's volume",
+      "confidence": "40"
+    },
+    {
+      "name": "Roasted Potatoes on a White Plate",
+      "portion_estimate": "uncertain, approximately half a cup",
+      "confidence": "50"
+    },
+    {
+      "name": "Grilled Salmon with Asparagus and Mashed Sweet Potato",
+      "portion_estimate": "approximately 1/3 of the plate's volume",
+      "confidence": "60"
+    },
+    {
+      "name": "Dietary Greek Yogurt Cup (Yoplait)",
+      "portion_estimate": "uncertain, approximately half a cup",
+      "confidence": "50"
+    },
+    {
+      "name": "Baked Chicken Breast on a Bun Slice",
+      "portion_estimate": "approximately 1/4 of the plate's volume",
+      "confidence": "60"
+    }
+  ]
+}

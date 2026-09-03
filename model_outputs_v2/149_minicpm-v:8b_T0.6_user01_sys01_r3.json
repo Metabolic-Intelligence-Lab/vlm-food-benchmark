@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Quiche",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Boiled egg",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Pasta with broccoli and parmesan cheese",
+      "portion_estimate": "250g (approximate)",
+      "confidence": "90"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

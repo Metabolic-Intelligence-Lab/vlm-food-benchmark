@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup with grated cheese topping",
+      "portion_estimate": "450",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potato wedges with seasoning",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "diced meat (possibly ham or bacon)",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "sauerkraut with caraway seeds",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "wholegrain roll or sandwich bun (partially wrapped in plastic)",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "unidentified clear liquid (possibly water or broth) in can",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "white sugar or sweetener packet (partially used)",
+      "portion_estimate": "5",
+      "confidence": 75
+    }
+  ]
+}

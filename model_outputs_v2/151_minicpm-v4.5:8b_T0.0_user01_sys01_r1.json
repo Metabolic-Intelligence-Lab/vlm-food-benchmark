@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "brussels sprouts with diced carrots",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "pasta with mushrooms",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    }
+  ]
+}

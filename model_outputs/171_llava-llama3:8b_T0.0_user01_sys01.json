@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "dark green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "light green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red cup",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

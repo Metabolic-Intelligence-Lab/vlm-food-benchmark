@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup (likely potato or corn chowder)",
+      "portion_estimate": "400",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll or soft bun (possibly brioche or similar)",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "sauce-covered grilled fish (likely cod or snapper)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "seasoned mashed or roasted potato with skin (likely diced)",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "creamy cheese spread or sour cream (from container in plastic packaging)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

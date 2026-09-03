@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "purple plums (2 whole)",
+      "portion_estimate": "140 g",
+      "confidence": "85"
+    },
+    {
+      "name": "string cheese (wrapped)",
+      "portion_estimate": "28 g",
+      "confidence": "70"
+    },
+    {
+      "name": "brussels sprouts (cooked, about 9 pieces)",
+      "portion_estimate": "90 g",
+      "confidence": "75"
+    },
+    {
+      "name": "breaded fish fillet (fried or baked)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked leafy greens (spinach or similar)",
+      "portion_estimate": "110 g",
+      "confidence": "65"
+    }
+  ]
+}

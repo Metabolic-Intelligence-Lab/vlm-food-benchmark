@@ -1,0 +1,40 @@
+{
+  "food_items": [
+    {
+      "name": "A banana",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "A loaf of bread in a plastic wrapper.",
+      "portion_estimate": "uncertain",
+      "confidence": "35"
+    },
+    {
+      "name": "A glass cup filled with milk or water",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Nestlé Coffee-Mate,
+      sweetener in a single-serve package.",
+      "portion_estimate": "uncertain",
+      "confidence": "35"
+    },
+    {
+      "name": "Carrots on the plate, cut into small pieces.",
+      "portion_estimate": "approx. 10 grams per carrot piece (total approx. 48 grams)",
+      "confidence": "90"
+    },
+    {
+      "name": "Two round seed balls sprinkled with oats or seeds.",
+      "portion_estimate": "uncertain",
+      "confidence": "35"
+    },
+    {
+      "name": "A small plate of pasta and cheese on a large white bowl.",
+      "portion_estimate": "approx. 60 grams for the entire dish (total approx. 120 grams)",
+      "confidence": "90"
+    }
+  ]
+}

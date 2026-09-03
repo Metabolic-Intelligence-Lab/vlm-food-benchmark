@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat or semolina pasta (likely penne or rigatoni)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "green beans with breadcrumbs or fried topping",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "chicken breast or cutlet (breaded/fried)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "packaged cheese slices (e.g., provolone or mozzarella)",
+      "portion_estimate": "uncertain (portion not fully visible, but ~30-50 grams)",
+      "confidence": 55
+    },
+    {
+      "name": "whole peeled plum or small apple",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    }
+  ]
+}

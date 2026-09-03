@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "rotini pasta with tomato sauce",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "lemon",
+      "portion_estimate": "100g",
+      "confidence": 90
+    }
+  ]
+}

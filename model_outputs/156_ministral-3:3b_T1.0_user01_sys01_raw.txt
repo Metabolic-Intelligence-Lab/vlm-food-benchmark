@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "sausage or meat patty wrapped in bread (pocket-style)",         // Assumed from common wrap style, not exact identification
+      "portion_estimate": 180,                                               // Common size for a wrap
+      "confidence": 85
+    },
+    {
+      "name": "buttered or seasoned breaded chicken cutlet",                 // Judged by shape and visible crust
+      "portion_estimate": 150,                                               // Average serving size estimate
+      "confidence": 80
+    },
+    {
+      "name": "fettuccine alfredo pasta",                                   // Judged by pasta shape and sauce consistency,
+      "portion_estimate": 150,                                               // Half a bowl typical portion size
+      "confidence": 85
+    },
+    {
+      "name": "brussels sprouts, roasted or sautéed",                        // Visible and likely source in the pan
+      "portion_estimate": 100,                                               // Average portion for the side
+      "confidence": 80
+    },
+    {
+      "name": "unpeeled banana",                                             // Clearly visible in the plate
+      "portion_estimate": 120,                                               // Typical small banana size
+      "confidence": 95
+    },
+    {
+      "name": "potato-based dumplings (not certain of type, e.g., katsudon pieces)", // Common presentation in Asian dishes but uncertain visual confirmation,
+      "portion_estimate": uncertain,                                         // Ambiguous visual evidence from picture,
+      "confidence": 60
+    }
+  ]
+}

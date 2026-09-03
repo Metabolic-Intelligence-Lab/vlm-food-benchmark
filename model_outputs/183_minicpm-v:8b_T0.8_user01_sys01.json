@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Green juice or smoothie in a bowl with seeds on top (likely chia seeds)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Fried green vegetable fritters or patties",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread in a plastic bag with text not visible (likely gluten-free based on packaging)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

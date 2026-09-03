@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "scrambled egg with saut\u00e9ed greens and possibly a fried egg",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "baguette roll (partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "small container of yogurt (likely Greek yogurt)",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "water glass",
+      "portion_estimate": "200 milliliters",
+      "confidence": 90
+    }
+  ]
+}

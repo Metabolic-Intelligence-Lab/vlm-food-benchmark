@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "a soup or broth",
+      "portion_estimate": "approximately 200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "small pieces of ingredient (e.g., herbs or vegetables)",
+      "portion_estimate": "approximately 10-20 grams",
+      "confidence": 80
+    }
+  ]
+}

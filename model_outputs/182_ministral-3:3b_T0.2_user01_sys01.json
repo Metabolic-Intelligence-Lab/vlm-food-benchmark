@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with meat sauce (penne or rotini)",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "grilled chicken breast with cheese and vegetables (likely spinach or broccoli)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "baked or stuffed orange slices",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "packaged snack (likely a cracker or rice cake)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

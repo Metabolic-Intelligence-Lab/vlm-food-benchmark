@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Banana",
+      "portion_estimate": "1 medium banana",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with red sauce and meatballs",
+      "portion_estimate": "1 cup",
+      "confidence": "70"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "1/2 cup",
+      "confidence": "60"
+    },
+    {
+      "name": "Egg omelette with cheese and vegetables",
+      "portion_estimate": "1 medium omelette",
+      "confidence": "70"
+    },
+    {
+      "name": "Whole grain roll",
+      "portion_estimate": "1 medium roll",
+      "confidence": "60"
+    }
+  ]
+}

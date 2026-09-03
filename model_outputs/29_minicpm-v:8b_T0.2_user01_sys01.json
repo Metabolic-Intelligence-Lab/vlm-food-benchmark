@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain, approx. slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain, whole fruit estimated at approximately a medium apple weight",
+      "confidence": "60"
+    },
+    {
+      "name": "Macaroni and cheese with mushrooms",
+      "portion_estimate": "approx. 150g - 200g of pasta",
+      "confidence": "80"
+    },
+    {
+      "name": "Green salad (possibly zucchini, cucumber, and feta)",
+      "portion_estimate": "uncertain, approx. a medium plate size portion",
+      "confidence": "65"
+    },
+    {
+      "name": "Pizza slice with cheese and possibly spinach or pesto sauce",
+      "portion_estimate": "approx. 10g - 20g of pizza crust depending on thickness",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain, estimated weight in grams based on context and size of plate",
+      "confidence": "70"
+    },
+    {
+      "name": "meat with gravy",
+      "portion_estimate": "uncertain, estimated weight in grams based on context and size of plate",
+      "confidence": "65"
+    },
+    {
+      "name": "spinach leaves (possibly wilted)",
+      "portion_estimate": "uncertain, estimated weight in grams based on context and size of plate",
+      "confidence": "70"
+    },
+    {
+      "name": "pineapple chunks",
+      "portion_estimate": "uncertain, estimated weight in grams based on context and size of plate",
+      "confidence": "65"
+    }
+  ]
+}

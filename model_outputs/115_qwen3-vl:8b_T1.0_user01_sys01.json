@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": 180,
+      "confidence": 80
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": 120,
+      "confidence": 80
+    },
+    {
+      "name": "mixed green salad with chicken",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "meatballs in tomato sauce",
+      "portion_estimate": 130,
+      "confidence": 85
+    },
+    {
+      "name": "rye bread",
+      "portion_estimate": 35,
+      "confidence": 80
+    }
+  ]
+}

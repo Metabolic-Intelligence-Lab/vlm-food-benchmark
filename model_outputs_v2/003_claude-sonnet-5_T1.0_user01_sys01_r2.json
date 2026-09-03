@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "grilled eggplant slice topped with melted cheese (mozzarella) and herbs",
+      "portion_estimate": "90",
+      "confidence": "65"
+    },
+    {
+      "name": "roasted broccoli with garlic",
+      "portion_estimate": "120",
+      "confidence": "75"
+    },
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200",
+      "confidence": "70"
+    },
+    {
+      "name": "penne pasta with pesto (background tray)",
+      "portion_estimate": "180",
+      "confidence": "55"
+    },
+    {
+      "name": "wrapped bread roll (background tray)",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "glass of water (background tray)",
+      "portion_estimate": "150",
+      "confidence": "50"
+    }
+  ]
+}

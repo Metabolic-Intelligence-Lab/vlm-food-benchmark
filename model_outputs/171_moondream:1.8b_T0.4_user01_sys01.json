@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bread or rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

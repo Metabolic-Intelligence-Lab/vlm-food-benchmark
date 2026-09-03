@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "steamed or boiled potato (whole, peeled)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "raw red cabbage and carrot salad mix",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "raw carrot slice (single)",
+      "portion_estimate": "15",
+      "confidence": 90
+    },
+    {
+      "name": "steamed kale with seasoned breadcrumb topping",
+      "portion_estimate": "80",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "tray": [
+    {
+      "name": "brussels sprouts",
+      "quantity": "8",
+      "color": "yellow"
+    },
+    {
+      "name": "mushrooms",
+      "quantity": "10",
+      "color": "white"
+    },
+    {
+      "name": "meatballs",
+      "quantity": 2,
+      "color": "brown"
+    }
+  ],
+  "plate with greens on it": [
+    {
+      "name": "asparagus",
+      "quantity": "6",
+      "color": "green"
+    },
+    {
+      "name": "mushrooms",
+      "quantity": "5",
+      "color": "white"
+    },
+    {
+      "name": "meatballs",
+      "quantity": 1,
+      "color": "brown"
+    }
+  ],
+  "plate with meat on it": [
+    {
+      "name": "chicken",
+      "quantity": 2,
+      "color": "light brown"
+    },
+    {
+      "name": "asparagus",
+      "quantity": 6,
+      "color": "green"
+    },
+    {
+      "name": "mushrooms",
+      "quantity": 5,
+      "color": "white"
+    }
+  ]
+}

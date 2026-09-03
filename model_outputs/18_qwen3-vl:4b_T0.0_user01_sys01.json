@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled fish fillet",
+      "portion_estimate": "120 g",
+      "confidence": 95
+    },
+    {
+      "name": "Fusilli pasta salad",
+      "portion_estimate": "180 g",
+      "confidence": 95
+    },
+    {
+      "name": "Shredded vegetable salad",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with broccoli and carrots",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "70g",
+      "confidence": "70"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "100g",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta salad with peas",
+      "portion_estimate": "200g",
+      "confidence": "40"
+    },
+    {
+      "name": "Bread roll (bread bun)",
+      "portion_estimate": "50g",
+      "confidence": "30"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Caesar Salad",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Toast or Bread with spreadable topping",
+      "portion_estimate": "60 g",
+      "confidence": "40"
+    },
+    {
+      "name": "Potato Wedges with cheese sprinkled on top",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    }
+  ]
+}

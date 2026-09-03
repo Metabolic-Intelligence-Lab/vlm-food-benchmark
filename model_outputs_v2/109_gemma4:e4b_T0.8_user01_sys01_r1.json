@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "180",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread bun",
+      "portion_estimate": "90",
+      "confidence": "90"
+    },
+    {
+      "name": "Scrambled egg or cottage cheese (in bowl)",
+      "portion_estimate": "130",
+      "confidence": "85"
+    },
+    {
+      "name": "Green apple or fruit",
+      "portion_estimate": "130",
+      "confidence": "90"
+    },
+    {
+      "name": "Cubed yellow cheese or food",
+      "portion_estimate": "80",
+      "confidence": "90"
+    },
+    {
+      "name": "Folded cheese slices",
+      "portion_estimate": "60",
+      "confidence": "95"
+    }
+  ]
+}

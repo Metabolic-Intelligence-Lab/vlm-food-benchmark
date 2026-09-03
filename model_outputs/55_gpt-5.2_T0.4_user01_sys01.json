@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded cutlet/fillet (likely chicken or turkey)",
+      "portion_estimate": "140 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed vegetables (peas, carrots, diced potatoes, mushrooms)",
+      "portion_estimate": "120 g",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked leafy greens (spinach-like)",
+      "portion_estimate": "110 g",
+      "confidence": "75"
+    },
+    {
+      "name": "cup of water",
+      "portion_estimate": "200 g",
+      "confidence": "85"
+    },
+    {
+      "name": "single-serve dairy spread (likely butter or cream cheese)",
+      "portion_estimate": "15 g",
+      "confidence": "55"
+    }
+  ]
+}

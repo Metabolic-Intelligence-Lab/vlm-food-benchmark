@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "slice of cake",
+      "portion_estimate": "25 g",
+      "confidence": "80"
+    },
+    {
+      "name": "bar of brownie with nuts on top",
+      "portion_estimate": "60 g",
+      "confidence": "70"
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "50 g",
+      "confidence": "60"
+    }
+  ]
+}

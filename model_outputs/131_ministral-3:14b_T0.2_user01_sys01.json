@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "brown rice",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "ground beef (or meat sauce)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "tomato-based sauce",
+      "portion_estimate": "100g",
+      "confidence": 80
+    }
+  ]
+}

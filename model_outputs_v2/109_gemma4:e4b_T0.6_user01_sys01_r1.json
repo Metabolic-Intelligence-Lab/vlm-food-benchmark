@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "90g",
+      "confidence": "90"
+    },
+    {
+      "name": "breadcrumbs or grains (in bowl)",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "cubed cheese or tofu",
+      "portion_estimate": "110g",
+      "confidence": "90"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "160g",
+      "confidence": "95"
+    },
+    {
+      "name": "wrapped cheese slice",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    }
+  ]
+}

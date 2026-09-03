@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Parmesan Cheese",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Peas with Ham",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    }
+  ]
+}

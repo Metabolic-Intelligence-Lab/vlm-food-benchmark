@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green soup",
+      "portion_estimate": "300-400g",
+      "confidence": 90
+    },
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "100-150g",
+      "confidence": 85
+    },
+    {
+      "name": "two breaded patties (likely meatballs or croquettes)",
+      "portion_estimate": "50-70g each",
+      "confidence": 80
+    },
+    {
+      "name": "white rice",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "small red container (likely ketchup or sauce)",
+      "portion_estimate": "30-50g",
+      "confidence": 70
+    }
+  ]
+}

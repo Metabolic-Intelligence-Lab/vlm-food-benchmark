@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "tomatoes and basil pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "garlic and/or onion",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

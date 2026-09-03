@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli and orange quiche",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Carrot slices",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Pumpkin seeds with grated cheese on top",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Red apple",
+      "portion_estimate": "approx. 200g",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (plastic bag)",
+      "portion_estimate": "150 g",
+      "confidence": 85
+    },
+    {
+      "name": "bowtie pasta dish",
+      "portion_estimate": "300 g",
+      "confidence": 90
+    },
+    {
+      "name": "baked frittata/omelette",
+      "portion_estimate": "200 g",
+      "confidence": 88
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "80 g",
+      "confidence": 75
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    }
+  ]
+}

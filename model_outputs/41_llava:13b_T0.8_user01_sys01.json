@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "approximately 60 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Salad with mixed vegetables",
+      "portion_estimate": "approximately 80 grams",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot and cucumber salad",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Heart-shaped bun",
+      "portion_estimate": "75",
+      "confidence": 70
+    },
+    {
+      "name": "Steamed spinach",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Baked potato with butter and sauce",
+      "portion_estimate": "120",
+      "confidence": 70
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "150",
+      "confidence": 70
+    }
+  ]
+}

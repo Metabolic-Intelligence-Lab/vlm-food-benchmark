@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Ground Beef",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250",
+      "confidence": "100"
+    }
+  ]
+}

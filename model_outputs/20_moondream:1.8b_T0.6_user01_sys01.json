@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "carrots and broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "chicken dish",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "carrots and brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

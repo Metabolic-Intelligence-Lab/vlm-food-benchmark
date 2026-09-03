@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta with Spinach",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "Small Cheese Slice",
+      "portion_estimate": "30",
+      "confidence": 70
+    },
+    {
+      "name": "Grape",
+      "portion_estimate": "15",
+      "confidence": 80
+    }
+  ]
+}

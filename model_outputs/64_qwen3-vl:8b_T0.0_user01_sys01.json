@@ -1,0 +1,33 @@
+{
+  "food_items": [
+    {
+      "name": "rotini pasta with red peppers",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "stuffed pepper",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "70",
+      "confidence": "70"
+    }
+  ]
+}

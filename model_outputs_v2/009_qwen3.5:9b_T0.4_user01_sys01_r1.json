@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Crispy fried fish fillet",
+      "portion_estimate": 150,
+      "confidence": 92
+    },
+    {
+      "name": "Diced roasted potatoes with herbs and diced tomatoes",
+      "portion_estimate": 180,
+      "confidence": 93
+    },
+    {
+      "name": "Mixed vegetable casserole or baked dish (e.g., ratatouille)",
+      "portion_estimate": 140,
+      "confidence": 85
+    },
+    {
+      "name": "Small round bread roll",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt cup (fruit-flavored)",
+      "portion_estimate": 120,
+      "confidence": 88
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked orzo pasta",
+      "portion_estimate": "120",
+      "confidence": "95"
+    },
+    {
+      "name": "mixed vegetables (green beans, eggplant, possibly others)",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "peach",
+      "portion_estimate": "100",
+      "confidence": "85"
+    }
+  ]
+}

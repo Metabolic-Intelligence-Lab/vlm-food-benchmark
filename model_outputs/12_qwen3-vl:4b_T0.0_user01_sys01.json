@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spinach (Leafy Green)",
+      "portion_estimate": "100 g",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried Egg on Bun (Sandwich)",
+      "portion_estimate": "80 g",
+      "confidence": "80"
+    },
+    {
+      "name": "French Fries",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    },
+    {
+      "name": "Packaged Bun (Small Roll)",
+      "portion_estimate": "30 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Yogurt (Container)",
+      "portion_estimate": "100 g",
+      "confidence": "85"
+    }
+  ]
+}

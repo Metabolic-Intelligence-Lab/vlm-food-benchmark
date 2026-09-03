@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with cream sauce and grated parmesan",
+      "portion_estimate": "220",
+      "confidence": 75
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "70",
+      "confidence": 80
+    },
+    {
+      "name": "boiled diced potatoes",
+      "portion_estimate": "120",
+      "confidence": 65
+    },
+    {
+      "name": "boiled sliced carrots",
+      "portion_estimate": "60",
+      "confidence": 65
+    },
+    {
+      "name": "brussels sprouts, boiled",
+      "portion_estimate": "50",
+      "confidence": 60
+    },
+    {
+      "name": "vegetable and cheese patty/tart with spinach topping",
+      "portion_estimate": "100",
+      "confidence": 55
+    },
+    {
+      "name": "black plums, whole",
+      "portion_estimate": "150",
+      "confidence": 70
+    }
+  ]
+}

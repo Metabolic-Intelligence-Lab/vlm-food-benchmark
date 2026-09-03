@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (uncooked estimate)",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "chicken breast (shredded, cooked)",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "garlic bread roll",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "yellow cheese sauce or spread (in container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "packaged cheese spread or sauce (in plastic wrapper)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "canned tomato-based sauce (e.g., Sondico)",
+      "portion_estimate": "uncertain (likely ~200g can, but portion unclear)",
+      "confidence": 60
+    },
+    {
+      "name": "cake or pastry with yellow glaze",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "30g",
+      "confidence": 70
+    }
+  ]
+}

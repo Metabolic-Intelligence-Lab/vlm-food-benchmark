@@ -1,0 +1,26 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "roast pork with gravy and greens",
+      "portion_estimate": "120g - roast pork, approximately half a serving of greens",
+      "confidence": "80-90"
+    }
+  ],
+  "drinks": [
+    {
+      "type": "milkshake or smoothie in red cup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "type": "water bottle, white cap and green label on table beside food tray",
+      "portion_estimate": "12 fluid ounces (354 ml)",
+      "confidence": "80-90"
+    }
+  ]
+}

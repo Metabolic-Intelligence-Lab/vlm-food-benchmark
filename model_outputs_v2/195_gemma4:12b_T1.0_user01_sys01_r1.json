@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "stir-fried kimchi",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "roasted cubed potatoes",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "spicy minced meat (e.g., tuna or pork)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "milk",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "white powder (e.g., flour or starch)",
+      "portion_estimate": "50g",
+      "confidence": 80
+    }
+  ]
+}

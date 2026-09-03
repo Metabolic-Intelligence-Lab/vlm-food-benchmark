@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "red soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "green soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "greens",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "oranges",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

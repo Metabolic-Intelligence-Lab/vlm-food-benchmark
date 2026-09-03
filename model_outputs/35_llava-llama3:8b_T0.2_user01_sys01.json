@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta with creamy white sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

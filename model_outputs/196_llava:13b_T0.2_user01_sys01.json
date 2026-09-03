@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "dark-colored sauce or condiment (possibly chili paste)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "small packet (seasoning or spice mix)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "grilled meat (possibly chicken or pork) with sauce or glaze",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cooked grains (rice or couscous)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roasted nuts or seeds (possibly peanuts or cashews)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad or side dish made from shredded vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "orange-colored liquid (juice or beverage)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

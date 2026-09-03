@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "polenta or mixed rice with seasonal veggies and canned fish (likely sardines or anchovies)",
+      "portion_estimate": "300",
+      "confidence": 90
+    },
+    {
+      "name": "baked sweet potato and green bean hash with cheese",
+      "portion_estimate": "280",
+      "confidence": 90
+    },
+    {
+      "name": "packaged butter or spread on plastic wrap (approximately whole stick size)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "Yogurt drink (plain or flavored in a container, ~150 ml serving)",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "packaged coffee or tea bags",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

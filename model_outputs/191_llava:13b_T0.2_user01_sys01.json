@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "creamy curry soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "cooked carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "cooked potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "mustard or sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "condiment or spread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

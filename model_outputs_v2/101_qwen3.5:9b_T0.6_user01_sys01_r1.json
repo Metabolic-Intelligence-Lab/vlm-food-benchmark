@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Plain penne pasta",
+      "portion_estimate": 140,
+      "confidence": 95
+    },
+    {
+      "name": "Shredded cooked fish or chicken salad",
+      "portion_estimate": 160,
+      "confidence": 85
+    },
+    {
+      "name": "Plain dinner roll (in wrapper)",
+      "portion_estimate": 45,
+      "confidence": 92
+    },
+    {
+      "name": "Yogurt cup",
+      "portion_estimate": 150,
+      "confidence": 98
+    },
+    {
+      "name": "Baked pastry slice (possibly lemon bar or custard tart)",
+      "portion_estimate": 140,
+      "confidence": 88
+    },
+    {
+      "name": "Lemon wedge",
+      "portion_estimate": 15,
+      "confidence": 95
+    }
+  ]
+}

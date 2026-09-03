@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Peanut butter sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Green banana chips",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Milk",
+      "portion_estimate": "350ml",
+      "confidence": "100"
+    },
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    }
+  ]
+}

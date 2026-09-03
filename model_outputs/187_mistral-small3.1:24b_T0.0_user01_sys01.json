@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "green beans with breadcrumbs",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "85"
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "10",
+      "confidence": "80"
+    },
+    {
+      "name": "cream cheese",
+      "portion_estimate": "30",
+      "confidence": "85"
+    }
+  ]
+}

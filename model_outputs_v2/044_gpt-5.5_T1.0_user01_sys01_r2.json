@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "150 g",
+      "confidence": "85"
+    },
+    {
+      "name": "tomato slices",
+      "portion_estimate": "80 g",
+      "confidence": "85"
+    },
+    {
+      "name": "fresh mozzarella slices",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "anchovy fillets on mozzarella",
+      "portion_estimate": "8 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed salad greens",
+      "portion_estimate": "25 g",
+      "confidence": "80"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "packaged yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "180 g",
+      "confidence": "90"
+    }
+  ]
+}

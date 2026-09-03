@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sandwich with chicken or turkey, coleslaw, and lettuce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "rice pudding",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

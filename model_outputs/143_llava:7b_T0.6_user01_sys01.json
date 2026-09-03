@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Scrambled Eggs",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Toast (possibly whole grain)",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Cottage cheese",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Greek yogurt (possibly vanilla)",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    }
+  ]
+}

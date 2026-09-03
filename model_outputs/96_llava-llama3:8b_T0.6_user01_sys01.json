@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "orange juice",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "brownie",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

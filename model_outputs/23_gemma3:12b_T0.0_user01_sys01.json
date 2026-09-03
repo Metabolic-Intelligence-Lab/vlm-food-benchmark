@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "20",
+      "confidence": "90"
+    },
+    {
+      "name": "yogurt with fruit",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "60"
+    }
+  ]
+}

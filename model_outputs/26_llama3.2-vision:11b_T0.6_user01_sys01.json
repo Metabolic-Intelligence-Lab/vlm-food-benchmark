@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried fish or chicken",
+      "portion_estimate": "100-150g",
+      "confidence": "80-90"
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "150-200g",
+      "confidence": "70-80"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "50-75g",
+      "confidence": "60-70"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "30-40g",
+      "confidence": "50-60"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200-250ml",
+      "confidence": "40-50"
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "3 x 50-75g",
+      "confidence": "30-40"
+    }
+  ]
+}

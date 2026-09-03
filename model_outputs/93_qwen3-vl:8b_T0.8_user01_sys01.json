@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "white fish",
+      "portion_estimate": "110",
+      "confidence": "80"
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "20",
+      "confidence": "75"
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "155",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "20",
+      "confidence": "75"
+    }
+  ]
+}

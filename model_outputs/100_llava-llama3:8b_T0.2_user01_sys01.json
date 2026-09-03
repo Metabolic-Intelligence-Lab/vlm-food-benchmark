@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "salad with cucumber and cherry tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

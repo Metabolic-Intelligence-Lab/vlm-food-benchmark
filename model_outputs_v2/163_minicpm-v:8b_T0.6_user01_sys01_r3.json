@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup",
+      "portion_estimate": "150-200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "mashed potatoes on a plate with green sauce and oyster mushroom slice",
+      "portion_estimate": "uncertain, approx. 100-150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "biscuit",
+      "portion_estimate": "20-30 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "yogurt cup (Griffia)",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    }
+  ]
+}

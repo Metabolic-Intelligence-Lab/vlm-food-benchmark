@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "french fries",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "green leafy vegetable",
+      "portion_estimate": "70",
+      "confidence": "85"
+    },
+    {
+      "name": "cup of water",
+      "portion_estimate": "250",
+      "confidence": "75"
+    }
+  ]
+}

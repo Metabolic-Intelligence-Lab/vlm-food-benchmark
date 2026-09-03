@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "70 g",
+      "confidence": 92
+    },
+    {
+      "name": "fried fusilli pasta",
+      "portion_estimate": "90 g",
+      "confidence": 75
+    },
+    {
+      "name": "uncertain breaded fried cutlet under pasta",
+      "portion_estimate": "90 g",
+      "confidence": 55
+    },
+    {
+      "name": "red cabbage and cucumber salad",
+      "portion_estimate": "120 g",
+      "confidence": 90
+    },
+    {
+      "name": "uncertain sauced meatball or braised patty",
+      "portion_estimate": "80 g",
+      "confidence": 50
+    },
+    {
+      "name": "uncertain breaded vegetable croquettes, 2 pieces",
+      "portion_estimate": "100 g",
+      "confidence": 55
+    }
+  ]
+}

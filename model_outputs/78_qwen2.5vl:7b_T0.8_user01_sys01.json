@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot cubes",
+      "portion_estimate": "80",
+      "confidence": "85"
+    },
+    {
+      "name": "Carrot soup",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "Apricot",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "Cookies",
+      "portion_estimate": "40",
+      "confidence": "75"
+    }
+  ]
+}

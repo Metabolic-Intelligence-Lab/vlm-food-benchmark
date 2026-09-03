@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken nuggets",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "potatoes with garlic and herbs",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "spinach or kale",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "rolled oats with fruit and yogurt",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "orange juice",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    }
+  ]
+}

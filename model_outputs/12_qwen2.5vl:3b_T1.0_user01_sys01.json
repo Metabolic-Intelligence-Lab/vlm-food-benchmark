@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Egg",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Waffle",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Bowl",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot soup",
+      "portion_estimate": "150-200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Cauliflower and chickpea dish with bread cracker",
+      "portion_estimate": "uncertain, approx 150g or more for the cauliflower and chickpeas combined",
+      "confidence": "60"
+    },
+    {
+      "name": "Yoplait yogurt (strawberry flavor)",
+      "portion_estimate": "243 grams",
+      "confidence": "98"
+    }
+  ]
+}

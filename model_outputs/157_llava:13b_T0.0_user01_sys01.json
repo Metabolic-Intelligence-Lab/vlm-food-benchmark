@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "meatball or sausage in gravy with mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread (bun or roll)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fruit salad or similar fresh item",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

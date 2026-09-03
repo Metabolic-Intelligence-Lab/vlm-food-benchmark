@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato-based sauce and vegetables (possibly olives/eggplant)",
+      "portion_estimate": "230 g",
+      "confidence": "72"
+    },
+    {
+      "name": "cooked green beans (seasoned, possibly with oil/spices)",
+      "portion_estimate": "160 g",
+      "confidence": "70"
+    },
+    {
+      "name": "grilled white fish fillet (likely cod/tilapia) with herbs",
+      "portion_estimate": "130 g",
+      "confidence": "68"
+    },
+    {
+      "name": "bread roll (white bun)",
+      "portion_estimate": "60 g",
+      "confidence": "74"
+    },
+    {
+      "name": "nectarine or peach",
+      "portion_estimate": "140 g",
+      "confidence": "62"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "200 g",
+      "confidence": "80"
+    }
+  ]
+}

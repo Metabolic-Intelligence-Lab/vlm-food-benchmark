@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed Vegetables",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "Potato",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread with Fruit",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "Lemon",
+      "portion_estimate": "50",
+      "confidence": "80"
+    }
+  ]
+}

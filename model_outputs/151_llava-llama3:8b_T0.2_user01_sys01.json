@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "roasted carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roasted brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

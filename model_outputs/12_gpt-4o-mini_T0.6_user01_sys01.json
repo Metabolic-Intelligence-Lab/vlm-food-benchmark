@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked kale",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "potato wedges",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "40",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "100",
+      "confidence": "75"
+    }
+  ]
+}

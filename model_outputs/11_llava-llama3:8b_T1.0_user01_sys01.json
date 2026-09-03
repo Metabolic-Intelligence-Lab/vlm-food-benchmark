@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread with green leaves",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread without toppings",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "purple cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

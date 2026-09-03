@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "a white bowl with a green napkin wrapped around it",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "a small white plate of food",
+      "portion_estimate": "small",
+      "confidence": 80
+    },
+    {
+      "name": "retinol-rich cream cheese and tomato slices on a bag",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

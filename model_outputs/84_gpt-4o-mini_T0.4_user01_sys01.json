@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed broccoli with diced potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "whole grain bread",
+      "portion_estimate": "40",
+      "confidence": "75"
+    },
+    {
+      "name": "baked breaded chicken with tomato sauce",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed vegetables (carrots, peas, potatoes, mushrooms)",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "100",
+      "confidence": "60"
+    }
+  ]
+}

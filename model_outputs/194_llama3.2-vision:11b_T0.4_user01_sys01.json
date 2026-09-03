@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "white bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "navel orange",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "water with ice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

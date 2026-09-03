@@ -1,0 +1,30 @@
+{
+  "food_items": [
+    {
+      "name": "white bowl with rice",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "small white plate of carrots and peas",
+      "portion_estimate": "80g",
+      "confidence": "93"
+    },
+    {
+      "name": "white bowl with mixed vegetables",
+      "portion_estimate": "60g",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll on a napkin",
+      "portion_estimate": "80g",
+      "confidence": "92"
+    },
+    {
+      "name": "green apple on a napkin",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    }
+  ],
+  "notes": "The food items are arranged in a square pattern on the table. The white bowl with rice is at the top left, the small white plate of carrots and peas is at the bottom left, the white bowl with mixed vegetables is at the top right, the bread roll is at the bottom right, and the green apple is in the center."
+}

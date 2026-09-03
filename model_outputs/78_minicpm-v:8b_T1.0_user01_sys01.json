@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain (approximately 10-20 grams)",
+      "confidence": "50"
+    },
+    {
+      "name": "pumpkin soup",
+      "portion_estimate": "uncertain (approximately 75-100 grams, including spoonful of grated topping)",
+      "confidence": "60"
+    },
+    {
+      "name": "muffin with yellow filling",
+      "portion_estimate": "uncertain (approx. 30-40 grams based on typical muffin size)",
+      "confidence": "50"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "uncertain (approximately 85-100 grams for a standard-sized bun, but it's slightly smaller than average)",
+      "confidence": "60"
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "uncertain (approx. one medium sized apricot which is approximately 40-80g each depending on ripeness and size)",
+      "confidence": "50"
+    }
+  ]
+}

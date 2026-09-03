@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mixed leafy salad with grated carrots and radish",
+      "portion_estimate": "180g (uncertain)",
+      "confidence": 75
+    },
+    {
+      "name": "small whole wheat roll or bun",
+      "portion_estimate": "70g (uncertain)",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with tomato sauce and herbs (penne or similar)",
+      "portion_estimate": "200g cooked",
+      "confidence": 85
+    },
+    {
+      "name": "breaded vegetable or meat cutlet with tomato relish",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Sprinter margarine or butter (125g packet, mostly consumed)",
+      "portion_estimate": "uncertain (unopened but portioned to likely less than 10g used)",
+      "confidence": 55
+    }
+  ]
+}

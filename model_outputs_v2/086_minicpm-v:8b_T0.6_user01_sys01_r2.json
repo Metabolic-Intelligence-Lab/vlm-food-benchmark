@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Salmon",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with Butter and Sage Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Boiled Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Fruit (Blueberries and Plums)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

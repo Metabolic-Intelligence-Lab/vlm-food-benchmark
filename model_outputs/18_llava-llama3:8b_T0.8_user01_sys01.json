@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "garlic bread",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with tomato-based sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "coleslaw",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Vegetable fritter",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Potato salad",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt with berries",
+      "portion_estimate": "25g",
+      "confidence": "60"
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

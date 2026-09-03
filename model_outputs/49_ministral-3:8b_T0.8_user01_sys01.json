@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "canned tuna or chunked fish (mixed with sauce)",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "cherry tomatoes (halved)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "50g",
+      "confidence": 75
+    },
+    {
+      "name": "pasta (whole wheat or similar, cooked)",
+      "portion_estimate": "100g (dry weight, likely 250-300g cooked)",
+      "confidence": 70
+    },
+    {
+      "name": "white sauce or mayonnaise dressing",
+      "portion_estimate": "uncertain (likely 30-50g)",
+      "confidence": 55
+    }
+  ]
+}

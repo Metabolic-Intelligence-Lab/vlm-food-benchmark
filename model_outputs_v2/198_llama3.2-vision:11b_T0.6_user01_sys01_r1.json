@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Brussels",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mushroom",
+      "portion_estimate": "50g",
+      "confidence": "75"
+    }
+  ]
+}

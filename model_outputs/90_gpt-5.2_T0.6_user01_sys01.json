@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked white rice",
+      "portion_estimate": "230 g",
+      "confidence": "80"
+    },
+    {
+      "name": "grated cheese (likely parmesan) on rice",
+      "portion_estimate": "15 g",
+      "confidence": "65"
+    },
+    {
+      "name": "butter or olive oil drizzled on rice",
+      "portion_estimate": "10 g",
+      "confidence": "60"
+    },
+    {
+      "name": "cooked carrots and potatoes (mixed)",
+      "portion_estimate": "250 g",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed cooked vegetables with cauliflower and leafy greens",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll (bun), packaged",
+      "portion_estimate": "65 g",
+      "confidence": "85"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "170 g",
+      "confidence": "90"
+    }
+  ]
+}

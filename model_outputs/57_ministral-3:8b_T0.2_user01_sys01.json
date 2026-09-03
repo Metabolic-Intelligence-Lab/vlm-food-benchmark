@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans (steamed)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "quiche or frittata (with mushroom)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with tomato and basil sauce (penne/pappardelle)",
+      "portion_estimate": "180 grams (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or multigrain roll/bun",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    }
+  ]
+}

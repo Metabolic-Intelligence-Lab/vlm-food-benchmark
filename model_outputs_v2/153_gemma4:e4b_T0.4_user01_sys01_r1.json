@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "180",
+      "confidence": "95"
+    },
+    {
+      "name": "omelet or egg dish with vegetables",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "spaghetti pasta with cheese topping",
+      "portion_estimate": "200",
+      "confidence": "95"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "160",
+      "confidence": "98"
+    },
+    {
+      "name": "packaged bread rolls or bread",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "packaged bread or crackers",
+      "portion_estimate": "80",
+      "confidence": "75"
+    }
+  ]
+}

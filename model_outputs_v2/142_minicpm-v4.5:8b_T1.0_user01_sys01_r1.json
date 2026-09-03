@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white beans with herbs",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "grilled fish fillet",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "steamed cauliflower",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "sliced rye bread",
+      "portion_estimate": "30 grams",
+      "confidence": 85
+    },
+    {
+      "name": "two small purple fruits (likely plums)",
+      "portion_estimate": "40 grams",
+      "confidence": 80
+    }
+  ]
+}

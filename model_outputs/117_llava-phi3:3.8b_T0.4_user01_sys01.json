@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread rolls",
+      "portion_estimate": "60g",
+      "confidence": "90"
+    },
+    {
+      "name": "Cottage cheese with red fruit sauce",
+      "portion_estimate": "125g",
+      "confidence": "85"
+    }
+  ],
+  "tablecloth": {
+    "color": "gray",
+    "pattern": "dots"
+  },
+  "cutlery": [
+    {
+      "item": "Spoon",
+      "material": "metal"
+    }
+  ]
+}

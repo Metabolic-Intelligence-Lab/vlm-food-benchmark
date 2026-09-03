@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed shredded vegetables (beets and cabbage)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "whole apple",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "whole wheat toast with fried egg and saut\u00e9ed greens (spinach/kale)",
+      "portion_estimate": "120g (toast) + 50g (egg) + 30g (greens)",
+      "confidence": 80
+    },
+    {
+      "name": "pasta (spaghetti) with sauce",
+      "portion_estimate": "150g (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "buttered roll or breadstick",
+      "portion_estimate": "60g",
+      "confidence": 75
+    }
+  ]
+}

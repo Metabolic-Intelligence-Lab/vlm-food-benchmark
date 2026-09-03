@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce and vegetables",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Baked eggs in an English muffin",
+      "portion_estimate": "80g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "125g",
+      "confidence": "80"
+    }
+  ]
+}

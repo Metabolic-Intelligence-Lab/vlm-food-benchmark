@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup (likely spinach or vegetable soup with cheese topping)",
+      "portion_estimate": "400g",
+      "confidence": 90
+    },
+    {
+      "name": "small bread roll (possibly a dinner roll or brioche)",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "strawberry yogurt (Yomo brand)",
+      "portion_estimate": "125g",
+      "confidence": 95
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "stuffed pastry (likely rice balls or meat-filled pastry with green herb coating)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    }
+  ]
+}

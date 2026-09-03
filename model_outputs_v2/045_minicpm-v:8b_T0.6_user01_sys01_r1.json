@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried chicken",
+      "portion_estimate": "uncertain, approximately 150g-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrot salad",
+      "portion_estimate": "uncertain, approximately 80g-120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed vegetables on a bed of white rice",
+      "portion_estimate": "uncertain, approximately 150g-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans with corn and tomato",
+      "portion_estimate": "uncertain, approximately 80g-120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Deli sandwich in a plastic bag",
+      "portion_estimate": "uncertain, approximately 95g-130g",
+      "confidence": "60"
+    }
+  ]
+}

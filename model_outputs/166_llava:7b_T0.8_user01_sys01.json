@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Mac and cheese with meatballs",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Vegetarian lasagna",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Sausage and broccoli casserole",
+      "portion_estimate": "200 grams",
+      "confidence": "60"
+    }
+  ]
+}

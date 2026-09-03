@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100 g",
+      "confidence": 100
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100 g",
+      "confidence": 100
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "35 g",
+      "confidence": 100
+    },
+    {
+      "name": "Quiche slice",
+      "portion_estimate": "150 g",
+      "confidence": 100
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "80 g",
+      "confidence": 100
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "60 g",
+      "confidence": 100
+    }
+  ]
+}

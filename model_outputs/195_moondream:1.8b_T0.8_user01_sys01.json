@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "brown chicken and potato salad",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "brown chicken and potato salad with brown rice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red beans and rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

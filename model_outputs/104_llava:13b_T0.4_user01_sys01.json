@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "hearty soup or stew",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "peas and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sauce or condiment (mayonnaise or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

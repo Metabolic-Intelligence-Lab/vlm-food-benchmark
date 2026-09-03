@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta or noodles",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "green pea and nut/seed mix",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "fried patty or fritter",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "baked bread roll",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    },
+    {
+      "name": "yellow bread loaf or side bread",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    }
+  ]
+}

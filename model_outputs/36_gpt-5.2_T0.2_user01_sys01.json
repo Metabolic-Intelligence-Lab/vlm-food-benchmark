@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked fusilli pasta with tomato-based sauce",
+      "portion_estimate": "230 g",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded fried chicken cutlet (piece under pasta)",
+      "portion_estimate": "120 g",
+      "confidence": "65"
+    },
+    {
+      "name": "white bread roll (packaged)",
+      "portion_estimate": "70 g",
+      "confidence": "75"
+    },
+    {
+      "name": "dark red fruit jam/preserve (in bowl, likely plum)",
+      "portion_estimate": "60 g",
+      "confidence": "55"
+    },
+    {
+      "name": "red cabbage salad with cucumber slice and dressing",
+      "portion_estimate": "90 g",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded vegetable balls/patties (2 pieces, likely spinach or broccoli)",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    }
+  ]
+}

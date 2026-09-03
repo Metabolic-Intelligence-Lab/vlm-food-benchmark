@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta or rice with sauce/seasoning",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt or ice cream",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "peach",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sauce or seasoning packet",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Scrambled Eggs",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

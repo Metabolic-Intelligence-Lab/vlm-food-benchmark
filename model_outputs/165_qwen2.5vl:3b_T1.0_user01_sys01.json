@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable soup",
+      "portion_estimate": "200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Vegetable and cheese omelette",
+      "portion_estimate": "100 grams",
+      "confidence": "60"
+    }
+  ]
+}

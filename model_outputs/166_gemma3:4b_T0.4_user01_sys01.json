@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Small Loaf of Bread",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "Egg and Spinach Quiche",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "Greens (Spinach)",
+      "portion_estimate": "80",
+      "confidence": 65
+    }
+  ]
+}

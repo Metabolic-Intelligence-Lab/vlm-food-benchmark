@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bag of white bread rolls/buns",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "omelet or fried egg dish",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "steamed green beans",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed pasta with tomato sauce and vegetables",
+      "portion_estimate": "350g",
+      "confidence": "85"
+    },
+    {
+      "name": "whole banana",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    }
+  ]
+}

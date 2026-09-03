@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with red sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "kale",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "drink (water)",
+      "portion_estimate": "200",
+      "confidence": "80"
+    }
+  ]
+}

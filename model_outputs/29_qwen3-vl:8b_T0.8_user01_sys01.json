@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Apple",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Macaroni and cheese with mushrooms",
+      "portion_estimate": "160g",
+      "confidence": "95"
+    },
+    {
+      "name": "Zucchini and potato medley",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Egg slice",
+      "portion_estimate": "80g",
+      "confidence": "85"
+    }
+  ]
+}

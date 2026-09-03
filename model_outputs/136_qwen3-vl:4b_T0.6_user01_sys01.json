@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "Green Peas",
+      "portion_estimate": "15g",
+      "confidence": 70
+    },
+    {
+      "name": "Carrot Pieces",
+      "portion_estimate": "20g",
+      "confidence": 70
+    }
+  ]
+}

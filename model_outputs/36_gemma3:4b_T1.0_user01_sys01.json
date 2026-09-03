@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with Tomato Sauce",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "Sliced Cucumbers",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "Falafel",
+      "portion_estimate": "60g",
+      "confidence": 70
+    }
+  ]
+}

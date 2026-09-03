@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes or cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fish or chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "yellow cube (cheese or garnish)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "white beans or chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "slice of bread or roll",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "fruit (plums or grapes)",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    }
+  ]
+}

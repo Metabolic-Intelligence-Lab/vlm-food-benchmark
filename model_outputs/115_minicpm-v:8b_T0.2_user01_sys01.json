@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed salad greens, possibly Caesar dressing",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Grapes",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    },
+    {
+      "name": "Sliced whole grain bread with seeds",
+      "portion_estimate": "120g (approx)",
+      "confidence": "90"
+    }
+  ]
+}

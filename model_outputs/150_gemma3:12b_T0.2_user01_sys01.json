@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "dinner roll",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed roasted vegetables (carrots, broccoli, potatoes)",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "turkey burger with spinach",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "served food with tomato and yellow base",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "rice or grain side dish",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "roll in plastic wrap",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125 grams",
+      "confidence": 80
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200 milliliters",
+      "confidence": 90
+    }
+  ]
+}

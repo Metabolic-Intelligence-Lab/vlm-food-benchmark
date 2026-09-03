@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled fish fillet",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Cooked rice",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Pastry",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

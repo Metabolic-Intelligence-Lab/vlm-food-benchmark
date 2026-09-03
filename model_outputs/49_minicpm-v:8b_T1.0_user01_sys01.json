@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce, tuna salad",
+      "portion_estimate": "uncertain (approximately equivalent to a standard portion size)",
+      "confidence": "60"
+    },
+    {
+      "name": "Greek yogurt or cottage cheese",
+      "portion_estimate": "uncertain (likely similar in quantity as the penne pasta and tuna mix, approx. 250g)",
+      "confidence": "60"
+    },
+    {
+      "name": "Sliced tomatoes and black olives",
+      "portion_estimate": "uncertain but typical for a salad portion size of approximately 10-150g each item based on average consumption quantities",
+      "confidence": "60"
+    }
+  ]
+}

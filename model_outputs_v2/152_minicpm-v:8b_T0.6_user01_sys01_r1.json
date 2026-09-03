@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Omelette with yellow and orange vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta dish with dried fruit or nuts, possibly raisins",
+      "portion_estimate": "approx. 120g (based on typical serving size)",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll in plastic wrap",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Plums or purple grapes, 3 pieces visible",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

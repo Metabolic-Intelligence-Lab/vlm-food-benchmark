@@ -1,0 +1,43 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "300g",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Rice with butter",
+      "portion_estimate": "400g",
+      "confidence": "75"
+    },
+    {
+      "name": "Yellow cheese cubes on bread",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Green apple slice",
+      "portion_estimate": "80g",
+      "confidence": "85"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Plate with green beans on left top corner",
+      "location": "147.9, 26.3, 335.3, 41.6"
+    },
+    {
+      "name": "Dish of rice on right center",
+      "location": "408.4, 44.3, 618.2, 72.9"
+    },
+    {
+      "name": "Sliced apple next to butter",
+      "location": "665.4, 67.6, 782.2, 90"
+    }
+  ]
+}

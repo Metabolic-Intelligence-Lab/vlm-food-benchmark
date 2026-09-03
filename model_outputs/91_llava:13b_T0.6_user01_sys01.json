@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken Noodle Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Broccoli Spears",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt or Sour Cream",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread Rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

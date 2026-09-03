@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "cheese on a plate",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pie with yellow fruit topping (possibly pineapple or mango)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "shredded food in a bowl on the right plate, possibly cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

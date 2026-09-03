@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked eggs",
+      "portion_estimate": "100 g",
+      "confidence": "60"
+    },
+    {
+      "name": "pasta with cheese",
+      "portion_estimate": "150 g",
+      "confidence": "40"
+    },
+    {
+      "name": "mixed salad",
+      "portion_estimate": "50 g",
+      "confidence": "60"
+    },
+    {
+      "name": "whole wheat toast with spinach and cheese",
+      "portion_estimate": "100 g",
+      "confidence": "70"
+    },
+    {
+      "name": "fruit salad (apples, oranges)",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    }
+  ]
+}

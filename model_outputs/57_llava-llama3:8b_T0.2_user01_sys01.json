@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pancake with sausage",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with red peppers and green herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "scrambled eggs and bacon",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

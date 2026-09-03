@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried protein fillet (e.g., chicken or fish)",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Saut\u00e9ed dark leafy greens (e.g., spinach or kale)",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried crispy sticks/noodles",
+      "portion_estimate": "130g",
+      "confidence": "75"
+    },
+    {
+      "name": "Lemon wedge or fruit",
+      "portion_estimate": "60g",
+      "confidence": "90"
+    },
+    {
+      "name": "Cucumber slice or pickle",
+      "portion_estimate": "40g",
+      "confidence": "70"
+    }
+  ]
+}

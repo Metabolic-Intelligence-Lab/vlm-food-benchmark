@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Fish Fillet",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread Slice",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Cup of Yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

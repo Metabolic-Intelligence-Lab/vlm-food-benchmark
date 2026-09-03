@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet (medium-sized, ~14 cm long)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with marinara sauce (rigatoni, ~1 cup serving)",
+      "portion_estimate": "200 grams (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "mashed potatoes or cheesy potato dish (small serving, ~half cup)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "packaged butter/cream (small package)",
+      "portion_estimate": "uncertain (likely ~30 grams)",
+      "confidence": 55
+    },
+    {
+      "name": "packaged sauce packet (e.g., soy sauce or gravy)",
+      "portion_estimate": "uncertain (likely ~10 grams)",
+      "confidence": 55
+    },
+    {
+      "name": "blueberries (cluster of 6 berries)",
+      "portion_estimate": "uncertain (around 100 grams)",
+      "confidence": 60
+    }
+  ]
+}

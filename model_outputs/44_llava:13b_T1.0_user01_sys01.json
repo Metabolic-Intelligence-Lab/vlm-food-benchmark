@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Tomato and Mozzarella Sandwich",
+      "portion_estimate": "Approximately 4 oz (113 g)",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed Vegetables with Cheese Pasta",
+      "portion_estimate": "Approximately 4 oz (113 g)",
+      "confidence": "50"
+    },
+    {
+      "name": "Baked Potato",
+      "portion_estimate": "Approximately 2 oz (56 g)",
+      "confidence": "70"
+    },
+    {
+      "name": "Water Bottle",
+      "portion_estimate": "12 oz (344 ml)",
+      "confidence": "80"
+    }
+  ]
+}

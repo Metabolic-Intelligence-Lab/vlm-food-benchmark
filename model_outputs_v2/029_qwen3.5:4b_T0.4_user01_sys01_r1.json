@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese with mushrooms",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "frittata slice with fennel and zucchini",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "fennel and zucchini salad",
+      "portion_estimate": "120",
+      "confidence": 90
+    }
+  ]
+}

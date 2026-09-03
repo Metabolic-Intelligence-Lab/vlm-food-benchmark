@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pumpkin/carrot cream soup with paprika garnish",
+      "portion_estimate": "300",
+      "confidence": 75
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "vegetable omelette/frittata with onions",
+      "portion_estimate": "120",
+      "confidence": 65
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125",
+      "confidence": 70
+    }
+  ]
+}

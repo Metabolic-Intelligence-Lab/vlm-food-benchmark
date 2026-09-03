@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy tomato-gratinated cheese soup",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "saut\u00e9ed garlic-scallion mushrooms",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed/blanched leafy greens (e.g., kale, spinach)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "sliced lemon (whole fruit)",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "steamed dumplings or pot stickers",
+      "portion_estimate": "60 grams",
+      "confidence": 75
+    }
+  ]
+}

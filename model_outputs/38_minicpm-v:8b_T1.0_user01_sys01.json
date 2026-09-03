@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Boiled Eggplant",
+      "portion_estimate": "uncertain, approx. weight of entire pile (100g-200g)",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with Cheese and Mushrooms",
+      "portion_estimate": "uncertain, approx. half a plate for 3 servings",
+      "confidence": "60"
+    },
+    {
+      "name": "Cucumber Salad with Red Cabbage",
+      "portion_estimate": "uncertain, approx. quarter of the bowl size (150g-250g)",
+      "confidence": "70"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "approximate weight as shown in picture, 180-240 grams",
+      "confidence": "90"
+    }
+  ]
+}

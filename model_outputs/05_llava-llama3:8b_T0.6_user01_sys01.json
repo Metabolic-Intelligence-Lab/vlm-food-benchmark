@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "oatmeal",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "hash browns",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sugar packet",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "syrup packet (strawberry)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "syrup packet (maple)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

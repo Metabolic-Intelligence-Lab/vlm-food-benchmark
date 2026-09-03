@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sliced carrots (raw)",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    },
+    {
+      "name": "chicken wings/drumettes in sauce",
+      "portion_estimate": "160 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Brussels sprouts (cooked)",
+      "portion_estimate": "180 g",
+      "confidence": "80"
+    },
+    {
+      "name": "green apple (whole)",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "250 g",
+      "confidence": "75"
+    }
+  ]
+}

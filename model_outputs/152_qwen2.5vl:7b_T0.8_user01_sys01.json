@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich with spinach and possibly meat or tofu",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed roasted vegetables (potatoes, carrots, and possibly sweet potatoes)",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "80 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "pasta with mushrooms and cheese",
+      "portion_estimate": "120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    }
+  ]
+}

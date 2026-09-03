@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "approximate weight in grams based on typical portion size, uncertainty involved",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread Roll (unspecified type)",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    },
+    {
+      "name": "Dip or Spread (cr\u00e8me fra\u00eeche, possibly)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

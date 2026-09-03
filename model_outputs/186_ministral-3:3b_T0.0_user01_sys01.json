@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken croutons or shredded chicken",
+      "portion_estimate": "100-150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "plain bagel or croissant",
+      "portion_estimate": "60-80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "sliced ham or pork",
+      "portion_estimate": "120-150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mashed potatoes or potato gratin",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "water or clear liquid in glass",
+      "portion_estimate": "200-250 milliliters",
+      "confidence": 70
+    }
+  ]
+}

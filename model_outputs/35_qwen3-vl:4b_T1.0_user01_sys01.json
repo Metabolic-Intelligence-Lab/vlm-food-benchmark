@@ -1,0 +1,53 @@
+{
+  "food_item": "Bowl of Quinoa Salad",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "quantity": 150,
+      "unit": "g",
+      "calories": 180,
+      "nutrition_facts": {
+        "protein": "8.0g",
+        "carbohydrates": "22.0g",
+        "fat": "4.0g",
+        "sodium": "0mg"
+      }
+    },
+    {
+      "name": "Chopped Cucumber",
+      "quantity": 75,
+      "unit": "g",
+      "calories": 15,
+      "nutrition_facts": {
+        "protein": "0.0g",
+        "carbohydrates": "2.0g",
+        "fat": "0.0g",
+        "sodium": "0mg"
+      }
+    },
+    {
+      "name": "Chopped Bell Pepper",
+      "quantity": 60,
+      "unit": "g",
+      "calories": 30,
+      "nutrition_facts": {
+        "protein": "0.0g",
+        "carbohydrates": "12.0g",
+        "fat": "0.0g",
+        "sodium": "0mg"
+      }
+    },
+    {
+      "name": "Cilantro",
+      "quantity": 10,
+      "unit": "g",
+      "calories": 5,
+      "nutrition_facts": {
+        "protein": "0.0g",
+        "carbohydrates": "2.0g",
+        "fat": "0.0g",
+        "sodium": "0mg"
+      }
+    }
+  ]
+}

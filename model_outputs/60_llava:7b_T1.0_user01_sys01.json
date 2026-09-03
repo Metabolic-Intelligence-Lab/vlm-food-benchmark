@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta Alfredo",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Grilled Chicken Breast",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Baked Potatoes",
+      "portion_estimate": "260g",
+      "confidence": "85"
+    },
+    {
+      "name": "Cooked Vegetables",
+      "portion_estimate": "70g",
+      "confidence": "85"
+    },
+    {
+      "name": "Red Sauce with Chicken",
+      "portion_estimate": "300ml",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked broccoli florets",
+      "portion_estimate": "130 g",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked white fish fillet (likely cod/hake) with herb/oil dressing",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked chickpeas",
+      "portion_estimate": "140 g",
+      "confidence": "82"
+    },
+    {
+      "name": "slice of whole grain bread",
+      "portion_estimate": "45 g",
+      "confidence": "76"
+    },
+    {
+      "name": "banana (unpeeled)",
+      "portion_estimate": "120 g",
+      "confidence": "63"
+    },
+    {
+      "name": "single-serve yogurt cup (flavored)",
+      "portion_estimate": "125 g",
+      "confidence": "67"
+    }
+  ]
+}

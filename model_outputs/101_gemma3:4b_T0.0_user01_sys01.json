@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (likely with a creamy sauce)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Fish salad",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "Fruit tart",
+      "portion_estimate": "125g",
+      "confidence": 90
+    }
+  ]
+}

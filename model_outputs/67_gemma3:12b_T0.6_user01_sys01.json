@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "large flour tortilla wrap",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "unidentifiable vegetables",
+      "portion_estimate": "60",
+      "confidence": "65"
+    },
+    {
+      "name": "unidentifiable protein",
+      "portion_estimate": "50",
+      "confidence": "60"
+    }
+  ]
+}

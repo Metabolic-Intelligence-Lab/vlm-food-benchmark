@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with tomato sauce and grated cheese",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed vegetable stew",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Pizza crust with cheese",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "Hot cross bun",
+      "portion_estimate": "50",
+      "confidence": "80"
+    }
+  ]
+}

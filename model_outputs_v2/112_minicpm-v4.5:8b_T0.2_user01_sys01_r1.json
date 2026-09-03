@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with pesto and grated cheese",
+      "portion_estimate": "200-250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100 grams (2 plums)",
+      "confidence": "90"
+    },
+    {
+      "name": "cheese slice",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "cornbread or similar baked item",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    }
+  ]
+}

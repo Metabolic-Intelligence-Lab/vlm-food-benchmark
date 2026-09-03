@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne with Tomato Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Eggplant Stuffed with Cheese and Green Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Potato Wedges",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    },
+    {
+      "name": "Baked Potato with Butter and Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

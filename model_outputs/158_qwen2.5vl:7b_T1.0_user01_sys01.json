@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce and grated cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "fried eggplant",
+      "portion_estimate": "100 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "pan-fried bread",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "mango",
+      "portion_estimate": "100 grams",
+      "confidence": "75"
+    }
+  ]
+}

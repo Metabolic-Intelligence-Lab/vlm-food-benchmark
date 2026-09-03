@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup with a spoon",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "plate with some food",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "another plate with different kinds of food",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

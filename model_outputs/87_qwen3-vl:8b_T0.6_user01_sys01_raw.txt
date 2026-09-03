@@ -1,0 +1,35 @@
+### List of Distinct Visible Food Items
+
+1. **Pasta**  
+   - **Portion Estimate**: 180g  
+   - **Confidence Level**: 9 (High confidence based on clear visibility of the bowl and typical serving size)  
+
+2. **Green Beans**  
+   - **Portion Estimate**: 100g  
+   - **Confidence Level**: 9 (High confidence due to clear visibility of the plate and standard serving size)  
+
+3. **Small Pastries**  
+   - **Portion Estimate**: 40g (2 items, each ~20g)  
+   - **Confidence Level**: 8 (Moderate confidence; visible as two distinct items on the plate, but exact type is less certain)  
+
+4. **Peach**  
+   - **Portion Estimate**: 100g  
+   - **Confidence Level**: 9 (High confidence; clear visibility of the single fruit with standard size)  
+
+5. **Bread Rolls**  
+   - **Portion Estimate**: 50g  
+   - **Confidence Level**: 7 (Moderate confidence; plastic-wrapped item is visible but not clearly identifiable as bread rolls without closer inspection)  
+
+6. **Yogurt**  
+   - **Portion Estimate**: 100g  
+   - **Confidence Level**: 7 (Moderate confidence; yellow package is visible, but exact contents are inferred based on typical packaging and context)  
+
+---
+
+### Notes:
+- **Confidence Scale**: 1 = Very Low (e.g., unclear or ambiguous), 10 = Very High (e.g., unmistakable).  
+- **Portion Estimates**: Based on standard serving sizes and visual assessment of the tray.  
+- **Distinct Items**: Each entry represents a unique food item visible in the image.  
+- **Context**: All items are assumed to be part of a meal tray with no additional items visible.  
+
+This list reflects the most accurate and confident identification of food items based on the provided context.

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spiral fries",
+      "portion_estimate": "uncertain, approx. weight in grams based on visible size and plate dimensions.",
+      "confidence": "50"
+    },
+    {
+      "name": "dark green leafy vegetables (possibly spinach or chard)",
+      "portion_estimate": "uncertain, approx. weight in grams based on visible size and plate dimensions.",
+      "confidence": "60"
+    },
+    {
+      "name": "whole grain bread",
+      "portion_estimate": "uncertain, approx. weight in grams based on bag's typical portion size.",
+      "confidence": "50"
+    },
+    {
+      "name": "red-skinned apricots",
+      "portion_estimate": "uncertain, approx. total combined weight of visible fruits.",
+      "confidence": "40"
+    }
+  ]
+}

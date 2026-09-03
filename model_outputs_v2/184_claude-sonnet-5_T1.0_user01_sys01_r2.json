@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "mixed green salad with shredded carrot and red cabbage",
+      "portion_estimate": "80",
+      "confidence": 65
+    },
+    {
+      "name": "mashed potato / stuffing (savory bread-based side)",
+      "portion_estimate": "90",
+      "confidence": 45
+    },
+    {
+      "name": "breaded fried item (croquette or breaded chicken piece)",
+      "portion_estimate": "60",
+      "confidence": 50
+    },
+    {
+      "name": "stuffed mushroom or vegetable topped with melted cheese",
+      "portion_estimate": "70",
+      "confidence": 45
+    },
+    {
+      "name": "stuffed mushroom cap topped with chopped parsley and diced tomato",
+      "portion_estimate": "50",
+      "confidence": 45
+    },
+    {
+      "name": "plum (whole fruit)",
+      "portion_estimate": "55",
+      "confidence": 70
+    }
+  ]
+}

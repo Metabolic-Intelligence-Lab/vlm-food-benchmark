@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded fish fillet",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Sliced carrots",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Lentil and carrot stew",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    }
+  ]
+}

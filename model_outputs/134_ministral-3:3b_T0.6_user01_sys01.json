@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "shredded cheese",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "ground beef or meat mixture",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "diced onions",
+      "portion_estimate": "50",
+      "confidence": 70
+    }
+  ]
+}

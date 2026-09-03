@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried egg (sunny side up)",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": 130,
+      "confidence": 92
+    },
+    {
+      "name": "Steamed spinach",
+      "portion_estimate": 100,
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll (in plastic wrapper)",
+      "portion_estimate": 40,
+      "confidence": 85
+    },
+    {
+      "name": "Yogurt cup",
+      "portion_estimate": 125,
+      "confidence": 90
+    }
+  ]
+}

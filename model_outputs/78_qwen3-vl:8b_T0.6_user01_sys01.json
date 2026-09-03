@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Tomato Soup with Grated Cheese",
+      "portion_estimate": "220g",
+      "confidence": "70"
+    },
+    {
+      "name": "Diced Butternut Squash",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fresh Apricots",
+      "portion_estimate": "90g",
+      "confidence": "80"
+    },
+    {
+      "name": "Biscuit with Cheese Spread",
+      "portion_estimate": "45g",
+      "confidence": "70"
+    },
+    {
+      "name": "Packaged Meat Patty",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    }
+  ]
+}

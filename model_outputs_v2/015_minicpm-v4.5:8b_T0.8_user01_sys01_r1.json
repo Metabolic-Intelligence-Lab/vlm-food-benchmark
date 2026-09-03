@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "sliced pickled vegetables",
+      "portion_estimate": "100-150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small round dark bread/bun",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small round light brown bread/bun",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "orange/yellow scrambled eggs with vegetables",
+      "portion_estimate": "150-200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "two round herb-coated balls with white sauce",
+      "portion_estimate": "30 grams each",
+      "confidence": 75
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200-250 ml",
+      "confidence": 80
+    }
+  ]
+}

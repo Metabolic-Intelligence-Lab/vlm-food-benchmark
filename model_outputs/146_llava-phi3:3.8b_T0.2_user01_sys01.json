@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta salad",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "80g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cheese crackers",
+      "portion_estimate": "120g",
+      "confidence": "60"
+    },
+    {
+      "name": "Purple grapes",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    }
+  ]
+}

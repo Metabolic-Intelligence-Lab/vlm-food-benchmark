@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta shells with cheese sauce",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat bread (single slice)",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "crispbread or rye cracker",
+      "portion_estimate": "30g",
+      "confidence": 75
+    },
+    {
+      "name": "cheese sauce (visible on pasta and plate)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "plums (two whole)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "salt packet (not consumed)",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    }
+  ]
+}

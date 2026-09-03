@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat pasta (penne or similar shape) with tomato-based sauce",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed green beans",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "baked frittata or quiche with cheese and herbs",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat bread (partially wrapped)",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "water (in a clear plastic cup)",
+      "portion_estimate": "250ml (uncertain volume, approximate)",
+      "confidence": 70
+    },
+    {
+      "name": "condiment packet (likely soy sauce or similar)",
+      "portion_estimate": "10g",
+      "confidence": 65
+    }
+  ]
+}

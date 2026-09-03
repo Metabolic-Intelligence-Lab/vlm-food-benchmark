@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "uncertain, approx. 200g - 300g",
+      "confidence": "65"
+    },
+    {
+      "name": "Roasted green beans and chickpeas",
+      "portion_estimate": "uncertain, approx. 100g - 150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Peach fruit",
+      "portion_estimate": "uncertain, approx. 120g",
+      "confidence": "60"
+    }
+  ]
+}

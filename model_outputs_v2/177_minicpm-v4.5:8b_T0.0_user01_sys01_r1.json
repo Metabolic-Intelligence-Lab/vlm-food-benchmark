@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with sauce",
+      "portion_estimate": "200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mashed potatoes with topping",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    }
+  ]
+}

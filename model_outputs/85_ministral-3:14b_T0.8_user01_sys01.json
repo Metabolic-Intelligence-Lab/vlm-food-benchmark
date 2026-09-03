@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "gratinated tomato and cheese soup",
+      "portion_estimate": "350g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or boiled artichoke (halved, with part of heart visible)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "steamed green vegetables (likely broccoli rabe or kale)",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "whole lemon",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "baked potato or sweet potato (peeled, uncooked)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    }
+  ]
+}

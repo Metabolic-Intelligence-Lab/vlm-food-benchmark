@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Spicy stir-fried meat and vegetables",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "Fried potato cubes",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Seasoned ground meat",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Frothy milky beverage",
+      "portion_estimate": "250g",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Yogurt",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cooked Green Vegetables",
+      "portion_estimate": "180 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread Slice",
+      "portion_estimate": "25 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fish Fillet(s)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Diced Potatoes",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    }
+  ]
+}

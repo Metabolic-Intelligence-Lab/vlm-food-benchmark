@@ -1,0 +1,45 @@
+{
+  "tray": [
+    {
+      "type": "plate",
+      "contents": {
+        "pasta salad": {
+          "quantity": "1/2 cup"
+        },
+        "mushroom": {
+          "quantity": "1 piece"
+        },
+        "asparagus": {
+          "quantity": "3.5 oz"
+        }
+      }
+    },
+    {
+      "type": "plate",
+      "contents": {
+        "green beans": {
+          "quantity": "4.75 oz"
+        }
+      }
+    },
+    {
+      "type": "plate",
+      "contents": {
+        "bread roll": {
+          "quantity": "1 piece"
+        },
+        "banana": {
+          "quantity": "1 piece"
+        }
+      }
+    },
+    {
+      "type": "glass",
+      "contents": {
+        "water": {
+          "quantity": "1 cup"
+        }
+      }
+    }
+  ]
+}

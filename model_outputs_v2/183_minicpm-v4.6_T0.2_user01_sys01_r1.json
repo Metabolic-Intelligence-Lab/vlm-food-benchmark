@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich-like pastry",
+      "portion_estimate": "150 g",
+      "confidence": 80
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "250 g",
+      "confidence": 70
+    },
+    {
+      "name": "brussel sprouts",
+      "portion_estimate": "200 g",
+      "confidence": 60
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 g",
+      "confidence": 80
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150 g",
+      "confidence": 70
+    }
+  ]
+}

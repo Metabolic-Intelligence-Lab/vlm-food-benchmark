@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Vegetable Stir-fry with Breaded Fillet",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "90-100"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "whole baked sweet potato (with skin)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed greens salad (kale and cabbage) with dressing",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small whole roasted carrot slice",
+      "portion_estimate": "30 grams",
+      "confidence": 75
+    },
+    {
+      "name": "wrapped food item (possibly a portion of cooked meat or fish)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

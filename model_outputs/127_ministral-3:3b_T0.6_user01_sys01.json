@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fried gnocchi with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "small salad (lettuce, tomato, cucumber, cheese, possibly croutons)",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams (approx. length-based estimate)",
+      "confidence": 80
+    },
+    {
+      "name": "wrapped sandwich bun (partial view)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

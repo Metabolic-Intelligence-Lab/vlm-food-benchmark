@@ -1,0 +1,32 @@
+Based on the image analysis, the following distinct food and beverage items were identified, with their estimated portions and confidence levels (confidence is based on visual observation and typical portion sizes for common items). The items are listed in the order they appear in the image:
+
+1. **Pasta (cooked with cheese)**  
+   - Portion: 120 g  
+   - Confidence: 85%  
+   *Reasoning: The pasta appears as a serving-sized portion (about 1 cup) in a bowl, consistent with a typical cooked pasta dish. Visual cues like the texture and cheese topping confirm this.*
+
+2. **Bread Roll**  
+   - Portion: 35 g  
+   - Confidence: 80%  
+   *Reasoning: A small, soft roll (e.g., a dinner roll) is visible. Its size aligns with standard roll portions (e.g., 30–40 g), and it's clearly identifiable as a single item.*
+
+3. **Apricots**  
+   - Portion: 150 g (3 individual pieces, ~50 g each)  
+   - Confidence: 70%  
+   *Reasoning: Three small, round fruits with a typical apricot appearance (color, shape) are present. While oranges are possible, the size and texture are more consistent with apricots, but ambiguity exists due to similar fruit types.*
+
+4. **Vegetable Salad**  
+   - Portion: 180 g  
+   - Confidence: 80%  
+   *Reasoning: A mixed salad with shredded lettuce, cabbage, and cucumber is visible. This portion (about 1 cup) is typical for a light salad, and the ingredients are clearly distinguishable.*
+
+5. **Water**  
+   - Portion: 250 g (250 ml)  
+   - Confidence: 90%  
+   *Reasoning: A glass of water is prominently featured. The volume is standard for a full glass (250 ml), and it is a clear beverage.*
+
+### Key Notes:
+- **Confidence levels** reflect visual estimation; minor variations in portion sizes are common, but these are reasonable for the context.
+- **No ambiguous items** were identified (e.g., no mixed fruits or unclear salad components).
+- **Beverage inclusion**: Water is explicitly listed as it is a distinct beverage item.
+- **Total items**: 5 distinct food/beverage items were identified in the image.

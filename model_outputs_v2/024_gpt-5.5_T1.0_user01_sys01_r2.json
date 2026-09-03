@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "uncertain breaded vegetable patties or croquettes",
+      "portion_estimate": "about 120 grams",
+      "confidence": "55"
+    },
+    {
+      "name": "orange slices used as garnish",
+      "portion_estimate": "about 15 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked pasta with green sauce and grated cheese",
+      "portion_estimate": "about 260 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "sliced cooked carrots",
+      "portion_estimate": "about 120 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "about 125 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "about 150 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "about 60 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "partially visible bread roll",
+      "portion_estimate": "about 50 grams",
+      "confidence": "70"
+    }
+  ]
+}

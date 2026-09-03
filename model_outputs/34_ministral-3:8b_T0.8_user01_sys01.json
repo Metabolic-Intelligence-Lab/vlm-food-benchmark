@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried or scrambled egg",
+      "portion_estimate": "60g",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed spinach or greens",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "potato pancake or latke",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "pasta penne with tomato sauce and grated cheese",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat roll or bread (loaf portion)",
+      "portion_estimate": "uncertain (loaf ~300g, but visible portion uncertain)",
+      "confidence": 55
+    },
+    {
+      "name": "apple with peel",
+      "portion_estimate": "150g",
+      "confidence": 90
+    }
+  ]
+}

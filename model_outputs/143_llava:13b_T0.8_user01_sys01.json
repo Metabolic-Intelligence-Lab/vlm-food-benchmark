@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "yogurt with spoon",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "vegetable side dish (green beans or similar legume)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "loaf of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cooked fish with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

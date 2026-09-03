@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "steak or meat fillet",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "spinach greens",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "milk (white)",
+      "portion_estimate": "125ml",
+      "confidence": "90"
+    },
+    {
+      "name": "yogurt with fruits and nuts",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "uncertain, approx. 150g - 200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Salad (cucumber and red cabbage)",
+      "portion_estimate": "uncertain, approx. 80g - 100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cucumbers with yogurt",
+      "portion_estimate": "uncertain, approx. 60g - 90g",
+      "confidence": "50"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "uncertain, approx. 80g - 120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. 50g - 60g",
+      "confidence": "60"
+    }
+  ]
+}

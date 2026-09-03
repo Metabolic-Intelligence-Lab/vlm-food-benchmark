@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "dinner roll (plain, packaged)",
+      "portion_estimate": "60 g",
+      "confidence": "78"
+    },
+    {
+      "name": "rigatoni pasta with tomato-based meat sauce",
+      "portion_estimate": "260 g",
+      "confidence": "72"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "180 g",
+      "confidence": "80"
+    },
+    {
+      "name": "eggplant parmesan (breaded eggplant with melted shredded cheese)",
+      "portion_estimate": "170 g",
+      "confidence": "62"
+    },
+    {
+      "name": "yogurt (single-serve cup)",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    }
+  ]
+}

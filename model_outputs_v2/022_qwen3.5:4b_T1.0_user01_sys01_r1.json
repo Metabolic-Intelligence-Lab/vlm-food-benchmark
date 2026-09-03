@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green beans and carrots",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed butternut squash",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "chicken and rice mixture",
+      "portion_estimate": "120",
+      "confidence": "75"
+    },
+    {
+      "name": "whole grain flatbread",
+      "portion_estimate": "60",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt drink",
+      "portion_estimate": "125",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "350",
+      "confidence": "90"
+    }
+  ]
+}

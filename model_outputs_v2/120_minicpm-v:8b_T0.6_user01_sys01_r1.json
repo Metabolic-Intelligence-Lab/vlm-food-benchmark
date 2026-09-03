@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "uncertain, approximately 100g",
+      "confidence": "50"
+    },
+    {
+      "name": "Mashed Cauliflower",
+      "portion_estimate": "uncertain, approximately 200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Cauliflower Pattie (possibly a breaded and fried cauliflower patty)",
+      "portion_estimate": "uncertain, approximately 50g",
+      "confidence": "40"
+    },
+    {
+      "name": "Green Soup with Cheese",
+      "portion_estimate": "uncertain, approximately 200-300g",
+      "confidence": "70"
+    },
+    {
+      "name": "White Bread Slice",
+      "portion_estimate": "uncertain, approximately 45g",
+      "confidence": "60"
+    }
+  ]
+}

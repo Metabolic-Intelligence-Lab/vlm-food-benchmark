@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bow-tie pasta with tomatoes",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "spinach and potato side dish",
+      "portion_estimate": "270 g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "120 g",
+      "confidence": 80
+    },
+    {
+      "name": "dairy product (yogurt or cheese)",
+      "portion_estimate": "150 g",
+      "confidence": 75
+    }
+  ]
+}

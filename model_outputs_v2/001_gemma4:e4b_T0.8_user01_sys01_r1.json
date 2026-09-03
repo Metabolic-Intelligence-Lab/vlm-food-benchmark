@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Plain bread roll",
+      "portion_estimate": "110",
+      "confidence": "90"
+    },
+    {
+      "name": "Creamy soup with grated cheese topping",
+      "portion_estimate": "320",
+      "confidence": "80"
+    },
+    {
+      "name": "Savory croquette or patty",
+      "portion_estimate": "90",
+      "confidence": "75"
+    },
+    {
+      "name": "Mixed grain or rice side dish",
+      "portion_estimate": "150",
+      "confidence": "70"
+    }
+  ]
+}

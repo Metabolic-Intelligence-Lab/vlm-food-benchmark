@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "100-150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "pizza slice (likely cheese and tomato sauce)",
+      "portion_estimate": "100-150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "pasta dish (likely rigatoni with meat sauce and mushrooms)",
+      "portion_estimate": "150-200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "30-40 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "two small oranges",
+      "portion_estimate": "50 grams total",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "breaded fish",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "noodles or pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "roll with butter and lemon slices",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "chicken salad or meat mixture with vegetables (potatoes, onions, tomatoes)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

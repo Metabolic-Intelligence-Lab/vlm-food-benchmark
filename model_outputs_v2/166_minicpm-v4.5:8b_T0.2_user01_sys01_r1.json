@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of rigatoni pasta with tomato sauce and grated cheese",
+      "portion_estimate": "200-250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "small round bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    },
+    {
+      "name": "small cup of yogurt (Yomo brand)",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "triangular slice of stuffed bread or calzone",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "mixture of cooked greens and small potatoes",
+      "portion_estimate": "100-150 grams",
+      "confidence": 90
+    }
+  ]
+}

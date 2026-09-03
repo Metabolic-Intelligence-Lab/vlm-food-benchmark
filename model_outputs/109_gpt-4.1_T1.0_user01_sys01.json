@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "steamed green beans",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "white rice with grated cheese",
+      "portion_estimate": "130",
+      "confidence": 90
+    },
+    {
+      "name": "boiled diced potatoes",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "whole green apple",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "single serving packet of margarine or butter",
+      "portion_estimate": "10",
+      "confidence": 85
+    }
+  ]
+}

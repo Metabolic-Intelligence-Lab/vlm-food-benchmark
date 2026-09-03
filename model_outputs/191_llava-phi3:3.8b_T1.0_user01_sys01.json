@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "brown meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange carrot sticks",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "silver fork",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

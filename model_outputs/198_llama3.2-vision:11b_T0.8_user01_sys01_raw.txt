@@ -1,0 +1,13 @@
+Based on the provided image, I've identified the distinct, visible food and beverage items. I've also estimated the portion sizes in grams for each item to support caliber trough tracking.
+
+Here is the output in the strict JSON format:
+
+{
+  "food_items": [
+    {
+      "name": "Breaded fish fillet",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Roasted vegetables (carrots, broccoli, and br

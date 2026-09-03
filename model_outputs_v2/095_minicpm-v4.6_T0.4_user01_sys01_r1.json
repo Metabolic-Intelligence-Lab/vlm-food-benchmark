@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "stew with baked beans and sausages",
+      "portion_estimate": "approximately 220 grams of the stew components",
+      "confidence": 95
+    },
+    {
+      "name": "baked beans",
+      "portion_estimate": "approximately 170 grams",
+      "confidence": 90
+    },
+    {
+      "name": "sausage pieces",
+      "portion_estimate": "approximately 30 grams",
+      "confidence": 85
+    }
+  ]
+}

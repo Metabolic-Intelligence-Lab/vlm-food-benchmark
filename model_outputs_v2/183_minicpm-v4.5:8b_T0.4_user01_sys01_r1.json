@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "square pastry or savory cake",
+      "portion_estimate": "100-150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "bowl of vegetable soup (possibly lentil or minestrone with cheese garnish)",
+      "portion_estimate": "300-400 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "small plate of cooked Brussels sprouts",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150 grams",
+      "confidence": "95"
+    }
+  ]
+}

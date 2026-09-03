@@ -1,0 +1,37 @@
+{
+  "food_items": [
+    {
+      "name": "Green pesto pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Boiled egg on a piece of fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 50,
+      "description": "The portion size is estimated to be around half an egg."
+    },
+    {
+      "name": "Cucumber salad with lemon slices",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Whole grain bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50,
+      "description": "The portion size is estimated to be a typical serving of whole grain bread."
+    },
+    {
+      "name": "Yogurt with berries",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Green vegetable drink or smoothie",
+      "portion_estimate": "uncertain",
+      "confidence": 50,
+      "description": "The portion size is estimated to be a typical serving of green juice."
+    }
+  ]
+}

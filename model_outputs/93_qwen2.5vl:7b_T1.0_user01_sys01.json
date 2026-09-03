@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled fish with chickpeas",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Chickpeas with lemon",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bow tie pasta with tomato sauce",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }
+  ]
+}

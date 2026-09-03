@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta or grains (e.g., couscous)",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120",
+      "confidence": "100"
+    },
+    {
+      "name": "Whole wheat bread slice",
+      "portion_estimate": "90",
+      "confidence": "90"
+    },
+    {
+      "name": "Scrambled eggs",
+      "portion_estimate": "110",
+      "confidence": "85"
+    },
+    {
+      "name": "Mixed vegetables (carrots and peas)",
+      "portion_estimate": "80",
+      "confidence": "80"
+    },
+    {
+      "name": "Edamame or peas mix",
+      "portion_estimate": "100",
+      "confidence": "75"
+    }
+  ]
+}

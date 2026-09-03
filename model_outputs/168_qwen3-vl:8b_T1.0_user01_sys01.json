@@ -1,0 +1,35 @@
+{
+  "total_weight": 200,
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "weight": 80,
+      "confidence": 0.9
+    },
+    {
+      "name": "Carrots",
+      "weight": 40,
+      "confidence": 0.9
+    },
+    {
+      "name": "Green beans",
+      "weight": 25,
+      "confidence": 0.85
+    },
+    {
+      "name": "Cabbage",
+      "weight": 20,
+      "confidence": 0.8
+    },
+    {
+      "name": "Peas",
+      "weight": 15,
+      "confidence": 0.75
+    },
+    {
+      "name": "Tomatoes",
+      "weight": 20,
+      "confidence": 0.8
+    }
+  ]
+}

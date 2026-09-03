@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "wrap or sandwich with meat and vegetables (possibly with peas)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pudding or ice cream",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "slices of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "butter-based spread",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

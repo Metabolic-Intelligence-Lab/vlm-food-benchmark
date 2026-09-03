@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup in a bowl",
+      "portion_estimate": "approximate weight in grams (uncertain)",
+      "confidence": 30
+    },
+    {
+      "name": "Dinner plate containing unidentifiable food",
+      "portion_estimate": "approximate weight in grams (uncertain)",
+      "confidence": 30
+    },
+    {
+      "name": "Spicy sauce in a bowl",
+      "portion_estimate": "approximate weight in grams (uncertain)",
+      "confidence": 40
+    },
+    {
+      "name": "Stir-fry or cooked leafy greens in a bowl with sauce",
+      "portion_estimate": "approximate weight in grams (uncertain)",
+      "confidence": 50
+    },
+    {
+      "name": "Sauce in a bottle on the table",
+      "portion_estimate": "approximate weight in grams (uncertain)",
+      "confidence": 40
+    }
+  ]
+}

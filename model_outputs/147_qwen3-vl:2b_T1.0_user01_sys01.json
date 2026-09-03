@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Meat",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Peas",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

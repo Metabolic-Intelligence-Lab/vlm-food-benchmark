@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Large savory dumpling or filled dough (on top plate)",
+      "portion_estimate": "110g",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked leafy greens (e.g., spinach)",
+      "portion_estimate": "90g",
+      "confidence": "80"
+    },
+    {
+      "name": "Golden-brown fried croquette or fritter",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried savory patty or fritter (irregular shape)",
+      "portion_estimate": "70g",
+      "confidence": "80"
+    },
+    {
+      "name": "Wrapped fried savory snacks/fritters",
+      "portion_estimate": "80g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Glass of water",
+      "portion_estimate": "20 g",
+      "confidence": 100
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "30 g",
+      "confidence": 100
+    },
+    {
+      "name": "Plate of green pasta",
+      "portion_estimate": "40 g",
+      "confidence": 100
+    },
+    {
+      "name": "Plate of fusilli pasta",
+      "portion_estimate": "50 g",
+      "confidence": 100
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "60 g",
+      "confidence": 100
+    },
+    {
+      "name": "Stuffed vegetable",
+      "portion_estimate": "70 g",
+      "confidence": 100
+    }
+  ]
+}

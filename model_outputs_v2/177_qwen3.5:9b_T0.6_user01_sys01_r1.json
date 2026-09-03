@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green pasta (likely spinach or pesto) with chunks of chicken and white sauce",
+      "portion_estimate": 320,
+      "confidence": 95
+    },
+    {
+      "name": "Roasted green vegetables (brussels sprouts)",
+      "portion_estimate": 140,
+      "confidence": 92
+    },
+    {
+      "name": "Grated cheese or breadcrumbs",
+      "portion_estimate": 35,
+      "confidence": 85
+    },
+    {
+      "name": "Whole wheat bread roll in plastic wrap",
+      "portion_estimate": 100,
+      "confidence": 98
+    },
+    {
+      "name": "Pear (whole fruit)",
+      "portion_estimate": 200,
+      "confidence": 95
+    }
+  ]
+}

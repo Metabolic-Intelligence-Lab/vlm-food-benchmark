@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "brown gravy or soup (in bowl)",
+      "portion_estimate": "200 grams (approximate)",
+      "confidence": "75"
+    },
+    {
+      "name": "chicken or turkey meat slice with gravy",
+      "portion_estimate": "120 grams (approximate)",
+      "confidence": "80"
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "100 grams (approximate)",
+      "confidence": "85"
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "150 grams (approximate)",
+      "confidence": "85"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "creamers or flavored creamers packets",
+      "portion_estimate": "uncertain (individual packets)",
+      "confidence": "30"
+    },
+    {
+      "name": "butter packet",
+      "portion_estimate": "uncertain (small amount)",
+      "confidence": "30"
+    }
+  ]
+}

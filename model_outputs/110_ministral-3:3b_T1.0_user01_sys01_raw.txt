@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup with grated cheese",
+      "portion_estimate": 250,
+      "confidence": 85
+    },
+    {
+      "name": "sandwich roll (partially visible)",
+      "portion_estimate": 40,
+      "confidence": 70
+    },
+    {
+      "name": "garlic bread crust",
+      "portion_estimate": 35,
+      "confidence": 75
+    },
+    {
+      "name": "green vegetable salad (with mixed veggies: peas and carrots)",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "pitted plums",
+      "portion_estimate": 50,
+      "confidence": 78
+    },
+    {
+      "name": "small bagged snack (e.g., crackers or chips)",
+      "portion_estimate": uncertain,
+      "confidence": 60
+    }
+  ]
+}

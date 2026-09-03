@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese and parmesan",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    },
+    {
+      "name": "Plums or dark fruits",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Mashed potatoes with chives",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    },
+    {
+      "name": "Vegetable stir-fry or stew (possibly okra and green beans)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

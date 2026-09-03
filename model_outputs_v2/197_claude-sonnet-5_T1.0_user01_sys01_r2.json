@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi with tomato sauce",
+      "portion_estimate": "250",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "80",
+      "confidence": "70"
+    },
+    {
+      "name": "orange (whole)",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded meatballs/nuggets",
+      "portion_estimate": "180",
+      "confidence": "65"
+    }
+  ]
+}

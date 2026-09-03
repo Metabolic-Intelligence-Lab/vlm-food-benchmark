@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled mackerel fillet",
+      "portion_estimate": "90",
+      "confidence": 95
+    },
+    {
+      "name": "macaroni pasta with grated cheese",
+      "portion_estimate": "130",
+      "confidence": 90
+    },
+    {
+      "name": "boiled potatoes",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "40",
+      "confidence": 95
+    }
+  ]
+}

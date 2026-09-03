@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta Salad with Cherry Tomatoes",
+      "portion_estimate": "200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Slices of French Bread",
+      "portion_estimate": "80 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Omelette with Spinach and Feta Cheese",
+      "portion_estimate": "250 grams",
+      "confidence": "60"
+    }
+  ]
+}

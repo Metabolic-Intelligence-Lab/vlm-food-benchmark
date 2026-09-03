@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "150 g",
+      "confidence": "100"
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "70 g",
+      "confidence": "100"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "110 g",
+      "confidence": "100"
+    },
+    {
+      "name": "Tart",
+      "portion_estimate": "120 g",
+      "confidence": "100"
+    },
+    {
+      "name": "Vegetables",
+      "portion_estimate": "80 g",
+      "confidence": "100"
+    }
+  ]
+}

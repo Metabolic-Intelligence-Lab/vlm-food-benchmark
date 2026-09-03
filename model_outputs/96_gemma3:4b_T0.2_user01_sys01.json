@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "Biscuit",
+      "portion_estimate": "80",
+      "confidence": "95"
+    },
+    {
+      "name": "Sugar Packet",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

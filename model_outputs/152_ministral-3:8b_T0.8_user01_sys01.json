@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "quiche (with filling of spinach, cheese, and egg) on slice of bread",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "diced mixed vegetables (carrots and potatoes)",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or multigrain roll",
+      "portion_estimate": "80 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with meat sauce (likely meatballs) and grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta with Pesto Sauce",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Omelette with Mushrooms and Peas",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Brown Rice with Peas",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

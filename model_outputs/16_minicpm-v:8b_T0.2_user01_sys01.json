@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "120g (approximate weight)",
+      "confidence": "90"
+    },
+    {
+      "name": "Red Plum or Cherry Tomato",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

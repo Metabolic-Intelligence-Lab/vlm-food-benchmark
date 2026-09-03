@@ -1,0 +1,29 @@
+{
+  "plate1": {
+    "name": "mixed vegetables",
+    "portion_estimate": "200g",
+    "components": [
+      "carrots",
+      "broccoli",
+      "cranberries"
+    ]
+  },
+  "plate2": {
+    "name": "baked beans and pasta",
+    "portion_estimate": "400g",
+    "components": [
+      "pasta",
+      "sausage",
+      "mushrooms"
+    ]
+  },
+  "dish3": {
+    "name": "meatballs in sauce with garlic bread and prunes on a tray",
+    "portion_estimate": "500g",
+    "components": [
+      "meatballs",
+      "garlic bread",
+      "prunes"
+    ]
+  }
+}

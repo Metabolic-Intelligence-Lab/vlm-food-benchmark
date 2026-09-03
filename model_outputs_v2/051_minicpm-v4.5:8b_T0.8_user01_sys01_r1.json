@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "omelette or baked egg dish with vegetables",
+      "portion_estimate": "200-250 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "tomato ketchup or brown sauce",
+      "portion_estimate": "30-50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "steamed or cooked cabbage",
+      "portion_estimate": "100-150 grams",
+      "confidence": "60"
+    }
+  ]
+}

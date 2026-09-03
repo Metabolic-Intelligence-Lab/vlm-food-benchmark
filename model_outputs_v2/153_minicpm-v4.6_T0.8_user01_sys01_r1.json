@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "vegetable dish (omelet-like)",
+      "portion_estimate": "100 g",
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta with cheese",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "120 g",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 g",
+      "confidence": 75
+    },
+    {
+      "name": "package (likely cheese or food)",
+      "portion_estimate": "50 g",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded and fried fish fillet (two pieces)",
+      "portion_estimate": "240g",
+      "confidence": 70
+    },
+    {
+      "name": "cabbage slaw/salad with shredded carrots, onions, and dressing",
+      "portion_estimate": "180g",
+      "confidence": 70
+    },
+    {
+      "name": "pasta with tomato-based sauce",
+      "portion_estimate": "200g (cooked)",
+      "confidence": 75
+    },
+    {
+      "name": "wine (red) in glass",
+      "portion_estimate": "uncertain (partially filled glass, ~60ml)",
+      "confidence": 40
+    },
+    {
+      "name": "water or clear liquid in glass",
+      "portion_estimate": "uncertain (~150ml)",
+      "confidence": 45
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Couscous with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mozzarella cheese on toast",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked potato topped with sour cream and chives",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Gnocchi with a red sauce topping",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

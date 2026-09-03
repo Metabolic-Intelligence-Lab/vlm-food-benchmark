@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rotini pasta with tomato sauce",
+      "portion_estimate": "250 g",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked chickpeas",
+      "portion_estimate": "140 g",
+      "confidence": "74"
+    },
+    {
+      "name": "breaded patty/cutlet (likely vegetarian) with a small amount of sauce and shredded cheese",
+      "portion_estimate": "110 g",
+      "confidence": "55"
+    },
+    {
+      "name": "plain bread roll/bun",
+      "portion_estimate": "70 g",
+      "confidence": "72"
+    },
+    {
+      "name": "sealed fruit compote cup (apple/fruit puree style)",
+      "portion_estimate": "100 g",
+      "confidence": "60"
+    }
+  ]
+}

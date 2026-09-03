@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "mixed shredded vegetables (likely cabbage and carrots)",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "fried or baked meatballs (possibly chicken or beef)",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "fried or baked onion rings",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "small piece of bread or roll (possibly a dinner roll)",
+      "portion_estimate": "40g",
+      "confidence": 70
+    },
+    {
+      "name": "dried plum or prune",
+      "portion_estimate": "uncertain (approximate size)",
+      "confidence": 55
+    },
+    {
+      "name": "water (in a glass)",
+      "portion_estimate": "uncertain (glass appears half-full, ~200ml)",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "vegetable and bean dish",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

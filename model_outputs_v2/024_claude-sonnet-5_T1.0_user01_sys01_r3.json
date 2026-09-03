@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "farro (spelt) salad with grated cheese",
+      "portion_estimate": "180",
+      "confidence": "75"
+    },
+    {
+      "name": "spinach and vegetable patties (2 pieces) with orange wedges",
+      "portion_estimate": "140",
+      "confidence": "65"
+    },
+    {
+      "name": "cooked sliced carrots",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "red apple, whole",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll (panino)",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "second bread roll, partially visible",
+      "portion_estimate": "60",
+      "confidence": "55"
+    },
+    {
+      "name": "Yomo yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "70"
+    }
+  ]
+}

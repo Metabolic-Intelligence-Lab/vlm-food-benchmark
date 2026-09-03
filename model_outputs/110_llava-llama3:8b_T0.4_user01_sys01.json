@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "green soup",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat cracker",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "diced red apples",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "lettuce leaves",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "whole wheat bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "sliced cucumbers",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

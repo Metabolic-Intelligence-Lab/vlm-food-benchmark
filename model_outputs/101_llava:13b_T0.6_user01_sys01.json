@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "macaroni pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "grilled fish",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "vegetables (potatoes or sweet potatoes)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "dessert/pastry with cream and lemon slices",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

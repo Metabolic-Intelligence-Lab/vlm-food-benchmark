@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat roll or bread (in plastic wrap)",
+      "portion_estimate": "50 grams",
+      "confidence": 75
+    },
+    {
+      "name": "pasta (likely macaroni or shells, cheesy)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pan-seared fish fillet (likely cod or similar)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "brussels sprouts (pan-fried)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    }
+  ]
+}

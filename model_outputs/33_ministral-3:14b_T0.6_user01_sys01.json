@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roasted vegetable medley (carrots, zucchini, eggplant, peas) with tomato slice",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "whole wheat or whole grain flatbread",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat spaghetti with tomato-based sauce",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "water (in clear plastic cup)",
+      "portion_estimate": "250",
+      "confidence": 95
+    }
+  ]
+}

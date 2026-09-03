@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (bowl, likely fusilli/penne with tomato sauce)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "broccoli florets with sauce",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mushrooms with sauce",
+      "portion_estimate": "80 grams",
+      "confidence": 75
+    },
+    {
+      "name": "bread roll (whole wheat)",
+      "portion_estimate": "60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "uncertain (no clear measurement)",
+      "confidence": 50
+    }
+  ]
+}

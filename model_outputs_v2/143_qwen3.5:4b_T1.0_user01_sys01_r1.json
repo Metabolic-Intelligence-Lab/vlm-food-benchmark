@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Yoplait yogurt cup (100ml)",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "Steamed broccoli with olive oil dressing",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Whole wheat bread slice",
+      "portion_estimate": "45",
+      "confidence": 90
+    },
+    {
+      "name": "Baked cod fillet with herbs",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "Roasted potatoes (seasoned)",
+      "portion_estimate": "150",
+      "confidence": 90
+    }
+  ]
+}

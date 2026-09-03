@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and meatballs (or ground meat)",
+      "portion_estimate": "300g (uncertain, estimated by visual comparison to typical pasta portion)",
+      "confidence": 70
+    },
+    {
+      "name": "diced potatoes (potato salad or roasted potatoes)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "beef or pork meatballs (or ground meat)",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "uncertain (cannot estimate volume accurately)",
+      "confidence": 50
+    }
+  ]
+}

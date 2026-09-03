@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese (likely parmesan)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "packaged bun or roll (whole wheat or similar)",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "rice with peas and possibly bits of meat or egg",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pizza slice (likely with tomato sauce, cheese, and toppings)",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    }
+  ]
+}

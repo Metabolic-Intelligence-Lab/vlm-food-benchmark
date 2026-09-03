@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (bun)",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "cooked meatball with sauce",
+      "portion_estimate": "80 g",
+      "confidence": 90
+    },
+    {
+      "name": "rotini pasta dish",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "side salad (cabbage and cucumber)",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "fried falafel patties",
+      "portion_estimate": "120 g",
+      "confidence": 95
+    }
+  ]
+}

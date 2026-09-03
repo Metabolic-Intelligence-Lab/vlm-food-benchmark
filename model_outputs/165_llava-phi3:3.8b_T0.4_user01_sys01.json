@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Meatballs with sauce and cheese",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    },
+    {
+      "name": "Macaroni and Cheese",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Soup spoon",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    }
+  ]
+}

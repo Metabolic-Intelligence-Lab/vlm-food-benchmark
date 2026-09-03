@@ -1,0 +1,44 @@
+{
+  "tray": [
+    {
+      "name": "salad",
+      "portion_estimate": "200g",
+      "color": "purple",
+      "shape": "round"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "150g",
+      "color": "brown",
+      "shape": "oval"
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "300g",
+      "color": "white and brown",
+      "shape": "round"
+    },
+    {
+      "name": "meatballs with sauce",
+      "portion_estimate": "250g",
+      "color": "brown and red",
+      "shape": "oval"
+    }
+  ],
+  "tablecloth": [
+    {
+      "color": "white",
+      "pattern": "leafy green"
+    },
+    {
+      "color": "gray",
+      "pattern": "solid"
+    }
+  ],
+  "cutlery": [
+    {
+      "item": "fork",
+      "position": "right side of tray"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "buttered fettuccine or fusilli pasta with grated cheese",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat bread (one slice)",
+      "portion_estimate": "45g",
+      "confidence": 75
+    },
+    {
+      "name": "egg omelette with orange feta cheese (whole portion)",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "mixed green peas and carrots",
+      "portion_estimate": "150g",
+      "confidence": 70
+    },
+    {
+      "name": "banana (whole)",
+      "portion_estimate": "120g",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Eggs",
+      "portion_estimate": "2 large",
+      "confidence": "80"
+    },
+    {
+      "name": "Sausage and Peppers Pasta",
+      "portion_estimate": "1 serving",
+      "confidence": "70"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "1 medium",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread Rolls",
+      "portion_estimate": "2 small rolls",
+      "confidence": "60"
+    },
+    {
+      "name": "Sausage and Peppers Pasta with Cheese",
+      "portion_estimate": "1 serving",
+      "confidence": "70"
+    }
+  ]
+}

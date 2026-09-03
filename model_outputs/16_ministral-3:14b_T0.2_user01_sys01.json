@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "sliced apple with skin, diced",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "meatball (ground beef/pork) with breadcrumb topping",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "shredded carrot salad mix",
+      "portion_estimate": "50",
+      "confidence": 75
+    },
+    {
+      "name": "salt (granulated, in shaker)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "orange juice (in plastic pouch, partially visible)",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "dark red beverage (possibly grape juice or soda)",
+      "portion_estimate": "100",
+      "confidence": 65
+    }
+  ]
+}

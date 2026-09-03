@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "30 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "green vegetable (cabbage or brussels sprouts)",
+      "portion_estimate": "25 grams",
+      "confidence": "65"
+    },
+    {
+      "name": "potted chicken with sauce",
+      "portion_estimate": "80 grams",
+      "confidence": "45"
+    },
+    {
+      "name": "cranberries or other fruit salad",
+      "portion_estimate": "75 grams",
+      "confidence": "65"
+    }
+  ]
+}

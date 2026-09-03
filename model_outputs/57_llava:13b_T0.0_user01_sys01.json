@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Banana",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with tomato sauce and vegetables",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chili con carne",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "tortilla chips",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salsa",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "diced potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

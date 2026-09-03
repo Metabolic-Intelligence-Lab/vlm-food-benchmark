@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "carrot and mixed green salad",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "whole-grain bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "150 grams (approx. medium size)",
+      "confidence": 95
+    },
+    {
+      "name": "cinnamon-sugar baked dessert (likely a tart or cake piece)",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    }
+  ]
+}

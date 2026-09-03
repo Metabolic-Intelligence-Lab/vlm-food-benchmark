@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli with potatoes",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "sliced fish (possibly salmon or tuna)",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "yellow soup (possibly lentil or vegetable soup with cheese garnish)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "wholemeal roll/bread",
+      "portion_estimate": "50g",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt (fruit yogurt, 125g)",
+      "portion_estimate": "125g",
+      "confidence": 100
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "250ml",
+      "confidence": 100
+    }
+  ]
+}

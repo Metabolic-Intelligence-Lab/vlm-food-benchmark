@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "uncertain, approximately 150-200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "spiral pasta salad",
+      "portion_estimate": "uncertain, approximately 150-200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "chickpea dish with a slice of bread on the side",
+      "portion_estimate": "uncertain, approximately 300-400 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "hamburger bun without any filling visible",
+      "portion_estimate": "uncertain, approximately 60-80 grams",
+      "confidence": "60"
+    }
+  ]
+}

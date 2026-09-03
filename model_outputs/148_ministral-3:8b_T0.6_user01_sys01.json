@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with green pesto-like sauce",
+      "portion_estimate": "250g",
+      "confidence": 80
+    },
+    {
+      "name": "chicken breast, cubed",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "quiche or savory tart with shredded carrots and cheese",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "whole black olives (individual olives)",
+      "portion_estimate": "40g",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll or roll (packaged)",
+      "portion_estimate": "80g",
+      "confidence": 75
+    }
+  ]
+}

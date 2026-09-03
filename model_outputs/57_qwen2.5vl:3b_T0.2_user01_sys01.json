@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "omelette",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "pasta with tomatoes and basil",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

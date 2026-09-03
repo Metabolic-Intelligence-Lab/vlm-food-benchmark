@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken patty with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta (penne or rigatoni) with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "cookie or pastry",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

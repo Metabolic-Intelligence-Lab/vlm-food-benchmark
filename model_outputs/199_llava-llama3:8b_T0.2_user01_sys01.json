@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

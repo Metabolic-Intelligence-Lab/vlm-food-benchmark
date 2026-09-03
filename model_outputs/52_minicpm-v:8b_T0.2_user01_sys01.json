@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken fillet",
+      "portion_estimate": "uncertain, approx. weight of two pieces combined",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed salad with shredded carrots and cabbage",
+      "portion_estimate": "approx. 1/4 cup",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain bread slice",
+      "portion_estimate": "uncertain, approx. weight of one slice combined",
+      "confidence": "50"
+    },
+    {
+      "name": "Penne pasta with tomato sauce and green herbs",
+      "portion_estimate": "approx. 1/2 cup",
+      "confidence": "60"
+    }
+  ]
+}

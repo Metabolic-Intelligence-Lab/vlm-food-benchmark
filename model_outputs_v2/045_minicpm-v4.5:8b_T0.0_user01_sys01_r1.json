@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried food (likely a piece of fried chicken or similar)",
+      "portion_estimate": "100-150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "carrot salad (shredded carrots with other vegetables)",
+      "portion_estimate": "150-200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt (small cup, likely a dessert or side yogurt)",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "baked potato or bread (partially visible, wrapped)",
+      "portion_estimate": "50-100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "green beans with corn and tomato (on a white plate)",
+      "portion_estimate": "50-100 grams",
+      "confidence": "85"
+    }
+  ]
+}

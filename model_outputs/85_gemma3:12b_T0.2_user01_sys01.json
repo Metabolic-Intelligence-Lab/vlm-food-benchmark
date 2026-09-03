@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "tomato sauce with meat",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "cooked spinach",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "potato croquette",
+      "portion_estimate": "30",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Stewed kidney beans with green onions",
+      "portion_estimate": 200,
+      "confidence": 95
+    },
+    {
+      "name": "Steamed broccoli florets with cheese or butter topping",
+      "portion_estimate": 150,
+      "confidence": 88
+    },
+    {
+      "name": "Grilled fish fillets (white flesh)",
+      "portion_estimate": 130,
+      "confidence": 92
+    },
+    {
+      "name": "Whole wheat bun in plastic wrapper",
+      "portion_estimate": 65,
+      "confidence": 85
+    },
+    {
+      "name": "Plum fruit",
+      "portion_estimate": 80,
+      "confidence": 90
+    }
+  ]
+}

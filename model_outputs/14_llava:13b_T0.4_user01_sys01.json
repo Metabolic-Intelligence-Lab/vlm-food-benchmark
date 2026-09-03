@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "100-200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "chicken breast",
+      "portion_estimate": "150-200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "pasta dish with tomato sauce and herbs",
+      "portion_estimate": "150-200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "75-100 grams",
+      "confidence": "80"
+    }
+  ]
+}

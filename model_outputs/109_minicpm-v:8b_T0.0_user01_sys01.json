@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "steamed rice with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "pineapple chunks",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

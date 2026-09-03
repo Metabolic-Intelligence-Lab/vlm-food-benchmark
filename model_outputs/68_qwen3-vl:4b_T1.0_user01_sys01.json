@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked Short Pasta",
+      "portion": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "portion": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "Chickpeas",
+      "portion": "80g",
+      "confidence": 60
+    },
+    {
+      "name": "Tuna Pieces",
+      "portion": "30g",
+      "confidence": 60
+    },
+    {
+      "name": "Carrot Slices",
+      "portion": "20g",
+      "confidence": 60
+    },
+    {
+      "name": "Black Olives",
+      "portion": "20g",
+      "confidence": 60
+    }
+  ]
+}

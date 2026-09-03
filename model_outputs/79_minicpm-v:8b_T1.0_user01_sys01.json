@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Cheese (Swiss Cheese)",
+      "portion_estimate": "17g/gram",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "White Cheddar Slices",
+      "portion_estimate": "12g/gram",
+      "confidence": "60"
+    }
+  ]
+}

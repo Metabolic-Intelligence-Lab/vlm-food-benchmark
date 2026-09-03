@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Plums",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Rice Noodles with Black Bean and Nut Additions",
+      "portion_estimate": "237g (assuming standard noodle portion size)",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

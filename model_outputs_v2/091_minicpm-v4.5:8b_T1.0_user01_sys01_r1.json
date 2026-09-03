@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "chicken noodle soup",
+      "portion_estimate": "300-350g",
+      "confidence": "85"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "plastic-wrapped cheese",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    },
+    {
+      "name": "Greek yogurt (berry flavor)",
+      "portion_estimate": "125g",
+      "confidence": "95"
+    },
+    {
+      "name": "chicken strips with lettuce",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "dark leafy greens (kale/spinach)",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200-250ml",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Sauce",
+      "portion_estimate": "100g-200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Couscous Salad",
+      "portion_estimate": "50g-80g",
+      "confidence": "60"
+    },
+    {
+      "name": "Chickpea Soup",
+      "portion_estimate": "150g-250g",
+      "confidence": "40"
+    }
+  ]
+}

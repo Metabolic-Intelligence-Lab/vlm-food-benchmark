@@ -1,0 +1,25 @@
+{
+  "food_items": [
+    {
+      "name": "Green vegetable soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Boiled egg on toast with dark leafy greens",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Small orange fruit (likely an orange)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "White cup of water with ice cubes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ],
+  "total_items": true
+}

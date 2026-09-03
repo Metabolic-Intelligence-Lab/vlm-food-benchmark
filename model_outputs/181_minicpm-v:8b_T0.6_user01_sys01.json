@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta with yellow sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "yellow pear",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "bread roll in plastic bag",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "chopped yellow fruit on a plate",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "yellow cake with chopped pineapple pieces",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "shredded yellow food on a plate",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

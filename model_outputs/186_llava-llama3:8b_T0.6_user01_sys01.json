@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "beef chili or stew",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "rice or sour cream",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "slices of ham and pineapple with yellow sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "clear liquid (water or light-colored soup)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "brown substance (coffee or tea)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Yomoise",
+      "portion_estimate": "30g",
+      "confidence": 95
+    }
+  ]
+}

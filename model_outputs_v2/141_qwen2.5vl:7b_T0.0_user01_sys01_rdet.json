@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": 60
+    },
+    {
+      "name": "fish",
+      "portion_estimate": "50",
+      "confidence": 60
+    }
+  ]
+}

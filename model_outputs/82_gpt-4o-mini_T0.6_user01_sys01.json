@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese and vegetables",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked greens (possibly spinach or kale)",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed salad (lettuce and red cabbage)",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "dinner roll",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt (fruit flavored)",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged snack (uncertain type)",
+      "portion_estimate": "30",
+      "confidence": "50"
+    }
+  ]
+}

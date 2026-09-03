@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "beef with herbs and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "boiled potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "boiled carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

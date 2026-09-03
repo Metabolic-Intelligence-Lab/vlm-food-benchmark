@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "falafel balls",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "soup with yellow cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "rice with vegetables (possibly chili or stew)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "soup with carrots and other vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

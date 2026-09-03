@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "stir-fried pasta with sauce and cheese",
+      "portion_estimate": "250 grams",
+      "confidence": 95
+    },
+    {
+      "name": "small round bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "chopped chopped vegetables (cucumbers and other)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    }
+  ]
+}

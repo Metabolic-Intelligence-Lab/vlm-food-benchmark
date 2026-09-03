@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "minestrone vegetable soup with grated parmesan cheese",
+      "portion_estimate": "300",
+      "confidence": 75
+    },
+    {
+      "name": "breaded fried item (arancino or cutlet) topped with edible purple flowers",
+      "portion_estimate": "90",
+      "confidence": 50
+    },
+    {
+      "name": "mashed potatoes/potato puree side",
+      "portion_estimate": "100",
+      "confidence": 65
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "fruit yogurt (Yomo brand, sealed cup)",
+      "portion_estimate": "125",
+      "confidence": 70
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "200",
+      "confidence": 55
+    },
+    {
+      "name": "grissini/breadstick (wrapped)",
+      "portion_estimate": "15",
+      "confidence": 40
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot cubes (raw)",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted carrots",
+      "portion_estimate": "60g",
+      "confidence": "75"
+    },
+    {
+      "name": "chicken or meat patty (cooked, wrapped in plastic)",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "turmeric-infused rice or yellow rice (with green herb spread on top)",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "carrot-based soup or stew with toasted breadcrumbs",
+      "portion_estimate": "400g",
+      "confidence": "90"
+    }
+  ]
+}

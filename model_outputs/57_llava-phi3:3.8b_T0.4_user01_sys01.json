@@ -1,0 +1,37 @@
+{
+  "food_items": [
+    {
+      "name": "Scrambled eggs on toast",
+      "portion_estimate": "1/4 of a loaf of bread and half a plate of scrambled eggs",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta with vegetables",
+      "portion_estimate": "2/3 of a bowl of pasta with red sauce, green peppers and tomatoes",
+      "confidence": "85"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "1 half plate of green beans",
+      "confidence": "90"
+    }
+  ],
+  "tablecloth": [
+    {
+      "type": "white cloth with green leaves on it",
+      "size": "large enough to cover the table and tray"
+    }
+  ],
+  "bread": [
+    {
+      "type": "loaf of bread",
+      "quantity": "1 loaf"
+    }
+  ],
+  "banana": [
+    {
+      "type": "yellow banana",
+      "quantity": "2 bananas"
+    }
+  ]
+}

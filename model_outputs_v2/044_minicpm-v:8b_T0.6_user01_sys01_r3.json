@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "White bread",
+      "portion_estimate": "100g (approx.)",
+      "confidence": "95"
+    },
+    {
+      "name": "Roasted potatoes with seasoning",
+      "portion_estimate": "200-300g (approx.)",
+      "confidence": "80"
+    },
+    {
+      "name": "Grapefruit juice",
+      "portion_estimate": "1 cup, approx. 250ml",
+      "confidence": "95"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "Half a glass, approx. 178ml",
+      "confidence": "60"
+    }
+  ]
+}

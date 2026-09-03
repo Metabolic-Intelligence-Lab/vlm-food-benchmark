@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup with grated cheese topping",
+      "portion_estimate": "350",
+      "confidence": "75"
+    },
+    {
+      "name": "vegetable and grain patty (falafel-like) topped with tomato slice and sauce",
+      "portion_estimate": "120",
+      "confidence": "60"
+    },
+    {
+      "name": "cauliflower salad with black olives",
+      "portion_estimate": "150",
+      "confidence": "65"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "wrapped cheese portion",
+      "portion_estimate": "30",
+      "confidence": "50"
+    }
+  ]
+}

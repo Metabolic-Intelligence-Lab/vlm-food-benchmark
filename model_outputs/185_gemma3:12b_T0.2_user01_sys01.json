@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with red sauce",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "breaded cutlet (uncertain type)",
+      "portion_estimate": "120",
+      "confidence": "65"
+    },
+    {
+      "name": "clear plastic cup (likely beverage)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

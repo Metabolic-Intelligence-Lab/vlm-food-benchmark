@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Baked white fish fillet",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Boiled chickpeas (garbanzo beans)",
+      "portion_estimate": 120,
+      "confidence": 98
+    },
+    {
+      "name": "Lemon wedge",
+      "portion_estimate": 15,
+      "confidence": 98
+    },
+    {
+      "name": "Whole grain dinner roll (in plastic)",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Spritz yogurt",
+      "portion_estimate": 125,
+      "confidence": 98
+    },
+    {
+      "name": "Bowtie pasta (farfalle) with tomato and vegetable sauce",
+      "portion_estimate": 200,
+      "confidence": 95
+    },
+    {
+      "name": "Unspecified butter or margarine (in wrapper)",
+      "portion_estimate": 10,
+      "confidence": 80
+    }
+  ]
+}

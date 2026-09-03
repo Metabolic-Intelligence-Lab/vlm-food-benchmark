@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni shells with vegetable sauce",
+      "portion_estimate": 180,
+      "confidence": 85
+    },
+    {
+      "name": "Couscous with spinach and carrots",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": 50,
+      "confidence": 90
+    },
+    {
+      "name": "Peaches",
+      "portion_estimate": 200,
+      "confidence": 90
+    },
+    {
+      "name": "Oyster with garnish",
+      "portion_estimate": 50,
+      "confidence": 75
+    }
+  ]
+}

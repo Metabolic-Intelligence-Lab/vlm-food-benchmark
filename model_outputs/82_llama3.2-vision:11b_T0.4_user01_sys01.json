@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato-based sauce",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Cooked Spinach",
+      "portion_estimate": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "Small side salad (mixed greens and vegetables)",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "Small roll or bread",
+      "portion_estimate": "20g",
+      "confidence": 90
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "Beverage (water or clear liquid)",
+      "portion_estimate": "200g",
+      "confidence": 70
+    }
+  ]
+}

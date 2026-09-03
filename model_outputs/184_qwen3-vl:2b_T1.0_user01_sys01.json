@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bun",
+      "portion_estimate": "30 g",
+      "confidence": 95
+    },
+    {
+      "name": "Salad (top-right bowl)",
+      "portion_estimate": "70 g",
+      "confidence": 95
+    },
+    {
+      "name": "Fish",
+      "portion_estimate": "20 g",
+      "confidence": 95
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "40 g",
+      "confidence": 95
+    },
+    {
+      "name": "Salad (small side dish)",
+      "portion_estimate": "30 g",
+      "confidence": 95
+    }
+  ]
+}

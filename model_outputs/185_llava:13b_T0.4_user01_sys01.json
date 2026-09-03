@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bread or rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "casserole or baked dish with potatoes, meat, and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

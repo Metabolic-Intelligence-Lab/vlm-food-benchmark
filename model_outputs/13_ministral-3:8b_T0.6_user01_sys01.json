@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "watermelon wedge with rind",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "raw spinach or similar leafy greens",
+      "portion_estimate": "40 grams",
+      "confidence": 70
+    },
+    {
+      "name": "baked or fried cutlet (likely chicken or fish)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "clear liquid (water or beverage)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

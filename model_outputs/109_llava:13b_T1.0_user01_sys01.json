@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "rice or grain",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "cooked vegetables (green beans and lima beans)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "unidentifiable food item",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "cheesecake",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

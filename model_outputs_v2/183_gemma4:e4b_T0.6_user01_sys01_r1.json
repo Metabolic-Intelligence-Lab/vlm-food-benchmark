@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked pastry or cake slice",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Packaged bread roll or small loaf",
+      "portion_estimate": "90g",
+      "confidence": "90"
+    },
+    {
+      "name": "Soup or curry in a bowl",
+      "portion_estimate": "320g",
+      "confidence": "95"
+    },
+    {
+      "name": "Cooked Brussels sprouts or small green vegetables",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Medium green apple",
+      "portion_estimate": "170g",
+      "confidence": "98"
+    }
+  ]
+}

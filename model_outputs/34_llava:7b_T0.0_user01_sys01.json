@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Eggs",
+      "portion_estimate": "2",
+      "confidence": "80"
+    },
+    {
+      "name": "Toast",
+      "portion_estimate": "1 slice",
+      "confidence": "70"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "1",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta with red sauce and cheese",
+      "portion_estimate": "250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked vegetables (possibly broccoli)",
+      "portion_estimate": "1 cup",
+      "confidence": "70"
+    }
+  ]
+}

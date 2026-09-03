@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried potato croquettes",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed kale",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "apricots (whole)",
+      "portion_estimate": "120g (2 medium apricots)",
+      "confidence": 85
+    },
+    {
+      "name": "plain bread roll (packaged)",
+      "portion_estimate": "uncertain (likely 50-70g)",
+      "confidence": 60
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "uncertain (likely 200-250ml)",
+      "confidence": 60
+    }
+  ]
+}

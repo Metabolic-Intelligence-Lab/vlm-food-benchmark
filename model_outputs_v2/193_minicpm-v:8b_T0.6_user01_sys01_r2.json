@@ -1,0 +1,38 @@
+{
+  "food_items": [
+    {
+      "name": "sour soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "steamed rice cake",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "milk tea with jelly and tapioca pearls",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "milk tea with jelly and tapioca pearls",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ],
+  "fruits": [
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

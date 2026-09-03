@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (roasted or baked rigatoni with seasoned breadcrumbs)",
+      "portion_estimate": "250 grams",
+      "confidence": 75
+    },
+    {
+      "name": "spinach and cheese stuffed omelette or quiche (portion)",
+      "portion_estimate": "200 grams",
+      "confidence": 70
+    },
+    {
+      "name": "whole wheat or multigrain bun",
+      "portion_estimate": "60 grams",
+      "confidence": 75
+    },
+    {
+      "name": "butter (packaged, visible portion)",
+      "portion_estimate": "uncertain (likely 20-30 grams based on typical stick size)",
+      "confidence": 50
+    },
+    {
+      "name": "condensed milk (small can)",
+      "portion_estimate": "uncertain (likely 135 grams based on standard can size)",
+      "confidence": 60
+    }
+  ]
+}

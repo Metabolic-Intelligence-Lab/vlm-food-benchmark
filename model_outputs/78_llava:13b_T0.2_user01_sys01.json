@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup with pasta and cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "carrot slices",
+      "portion_estimate": "30 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "peanut butter",
+      "portion_estimate": "25 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit salad",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    }
+  ]
+}

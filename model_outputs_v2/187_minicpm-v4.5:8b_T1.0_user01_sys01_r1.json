@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "tomato soup (or sauce)",
+      "portion_estimate": "60 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "spaghetti with meat sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "steamed green beans with crumb topping",
+      "portion_estimate": "80 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "two round fried balls (possibly arancini or stuffed pasta balls)",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "small dark pickled vegetable (possibly small eggplant or olives)",
+      "portion_estimate": "10 grams",
+      "confidence": "65"
+    },
+    {
+      "name": "small roll or dinner roll",
+      "portion_estimate": "30 grams",
+      "confidence": "80"
+    }
+  ]
+}

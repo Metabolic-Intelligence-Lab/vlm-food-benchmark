@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "radicchio and carrot salad",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "spaghetti",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "55g",
+      "confidence": "95"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "30g",
+      "confidence": "75"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

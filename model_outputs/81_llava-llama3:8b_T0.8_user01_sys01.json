@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "blackened greens",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "breaded fish",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "stuffing",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "jam",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "approximately 100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "approximately 50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Salad with vegetables and dressing",
+      "portion_estimate": "approximately 100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Cream-filled pastry",
+      "portion_estimate": "approximately 50g",
+      "confidence": "60"
+    }
+  ]
+}

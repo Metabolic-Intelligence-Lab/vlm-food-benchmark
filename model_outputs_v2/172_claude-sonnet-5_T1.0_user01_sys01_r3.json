@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green peas, boiled",
+      "portion_estimate": "120",
+      "confidence": 70
+    },
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": 75
+    },
+    {
+      "name": "mixed salad (lettuce, radicchio, carrot)",
+      "portion_estimate": "80",
+      "confidence": 70
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "150",
+      "confidence": 80
+    }
+  ]
+}

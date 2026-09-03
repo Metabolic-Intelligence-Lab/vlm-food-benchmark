@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "seasoned ground beef patty",
+      "portion_estimate": "80",
+      "confidence": "70"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "cucumber slices",
+      "portion_estimate": "25",
+      "confidence": "65"
+    }
+  ]
+}

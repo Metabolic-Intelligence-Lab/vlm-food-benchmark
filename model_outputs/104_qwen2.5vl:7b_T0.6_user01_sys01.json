@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Lentil Soup",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "Peas and Carrots",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "60",
+      "confidence": 75
+    }
+  ]
+}

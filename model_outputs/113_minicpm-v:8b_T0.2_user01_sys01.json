@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain, approx. slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain, bowl full",
+      "confidence": "60"
+    },
+    {
+      "name": "apple and potato",
+      "portion_estimate": "uncertain, whole apple and medium-sized red potatoes",
+      "confidence": "50"
+    },
+    {
+      "name": "brussel sprouts with carrots",
+      "portion_estimate": "uncertain, plate full",
+      "confidence": "60"
+    }
+  ]
+}

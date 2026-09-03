@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "yellow macaroni and cheese with black pepper flakes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "orange carrots and white cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "slice of bread, golden-brown crust",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

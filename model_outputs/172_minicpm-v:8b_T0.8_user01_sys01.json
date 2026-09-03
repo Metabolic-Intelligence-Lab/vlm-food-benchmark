@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green peas",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "rotini pasta with red sauce",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "salad mix with dark leafy greens and colorful vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "orange fruit",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

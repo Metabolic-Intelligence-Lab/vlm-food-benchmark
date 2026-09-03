@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "vegetable stir-fry with pumpkin puree",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "beans and peas mix",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

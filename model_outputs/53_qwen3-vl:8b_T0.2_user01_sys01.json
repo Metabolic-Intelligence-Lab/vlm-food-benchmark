@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta with tomato sauce and vegetables",
+      "portion_estimate": 180,
+      "confidence": 85
+    },
+    {
+      "name": "grilled fish fillet",
+      "portion_estimate": 170,
+      "confidence": 85
+    },
+    {
+      "name": "cooked green beans",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "water",
+      "portion_estimate": 200,
+      "confidence": 90
+    },
+    {
+      "name": "whole pomegranate",
+      "portion_estimate": 180,
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": 70,
+      "confidence": 75
+    }
+  ]
+}

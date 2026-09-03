@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup with beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "plate of vegetables including several carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "plate with unidentified food",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

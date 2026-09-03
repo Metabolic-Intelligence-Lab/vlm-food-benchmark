@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted vegetable half",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "jar of sauce",
+      "portion_estimate": "125 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250 milliliters",
+      "confidence": "85"
+    }
+  ]
+}

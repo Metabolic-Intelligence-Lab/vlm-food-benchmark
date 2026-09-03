@@ -1,0 +1,59 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "150-200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "50-75 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Egg Omelette",
+      "portion_estimate": "Unknown",
+      "confidence": 85
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "Unknown",
+      "confidence": 75
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "Unknown",
+      "confidence": 70
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "Unknown",
+      "confidence": 80
+    },
+    {
+      "name": "Butter",
+      "portion_estimate": "Unknown",
+      "confidence": 70
+    },
+    {
+      "name": "Sauce",
+      "portion_estimate": "50-75 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Herb",
+      "portion_estimate": "10-20 grams",
+      "confidence": 75
+    },
+    {
+      "name": "Tomato",
+      "portion_estimate": "50-75 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "10-20 grams",
+      "confidence": 70
+    }
+  ]
+}

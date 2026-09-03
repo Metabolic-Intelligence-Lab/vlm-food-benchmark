@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Lasagna or macaroni baked with sauce and topped with cheese or grated Parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Side of bread, possibly served as the main carbohydrate portion in this meal",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Roll, likely provided for additional bread or snacking during the flight",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Package that seems to contain a butter alternative or some sort of spreadable product (e.g., cream cheese, hummus)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Serving of chicken with sauce, potentially spaghetti bolognese or a similar tomato-based dish, accompanied by what looks like fried plantains or sweet potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Small portion of some type of salad on the side",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Container that likely holds a condiment, possibly ketchup, mustard, or another sauce to complement the meal",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

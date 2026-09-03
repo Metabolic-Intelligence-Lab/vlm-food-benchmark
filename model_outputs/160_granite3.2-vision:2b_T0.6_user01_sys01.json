@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "flatbread",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "savory dip (like hummus or tzatziki)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fresh vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cheese platter or dip like tzatziki",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

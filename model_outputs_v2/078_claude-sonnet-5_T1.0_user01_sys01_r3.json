@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pumpkin/squash soup with grated cheese topping",
+      "portion_estimate": "250",
+      "confidence": 75
+    },
+    {
+      "name": "diced roasted pumpkin/squash cubes",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "savory herb fritter/patty with mustard sauce",
+      "portion_estimate": "80",
+      "confidence": 55
+    },
+    {
+      "name": "apricots (whole, fresh)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": 70
+    }
+  ]
+}

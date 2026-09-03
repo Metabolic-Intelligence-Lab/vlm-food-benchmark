@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Fried egg",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Whole wheat toast with spinach and cheese",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta with parmesan cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Mixed greens salad",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Unidentified beverage",
+      "portion_estimate": "200 milliliters",
+      "confidence": "60"
+    }
+  ]
+}

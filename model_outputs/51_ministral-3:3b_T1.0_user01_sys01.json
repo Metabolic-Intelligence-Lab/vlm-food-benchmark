@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "saut\u00e9ed mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cheese sauce/grated cheese topping on eggs",
+      "portion_estimate": "60g (approximate spread based on glass dimensions)",
+      "confidence": 85
+    },
+    {
+      "name": "fried egg (yolk visible)",
+      "portion_estimate": "30g (one half of a large egg)",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed vegetables/onions in sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "crispy fried egg or topping pieces on the side (likely fried egg strips)",
+      "portion_estimate": "20g (based on visual clusters in glass)",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with parmesan cheese",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "avocado with lemon",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "potato salad",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

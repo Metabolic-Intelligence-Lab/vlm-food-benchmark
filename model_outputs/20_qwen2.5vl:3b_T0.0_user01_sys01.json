@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "baked chicken wings",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "green vegetable balls",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    }
+  ]
+}

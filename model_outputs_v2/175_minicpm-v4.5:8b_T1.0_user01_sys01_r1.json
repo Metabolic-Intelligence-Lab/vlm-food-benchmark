@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "sauteed green beans",
+      "portion_estimate": "150-200g",
+      "confidence": 85
+    },
+    {
+      "name": "white meat with sauce and herbs (likely chicken)",
+      "portion_estimate": "100-150g",
+      "confidence": 75
+    },
+    {
+      "name": "spinach with potato chunks",
+      "portion_estimate": "100-150g",
+      "confidence": 80
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100-150g",
+      "confidence": 95
+    }
+  ]
+}

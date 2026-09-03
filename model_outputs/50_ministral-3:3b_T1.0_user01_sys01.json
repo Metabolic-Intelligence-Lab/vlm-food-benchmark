@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "crumbled chickpea or tofu based spread/curry",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "cubed boiled or steamed sweet potatoes",
+      "portion_estimate": "40",
+      "confidence": 90
+    },
+    {
+      "name": "grated carrots",
+      "portion_estimate": "20",
+      "confidence": 85
+    },
+    {
+      "name": "boiled shrimp, halved",
+      "portion_estimate": "12",
+      "confidence": 90
+    }
+  ]
+}

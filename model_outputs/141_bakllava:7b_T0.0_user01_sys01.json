@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "vegetables and grains",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "soup with a spoon",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "piece of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "nuts in a plastic container",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

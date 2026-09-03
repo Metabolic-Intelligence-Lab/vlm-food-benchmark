@@ -1,0 +1,31 @@
+The total weight is calculated by summing the weights of all items:
+
+$$
+250 \, \text{g} + 40 \, \text{g} + 150 \, \text{g} + 150 \, \text{g} + 100 \, \text{g} = 690 \, \text{g}
+$$
+
+For the **total confidence level**, we compute the **weighted average** of the confidence percentages, where the weights are the individual item weights. This is because confidence levels are typically weighted by the proportion of each item's contribution to the total.
+
+- Soup: $ 250 \times 80\% = 20,000 $
+- Bread roll: $ 40 \times 85\% = 3,400 $
+- Greek yogurt: $ 150 \times 80\% = 12,000 $
+- Pesto: $ 150 \times 75\% = 11,250 $
+- Vegetable mix: $ 100 \times 70\% = 7,000 $
+
+Summing these contributions:
+
+$$
+20,000 + 3,400 + 12,000 + 11,250 + 7,000 = 53,650
+$$
+
+Dividing by the total weight (690 g) gives the weighted average confidence level:
+
+$$
+\frac{53,650}{690} \approx 77.75\%
+$$
+
+---
+
+### Final Answer:
+- **Total weight:** $ \boxed{690} $ grams  
+- **Total confidence level:** $ \boxed{77.75\%} $

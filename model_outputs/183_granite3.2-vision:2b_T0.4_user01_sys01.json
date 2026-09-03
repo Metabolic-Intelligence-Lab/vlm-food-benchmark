@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "green vegetables (leafy greens)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "fruit (apple or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

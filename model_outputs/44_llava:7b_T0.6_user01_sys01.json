@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Hamburger",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "30 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "50 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fries",
+      "portion_estimate": "100 g",
+      "confidence": "70"
+    }
+  ]
+}

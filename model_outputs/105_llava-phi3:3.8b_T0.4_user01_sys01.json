@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken",
+      "portion_estimate": "10g",
+      "confidence": "60"
+    },
+    {
+      "name": "lettuce",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "red cabbage",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "20g",
+      "confidence": "60"
+    },
+    {
+      "name": "cucumber",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    }
+  ]
+}

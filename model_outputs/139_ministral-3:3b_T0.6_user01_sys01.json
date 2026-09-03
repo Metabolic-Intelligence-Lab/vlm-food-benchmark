@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried or grilled chicken breast with skin",
+      "portion_estimate": "150-200g",
+      "confidence": 95
+    },
+    {
+      "name": "diced carrots and onions",
+      "portion_estimate": "50-70g",
+      "confidence": 85
+    },
+    {
+      "name": "fried or baked potato wedges (likely a mix of skin and flesh)",
+      "portion_estimate": "150-180g",
+      "confidence": 90
+    },
+    {
+      "name": "plain white bread bun (sandwich roll)",
+      "portion_estimate": "50-70g",
+      "confidence": 70
+    },
+    {
+      "name": "plain water (assuming the sealed can with water label)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

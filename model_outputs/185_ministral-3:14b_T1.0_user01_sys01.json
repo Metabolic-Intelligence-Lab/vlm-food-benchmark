@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "roasted spiralized sweet potatoes (e.g., candied sweet potato noodles or spirals)",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetables (likely roasted potatoes, carrot chunks, and possibly zucchini or bell peppers)",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "meat or vegetable patty (possibly a grilled patty or fritters)",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "fresh green garnish (e.g., parsley or dill)",
+      "portion_estimate": "3",
+      "confidence": 70
+    }
+  ]
+}

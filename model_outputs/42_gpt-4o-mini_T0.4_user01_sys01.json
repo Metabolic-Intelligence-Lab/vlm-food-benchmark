@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "corn fritters",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "red cabbage",
+      "portion_estimate": "20",
+      "confidence": "65"
+    },
+    {
+      "name": "peaches",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    }
+  ]
+}

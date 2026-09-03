@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot sticks",
+      "portion_estimate": "uncertain weight, approx. range of several hundred grams depending on size",
+      "confidence": "50"
+    },
+    {
+      "name": "Dried fruit balls with seeds",
+      "portion_estimate": "uncertain weight, approximately a few tens of grams each",
+      "confidence": "60"
+    },
+    {
+      "name": "Green soup or puree in white bowl",
+      "portion_estimate": "uncertain weight, approx. several hundred grams depending on size and depth",
+      "confidence": "50"
+    }
+  ]
+}

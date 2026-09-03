@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta with tomato sauce",
+      "portion_estimate": "uncertain, approx. 100g-200g",
+      "confidence": "65"
+    },
+    {
+      "name": "mixed salad greens and cucumbers",
+      "portion_estimate": "uncertain, approx. 100g-200g",
+      "confidence": "70"
+    },
+    {
+      "name": "cucumber slices with red cabbage slaw",
+      "portion_estimate": "uncertain, approx. 50g-100g",
+      "confidence": "68"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain, approx. 100g-200g",
+      "confidence": "73"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain, approx. 50g-80g",
+      "confidence": "69"
+    }
+  ]
+}

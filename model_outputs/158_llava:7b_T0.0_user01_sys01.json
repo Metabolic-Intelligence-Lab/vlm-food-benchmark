@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Sliced bread with butter",
+      "portion_estimate": "2 slices",
+      "confidence": "80"
+    },
+    {
+      "name": "Scrambled eggs",
+      "portion_estimate": "1 serving",
+      "confidence": "70"
+    },
+    {
+      "name": "Sliced sausage links",
+      "portion_estimate": "2 links",
+      "confidence": "60"
+    },
+    {
+      "name": "Cooked beans",
+      "portion_estimate": "1 serving",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta salad with vegetables",
+      "portion_estimate": "1 serving",
+      "confidence": "60"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "1 banana",
+      "confidence": "80"
+    },
+    {
+      "name": "Rolled oats with milk and sugar",
+      "portion_estimate": "1 serving",
+      "confidence": "60"
+    }
+  ]
+}

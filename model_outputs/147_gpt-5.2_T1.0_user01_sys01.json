@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked fusilli pasta with grated cheese",
+      "portion_estimate": "260 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated hard cheese (topping on pasta, likely parmesan)",
+      "portion_estimate": "15 g",
+      "confidence": "65"
+    },
+    {
+      "name": "vegetable stew with tomato-based sauce (mixed vegetables, possibly green beans and potatoes)",
+      "portion_estimate": "220 g",
+      "confidence": "62"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "260 g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (white bun)",
+      "portion_estimate": "80 g",
+      "confidence": "86"
+    },
+    {
+      "name": "fresh plums (whole)",
+      "portion_estimate": "210 g",
+      "confidence": "84"
+    }
+  ]
+}

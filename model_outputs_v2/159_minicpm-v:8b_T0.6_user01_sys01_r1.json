@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "uncertain, approximately 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Cheese on bread",
+      "portion_estimate": "uncertain, possibly around 20-30g",
+      "confidence": "40"
+    },
+    {
+      "name": "Pear fruit",
+      "portion_estimate": "uncertain, approximately 150g",
+      "confidence": "60"
+    }
+  ]
+}

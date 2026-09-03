@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vermicelli noodles",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "diced potatoes (likely boiled/fried)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "grilled or fried meat patty",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "green relish/cucumber garnish",
+      "portion_estimate": "30",
+      "confidence": 85
+    },
+    {
+      "name": "plain water",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

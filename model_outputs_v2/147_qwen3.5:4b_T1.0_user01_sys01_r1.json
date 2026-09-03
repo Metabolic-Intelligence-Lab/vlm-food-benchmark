@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fettuccine pasta with cheese",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "Potato and bean casserole",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "Whole wheat roll",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "35",
+      "confidence": 100
+    }
+  ]
+}

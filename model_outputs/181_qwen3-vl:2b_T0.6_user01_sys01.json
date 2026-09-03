@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50g",
+      "confidence": "95"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "pizza slice",
+      "portion_estimate": "50g",
+      "confidence": "95"
+    },
+    {
+      "name": "cheesy pasta dish",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked potato topped with melted white sauce (likely sour cream or cheese)",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "White beans in tomato-based sauce",
+      "portion_estimate": 200,
+      "confidence": 95
+    },
+    {
+      "name": "Whole wheat bread slice",
+      "portion_estimate": 40,
+      "confidence": 95
+    },
+    {
+      "name": "Penne pasta with white sauce and grated cheese (likely Parmesan)",
+      "portion_estimate": 250,
+      "confidence": 95
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": 180,
+      "confidence": 95
+    }
+  ]
+}

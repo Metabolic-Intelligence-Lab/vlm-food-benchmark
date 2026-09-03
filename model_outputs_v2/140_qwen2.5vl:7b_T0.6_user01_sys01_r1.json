@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish fillet",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "40",
+      "confidence": "80"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100",
+      "confidence": "70"
+    }
+  ]
+}

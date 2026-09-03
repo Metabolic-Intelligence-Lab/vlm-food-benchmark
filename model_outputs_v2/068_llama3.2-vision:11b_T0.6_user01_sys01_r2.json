@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Tomatoes",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Cured Ham",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "50g",
+      "confidence": "75"
+    },
+    {
+      "name": "Cured Cheese",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with olive oil",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Chicken breast",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    }
+  ]
+}

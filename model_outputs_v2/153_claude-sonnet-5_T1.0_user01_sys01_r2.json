@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat penne pasta with grated parmesan cheese",
+      "portion_estimate": "180",
+      "confidence": 75
+    },
+    {
+      "name": "vegetable frittata (baked egg with zucchini, tomato, cheese)",
+      "portion_estimate": "120",
+      "confidence": 65
+    },
+    {
+      "name": "sauteed green beans",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "whole pear",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll (panino)",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "packaged grissini or crackers (sealed in plastic)",
+      "portion_estimate": "25",
+      "confidence": 45
+    }
+  ]
+}

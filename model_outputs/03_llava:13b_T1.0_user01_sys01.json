@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "meat patty with vegetables",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "approximately 125 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": "70"
+    }
+  ]
+}

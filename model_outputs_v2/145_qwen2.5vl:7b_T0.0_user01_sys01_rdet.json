@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "spinach and cheese omelette",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "biscuit",
+      "portion_estimate": "30",
+      "confidence": 60
+    }
+  ]
+}

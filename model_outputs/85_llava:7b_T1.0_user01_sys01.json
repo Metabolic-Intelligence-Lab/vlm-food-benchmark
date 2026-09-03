@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Minestrone soup",
+      "portion_estimate": "1 bowl (about 500 ml)",
+      "confidence": 70
+    },
+    {
+      "name": "Green vegetable mixture",
+      "portion_estimate": "About 60 g",
+      "confidence": 80
+    },
+    {
+      "name": "Parmesan bread balls with stuffing",
+      "portion_estimate": "4 pieces",
+      "confidence": 90
+    },
+    {
+      "name": "Ravioli in tomato sauce",
+      "portion_estimate": "About 60 g",
+      "confidence": 80
+    }
+  ]
+}

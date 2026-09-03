@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "breaded meat cutlet with tomato-based sauce (likely chicken or pork)",
+      "portion_estimate": "160 g",
+      "confidence": "70"
+    },
+    {
+      "name": "green beans (cooked)",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "mozzarella slice with tomato and corn (caprese-style)",
+      "portion_estimate": "80 g",
+      "confidence": "75"
+    },
+    {
+      "name": "shredded carrot salad with cucumbers (light dressing)",
+      "portion_estimate": "130 g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetable fried rice (with peas, carrots, corn, and possibly other veggies)",
+      "portion_estimate": "350 grams",
+      "confidence": 85
+    },
+    {
+      "name": "diced potatoes with cheese and broccoli (likely baked or casserole-style)",
+      "portion_estimate": "300 grams",
+      "confidence": 80
+    },
+    {
+      "name": "packaged butter (salted, in plastic wrapper)",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "yogurt (plain, in a small cup with lid)",
+      "portion_estimate": "125 grams",
+      "confidence": 85
+    },
+    {
+      "name": "sugar packets (individual, likely for sweetening beverages)",
+      "portion_estimate": "uncertain (1 packet \u2248 4 grams, but quantity unclear)",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce and grated cheese",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "mixed vegetable medley (carrots, peas, corn, zucchini)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "savory tart or bread with herb topping and cheese",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "nectarine or peach",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70g",
+      "confidence": 90
+    }
+  ]
+}

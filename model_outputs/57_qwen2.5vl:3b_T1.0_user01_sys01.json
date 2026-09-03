@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Omelette",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "French beans",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Fried eggplant slice",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Pasta with tomato",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

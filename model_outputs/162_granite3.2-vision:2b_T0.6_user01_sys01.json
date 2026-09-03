@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "baked potatoes with cheese and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "creamy soup or sauce (vegetable or chicken broth)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fish or meat with potatoes or vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sandwich or toasted bread",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

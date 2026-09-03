@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried egg (sunny side up)",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "sautéed spinach with parmesan",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "savory bread pudding/cornbread patty",
+      "portion_estimate": "90",
+      "confidence": "55"
+    },
+    {
+      "name": "penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll (panino), wrapped",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "apple, whole",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

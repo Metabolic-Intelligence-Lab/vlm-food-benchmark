@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken chops",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "carrot fries",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "ice cream sundae",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

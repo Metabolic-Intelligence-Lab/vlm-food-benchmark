@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with penne shapes, topped with diced bell peppers and tomatoes",
+      "portion_estimate": "300",
+      "confidence": 95
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "70",
+      "confidence": 85
+    },
+    {
+      "name": "diced bell peppers (green, likely green bell pepper)",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "olive oil or other fat coating (estimated as drizzle)",
+      "portion_estimate": "5",
+      "confidence": 65
+    }
+  ]
+}

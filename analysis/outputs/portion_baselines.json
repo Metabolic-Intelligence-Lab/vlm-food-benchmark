@@ -1,0 +1,22 @@
+{
+  "n_total_gt_items": 870,
+  "gt_mean_weight_g": 151.85402298850576,
+  "gt_median_weight_g": 129.0,
+  "null_predictor": {
+    "cpmae": 151.85402298850576,
+    "nmae_legacy": 129.0,
+    "mae": null
+  },
+  "global_median_predictor": {
+    "mae": 61.254022988505746,
+    "medae": 45.0,
+    "cpmae": 61.254022988505746
+  },
+  "typical_serving_predictor": {
+    "mae": 35.41724137931035,
+    "medae": 18.75,
+    "cpmae": 35.41724137931035,
+    "n_fallback_to_global_median": 207,
+    "note": "per-food median, leave-one-image-out; assumes perfect recognition"
+  }
+}

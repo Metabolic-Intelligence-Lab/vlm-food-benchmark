@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "salad with carrot shavings",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll in packaging",
+      "portion_estimate": "70g",
+      "confidence": "60"
+    },
+    {
+      "name": "greens in a bowl",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baby carrots",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "green and orange stuffed muffin",
+      "portion_estimate": "uncertain, approx. 80g",
+      "confidence": "60"
+    },
+    {
+      "name": "whole wheat burger bun with a slice of cheese on top",
+      "portion_estimate": "approx. 52g",
+      "confidence": "70"
+    },
+    {
+      "name": "black plums",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "green pasta with pesto sauce and parmesan cheese",
+      "portion_estimate": "approx. 150g",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "plate of food with meatballs and spinach",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "bowl of mashed potatoes",
+      "portion_estimate": "250g",
+      "confidence": 75
+    },
+    {
+      "name": "red yogurt cup",
+      "portion_estimate": "125g",
+      "confidence": 80
+    }
+  ]
+}

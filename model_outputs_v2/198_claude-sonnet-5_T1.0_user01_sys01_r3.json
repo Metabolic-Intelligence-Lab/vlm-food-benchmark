@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "boiled white rice",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "white fish fillet with sauce and herbs",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "white yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "70"
+    }
+  ]
+}

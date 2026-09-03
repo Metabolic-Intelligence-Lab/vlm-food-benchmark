@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cream-based vegetable soup (likely with spinach and potatoes)",
+      "portion_estimate": "300g",
+      "confidence": 75
+    },
+    {
+      "name": "saut\u00e9ed cabbage or kale (dark green leaves)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "fried potato cubes/diced potatoes",
+      "portion_estimate": "200g",
+      "confidence": 70
+    },
+    {
+      "name": "fried cheese-filled dumpling or potato ball",
+      "portion_estimate": "80g",
+      "confidence": 65
+    },
+    {
+      "name": "whole wheat or rye bread roll (packaged)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "butter or margarine pat (on napkin)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "banana (partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti pasta, plain with light oil/butter",
+      "portion_estimate": "200",
+      "confidence": "70"
+    },
+    {
+      "name": "pizza slice topped with diced pumpkin/squash",
+      "portion_estimate": "150",
+      "confidence": "65"
+    },
+    {
+      "name": "roasted diced pumpkin/squash side (small extra pieces on plate)",
+      "portion_estimate": "20",
+      "confidence": "50"
+    },
+    {
+      "name": "shredded cooked pumpkin or carrot side dish",
+      "portion_estimate": "120",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll, packaged",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "pear, whole",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "sliced cheese, packaged",
+      "portion_estimate": "30",
+      "confidence": "55"
+    }
+  ]
+}

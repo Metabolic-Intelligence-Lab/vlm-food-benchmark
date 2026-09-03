@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Baked chicken with herbs",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "120 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "80 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Steamed broccoli",
+      "portion_estimate": "100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Corn on the cob",
+      "portion_estimate": "70 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Rolled up bread",
+      "portion_estimate": "30 grams",
+      "confidence": "40"
+    },
+    {
+      "name": "Sliced cheese",
+      "portion_estimate": "50 grams",
+      "confidence": "30"
+    }
+  ]
+}

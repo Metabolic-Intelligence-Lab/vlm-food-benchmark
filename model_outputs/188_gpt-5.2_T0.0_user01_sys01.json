@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "thick vegetable soup (likely lentil/pea based) with carrots",
+      "portion_estimate": "380 g",
+      "confidence": "68"
+    },
+    {
+      "name": "baked salmon fillet (skinless)",
+      "portion_estimate": "120 g",
+      "confidence": "72"
+    },
+    {
+      "name": "cooked spinach (steamed/sauteed)",
+      "portion_estimate": "90 g",
+      "confidence": "74"
+    },
+    {
+      "name": "fruit yogurt cup (berry-flavored)",
+      "portion_estimate": "150 g",
+      "confidence": "66"
+    },
+    {
+      "name": "water (in cup)",
+      "portion_estimate": "250 g",
+      "confidence": "70"
+    }
+  ]
+}

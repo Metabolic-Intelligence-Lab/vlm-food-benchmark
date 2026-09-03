@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Cheesy broccoli casserole",
+      "portion_estimate": "120g",
+      "confidence": "75"
+    },
+    {
+      "name": "Baked potato with toppings",
+      "portion_estimate": "180g",
+      "confidence": "60"
+    },
+    {
+      "name": "Potatoes au gratin",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    }
+  ]
+}

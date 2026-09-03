@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sausage links",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread with butter",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

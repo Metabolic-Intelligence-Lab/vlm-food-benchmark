@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bread (single slice)",
+      "portion_estimate": "50-60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed broccoli (large florets)",
+      "portion_estimate": "150-180 grams",
+      "confidence": 80
+    },
+    {
+      "name": "grilled or baked white fish fillet (with herbs)",
+      "portion_estimate": "120-150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "chickpeas (boiled or roasted)",
+      "portion_estimate": "120-150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "single-serve yogurt or dairy product (e.g., Actimel)",
+      "portion_estimate": "uncertain (likely 100-120 grams)",
+      "confidence": 60
+    }
+  ]
+}

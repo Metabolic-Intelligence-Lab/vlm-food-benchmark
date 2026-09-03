@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green herb soup/broth",
+      "portion_estimate": "450 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bulgur or lentil patty (round) with red sauce on top",
+      "portion_estimate": "120 g",
+      "confidence": "62"
+    },
+    {
+      "name": "cooked leafy greens (spinach/chard-like)",
+      "portion_estimate": "90 g",
+      "confidence": "65"
+    },
+    {
+      "name": "plain breadsticks (grissini)",
+      "portion_estimate": "35 g",
+      "confidence": "75"
+    },
+    {
+      "name": "processed cheese slice (packaged)",
+      "portion_estimate": "20 g",
+      "confidence": "68"
+    },
+    {
+      "name": "strawberry yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "72"
+    }
+  ]
+}

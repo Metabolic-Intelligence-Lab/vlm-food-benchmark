@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll (plain)",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Saut\u00e9ed greens and grains mixture",
+      "portion_estimate": "180g",
+      "confidence": "80"
+    },
+    {
+      "name": "Grilled fish or protein with greens",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Cubed yellow vegetables (e.g., squash or potato)",
+      "portion_estimate": "180g",
+      "confidence": "75"
+    },
+    {
+      "name": "Condiment or sauce in red cup",
+      "portion_estimate": "50g",
+      "confidence": "65"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "300g",
+      "confidence": "95"
+    }
+  ]
+}

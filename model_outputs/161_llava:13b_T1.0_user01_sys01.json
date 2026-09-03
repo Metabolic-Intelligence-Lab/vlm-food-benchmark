@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti and Meatballs with Garlic Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Mixed Vegetables (Lasagna or Italian Pasta Dish)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Broccoli and Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Pizza with Various Toppings",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Mango",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

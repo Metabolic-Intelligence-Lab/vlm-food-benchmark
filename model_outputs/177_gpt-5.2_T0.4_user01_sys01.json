@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with light tomato sauce",
+      "portion_estimate": "260 g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (bun), packaged",
+      "portion_estimate": "70 g",
+      "confidence": "75"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    },
+    {
+      "name": "breaded fried vegetable bites (likely zucchini/okra), scattered on plate",
+      "portion_estimate": "90 g",
+      "confidence": "55"
+    },
+    {
+      "name": "breaded fried cutlet/patty (likely spinach/vegetable), with white sauce",
+      "portion_estimate": "140 g",
+      "confidence": "50"
+    },
+    {
+      "name": "white sauce/gravy on cutlet/patty",
+      "portion_estimate": "35 g",
+      "confidence": "60"
+    },
+    {
+      "name": "crumbled potato/croquette pieces",
+      "portion_estimate": "60 g",
+      "confidence": "55"
+    }
+  ]
+}

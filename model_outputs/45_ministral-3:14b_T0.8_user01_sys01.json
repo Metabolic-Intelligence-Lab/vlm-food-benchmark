@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken or breaded chicken cutlet",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "sliced hard-boiled egg with corn kernels and diced tomato on top",
+      "portion_estimate": "70 grams",
+      "confidence": 85
+    },
+    {
+      "name": "shredded carrots salad",
+      "portion_estimate": "100 grams",
+      "confidence": 88
+    },
+    {
+      "name": "individual packet of yogurt or sour cream (brand partially visible: Knorr)",
+      "portion_estimate": "60 grams",
+      "confidence": 70
+    },
+    {
+      "name": "steamed green beans",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    },
+    {
+      "name": "plastic-wrapped bread (type uncertain)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "plastic-wrapped potato (type uncertain)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

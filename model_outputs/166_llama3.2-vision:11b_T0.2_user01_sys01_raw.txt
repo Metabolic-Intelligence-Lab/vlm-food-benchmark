@@ -1,0 +1,57 @@
+Here is the food image:
+
+**Food Items:**
+
+* Pasta with tomato sauce and parmesan cheese
+* Bread roll
+* Cheese stick
+* Spinach and potato side dish
+* Focaccia bread with spinach and cheese filling
+
+**Portion Estimates:**
+
+* Pasta: 120g
+* Bread roll: 50g
+* Cheese stick: 30g
+* Spinach and potato side dish: 100g
+* Focaccia bread: 80g
+
+**Confidence Levels:**
+
+* Pasta: 90%
+* Bread roll: 80%
+* Cheese stick: 70%
+* Spinach and potato side dish: 85%
+* Focaccia bread: 95%
+
+**Food Items JSON Output:**
+
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and parmesan cheese",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Cheese stick",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    },
+    {
+      "name": "Spinach and potato side dish",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Focaccia bread with spinach and cheese filling",
+      "portion_estimate": "80g",
+      "confidence": "95"
+    }
+  ]
+}

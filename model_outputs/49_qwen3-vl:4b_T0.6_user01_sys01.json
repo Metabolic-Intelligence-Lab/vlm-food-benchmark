@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Black Olives",
+      "portion_estimate": "20 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "portion_estimate": "50 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Tuna",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Creamy Dressing",
+      "portion_estimate": "30 grams",
+      "confidence": 75
+    }
+  ]
+}

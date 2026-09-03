@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "0.125 kg",
+      "confidence": 80
+    },
+    {
+      "name": "Spinach and Cheese Roll-Ups",
+      "portion_estimate": "0.03 - 0.05 kg",
+      "confidence": 70
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "0.125 kg",
+      "confidence": 90
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "0.03 kg",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "0.0625 kg",
+      "confidence": 90
+    }
+  ]
+}

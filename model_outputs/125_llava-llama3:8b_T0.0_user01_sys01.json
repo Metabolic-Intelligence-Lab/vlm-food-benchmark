@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "breaded chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "milk",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

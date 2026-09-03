@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with pesto and parmesan",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "cauliflower florets",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "carrot cubes",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "unidentifiable packaged food",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

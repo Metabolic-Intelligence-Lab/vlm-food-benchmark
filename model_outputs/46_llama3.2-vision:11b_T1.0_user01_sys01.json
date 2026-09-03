@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fried potatoes with purple vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad (shredded lettuce and other vegetables)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

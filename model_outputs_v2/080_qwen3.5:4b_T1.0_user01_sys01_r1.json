@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Rice Pilaf with mixed vegetables and mushrooms",
+      "portion_estimate": "300",
+      "confidence": "95"
+    },
+    {
+      "name": "Portion of hash browns and a folded omelet",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "Single-scoop ice cream (likely vanilla)",
+      "portion_estimate": "65",
+      "confidence": "70"
+    },
+    {
+      "name": "One baguette roll, wrapped in plastic",
+      "portion_estimate": "90",
+      "confidence": "80"
+    }
+  ]
+}

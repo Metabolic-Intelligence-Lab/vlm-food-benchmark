@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato and vegetable sauce",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "spinach or kale with small portion of mashed potatoes",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "garlic butter topping on spinach/mashed potatoes",
+      "portion_estimate": 10,
+      "confidence": 80
+    },
+    {
+      "name": "baguette or sandwich roll wrapped in plastic",
+      "portion_estimate": 30,
+      "confidence": 85
+    },
+    {
+      "name": "condiment packet (likely ketchup or similar)",
+      "portion_estimate": 2,
+      "confidence": 70
+    }
+  ]
+}

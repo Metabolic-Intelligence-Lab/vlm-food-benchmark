@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Rotini pasta with shredded chicken and cheese",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Meatball sandwich on a bun",
+      "portion_estimate": "100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Sliced green beans",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked item with cheese on top (possibly a ziti or lasagna bake)",
+      "portion_estimate": "180 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Sliced pickle and sliced cucumber",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Chicken nugget with sauce",
+      "portion_estimate": "80 grams",
+      "confidence": "60"
+    }
+  ]
+}

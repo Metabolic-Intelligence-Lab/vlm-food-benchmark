@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "breaded cutlet (e.g., chicken schnitzel)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetable medley (mushrooms, carrots, peas, potatoes)",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "cooked leafy greens (e.g., spinach or kale)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": 95
+    }
+  ]
+}

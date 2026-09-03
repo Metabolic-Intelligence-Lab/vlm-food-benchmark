@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Cantaloupe",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Cheese pizza",
+      "portion_estimate": "650 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Crispy chicken breast with sauce and lemon wedge",
+      "portion_estimate": "170 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Gnocchi side dish",
+      "portion_estimate": "500 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta and red sauce",
+      "portion_estimate": "400 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded stuffed chicken with a side of broccoli",
+      "portion_estimate": "325 grams",
+      "confidence": "70"
+    }
+  ]
+}

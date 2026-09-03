@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup with grated ingredients",
+      "portion_estimate": "300 g",
+      "confidence": 95
+    },
+    {
+      "name": "yogurt or dairy drink",
+      "portion_estimate": "150 g",
+      "confidence": 98
+    },
+    {
+      "name": "bread rolls or buns",
+      "portion_estimate": "120 g",
+      "confidence": 88
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "carrot slices",
+      "portion_estimate": "50 g",
+      "confidence": 97
+    }
+  ]
+}

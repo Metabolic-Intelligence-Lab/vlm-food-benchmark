@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni with Parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Lentils",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Dolce bread with sesame seeds",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

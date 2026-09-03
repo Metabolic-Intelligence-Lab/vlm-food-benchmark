@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Baked potato cubes",
+      "portion_estimate": "25 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Wrapped pastry",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

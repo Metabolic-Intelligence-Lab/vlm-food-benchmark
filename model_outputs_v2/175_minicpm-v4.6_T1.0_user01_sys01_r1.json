@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked green beans with meat (sauce)",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "Leafy vegetable side dish with diced yellow cubes",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "Orange fruit",
+      "portion_estimate": "50g",
+      "confidence": 95
+    }
+  ]
+}

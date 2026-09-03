@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "yellow and green couscous salad",
+      "portion_estimate": "uncertain, estimated to be medium-sized portion for this type of dish.",
+      "confidence": "50"
+    },
+    {
+      "name": "plate with pasta shells in tomato sauce (mushrooms visible)",
+      "portion_estimate": "medium sized plate typical of serving size",
+      "confidence": "70"
+    },
+    {
+      "name": "baked bread on a plastic wrap",
+      "portion_estimate": "uncertain, estimated to be medium-sized portion for this type of baked good.",
+      "confidence": "50"
+    },
+    {
+      "name": "two round fruits (possibly peaches or nectarines)",
+      "portion_estimate": "medium sized typical serving size depending on variety",
+      "confidence": "60"
+    },
+    {
+      "name": "seashell with some food inside it, possibly an oyster dish with a garnish of herbs and lemon wedge.",
+      "portion_estimate": "uncertain but likely small portion as seashells are typically served in moderation for flavor",
+      "confidence": "50"
+    }
+  ]
+}

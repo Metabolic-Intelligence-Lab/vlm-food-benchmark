@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pan-seared white fish fillet (likely cod or similar) with saut\u00e9ed vegetables (zucchini, green herbs, diced tomato)",
+      "portion_estimate": "150g (fish portion estimate)",
+      "confidence": 85
+    },
+    {
+      "name": "mixed saut\u00e9ed vegetables (zucchini, herbs, and tomato) served alongside fish",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or roasted broccoli",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "whole small orange (likely navel or similar)",
+      "portion_estimate": "130g",
+      "confidence": 90
+    },
+    {
+      "name": "whole wheat roll or ciabatta bread",
+      "portion_estimate": "uncertain (whole roll: ~70g, partial: uncertain)",
+      "confidence": 65
+    }
+  ]
+}

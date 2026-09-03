@@ -1,0 +1,39 @@
+Based on the visible items in the image, the following food and beverage items are identifiable with reasonable confidence:
+
+1. **Bread Roll**  
+   - *Description*: A single roll in a plastic bag (likely a dinner roll).  
+   - *Portion Estimate*: ~100g  
+   - *Confidence*: 90% (clearly visible and typical size for a dinner roll).  
+
+2. **Cooked Rice**  
+   - *Description*: White rice in a bowl.  
+   - *Portion Estimate*: ~120g  
+   - *Confidence*: 90% (standard serving size for rice, visually confirmed).  
+
+3. **Fish Fillet**  
+   - *Description*: A white fish fillet (e.g., cod) on a plate.  
+   - *Portion Estimate*: ~100g  
+   - *Confidence*: 90% (clearly visible as a cooked fish portion).  
+
+4. **Roasted Vegetables (Brussels Sprouts)**  
+   - *Description*: Small green round vegetables (likely Brussels sprouts) on the plate.  
+   - *Portion Estimate*: ~80g  
+   - *Confidence*: 80% (visually identifiable as roasted vegetables, though exact type is inferred).  
+
+---
+
+### Notes on Unclear Items:
+- A small container labeled "ClearKit" (or "1/4 ClearKit") is present but **not definitively identifiable** as a food or beverage item due to unclear labeling. Confidence in this item is low (≤ 50%), so it is **excluded** from the final list.  
+- The "1/4 ClearKit" package at the bottom of the image is ambiguous (could be butter, a snack, or unrelated), but without clear context, it is not included.  
+
+---
+
+### Final List:
+| Item                     | Portion Estimate | Confidence |
+|--------------------------|------------------|------------|
+| Bread Roll               | ~100g            | 90%        |
+| Cooked Rice              | ~120g            | 90%        |
+| Fish Fillet              | ~100g            | 90%        |
+| Roasted Vegetables (Brussels Sprouts) | ~80g | 80% |
+
+This list reflects only items with **clear visual confirmation** and reasonable confidence in their identification.

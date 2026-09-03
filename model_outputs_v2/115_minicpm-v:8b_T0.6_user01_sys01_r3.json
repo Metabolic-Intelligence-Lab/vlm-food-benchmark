@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce and parmesan",
+      "portion_estimate": "uncertain, approx. 100-200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed salad greens",
+      "portion_estimate": "uncertain, approx. 70-140g",
+      "confidence": "60"
+    },
+    {
+      "name": "Empanadas or stuffed pastry with sauce",
+      "portion_estimate": "uncertain, approx. 50-80g",
+      "confidence": "50"
+    },
+    {
+      "name": "Whole wheat bread slice",
+      "portion_estimate": "uncertain, approx. 30-60g",
+      "confidence": "70"
+    }
+  ]
+}

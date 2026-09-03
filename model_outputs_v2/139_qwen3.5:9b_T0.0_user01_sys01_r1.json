@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked chicken breast with sauce",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "Mixed diced vegetables (carrots and onions)",
+      "portion_estimate": 80,
+      "confidence": 92
+    },
+    {
+      "name": "Baked pasta with sauce",
+      "portion_estimate": 140,
+      "confidence": 85
+    },
+    {
+      "name": "Whole wheat roll or bun",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Sprinkles yogurt cup",
+      "portion_estimate": 125,
+      "confidence": 98
+    }
+  ]
+}

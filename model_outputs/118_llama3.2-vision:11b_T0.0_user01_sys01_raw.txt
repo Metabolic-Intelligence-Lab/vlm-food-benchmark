@@ -1,0 +1,45 @@
+Here is the food image:
+
+**Food Items:**
+
+* Pasta with tomato sauce and parmesan cheese
+* Roasted potatoes
+* Meatball with tomato sauce and parmesan cheese
+* Yogurt
+
+**Portion Estimates:**
+
+* Pasta: 150g
+* Roasted potatoes: 100g
+* Meatball: 50g
+* Yogurt: 100g
+
+**Confidence:**
+
+* Pasta: 80%
+* Roasted potatoes: 70%
+* Meatball: 60%
+* Yogurt: 90%
+
+**Food Items List:**
+
+* {
+  "name": "Pasta with tomato sauce and parmesan cheese",
+  "portion_estimate": "150g",
+  "confidence": "80"
+}
+* {
+  "name": "Roasted potatoes",
+  "portion_estimate": "100g",
+  "confidence": "70"
+}
+* {
+  "name": "Meatball with tomato sauce and parmesan cheese",
+  "portion_estimate": "50g",
+  "confidence": "60"
+}
+* {
+  "name": "Yogurt",
+  "portion_estimate": "100g",
+  "confidence": "90"
+}

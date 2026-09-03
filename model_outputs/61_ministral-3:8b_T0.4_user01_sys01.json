@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy mushroom and potato fritter (or croquette)",
+      "portion_estimate": "120-150g",
+      "confidence": 85
+    },
+    {
+      "name": "small portion of potato fries",
+      "portion_estimate": "100-120g",
+      "confidence": 80
+    },
+    {
+      "name": "creamy tomato-based soup (possibly gazpacho or bisque)",
+      "portion_estimate": "300-350g",
+      "confidence": 85
+    },
+    {
+      "name": "packaged sugar packet (for sweetening)",
+      "portion_estimate": "uncertain (not edible portion)",
+      "confidence": 50
+    },
+    {
+      "name": "condiment packet (likely salt or seasoning)",
+      "portion_estimate": "uncertain (not edible portion)",
+      "confidence": 50
+    }
+  ]
+}

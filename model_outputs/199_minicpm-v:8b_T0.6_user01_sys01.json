@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with pesto sauce",
+      "portion_estimate": "approximate weight in grams of penne and pesto combined",
+      "confidence": "90"
+    },
+    {
+      "name": "Pea salad with ham pieces",
+      "portion_estimate": "approximate weight in grams based on pea size and quantity",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "approximate weight in grams of the entire bread roll",
+      "confidence": "90"
+    }
+  ]
+}

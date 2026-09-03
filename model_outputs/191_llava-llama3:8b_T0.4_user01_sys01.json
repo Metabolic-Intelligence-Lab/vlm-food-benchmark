@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green liquid",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "dark brown sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "carrot sticks",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "round bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 68
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

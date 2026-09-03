@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Water",
+      "portion_estimate": "200 ml",
+      "confidence": 100
+    },
+    {
+      "name": "Pesto pasta",
+      "portion_estimate": "150 g",
+      "confidence": 100
+    },
+    {
+      "name": "Rotini pasta",
+      "portion_estimate": "150 g",
+      "confidence": 100
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "100 g",
+      "confidence": 100
+    },
+    {
+      "name": "Avocado",
+      "portion_estimate": "100 g",
+      "confidence": 100
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 g",
+      "confidence": 100
+    }
+  ]
+}

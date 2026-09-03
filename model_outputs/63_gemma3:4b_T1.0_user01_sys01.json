@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Meat Sauce",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Grilled Eggplant",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "Side Salad",
+      "portion_estimate": "60g",
+      "confidence": 65
+    },
+    {
+      "name": "Water Bottle",
+      "portion_estimate": "600g",
+      "confidence": 95
+    }
+  ]
+}

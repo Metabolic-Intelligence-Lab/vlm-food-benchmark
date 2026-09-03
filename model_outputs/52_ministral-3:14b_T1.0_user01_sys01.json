@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "roasted or grilled chicken breast, diced",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "whole wheat or multigrain bread, sliced",
+      "portion_estimate": "60g",
+      "confidence": 90
+    },
+    {
+      "name": "pasta (penne), cooked with tomato sauce and herbs",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "40g",
+      "confidence": 85
+    },
+    {
+      "name": "red cabbage, raw, shredded",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "white cheese or mozzarella, cubed",
+      "portion_estimate": "30g",
+      "confidence": 80
+    },
+    {
+      "name": "water, bottled (drink in background)",
+      "portion_estimate": "500ml",
+      "confidence": 80
+    },
+    {
+      "name": "food wrapping (plastic film) near pasta bowl",
+      "portion_estimate": "uncertain",
+      "confidence": 0
+    }
+  ]
+}

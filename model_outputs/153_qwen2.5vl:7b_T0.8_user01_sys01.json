@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "vegetable frittata",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "100",
+      "confidence": "75"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "stuffed cabbage or pierogi",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "rice or polenta",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

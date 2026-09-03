@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "steamed or roasted cauliflower florets",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "quinoa or couscous with toppings (potentially grated cheese or herbs)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "soup or stew (appears to be bean-based with grated cheese on top)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "baked or saut\u00e9ed spinach or kale with cheese (on the side plate)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "packaged snack (possibly a small baguette or bread roll)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "small cup of yogurt or dairy product (le Polyphem\u00e9 brand)",
+      "portion_estimate": "60 grams",
+      "confidence": 85
+    }
+  ]
+}

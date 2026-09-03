@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked Brussels sprouts and roasted vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "cornbread or similar type of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pasta (macaroni or similar) topped with sauce and herbs, possibly mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "small portion of food that might be some kind of meat or vegetarian patty",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

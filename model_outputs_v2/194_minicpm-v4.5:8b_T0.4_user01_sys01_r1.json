@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup",
+      "portion_estimate": "300-400g",
+      "confidence": "80"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200-250ml",
+      "confidence": "80"
+    },
+    {
+      "name": "small burger or patty",
+      "portion_estimate": "50-70g",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed or boiled greens",
+      "portion_estimate": "30-50g",
+      "confidence": "70"
+    },
+    {
+      "name": "small orange",
+      "portion_estimate": "100-150g",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "50-70g",
+      "confidence": "70"
+    }
+  ]
+}

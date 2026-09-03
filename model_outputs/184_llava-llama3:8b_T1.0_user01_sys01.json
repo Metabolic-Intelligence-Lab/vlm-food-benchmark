@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fish",
+      "portion_estimate": "20g",
+      "confidence": 95
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "20g",
+      "confidence": 95
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "20g",
+      "confidence": 95
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "20g",
+      "confidence": 95
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "20g",
+      "confidence": 95
+    }
+  ]
+}

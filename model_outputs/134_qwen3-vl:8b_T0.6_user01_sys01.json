@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice",
+      "portion_estimate": 200,
+      "confidence": 70
+    },
+    {
+      "name": "shredded chicken",
+      "portion_estimate": 100,
+      "confidence": 70
+    }
+  ]
+}

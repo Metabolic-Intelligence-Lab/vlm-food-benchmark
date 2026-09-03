@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "white rice",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange and yellow fruits",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "creamy white sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

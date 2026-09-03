@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (packaged bun)",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "caramel sauce with poached fruit (possibly stewed apple or pear)",
+      "portion_estimate": "80",
+      "confidence": 45
+    },
+    {
+      "name": "fusilli pasta with tomato sauce and cheese",
+      "portion_estimate": "180",
+      "confidence": 70
+    },
+    {
+      "name": "spinach and breadcrumb croquettes/patties",
+      "portion_estimate": "100",
+      "confidence": 55
+    },
+    {
+      "name": "red cabbage and cucumber salad with citrus vinaigrette",
+      "portion_estimate": "120",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "Chicken breast",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Sliced cucumber",
+      "portion_estimate": "30",
+      "confidence": "75"
+    },
+    {
+      "name": "Yogurt with fruit",
+      "portion_estimate": "150",
+      "confidence": "90"
+    }
+  ]
+}

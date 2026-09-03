@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Sliced bread with toppings",
+      "portion_estimate": "1 slice",
+      "confidence": "80"
+    },
+    {
+      "name": "Cooked green beans",
+      "portion_estimate": "1/2 cup",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt with granola and berries",
+      "portion_estimate": "1/2 cup",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta salad",
+      "portion_estimate": "1/4 cup",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll with filling",
+      "portion_estimate": "1 piece",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Around 1 cup of raw chicken pieces",
+      "portion_estimate": "around 100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Several small boiled potatoes, or possibly a type of gnocchi or similar dumplings",
+      "portion_estimate": "around 150-200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Around 1 cup of cooked carrots",
+      "portion_estimate": "around 100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Several small whole potatoes, possibly a type of new potato or similar, not boiled",
+      "portion_estimate": "around 200-250 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Several small pieces of apple",
+      "portion_estimate": "around 100 grams",
+      "confidence": "50"
+    }
+  ]
+}

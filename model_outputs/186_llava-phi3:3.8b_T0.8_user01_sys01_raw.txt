@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "0.6g",
+      "confidence": "95"
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "23g",
+      "confidence": "85"
+    },
+    {
+      "name": "Ham Sandwich",
+      "portion_estimate": "0.49g",
+      "confidence": "68"
+    }
+  ],
+  "bottle": {

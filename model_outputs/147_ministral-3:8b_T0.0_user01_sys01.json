@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetable medley (roasted peppers, zucchini, and possibly other vegetables in tomato sauce)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes or polenta",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or brioche roll",
+      "portion_estimate": "80 grams",
+      "confidence": 75
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100 grams (3-4 plums)",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded cutlet with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "plastic cup",
+      "portion_estimate": "30",
+      "confidence": 60
+    }
+  ]
+}

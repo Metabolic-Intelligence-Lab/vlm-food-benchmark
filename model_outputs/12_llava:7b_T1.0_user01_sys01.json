@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Egg",
+      "portion_estimate": "1 large fried egg",
+      "confidence": 90
+    },
+    {
+      "name": "Breakfast Pizza",
+      "portion_estimate": "1 slice of pizza",
+      "confidence": 70
+    },
+    {
+      "name": "Chicken Fingers with Tartar Sauce",
+      "portion_estimate": "3 large pieces of chicken fingers and a small side of tartar sauce",
+      "confidence": 85
+    },
+    {
+      "name": "Sour Cream and Chives Bagel with Bacon and Egg",
+      "portion_estimate": "1/2 of a bagel topped with bacon, fried egg, sour cream and chives",
+      "confidence": 80
+    },
+    {
+      "name": "French Toast",
+      "portion_estimate": "1 slice of French toast",
+      "confidence": 75
+    },
+    {
+      "name": "Breakfast Burrito",
+      "portion_estimate": "1 large breakfast burrito",
+      "confidence": 80
+    },
+    {
+      "name": "Homestyle Potatoes",
+      "portion_estimate": "1 cup of homemade potato salad",
+      "confidence": 75
+    }
+  ]
+}

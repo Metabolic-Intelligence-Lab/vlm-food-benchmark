@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with pesto",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried egg",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Diced zucchini",
+      "portion_estimate": "80g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried patty (under egg)",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt (in DIDO container)",
+      "portion_estimate": "70g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll (in plastic bag)",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    }
+  ]
+}

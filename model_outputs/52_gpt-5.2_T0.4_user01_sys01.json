@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken breast pieces",
+      "portion_estimate": "130 g",
+      "confidence": "78"
+    },
+    {
+      "name": "penne pasta (likely with light sauce/oil and small vegetable pieces)",
+      "portion_estimate": "230 g",
+      "confidence": "72"
+    },
+    {
+      "name": "shredded salad (carrot and red cabbage)",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "slice of whole-grain bread",
+      "portion_estimate": "35 g",
+      "confidence": "74"
+    },
+    {
+      "name": "sealed fruit yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "65"
+    }
+  ]
+}

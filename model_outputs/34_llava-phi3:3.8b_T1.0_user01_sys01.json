@@ -1,0 +1,69 @@
+{
+  "food_items": [
+    {
+      "name": "egg benedict",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "muffin",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sliced sausage",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "croissant",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "hash brown",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "melted cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sesame roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "loaf of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "croissant bag",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

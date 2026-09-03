@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "chili soup",
+      "portion": 250,
+      "confidence": 70
+    },
+    {
+      "name": "blueberry muffin",
+      "portion": 50,
+      "confidence": 80
+    },
+    {
+      "name": "creamy sauce",
+      "portion": 30,
+      "confidence": 70
+    },
+    {
+      "name": "bread roll",
+      "portion": 80,
+      "confidence": 70
+    },
+    {
+      "name": "yogurt",
+      "portion": 100,
+      "confidence": 70
+    },
+    {
+      "name": "water",
+      "portion": 200,
+      "confidence": 90
+    }
+  ]
+}

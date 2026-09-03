@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Brussels Sprouts",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "80",
+      "confidence": 70
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "118",
+      "confidence": 90
+    }
+  ]
+}

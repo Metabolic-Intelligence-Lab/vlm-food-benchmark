@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup with brown broth and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "sausage patty smothered in ketchup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "scrambled eggs garnished with chopped green onions",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

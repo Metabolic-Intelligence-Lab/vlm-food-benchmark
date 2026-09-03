@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "large slice of chicken and potato bake",
+      "portion_estimate": "300-350 grams (estimate based on visual comparison to a standard plate)",
+      "confidence": 75
+    },
+    {
+      "name": "fresh plums (whole, 4 plums)",
+      "portion_estimate": "160-180 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with orange and cheese topping (rigatoni)",
+      "portion_estimate": "200-220 grams (dry weight estimate)",
+      "confidence": 70
+    },
+    {
+      "name": "butter or margarine in yellow packaging (small pack)",
+      "portion_estimate": "uncertain (partially visible, likely less than 100 grams)",
+      "confidence": 55
+    },
+    {
+      "name": "sauce or orange-colored dressing (sauce bottle)",
+      "portion_estimate": "uncertain (partially visible, difficult to gauge exactly)",
+      "confidence": 50
+    }
+  ]
+}

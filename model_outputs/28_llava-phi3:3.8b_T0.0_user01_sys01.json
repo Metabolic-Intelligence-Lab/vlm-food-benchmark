@@ -1,0 +1,37 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "80g",
+      "confidence": "90"
+    },
+    {
+      "name": "Salad with dressing",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Soup in a bowl",
+      "portion_estimate": "200ml",
+      "confidence": "80"
+    }
+  ],
+  "tablecloth": "white with green leaves pattern",
+  "trays": [
+    {
+      "type": "plate",
+      "material": "paper",
+      "color": "gray"
+    },
+    {
+      "type": "glass",
+      "material": "plastic",
+      "color": "clear"
+    }
+  ]
+}

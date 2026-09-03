@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mixed salad",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "waffle",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

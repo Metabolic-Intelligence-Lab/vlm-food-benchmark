@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of green soup",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "plate of roasted potatoes",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "cup of clear liquid",
+      "portion_estimate": "200",
+      "confidence": "65"
+    },
+    {
+      "name": "package of sandwich bread",
+      "portion_estimate": "150",
+      "confidence": "60"
+    },
+    {
+      "name": "plastic container of yogurt",
+      "portion_estimate": "50",
+      "confidence": "60"
+    }
+  ]
+}

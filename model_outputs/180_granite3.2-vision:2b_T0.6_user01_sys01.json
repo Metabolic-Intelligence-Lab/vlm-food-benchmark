@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Toasted Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Green Apple Slice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Grilled Chicken Breast or Fish Fillet",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Breaded Fish or Chicken Fillet (Deep-Fried)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

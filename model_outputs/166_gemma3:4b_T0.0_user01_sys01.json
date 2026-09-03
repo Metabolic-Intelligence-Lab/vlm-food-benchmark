@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Small Loaf of Bread",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "Vegetable Quiche",
+      "portion_estimate": "180",
+      "confidence": 70
+    },
+    {
+      "name": "Spinach Side Dish",
+      "portion_estimate": "120",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli and potato medley",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "potato and cheese casserole",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "15",
+      "confidence": 90
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "50",
+      "confidence": 75
+    }
+  ]
+}

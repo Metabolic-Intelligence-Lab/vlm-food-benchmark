@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole wheat burger bun",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Green apple with visible sticker",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Green vegetable pasta (spaghetti)",
+      "portion_estimate": "37.5 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Boiled potatoes with mixed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Brown mushroom burger patty topped with tomato slice and white cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "75"
+    }
+  ]
+}

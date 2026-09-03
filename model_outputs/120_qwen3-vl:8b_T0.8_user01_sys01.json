@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken cutlet",
+      "portion_estimate": "120g",
+      "confidence": "100"
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "120g",
+      "confidence": "100"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "220g",
+      "confidence": "100"
+    },
+    {
+      "name": "Sauce",
+      "portion_estimate": "25g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "40g",
+      "confidence": "100"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "220g",
+      "confidence": "100"
+    }
+  ]
+}

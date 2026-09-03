@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green salad with red dressing",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "White bowl of pasta with sauce and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Plate of green leafy vegetable, possibly spinach or kale",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "White cup with green logo, possibly coffee or tea",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

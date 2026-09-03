@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Dinner Roll",
+      "portion_estimate": "35 g",
+      "confidence": "90"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "150 g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mixed Greens Salad",
+      "portion_estimate": "120 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Chickpea Stew",
+      "portion_estimate": "220 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried Chicken Cutlet",
+      "portion_estimate": "110 g",
+      "confidence": "80"
+    }
+  ]
+}

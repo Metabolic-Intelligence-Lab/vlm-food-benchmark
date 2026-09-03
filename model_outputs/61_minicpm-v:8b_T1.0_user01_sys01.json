@@ -1,0 +1,27 @@
+{
+  "food_items": [
+    {
+      "name": "Crispy Potato Wedges",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Omelette with Mushrooms and Greens",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Tomato Soup",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Milk Based Tea or Coffee (Instant)",
+      "portion_estimate": "uncertain, approx. 14-28 grams",
+      "confidence": "70"
+    }
+  ],
+  "notes": [
+    "One spoon is placed in the bowl of soup."
+  ]
+}

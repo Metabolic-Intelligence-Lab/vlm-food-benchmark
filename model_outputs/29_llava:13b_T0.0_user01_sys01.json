@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Cheese",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pizza Slice",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "70g",
+      "confidence": "60"
+    }
+  ]
+}

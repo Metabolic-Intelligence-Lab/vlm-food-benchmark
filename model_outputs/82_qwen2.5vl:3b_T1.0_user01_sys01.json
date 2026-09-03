@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Vegetable salad",
+      "portion_estimate": "uncertain",
+      "confidence": "75"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Drink",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    },
+    {
+      "name": "Seaweed",
+      "portion_estimate": "uncertain",
+      "confidence": "85"
+    }
+  ]
+}

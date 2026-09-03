@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed vegetable stir-fry (peas, carrots, potatoes, eggplant, mushrooms)",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "omelette with tomato slice",
+      "portion_estimate": "70",
+      "confidence": "85"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "small round bread roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    }
+  ]
+}

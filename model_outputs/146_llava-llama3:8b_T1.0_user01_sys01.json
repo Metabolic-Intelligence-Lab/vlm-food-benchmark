@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "noodles with red peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salted condiments",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "unsure condiments",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "blue grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

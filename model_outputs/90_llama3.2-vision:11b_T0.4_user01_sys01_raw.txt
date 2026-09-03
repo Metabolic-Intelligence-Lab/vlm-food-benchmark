@@ -1,0 +1,61 @@
+Here is the food image with a concise description of each item:
+
+### Food Items
+
+*   **Rice**: A white, fluffy, and slightly oily rice dish.
+*   **Carrots**: A mix of orange and yellow carrots, cooked and slightly browned.
+*   **Apples**: A mix of red and green apples, cut into small pieces.
+*   **Bread**: A small, round, and brown bread roll.
+*   **Green Apple**: A whole, green apple.
+*   **Butter**: A small, white, and wrapped stick of butter.
+
+### Portion Estimates
+
+*   **Rice**: 100g
+*   **Carrots**: 150g
+*   **Apples**: 100g
+*   **Bread**: 50g
+*   **Green Apple**: 100g
+*   **Butter**: 25g
+
+### Confidence
+
+*   **Rice**: 80
+*   **Carrots**: 90
+*   **Apples**: 80
+*   **Bread**: 70
+*   **Green Apple**: 90
+*   **Butter**: 80
+
+### Food Items
+
+*   {
+    "name": "Rice",
+    "portion_estimate": "100g",
+    "confidence": "80"
+    }
+*   {
+    "name": "Carrots",
+    "portion_estimate": "150g",
+    "confidence": "90"
+    }
+*   {
+    "name": "Apples",
+    "portion_estimate": "100g",
+    "confidence": "80"
+    }
+*   {
+    "name": "Bread",
+    "portion_estimate": "50g",
+    "confidence": "70"
+    }
+*   {
+    "name": "Green Apple",
+    "portion_estimate": "100g",
+    "confidence": "90"
+    }
+*   {
+    "name": "Butter",
+    "portion_estimate": "25g",
+    "confidence": "80"
+    }

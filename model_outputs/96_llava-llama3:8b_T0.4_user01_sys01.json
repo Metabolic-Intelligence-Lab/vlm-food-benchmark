@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "milk",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "cake",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Egg Omelet",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Spaghetti with Tomato Sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad, possibly with broccoli and other veggies",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Chicken Patty",
+      "portion_estimate": "75 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried Egg",
+      "portion_estimate": "40 grams",
+      "confidence": "80"
+    }
+  ]
+}

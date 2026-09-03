@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Baked Chicken",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Yellow Squash",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    }
+  ]
+}

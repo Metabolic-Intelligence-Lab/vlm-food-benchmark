@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta salad with cherry tomatoes, chickpeas, black olives, carrot, ham, and possibly tuna",
+      "portion_estimate": "300-400g (estimate for entire container)",
+      "confidence": "85"
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "100-150g (from visible portion)",
+      "confidence": "80"
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "50-80g",
+      "confidence": "70"
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "20-40g",
+      "confidence": "65"
+    },
+    {
+      "name": "carrot strips",
+      "portion_estimate": "20-50g",
+      "confidence": "60"
+    },
+    {
+      "name": "ham cubes",
+      "portion_estimate": "50-100g",
+      "confidence": "70"
+    },
+    {
+      "name": "tuna (if present)",
+      "portion_estimate": "50-100g",
+      "confidence": "50"
+    }
+  ]
+}

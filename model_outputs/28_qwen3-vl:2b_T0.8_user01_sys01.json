@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Fusilli Pasta",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "Stuffed Item (Calzone-Like)",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "Water (Two Glasses)",
+      "portion_estimate": "200g (each glass)",
+      "confidence": 90
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "Bun (Small Package)",
+      "portion_estimate": "50g",
+      "confidence": 80
+    }
+  ]
+}

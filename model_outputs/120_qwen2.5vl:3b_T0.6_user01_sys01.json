@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "crispy fried food",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "125g",
+      "confidence": "70"
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

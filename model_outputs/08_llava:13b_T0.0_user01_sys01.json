@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Indian vegetable soup",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "Whole wheat bread roll",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Salad with mixed vegetables and dressing",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Indian curry with rice",
+      "portion_estimate": "250g",
+      "confidence": "75"
+    }
+  ]
+}

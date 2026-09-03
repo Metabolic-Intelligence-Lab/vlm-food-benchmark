@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fettuccine or wide pasta with light sauce",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Whole grain bread roll or slice",
+      "portion_estimate": "90g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mixed greens salad with toppings",
+      "portion_estimate": "220g",
+      "confidence": "95"
+    },
+    {
+      "name": "Fried croquettes or arancini (2 pieces)",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Red dipping sauce (for croquettes)",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    }
+  ]
+}

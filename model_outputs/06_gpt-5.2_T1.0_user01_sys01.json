@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with light oil/cheese sauce",
+      "portion_estimate": "220 g",
+      "confidence": "72"
+    },
+    {
+      "name": "diced zucchini (cooked)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded meat cutlet (likely chicken or pork)",
+      "portion_estimate": "110 g",
+      "confidence": "62"
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "55 g",
+      "confidence": "85"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "78"
+    },
+    {
+      "name": "single-serve fruit jam cup",
+      "portion_estimate": "20 g",
+      "confidence": "74"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "250 g",
+      "confidence": "55"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "sautéed spinach",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded fried meatball/croquette (polpetta)",
+      "portion_estimate": "90g",
+      "confidence": "65"
+    },
+    {
+      "name": "yogurt cup (branded, closed)",
+      "portion_estimate": "125g",
+      "confidence": "55"
+    },
+    {
+      "name": "peach halves in syrup (packaged)",
+      "portion_estimate": "100g",
+      "confidence": "50"
+    }
+  ]
+}

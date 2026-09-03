@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet (appears to be cod or similar)",
+      "portion_estimate": "120-150g",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with tomato-based sauce",
+      "portion_estimate": "120-150g (cooked)",
+      "confidence": 70
+    },
+    {
+      "name": "mixed salad with shredded cabbage, orange carrots, and possibly other raw vegetables",
+      "portion_estimate": "100-130g",
+      "confidence": 75
+    },
+    {
+      "name": "red wine (small amount, likely a few sips)",
+      "portion_estimate": "30-50ml",
+      "confidence": 65
+    }
+  ]
+}

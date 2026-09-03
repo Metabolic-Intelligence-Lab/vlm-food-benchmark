@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with Tomato Sauce",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Mixed Vegetable Salad",
+      "portion_estimate": "50-75 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Polenta with Tomato and Cheese",
+      "portion_estimate": "25-50 grams",
+      "confidence": 65
+    }
+  ]
+}

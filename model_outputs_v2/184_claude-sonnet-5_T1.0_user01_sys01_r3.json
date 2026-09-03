@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "mixed green salad with shredded carrot and radicchio",
+      "portion_estimate": "80",
+      "confidence": 65
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "breaded fried fish or chicken piece",
+      "portion_estimate": "70",
+      "confidence": 55
+    },
+    {
+      "name": "stuffed vegetable (baked, topped with melted cheese)",
+      "portion_estimate": "80",
+      "confidence": 55
+    },
+    {
+      "name": "vegetable croquette or fritter with herb garnish",
+      "portion_estimate": "60",
+      "confidence": 50
+    },
+    {
+      "name": "plum (whole fruit)",
+      "portion_estimate": "50",
+      "confidence": 70
+    }
+  ]
+}

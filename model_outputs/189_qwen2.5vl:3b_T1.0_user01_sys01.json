@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "biscuit",
+      "portion_estimate": "20 grams",
+      "confidence": "65"
+    },
+    {
+      "name": "sour cream",
+      "portion_estimate": "25 grams",
+      "confidence": "55"
+    },
+    {
+      "name": "cracker",
+      "portion_estimate": "20 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "25 grams",
+      "confidence": "45"
+    }
+  ]
+}

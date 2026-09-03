@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "stir-fried vegetables and meat (likely pork)",
+      "portion_estimate": "200-250g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or boiled diced potatoes",
+      "portion_estimate": "150-200g",
+      "confidence": 80
+    },
+    {
+      "name": "spiced ground meat (likely beef or pork)",
+      "portion_estimate": "100-150g",
+      "confidence": 80
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200ml (1/2 cup)",
+      "confidence": 95
+    }
+  ]
+}

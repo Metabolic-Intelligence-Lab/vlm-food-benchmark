@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni and cheese with breadcrumbs",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "400 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Stir fry with vegetables",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Sandwich or burger patty",
+      "portion_estimate": "80 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Fruit",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Green beans with cashew butter",
+      "portion_estimate": "80 grams",
+      "confidence": "60"
+    }
+  ]
+}

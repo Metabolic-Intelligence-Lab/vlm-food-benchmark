@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Peanuts",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "Cookie",
+      "portion_estimate": "35 g",
+      "confidence": 95
+    },
+    {
+      "name": "Apricots",
+      "portion_estimate": "105 g",
+      "confidence": 95
+    },
+    {
+      "name": "Baked fish",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "Herb and cheese mixture",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    }
+  ]
+}

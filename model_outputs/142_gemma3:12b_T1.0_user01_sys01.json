@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked white beans",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "grilled mackerel fillet",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "slice of multigrain bread",
+      "portion_estimate": "30",
+      "confidence": "70"
+    }
+  ]
+}

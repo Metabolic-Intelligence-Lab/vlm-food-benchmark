@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable and legume soup (minestrone-style with grated parmesan)",
+      "portion_estimate": "350",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll (rosetta), packaged",
+      "portion_estimate": "70",
+      "confidence": "70"
+    },
+    {
+      "name": "savory spinach and ricotta pie/tart slice",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "peas and carrots, cooked",
+      "portion_estimate": "180",
+      "confidence": "75"
+    },
+    {
+      "name": "plums, whole",
+      "portion_estimate": "120",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+Based on the provided image, I'll do my best to identify the food and estimate the portion sizes. Here's the output:
+
+{
+  "food_items": [
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "Lentil Soup",
+      "portion_estimate": "250g",
+     
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    }
+  ]
+}
+
+Please note that the portion estimates are based on my training data and might not be exact. Also, the image quality and available food- specific data might affect the accuracy of the estimates.

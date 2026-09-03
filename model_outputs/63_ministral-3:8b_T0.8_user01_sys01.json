@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce and breadcrumb topping (likely baked pasta dish)",
+      "portion_estimate": "300-350g",
+      "confidence": 85
+    },
+    {
+      "name": "fried french fries",
+      "portion_estimate": "150-180g",
+      "confidence": 85
+    },
+    {
+      "name": "grilled or baked eggplant with lettuce and possibly cheese",
+      "portion_estimate": "120-150g",
+      "confidence": 75
+    },
+    {
+      "name": "mixed vegetable salad (shredded cabbage/carrot and orange-colored vegetable, possibly shredded chicken)",
+      "portion_estimate": "150-180g",
+      "confidence": 80
+    },
+    {
+      "name": "packaged dinner roll or bread roll",
+      "portion_estimate": "50-70g",
+      "confidence": 75
+    }
+  ]
+}

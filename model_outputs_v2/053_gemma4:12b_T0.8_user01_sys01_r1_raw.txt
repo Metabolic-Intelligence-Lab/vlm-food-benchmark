@@ -1,0 +1,31 @@
+```json
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce and vegetables",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "grilled white fish with herbs",
+      "portion_estimate": "140g",
+      "confidence": "95"
+    },
+    {
+      "name": "sautéed green beans",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80g",
+      "confidence": "90"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250g",
+      "confidence": "95"
+    },
+    {
+      "name": "small tomato",
+      "portion_estimate

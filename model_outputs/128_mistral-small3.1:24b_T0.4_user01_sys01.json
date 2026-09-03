@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato and meat sauce",
+      "portion_estimate": "300",
+      "confidence": "85"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "portion_estimate": "10",
+      "confidence": "70"
+    },
+    {
+      "name": "red pepper flakes",
+      "portion_estimate": "1",
+      "confidence": "65"
+    }
+  ]
+}

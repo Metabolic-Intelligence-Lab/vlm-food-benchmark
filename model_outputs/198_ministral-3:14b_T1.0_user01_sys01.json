@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "whole boiled potato (skin-on)",
+      "portion_estimate": "250",
+      "confidence": 80
+    },
+    {
+      "name": "steamed rice (white, cooked)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "breaded and fried chicken piece (including skin)",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "creamed or butter-masher potatoes (diced and saut\u00e9ed)",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "melted butter or cheese sauce (topped on potatoes)",
+      "portion_estimate": "30",
+      "confidence": 75
+    },
+    {
+      "name": "frozen peas (parboiled)",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "grated cheese or processed cheese spread (plastic container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sour cream (small tub, partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

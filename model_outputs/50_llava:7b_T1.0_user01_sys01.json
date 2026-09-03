@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "White rice",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Fried vegetables",
+      "portion_estimate": "100-200 g",
+      "confidence": 50
+    },
+    {
+      "name": "Meat",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

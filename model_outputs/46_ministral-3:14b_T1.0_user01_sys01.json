@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "potato croquette (fried or baked, with dark sauce, possibly cranberry)",
+      "portion_estimate": 120,
+      "confidence": 85
+    },
+    {
+      "name": "broth-based soup with green vegetables and shredded cheese topping",
+      "portion_estimate": 400,
+      "confidence": 80
+    },
+    {
+      "name": "mixed fresh salad (lettuce, green leafy vegetables)",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "baked whole onion (or onion bulb)",
+      "portion_estimate": 150,
+      "confidence": 70
+    },
+    {
+      "name": "yogurt drink or dessert (VOMO brand, possibly blueberry or mixed berry flavor)",
+      "portion_estimate": 125,
+      "confidence": 90
+    }
+  ]
+}

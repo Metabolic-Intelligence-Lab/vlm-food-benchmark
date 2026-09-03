@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "100g",
+      "confidence": "100"
+    },
+    {
+      "name": "orange stuff on plate",
+      "portion_estimate": "20g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": "60"
+    }
+  ]
+}

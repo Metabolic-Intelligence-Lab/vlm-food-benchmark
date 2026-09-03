@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "green lentils",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "side salad (mixed greens)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sauce or condiment",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "butter or margarine",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "wrapped sandwich or wrap",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

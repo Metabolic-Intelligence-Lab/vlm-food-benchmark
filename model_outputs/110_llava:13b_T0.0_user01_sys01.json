@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chili or bean-based soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll or bun",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "crackers or crisps",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "salad with peas and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

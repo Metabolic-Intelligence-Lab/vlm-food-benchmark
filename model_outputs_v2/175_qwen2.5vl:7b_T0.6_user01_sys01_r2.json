@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with sauce",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "steamed fish with sauce",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "spinach and potato dish",
+      "portion_estimate": "120",
+      "confidence": 60
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100",
+      "confidence": 90
+    }
+  ]
+}

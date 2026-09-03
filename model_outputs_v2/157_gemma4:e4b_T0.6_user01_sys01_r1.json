@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Elbow macaroni pasta dish with cheese",
+      "portion_estimate": "220",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked brown lentils",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll or bun",
+      "portion_estimate": "90",
+      "confidence": "90"
+    },
+    {
+      "name": "Lime",
+      "portion_estimate": "60",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried or baked bread slice",
+      "portion_estimate": "20",
+      "confidence": "75"
+    },
+    {
+      "name": "Fried or baked dumpling/patty (larger)",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "Fried or baked dumpling/patty (smaller)",
+      "portion_estimate": "50",
+      "confidence": "75"
+    }
+  ]
+}

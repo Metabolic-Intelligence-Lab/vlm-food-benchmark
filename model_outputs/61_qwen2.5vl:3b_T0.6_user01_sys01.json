@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup with spices",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "omelette with mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

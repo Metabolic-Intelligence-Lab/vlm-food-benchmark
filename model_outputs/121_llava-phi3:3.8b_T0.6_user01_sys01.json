@@ -1,0 +1,25 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Cheese",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Vegetable Salad",
+      "portion_estimate": "250g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried Chicken",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    }
+  ],
+  "tablecloth_color": "white"
+}

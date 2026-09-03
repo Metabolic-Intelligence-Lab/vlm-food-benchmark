@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (rigatoni)",
+      "portion_estimate": "200g",
+      "confidence": "100"
+    },
+    {
+      "name": "Peas",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Onions",
+      "portion_estimate": "25g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bell peppers",
+      "portion_estimate": "25g",
+      "confidence": "80"
+    },
+    {
+      "name": "Tomato-based sauce",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Parmesan cheese",
+      "portion_estimate": "20g",
+      "confidence": "95"
+    }
+  ]
+}

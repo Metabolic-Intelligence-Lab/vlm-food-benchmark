@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with sauce",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    },
+    {
+      "name": "piece of meat (possibly chicken)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "side dish with sauce and a bean",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "baked item (possibly quiche or pizza)",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "slice of cake with chocolate",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

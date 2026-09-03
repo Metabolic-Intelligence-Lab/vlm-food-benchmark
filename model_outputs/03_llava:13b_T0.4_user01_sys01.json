@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150-200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Burger patty on a bun",
+      "portion_estimate": "80-90 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Steamed broccoli",
+      "portion_estimate": "50-70 grams",
+      "confidence": "80"
+    }
+  ]
+}

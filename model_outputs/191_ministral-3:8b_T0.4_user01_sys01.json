@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "meatball (likely beef or veal)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "green soup (likely pesto or similar)",
+      "portion_estimate": "uncertain (bowl size suggests ~250-300ml, ~300-350 grams)",
+      "confidence": 70
+    },
+    {
+      "name": "spoon (not food)",
+      "portion_estimate": "uncertain",
+      "confidence": 0
+    },
+    {
+      "name": "condiment packet (likely sweet chili sauce or similar)",
+      "portion_estimate": "uncertain (small packet, ~5-10 grams)",
+      "confidence": 75
+    }
+  ]
+}

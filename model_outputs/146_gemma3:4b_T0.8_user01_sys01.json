@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Mac and Cheese",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Wheat Crackers",
+      "portion_estimate": "30g",
+      "confidence": 85
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "30g",
+      "confidence": 70
+    }
+  ]
+}

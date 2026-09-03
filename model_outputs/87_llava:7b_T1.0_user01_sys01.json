@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni with Pasta Sauce",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Peanuts",
+      "portion_estimate": "30 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Eggs",
+      "portion_estimate": "1 egg",
+      "confidence": "80"
+    }
+  ]
+}

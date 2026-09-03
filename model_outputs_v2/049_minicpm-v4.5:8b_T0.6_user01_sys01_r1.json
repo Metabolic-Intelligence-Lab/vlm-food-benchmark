@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (rigatoni)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "30 grams",
+      "confidence": 80
+    },
+    {
+      "name": "chicken pieces",
+      "portion_estimate": "50 grams",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt or sauce (white creamy base)",
+      "portion_estimate": "50-100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "crushed nuts or seeds",
+      "portion_estimate": "10-20 grams",
+      "confidence": 70
+    }
+  ]
+}

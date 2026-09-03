@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with creamy/herb sauce and grated parmesan",
+      "portion_estimate": "280 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed cooked vegetables (potatoes, carrots, Brussels sprouts)",
+      "portion_estimate": "220 g",
+      "confidence": "80"
+    },
+    {
+      "name": "vegetable patty/croquette (fried or baked) with spinach topping",
+      "portion_estimate": "110 g",
+      "confidence": "65"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "75"
+    },
+    {
+      "name": "plums (whole)",
+      "portion_estimate": "210 g",
+      "confidence": "80"
+    }
+  ]
+}

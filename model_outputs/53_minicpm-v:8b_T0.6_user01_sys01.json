@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomatoes and herbs",
+      "portion_estimate": "approximate weight in grams, based on typical portion size for pasta dishes",
+      "confidence": "60"
+    },
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "approximate weight in grams, considering the visible size of a grilled chicken breast and average serving sizes",
+      "confidence": "75"
+    },
+    {
+      "name": "Green beans with green sauce or pesto",
+      "portion_estimate": "approximate weight in grams based on typical portion for vegetables served as a side dish",
+      "confidence": "60"
+    },
+    {
+      "name": "Pomegranate fruit",
+      "portion_estimate": "uncertain, the exact size and amount of pomegranate seeds visible is unclear. Approximate estimate.",
+      "confidence": "45"
+    },
+    {
+      "name": "Bread roll (white)",
+      "portion_estimate": "approximate weight in grams based on typical serving sizes for bread rolls",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with sauce",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "35g",
+      "confidence": 75
+    },
+    {
+      "name": "Potato rosti",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "Chicken croquette",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "125ml",
+      "confidence": 80
+    }
+  ]
+}

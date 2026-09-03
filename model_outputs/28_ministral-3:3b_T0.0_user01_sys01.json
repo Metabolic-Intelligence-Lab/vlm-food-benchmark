@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "baked eggplant with kale",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "kale salad (with visible greens)",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "cucumber and lettuce salad",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "garlic bread roll",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "water (glass)",
+      "portion_estimate": "200",
+      "confidence": 90
+    }
+  ]
+}

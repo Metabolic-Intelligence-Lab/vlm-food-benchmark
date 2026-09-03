@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable Soup",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried Dumplings with Soy Sauce",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Breaded Fish Patty",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Green Vegetable Curry",
+      "portion_estimate": "250 grams",
+      "confidence": "60"
+    }
+  ]
+}

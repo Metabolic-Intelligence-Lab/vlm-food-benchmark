@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup with croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "bagel",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red apples",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "scrambled eggs and sausage",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "roasted vegetables (carrots and brussels sprouts)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

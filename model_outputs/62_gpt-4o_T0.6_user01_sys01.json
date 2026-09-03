@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowtie pasta with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked spinach",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "meat patty with sauce",
+      "portion_estimate": "120 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125 grams",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Lasagna",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

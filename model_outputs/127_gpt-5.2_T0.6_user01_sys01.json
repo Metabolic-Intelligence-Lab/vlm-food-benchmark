@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi with tomato sauce and grated cheese",
+      "portion_estimate": "320 g",
+      "confidence": "82"
+    },
+    {
+      "name": "mixed salad (lettuce/radicchio) with tomato and shaved cheese",
+      "portion_estimate": "180 g",
+      "confidence": "76"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "130 g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (small, packaged)",
+      "portion_estimate": "55 g",
+      "confidence": "74"
+    },
+    {
+      "name": "sparkling water (bottle, unclear amount consumed)",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    }
+  ]
+}

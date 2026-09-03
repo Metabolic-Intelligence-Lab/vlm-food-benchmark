@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup (yellow/brown, possibly lentil or mixed vegetable) with grated cheese on top",
+      "portion_estimate": "380 g",
+      "confidence": "70"
+    },
+    {
+      "name": "steamed broccoli florets",
+      "portion_estimate": "90 g",
+      "confidence": "75"
+    },
+    {
+      "name": "slice of ham with shredded cabbage/coleslaw garnish",
+      "portion_estimate": "60 g",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll (round bun)",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "sealed cup of fruit yogurt (assorted fruit)",
+      "portion_estimate": "150 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "250 g",
+      "confidence": "80"
+    }
+  ]
+}

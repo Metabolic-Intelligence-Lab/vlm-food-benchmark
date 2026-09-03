@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "milkshake or smoothie in a cup with straw",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "bun (possibly bread)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mashed potatoes or a similar dish with gravy and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "dark green leafy vegetable (possibly cooked greens)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

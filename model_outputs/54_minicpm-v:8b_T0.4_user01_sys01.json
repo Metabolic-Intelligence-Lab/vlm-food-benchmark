@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spiralized pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mixed salad greens and cucumbers",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "red onion slices with purple cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "potato salad",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "round bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with peas, corn and ham",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Roasted carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Roasted potatoes with carrots, mushrooms and onions",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Quiche or frittata",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Fresh apricots (3 visible)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

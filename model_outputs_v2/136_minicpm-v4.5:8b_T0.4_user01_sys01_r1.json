@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cavatappi pasta",
+      "portion_estimate": "200-250 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed vegetables (green peas, diced carrots, zucchini, celery)",
+      "portion_estimate": "100-150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "tomato-based sauce",
+      "portion_estimate": "100-150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "cheese (shredded, partially melted)",
+      "portion_estimate": "50-100 grams",
+      "confidence": "70"
+    }
+  ]
+}

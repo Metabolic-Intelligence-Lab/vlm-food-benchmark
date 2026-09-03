@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "shredded greens with couscous",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "grilled fish with avocado salsa",
+      "portion_estimate": "250",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted sweet potatoes",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "plain yoghurt",
+      "portion_estimate": "125",
+      "confidence": "85"
+    },
+    {
+      "name": "roll of flatbread",
+      "portion_estimate": "80",
+      "confidence": "90"
+    }
+  ]
+}

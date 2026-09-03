@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "grilled chicken",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "sour cream",
+      "portion_estimate": "30",
+      "confidence": 80
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "150",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked green beans",
+      "portion_estimate": "180",
+      "confidence": "95"
+    },
+    {
+      "name": "Savory patty or spread",
+      "portion_estimate": "90",
+      "confidence": "85"
+    },
+    {
+      "name": "Watermelon slices",
+      "portion_estimate": "220",
+      "confidence": "95"
+    },
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "90",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy vegetable soup with cheese grated on top",
+      "portion_estimate": "350 grams",
+      "confidence": 75
+    },
+    {
+      "name": "fried potato croquettes (multiple pieces)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "boiled red cabbage with caramelized sugar glaze",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "whole wheat or rye bread roll (packaged)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "butter (small pat on plate)",
+      "portion_estimate": "uncertain (small amount, ~10g)",
+      "confidence": 55
+    }
+  ]
+}

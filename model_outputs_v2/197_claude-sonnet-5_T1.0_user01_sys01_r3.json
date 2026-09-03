@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi in tomato sauce",
+      "portion_estimate": "220",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "70",
+      "confidence": "70"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "130",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded chicken nuggets/cutlets",
+      "portion_estimate": "150",
+      "confidence": "65"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grilled salmon with orange sauce, green beans, and red peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "broccoli and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "orange can",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

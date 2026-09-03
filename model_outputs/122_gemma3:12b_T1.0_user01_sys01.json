@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "meatballs (ground beef/turkey)",
+      "portion_estimate": "70",
+      "confidence": "80"
+    },
+    {
+      "name": "carrot slices",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "pasta (farfalle) with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

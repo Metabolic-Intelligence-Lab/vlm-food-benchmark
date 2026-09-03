@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried egg",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Penne pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

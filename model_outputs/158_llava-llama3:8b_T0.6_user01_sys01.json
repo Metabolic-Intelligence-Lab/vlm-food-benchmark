@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "baked beans",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "cornbread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fruit (green apples and bananas)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

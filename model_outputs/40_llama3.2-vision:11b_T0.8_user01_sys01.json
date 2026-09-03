@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pizza Slice",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Chicken Breast",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Cake Slice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

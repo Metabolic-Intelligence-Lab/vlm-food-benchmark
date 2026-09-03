@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with a spoon",
+      "portion_estimate": "approx 250-350 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Crispy chicken nuggets",
+      "portion_estimate": "approximately 100-150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried potato wedges",
+      "portion_estimate": "approx 80-100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Cooked rice",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    }
+  ]
+}

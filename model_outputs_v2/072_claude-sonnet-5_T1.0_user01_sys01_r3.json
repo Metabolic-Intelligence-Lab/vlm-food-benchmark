@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded and pan-fried fish fillet (cotoletta di pesce)",
+      "portion_estimate": "90",
+      "confidence": "65"
+    },
+    {
+      "name": "sauteed sliced carrots",
+      "portion_estimate": "110",
+      "confidence": "70"
+    },
+    {
+      "name": "lentil stew with tomato sauce (zuppa di lenticchie)",
+      "portion_estimate": "180",
+      "confidence": "75"
+    },
+    {
+      "name": "water in plastic cup",
+      "portion_estimate": "200",
+      "confidence": "60"
+    },
+    {
+      "name": "yogurt (unopened, brand Yomo)",
+      "portion_estimate": "125",
+      "confidence": "70"
+    }
+  ]
+}

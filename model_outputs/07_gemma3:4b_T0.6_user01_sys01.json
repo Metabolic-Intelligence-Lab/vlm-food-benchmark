@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Yoplait Yogurt",
+      "portion_estimate": "60g",
+      "confidence": 95
+    },
+    {
+      "name": "Salad with Chickpeas",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Chicken Patty",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "Chicken Soup",
+      "portion_estimate": "200g",
+      "confidence": 65
+    }
+  ]
+}

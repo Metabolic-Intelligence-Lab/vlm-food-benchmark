@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Kale Salad",
+      "portion_estimate": "60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "75 grams",
+      "confidence": 75
+    },
+    {
+      "name": "Grapes",
+      "portion_estimate": "60 grams",
+      "confidence": 70
+    }
+  ]
+}

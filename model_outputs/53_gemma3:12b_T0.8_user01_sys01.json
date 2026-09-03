@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with red sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "75",
+      "confidence": "75"
+    },
+    {
+      "name": "sliced bread",
+      "portion_estimate": "30",
+      "confidence": "70"
+    },
+    {
+      "name": "peach slices",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "iced beverage (uncertain)",
+      "portion_estimate": "240",
+      "confidence": "60"
+    }
+  ]
+}

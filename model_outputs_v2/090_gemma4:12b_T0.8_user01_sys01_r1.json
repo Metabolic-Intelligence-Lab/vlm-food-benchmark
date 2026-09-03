@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice with yellow sauce",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "mixed boiled carrots and potatoes",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "tuna and vegetable salad",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70g",
+      "confidence": 95
+    },
+    {
+      "name": "whole green fruit (guava)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    }
+  ]
+}

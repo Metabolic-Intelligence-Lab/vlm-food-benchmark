@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "vegetables (peas or green beans)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pasta with cheese sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "water with ice cubes",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "coffee or tea",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "vegetables or salad",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

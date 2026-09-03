@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "side salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "rice or pasta dish",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "butter packet",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "salt packet",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "roll or bread",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "dessert or snack",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with spicy sauce",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "mixed salad with red cabbage and cucumber",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "herb-coated patties",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "braised meatball in sauce",
+      "portion_estimate": "90g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70g",
+      "confidence": 95
+    }
+  ]
+}

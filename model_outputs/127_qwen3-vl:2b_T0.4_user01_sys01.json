@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "name": "Gnocchi",
+      "type": "food",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "Salad",
+      "type": "food",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "Banana",
+      "type": "food",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Cheese (Robiola Spallamale)",
+      "type": "food",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "type": "food",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Water Bottle",
+      "type": "beverage",
+      "portion_estimate": "250g",
+      "confidence": 80
+    }
+  ]
+}

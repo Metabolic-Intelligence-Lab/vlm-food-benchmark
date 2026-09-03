@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "meat patties with herbs",
+      "portion_estimate": "160g",
+      "confidence": 90
+    },
+    {
+      "name": "roasted cubed potatoes",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "milk or yogurt drink",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "30g",
+      "confidence": 80
+    }
+  ]
+}

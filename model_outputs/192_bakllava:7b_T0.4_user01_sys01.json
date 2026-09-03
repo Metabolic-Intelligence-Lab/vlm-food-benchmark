@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "vegetables, possibly including spinach and broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

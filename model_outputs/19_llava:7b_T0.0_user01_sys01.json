@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Scrambled eggs",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fruit salad",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Toast with butter",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "1 medium orange",
+      "confidence": "90"
+    }
+  ]
+}

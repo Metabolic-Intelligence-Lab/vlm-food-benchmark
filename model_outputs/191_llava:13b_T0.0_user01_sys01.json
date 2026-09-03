@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green sauce (curry or soup)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "carrot slices",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meatballs or similar spherical food items",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "red condiment or spread (ketchup or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

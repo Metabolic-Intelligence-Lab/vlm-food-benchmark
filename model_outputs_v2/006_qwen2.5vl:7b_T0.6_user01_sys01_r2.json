@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with green beans",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "cucumber salad",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "120",
+      "confidence": 60
+    }
+  ]
+}

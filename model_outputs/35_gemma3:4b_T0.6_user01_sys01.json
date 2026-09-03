@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Green Beans",
+      "portion_estimate": "60g",
+      "confidence": 95
+    },
+    {
+      "name": "Watermelon Slice",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "Pasta with Cheese",
+      "portion_estimate": "120g",
+      "confidence": 70
+    }
+  ]
+}

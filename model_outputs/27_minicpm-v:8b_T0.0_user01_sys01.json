@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Grilled salmon fillet",
+      "portion_estimate": "uncertain, approx. 80-90g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green leafy vegetables (possibly spinach or kale)",
+      "portion_estimate": "uncertain, approx. 50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Baked sweet potato with orange sauce",
+      "portion_estimate": "uncertain, approx. 120-130g",
+      "confidence": "70"
+    }
+  ]
+}

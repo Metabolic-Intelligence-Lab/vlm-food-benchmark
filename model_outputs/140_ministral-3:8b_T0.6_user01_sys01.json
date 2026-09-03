@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "two plums",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small side dish of bruschetta toppings (tomato, garlic, basil, olive oil)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "small plate of broccoli florets (approx. 6 pieces)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "fried or baked fish fillet (appears to be cod or similar)",
+      "portion_estimate": "180 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed green leafy vegetable (likely spinach or bok choy)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    }
+  ]
+}

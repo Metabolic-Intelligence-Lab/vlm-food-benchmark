@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Rice with chicken",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Peanut butter and sliced almonds",
+      "portion_estimate": "uncertain, approx. 30g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cheese quiche with lemon wedge",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    }
+  ]
+}

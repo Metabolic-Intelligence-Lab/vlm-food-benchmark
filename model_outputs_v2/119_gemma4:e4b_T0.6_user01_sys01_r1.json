@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fried savory snacks (e.g., fritters or potato balls)",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "Cooked lentils or small peas/grains",
+      "portion_estimate": "280g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread rolls or buns (wrapped)",
+      "portion_estimate": "180g",
+      "confidence": "75"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "350g",
+      "confidence": "95"
+    }
+  ]
+}

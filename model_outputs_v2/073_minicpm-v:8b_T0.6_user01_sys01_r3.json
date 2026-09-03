@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain, estimate based on visible size and typical serving sizes.",
+      "confidence": "40"
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "uncertain, estimate based on visible size and typical serving sizes.",
+      "confidence": "50"
+    },
+    {
+      "name": "Fish fillet",
+      "portion_estimate": "120-150g (approximate weight of fish seen)",
+      "confidence": "70"
+    },
+    {
+      "name": "Scone or bread roll",
+      "portion_estimate": "uncertain, estimate based on visible size and typical serving sizes.",
+      "confidence": "60"
+    }
+  ]
+}

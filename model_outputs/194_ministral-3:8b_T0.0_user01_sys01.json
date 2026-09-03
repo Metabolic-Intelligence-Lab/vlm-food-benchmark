@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "soup in bowl (likely tomato-based)",
+      "portion_estimate": "300",
+      "confidence": 75
+    },
+    {
+      "name": "steamed or saut\u00e9ed greens (e.g., broccoli or cabbage)",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "small baked or fried item with purple cabbage (e.g., stuffed cabbage roll or meatball)",
+      "portion_estimate": "120",
+      "confidence": 70
+    },
+    {
+      "name": "small bread roll or bun",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sesame seed bun with peanut and chocolate spread",
+      "portion_estimate": "90",
+      "confidence": "85"
+    },
+    {
+      "name": "fried potato cubes with meat",
+      "portion_estimate": "130",
+      "confidence": "80"
+    },
+    {
+      "name": "shredded carrot and bean sprouts salad",
+      "portion_estimate": "110",
+      "confidence": "75"
+    },
+    {
+      "name": "fresh grape",
+      "portion_estimate": "12",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    }
+  ]
+}

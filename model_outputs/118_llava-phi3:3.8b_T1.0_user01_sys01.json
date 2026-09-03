@@ -1,0 +1,20 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta",
+      "portion_estimate": "60g",
+      "confidence": 95
+    },
+    {
+      "name": "Crab cake appetizer",
+      "portion_estimate": "37g",
+      "confidence": 95
+    },
+    {
+      "name": "Coffee Creamer with Starbucks logo on side",
+      "portion_estimate": "200ml",
+      "confidence": 85
+    }
+  ],
+  "tablecloth_pattern": "Pineapple design"
+}

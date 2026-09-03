@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sealed yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked broccoli florets",
+      "portion_estimate": "150 g",
+      "confidence": "85"
+    },
+    {
+      "name": "slice of whole grain bread",
+      "portion_estimate": "40 g",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked white fish fillet",
+      "portion_estimate": "130 g",
+      "confidence": "80"
+    },
+    {
+      "name": "diced cooked potatoes",
+      "portion_estimate": "180 g",
+      "confidence": "85"
+    }
+  ]
+}

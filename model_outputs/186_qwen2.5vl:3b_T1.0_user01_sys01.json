@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Shredded scrambled egg",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Pasta or noodles",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Butter or margarine",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Clear broth or water",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

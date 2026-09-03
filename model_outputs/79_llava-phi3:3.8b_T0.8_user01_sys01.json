@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Potato Salad",
+      "portion_estimate": "100g",
+      "confidence": 60
+    },
+    {
+      "name": "Breaded Chicken Cutlet",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "Beans",
+      "portion_estimate": "120g",
+      "confidence": 60
+    },
+    {
+      "name": "Cucumbers and Pickles",
+      "portion_estimate": "50g",
+      "confidence": 60
+    },
+    {
+      "name": "Tomatoes",
+      "portion_estimate": "50g",
+      "confidence": 80
+    }
+  ]
+}

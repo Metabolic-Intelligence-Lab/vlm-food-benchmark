@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "tomatoes",
+      "portion_estimate": "80g",
+      "confidence": 100
+    },
+    {
+      "name": "green cabbage",
+      "portion_estimate": "50g",
+      "confidence": 100
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "30g",
+      "confidence": 100
+    },
+    {
+      "name": "onions",
+      "portion_estimate": "20g",
+      "confidence": 100
+    }
+  ]
+}

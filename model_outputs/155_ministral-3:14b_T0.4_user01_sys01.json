@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of bow-tie pasta (farfalle) with butter and grated cheese",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "sliced banana",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "whole-grain bread slice",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "baked sweet potato with cheese topping",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "mixed steamed vegetables (carrots, green peas, edamame)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    }
+  ]
+}

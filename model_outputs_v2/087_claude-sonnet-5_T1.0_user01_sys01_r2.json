@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "conchiglie pasta with oil/tomato sauce",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "green beans with breadcrumb topping",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "breaded and fried eggplant/vegetable patties",
+      "portion_estimate": "80",
+      "confidence": "55"
+    },
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "peach",
+      "portion_estimate": "130",
+      "confidence": "90"
+    }
+  ]
+}

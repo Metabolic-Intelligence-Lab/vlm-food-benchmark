@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "rice and beans",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "fish with lemon wedges on top",
+      "portion_estimate": "85g",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll and red grapes",
+      "portion_estimate": "120g bread, 60g grapes",
+      "confidence": "80"
+    }
+  ]
+}

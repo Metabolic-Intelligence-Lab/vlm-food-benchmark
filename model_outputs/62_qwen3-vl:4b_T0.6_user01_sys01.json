@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Farfalle pasta with tomato sauce and red peppers",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Spinach (raw or lightly cooked)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Bread roll (e.g., a small dinner roll or baguette slice)",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Tomato sauce (in a container, e.g., jar or cup)",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Meatloaf (or similar savory dish)",
+      "portion_estimate": "70 grams",
+      "confidence": 60
+    }
+  ]
+}

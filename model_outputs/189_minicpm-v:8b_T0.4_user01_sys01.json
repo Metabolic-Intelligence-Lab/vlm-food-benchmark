@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Biscuit with Tomato Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Green Vegetables (possibly spinach or Swiss chard)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Cheese Slices",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

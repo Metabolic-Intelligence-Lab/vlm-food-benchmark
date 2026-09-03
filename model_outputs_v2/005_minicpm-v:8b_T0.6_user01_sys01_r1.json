@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mashed potatoes with gravy",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "chicken nuggets (breaded and fried)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

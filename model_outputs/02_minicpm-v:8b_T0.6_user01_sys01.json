@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain, approximately a medium-sized bowl",
+      "confidence": "60"
+    },
+    {
+      "name": "red bell pepper slices",
+      "portion_estimate": "uncertain, approximately several thin slices",
+      "confidence": "75"
+    },
+    {
+      "name": "green onions rings",
+      "portion_estimate": "uncertain, possibly a few rings",
+      "confidence": "60"
+    },
+    {
+      "name": "cucumber slice",
+      "portion_estimate": "uncertain, approximately 1-2 slices",
+      "confidence": "75"
+    }
+  ]
+}

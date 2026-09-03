@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "oatmeal with nuts and dried fruit",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "macaroni and cheese (bowtie pasta)",
+      "portion_estimate": "245g",
+      "confidence": "95"
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "178g",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Spinach and ricotta ravioli",
+      "portion_estimate": "75g",
+      "confidence": "60"
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": "200ml",
+      "confidence": "90"
+    }
+  ]
+}

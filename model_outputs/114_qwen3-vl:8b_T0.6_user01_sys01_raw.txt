@@ -1,0 +1,72 @@
+{
+  "food_items": [
+    {
+      "name": "French fries with cheese and sauce",
+      "portion_estimate": "150",
+      "confidence": "70"
+""
+
+Wait, no, the JSON should be correctly formatted. Let me check again.
+
+The correct JSON should have each object as a dictionary with keys "name", "portion_estimate", "confidence".
+
+So:
+
+[
+  {
+    "name": "French fries with cheese and sauce",
+    "portion_estimate": "150",
+    "confidence": "70"
+  },
+  {
+    "name": "Breaded patty with potato wedges",
+    "portion_estimate": "180",
+    "confidence": "75"
+  },
+  {
+    "name": "Whole wheat bread slice",
+    "portion_estimate": "30",
+    "confidence": "90"
+  },
+  {
+    "name": "Kool-Aid drink",
+    "portion_estimate": "100",
+    "confidence": "80"
+  },
+  {
+    "name": "Celery stick",
+    "portion_estimate": "50",
+    "confidence": "85"
+  }
+]
+
+Yes, that's correct. Now, ensure all are present and formatted properly.
+{
+  "food_items": [
+    {
+      "name": "French fries with cheese and sauce",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded patty with potato wedges",
+      "portion_estimate": "180",
+      "confidence": "75"
+    },
+    {
+      "name": "Whole wheat bread slice",
+      "portion_estimate": "30",
+      "confidence": "90"
+    },
+    {
+      "name": "Kool-Aid drink",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Celery stick",
+      "portion_estimate": "50",
+      "confidence": "85"
+    }
+  ]
+}

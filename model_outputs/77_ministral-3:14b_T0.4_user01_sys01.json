@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed beans (kidney beans, green beans, corn)",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "baked or roasted chicken breast",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed broccoli with garlic and herbs",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat or multigrain roll/bun",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "red plums (2 medium)",
+      "portion_estimate": "120g",
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti (orange)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "spaghetti (other type)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "vegetable mix (broccoli)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

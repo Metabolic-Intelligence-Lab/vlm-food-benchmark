@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat fusilli pasta with grated cheese",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "chicken parmesan with tomato-based sauce and mixed vegetables (green beans, carrots, zucchini)",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "garlic bread or breadstick",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "fresh plums",
+      "portion_estimate": "100",
+      "confidence": 90
+    }
+  ]
+}

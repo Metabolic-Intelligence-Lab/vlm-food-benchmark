@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "soup in a bowl (likely vegetable or bean-based)",
+      "portion_estimate": "200-250 grams",
+      "confidence": 95
+    },
+    {
+      "name": "small bun or roll",
+      "portion_estimate": "30-50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "grilled or fried bread item with relish (e.g., potato or egg salad sandwich piece)",
+      "portion_estimate": "50-70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yellow spread or butter (potato salad or similar)",
+      "portion_estimate": "30-50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small container of yogurt or milk-based drink (likely in a sealed pouch)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "small carton of milk or milk alternative (e.g., almond milk)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "small plastic cup with liquid (possibly water or juice)",
+      "portion_estimate": "100-150 ml (~10-15 grams liquid)",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta (cooked, with grated cheese)",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "steamed broccoli with lemon wedge",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "potato and fish hash (or fish with diced potatoes)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "baked bread roll (wrapped in plastic)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt drink (in plastic cup, brand Yomo)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "250ml (estimated by glass size)",
+      "confidence": 70
+    },
+    {
+      "name": "plastic-wrapped green vegetable (likely asparagus or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

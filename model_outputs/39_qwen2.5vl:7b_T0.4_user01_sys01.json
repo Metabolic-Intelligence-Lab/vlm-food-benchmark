@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Twisted pasta",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Cooked spinach",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Grilled fish with lemon zest",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Peaches",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    }
+  ]
+}

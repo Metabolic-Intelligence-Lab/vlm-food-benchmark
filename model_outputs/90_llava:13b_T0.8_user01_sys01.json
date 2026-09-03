@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with butter or sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Vegetables (tomatoes, chili peppers, etc.)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Mixed cooked vegetables (carrots, broccoli)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Steamed vegetables (cauliflower or cabbage)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

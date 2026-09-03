@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with Butter",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Carrot and Potato Salad",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta with Spinach and Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": "90"
+    }
+  ]
+}

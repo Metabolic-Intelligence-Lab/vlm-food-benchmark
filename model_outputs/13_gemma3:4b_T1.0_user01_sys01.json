@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with Orange Sauce",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "Watermelon",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "Green Salad",
+      "portion_estimate": "80g",
+      "confidence": 60
+    }
+  ]
+}

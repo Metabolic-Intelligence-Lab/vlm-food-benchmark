@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "leafy greens",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

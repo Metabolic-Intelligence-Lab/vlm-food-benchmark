@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "potato ball",
+      "portion_estimate": "30",
+      "confidence": "75"
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "sandwich (uncertain ingredients)",
+      "portion_estimate": "100",
+      "confidence": "60"
+    }
+  ]
+}

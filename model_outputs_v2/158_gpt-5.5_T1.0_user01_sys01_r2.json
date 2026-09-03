@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce and grated cheese",
+      "portion_estimate": "220 g",
+      "confidence": "85"
+    },
+    {
+      "name": "sauced meatballs",
+      "portion_estimate": "180 g",
+      "confidence": "70"
+    },
+    {
+      "name": "rectangular savory focaccia or pizza slice",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "85"
+    },
+    {
+      "name": "uncertain yellow whole fruit",
+      "portion_estimate": "150 g",
+      "confidence": "50"
+    },
+    {
+      "name": "uncertain packaged cheese stick",
+      "portion_estimate": "35 g",
+      "confidence": "45"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked spaghetti (lightly sauced/oiled)",
+      "portion_estimate": "230 g",
+      "confidence": "78"
+    },
+    {
+      "name": "hamburger bun (plain, in plastic bag)",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "pear (whole)",
+      "portion_estimate": "170 g",
+      "confidence": "86"
+    },
+    {
+      "name": "square slice of pizza/tart topped with diced yellow potatoes",
+      "portion_estimate": "170 g",
+      "confidence": "62"
+    },
+    {
+      "name": "scrambled eggs or egg-based dish (shredded pieces)",
+      "portion_estimate": "110 g",
+      "confidence": "55"
+    },
+    {
+      "name": "butter or margarine (wrapped pat)",
+      "portion_estimate": "10 g",
+      "confidence": "65"
+    }
+  ]
+}

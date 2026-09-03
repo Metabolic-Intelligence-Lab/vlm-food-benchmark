@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with yellow sauce and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Potato wedges, roasted in oil or butter",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Ricotta cheese cup",
+      "portion_estimate": "125g",
+      "confidence": "90"
+    }
+  ]
+}

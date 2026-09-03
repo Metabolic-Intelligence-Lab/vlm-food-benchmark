@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Macaroni and Cheese",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Portion of a Bagel",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Green Leafy Salad (possibly kale or spinach)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

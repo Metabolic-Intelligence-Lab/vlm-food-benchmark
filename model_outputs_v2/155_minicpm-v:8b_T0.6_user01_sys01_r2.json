@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Farfalle pasta with parmesan cheese",
+      "portion_estimate": "uncertain, approx. portion size of plate",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain bread on a plastic wrapper",
+      "portion_estimate": "approximate slice weight around 50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bananas in the background",
+      "portion_estimate": "uncertain, whole fruit estimated at approx. portion size of plate",
+      "confidence": "60"
+    }
+  ]
+}

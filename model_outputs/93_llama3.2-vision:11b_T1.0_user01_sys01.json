@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Baked Fish",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Roasted Chickpeas",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Whole-Grain Bread",
+      "portion_estimate": "60g",
+      "confidence": "90"
+    }
+  ]
+}

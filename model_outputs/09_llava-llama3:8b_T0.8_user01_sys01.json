@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "piece of meat",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "piece of cake",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "chips",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

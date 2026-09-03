@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrots (diced)",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "cracker with cheese spread",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80",
+      "confidence": "70"
+    }
+  ]
+}

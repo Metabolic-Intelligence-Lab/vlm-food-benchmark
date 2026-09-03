@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "greens",
+      "portion_estimate": "1 bowl",
+      "confidence": 90
+    },
+    {
+      "name": "beans",
+      "portion_estimate": "1 bowl",
+      "confidence": 90
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "1 bowl",
+      "confidence": 90
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "1 plate",
+      "confidence": 90
+    },
+    {
+      "name": "small cups",
+      "portion_estimate": "2 small cups",
+      "confidence": 60
+    }
+  ]
+}

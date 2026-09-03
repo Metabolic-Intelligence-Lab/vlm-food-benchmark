@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with tomato-based sauce (with small vegetable pieces)",
+      "portion_estimate": "220 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked spinach (possibly saut\u00e9ed/seasoned)",
+      "portion_estimate": "140 g",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded patty/cutlet (with ketchup on top)",
+      "portion_estimate": "120 g",
+      "confidence": "65"
+    },
+    {
+      "name": "packaged snack cake (Yomo Food Service)",
+      "portion_estimate": "35 g",
+      "confidence": "85"
+    }
+  ]
+}

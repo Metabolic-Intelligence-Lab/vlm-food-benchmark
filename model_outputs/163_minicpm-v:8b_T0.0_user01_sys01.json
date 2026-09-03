@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain, approx. bowl size",
+      "confidence": "50"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain, approx. standard bread roll weight",
+      "confidence": "60"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "uncertain, approx. 125g",
+      "confidence": "70"
+    },
+    {
+      "name": "mushroom with green sauce on top",
+      "portion_estimate": "uncertain, approx. plate size",
+      "confidence": "60"
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "70"
+    }
+  ]
+}

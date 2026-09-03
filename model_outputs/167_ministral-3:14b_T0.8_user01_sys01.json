@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "fried dumplings (e.g., gyoza or potstickers)",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "cooking oil residue on dumplings (visible on surface)",
+      "portion_estimate": "5",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Rigatoni with Tomato Sauce and Parmesan",
+      "portion_estimate": "0.16 kg",
+      "confidence": 90
+    },
+    {
+      "name": "Chicken Breast with Broccoli and Carrots",
+      "portion_estimate": "0.076 kg",
+      "confidence": 80
+    },
+    {
+      "name": "Still Water",
+      "portion_estimate": "0.025 kg",
+      "confidence": 95
+    }
+  ]
+}

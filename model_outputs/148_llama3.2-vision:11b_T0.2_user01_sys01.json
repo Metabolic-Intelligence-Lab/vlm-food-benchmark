@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green pasta dish",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "yellow circular item topped with orange pieces",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "purple grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

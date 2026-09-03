@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Yellow Lemon",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta with Sauce in white plate",
+      "portion_estimate": "300 grams",
+      "confidence": "60"
+    }
+  ]
+}

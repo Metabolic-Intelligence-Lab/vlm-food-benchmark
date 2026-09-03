@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "two small boiled eggs",
+      "portion_estimate": "10",
+      "confidence": "80"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

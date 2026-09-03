@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "120 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Cooked rice with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "120 grams",
+      "confidence": "90"
+    }
+  ]
+}

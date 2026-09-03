@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked pasta (short tubes) with grated cheese",
+      "portion_estimate": "260 g",
+      "confidence": "78"
+    },
+    {
+      "name": "mixed salad (lettuce, shredded carrot, beetroot)",
+      "portion_estimate": "130 g",
+      "confidence": "82"
+    },
+    {
+      "name": "panini/toasted sandwich piece",
+      "portion_estimate": "110 g",
+      "confidence": "70"
+    },
+    {
+      "name": "sliced bread (2 slices)",
+      "portion_estimate": "60 g",
+      "confidence": "77"
+    },
+    {
+      "name": "banana (whole, peeled weight not shown)",
+      "portion_estimate": "120 g",
+      "confidence": "84"
+    }
+  ]
+}

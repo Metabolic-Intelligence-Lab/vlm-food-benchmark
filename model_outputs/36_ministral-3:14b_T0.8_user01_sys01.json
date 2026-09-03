@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried tater tots or crispy potato wedges",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "cabbage and cucumber salad with lemon wedge",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "baked garlic herb croquettes (or fried potato balls)",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "honey or sweet chili dipping sauce",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "wrapped sandwich or muffin (brand visible: \"McDonald's\")",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    }
+  ]
+}

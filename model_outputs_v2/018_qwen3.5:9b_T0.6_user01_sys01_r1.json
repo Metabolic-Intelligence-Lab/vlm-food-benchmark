@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Baked white fish fillet with herbs",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Rotini pasta with tomato and vegetable sauce",
+      "portion_estimate": 200,
+      "confidence": 90
+    },
+    {
+      "name": "Mixed coleslaw salad (shredded cabbage, carrots)",
+      "portion_estimate": 130,
+      "confidence": 95
+    },
+    {
+      "name": "Soda beverage",
+      "portion_estimate": 240,
+      "confidence": 85
+    }
+  ]
+}

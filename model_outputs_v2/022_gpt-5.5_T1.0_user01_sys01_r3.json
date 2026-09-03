@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "90 g",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked carrots",
+      "portion_estimate": "35 g",
+      "confidence": "85"
+    },
+    {
+      "name": "boiled potato pieces",
+      "portion_estimate": "25 g",
+      "confidence": "75"
+    },
+    {
+      "name": "orange cooked pasta or squash dish, uncertain",
+      "portion_estimate": "140 g",
+      "confidence": "55"
+    },
+    {
+      "name": "yellow couscous or rice pilaf with small white meat pieces",
+      "portion_estimate": "180 g",
+      "confidence": "65"
+    },
+    {
+      "name": "packaged bread roll or sliced wholegrain bread",
+      "portion_estimate": "60 g",
+      "confidence": "90"
+    },
+    {
+      "name": "sealed yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 g",
+      "confidence": "90"
+    }
+  ]
+}

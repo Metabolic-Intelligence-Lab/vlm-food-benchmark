@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of vegetable soup with cheese",
+      "portion_estimate": "350 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat roll",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "breaded balls with cabbage",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    }
+  ]
+}

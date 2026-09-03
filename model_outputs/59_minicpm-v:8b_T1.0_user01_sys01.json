@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed salad",
+      "portion_estimate": "uncertain, approx. 300g",
+      "confidence": "75"
+    },
+    {
+      "name": "Apple pie with a bite taken out of it",
+      "portion_estimate": "uncertain, approx. 120-150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Plums (red and purple)",
+      "portion_estimate": "uncertain, approx. 100g each for red plums; additional weight not estimated as color is unclear from the image provided.",
+      "confidence": "50-60"
+    }
+  ]
+}

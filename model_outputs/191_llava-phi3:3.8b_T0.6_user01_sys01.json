@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "white bowl with carrots and rolls",
+      "portion_estimate": "120 grams of carrots, 3 brown rolls",
+      "confidence": "90"
+    },
+    {
+      "name": "bowl filled with green soup",
+      "portion_estimate": "250 grams of soup",
+      "confidence": "80"
+    },
+    {
+      "name": "white bowl with a red lid",
+      "portion_estimate": "150 grams of sauce or dressing",
+      "confidence": "70"
+    }
+  ]
+}

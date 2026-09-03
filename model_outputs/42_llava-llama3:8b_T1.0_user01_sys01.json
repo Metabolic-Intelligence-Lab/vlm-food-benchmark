@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomatoes and parsley",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "three peeled oranges",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "three falafel balls",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roasted mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "purple cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "whole grain bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "green grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 78
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spinach",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "buns",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "bottle of water",
+      "portion_estimate": "500",
+      "confidence": "80"
+    }
+  ]
+}

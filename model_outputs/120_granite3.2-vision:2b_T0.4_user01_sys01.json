@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red sauce (ketchup or barbecue sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "white spread (mayonnaise or mustard)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "yogurt (Yoplait)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

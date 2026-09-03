@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fluffy white rice",
+      "portion_estimate": "300g",
+      "confidence": "95"
+    },
+    {
+      "name": "Mixed salad with protein and vegetables",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Steamed mixed vegetables (carrots and potato/squash)",
+      "portion_estimate": "250g",
+      "confidence": "95"
+    },
+    {
+      "name": "Plain bread roll/bun",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    }
+  ]
+}

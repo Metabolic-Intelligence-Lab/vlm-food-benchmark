@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Green Beans",
+      "portion_estimate": "80g",
+      "confidence": 95
+    },
+    {
+      "name": "Chicken Sandwich",
+      "portion_estimate": "110g",
+      "confidence": 75
+    },
+    {
+      "name": "Leafy Greens (Spinach/Kale)",
+      "portion_estimate": "60g",
+      "confidence": 65
+    }
+  ]
+}

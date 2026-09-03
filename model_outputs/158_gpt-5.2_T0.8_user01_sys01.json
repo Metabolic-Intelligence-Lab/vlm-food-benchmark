@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "meatballs in sauce",
+      "portion_estimate": "190 g",
+      "confidence": "70"
+    },
+    {
+      "name": "rectangular baked savory pastry/pie slice (uncertain filling)",
+      "portion_estimate": "130 g",
+      "confidence": "55"
+    },
+    {
+      "name": "cooked fusilli pasta with tomato sauce",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated cheese (likely parmesan) on pasta",
+      "portion_estimate": "8 g",
+      "confidence": "70"
+    },
+    {
+      "name": "round bread roll/bun",
+      "portion_estimate": "55 g",
+      "confidence": "75"
+    },
+    {
+      "name": "whole pear",
+      "portion_estimate": "170 g",
+      "confidence": "70"
+    }
+  ]
+}

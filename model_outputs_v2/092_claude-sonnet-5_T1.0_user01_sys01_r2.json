@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable and legume soup (minestrone-style with parmesan)",
+      "portion_estimate": "350",
+      "confidence": "75"
+    },
+    {
+      "name": "grated parmesan cheese topping",
+      "portion_estimate": "10",
+      "confidence": "60"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded fried croquette/patty (round, sesame-crusted)",
+      "portion_estimate": "80",
+      "confidence": "55"
+    },
+    {
+      "name": "sauteed purple cabbage",
+      "portion_estimate": "60",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "bananas (two, whole)",
+      "portion_estimate": "200",
+      "confidence": "80"
+    }
+  ]
+}

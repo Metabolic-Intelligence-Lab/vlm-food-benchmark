@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with olive oil and herbs (aglio e olio style)",
+      "portion_estimate": "230 g",
+      "confidence": "78"
+    },
+    {
+      "name": "baked fish fillet with herb crust",
+      "portion_estimate": "140 g",
+      "confidence": "72"
+    },
+    {
+      "name": "cooked artichoke pieces",
+      "portion_estimate": "120 g",
+      "confidence": "66"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "170 g",
+      "confidence": "88"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "85"
+    }
+  ]
+}

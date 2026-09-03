@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "rice and vegetable mixture",
+      "portion_estimate": "20-30 grams",
+      "confidence": 85
+    },
+    {
+      "name": "black and green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "meat",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

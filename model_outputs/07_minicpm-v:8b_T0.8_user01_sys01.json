@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "uncertain, possibly a standard size roll",
+      "confidence": "40"
+    },
+    {
+      "name": "Salad with Lettuce and Carrots",
+      "portion_estimate": "approx. 150-200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Chickpea Dish",
+      "portion_estimate": "approx. 300-400 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried Chicken Fillet (uncertain)",
+      "portion_estimate": "possibly a standard size, approx. 150-200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread Roll with Butter",
+      "portion_estimate": "approx. 100-120 grams",
+      "confidence": "70"
+    }
+  ]
+}

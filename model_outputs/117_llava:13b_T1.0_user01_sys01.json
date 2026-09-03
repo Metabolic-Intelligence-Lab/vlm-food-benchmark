@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chili con carne",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "mixed rice dish",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "condiment or sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "sliced bread",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

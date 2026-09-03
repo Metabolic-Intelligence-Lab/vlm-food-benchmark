@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta, generously coated with cheese and garnished with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad with fresh vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "cup of tea",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

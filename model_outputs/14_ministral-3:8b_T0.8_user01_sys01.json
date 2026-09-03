@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad (radicchio, carrots, shredded cabbage)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with tomato sauce (rigatoni/pappardelle-like)",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll (garlic or plain)",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "fried or baked cutlet (chicken or vegetable-based, garnished with tomato and herbs)",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

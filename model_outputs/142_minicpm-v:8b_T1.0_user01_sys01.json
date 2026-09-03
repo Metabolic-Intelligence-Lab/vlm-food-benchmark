@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "grits",
+      "portion_estimate": "200-300g",
+      "confidence": "85"
+    },
+    {
+      "name": "boiled egg and beans salad",
+      "portion_estimate": "100-150g (egg) + 60-90g (beans)",
+      "confidence": "70"
+    },
+    {
+      "name": "breadstick or roll",
+      "portion_estimate": "uncertain, approx. small breadstick/roll size",
+      "confidence": "45"
+    }
+  ]
+}

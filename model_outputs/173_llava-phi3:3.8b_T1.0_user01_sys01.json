@@ -1,0 +1,27 @@
+{
+  "plates": [
+    {
+      "type": "meat",
+      "content": "sausage and eggs"
+    },
+    {
+      "type": "pasta",
+      "content": "macaroni"
+    }
+  ],
+  "other_food": {
+    "butter": [
+      {
+        "brand": "Kirkland Signature",
+        "amount": "1 piece"
+      }
+    ],
+    "oranges": [
+      {
+        "number": 2
+      }
+    ]
+  },
+  "tray": "green plate holder",
+  "table": "wooden"
+}

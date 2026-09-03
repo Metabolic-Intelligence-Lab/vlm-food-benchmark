@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "green leafy vegetables (e.g., kale or collard greens)",
+      "portion_estimate": "150g (approximate)",
+      "confidence": 70
+    },
+    {
+      "name": "mashed or mixed vegetables (likely squash or sweet potato)",
+      "portion_estimate": "200g (approximate)",
+      "confidence": 75
+    },
+    {
+      "name": "rice or couscous (white/golden)",
+      "portion_estimate": "100g (approximate)",
+      "confidence": 70
+    },
+    {
+      "name": "grilled salmon or fish fillet",
+      "portion_estimate": "180g (approximate)",
+      "confidence": 85
+    },
+    {
+      "name": "pan-seared or roasted potato cubes (hash browns or diced potatoes)",
+      "portion_estimate": "200g (approximate)",
+      "confidence": 75
+    },
+    {
+      "name": "cream-based condiment (likely sour cream or cheese sauce)",
+      "portion_estimate": "80g (approximate)",
+      "confidence": 70
+    },
+    {
+      "name": "packaged butter or dairy spread (unidentified flavor)",
+      "portion_estimate": "15g (uncertain, appears to be part of a small packaging)",
+      "confidence": 65
+    },
+    {
+      "name": "whole grain roll (buttered)",
+      "portion_estimate": "60g (approximate)",
+      "confidence": 70
+    }
+  ]
+}

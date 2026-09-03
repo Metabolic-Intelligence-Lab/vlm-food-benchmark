@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "water, small plastic cup",
+      "portion_estimate": "300 ml (~30g water if considering volume estimate)",
+      "confidence": 95
+    },
+    {
+      "name": "salad with cabbage, carrots, onion",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "fried chicken croquette",
+      "portion_estimate": "120 grams (based on a single croquette being roughly this size)",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with meat sauce",
+      "portion_estimate": "250 grams",
+      "confidence": 92
+    },
+    {
+      "name": "white sandwich roll (in tray), partially eaten",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chili",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Potato wedges with a sauce",
+      "portion_estimate": "uncertain, approx 230g",
+      "confidence": "70"
+    },
+    {
+      "name": "Egg muffin with spinach and mushrooms",
+      "portion_estimate": "approx. 150-200g",
+      "confidence": "80"
+    },
+    {
+      "name": "White bun, partially eaten",
+      "portion_estimate": "uncertain, approx 60g",
+      "confidence": "40"
+    },
+    {
+      "name": "Cottage cheese cup with a red lid",
+      "portion_estimate": "uncertain, approx. 50-120g (based on average size)",
+      "confidence": "70"
+    }
+  ]
+}

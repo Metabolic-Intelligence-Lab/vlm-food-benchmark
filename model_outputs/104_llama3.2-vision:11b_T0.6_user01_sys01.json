@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }
+  ]
+}

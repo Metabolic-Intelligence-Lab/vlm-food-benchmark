@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "egg",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "rice (bowl)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "coke",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

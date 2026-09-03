@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (plain)",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "rigatoni pasta with tomato-based meat sauce",
+      "portion_estimate": "260 g",
+      "confidence": "70"
+    },
+    {
+      "name": "roasted diced potatoes (seasoned)",
+      "portion_estimate": "170 g",
+      "confidence": "75"
+    },
+    {
+      "name": "baked eggplant with melted shredded cheese (eggplant parm-style)",
+      "portion_estimate": "150 g",
+      "confidence": "65"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "150 g",
+      "confidence": "78"
+    }
+  ]
+}

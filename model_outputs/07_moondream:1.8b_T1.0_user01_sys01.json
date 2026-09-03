@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "salad and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "English muffin sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "chips (possibly cornichons)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "English muffin sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

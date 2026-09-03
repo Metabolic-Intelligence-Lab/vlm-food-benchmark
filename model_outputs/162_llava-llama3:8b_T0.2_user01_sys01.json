@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread with diced potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "broccoli and cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "creamy soup with croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Savory pastry or flatbread piece",
+      "portion_estimate": "120 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "White bread roll",
+      "portion_estimate": "95 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "Roasted green vegetables (or small potatoes)",
+      "portion_estimate": "90 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Curry or soup",
+      "portion_estimate": "280 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Apple (medium size)",
+      "portion_estimate": "180 grams",
+      "confidence": "100"
+    }
+  ]
+}

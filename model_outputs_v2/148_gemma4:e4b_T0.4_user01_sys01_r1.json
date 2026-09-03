@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pesto or spinach pasta with cheese topping",
+      "portion_estimate": "220",
+      "confidence": "95"
+    },
+    {
+      "name": "Steamed or roasted cauliflower florets",
+      "portion_estimate": "280",
+      "confidence": "95"
+    },
+    {
+      "name": "Dark olives",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "Small bread roll or loaf",
+      "portion_estimate": "120",
+      "confidence": "90"
+    }
+  ]
+}

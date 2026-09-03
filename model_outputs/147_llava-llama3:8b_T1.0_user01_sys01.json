@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spiral noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "mixed fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "roast beef",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

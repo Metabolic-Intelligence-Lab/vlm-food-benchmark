@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish with red sauce",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Salad with mixed greens and croutons",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "1",
+      "confidence": "80"
+    },
+    {
+      "name": "Plain white bread roll",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }
+  ]
+}

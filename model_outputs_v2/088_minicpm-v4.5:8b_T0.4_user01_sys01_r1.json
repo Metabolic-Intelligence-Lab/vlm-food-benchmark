@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto and grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "whole wheat roll",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "farro with peas",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "mushroom and cheese omelette (or frittata) slice",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": 95
+    }
+  ]
+}

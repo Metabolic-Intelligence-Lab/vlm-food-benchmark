@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roasted chickpeas with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mashed potatoes or roasted sweet potato chunks",
+      "portion_estimate": "approx. 20g each, total approx. 180g",
+      "confidence": "90"
+    },
+    {
+      "name": "broiled salmon with grilled eggplant on top",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ],
+  "unidentified_items": [
+    {
+      "description": "White bread roll or muffin, partially visible",
+      "confidence": "40"
+    },
+    {
+      "description": "A cup with a red and white label, likely yogurt or salad dressing, partly out of view",
+      "confidence": "60"
+    }
+  ]
+}

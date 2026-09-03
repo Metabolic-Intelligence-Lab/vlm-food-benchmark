@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "uncertain, approximately a serving size of spaghetti (80g)",
+      "confidence": "50"
+    },
+    {
+      "name": "broccoli and vegetable stir-fry",
+      "portion_estimate": "uncertain, possibly 1 cup (~240g) depending on the volume of vegetables used in preparation",
+      "confidence": "60"
+    },
+    {
+      "name": "quiche slice with cheese topping",
+      "portion_estimate": "uncertain, approximately a single serving size (95g)",
+      "confidence": "70"
+    },
+    {
+      "name": "peeled yellow peach",
+      "portion_estimate": "uncertain, possibly 1/2 cup (~83g) depending on the size of the fruit used in preparation",
+      "confidence": "60"
+    }
+  ]
+}

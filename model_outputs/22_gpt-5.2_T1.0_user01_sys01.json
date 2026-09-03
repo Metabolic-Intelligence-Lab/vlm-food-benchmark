@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with diced carrots (cooked)",
+      "portion_estimate": "170 g",
+      "confidence": "78"
+    },
+    {
+      "name": "couscous with mixed vegetables (cooked)",
+      "portion_estimate": "180 g",
+      "confidence": "72"
+    },
+    {
+      "name": "orange vegetable stew (likely carrot/pumpkin/sweet potato pieces, cooked)",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    },
+    {
+      "name": "mixed grains/salad with diced vegetables and herbs (cooked, small portion on plate)",
+      "portion_estimate": "60 g",
+      "confidence": "58"
+    },
+    {
+      "name": "sliced multigrain bread (in plastic wrap)",
+      "portion_estimate": "60 g",
+      "confidence": "70"
+    },
+    {
+      "name": "strawberry yogurt (cup)",
+      "portion_estimate": "125 g",
+      "confidence": "80"
+    },
+    {
+      "name": "water (in cup)",
+      "portion_estimate": "200 g",
+      "confidence": "65"
+    }
+  ]
+}

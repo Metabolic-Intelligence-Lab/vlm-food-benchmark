@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Baked chicken breast with tomato sauce and grated cheese",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Cucumber and onion salad",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    }
+  ]
+}

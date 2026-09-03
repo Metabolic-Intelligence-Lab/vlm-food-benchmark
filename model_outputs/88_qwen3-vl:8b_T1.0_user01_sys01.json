@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta",
+      "portion_estimate": "180g",
+      "confidence": 100
+    },
+    {
+      "name": "Farro with green peas",
+      "portion_estimate": "150g",
+      "confidence": 100
+    },
+    {
+      "name": "Quiche slice",
+      "portion_estimate": "150g",
+      "confidence": 100
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120g",
+      "confidence": 100
+    },
+    {
+      "name": "Bread roll (packaged)",
+      "portion_estimate": "80g",
+      "confidence": 100
+    }
+  ]
+}

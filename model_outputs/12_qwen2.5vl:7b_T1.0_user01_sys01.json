@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried egg",
+      "portion_estimate": "60 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "fried potatoes",
+      "portion_estimate": "80 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    }
+  ]
+}

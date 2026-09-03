@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce and cheese",
+      "portion_estimate": "250 grams",
+      "confidence": 80
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "white beans",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pastry with pesto",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    }
+  ]
+}

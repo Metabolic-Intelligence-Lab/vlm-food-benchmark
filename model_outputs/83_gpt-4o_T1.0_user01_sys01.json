@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "salmon fillet on grilled eggplant with herbs",
+      "portion_estimate": "120 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "steamed kale with chickpeas and cornmeal",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": "uncertain"
+    }
+  ]
+}

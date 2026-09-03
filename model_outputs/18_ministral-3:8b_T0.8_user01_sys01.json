@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish (cutlets)",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with tomato sauce (pappardelle or similar)",
+      "portion_estimate": "180 grams (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "mixed salad (shredded cabbage, orange slices, possibly other mixed greens and veggies)",
+      "portion_estimate": "120 grams",
+      "confidence": 70
+    },
+    {
+      "name": "red wine",
+      "portion_estimate": "uncertain (less than 100ml)",
+      "confidence": 55
+    },
+    {
+      "name": "water or clear liquid in glass",
+      "portion_estimate": "uncertain (around 200ml)",
+      "confidence": 55
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (macaroni or similar noodle dish)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "string beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "spinach or other leafy green",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "fruit salad or dessert with peaches and grapefruit",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "condiments or side dish",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

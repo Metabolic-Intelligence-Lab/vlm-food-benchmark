@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green pasta with pesto",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "steamed green beans",
+      "portion_estimate": "140g",
+      "confidence": 80
+    },
+    {
+      "name": "chana masala with chickpeas and tomatoes",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "160g",
+      "confidence": 80
+    },
+    {
+      "name": "cheese roll with pesto sauce",
+      "portion_estimate": "uncertain, approx. small serving size",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (rigatoni)",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "chicken salad mixture",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "30",
+      "confidence": 95
+    },
+    {
+      "name": "tomato wedges",
+      "portion_estimate": "40",
+      "confidence": 90
+    }
+  ]
+}

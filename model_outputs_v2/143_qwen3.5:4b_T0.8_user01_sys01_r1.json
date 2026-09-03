@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked salmon fillets",
+      "portion_estimate": "150-200 g",
+      "confidence": 95
+    },
+    {
+      "name": "Roasted potatoes with herbs",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "Broccoli (steamed or roasted)",
+      "portion_estimate": "120-150 g",
+      "confidence": 95
+    },
+    {
+      "name": "Whole grain bread roll",
+      "portion_estimate": "60-80 g",
+      "confidence": 90
+    },
+    {
+      "name": "Potato-based dip (e.g. Yommo)",
+      "portion_estimate": "150 g",
+      "confidence": 85
+    }
+  ]
+}

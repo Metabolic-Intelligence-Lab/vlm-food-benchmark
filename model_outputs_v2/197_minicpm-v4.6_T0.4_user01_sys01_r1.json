@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with breaded components",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "broccoli and meatballs",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "70g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50g",
+      "confidence": 90
+    }
+  ]
+}

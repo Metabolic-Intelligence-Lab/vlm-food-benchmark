@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "brown rice with lentils (dal)",
+      "portion_estimate": 300,
+      "confidence": 90
+    },
+    {
+      "name": "steamed cauliflower florets",
+      "portion_estimate": 80,
+      "confidence": 85
+    },
+    {
+      "name": "quinoa or couscous salad with mixed vegetables and feta",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "cheese slice (brie or similar)",
+      "portion_estimate": 30,
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat crackers or biscuits (le Polphire brand)",
+      "portion_estimate": 20,
+      "confidence": 75
+    },
+    {
+      "name": "buttered corn",
+      "portion_estimate": 30,
+      "confidence": 70
+    },
+    {
+      "name": "unidentified packaged snack (shape not clearly visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

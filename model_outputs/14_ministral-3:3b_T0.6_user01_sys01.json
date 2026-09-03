@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "water (glass)",
+      "portion_estimate": "240 grams",
+      "confidence": 95
+    },
+    {
+      "name": "crudit\u00e9 salad (carrot, onion, beet, lettuce)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "baguette (whole)",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with tomato sauce (penne)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "fried breaded chicken/crab cake (small)",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    }
+  ]
+}

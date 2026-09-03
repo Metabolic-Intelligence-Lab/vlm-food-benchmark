@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta Salad",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "3 pieces",
+      "confidence": "95"
+    },
+    {
+      "name": "Cucumber Salad",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bowl of Water",
+      "portion_estimate": "1 cup",
+      "confidence": "95"
+    }
+  ]
+}

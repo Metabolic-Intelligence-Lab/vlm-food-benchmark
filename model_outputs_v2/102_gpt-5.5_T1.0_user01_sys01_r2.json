@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "baked pasta with breadcrumb/cheese topping",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    },
+    {
+      "name": "sauced chicken or meat cutlet with vegetable garnish, uncertain",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "berry yogurt or cream dessert cup",
+      "portion_estimate": "110 g",
+      "confidence": "70"
+    }
+  ]
+}

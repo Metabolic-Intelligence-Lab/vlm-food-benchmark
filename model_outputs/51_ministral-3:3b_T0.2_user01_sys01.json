@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "shredded cheese (cheddar or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "saut\u00e9ed onions or caramelized onions",
+      "portion_estimate": "~100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "scrambled eggs (or egg mixture)",
+      "portion_estimate": "~150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "crispy fried egg yolk or fried egg topper",
+      "portion_estimate": "~20 grams",
+      "confidence": 70
+    },
+    {
+      "name": "bacon bits or crispy bacon",
+      "portion_estimate": "~30 grams",
+      "confidence": 75
+    }
+  ]
+}

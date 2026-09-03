@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup or stew with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "diced vegetables (carrots or bell peppers)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fruit (oranges or tangerines)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "slice of meat or fish (sandwich or snack)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

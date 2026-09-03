@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chopsticks Soup with Noodles and Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Salmon (cooked)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Salmon (raw)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Noodles (plain)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Toasted Bagel",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

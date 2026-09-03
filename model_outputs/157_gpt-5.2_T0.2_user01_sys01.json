@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "shell pasta (conchiglie) with tomato sauce",
+      "portion_estimate": "260 g",
+      "confidence": "75"
+    },
+    {
+      "name": "grated parmesan cheese (on pasta)",
+      "portion_estimate": "8 g",
+      "confidence": "65"
+    },
+    {
+      "name": "cooked lentils",
+      "portion_estimate": "190 g",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded fish pieces (likely white fish)",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "small roasted eggplant slice",
+      "portion_estimate": "20 g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "80"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    }
+  ]
+}

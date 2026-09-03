@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Indian cuisine",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Rice with curry and vegetables",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Sliced carrot",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "70g",
+      "confidence": "60"
+    },
+    {
+      "name": "Pita bread",
+      "portion_estimate": "50g",
+      "confidence": "50"
+    }
+  ]
+}

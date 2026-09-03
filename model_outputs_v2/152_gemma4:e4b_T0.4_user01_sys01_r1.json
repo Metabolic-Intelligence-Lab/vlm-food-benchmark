@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Savory turnover or quiche slice",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Diced cooked vegetables (e.g., squash or sweet potato)",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked roll or bun",
+      "portion_estimate": "110g",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta or noodles with seasoning/cheese",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Whole olives or roasted vegetables",
+      "portion_estimate": "50g",
+      "confidence": "75"
+    }
+  ]
+}

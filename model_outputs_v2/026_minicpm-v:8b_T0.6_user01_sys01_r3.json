@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken nuggets",
+      "portion_estimate": "20-30 grams each",
+      "confidence": "75"
+    },
+    {
+      "name": "Garlic roasted potatoes with nuts",
+      "portion_estimate": "100-150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Steamed spinach or kale",
+      "portion_estimate": "30-40 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Whole grain bread roll",
+      "portion_estimate": "60-75 grams",
+      "confidence": "85"
+    }
+  ]
+}

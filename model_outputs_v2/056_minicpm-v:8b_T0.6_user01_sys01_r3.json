@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken fillet",
+      "portion_estimate": "150-200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed vegetables with meatballs and mushrooms",
+      "portion_estimate": "uncertain, possibly 300-400g total for all components combined",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta (penne) in tomato sauce",
+      "portion_estimate": "150-200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approximately 60-90g based on standard size",
+      "confidence": "70"
+    },
+    {
+      "name": "Water in a cup",
+      "portion_estimate": "uncertain, likely around 250ml",
+      "confidence": "60"
+    }
+  ]
+}

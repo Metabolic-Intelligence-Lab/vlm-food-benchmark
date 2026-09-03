@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy Soup with Meat and Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Mixed Greens (Arugula or Spinach)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Chicken Wings (Crispy)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Black Seaweed",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Red Container (Condiments/Sauces)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "pizza",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "lettuce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "wine",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

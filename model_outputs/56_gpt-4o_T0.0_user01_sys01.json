@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded cutlet",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed vegetables with mushrooms",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250 ml",
+      "confidence": "95"
+    }
+  ]
+}

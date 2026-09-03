@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with fried egg",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "vegetables (zucchini and potatoes)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

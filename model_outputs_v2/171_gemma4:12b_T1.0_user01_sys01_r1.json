@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "saut\u00e9ed leafy greens (spinach)",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "yogurt drink",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "steamed green beans",
+      "portion_estimate": "180",
+      "confidence": "95"
+    },
+    {
+      "name": "steamed white fish",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "crackers",
+      "portion_estimate": "40",
+      "confidence": "90"
+    }
+  ]
+}

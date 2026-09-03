@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sliced vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

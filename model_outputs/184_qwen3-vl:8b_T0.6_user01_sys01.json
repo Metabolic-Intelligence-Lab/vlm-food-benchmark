@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion": 60,
+      "confidence": 80
+    },
+    {
+      "name": "mixed green salad",
+      "portion": 120,
+      "confidence": 80
+    },
+    {
+      "name": "grilled fish",
+      "portion": 120,
+      "confidence": 80
+    },
+    {
+      "name": "quinoa",
+      "portion": 80,
+      "confidence": 80
+    },
+    {
+      "name": "stuffed vegetables with herbs",
+      "portion": 40,
+      "confidence": 70
+    },
+    {
+      "name": "grape",
+      "portion": 12,
+      "confidence": 90
+    }
+  ]
+}

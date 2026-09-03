@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce and grated cheese",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "baked sweet potato with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "chopped pickled vegetables",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "YOMO foodsauce",
+      "portion_estimate": "10 grams",
+      "confidence": 95
+    }
+  ]
+}

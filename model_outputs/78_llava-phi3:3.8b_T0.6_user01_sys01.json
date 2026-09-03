@@ -1,0 +1,53 @@
+{
+  "tray": {
+    "items": [
+      {
+        "name": "soup",
+        "type": "condensed milk can",
+        "quantity": 1,
+        "weight": "500g"
+      },
+      {
+        "name": "carrots",
+        "type": "shredded",
+        "quantity": 200,
+        "weight": "200g"
+      },
+      {
+        "name": "orange slices",
+        "type": "whole",
+        "quantity": 8,
+        "weight": "50g"
+      },
+      {
+        "name": "bread rolls",
+        "type": "white flour",
+        "quantity": 2,
+        "weight": "100g"
+      },
+      {
+        "name": "mustard",
+        "type": "yellow",
+        "quantity": 1,
+        "weight": "50g"
+      }
+    ],
+    "location": "kitchen countertop",
+    "material": "metal",
+    "dimensions": {
+      "length": "30cm",
+      "width": "40cm",
+      "height": "20cm"
+    },
+    "features": [
+      {
+        "name": "handle on left side",
+        "position": "top"
+      },
+      {
+        "name": "handle on right side",
+        "position": "bottom"
+      }
+    ]
+  }
+}

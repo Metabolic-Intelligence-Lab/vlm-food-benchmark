@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "White beans",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Fish",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "30",
+      "confidence": 80
+    }
+  ]
+}

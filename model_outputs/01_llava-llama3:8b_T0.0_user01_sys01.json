@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "soup with croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fruit yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "burger",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fries",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

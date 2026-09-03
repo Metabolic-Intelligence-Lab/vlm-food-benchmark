@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried cauliflower florets",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "fried cauliflower patty (or croquette)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "cheesy vegetable soup (with visible carrots, potatoes, and cheese topping)",
+      "portion_estimate": "350g",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt (unspecified flavor, likely plain or lightly sweetened)",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll or crackers (partially visible, wrapped)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

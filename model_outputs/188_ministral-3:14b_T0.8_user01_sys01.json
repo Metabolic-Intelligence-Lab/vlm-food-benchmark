@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken and vegetable soup with carrots, potatoes, and celery",
+      "portion_estimate": "300g",
+      "confidence": 85
+    },
+    {
+      "name": "baked or roasted chicken breast",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "steamed green vegetables (likely spinach or kale)",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "unspecified creamy sauce or condiment (small container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

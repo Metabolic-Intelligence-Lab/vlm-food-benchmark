@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green beans in sauce",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "poultry with gravy (chicken or turkey)",
+      "portion_estimate": "90",
+      "confidence": 80
+    },
+    {
+      "name": "dark leafy greens with cheese",
+      "portion_estimate": "75",
+      "confidence": 85
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "130",
+      "confidence": 90
+    }
+  ]
+}

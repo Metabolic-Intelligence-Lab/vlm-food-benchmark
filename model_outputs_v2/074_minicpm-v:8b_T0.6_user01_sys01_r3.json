@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fruit",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "Carrots and Cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "Pasta with Tomato, Red Pepper, and Spinach",
+      "portion_estimate": "250g (estimated)",
+      "confidence": "70-90"
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "Baked Good, possibly a Muffin or Pastry",
+      "portion_estimate": "150g (estimated)",
+      "confidence": "70-90"
+    }
+  ]
+}

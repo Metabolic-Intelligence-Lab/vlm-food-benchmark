@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bean soup with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "salad or similar dish",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "fish with sauce and garnishes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "milk or milk-based beverage",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "partially visible sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

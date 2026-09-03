@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (Macaroni or Penne)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Vegetables (Steamed Broccoli and Carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Yogurt (Greek Yogurt)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

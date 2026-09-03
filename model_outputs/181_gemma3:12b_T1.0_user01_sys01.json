@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti, cooked",
+      "portion_estimate": "110",
+      "confidence": "95"
+    },
+    {
+      "name": "apple pie, square slice",
+      "portion_estimate": "80",
+      "confidence": "85"
+    },
+    {
+      "name": "pear, ripe",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll, white",
+      "portion_estimate": "40",
+      "confidence": "80"
+    },
+    {
+      "name": "grated onion, cooked",
+      "portion_estimate": "30",
+      "confidence": "75"
+    }
+  ]
+}

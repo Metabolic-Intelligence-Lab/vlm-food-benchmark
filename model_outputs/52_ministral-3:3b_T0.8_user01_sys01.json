@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "small baked dish (potato or pasta fritter) on plate",
+      "portion_estimate": "70 grams",
+      "confidence": 95
+    },
+    {
+      "name": "salad mix (cabbage, carrots, possibly other vegetables)",
+      "portion_estimate": "100 grams",
+      "confidence": 92
+    },
+    {
+      "name": "garlic bread or toasted baguette slice",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta with sauce (visible on plate)",
+      "portion_estimate": "150 grams",
+      "confidence": 98
+    },
+    {
+      "name": "small container of butter or margarine (on napkin)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250 milliliters (\u2248 240 grams)",
+      "confidence": 90
+    }
+  ]
+}

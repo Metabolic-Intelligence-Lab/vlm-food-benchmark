@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "red bell pepper",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "yellow squash",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "omelette or grilled cheese sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

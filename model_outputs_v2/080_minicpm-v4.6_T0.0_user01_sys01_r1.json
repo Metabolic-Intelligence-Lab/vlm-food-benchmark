@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed rice and vegetable dish",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Dairy cup (yogurt or cream)",
+      "portion_estimate": "20g",
+      "confidence": 90
+    },
+    {
+      "name": "Potatoes and frittata",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "Bun (packaged)",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "Cheese packet",
+      "portion_estimate": "10g",
+      "confidence": 80
+    }
+  ]
+}

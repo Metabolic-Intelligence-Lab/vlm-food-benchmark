@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with peas, corn, and ham",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Quiche",
+      "portion_estimate": "1 slice estimated at approximately 240g",
+      "confidence": 70
+    },
+    {
+      "name": "Carrots and potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Apricots",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

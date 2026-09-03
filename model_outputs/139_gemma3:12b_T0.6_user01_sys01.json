@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried fish fillet",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "carrot cubes",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "dinner roll",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "strawberry yogurt",
+      "portion_estimate": "150",
+      "confidence": "85"
+    }
+  ]
+}

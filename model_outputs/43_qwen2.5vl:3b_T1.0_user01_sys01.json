@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Cucumber and Apple Salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Macaroni and Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Unwrapped Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt with Fruit",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

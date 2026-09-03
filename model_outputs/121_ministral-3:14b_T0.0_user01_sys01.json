@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (cooked, with grated cheese topping)",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "carrot and cabbage salad mix with shredded carrots and lettuce",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "banana (whole)",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "sliced white bread (partially visible)",
+      "portion_estimate": "30g",
+      "confidence": 80
+    },
+    {
+      "name": "sliced cake with crumb topping (e.g., carrot cake or similar)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    }
+  ]
+}

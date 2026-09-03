@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas (boiled, plain)",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "breaded vegetable patty with tomato sauce and grated cheese",
+      "portion_estimate": "70",
+      "confidence": 85
+    },
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "fruit-flavored yogurt (single-serve cup)",
+      "portion_estimate": "125",
+      "confidence": 95
+    }
+  ]
+}

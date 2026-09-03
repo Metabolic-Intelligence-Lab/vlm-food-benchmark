@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "peas",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "120-180 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "salad greens",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "orange fruit slice",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

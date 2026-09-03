@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (cooked, likely fresh or homemade)",
+      "portion_estimate": 300,
+      "confidence": 85
+    },
+    {
+      "name": "cubed tomatoes (fresh or canned)",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "grated parmesan cheese (topped)",
+      "portion_estimate": 25,
+      "confidence": 75
+    },
+    {
+      "name": "minced basil or green garnish",
+      "portion_estimate": 10,
+      "confidence": 65
+    }
+  ]
+}

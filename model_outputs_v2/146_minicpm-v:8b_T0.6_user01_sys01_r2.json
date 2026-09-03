@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "50"
+    },
+    {
+      "name": "bread (unspecified type)",
+      "portion_estimate": "uncertain, approx. 100-150g",
+      "confidence": "60"
+    },
+    {
+      "name": "crackers",
+      "portion_estimate": "uncertain, approx. 30g each",
+      "confidence": "70"
+    },
+    {
+      "name": "cauliflower (steamed)",
+      "portion_estimate": "uncertain, approx. 150-200g",
+      "confidence": "60"
+    }
+  ]
+}

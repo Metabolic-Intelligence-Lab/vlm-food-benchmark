@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet (likely salmon or similar)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "penne pasta with olive oil and herbs (possibly garlic)",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "mashed potatoes or potato gratin",
+      "portion_estimate": "150 grams",
+      "confidence": 92
+    },
+    {
+      "name": "blueberries",
+      "portion_estimate": "50 grams (approximately 6-7 berries)",
+      "confidence": 85
+    },
+    {
+      "name": "baked or fried bread roll (with butter)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    }
+  ]
+}

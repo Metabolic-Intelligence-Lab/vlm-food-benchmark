@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and parmesan cheese",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked potato with tomato sauce and parmesan cheese",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

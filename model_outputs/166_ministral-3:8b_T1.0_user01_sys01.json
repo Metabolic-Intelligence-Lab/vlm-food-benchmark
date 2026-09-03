@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "buttered rotini pasta",
+      "portion_estimate": "350g",
+      "confidence": 75
+    },
+    {
+      "name": "baked zucchini and cheese wrap/quiche or egg roll",
+      "portion_estimate": "250g",
+      "confidence": 80
+    },
+    {
+      "name": "baby spinach or similar greens",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "whole wheat dinner roll or biscuit",
+      "portion_estimate": "75g",
+      "confidence": 85
+    },
+    {
+      "name": "butter (on tray next to roll)",
+      "portion_estimate": "uncertain (estimated as a small pat ~11g per tbsp, but not measurable in context; unclear portion size)",
+      "confidence": 30
+    },
+    {
+      "name": "creamer or yogurt drink with flavored packet (sugar-free strawberry flavoring)",
+      "portion_estimate": "uncertain (typical 8 oz/236 mL container)",
+      "confidence": 60
+    }
+  ]
+}

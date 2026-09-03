@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked chickpeas",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Savory folded pastry or empanada",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "Second savory folded pastry or empanada",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "Lemon slice",
+      "portion_estimate": "15g",
+      "confidence": "95"
+    },
+    {
+      "name": "Pasta with tomato/red sauce",
+      "portion_estimate": "350g",
+      "confidence": "90"
+    }
+  ]
+}

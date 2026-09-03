@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried fish or breaded cutlet",
+      "portion_estimate": "150-200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "shredded carrots (saut\u00e9ed or raw)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "white sauce or dip (potentially in the container)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "scrambled egg with corn and green beans",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "plain water bottle (visible but not food)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

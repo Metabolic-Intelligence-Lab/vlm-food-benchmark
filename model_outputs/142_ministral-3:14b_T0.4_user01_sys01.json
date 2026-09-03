@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes with cheese or butter",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "baked or grilled fish fillet (possibly cod or similar white fish)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "white beans in tomato sauce",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "whole-grain or sourdough bread slice",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "plums (whole, unpeeled)",
+      "portion_estimate": "100g",
+      "confidence": 90
+    }
+  ]
+}

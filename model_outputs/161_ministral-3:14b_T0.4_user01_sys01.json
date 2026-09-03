@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce and grated cheese",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "mixed vegetable medley (carrots, green beans, peas, corn, and possibly zucchini)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "spinach or kale with crumbled cheese (possibly feta or cottage cheese)",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "baked bread roll (possibly garlic or herb)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "ripe pear",
+      "portion_estimate": "180g",
+      "confidence": 95
+    }
+  ]
+}

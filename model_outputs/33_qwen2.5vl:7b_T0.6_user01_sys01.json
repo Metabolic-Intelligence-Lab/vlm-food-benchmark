@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with tomato sauce",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Cornbread",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250 milliliters",
+      "confidence": 80
+    }
+  ]
+}

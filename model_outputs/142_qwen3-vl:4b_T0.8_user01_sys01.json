@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "120\u2013150 g",
+      "confidence": 70
+    },
+    {
+      "name": "White Beans",
+      "portion_estimate": "150\u2013180 g",
+      "confidence": 70
+    },
+    {
+      "name": "Fish Fillet",
+      "portion_estimate": "150\u2013200 g",
+      "confidence": 65
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "200\u2013250 g",
+      "confidence": 60
+    },
+    {
+      "name": "Bread Slice",
+      "portion_estimate": "30\u201335 g",
+      "confidence": 85
+    }
+  ]
+}

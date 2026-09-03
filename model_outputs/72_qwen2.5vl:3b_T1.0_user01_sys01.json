@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "crumbed chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "carrot chips",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "lentils",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

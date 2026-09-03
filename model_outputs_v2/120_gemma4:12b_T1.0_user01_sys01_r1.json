@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy green soup topped with melted cheese",
+      "portion_estimate": "450g",
+      "confidence": "95"
+    },
+    {
+      "name": "Macaroni and cheese",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Breaded and fried cutlet",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Slice of bread",
+      "portion_estimate": "50g",
+      "confidence": "95"
+    }
+  ]
+}

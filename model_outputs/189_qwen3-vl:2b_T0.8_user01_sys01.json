@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "200g",
+      "confidence": "high"
+    },
+    {
+      "name": "Round food item",
+      "portion_estimate": "30g",
+      "confidence": "high"
+    },
+    {
+      "name": "Bowl of vegetables",
+      "portion_estimate": "100g",
+      "confidence": "high"
+    },
+    {
+      "name": "Crackers package",
+      "portion_estimate": "30g",
+      "confidence": "high"
+    },
+    {
+      "name": "Yogurt container",
+      "portion_estimate": "100g",
+      "confidence": "high"
+    },
+    {
+      "name": "Cheese package",
+      "portion_estimate": "30g",
+      "confidence": "high"
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": "0g",
+      "confidence": "low"
+    }
+  ]
+}

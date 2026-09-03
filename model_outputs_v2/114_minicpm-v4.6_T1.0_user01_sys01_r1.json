@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with sauce and grated cheese",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "bread slice",
+      "portion_estimate": "20 g",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt or cheese cup",
+      "portion_estimate": "50 g",
+      "confidence": 65
+    },
+    {
+      "name": "steamed or roasted potatoes",
+      "portion_estimate": "150 g",
+      "confidence": 98
+    },
+    {
+      "name": "fried cutlet or patty",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "celery sticks",
+      "portion_estimate": "15 g",
+      "confidence": 40
+    }
+  ]
+}

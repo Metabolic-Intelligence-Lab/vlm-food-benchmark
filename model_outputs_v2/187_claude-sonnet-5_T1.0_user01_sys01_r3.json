@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and melted cheese (baked, e.g. rigatoni al forno)",
+      "portion_estimate": "220",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded and fried croquettes/cutlets (2 pieces)",
+      "portion_estimate": "120",
+      "confidence": "60"
+    },
+    {
+      "name": "green beans with breadcrumb topping",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "dark leafy vegetable side (possibly sautéed radicchio or black cabbage)",
+      "portion_estimate": "uncertain",
+      "confidence": "35"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "sliced bread in plastic wrap",
+      "portion_estimate": "40",
+      "confidence": "55"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "75"
+    }
+  ]
+}

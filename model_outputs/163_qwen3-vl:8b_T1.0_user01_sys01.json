@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable Soup",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Whole Wheat Bread Roll",
+      "portion_estimate": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "Cornbread Muffin",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "Roasted Seasonal Vegetables",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Plain Yogurt",
+      "portion_estimate": "100g",
+      "confidence": 70
+    }
+  ]
+}

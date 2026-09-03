@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Sandwich",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Dessert (possibly cheesecake)",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Garnish (broccoli and carrots)",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    }
+  ]
+}

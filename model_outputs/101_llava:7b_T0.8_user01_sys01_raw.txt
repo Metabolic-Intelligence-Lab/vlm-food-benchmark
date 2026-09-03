@@ -1,0 +1,46 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni and cheese",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Grilled chicken with sauce",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Rice pilaf with herbs",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed salad with dressing",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Crispy chicken patty with sauce",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Garlic bread roll",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta salad with sauce",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ]
+}
+```
+Note: The actual serving sizes and portion sizes can vary based on individual preferences and dietary needs. This is an estimate of the portions provided in the ima

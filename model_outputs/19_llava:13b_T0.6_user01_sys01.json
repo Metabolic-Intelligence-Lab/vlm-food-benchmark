@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried eggs",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    },
+    {
+      "name": "sliced bread",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    }
+  ]
+}

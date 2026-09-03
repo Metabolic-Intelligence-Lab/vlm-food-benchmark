@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Penne pasta with cheese and tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    },
+    {
+      "name": "Watermelon slice",
+      "portion_estimate": "120-130g (approx)",
+      "confidence": 90
+    },
+    {
+      "name": "Veggie burger with a side of spices or seasoning",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Sliced watermelon on the plate",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    }
+  ]
+}

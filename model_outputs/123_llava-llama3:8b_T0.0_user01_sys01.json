@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "yellow fish",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "golden french fries",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

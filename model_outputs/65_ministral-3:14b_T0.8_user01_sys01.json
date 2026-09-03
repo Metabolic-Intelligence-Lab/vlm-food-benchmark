@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "yogurt (YOGO brand)",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed green salad with leafy greens and herbs (e.g., mint, parsley, and possibly basil)",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "boiled or steamed potato cubes (e.g., home fries or diced potatoes)",
+      "portion_estimate": "100",
+      "confidence": "88"
+    },
+    {
+      "name": "poached or fried egg with runny yolk",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "baguette or small sandwich roll",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "clear water (empty glass)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

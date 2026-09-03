@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with pesto",
+      "portion_estimate": "uncertain, approximately 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Brussel sprouts",
+      "portion_estimate": "uncertain, approximately 80-120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cheese quiche or frittata",
+      "portion_estimate": "uncertain, approximately 60-90g",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spinach (cooked)",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "fried egg (sunny-side up)",
+      "portion_estimate": "60 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "fried cornmeal patty",
+      "portion_estimate": "60 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "small round bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "brown pastry with green leaf",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "brown pastry with white swirl",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "carton of milk with red label 'TASTA'",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

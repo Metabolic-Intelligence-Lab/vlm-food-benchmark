@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked tubular pasta (Penne style)",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll or small loaf piece",
+      "portion_estimate": "90",
+      "confidence": "85"
+    },
+    {
+      "name": "Red sauce or condiment",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded fried cutlet (e.g., croquette)",
+      "portion_estimate": "110",
+      "confidence": "85"
+    },
+    {
+      "name": "Chopped pickles or green vegetables side",
+      "portion_estimate": "140",
+      "confidence": "85"
+    }
+  ]
+}

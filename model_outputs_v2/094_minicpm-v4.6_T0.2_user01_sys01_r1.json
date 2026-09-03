@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "wrap/tortilla",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "shredded cheese",
+      "portion_estimate": "40 g",
+      "confidence": 80
+    },
+    {
+      "name": "salsa or tomato sauce",
+      "portion_estimate": "20 g",
+      "confidence": 70
+    }
+  ]
+}

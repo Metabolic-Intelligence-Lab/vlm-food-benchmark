@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with Parmesan",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "crudit\u00e9 salad (carrots, lettuce, beets)",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "whole wheat bread",
+      "portion_estimate": "60g",
+      "confidence": 85
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "125g",
+      "confidence": 95
+    },
+    {
+      "name": "apple pie slice",
+      "portion_estimate": "100g",
+      "confidence": 80
+    }
+  ]
+}

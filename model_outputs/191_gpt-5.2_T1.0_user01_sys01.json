@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup (pureed, likely spinach/vegetable)",
+      "portion_estimate": "300 g",
+      "confidence": 70
+    },
+    {
+      "name": "sliced carrots (raw or cooked)",
+      "portion_estimate": "80 g",
+      "confidence": 78
+    },
+    {
+      "name": "breaded fried balls (croquettes/arancini), 2 pieces",
+      "portion_estimate": "120 g",
+      "confidence": 65
+    },
+    {
+      "name": "string cheese (Torinesi), 1 piece",
+      "portion_estimate": "40 g",
+      "confidence": 70
+    },
+    {
+      "name": "small packaged dairy dessert/yogurt cup",
+      "portion_estimate": "100 g",
+      "confidence": 60
+    }
+  ]
+}

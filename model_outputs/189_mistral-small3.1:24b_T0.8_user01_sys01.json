@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "30",
+      "confidence": "70"
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "sauce",
+      "portion_estimate": "20",
+      "confidence": "75"
+    },
+    {
+      "name": "sugar packets",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

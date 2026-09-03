@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli and spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "larger sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "donut bun sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

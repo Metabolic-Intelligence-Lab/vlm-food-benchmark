@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti (likely with tomato-based sauce) served with grated cheese",
+      "portion_estimate": "200g (dry pasta weight, before cooking)",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetables stir-fried (carrots, broccoli, peas, bell peppers, cauliflower)",
+      "portion_estimate": "180g",
+      "confidence": 80
+    },
+    {
+      "name": "portion of avocado salad or pesto with breadcrumbs on a green base (possibly quinoa or greens)",
+      "portion_estimate": "70g",
+      "confidence": 75
+    },
+    {
+      "name": "small white bread roll",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "ripe pear",
+      "portion_estimate": "150g",
+      "confidence": 85
+    }
+  ]
+}

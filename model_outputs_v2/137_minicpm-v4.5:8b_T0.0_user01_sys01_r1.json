@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (rotini)",
+      "portion_estimate": "200-250 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "50-100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "shredded cheese (likely mozzarella or cheddar)",
+      "portion_estimate": "50-100 grams",
+      "confidence": "70"
+    }
+  ]
+}

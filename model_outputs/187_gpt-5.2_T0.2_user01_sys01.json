@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta (short pasta) with tomato sauce and melted cheese",
+      "portion_estimate": "280 g",
+      "confidence": "78"
+    },
+    {
+      "name": "green beans with breadcrumbs/seasoning",
+      "portion_estimate": "160 g",
+      "confidence": "74"
+    },
+    {
+      "name": "breaded fried croquettes/balls (2 pieces)",
+      "portion_estimate": "120 g",
+      "confidence": "58"
+    },
+    {
+      "name": "shredded red cabbage (small side)",
+      "portion_estimate": "35 g",
+      "confidence": "62"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "72"
+    },
+    {
+      "name": "string cheese (mozzarella stick, packaged)",
+      "portion_estimate": "80 g",
+      "confidence": "70"
+    },
+    {
+      "name": "strawberry fruit yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "76"
+    }
+  ]
+}

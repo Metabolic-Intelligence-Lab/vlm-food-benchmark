@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "80 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Egg and broccoli pizza slice",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Rolled up sandwich (possibly a burrito)",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Pasta sauce with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "carrot_slices": {
+    "name": "carrot slices",
+    "portion_size": "20g",
+    "confidence": "90%"
+  },
+  "chicken_wings": {
+    "name": "chicken wings",
+    "portion_size": "30g",
+    "confidence": "90%"
+  },
+  "brussels_sprouts": {
+    "name": "brussels sprouts",
+    "portion_size": "20g",
+    "confidence": "90%"
+  },
+  "apple": {
+    "name": "apple",
+    "portion_size": "100g",
+    "confidence": "95%"
+  },
+  "water": {
+    "name": "water",
+    "portion_size": "250g",
+    "confidence": "95%"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Toasted bread slices",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta (penne/rigatoni) with sauce and cheese",
+      "portion_estimate": "220g",
+      "confidence": "85"
+    },
+    {
+      "name": "Mixed side salad with greens and shredded carrots",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Toasted bread slice",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    }
+  ]
+}

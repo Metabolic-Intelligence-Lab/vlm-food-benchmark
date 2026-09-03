@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with herbs",
+      "portion_estimate": "200g",
+      "confidence": "95"
+    },
+    {
+      "name": "Fried eggplant",
+      "portion_estimate": "150-200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "70g",
+      "confidence": "90"
+    }
+  ]
+}

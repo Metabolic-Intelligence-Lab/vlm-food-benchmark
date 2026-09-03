@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "meatballs or sausages with boiled vegetables (carrots and potatoes)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "crackers or crisps",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mustard",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "mayonnaise",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "seasoning or sauce mix",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

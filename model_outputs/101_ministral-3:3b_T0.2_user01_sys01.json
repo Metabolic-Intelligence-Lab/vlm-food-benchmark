@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "chicken meat (likely fried or seasoned)",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "garlic bread roll",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "sour cream (from container)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sour cream-based sauce (on plate)",
+      "portion_estimate": "30g",
+      "confidence": 80
+    },
+    {
+      "name": "baked dish with cheese sauce (topped with lemon slice)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "15g",
+      "confidence": 90
+    }
+  ]
+}

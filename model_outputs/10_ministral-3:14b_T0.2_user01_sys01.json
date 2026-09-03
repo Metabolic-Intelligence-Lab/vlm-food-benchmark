@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "creamy potato and leek soup with grated cheese topping",
+      "portion_estimate": "450",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted potato wedges with herbs",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed potato with chives",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "baked bread roll (partially wrapped in plastic)",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "sugar packet (unspecified type)",
+      "portion_estimate": "5",
+      "confidence": "70"
+    },
+    {
+      "name": "carbonated beverage (partially visible can)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

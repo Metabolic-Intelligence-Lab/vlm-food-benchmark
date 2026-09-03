@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "dark coffee or espresso",
+      "portion_estimate": "200 grams (approximate cup size)",
+      "confidence": 90
+    },
+    {
+      "name": "sauce or dipping mixture (likely a spicy or tomato-based condiment)",
+      "portion_estimate": "20 grams",
+      "confidence": 85
+    },
+    {
+      "name": "green leafy vegetable salad (e.g., spinach or kale)",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "cucumber slices (on a small container)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green tea pouch or tea bag (labeled 'Matcha BIO')",
+      "portion_estimate": "uncertain (likely 1 tea bag)",
+      "confidence": 70
+    }
+  ]
+}

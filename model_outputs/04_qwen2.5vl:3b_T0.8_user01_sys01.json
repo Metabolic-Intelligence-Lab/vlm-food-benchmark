@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Hamburger Bun",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

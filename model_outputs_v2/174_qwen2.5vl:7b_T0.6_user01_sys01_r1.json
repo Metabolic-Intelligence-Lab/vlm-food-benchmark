@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked fish",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Mixed vegetable stew",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": 60
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "150",
+      "confidence": 70
+    }
+  ]
+}

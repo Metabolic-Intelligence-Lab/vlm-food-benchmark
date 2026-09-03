@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Fish fillet",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "125",
+      "confidence": 80
+    }
+  ]
+}

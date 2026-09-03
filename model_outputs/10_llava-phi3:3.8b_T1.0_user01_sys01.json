@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Miso soup",
+      "portion_estimate": "500g",
+      "confidence": "80"
+    },
+    {
+      "name": "Potato salad with mayo dressing and chopped green onions",
+      "portion_estimate": "1.2Lb",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread rolls wrapped in plastic",
+      "portion_estimate": "6 pieces",
+      "confidence": "75"
+    }
+  ]
+}

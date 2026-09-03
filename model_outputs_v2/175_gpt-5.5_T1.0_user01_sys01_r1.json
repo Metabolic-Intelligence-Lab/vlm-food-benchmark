@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans in tomato or brown sauce",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    },
+    {
+      "name": "creamy chicken or meat in white sauce",
+      "portion_estimate": "120 g",
+      "confidence": "62"
+    },
+    {
+      "name": "cooked leafy greens with potato chunks",
+      "portion_estimate": "140 g",
+      "confidence": "80"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "130 g",
+      "confidence": "95"
+    },
+    {
+      "name": "uncertain packaged bread or roll",
+      "portion_estimate": "50 g",
+      "confidence": "45"
+    }
+  ]
+}

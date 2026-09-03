@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "ground beef (or meat mixture) topped with sauce",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "casserole base with potatoes",
+      "portion_estimate": "200g (approximately 5-6 small potatoes)",
+      "confidence": 75
+    },
+    {
+      "name": "chicken/meat chunks in tomato-based sauce",
+      "portion_estimate": "180g (estimated visible layer including sauce)",
+      "confidence": 70
+    }
+  ]
+}

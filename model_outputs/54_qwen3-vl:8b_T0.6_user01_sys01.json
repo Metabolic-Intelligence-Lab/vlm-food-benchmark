@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "cauliflower florets",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed vegetable salad (cucumber, red cabbage)",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt with berries",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "fish or chicken (protein-based main course)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "vegetables (peas, carrots, etc.)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sugar",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cheese (uncertain, see details)",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Mashed Potatoes with Seasoning",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Green Beans, Sauteed (uncertain)",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread Rolls",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Macaroni and Cheese (uncertain, see details)",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "50"
+    }
+  ]
+}

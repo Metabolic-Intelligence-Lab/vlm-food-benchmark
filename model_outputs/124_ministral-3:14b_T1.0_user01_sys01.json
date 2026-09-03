@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "breaded and fried chicken nuggets (or similar cutlets)",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "cream of carrot or pumpkin soup with added spices",
+      "portion_estimate": "350g",
+      "confidence": 85
+    },
+    {
+      "name": "battered and fried potato croquette (or potato fritter)",
+      "portion_estimate": "65g",
+      "confidence": 90
+    },
+    {
+      "name": "unidentified deep-fried dough or pastry ball",
+      "portion_estimate": "50g",
+      "confidence": 70
+    }
+  ]
+}

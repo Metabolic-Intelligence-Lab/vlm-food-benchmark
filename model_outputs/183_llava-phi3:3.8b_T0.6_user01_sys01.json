@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pie",
+      "portion_estimate": "1/8 of a pie",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "1 medium bread roll",
+      "confidence": "95"
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "1/2 cup of soup",
+      "confidence": "80"
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "6 brussels sprouts",
+      "confidence": "75"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "1 medium apple",
+      "confidence": "80"
+    }
+  ]
+}

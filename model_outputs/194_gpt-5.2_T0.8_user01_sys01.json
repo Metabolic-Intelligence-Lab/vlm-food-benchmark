@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based vegetable/legume soup (minestrone-style)",
+      "portion_estimate": "300 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked leafy greens (spinach/chard-like)",
+      "portion_estimate": "90 g",
+      "confidence": "65"
+    },
+    {
+      "name": "breaded fried patty/cutlet with sauce (uncertain type)",
+      "portion_estimate": "110 g",
+      "confidence": "55"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "mandarin/clementine",
+      "portion_estimate": "80 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "200 g",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+Here is the food image:
+
+**Food Image Description**
+
+* Pasta with cheese
+* Pasta with vegetables
+* Bread
+* Fruits
+
+**Food Items**
+
+* **Pasta with Cheese**
+	+ Type: Pasta
+	+ Cheese: Yes
+	+ Portion Estimate: 200g
+	+ Confidence: 80
+* **Pasta with Vegetables**
+	+ Type: Pasta
+	+ Vegetables: Yes
+	+ Portion Estimate: 150g
+	+ Confidence: 70
+* **Bread**
+	+ Type: Bread
+	+ Portion Estimate: 50g
+	+ Confidence: 90
+* **Fruits**
+	+ Type: Fruits
+	+ Portion Estimate: 100g
+	+ Confidence: 60
+
+**Food Items Summary**
+
+* 1 serving of pasta with cheese (200g)
+* 1 serving of pasta with vegetables (150g)
+* 1 serving of bread (50g)
+* 1 serving of fruits (100g)
+
+**Note:** The portion estimates are approximate and based on visual analysis. The confidence levels are also based on visual analysis and may not be entirely accurate.

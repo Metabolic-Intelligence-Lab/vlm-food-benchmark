@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (rigatoni)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "chicken",
+      "portion_estimate": "50-75 grams",
+      "confidence": 70
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "30-40 grams",
+      "confidence": 75
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "50-75 grams",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt (or creamy dressing)",
+      "portion_estimate": "100-150 grams",
+      "confidence": 70
+    },
+    {
+      "name": "granola or crumbled nuts",
+      "portion_estimate": "20-30 grams",
+      "confidence": 65
+    }
+  ]
+}

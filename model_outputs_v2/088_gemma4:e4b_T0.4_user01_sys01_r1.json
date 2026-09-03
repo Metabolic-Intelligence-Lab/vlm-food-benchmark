@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Seasoned pasta or noodles",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "Green peas and lentils mix",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried fish or cutlet",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll/bun",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    }
+  ]
+}

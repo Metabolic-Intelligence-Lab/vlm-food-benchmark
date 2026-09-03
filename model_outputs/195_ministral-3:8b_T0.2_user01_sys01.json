@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetable stir-fry (potentially including bell peppers, onions, and carrots)",
+      "portion_estimate": "250g",
+      "confidence": 75
+    },
+    {
+      "name": "diced potatoes (likely roasted or fried)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "ground meat (likely beef or pork, possibly seasoned)",
+      "portion_estimate": "180g",
+      "confidence": 70
+    },
+    {
+      "name": "water or clear beverage in glass",
+      "portion_estimate": "uncertain (no visible measurement)",
+      "confidence": 40
+    }
+  ]
+}

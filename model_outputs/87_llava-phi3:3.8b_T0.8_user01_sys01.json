@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "green beans with sauce",
+      "portion_estimate": "80g",
+      "confidence": "50"
+    },
+    {
+      "name": "peach",
+      "portion_estimate": "60g",
+      "confidence": "40"
+    }
+  ]
+}

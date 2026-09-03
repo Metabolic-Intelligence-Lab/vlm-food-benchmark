@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with pesto and cheese",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "Chickpeas and carrot salad",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Whole grain bun",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Portion of stuffed mushroom",
+      "portion_estimate": "50",
+      "confidence": 70
+    }
+  ]
+}

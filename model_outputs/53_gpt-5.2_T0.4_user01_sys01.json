@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato-based sauce and vegetables",
+      "portion_estimate": "230 g",
+      "confidence": "78"
+    },
+    {
+      "name": "white fish fillet (grilled/baked)",
+      "portion_estimate": "140 g",
+      "confidence": "74"
+    },
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "160 g",
+      "confidence": "72"
+    },
+    {
+      "name": "bread roll (bun)",
+      "portion_estimate": "65 g",
+      "confidence": "83"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "60 g",
+      "confidence": "70"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "200 g",
+      "confidence": "67"
+    }
+  ]
+}

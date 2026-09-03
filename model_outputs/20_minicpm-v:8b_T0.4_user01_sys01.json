@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Chicken Wings with Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Green Apple",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Brussel Sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

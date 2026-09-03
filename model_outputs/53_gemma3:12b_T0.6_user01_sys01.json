@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with red sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "peach",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "iced beverage",
+      "portion_estimate": "250",
+      "confidence": "65"
+    }
+  ]
+}

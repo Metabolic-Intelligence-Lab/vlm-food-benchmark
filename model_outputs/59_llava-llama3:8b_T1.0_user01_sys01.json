@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "salad with shredded carrots and lettuce",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "muffin wrapped in clear plastic",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "small biscuit with rich brown sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

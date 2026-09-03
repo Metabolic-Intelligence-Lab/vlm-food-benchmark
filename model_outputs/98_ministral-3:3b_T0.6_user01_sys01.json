@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried egg rolls with cheese sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "crispy fried dough pieces (like a wonton or spring roll crust)",
+      "portion_estimate": "approx. 100-150g total crust (assuming ~3-4 pieces)",
+      "confidence": 85
+    },
+    {
+      "name": "cheese sauce drizzled over egg rolls",
+      "portion_estimate": "approx. 20-30g",
+      "confidence": 70
+    }
+  ]
+}

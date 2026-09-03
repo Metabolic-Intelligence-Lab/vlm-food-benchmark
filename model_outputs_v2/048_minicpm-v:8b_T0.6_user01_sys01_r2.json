@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": "uncertain, approx. weight of plate area covered by noodles and sauce",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "2 oz (approx.) based on standard size for such a roll.",
+      "confidence": "70"
+    },
+    {
+      "name": "Boiled egg with cheese topping and green sauce",
+      "portion_estimate": "uncertain, approx. weight of plate area covered by the whole egg visible in view",
+      "confidence": "50"
+    },
+    {
+      "name": "Potatoes (diced)",
+      "portion_estimate": "2 oz based on common serving size.",
+      "confidence": "70"
+    }
+  ]
+}

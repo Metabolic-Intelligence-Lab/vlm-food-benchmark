@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Beans on a plate",
+      "portion_estimate": "250g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cottage cheese in a glass bowl",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

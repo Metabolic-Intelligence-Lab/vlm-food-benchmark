@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Baked potato topped with salsa and cheese",
+      "portion_estimate": 200,
+      "confidence": 95
+    },
+    {
+      "name": "Side of scrambled eggs",
+      "portion_estimate": 80,
+      "confidence": 90
+    },
+    {
+      "name": "Lemon wedge",
+      "portion_estimate": 15,
+      "confidence": 95
+    },
+    {
+      "name": "Penne pasta with tomato sauce and vegetables (peas/carrots)",
+      "portion_estimate": 200,
+      "confidence": 95
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": 250,
+      "confidence": 98
+    },
+    {
+      "name": "Yoplait yogurt cup (mixed berry flavor)",
+      "portion_estimate": 125,
+      "confidence": 95
+    },
+    {
+      "name": "Pack of crackers",
+      "portion_estimate": 30,
+      "confidence": 90
+    }
+  ]
+}

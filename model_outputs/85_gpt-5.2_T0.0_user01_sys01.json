@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bean or lentil soup/stew with grated cheese on top",
+      "portion_estimate": "320 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked spinach (possibly saut\u00e9ed/steamed)",
+      "portion_estimate": "140 g",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded vegetable patties with melted cheese (2 pieces)",
+      "portion_estimate": "140 g",
+      "confidence": "65"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "170 g",
+      "confidence": "90"
+    },
+    {
+      "name": "plain bread roll (packaged)",
+      "portion_estimate": "55 g",
+      "confidence": "80"
+    }
+  ]
+}

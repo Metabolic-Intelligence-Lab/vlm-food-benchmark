@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meat or vegetable patty",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "red sauce (tomato-based)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fruit salad or yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    }
+  ]
+}

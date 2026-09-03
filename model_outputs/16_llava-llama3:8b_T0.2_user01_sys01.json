@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "burger patty (beef)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "sliced carrots and onions",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "small cubes of potatoes (fried or roasted)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

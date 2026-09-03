@@ -1,0 +1,36 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    },
+    {
+      "name": "biscuit with jam",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "ice cream cone",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    }
+  ],
+  "dining_ware": [
+    {
+      "item": "tray with a plate on it",
+      "material": "white ceramic",
+      "location": "top center of photo"
+    },
+    {
+      "item": "cup and saucer",
+      "material": "glass",
+      "location": "bottom right corner of photo"
+    }
+  ]
+}

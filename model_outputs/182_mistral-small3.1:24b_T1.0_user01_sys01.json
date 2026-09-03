@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "rotini pasta with sauce",
+      "portion_estimate": "350",
+      "confidence": 85
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "flatbread pizza slice",
+      "portion_estimate": "130",
+      "confidence": 85
+    },
+    {
+      "name": "tangerines",
+      "portion_estimate": "100",
+      "confidence": 90
+    }
+  ]
+}

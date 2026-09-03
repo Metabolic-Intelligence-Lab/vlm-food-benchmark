@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "beans",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "donut",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

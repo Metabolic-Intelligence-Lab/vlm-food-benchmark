@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green peas",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed green salad with lettuce, tomatoes, red onion, and other vegetables",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yellow-orange halved hard-boiled egg",
+      "portion_estimate": "50 grams (single egg)",
+      "confidence": 90
+    },
+    {
+      "name": "pasta with pesto (orange spiral pasta)",
+      "portion_estimate": "180 grams (cooked)",
+      "confidence": 80
+    }
+  ]
+}

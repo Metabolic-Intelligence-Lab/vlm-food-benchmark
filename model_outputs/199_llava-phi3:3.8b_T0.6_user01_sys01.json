@@ -1,0 +1,34 @@
+{
+  "tray": [
+    {
+      "name": "bowl of pasta",
+      "contents": "green pasta with cheese on top",
+      "size": "large",
+      "shape": "round"
+    },
+    {
+      "name": "small plate of food",
+      "contents": "meatballs, asparagus, and peas",
+      "size": "medium",
+      "shape": "square"
+    },
+    {
+      "name": "roll on tray",
+      "contents": "bread roll with a bite taken out of it",
+      "size": "small",
+      "shape": "oval"
+    }
+  ],
+  "location": [
+    {
+      "type": "table",
+      "material": "wooden",
+      "color": "white"
+    },
+    {
+      "type": "tray",
+      "material": "plastic",
+      "color": "gray"
+    }
+  ]
+}

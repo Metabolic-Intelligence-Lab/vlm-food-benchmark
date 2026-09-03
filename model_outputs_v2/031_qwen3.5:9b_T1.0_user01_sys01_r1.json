@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with green sauce (likely pesto) and grated cheese",
+      "portion_estimate": 250,
+      "confidence": 95
+    },
+    {
+      "name": "Steamed green beans",
+      "portion_estimate": 130,
+      "confidence": 96
+    },
+    {
+      "name": "Stuffed baked eggplant (appears to contain quiche filling or eggs and cheese)",
+      "portion_estimate": 85,
+      "confidence": 90
+    },
+    {
+      "name": "Baguette or roll bread",
+      "portion_estimate": 70,
+      "confidence": 93
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": 120,
+      "confidence": 98
+    },
+    {
+      "name": "Tap water",
+      "portion_estimate": 150,
+      "confidence": 85
+    }
+  ]
+}

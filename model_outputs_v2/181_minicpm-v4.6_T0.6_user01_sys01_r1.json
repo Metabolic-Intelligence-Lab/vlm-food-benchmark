@@ -1,0 +1,66 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti (pasta)",
+      "portion_estimate": "200 g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll (bun)",
+      "portion_estimate": "100 g",
+      "confidence": 90
+    },
+    {
+      "name": "pear (fruit)",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "dessert/pie with diced fruit",
+      "portion_estimate": "120 g",
+      "confidence": 98
+    },
+    {
+      "name": "cheese bar or butter",
+      "portion_estimate": "20 g",
+      "confidence": 85
+    },
+    {
+      "name": "side of shredded food (e.g., sauerkraut)",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    }
+  ],
+  "total_estimates": [
+    {
+      "item": "spaghetti",
+      "estimate": "200 g",
+      "confidence": 95
+    },
+    {
+      "item": "bread roll",
+      "estimate": "100 g",
+      "confidence": 90
+    },
+    {
+      "item": "pear",
+      "estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "item": "dessert/pie",
+      "estimate": "120 g",
+      "confidence": 98
+    },
+    {
+      "item": "cheese bar",
+      "estimate": "20 g",
+      "confidence": 85
+    },
+    {
+      "item": "shredded food",
+      "estimate": "100 g",
+      "confidence": 95
+    }
+  ]
+}

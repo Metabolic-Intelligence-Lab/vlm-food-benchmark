@@ -1,0 +1,29 @@
+The image shows a meal consisting of a bowl of soup, a plate of vegetables, and a roll. The soup is brown and appears to be a thick, creamy broth, possibly containing vegetables or meat. The plate of vegetables includes Brussels sprouts, carrots, and possibly some other vegetables, all of which are steamed or cooked to a tender but still crisp texture. The roll is a small, white bread roll that is likely served as a side or accompaniment to the meal.
+
+**Food Items:**
+
+* Soup (brown, creamy broth)
+* Vegetables (Brussels sprouts, carrots, possibly others)
+* Roll (small, white bread)
+
+**Portion Estimates:**
+
+* Soup: approximately 200-300g
+* Vegetables: approximately 100-150g
+* Roll: approximately 50-100g
+
+**Confidence:**
+
+* Soup: 80-90%
+* Vegetables: 80-90%
+* Roll: 70-80%
+
+**Food Items and Portion Estimates:**
+
+* Soup: 200-300g, 80-90% confidence
+* Vegetables: 100-150g, 80-90% confidence
+* Roll: 50-100g, 70-80% confidence
+
+**Final Answer:**
+
+*Answer*: { "food_items": [ { "name": "Soup", "portion_estimate": "200-300g", "confidence": "80-90" }, { "name": "Vegetables", "portion_estimate": "100-150g", "confidence": "80-90" }, { "name": "Roll", "portion_estimate": "50-100g", "confidence": "70-80" } ], }

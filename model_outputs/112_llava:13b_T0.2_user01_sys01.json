@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich (burger or meat patty)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad or side dish",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "vegetables (brussels sprouts, green vegetable)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "cake (cheesecake or similar dessert)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

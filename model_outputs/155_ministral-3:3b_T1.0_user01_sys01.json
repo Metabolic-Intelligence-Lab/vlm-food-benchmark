@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with parmesan",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "banana, whole",
+      "portion_estimate": "approximately 120g",
+      "confidence": 85
+    },
+    {
+      "name": "sliced whole wheat bread (2 slices)",
+      "portion_estimate": "120g (assuming ~60g/slice)",
+      "confidence": 85
+    },
+    {
+      "name": "scrambled eggs with saut\u00e9ed carrots and peas",
+      "portion_estimate": "220g (eggs and vegetables)",
+      "confidence": 75
+    }
+  ]
+}

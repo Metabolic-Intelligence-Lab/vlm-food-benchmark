@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Breaded Chicken or Fish Strips",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Potato Salad",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ],
+  "other_items": [
+    {
+      "type": "Wooden breadboard",
+      "location": "Table"
+    },
+    {
+      "name": "A small bowl of mustard and butter",
+      "size": "Small",
+      "content": "Butter, Mustard",
+      "color": "Yellow, Creamy",
+      "location": "Table"
+    },
+    {
+      "name": "Bread roll or bun with filling",
+      "type": "Half eaten",
+      "quantity": 1,
+      "edible_portion": "50g",
+      "location": "Table"
+    }
+  ]
+}

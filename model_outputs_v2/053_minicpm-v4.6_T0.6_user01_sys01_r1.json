@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "Rotini pasta",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "Fish fillet",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

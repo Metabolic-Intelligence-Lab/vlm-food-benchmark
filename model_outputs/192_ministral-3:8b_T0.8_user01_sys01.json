@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded cutlet (likely chicken or fish)",
+      "portion_estimate": "180-200g",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed kale or Swiss chard leaves",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "pasta (likely rigatoni or similar)",
+      "portion_estimate": "150g (dry weight)",
+      "confidence": 75
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "uncertain (likely ~50g whole lemon)",
+      "confidence": 40
+    },
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "uncertain (volume only: ~250ml)",
+      "confidence": 30
+    }
+  ]
+}

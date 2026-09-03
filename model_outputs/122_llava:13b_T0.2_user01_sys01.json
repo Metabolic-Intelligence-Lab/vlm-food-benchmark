@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "burger or meat patty with carrots and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta with tomato-based sauce and grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "chips or snack",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich on a plate",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta and bread on a tray",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cookie and grapes on a table",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

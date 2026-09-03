@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "30g",
+      "confidence": 95
+    },
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "210g",
+      "confidence": 86
+    },
+    {
+      "name": "vegetables on a plate",
+      "portion_estimate": "300g",
+      "confidence": 94
+    }
+  ],
+  "bowls": [
+    {
+      "type": "white",
+      "contents": "pasta with sauce"
+    },
+    {
+      "type": "white",
+      "contents": "vegetables on a plate"
+    }
+  ],
+  "tray": [
+    {
+      "color": "black",
+      "description": "metal tray with plates and food on top of it."
+    },
+    {
+      "color": "white",
+      "description": "white paper napkin under bowls"
+    }
+  ]
+}

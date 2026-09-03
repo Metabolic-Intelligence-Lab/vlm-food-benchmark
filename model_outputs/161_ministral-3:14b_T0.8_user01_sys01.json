@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce and grated cheese",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetable medley (carrots, peas, corn, bell peppers, zucchini, green beans)",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "quinoa or couscous salad with spinach and cheese",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "baked bread roll (plain, possibly sesame)",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "ripe mango (peeled)",
+      "portion_estimate": "120g",
+      "confidence": 95
+    }
+  ]
+}

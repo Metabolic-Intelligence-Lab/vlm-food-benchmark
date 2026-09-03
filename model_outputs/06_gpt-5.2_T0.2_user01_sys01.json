@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked penne pasta (lightly oiled/buttered)",
+      "portion_estimate": "210 g",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "70"
+    },
+    {
+      "name": "strawberry yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "72"
+    },
+    {
+      "name": "breaded meat cutlet (likely chicken or pork schnitzel)",
+      "portion_estimate": "110 g",
+      "confidence": "55"
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "55 g",
+      "confidence": "80"
+    },
+    {
+      "name": "diced zucchini/cucumber vegetable side",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    }
+  ]
+}

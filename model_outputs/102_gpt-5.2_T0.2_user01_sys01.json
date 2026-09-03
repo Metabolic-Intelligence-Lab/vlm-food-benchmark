@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (plain)",
+      "portion_estimate": "70 g",
+      "confidence": "75"
+    },
+    {
+      "name": "baked pasta (lasagna or baked noodles) with cheese topping",
+      "portion_estimate": "260 g",
+      "confidence": "60"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "170 g",
+      "confidence": "75"
+    },
+    {
+      "name": "pork cutlet/steak with brown gravy and garnish",
+      "portion_estimate": "160 g",
+      "confidence": "65"
+    },
+    {
+      "name": "fruit yogurt cup (mixed berry)",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    },
+    {
+      "name": "string cheese stick",
+      "portion_estimate": "28 g",
+      "confidence": "70"
+    }
+  ]
+}

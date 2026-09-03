@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas (roasted or seasoned)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pasta (penne or similar, in tomato-based sauce)",
+      "portion_estimate": "200 grams (cooked)",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll or bun (plain)",
+      "portion_estimate": "70 grams",
+      "confidence": 75
+    },
+    {
+      "name": "condiment packet (likely sweet chili sauce or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "butter or margarine packet (Crisco-style)",
+      "portion_estimate": "uncertain (likely 10-20 grams)",
+      "confidence": 50
+    }
+  ]
+}

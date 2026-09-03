@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "150g (uncertain)",
+      "confidence": "65"
+    },
+    {
+      "name": "Whole grain bread roll",
+      "portion_estimate": "72g",
+      "confidence": "90"
+    },
+    {
+      "name": "Rice with vegetables (likely carrot and green beans)",
+      "portion_estimate": "150-300g, exact depends on volume of ingredients added to rice",
+      "confidence": "68"
+    },
+    {
+      "name": "Cubed potatoes",
+      "portion_estimate": "120-240g (uncertain based on size and quantity)",
+      "confidence": "75"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "96g",
+      "confidence": "85"
+    }
+  ]
+}

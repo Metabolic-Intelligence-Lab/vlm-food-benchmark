@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce and cheese",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "grilled cheese sandwich",
+      "portion_estimate": "100",
+      "confidence": 60
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "40",
+      "confidence": 70
+    }
+  ]
+}

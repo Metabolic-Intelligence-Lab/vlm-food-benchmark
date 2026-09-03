@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (penne)",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "Meat Sauce",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "Parmesan Cheese",
+      "portion_estimate": "30",
+      "confidence": 90
+    }
+  ]
+}

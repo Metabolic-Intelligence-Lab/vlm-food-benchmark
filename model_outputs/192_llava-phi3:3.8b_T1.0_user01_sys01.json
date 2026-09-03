@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Baby carrots",
+      "portion_estimate": "61",
+      "confidence": 0.53
+    },
+    {
+      "name": "Olives",
+      "portion_estimate": "49",
+      "confidence": 0.28
+    },
+    {
+      "name": "",
+      "portion_estimate": "34",
+      "confidence": "uncertain"
+    }
+  ]
+}

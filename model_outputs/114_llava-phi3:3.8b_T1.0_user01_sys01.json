@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich and fries",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Kikkoman red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

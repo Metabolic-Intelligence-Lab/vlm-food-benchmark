@@ -1,0 +1,57 @@
+Here is the food image:
+
+**Food Items:**
+
+* Pasta
+* Bread
+* Banana
+* Meat (likely beef or pork)
+* Sauce (likely tomato-based)
+
+**Portion Estimates:**
+
+* Pasta: 100g
+* Bread: 50g
+* Banana: 100g
+* Meat: 100g
+* Sauce: 50g
+
+**Confidence:**
+
+* Pasta: 80
+* Bread: 70
+* Banana: 90
+* Meat: 80
+* Sauce: 70
+
+**Food Items JSON:**
+
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Meat",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sauce",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    }
+  ]
+}

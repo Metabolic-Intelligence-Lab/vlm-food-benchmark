@@ -1,0 +1,25 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+retinol: "5mg",
+      "name": "Bread roll",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "80g",
+      "confidence": "60"
+    }
+  ]
+}

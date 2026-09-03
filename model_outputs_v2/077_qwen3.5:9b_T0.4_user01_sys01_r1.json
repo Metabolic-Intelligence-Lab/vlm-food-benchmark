@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked white fish fillet with black pepper seasoning",
+      "portion_estimate": 150,
+      "confidence": 92
+    },
+    {
+      "name": "Steamed broccoli florets and stems",
+      "portion_estimate": 130,
+      "confidence": 90
+    },
+    {
+      "name": "Boiled peanuts with green onions (likely celery or scallion)",
+      "portion_estimate": 140,
+      "confidence": 85
+    },
+    {
+      "name": "Whole wheat bun in plastic packaging",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Fresh plums (3 pieces)",
+      "portion_estimate": 180,
+      "confidence": 92
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne noodles)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "tomato slices",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "crumbled chicken breast or white meat",
+      "portion_estimate": "80 grams",
+      "confidence": 75
+    },
+    {
+      "name": "black olive or black olives",
+      "portion_estimate": "30 grams",
+      "confidence": 70
+    },
+    {
+      "name": "creamy sauce/base (likely a dairy or white sauce)",
+      "portion_estimate": "150 grams",
+      "confidence": 70
+    }
+  ]
+}

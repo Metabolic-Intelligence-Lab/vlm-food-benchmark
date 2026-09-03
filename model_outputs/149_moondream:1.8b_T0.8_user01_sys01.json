@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese and green herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "broccoli covered in melted cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich (wrapped together)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

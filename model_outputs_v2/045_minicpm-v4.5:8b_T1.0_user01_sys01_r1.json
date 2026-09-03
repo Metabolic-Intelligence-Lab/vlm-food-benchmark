@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl with shredded carrots and greens (salad)",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "bowl with breaded/ fried item (likely fish or chicken with vegetables)",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "small white dish with ricotta cheese, corn, tomato, and green beans",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "small cup of yogurt (likely Kiri brand)",
+      "portion_estimate": "60",
+      "confidence": "90"
+    },
+    {
+      "name": "small wrapped bread roll or bun",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

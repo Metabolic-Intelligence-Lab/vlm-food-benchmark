@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "uncertain, around 100-150g",
+      "confidence": 40
+    },
+    {
+      "name": "Rice and Vegetables",
+      "portion_estimate": "uncertain, around 150-200g",
+      "confidence": 30
+    },
+    {
+      "name": "Pizza Slice",
+      "portion_estimate": "uncertain, around 100-150g",
+      "confidence": 50
+    },
+    {
+      "name": "Mixed Fruit Salad",
+      "portion_estimate": "uncertain, around 150-200g",
+      "confidence": 40
+    },
+    {
+      "name": "Carrots and Lettuce",
+      "portion_estimate": "uncertain, around 150-200g",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mini bread roll",
+      "portion_estimate": "40g",
+      "confidence": "80"
+    },
+    {
+      "name": "brown soup (likely lentil or bean soup with cheese on top)",
+      "portion_estimate": "250g",
+      "confidence": "80"
+    },
+    {
+      "name": "brussels sprouts with carrots",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "quiche or savory pastry",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "plum (or similar red fruit)",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fried egg",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "french fries",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "50",
+      "confidence": 60
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": 50
+    }
+  ]
+}

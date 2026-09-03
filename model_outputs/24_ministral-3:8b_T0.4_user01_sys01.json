@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "energy balls/muffin (two pieces) with sesame seeds and orange zest",
+      "portion_estimate": "uncertain (estimated ~100g combined)",
+      "confidence": 65
+    },
+    {
+      "name": "carrot sticks (baby carrots)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "pumpkin or butternut squash seeds",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "whole apple",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "yogurt (single-serve cup, flavored)",
+      "portion_estimate": "uncertain (estimated ~150g)",
+      "confidence": 70
+    }
+  ]
+}

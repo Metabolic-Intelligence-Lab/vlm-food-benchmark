@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Cheese Slice",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    },
+    {
+      "name": "Peach",
+      "portion_estimate": "uncertain",
+      "confidence": "65"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": "75"
+    }
+  ]
+}

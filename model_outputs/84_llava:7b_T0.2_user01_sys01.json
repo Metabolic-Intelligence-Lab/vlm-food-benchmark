@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed broccoli",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Meat (possibly chicken or pork)",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Steamed carrots",
+      "portion_estimate": "75g",
+      "confidence": "60"
+    },
+    {
+      "name": "Sauce (possibly gravy)",
+      "portion_estimate": "10ml",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of pasta with sauce and grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Doughnut in plastic wrap",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt with fruit",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed vegetables or salad",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 95
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 90
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 90
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 85
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 80
+    },
+    {
+      "name": "Meat",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 75
+    },
+    {
+      "name": "Tomato",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 70
+    },
+    {
+      "name": "Olive oil",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 80
+    },
+    {
+      "name": "Salt",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 70
+    },
+    {
+      "name": "Pepper",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 70
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 80
+    },
+    {
+      "name": "Glass",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 60
+    }
+  ]
+}

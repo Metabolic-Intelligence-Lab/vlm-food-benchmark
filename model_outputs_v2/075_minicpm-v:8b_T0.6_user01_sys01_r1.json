@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white fish",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mashed potatoes with green herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "pea stew or mixed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "tofu skin with chili sauce",
+      "portion_estimate": "120g (approx)",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

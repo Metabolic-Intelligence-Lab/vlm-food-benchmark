@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll with possible chicken or turkey filling",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fried food item",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

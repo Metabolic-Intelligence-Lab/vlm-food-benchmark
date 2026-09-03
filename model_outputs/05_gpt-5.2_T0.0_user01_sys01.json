@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy vegetable soup (likely pumpkin/squash) with grated cheese on top",
+      "portion_estimate": "320 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll (small, packaged)",
+      "portion_estimate": "55 g",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded chicken nuggets",
+      "portion_estimate": "100 g",
+      "confidence": "75"
+    },
+    {
+      "name": "diced roasted potatoes with herbs",
+      "portion_estimate": "150 g",
+      "confidence": "72"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "85"
+    }
+  ]
+}

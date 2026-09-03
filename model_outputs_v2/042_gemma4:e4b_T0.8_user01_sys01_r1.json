@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish (fusilli or rotini mixed with sauce)",
+      "portion_estimate": "320",
+      "confidence": "95"
+    },
+    {
+      "name": "Cooked small appetizer bites (e.g., mushrooms or fritters)",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried fritter or croquette",
+      "portion_estimate": "90",
+      "confidence": "85"
+    },
+    {
+      "name": "Purple pur\u00e9e or relish",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "Small ripe tomatoes",
+      "portion_estimate": "135",
+      "confidence": "90"
+    }
+  ]
+}

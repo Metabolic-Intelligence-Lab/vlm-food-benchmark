@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Soup (in the top bowl)",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Green beans (on the bottom plate)",
+      "portion_estimate": "50g",
+      "confidence": 95
+    },
+    {
+      "name": "Orange round food (likely a sweet potato)",
+      "portion_estimate": "50g",
+      "confidence": 95
+    },
+    {
+      "name": "Lemon wedge",
+      "portion_estimate": "5g",
+      "confidence": 95
+    },
+    {
+      "name": "Pear (single fruit)",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "Bun (wrapped in plastic)",
+      "portion_estimate": "50g",
+      "confidence": 95
+    },
+    {
+      "name": "Tea bag (with \"TEA\" label)",
+      "portion_estimate": "5g",
+      "confidence": 95
+    }
+  ]
+}

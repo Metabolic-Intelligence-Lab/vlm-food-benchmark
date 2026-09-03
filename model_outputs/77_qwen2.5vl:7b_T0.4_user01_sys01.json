@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled fish with broccoli and potatoes",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Red kidney beans with green onions",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Whole wheat bun",
+      "portion_estimate": "70 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "150 grams",
+      "confidence": 60
+    }
+  ]
+}

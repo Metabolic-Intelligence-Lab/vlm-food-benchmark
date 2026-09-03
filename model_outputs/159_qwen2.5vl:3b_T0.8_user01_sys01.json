@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "salmon with potato and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "pie with herbs and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "sliced orange",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "noodles with sauce",
+      "portion_estimate": "20 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "30 grams",
+      "confidence": "55"
+    },
+    {
+      "name": "fruit (likely apple or pear)",
+      "portion_estimate": "20 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "cheese (unspecified)",
+      "portion_estimate": "5 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta (unspecified)",
+      "portion_estimate": "10 grams",
+      "confidence": "40"
+    },
+    {
+      "name": "sliced orange",
+      "portion_estimate": "5 grams",
+      "confidence": "30"
+    }
+  ]
+}

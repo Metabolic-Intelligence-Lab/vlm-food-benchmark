@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "salad with red cabbage and cucumber",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "fried or baked spinach balls",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "sweet dessert ball (possibly gulab jamun)",
+      "portion_estimate": "50",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "75"
+    }
+  ]
+}

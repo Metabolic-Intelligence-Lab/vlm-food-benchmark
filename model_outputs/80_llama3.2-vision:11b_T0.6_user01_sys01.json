@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Omelette",
+      "portion_estimate": "100-150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Potato Hash",
+      "portion_estimate": "50-75g",
+      "confidence": "80"
+    },
+    {
+      "name": "Rice Bowl",
+      "portion_estimate": "200-250g",
+      "confidence": "80"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100-150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50-75g",
+      "confidence": "80"
+    }
+  ]
+}

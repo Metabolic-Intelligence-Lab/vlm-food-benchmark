@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese and vegetables",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "steamed or saut\u00e9ed greens",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "garden salad with lettuce and red cabbage",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "dinner roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit yogurt",
+      "portion_estimate": "100",
+      "confidence": "70"
+    }
+  ]
+}

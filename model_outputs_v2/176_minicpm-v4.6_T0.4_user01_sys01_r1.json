@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "veggie and cheese patty",
+      "portion_estimate": "15 g",
+      "confidence": 90
+    },
+    {
+      "name": "bread slice",
+      "portion_estimate": "20 g",
+      "confidence": 85
+    },
+    {
+      "name": "cauliflower with olives",
+      "portion_estimate": "120 g",
+      "confidence": 88
+    },
+    {
+      "name": "fruit (pear)",
+      "portion_estimate": "50 g",
+      "confidence": 80
+    },
+    {
+      "name": "packaged snack or butter",
+      "portion_estimate": "10 g",
+      "confidence": 70
+    }
+  ]
+}

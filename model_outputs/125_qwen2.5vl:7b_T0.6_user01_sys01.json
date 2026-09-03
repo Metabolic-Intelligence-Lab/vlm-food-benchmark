@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "sour soup with visible chunks",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "small burger",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potato or similar side dish",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200",
+      "confidence": 80
+    }
+  ]
+}

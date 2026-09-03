@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with creamy sauce and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sandwich with lettuce, tomato, and ham",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "peas and bacon bits",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "bread slices",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked vegetables (spinach or kale)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "meat (grilled or fried)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "potatoes or baked goods",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

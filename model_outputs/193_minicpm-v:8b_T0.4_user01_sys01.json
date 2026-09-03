@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "White plate with rice and meat",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Orange slice on napkin",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

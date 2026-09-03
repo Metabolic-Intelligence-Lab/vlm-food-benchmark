@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato-based sauce",
+      "portion_estimate": "160 g",
+      "confidence": "78"
+    },
+    {
+      "name": "mixed salad (cucumber slices, cabbage)",
+      "portion_estimate": "90 g",
+      "confidence": "72"
+    },
+    {
+      "name": "cooked cauliflower (or cauliflower mash)",
+      "portion_estimate": "80 g",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll (plain bun)",
+      "portion_estimate": "55 g",
+      "confidence": "82"
+    },
+    {
+      "name": "fruit yogurt cup (strawberry or berry flavored)",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "200 g",
+      "confidence": "76"
+    }
+  ]
+}

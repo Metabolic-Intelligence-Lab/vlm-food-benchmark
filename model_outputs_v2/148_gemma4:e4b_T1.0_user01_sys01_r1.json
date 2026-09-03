@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green pasta dish topped with white cheese",
+      "portion_estimate": "350g",
+      "confidence": "85"
+    },
+    {
+      "name": "Steamed or roasted cauliflower florets",
+      "portion_estimate": "400g",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked yellow and orange mixed vegetables",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    },
+    {
+      "name": "Mixed purple and dark fruits (grapes/plums)",
+      "portion_estimate": "80g",
+      "confidence": "80"
+    },
+    {
+      "name": "Soft dinner bread rolls",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    }
+  ]
+}

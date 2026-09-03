@@ -1,0 +1,25 @@
+{
+  "food_items": [
+    {
+      "name": "breaded cutlet with saut\u00e9ed greens (e.g., breaded cutlet and saut\u00e9ed kale)",
+      "portion_estimate": "approximately 200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "penne pasta in red sauce",
+      "portion_estimate": "approximately 250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "orange (fruit)",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "drink from plastic cup",
+      "portion_estimate": "approximately 68 grams (based on estimated 250 ml)",
+      "confidence": 85
+    }
+  ],
+  "note": "Portion sizes are estimated based on visual assessment for calorie tracking."
+}

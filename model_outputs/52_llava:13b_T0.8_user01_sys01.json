@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken breast",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    },
+    {
+      "name": "Pasta with vegetables (includes carrots and peppers)",
+      "portion_estimate": "125g",
+      "confidence": "80"
+    },
+    {
+      "name": "Side salad",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }
+  ]
+}

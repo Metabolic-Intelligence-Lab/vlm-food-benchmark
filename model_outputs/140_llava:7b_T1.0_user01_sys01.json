@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled fish",
+      "portion_estimate": "200 g",
+      "confidence": 80
+    },
+    {
+      "name": "Steamed broccoli",
+      "portion_estimate": "100 g",
+      "confidence": 90
+    },
+    {
+      "name": "Saut\u00e9ed green beans",
+      "portion_estimate": "50 g",
+      "confidence": 70
+    },
+    {
+      "name": "Purple potatoes",
+      "portion_estimate": "50 g",
+      "confidence": 80
+    }
+  ]
+}

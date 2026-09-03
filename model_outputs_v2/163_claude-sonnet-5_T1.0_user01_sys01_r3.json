@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable cream soup (minestrone/broccoli soup) with grated cheese",
+      "portion_estimate": "300",
+      "confidence": 75
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "spinach-breaded fish fillet with white sauce and olive",
+      "portion_estimate": "120",
+      "confidence": 55
+    },
+    {
+      "name": "sauteed diced vegetables (zucchini, carrot, peppers)",
+      "portion_estimate": "100",
+      "confidence": 65
+    },
+    {
+      "name": "yogurt cup (Yomo)",
+      "portion_estimate": "125",
+      "confidence": 70
+    }
+  ]
+}

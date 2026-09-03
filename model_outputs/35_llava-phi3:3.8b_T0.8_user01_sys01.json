@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "plate with green beans and bread",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "bowl with fruit on a stick",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "plate of pasta and cheese sauce",
+      "portion_estimate": "250 grams",
+      "confidence": "70"
+    }
+  ]
+}

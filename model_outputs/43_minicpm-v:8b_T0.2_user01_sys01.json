@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole wheat bread",
+      "portion_estimate": "uncertain, approx. slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt with fruit pieces",
+      "portion_estimate": "uncertain, typical serving size for yogurt is 120g-180g",
+      "confidence": "60"
+    },
+    {
+      "name": "Penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "approx. portion of a standard plate (about 3 oz)",
+      "confidence": "75"
+    },
+    {
+      "name": "Stuffed baked zucchini topped with red sauce, cheese, and breadcrumbs",
+      "portion_estimate": "uncertain, approx. half the size of a typical serving for this dish",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed vegetables (zucchini, squash, onions)",
+      "portion_estimate": "approx. portion of mixed vegetable side typically served with pasta dishes (about 1 oz)",
+      "confidence": "75"
+    }
+  ]
+}

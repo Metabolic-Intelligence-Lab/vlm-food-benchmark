@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (partially visible, wrapped in plastic)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "breaded and fried potato wedges with tomato-based sauce",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed mixed vegetables (zucchini, olives, possibly green beans)",
+      "portion_estimate": "200g",
+      "confidence": 80
+    }
+  ]
+}

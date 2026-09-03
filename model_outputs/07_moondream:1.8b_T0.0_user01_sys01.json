@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried fish",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "salad (lettuce and carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "soup or stew",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

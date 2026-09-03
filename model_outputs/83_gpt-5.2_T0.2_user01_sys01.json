@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "170 g",
+      "confidence": "75"
+    },
+    {
+      "name": "baked stuffed eggplant (eggplant half with melted cheese/vegetable topping)",
+      "portion_estimate": "130 g",
+      "confidence": "65"
+    },
+    {
+      "name": "mixed vegetable side (couscous/grain with leafy greens and chickpeas)",
+      "portion_estimate": "180 g",
+      "confidence": "60"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "70"
+    }
+  ]
+}

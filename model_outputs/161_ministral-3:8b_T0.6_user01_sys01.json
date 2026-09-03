@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato-based sauce and grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetable medley (carrots, peas, broccoli, green beans, etc.)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pasta salad or green salad with croutons",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "whole wheat or multi-grain roll/bun",
+      "portion_estimate": "60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    }
+  ]
+}

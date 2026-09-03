@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice with olive oil",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat bun",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "feta cheese slices",
+      "portion_estimate": 20,
+      "confidence": 70
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": 5,
+      "confidence": 75
+    },
+    {
+      "name": "whole onion",
+      "portion_estimate": 150,
+      "confidence": 70
+    }
+  ]
+}

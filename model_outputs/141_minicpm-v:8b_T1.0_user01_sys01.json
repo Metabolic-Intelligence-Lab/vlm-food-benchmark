@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Toast",
+      "portion_estimate": "uncertain, possibly approx. 60g to 125g based on thickness and size of slice.",
+      "confidence": "45"
+    },
+    {
+      "name": "Broccoli with sauce",
+      "portion_estimate": "uncertain, possible approx. weight ranges from approximately 75-125 grams depending on how much broccoli is visible.",
+      "confidence": "60"
+    },
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "approximate weight of chickpea in plate possibly between 80g to approx. 320g, based on thickness and size.",
+      "confidence": "50"
+    },
+    {
+      "name": "Cheese with herbs (uncertain)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

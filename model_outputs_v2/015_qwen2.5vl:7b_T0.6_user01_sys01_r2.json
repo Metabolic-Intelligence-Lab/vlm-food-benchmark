@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "plate with scrambled eggs and sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "plate with saut\u00e9ed cabbage",
+      "portion_estimate": "70 grams",
+      "confidence": 70
+    },
+    {
+      "name": "bun in plastic wrap",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200 milliliters",
+      "confidence": 80
+    }
+  ]
+}

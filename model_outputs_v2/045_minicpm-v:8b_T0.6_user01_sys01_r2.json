@@ -1,0 +1,36 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "mashed potatoes with gravy",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "steamed vegetables (green beans and corn)",
+      "portion_estimate": "uncertain",
+      "confidence": 60,
+      "description": "possibly green beans, yellowish kernels of corn on a bed of greens."
+    },
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "carrots shredded into thin strips",
+      "portion_estimate": "uncertain",
+      "confidence": 50,
+      "description": "likely baby carrots, possibly for a salad."
+    },
+    {
+      "name": "sour cream container (top right corner)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

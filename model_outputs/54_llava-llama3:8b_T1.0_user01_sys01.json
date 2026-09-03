@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange macaroni salad with red pepper flakes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "grilled vegetables and chicken salad",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "sliced cucumbers with dressing",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich wrapped in plastic and foil",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "yogurt labeled 'Egg'",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

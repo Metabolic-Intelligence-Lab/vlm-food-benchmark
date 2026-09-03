@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked broccoli (possibly with sauce/seasoning)",
+      "portion_estimate": "170 g",
+      "confidence": "72"
+    },
+    {
+      "name": "white fish fillet (cooked)",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked diced potatoes (seasoned)",
+      "portion_estimate": "170 g",
+      "confidence": "74"
+    },
+    {
+      "name": "small whole-grain bread roll",
+      "portion_estimate": "65 g",
+      "confidence": "68"
+    },
+    {
+      "name": "fruit-flavored quark/yogurt dessert cup (packaged)",
+      "portion_estimate": "150 g",
+      "confidence": "66"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green Beans",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Eggs",
+      "portion_estimate": "2",
+      "confidence": "90"
+    },
+    {
+      "name": "Tomato",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    }
+  ]
+}

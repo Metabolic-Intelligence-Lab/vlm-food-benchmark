@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Banana",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Crumb-coated baked item (left)",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Crumb-coated baked item (right)",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sliced raw carrots",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried wonton or cracker snacks",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    }
+  ]
+}

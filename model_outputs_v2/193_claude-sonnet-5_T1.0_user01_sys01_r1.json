@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable minestrone soup",
+      "portion_estimate": "300",
+      "confidence": 80
+    },
+    {
+      "name": "breaded fried cauliflower or chicken nuggets",
+      "portion_estimate": "150",
+      "confidence": 55
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "water, glass",
+      "portion_estimate": "200",
+      "confidence": 75
+    },
+    {
+      "name": "water, glass",
+      "portion_estimate": "200",
+      "confidence": 75
+    },
+    {
+      "name": "breaded fried food on plate in background",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

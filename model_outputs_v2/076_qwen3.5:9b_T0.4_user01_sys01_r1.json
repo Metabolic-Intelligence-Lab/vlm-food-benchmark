@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta shells (conchiglie) with tomato and vegetable sauce",
+      "portion_estimate": 250,
+      "confidence": 94
+    },
+    {
+      "name": "Couscous mixed with vegetables (broccoli, carrots)",
+      "portion_estimate": 180,
+      "confidence": 96
+    },
+    {
+      "name": "Bread roll wrapped in plastic",
+      "portion_estimate": 75,
+      "confidence": 92
+    },
+    {
+      "name": "Plum (fresh fruit)",
+      "portion_estimate": 80,
+      "confidence": 95
+    },
+    {
+      "name": "Pear (fresh fruit)",
+      "portion_estimate": 130,
+      "confidence": 94
+    },
+    {
+      "name": "Oyster on the half shell",
+      "portion_estimate": 60,
+      "confidence": 85
+    }
+  ]
+}

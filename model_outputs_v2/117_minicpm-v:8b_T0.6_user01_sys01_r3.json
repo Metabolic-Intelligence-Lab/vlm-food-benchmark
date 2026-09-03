@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "sour cream",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "baked bread roll with butter on top",
+      "portion_estimate": "uncertain, approximately 150-200g per piece",
+      "confidence": "40"
+    },
+    {
+      "name": "mashed potatoes and gravy",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "70"
+    },
+    {
+      "name": "green dumplings with meat filling, possibly spinach-based",
+      "portion_estimate": "uncertain, approximately 15-20g each",
+      "confidence": "60"
+    }
+  ]
+}

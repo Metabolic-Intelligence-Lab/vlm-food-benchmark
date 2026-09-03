@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Caesar Salad",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green Soup with Croutons",
+      "portion_estimate": "200 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread Rolls",
+      "portion_estimate": "50 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green Soup with Croutons and Parmesan Cheese",
+      "portion_estimate": "300 g",
+      "confidence": "60"
+    }
+  ]
+}

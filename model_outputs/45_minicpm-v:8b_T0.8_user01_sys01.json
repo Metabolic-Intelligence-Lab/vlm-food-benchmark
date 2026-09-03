@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried chicken",
+      "portion_estimate": "uncertain, approx 150 grams.",
+      "confidence": "60"
+    },
+    {
+      "name": "Mashed sweet potato or yam mix with spices",
+      "portion_estimate": "uncertain, approx 75 grams.",
+      "confidence": "50"
+    },
+    {
+      "name": "Carrot salad",
+      "portion_estimate": "uncertain, approx 125 grams.",
+      "confidence": "60"
+    },
+    {
+      "name": "Deli cup with red and green toppings (possibly a condiment)",
+      "portion_estimate": "uncertain, approx 45 grams.",
+      "confidence": "50"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain, approx 125 grams.",
+      "confidence": "60"
+    }
+  ]
+}

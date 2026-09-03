@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Lentil or pea soup",
+      "portion_estimate": "350",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "Small container of butter or spread",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "Main dish with green coating and creamy topping",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "Roasted pumpkin and vegetable medley",
+      "portion_estimate": "150",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Red Sauce and Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Salad with Lettuce, Tomatoes, and Croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Creamy Soup with Herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Bread (2 pieces)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

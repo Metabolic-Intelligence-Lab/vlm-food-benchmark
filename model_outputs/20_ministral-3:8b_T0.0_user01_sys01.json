@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "glazed meat (likely pork or chicken)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "whole apple",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "steamed or boiled green beans (broccoli rabe or similar)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "uncertain (no visible measurement)",
+      "confidence": 30
+    }
+  ]
+}

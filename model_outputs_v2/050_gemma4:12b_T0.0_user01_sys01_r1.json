@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "seasoned rice",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "shrimp",
+      "portion_estimate": "60g",
+      "confidence": 95
+    },
+    {
+      "name": "white fish chunks",
+      "portion_estimate": "130g",
+      "confidence": 90
+    }
+  ]
+}

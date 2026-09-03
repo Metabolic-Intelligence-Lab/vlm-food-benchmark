@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "A cup of water",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Fruit salad (pineapple and mango)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "A bowl of pasta with tomato sauce, roasted red peppers, and cherry tomatoes",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "A slice of pie or quiche with a golden crust, likely containing cheese and possibly vegetables",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    }
+  ]
+}

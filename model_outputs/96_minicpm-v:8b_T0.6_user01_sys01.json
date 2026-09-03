@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Apple juice",
+      "portion_estimate": "200g (approximate)",
+      "confidence": "85"
+    },
+    {
+      "name": "Chocolate wafer bar",
+      "portion_estimate": "uncertain, approx. 30-40g",
+      "confidence": "60"
+    },
+    {
+      "name": "Chocolate wafer bar (packaged)",
+      "portion_estimate": "uncertain, approx. 50g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded meat",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "brussel sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "purple grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich wrap",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

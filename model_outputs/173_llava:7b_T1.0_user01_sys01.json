@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Beans",
+      "portion_estimate": "approx. 100g",
+      "confidence": 85
+    },
+    {
+      "name": "Pasta dish (possibly mac & cheese)",
+      "portion_estimate": "approx. 200g",
+      "confidence": 75
+    },
+    {
+      "name": "Eggs and vegetables, possibly an omelette",
+      "portion_estimate": "1",
+      "confidence": 60
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "approx. 50g",
+      "confidence": 75
+    }
+  ]
+}

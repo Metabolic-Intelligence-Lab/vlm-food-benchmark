@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne) with sauce",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "roasted carrots",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "grilled or baked chicken with herbs",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "baguette or roll (sliced)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "peach (whole)",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "water (glass)",
+      "portion_estimate": "200",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "roasted vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

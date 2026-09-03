@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "coffee (in a cup)",
+      "portion_estimate": "uncertain (volume ~250ml, weight uncertain)",
+      "confidence": 50
+    },
+    {
+      "name": "digestive biscuits (Wafer cookies)",
+      "portion_estimate": "100g (approximately 10 biscuits, assuming ~10g each)",
+      "confidence": 85
+    }
+  ]
+}

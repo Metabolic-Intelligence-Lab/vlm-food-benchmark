@@ -1,0 +1,31 @@
+{
+  "food_items": [
+    {
+      "name": "diced potatoes and green vegetables (side dish)",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "cooked chicken or fish with creamy sauce (main dish)",
+      "portion_estimate": "120 g protein + ~20 g sauce",
+      "confidence": 90
+    },
+    {
+      "name": "cooked beans or lentils (main dish)",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "water (beverage)",
+      "portion_estimate": "250 mL",
+      "confidence": 90,
+      "estimate_in_grams": 250
+    },
+    {
+      "name": "bread roll or bun (bread)",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    }
+  ],
+  "note": "Portion sizes are estimated based on visual assessment and typical serving sizes."
+}

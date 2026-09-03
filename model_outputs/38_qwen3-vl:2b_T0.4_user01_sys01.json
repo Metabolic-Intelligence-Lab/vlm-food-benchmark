@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta",
+      "portion_estimate": "200",
+      "confidence": "95"
+    },
+    {
+      "name": "roasted mushrooms",
+      "portion_estimate": "50",
+      "confidence": "95"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": "95"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": "95"
+    }
+  ]
+}

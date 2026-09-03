@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Lasagna",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Oranges",
+      "portion_estimate": "100 grams",
+      "confidence": 65
+    }
+  ]
+}

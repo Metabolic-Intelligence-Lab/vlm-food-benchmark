@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "seasoned rice",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "cooked shrimp",
+      "portion_estimate": "50g",
+      "confidence": 95
+    },
+    {
+      "name": "shredded chicken",
+      "portion_estimate": "130g",
+      "confidence": 90
+    }
+  ]
+}

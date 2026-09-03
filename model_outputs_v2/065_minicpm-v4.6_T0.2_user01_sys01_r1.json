@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "about 150g",
+      "confidence": 85
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "about 120g",
+      "confidence": 80
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "about 250g",
+      "confidence": 75
+    },
+    {
+      "name": "patty",
+      "portion_estimate": "about 180g",
+      "confidence": 80
+    },
+    {
+      "name": "diced potatoes",
+      "portion_estimate": "about 100g",
+      "confidence": 70
+    },
+    {
+      "name": "water",
+      "portion_estimate": "about 70g",
+      "confidence": 90
+    }
+  ]
+}

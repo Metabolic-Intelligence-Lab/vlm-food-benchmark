@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with grated cheese",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 g",
+      "confidence": 80
+    },
+    {
+      "name": "vegetable mix",
+      "portion_estimate": "120 g",
+      "confidence": 85
+    },
+    {
+      "name": "triangular food (possibly a casserole)",
+      "portion_estimate": "70 g",
+      "confidence": 80
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "100 g",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken cutlet (schnitzel-like)",
+      "portion_estimate": "120 g",
+      "confidence": "72"
+    },
+    {
+      "name": "mixed vegetables (peas, carrots, potatoes, zucchini) with sliced mushrooms",
+      "portion_estimate": "160 g",
+      "confidence": "68"
+    },
+    {
+      "name": "cooked leafy greens (spinach-like)",
+      "portion_estimate": "140 g",
+      "confidence": "66"
+    },
+    {
+      "name": "plain water (in cup)",
+      "portion_estimate": "200 g",
+      "confidence": "74"
+    }
+  ]
+}

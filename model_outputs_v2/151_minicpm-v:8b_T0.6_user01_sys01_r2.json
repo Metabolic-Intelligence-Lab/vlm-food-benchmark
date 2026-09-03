@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Brussels sprouts with carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Omelet with vegetables and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with mushrooms, nuts, and seasoning powder",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Brownie or chocolate cake slice on top of pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

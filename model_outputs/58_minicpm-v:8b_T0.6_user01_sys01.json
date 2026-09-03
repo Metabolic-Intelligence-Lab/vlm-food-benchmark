@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Omelette or scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Roasted carrots and mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Peach",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

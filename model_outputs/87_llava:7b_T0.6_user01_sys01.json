@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green beans and carrots",
+      "portion_estimate": "75g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fruit salad with a peach on the side",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "40"
+    }
+  ]
+}

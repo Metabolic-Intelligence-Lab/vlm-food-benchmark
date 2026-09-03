@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mixed green salad (iceberg/romaine lettuce, radicchio, endive)",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "sliced tomato",
+      "portion_estimate": "70",
+      "confidence": 80
+    },
+    {
+      "name": "sliced cucumber",
+      "portion_estimate": "25",
+      "confidence": 80
+    },
+    {
+      "name": "shredded carrot",
+      "portion_estimate": "10",
+      "confidence": 65
+    },
+    {
+      "name": "olive oil dressing (visible sheen on vegetables)",
+      "portion_estimate": "10",
+      "confidence": 40
+    },
+    {
+      "name": "uncertain green baked item (partially visible, bottom left)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "scrambled eggs with onions",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "fried bread",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "sausage gravy",
+      "portion_estimate": "150",
+      "confidence": "75"
+    }
+  ]
+}

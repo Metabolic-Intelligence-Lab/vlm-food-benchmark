@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Fish with lemon",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Water in glass",
+      "portion_estimate": "120ml",
+      "confidence": "70"
+    },
+    {
+      "name": "Sauce in plastic container",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }
+  ]
+}

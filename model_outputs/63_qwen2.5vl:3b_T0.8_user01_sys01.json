@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "baked chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "salad with sliced vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "steamed zucchini slice",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "unidentifiable baked pastry",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

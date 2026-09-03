@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "salad containing shredded carrots, sliced cucumbers, and lettuce",
+      "portion_estimate": "1/2 cup",
+      "confidence": 95
+    },
+    {
+      "name": "bun wrapped in plastic",
+      "portion_estimate": "3-4 inches in diameter",
+      "confidence": 90
+    },
+    {
+      "name": "plate with a portion of saut\u00e9ed spinach, a piece of bread topped with butter and chocolate sauce, and a few red grapes",
+      "portion_estimate": "1/2 cup",
+      "confidence": 85
+    },
+    {
+      "name": "red grapes",
+      "portion_estimate": "5-6 grapes",
+      "confidence": 70
+    }
+  ]
+}

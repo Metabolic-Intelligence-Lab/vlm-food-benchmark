@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roll wrapped in plastic",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "soup or stew with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "meat (possibly chicken)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roasted vegetables (brussels sprouts and carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "fruit (possibly peaches or nectarines)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed white rice",
+      "portion_estimate": "320 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "Plain bread roll or bun",
+      "portion_estimate": "110 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Lime or small green citrus fruit",
+      "portion_estimate": "80 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Chopped salad or protein mixture",
+      "portion_estimate": "200 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Mixed cooked vegetables (carrots and yellow potato/squash chunks)",
+      "portion_estimate": "330 grams",
+      "confidence": "90"
+    }
+  ]
+}

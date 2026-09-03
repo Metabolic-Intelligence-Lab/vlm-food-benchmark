@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne)",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "scrambled egg with saut\u00e9ed greens (likely zucchini and spinach)",
+      "portion_estimate": "100 grams (including greens and egg)",
+      "confidence": 90
+    },
+    {
+      "name": "toasted baguette slice",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "small container of mayonnaise (likely container of mixed condiments)",
+      "portion_estimate": "uncertain (small spoonful possibly included)",
+      "confidence": 55
+    },
+    {
+      "name": "plain water in glass",
+      "portion_estimate": "200-250 milliliters",
+      "confidence": 85
+    }
+  ]
+}

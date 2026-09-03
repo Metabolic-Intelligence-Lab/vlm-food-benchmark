@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "vegetables, including carrots and broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "peach and some bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

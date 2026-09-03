@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sunny-side-up eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "biscuit",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cooked macaroni with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "ketchup (red packet)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

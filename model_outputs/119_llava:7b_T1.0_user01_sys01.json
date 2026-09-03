@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cannelloni with cheese filling and tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "White bread rolls",
+      "portion_estimate": "1 serving",
+      "confidence": 50
+    },
+    {
+      "name": "Cups with sauce in white bowl",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Green soup in a large bowl",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Carrot-shaped cookies on plate",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

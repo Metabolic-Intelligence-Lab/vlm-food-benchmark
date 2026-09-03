@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed broccoli with potatoes",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "bread or crackers (packaged)",
+      "portion_estimate": "30g",
+      "confidence": 80
+    },
+    {
+      "name": "roasted vegetable medley with quinoa (or similar base, possibly topped with tomato sauce)",
+      "portion_estimate": "220g",
+      "confidence": 85
+    },
+    {
+      "name": "slice of ham or deli meat",
+      "portion_estimate": "40g",
+      "confidence": 80
+    },
+    {
+      "name": "processed cheese wedge (e.g., American or similar)",
+      "portion_estimate": "25g",
+      "confidence": 75
+    }
+  ]
+}

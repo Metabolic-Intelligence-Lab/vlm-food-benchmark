@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne or rigatoni with sauce and vegetables)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "mashed potatoes or similar creamy food item",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich with meat, cheese, lettuce, and tomato",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sliced bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "butter or spreadable item",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "plums or apricots",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

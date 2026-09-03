@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "carrot and vegetable patty/fritter with tomato and breadcrumb topping",
+      "portion_estimate": "120",
+      "confidence": "55"
+    },
+    {
+      "name": "grated cabbage or celeriac salad (coleslaw-style)",
+      "portion_estimate": "100",
+      "confidence": "50"
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "15",
+      "confidence": "80"
+    },
+    {
+      "name": "penne pasta with tomato sauce and diced vegetables",
+      "portion_estimate": "220",
+      "confidence": "75"
+    },
+    {
+      "name": "bread rolls",
+      "portion_estimate": "60",
+      "confidence": "65"
+    },
+    {
+      "name": "Yomo fruit yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "75"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200",
+      "confidence": "60"
+    }
+  ]
+}

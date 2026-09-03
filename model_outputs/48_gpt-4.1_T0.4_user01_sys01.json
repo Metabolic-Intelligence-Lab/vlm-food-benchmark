@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "rigatoni pasta with tomato sauce",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "stuffed eggplant with cheese on vegetable mash",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "strawberry yogurt",
+      "portion_estimate": "125",
+      "confidence": 100
+    }
+  ]
+}

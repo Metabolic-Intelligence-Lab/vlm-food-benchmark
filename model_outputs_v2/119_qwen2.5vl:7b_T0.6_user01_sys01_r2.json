@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi with tomato sauce and parmesan",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "lentil soup",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "crusty bread",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200 milliliters",
+      "confidence": "90"
+    }
+  ]
+}

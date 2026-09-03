@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup",
+      "portion_estimate": "200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "boiled greens",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "vegetable patty with sauce",
+      "portion_estimate": "70 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "120 grams",
+      "confidence": "90"
+    }
+  ]
+}

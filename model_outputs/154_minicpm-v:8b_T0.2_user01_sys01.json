@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Green and red stuffed vegetable",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread bun",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta with pesto sauce and grated cheese",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    }
+  ]
+}

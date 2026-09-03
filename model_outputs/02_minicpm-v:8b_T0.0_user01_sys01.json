@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed salad",
+      "portion_estimate": "uncertain, approx. weight of bowl contents",
+      "confidence": "50"
+    },
+    {
+      "name": "Cucumber slices",
+      "portion_estimate": "uncertain, approx. weight based on size and typical portion",
+      "confidence": "60"
+    },
+    {
+      "name": "Red bell pepper strips",
+      "portion_estimate": "uncertain, approx. weight of visible pieces",
+      "confidence": "50"
+    },
+    {
+      "name": "Carrot shreds",
+      "portion_estimate": "uncertain, approx. weight based on size and typical portion",
+      "confidence": "60"
+    },
+    {
+      "name": "Purple cabbage strips",
+      "portion_estimate": "uncertain, approx. weight of visible pieces",
+      "confidence": "50"
+    }
+  ]
+}

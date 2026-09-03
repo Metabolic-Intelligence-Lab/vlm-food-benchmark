@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded cutlet",
+      "portion_estimate": "120 g",
+      "confidence": 4
+    },
+    {
+      "name": "Yogurt (Greek-style, Onda brand)",
+      "portion_estimate": "150 g",
+      "confidence": 5
+    },
+    {
+      "name": "Shredded carrots",
+      "portion_estimate": "100 g",
+      "confidence": 4
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "50 g",
+      "confidence": 4
+    },
+    {
+      "name": "Corn",
+      "portion_estimate": "20 g",
+      "confidence": 3
+    },
+    {
+      "name": "Cheese topping",
+      "portion_estimate": "20 g",
+      "confidence": 3
+    },
+    {
+      "name": "Tomato slice",
+      "portion_estimate": "20 g",
+      "confidence": 3
+    },
+    {
+      "name": "Bread (packaged, e.g., \"Bread\" brand)",
+      "portion_estimate": "210 g",
+      "confidence": 5
+    }
+  ]
+}

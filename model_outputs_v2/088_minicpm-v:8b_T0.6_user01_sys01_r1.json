@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain penne pasta with pesto sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Rice porridge with peas",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Quiche slice",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

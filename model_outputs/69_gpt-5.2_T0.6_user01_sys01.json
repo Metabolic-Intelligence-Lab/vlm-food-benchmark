@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked brussels sprouts",
+      "portion_estimate": "170 g",
+      "confidence": "78"
+    },
+    {
+      "name": "saut\u00e9ed mushrooms",
+      "portion_estimate": "60 g",
+      "confidence": "62"
+    },
+    {
+      "name": "cooked green peppers (sliced)",
+      "portion_estimate": "50 g",
+      "confidence": "65"
+    },
+    {
+      "name": "oily/buttery sauce or cooking oil (residual in container)",
+      "portion_estimate": "15 g",
+      "confidence": "60"
+    },
+    {
+      "name": "water or non-caloric beverage in blue bottle (uncertain)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

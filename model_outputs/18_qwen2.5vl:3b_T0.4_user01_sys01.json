@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

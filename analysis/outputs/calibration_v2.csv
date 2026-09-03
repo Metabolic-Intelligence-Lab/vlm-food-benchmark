@@ -1,0 +1,5 @@
+model,config,epsilon,n,w0,k,mae_raw,medae_raw,mae_cal_insample,medae_cal_insample,mae_cal_cv,medae_cal_cv
+gpt-5.5,pooled r1-r3,0.6,1464,41.05,0.739,39.42,20.0,40.55,27.38,40.73,27.45
+claude-sonnet-5,pooled r1-r3,0.6,1256,49.07,0.745,40.4,24.0,41.06,27.6,41.27,27.77
+qwen3.5:9b,r1 T0.4,0.6,366,46.61,0.723,45.24,29.5,44.57,31.9,44.89,32.1
+minicpm-v4.5:8b,r1 T0.4,0.6,394,44.96,0.846,48.78,32.0,48.24,33.52,48.51,33.49

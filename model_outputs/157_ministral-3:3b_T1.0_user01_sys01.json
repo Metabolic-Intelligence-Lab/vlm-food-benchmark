@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (plain)",
+      "portion_estimate": "300",
+      "confidence": 90
+    },
+    {
+      "name": "penne pasta with Parmesan cheese sprinkled",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "roasted kidney beans (lentils or chickpeas?)",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "small cheese or rice-based balls (like polenta balls)",
+      "portion_estimate": "70",
+      "confidence": 80
+    },
+    {
+      "name": "sliced apple",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "diced carrot or parsnip (visible in bottom plate)",
+      "portion_estimate": "20",
+      "confidence": 85
+    }
+  ]
+}

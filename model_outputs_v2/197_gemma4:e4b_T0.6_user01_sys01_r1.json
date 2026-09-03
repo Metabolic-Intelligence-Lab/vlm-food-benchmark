@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fried savory pieces (e.g., chicken or plantain)",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll or bun",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Saut\u00e9ed green vegetables (e.g., spinach or herbs)",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried fritters or vegetable/meat balls",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    }
+  ]
+}

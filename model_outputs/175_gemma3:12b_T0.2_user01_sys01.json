@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "baked cod fillet",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "collard greens with potatoes",
+      "portion_estimate": "120",
+      "confidence": "75"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100",
+      "confidence": "90"
+    }
+  ]
+}

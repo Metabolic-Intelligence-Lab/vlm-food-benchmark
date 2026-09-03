@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable rice pilaf with mixed vegetables (corn, carrots, zucchini, peas, green beans)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potato wedges (tater tots or similar)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "sausage roll or handpie (baked meat pastry)",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (sweetened, possibly Greek yogurt)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "peanut butter packet (single-serve)",
+      "portion_estimate": "35",
+      "confidence": 90
+    }
+  ]
+}

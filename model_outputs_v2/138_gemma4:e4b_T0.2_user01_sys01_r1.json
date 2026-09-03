@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed cooked rice (base grain)",
+      "portion_estimate": "320-350",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked green leafy vegetables (e.g., spinach)",
+      "portion_estimate": "120-150",
+      "confidence": "85"
+    },
+    {
+      "name": "Cashew or peanut pieces (mixed nuts)",
+      "portion_estimate": "60-80",
+      "confidence": "80"
+    }
+  ]
+}

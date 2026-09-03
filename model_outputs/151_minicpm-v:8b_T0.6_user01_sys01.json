@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Brussel sprouts with carrots",
+      "portion_estimate": "uncertain (approximate estimate required)",
+      "confidence": "60"
+    },
+    {
+      "name": "Omelet with Brussel sprouts and carrots",
+      "portion_estimate": "uncertain (approximate estimate required)",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta with mushrooms, cheese, and possibly nuts or seeds",
+      "portion_estimate": "uncertain (approximate estimate required)",
+      "confidence": "60"
+    },
+    {
+      "name": "White bread slice",
+      "portion_estimate": "1.5-2 slices of typical white bread weight",
+      "confidence": "70"
+    },
+    {
+      "name": "Plums or dark grapes",
+      "portion_estimate": "uncertain (approximate estimate required)",
+      "confidence": "60"
+    }
+  ]
+}

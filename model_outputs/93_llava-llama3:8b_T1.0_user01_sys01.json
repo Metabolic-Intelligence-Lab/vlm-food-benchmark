@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Fish",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Cooked Chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Baguette",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Jam",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

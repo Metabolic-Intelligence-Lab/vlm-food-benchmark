@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "creamy soup with cheese topping (likely broccoli-cheese or similar)",
+      "portion_estimate": "500",
+      "confidence": 85
+    },
+    {
+      "name": "baked bread roll (garlic or herb flavor)",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "fried potato and onion hash (potato r\u00f6sti or similar)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "sausage or meat patty (grilled or pan-fried)",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or saut\u00e9ed broccoli florets",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "condiment packet (likely ketchup or tomato sauce)",
+      "portion_estimate": "15",
+      "confidence": 70
+    },
+    {
+      "name": "butter or margarine packet (partially visible)",
+      "portion_estimate": "10",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Salad (mixed greens, carrots, cucumbers)",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Brioche roll (single wrapped item)",
+      "portion_estimate": "80 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Plums (3 total)",
+      "portion_estimate": "60 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Cooked greens (spinach)",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Sandwich (small slice of bread with toppings)",
+      "portion_estimate": "30 grams",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked fusilli pasta with tomato-based sauce and cheese/breadcrumb topping",
+      "portion_estimate": "240 g",
+      "confidence": "72"
+    },
+    {
+      "name": "purple cabbage salad with cucumber slice (light dressing)",
+      "portion_estimate": "90 g",
+      "confidence": "78"
+    },
+    {
+      "name": "fried breaded spinach/vegetable patties (2 pieces)",
+      "portion_estimate": "130 g",
+      "confidence": "66"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "80"
+    },
+    {
+      "name": "chocolate pudding or cake-like dessert with chocolate sauce",
+      "portion_estimate": "110 g",
+      "confidence": "60"
+    }
+  ]
+}

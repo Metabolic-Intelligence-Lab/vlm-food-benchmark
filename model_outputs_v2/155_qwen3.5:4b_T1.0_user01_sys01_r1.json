@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of pasta (bow-tie shape) with cheese and a pat of butter",
+      "portion_estimate": "250 g",
+      "confidence": 85
+    },
+    {
+      "name": "single banana",
+      "portion_estimate": "120 g",
+      "confidence": 90
+    },
+    {
+      "name": "plate of scrambled eggs with mixed vegetables (peas and carrots)",
+      "portion_estimate": "300 g",
+      "confidence": 85
+    },
+    {
+      "name": "one slice of bread, partially in plastic wrap",
+      "portion_estimate": "30 g",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "plain cooked spaghetti",
+      "portion_estimate": "approximately 220 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "approximately 60 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "approximately 160 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "square potato-topped savory tart or pizza slice",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "uncertain packaged cheese slice",
+      "portion_estimate": "approximately 25 grams",
+      "confidence": "55"
+    },
+    {
+      "name": "cooked yellow cabbage or onion side dish",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "65"
+    }
+  ]
+}

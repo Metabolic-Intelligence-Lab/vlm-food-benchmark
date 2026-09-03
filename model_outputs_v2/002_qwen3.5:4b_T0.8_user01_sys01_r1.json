@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed salad (tomatoes, cucumber, cabbage, radicchio, carrots)",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "Side dish (green crumb-coated item)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

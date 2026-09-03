@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of cooked broccoli (possibly with sauce/seasoning)",
+      "portion_estimate": "180 g",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked diced potatoes with herbs/seasoning",
+      "portion_estimate": "170 g",
+      "confidence": "78"
+    },
+    {
+      "name": "two pieces of cooked white fish fillet (or similar lean white protein) with light sauce",
+      "portion_estimate": "140 g",
+      "confidence": "62"
+    },
+    {
+      "name": "whole grain bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "70"
+    },
+    {
+      "name": "dessert yogurt cup (strawberry flavored, 'ROMO' brand)",
+      "portion_estimate": "125 g",
+      "confidence": "85"
+    }
+  ]
+}

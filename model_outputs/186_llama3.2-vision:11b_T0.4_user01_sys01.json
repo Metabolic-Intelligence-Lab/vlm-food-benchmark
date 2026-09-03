@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Water Glass",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    }
+  ]
+}

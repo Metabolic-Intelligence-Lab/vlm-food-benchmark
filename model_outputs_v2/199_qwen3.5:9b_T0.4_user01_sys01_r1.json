@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green pesto pasta with grated cheese",
+      "portion_estimate": 250,
+      "confidence": 90
+    },
+    {
+      "name": "Whole wheat roll in plastic packaging",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Mashed potato pie or shepherd's pie with peas and bacon bits",
+      "portion_estimate": 280,
+      "confidence": 85
+    },
+    {
+      "name": "Yoplait Greek yogurt cup (blue lid)",
+      "portion_estimate": 150,
+      "confidence": 95
+    }
+  ]
+}

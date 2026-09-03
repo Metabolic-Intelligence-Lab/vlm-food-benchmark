@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "yellow noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "apple slice",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bananas",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "oranges",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "apples",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pears",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

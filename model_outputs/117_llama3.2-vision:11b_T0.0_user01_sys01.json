@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Plate of Meat and Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

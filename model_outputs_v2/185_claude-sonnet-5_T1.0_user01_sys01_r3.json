@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "220",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll, wrapped in plastic",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "roasted potato cubes with herbs",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded meat cutlet (schnitzel-style)",
+      "portion_estimate": "100",
+      "confidence": "55"
+    },
+    {
+      "name": "shredded cabbage/carrot coleslaw salad",
+      "portion_estimate": "50",
+      "confidence": "65"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "50"
+    }
+  ]
+}

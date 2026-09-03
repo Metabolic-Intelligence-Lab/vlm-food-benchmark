@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded and fried cutlet",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "mixed vegetable medley",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": 90
+    }
+  ]
+}

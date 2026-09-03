@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "garlic bread or toast with garlic butter",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed kale or Swiss chard",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "truffle or parmesan fries (pommes truff\u00e9es or parmesan fries)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "condiment packet (likely truffle or herb seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "yogurt or creamy dip (in small container)",
+      "portion_estimate": "uncertain (likely ~100 grams)",
+      "confidence": 70
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "uncertain (likely ~250 ml)",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli soup",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried chicken",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "plastic-wrapped corn tortilla",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bowl of soup with grated cheese",
+      "portion_estimate": "300g",
+      "confidence": 85
+    },
+    {
+      "name": "plate with yellow hummus or mashed bean dish (possibly chili or refried beans) and fried corn tortilla chips",
+      "portion_estimate": "150g (main dish) + 50g (chips)",
+      "confidence": 85
+    },
+    {
+      "name": "container of blueberry yogurt (Greek yogurt with berries)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "plastic-wrapped corn tortilla (second, possibly partially eaten)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "drink cup (likely iced tea or coffee with ice)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

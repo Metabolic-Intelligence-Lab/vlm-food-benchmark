@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Farfalle pasta with creamy sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Grilled chicken with sauce",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Roasted vegetables (carrots and onions)",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

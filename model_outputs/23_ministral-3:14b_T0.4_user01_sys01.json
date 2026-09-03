@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "polenta or cornmeal-based dish topped with tomato sauce and cheese",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "shredded or chopped chicken breast",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "15g",
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta with tomato-based sauce and diced vegetables",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "water (in clear plastic cup)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "parmesan cheese (grated, in small plastic container)",
+      "portion_estimate": "20g",
+      "confidence": 75
+    },
+    {
+      "name": "bread roll (partially visible in plastic bag)",
+      "portion_estimate": "60g",
+      "confidence": 70
+    }
+  ]
+}

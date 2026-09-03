@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sliced vegetables (carrot, other vegetables and greens)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

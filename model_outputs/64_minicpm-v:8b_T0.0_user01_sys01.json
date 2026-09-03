@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and vegetables",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Potato wedges",
+      "portion_estimate": "uncertain, approx 75g",
+      "confidence": "40"
+    },
+    {
+      "name": "Sausage roll with cheese and tomato sauce",
+      "portion_estimate": "uncertain, approx 125g",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt cup",
+      "portion_estimate": "uncertain, approx 125g",
+      "confidence": "40"
+    }
+  ]
+}

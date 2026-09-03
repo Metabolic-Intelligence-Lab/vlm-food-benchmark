@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "carrot and herb patty",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "baked pasta with cheese (fettuccine al burro)",
+      "portion_estimate": "250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "plastic-wrapped dough (possible pizza crust or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "blueberries",
+      "portion_estimate": "100 grams (approx. 3-4 medium blueberries)",
+      "confidence": 92
+    },
+    {
+      "name": "yellow bagged item (potentially seasoning, rice, or another ingredient)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

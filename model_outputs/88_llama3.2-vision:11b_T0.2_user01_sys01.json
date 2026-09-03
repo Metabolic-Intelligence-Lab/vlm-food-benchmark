@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (whole wheat with light brown sauce and grated cheese)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Omelette (mushroom)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Bread (white roll)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Banana (ripe, not peeled)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

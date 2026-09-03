@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked fusilli pasta with vegetables",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "cornmeal patties",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "fresh apricots",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "soft bread roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    }
+  ]
+}

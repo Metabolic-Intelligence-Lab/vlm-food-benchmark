@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken in creamy sauce",
+      "portion_estimate": "90",
+      "confidence": 85
+    },
+    {
+      "name": "cooked green beans in tomato sauce",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "boiled leafy greens with potatoes",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "130",
+      "confidence": 95
+    },
+    {
+      "name": "packaged breadstick",
+      "portion_estimate": "15",
+      "confidence": 80
+    }
+  ]
+}

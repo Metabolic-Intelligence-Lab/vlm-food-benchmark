@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted scallop with asparagus",
+      "portion_estimate": "200-300g",
+      "confidence": 85
+    },
+    {
+      "name": "Mixed salad greens in a bowl (uncertain)",
+      "portion_estimate": "150g approx.",
+      "confidence": 60
+    },
+    {
+      "name": "Baked bread roll with plastic wrap around it",
+      "portion_estimate": "120-140g approx.",
+      "confidence": 80
+    }
+  ]
+}

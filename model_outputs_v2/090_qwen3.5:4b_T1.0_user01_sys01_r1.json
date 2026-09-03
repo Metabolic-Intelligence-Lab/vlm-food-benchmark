@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "White rice, with melted butter or cheese",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "Mixed vegetables: carrots and potatoes",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "Stir-fry with cauliflower, broccoli or similar greens, and carrots",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "Baguette bread roll",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "Apple (green)",
+      "portion_estimate": "150",
+      "confidence": 95
+    }
+  ]
+}

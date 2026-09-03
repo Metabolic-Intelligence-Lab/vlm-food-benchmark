@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "salad in bowl",
+      "portion_estimate": "250 grams",
+      "confidence": 95
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "150 grams",
+      "confidence": 10
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    }
+  ]
+}

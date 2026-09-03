@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup (pureed, likely spinach/greens)",
+      "portion_estimate": "350 g",
+      "confidence": "70"
+    },
+    {
+      "name": "sliced cooked carrots",
+      "portion_estimate": "90 g",
+      "confidence": "85"
+    },
+    {
+      "name": "breaded fried balls (falafel or croquettes), 2 pieces",
+      "portion_estimate": "90 g",
+      "confidence": "65"
+    },
+    {
+      "name": "string cheese (mozzarella), individually wrapped",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "75"
+    }
+  ]
+}

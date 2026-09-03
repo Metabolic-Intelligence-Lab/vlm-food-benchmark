@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup with an orange",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "plate of food with an orange",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange next to a plate of food",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

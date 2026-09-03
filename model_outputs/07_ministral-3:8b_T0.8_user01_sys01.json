@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baguette or French roll (single piece)",
+      "portion_estimate": "60 grams",
+      "confidence": 75
+    },
+    {
+      "name": "frozen fruit yogurt or similar (container with lid)",
+      "portion_estimate": "uncertain (size unconfirmed, but likely 100-150g)",
+      "confidence": 50
+    },
+    {
+      "name": "fried breadstick or crouton",
+      "portion_estimate": "30 grams",
+      "confidence": 70
+    },
+    {
+      "name": "chickpea or vegetable soup with shredded cheese",
+      "portion_estimate": "400 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mixed greens salad with shredded carrots and croutons",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    }
+  ]
+}

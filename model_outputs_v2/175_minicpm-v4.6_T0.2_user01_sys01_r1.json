@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "stir-fried green beans with meat and sauce",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "cooked leafy vegetables with diced yellow ingredients",
+      "portion_estimate": "180 g",
+      "confidence": 85
+    },
+    {
+      "name": "an orange",
+      "portion_estimate": "100 g",
+      "confidence": 90
+    }
+  ]
+}

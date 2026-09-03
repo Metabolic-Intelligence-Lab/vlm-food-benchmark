@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "180g",
+      "confidence": "80"
+    },
+    {
+      "name": "Couscous",
+      "portion_estimate": "180g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "55g",
+      "confidence": "80"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Oyster",
+      "portion_estimate": "40g",
+      "confidence": "70"
+    }
+  ]
+}

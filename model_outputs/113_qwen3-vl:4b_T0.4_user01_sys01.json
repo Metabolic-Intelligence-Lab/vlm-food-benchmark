@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "dinner roll",
+      "portion_estimate": "50 g",
+      "confidence": "100"
+    },
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "200 g",
+      "confidence": "100"
+    },
+    {
+      "name": "savory pie",
+      "portion_estimate": "100 g",
+      "confidence": "100"
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "150 g",
+      "confidence": "100"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "50 g",
+      "confidence": "100"
+    },
+    {
+      "name": "apples",
+      "portion_estimate": "300 g",
+      "confidence": "100"
+    }
+  ]
+}

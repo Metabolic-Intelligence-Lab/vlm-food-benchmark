@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked chickpeas (garbanzo beans)",
+      "portion_estimate": "150 g",
+      "confidence": "82"
+    },
+    {
+      "name": "breaded patty/cutlet with tomato-based sauce and shredded cheese (likely chicken or vegetable)",
+      "portion_estimate": "120 g",
+      "confidence": "62"
+    },
+    {
+      "name": "cooked rotini pasta with tomato sauce",
+      "portion_estimate": "220 g",
+      "confidence": "85"
+    },
+    {
+      "name": "plain bread roll/bun",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "sealed fruit yogurt cup (Yomo brand)",
+      "portion_estimate": "125 g",
+      "confidence": "78"
+    }
+  ]
+}

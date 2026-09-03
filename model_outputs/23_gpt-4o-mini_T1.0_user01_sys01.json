@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "yellow rice with tomato garnish",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked cauliflower",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "small bread rolls",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "240",
+      "confidence": "90"
+    }
+  ]
+}

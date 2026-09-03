@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "colorful salad",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

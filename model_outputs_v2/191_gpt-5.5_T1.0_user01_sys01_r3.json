@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green pureed soup with oil drizzle",
+      "portion_estimate": "320 g",
+      "confidence": "75"
+    },
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "70 g",
+      "confidence": "90"
+    },
+    {
+      "name": "sesame-coated falafel or vegetable balls",
+      "portion_estimate": "100 g",
+      "confidence": "58"
+    },
+    {
+      "name": "packaged Torinesi breadsticks",
+      "portion_estimate": "25 g",
+      "confidence": "85"
+    },
+    {
+      "name": "wrapped cheese stick or soft cheese portion",
+      "portion_estimate": "80 g",
+      "confidence": "45"
+    },
+    {
+      "name": "single-serve yogurt or dessert cup",
+      "portion_estimate": "125 g",
+      "confidence": "65"
+    },
+    {
+      "name": "dark leafy greens or seaweed, partially visible",
+      "portion_estimate": "30 g",
+      "confidence": "45"
+    }
+  ]
+}

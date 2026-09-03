@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "yellow fruit (apple or banana)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "burger",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

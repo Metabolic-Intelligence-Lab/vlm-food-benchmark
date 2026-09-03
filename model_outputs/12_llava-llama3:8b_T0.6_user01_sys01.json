@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried egg with hash browns",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "kale",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "plastic cups (red and white)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "empty glass cup",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "silver spoon",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

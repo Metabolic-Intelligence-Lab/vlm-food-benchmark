@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Baked beans",
+      "portion_estimate": "150g",
+      "confidence": 70
+    },
+    {
+      "name": "Mashed potatoes with cheese sauce",
+      "portion_estimate": "120g",
+      "confidence": 60
+    },
+    {
+      "name": "Biscuit",
+      "portion_estimate": "80g",
+      "confidence": 50
+    }
+  ]
+}

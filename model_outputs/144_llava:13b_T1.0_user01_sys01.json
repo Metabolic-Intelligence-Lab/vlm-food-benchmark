@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta with Ricotta Cheese",
+      "portion_estimate": "1 cup",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread rolls with butter (2)",
+      "portion_estimate": "4 oz per bread roll",
+      "confidence": "70"
+    },
+    {
+      "name": "Scrambled eggs with vegetables",
+      "portion_estimate": "1/2 cup",
+      "confidence": "60"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "medium-sized fruit",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "diced carrots and onions (mixed)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "breaded fish fillet (pan-fried)",
+      "portion_estimate": "180 grams",
+      "confidence": 85
+    },
+    {
+      "name": "breaded and fried chicken or vegetable cutlets (likely chicken)",
+      "portion_estimate": "160 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat roll or bun",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "condiment packet (likely ketchup or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

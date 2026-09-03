@@ -1,0 +1,25 @@
+{
+  "food_items": [
+    {
+      "name": "pasta dish with red sauce",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "diced potatoes",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "ground meat or stew",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "water glass",
+      "portion_estimate": "250g",
+      "confidence": 85
+    }
+  ],
+  "note": "Portion estimates are based on visual assessment of typical serving sizes."
+}

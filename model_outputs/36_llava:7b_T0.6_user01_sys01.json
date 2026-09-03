@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Hamburger Patty",
+      "portion_estimate": "125 g",
+      "confidence": "90"
+    },
+    {
+      "name": "Coleslaw",
+      "portion_estimate": "30 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried Chicken Piece",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green Salad with Dressing",
+      "portion_estimate": "200 g",
+      "confidence": "80"
+    },
+    {
+      "name": "French Fries",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Sliced Bread Rolls",
+      "portion_estimate": "150 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Pickles",
+      "portion_estimate": "50 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Coleslaw Salad",
+      "portion_estimate": "300 g",
+      "confidence": "80"
+    }
+  ]
+}

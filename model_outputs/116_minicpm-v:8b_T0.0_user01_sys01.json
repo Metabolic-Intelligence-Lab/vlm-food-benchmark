@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain, approx. bowl size",
+      "confidence": "50"
+    },
+    {
+      "name": "cauliflower rice",
+      "portion_estimate": "uncertain, approx. plate size",
+      "confidence": "60"
+    },
+    {
+      "name": "cracker",
+      "portion_estimate": "uncertain, approx. slice of bread size",
+      "confidence": "50"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain, approx. cup size",
+      "confidence": "60"
+    }
+  ]
+}

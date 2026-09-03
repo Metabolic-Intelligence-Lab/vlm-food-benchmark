@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked spinach with sauce",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Meatballs in gravy",
+      "portion_estimate": "80g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "100g",
+      "confidence": "50"
+    }
+  ]
+}

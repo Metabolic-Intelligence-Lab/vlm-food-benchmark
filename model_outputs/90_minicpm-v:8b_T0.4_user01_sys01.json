@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain, approx. half a plate",
+      "confidence": "50"
+    },
+    {
+      "name": "baked bun",
+      "portion_estimate": "uncertain, approx. one quarter of the tray's width and height",
+      "confidence": "60"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "approximate size of a tennis ball",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed vegetables (carrots, pineapple chunks)",
+      "portion_estimate": "uncertain but likely half the plate's surface area",
+      "confidence": "60"
+    },
+    {
+      "name": "stir-fried mixed greens and shrimp",
+      "portion_estimate": "approximate size of a quarter plate on its own",
+      "confidence": "75"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+Here is a concise list of each food item with estimated portions, based on typical serving sizes and observable context. Confidence levels are provided to reflect the accuracy of the estimation (higher confidence = more precise estimation):
+
+1. **Diced Butternut Squash**  
+   - Portion: 120g  
+   - Confidence: 80% (Standard serving size for a side dish or salad component).
+
+2. **Tomato Soup**  
+   - Portion: 250g  
+   - Confidence: 80% (A typical bowl of soup in a meal setting).
+
+3. **Whole Apricots (3 pieces)**  
+   - Portion: 120g  
+   - Confidence: 80% (Each apricot averages ~40g; 3 pieces = 120g).
+
+4. **Cheese-Topped Cookie**  
+   - Portion: 50g  
+   - Confidence: 70% (Cookie base + small cheese topping; estimate based on visual proportion).
+
+5. **Packaged Roll (Zurich brand)**  
+   - Portion: 100g  
+   - Confidence: 70% (Standard weight for a small bread roll; label suggests it is a packaged food item).
+
+---
+
+### Notes:
+- **Estimation Logic**:  
+  - Diced squash and apricots are measured by count/size (e.g., "3 apricots" ≈ 120g).  
+  - Soup volume is estimated from a typical bowl (e.g., 250g = ~1 cup).  
+  - The cookie’s cheese topping is visually small, so total weight is adjusted downward.  
+  - The packaged roll’s weight is inferred from standard roll sizes and the label (“Zurich” suggests a commercial product).  
+
+- **Confidence Factors**:  
+  - Higher confidence (80%) applies to items with clear visual cues (e.g., countable pieces or standard container sizes).  
+  - Lower confidence (70%) applies to items where visual details are ambiguous (e.g., cheese on the cookie or exact roll weight).  
+
+This breakdown prioritizes accuracy within reasonable assumptions, ensuring the portions align with common meal portions for a balanced tray.

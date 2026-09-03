@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta and broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "3 grams",
+      "confidence": 90
+    }
+  ]
+}

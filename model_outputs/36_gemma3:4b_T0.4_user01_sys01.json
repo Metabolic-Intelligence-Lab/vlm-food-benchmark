@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with Red Sauce",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "Sliced Cucumber",
+      "portion_estimate": "75g",
+      "confidence": 70
+    },
+    {
+      "name": "Falafel Balls",
+      "portion_estimate": "60g",
+      "confidence": 65
+    },
+    {
+      "name": "Sauce (likely tomato-based)",
+      "portion_estimate": "60g",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "0-100"
+    },
+    {
+      "name": "potato wedges with herbs",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "65"
+    },
+    {
+      "name": "mashed cauliflower",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "0-100"
+    },
+    {
+      "name": "potato salad with herbs and raisins",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "65"
+    },
+    {
+      "name": "soup (possibly chicken noodle soup)",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "0-100"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable Soup",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "125g",
+      "confidence": "60"
+    }
+  ]
+}

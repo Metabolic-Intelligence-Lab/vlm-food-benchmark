@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Egg Omelette",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Melted Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Sliced Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

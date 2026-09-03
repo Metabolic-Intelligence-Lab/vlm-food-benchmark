@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "soup with vegetables and meat/legumes",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "cooked greens (spinach or leafy green)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread (roll or bun)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pasta dish or similar meal",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "cold beverage (tea or coffee)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "orange slice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

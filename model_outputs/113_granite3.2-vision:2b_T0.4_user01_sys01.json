@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "meat item",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "orange vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

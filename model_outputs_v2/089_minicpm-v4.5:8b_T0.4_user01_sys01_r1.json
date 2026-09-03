@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white rice with butter",
+      "portion_estimate": "200-250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "white fish fillet",
+      "portion_estimate": "100-150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat bread roll",
+      "portion_estimate": "50-60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "green pear",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    }
+  ]
+}

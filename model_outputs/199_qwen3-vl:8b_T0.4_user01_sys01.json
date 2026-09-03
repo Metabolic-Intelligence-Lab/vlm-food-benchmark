@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "name": "spinach penne pasta",
+      "description": "Green penne pasta with visible cheese topping",
+      "portion": 180,
+      "unit": "g",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "description": "Single round bread roll",
+      "portion": 60,
+      "unit": "g",
+      "confidence": 85
+    },
+    {
+      "name": "green peas",
+      "description": "Fresh green peas on a plate",
+      "portion": 170,
+      "unit": "g",
+      "confidence": 90
+    },
+    {
+      "name": "baked pastry with green topping",
+      "description": "Small baked item with green icing or glaze",
+      "portion": 80,
+      "unit": "g",
+      "confidence": 80
+    },
+    {
+      "name": "Poline beverage",
+      "description": "Beverage in a container labeled 'Poline'",
+      "portion": 100,
+      "unit": "ml",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Brussel sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Grilled fish fillet with sesame seeds",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Spinach and scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

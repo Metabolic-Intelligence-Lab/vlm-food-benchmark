@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "approx. 250g",
+      "confidence": "80"
+    },
+    {
+      "name": "Eggs with sauce",
+      "portion_estimate": "approx. 100g",
+      "confidence": "60"
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "approx. 75g",
+      "confidence": "70"
+    },
+    {
+      "name": "Toast",
+      "portion_estimate": "approx. 40g",
+      "confidence": "60"
+    }
+  ]
+}

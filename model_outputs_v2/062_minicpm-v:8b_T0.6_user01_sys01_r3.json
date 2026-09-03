@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "uncertain weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread Roll (unspecified type)",
+      "portion_estimate": "uncertain weight in grams",
+      "confidence": "50"
+    }
+  ]
+}

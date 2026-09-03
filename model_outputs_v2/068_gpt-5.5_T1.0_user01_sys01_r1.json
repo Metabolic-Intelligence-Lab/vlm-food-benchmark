@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "short pasta pieces",
+      "portion_estimate": "140 g",
+      "confidence": "90"
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "70 g",
+      "confidence": "88"
+    },
+    {
+      "name": "red tomato or red bell pepper pieces",
+      "portion_estimate": "45 g",
+      "confidence": "55"
+    },
+    {
+      "name": "carrot strips",
+      "portion_estimate": "15 g",
+      "confidence": "80"
+    },
+    {
+      "name": "white onion pieces",
+      "portion_estimate": "15 g",
+      "confidence": "70"
+    },
+    {
+      "name": "black olive pieces",
+      "portion_estimate": "5 g",
+      "confidence": "75"
+    },
+    {
+      "name": "small white cheese cubes",
+      "portion_estimate": "10 g",
+      "confidence": "55"
+    },
+    {
+      "name": "small pink processed meat or tuna pieces",
+      "portion_estimate": "15 g",
+      "confidence": "45"
+    }
+  ]
+}

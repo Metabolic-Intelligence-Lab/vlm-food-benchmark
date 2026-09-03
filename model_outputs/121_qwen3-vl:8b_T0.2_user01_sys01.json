@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with cheese",
+      "portion_estimate": 120,
+      "confidence": 70
+    },
+    {
+      "name": "Mixed vegetable salad (carrots, red cabbage, lettuce)",
+      "portion_estimate": 100,
+      "confidence": 70
+    },
+    {
+      "name": "Whole grain bread (two slices)",
+      "portion_estimate": 100,
+      "confidence": 70
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": 120,
+      "confidence": 80
+    },
+    {
+      "name": "Brownie or cake",
+      "portion_estimate": 50,
+      "confidence": 70
+    }
+  ]
+}

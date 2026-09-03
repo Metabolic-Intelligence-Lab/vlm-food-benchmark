@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Baked Eggplant",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "Pasta with Sauce",
+      "portion_estimate": "120g",
+      "confidence": 65
+    },
+    {
+      "name": "Potato",
+      "portion_estimate": "180g",
+      "confidence": 60
+    }
+  ]
+}

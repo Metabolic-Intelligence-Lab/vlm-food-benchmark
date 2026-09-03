@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne with Tomato Sauce",
+      "portion_estimate": "uncertain, approximately 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Grilled Chicken Breast",
+      "portion_estimate": "uncertain, approximately 75-90g",
+      "confidence": "40"
+    },
+    {
+      "name": "Cauliflower Rice",
+      "portion_estimate": "uncertain, approximately 120g",
+      "confidence": "60"
+    },
+    {
+      "name": "Yellow Pepper Slices",
+      "portion_estimate": "uncertain, approximately 35-45g",
+      "confidence": "70"
+    }
+  ]
+}

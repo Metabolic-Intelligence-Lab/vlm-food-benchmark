@@ -1,0 +1,38 @@
+{
+  "tray": [
+    {
+      "name": "Pasta with Meatballs",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    }
+  ],
+  "plates": [
+    {
+      "name": "Vegetable Salad with Cheese and Potatoes on the side",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Baked Brie with Crackers",
+      "portion_estimate": "135g",
+      "confidence": "80"
+    }
+  ],
+  "cutlery": [
+    {
+      "item": "Fork",
+      "portion_estimate": "20g",
+      "confidence": "70"
+    },
+    {
+      "item": "Knife",
+      "portion_estimate": "30g",
+      "confidence": "60"
+    }
+  ]
+}

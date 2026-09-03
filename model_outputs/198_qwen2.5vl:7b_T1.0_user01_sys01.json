@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "Fish with sauce",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "50",
+      "confidence": "60"
+    }
+  ]
+}

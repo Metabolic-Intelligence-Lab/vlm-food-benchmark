@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "220 g",
+      "confidence": "70"
+    },
+    {
+      "name": "white beans (cooked, possibly with small potato pieces)",
+      "portion_estimate": "170 g",
+      "confidence": "65"
+    },
+    {
+      "name": "cooked fish fillet (white fish) with herbs",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "slice of multigrain bread",
+      "portion_estimate": "30 g",
+      "confidence": "80"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    }
+  ]
+}

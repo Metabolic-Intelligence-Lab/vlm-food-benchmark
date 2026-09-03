@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "meat patty",
+      "portion_estimate": "50 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "100 g",
+      "confidence": "60"
+    },
+    {
+      "name": "carrot slices",
+      "portion_estimate": "50 g",
+      "confidence": "80"
+    },
+    {
+      "name": "raw beets",
+      "portion_estimate": "100 g",
+      "confidence": "70"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150 g",
+      "confidence": "50"
+    }
+  ]
+}

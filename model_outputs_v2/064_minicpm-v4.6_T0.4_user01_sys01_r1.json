@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "diced potatoes with baked item (pastry)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "rotini pasta with vegetables (peppers)",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "small portion of yogurt or dessert",
+      "portion_estimate": "50g",
+      "confidence": 95
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250ml",
+      "confidence": 80
+    },
+    {
+      "name": "bag of bread",
+      "portion_estimate": "100g",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "300g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "red cabbage",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Mushroom soup",
+      "portion_estimate": "approximate weight in grams for a serving of mushroom soup (based on average portion size)",
+      "confidence": 75
+    },
+    {
+      "name": "Mixed vegetable medley with mushrooms",
+      "portion_estimate": "approximate weight in grams for mixed vegetables and carrots, estimated based on visual assessment",
+      "confidence": 80
+    },
+    {
+      "name": "Sauteed spinach or leafy greens",
+      "portion_estimate": "approximate weight in grams based on average portion size of sauteed leafy greens (estimated by volume)",
+      "confidence": 75
+    },
+    {
+      "name": "Strawberry yogurt cup",
+      "portion_estimate": "standard serving size for this type of product, estimated based on visual assessment",
+      "confidence": 80
+    }
+  ]
+}

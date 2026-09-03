@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread with purple sauce and green leaves",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "red soup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange soup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "light brown rice",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "dark brown sausages",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "light green brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "baguette",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with meat sauce",
+      "portion_estimate": "100-200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "green salad",
+      "portion_estimate": "50-75 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "spinach and kale side dish",
+      "portion_estimate": "50-75 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50-75 grams",
+      "confidence": "40"
+    }
+  ]
+}

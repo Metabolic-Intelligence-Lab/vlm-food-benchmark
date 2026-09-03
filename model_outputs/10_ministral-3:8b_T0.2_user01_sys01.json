@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "creamy soup (likely potato or cheese-based)",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "potato hash or diced potatoes (fried or roasted)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "potato croquette or cheese-filled potato ball (two pieces)",
+      "portion_estimate": "150 grams (total for both)",
+      "confidence": 80
+    },
+    {
+      "name": "buttered roll or bread roll",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "sour cream or similar condiment (small container)",
+      "portion_estimate": "uncertain (likely 30-50 grams)",
+      "confidence": 50
+    },
+    {
+      "name": "water (in glass bottle)",
+      "portion_estimate": "uncertain (likely 250-500 ml)",
+      "confidence": 50
+    }
+  ]
+}

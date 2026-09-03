@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "dumplings",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "macaroni",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

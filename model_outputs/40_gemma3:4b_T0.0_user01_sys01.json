@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Quiche Slice",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "Carrot Slices",
+      "portion_estimate": "60g",
+      "confidence": 70
+    },
+    {
+      "name": "Rice Salad",
+      "portion_estimate": "150g",
+      "confidence": 65
+    }
+  ]
+}

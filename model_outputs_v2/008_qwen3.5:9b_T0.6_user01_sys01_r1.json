@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Brown vegetable soup with grated cheese",
+      "portion_estimate": 350,
+      "confidence": 90
+    },
+    {
+      "name": "Plain bread roll",
+      "portion_estimate": 85,
+      "confidence": 92
+    },
+    {
+      "name": "Mixed green salad with dressing",
+      "portion_estimate": 150,
+      "confidence": 88
+    },
+    {
+      "name": "Two falafel balls",
+      "portion_estimate": 140,
+      "confidence": 90
+    },
+    {
+      "name": "Yomama yogurt (raspberry flavor)",
+      "portion_estimate": 125,
+      "confidence": 95
+    },
+    {
+      "name": "Water",
+      "portion_estimate": 300,
+      "confidence": 85
+    }
+  ]
+}

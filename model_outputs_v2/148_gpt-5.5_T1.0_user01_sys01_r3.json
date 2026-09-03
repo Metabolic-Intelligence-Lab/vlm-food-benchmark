@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto sauce and grated cheese",
+      "portion_estimate": "250 g",
+      "confidence": "85"
+    },
+    {
+      "name": "steamed cauliflower",
+      "portion_estimate": "180 g",
+      "confidence": "85"
+    },
+    {
+      "name": "uncertain vegetable frittata or savory muffin with carrot topping",
+      "portion_estimate": "85 g",
+      "confidence": "55"
+    },
+    {
+      "name": "dark plums",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    }
+  ]
+}

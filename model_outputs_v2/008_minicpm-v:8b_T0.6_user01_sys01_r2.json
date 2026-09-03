@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Green soup",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Mushroom and onion salad",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "1/2 of a standard-sized bread roll, approx. 65 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Diced chicken salad with lettuce and cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Green sauce or paste on two round items",
+      "portion_estimate": "2-3 rounded spoonfuls, approx. each item is about 15 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Yogurt with green herbs and spices",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

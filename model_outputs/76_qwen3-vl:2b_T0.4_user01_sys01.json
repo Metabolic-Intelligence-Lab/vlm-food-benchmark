@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with vegetables",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "Couscous with vegetables",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread (wrapped)",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "Eggplant with cheese and vegetables",
+      "portion_estimate": "50",
+      "confidence": "85"
+    }
+  ]
+}

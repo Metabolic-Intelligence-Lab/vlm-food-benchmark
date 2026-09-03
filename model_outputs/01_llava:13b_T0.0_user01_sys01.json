@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Green lentil soup",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Rice with vegetables and meat",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }
+  ]
+}

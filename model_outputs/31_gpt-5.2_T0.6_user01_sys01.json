@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with pesto sauce",
+      "portion_estimate": "230 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated parmesan cheese (on pasta)",
+      "portion_estimate": "12 g",
+      "confidence": "72"
+    },
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "180 g",
+      "confidence": "80"
+    },
+    {
+      "name": "eggplant rollatini / stuffed eggplant slice (eggplant with cheese/vegetable filling)",
+      "portion_estimate": "95 g",
+      "confidence": "62"
+    },
+    {
+      "name": "banana (whole, unpeeled)",
+      "portion_estimate": "120 g",
+      "confidence": "86"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "74"
+    },
+    {
+      "name": "water (in cup)",
+      "portion_estimate": "200 g",
+      "confidence": "67"
+    }
+  ]
+}

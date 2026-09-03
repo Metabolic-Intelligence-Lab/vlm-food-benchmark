@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "chicken pieces",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed vegetables (carrots, peas, potatoes)",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "polenta",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "saut\u00e9ed spinach",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "240",
+      "confidence": "85"
+    },
+    {
+      "name": "fruit yogurt",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

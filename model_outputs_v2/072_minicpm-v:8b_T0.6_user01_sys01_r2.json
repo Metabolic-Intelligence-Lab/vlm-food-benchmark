@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Steamed carrots and parsnips",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Lentil stew with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Red and white yogurt cup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

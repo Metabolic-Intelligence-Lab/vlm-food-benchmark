@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "breadsticks or crusty bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad with mixed greens, tomato, and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fruit salad with banana and other fruits",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sugar or sweetener packet",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

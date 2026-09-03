@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with vegetables",
+      "portion_estimate": "uncertain, approximately 150g",
+      "confidence": "40"
+    },
+    {
+      "name": "Potato wedges",
+      "portion_estimate": "uncertain, approximately 200g",
+      "confidence": "30"
+    },
+    {
+      "name": "Mozzarella cheese on pasta",
+      "portion_estimate": "uncertain, approximately 50g",
+      "confidence": "40"
+    },
+    {
+      "name": "Yogurt with berries",
+      "portion_estimate": "uncertain, approximately 125g",
+      "confidence": "30"
+    }
+  ]
+}

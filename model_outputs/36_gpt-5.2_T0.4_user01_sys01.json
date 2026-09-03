@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked fusilli pasta with tomato-based sauce (some pieces breaded/fried mixed in)",
+      "portion_estimate": "260 g",
+      "confidence": "68"
+    },
+    {
+      "name": "red cabbage salad with cucumber slice and light dressing",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll (bun)",
+      "portion_estimate": "65 g",
+      "confidence": "86"
+    },
+    {
+      "name": "poached fruit in syrup (likely pear or prune) with caramel/brown sauce",
+      "portion_estimate": "140 g",
+      "confidence": "58"
+    },
+    {
+      "name": "breaded fried vegetable patties (2 pieces, likely spinach/falafel-style)",
+      "portion_estimate": "110 g",
+      "confidence": "72"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded meat (likely chicken or fish)",
+      "portion_estimate": "100-120 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "sliced cooked carrots",
+      "portion_estimate": "100-120 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "lentil stew with small vegetables",
+      "portion_estimate": "150-180 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "small yogurt (conserve or similar small container)",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "150 grams",
+      "confidence": "100"
+    }
+  ]
+}

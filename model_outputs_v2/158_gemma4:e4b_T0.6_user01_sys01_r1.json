@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried snack balls (croquettes or meatballs)",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "fried bread or pastry slice",
+      "portion_estimate": "80g",
+      "confidence": "80"
+    },
+    {
+      "name": "fusilli pasta (cooked)",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "bread or bun",
+      "portion_estimate": "50g",
+      "confidence": "75"
+    },
+    {
+      "name": "banana or similar yellow fruit (wrapped)",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "small yellow potato or bread item",
+      "portion_estimate": "80g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Salad with mixed greens, croutons, and cherry tomatoes",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Carrot",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Macaroni and cheese in a bowl",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Burger patty on a white plate with a green leafy side salad",
+      "portion_estimate": "150 grams",
+      "confidence": "75"
+    }
+  ]
+}

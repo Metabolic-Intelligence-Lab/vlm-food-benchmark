@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Worcestershire sauce",
+      "portion_estimate": "small packet",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "rice and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange slice on pizza crust",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apples and oranges",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta",
+      "portion_estimate": "200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "portion_estimate": "3 tomatoes",
+      "confidence": 85
+    },
+    {
+      "name": "Kale Leaves",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "Fish with Mustard",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

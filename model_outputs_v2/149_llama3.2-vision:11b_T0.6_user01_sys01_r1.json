@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

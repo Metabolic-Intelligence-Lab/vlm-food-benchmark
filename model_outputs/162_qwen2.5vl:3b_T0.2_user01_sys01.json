@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted Broccoli and Cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Vegetable Soup",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Croutons on Toast",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

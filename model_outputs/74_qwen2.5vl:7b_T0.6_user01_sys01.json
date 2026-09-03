@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chopped Butternut Squash",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200",
+      "confidence": "90"
+    }
+  ]
+}

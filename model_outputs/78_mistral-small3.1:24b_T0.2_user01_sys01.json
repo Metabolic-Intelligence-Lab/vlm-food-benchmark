@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sweet potato cubes",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "soup with grated cheese",
+      "portion_estimate": "300",
+      "confidence": "85"
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "hummus with tahini",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "pita bread",
+      "portion_estimate": "60",
+      "confidence": "90"
+    }
+  ]
+}

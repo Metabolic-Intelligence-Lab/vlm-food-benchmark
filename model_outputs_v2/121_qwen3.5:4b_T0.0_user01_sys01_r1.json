@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with grated cheese",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "Mixed salad (carrots, lettuce)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Whole wheat bread slice",
+      "portion_estimate": "45",
+      "confidence": 90
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "Sandwich or wrap",
+      "portion_estimate": "180",
+      "confidence": 75
+    }
+  ]
+}

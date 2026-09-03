@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with sauce and grated cheese",
+      "portion_estimate": 250,
+      "confidence": 95
+    },
+    {
+      "name": "Whole wheat bread slice",
+      "portion_estimate": 40,
+      "confidence": 98
+    },
+    {
+      "name": "Baked potato with sour cream or similar topping",
+      "portion_estimate": 150,
+      "confidence": 92
+    },
+    {
+      "name": "White beans (cannellini) in tomato sauce",
+      "portion_estimate": 180,
+      "confidence": 94
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": 200,
+      "confidence": 96
+    }
+  ]
+}

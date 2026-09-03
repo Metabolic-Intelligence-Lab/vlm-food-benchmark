@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed greens",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Boiled potatoes with butter on a plate",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried chicken or fritter balls",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Brown rice with gravy on a plate",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    }
+  ]
+}

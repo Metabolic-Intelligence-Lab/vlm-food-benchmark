@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed pasta (various shapes)",
+      "portion_estimate": "350g",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked sliced carrots",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Creamy sauce and mixed solids (including possible cheese/meat)",
+      "portion_estimate": "250g",
+      "confidence": "75"
+    }
+  ]
+}

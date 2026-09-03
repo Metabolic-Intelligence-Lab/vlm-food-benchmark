@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "description": "carrot-cucumber salad with greens",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "description": "bread roll",
+      "portion_estimate": 60,
+      "confidence": 80
+    },
+    {
+      "description": "red grapes",
+      "portion_estimate": 30,
+      "confidence": 90
+    },
+    {
+      "description": "kale",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "description": "baked item with cheese and balsamic glaze",
+      "portion_estimate": 50,
+      "confidence": 70
+    }
+  ]
+}

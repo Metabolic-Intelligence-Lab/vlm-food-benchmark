@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed vegetables (carrots, peas, potatoes)",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "baked fish with breadcrumbs",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "50",
+      "confidence": "60"
+    }
+  ]
+}

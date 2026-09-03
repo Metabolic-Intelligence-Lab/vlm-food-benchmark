@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta and sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Frozen pizza with a variety of toppings including greens, cheese and potentially sausage or other protein",
+      "portion_estimate": "about 150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Soup with visible pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

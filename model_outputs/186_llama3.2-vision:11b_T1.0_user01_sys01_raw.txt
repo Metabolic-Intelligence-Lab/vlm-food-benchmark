@@ -1,0 +1,30 @@
+Based on the provided image, here is the list of distinct, visible food and beverage items with estimated portion sizes:
+
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Steamed broccoli",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    }
+  ]
+}
+
+Note: The estimated portion sizes are based on the average values for each food item. The confidence level is based on the model's ability to accurately detect and estimate the size of each food item.
+
+Please let me know if you have any further questions or if there is anything else I can assist you with.

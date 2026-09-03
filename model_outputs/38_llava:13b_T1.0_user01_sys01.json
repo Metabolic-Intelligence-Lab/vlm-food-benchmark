@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "sausage balls",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

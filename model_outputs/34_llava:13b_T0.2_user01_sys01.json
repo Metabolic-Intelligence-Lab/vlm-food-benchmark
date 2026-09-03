@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "egg with a fried egg on top",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "grilled chicken breast",
+      "portion_estimate": "approximately 120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "pasta with tomato sauce and cheese",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "approximately 80 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "approximately 120 grams",
+      "confidence": "60"
+    }
+  ]
+}

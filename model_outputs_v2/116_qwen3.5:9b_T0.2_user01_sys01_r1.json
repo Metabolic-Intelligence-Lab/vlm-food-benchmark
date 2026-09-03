@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable soup with grated cheese",
+      "portion_estimate": 350,
+      "confidence": 92
+    },
+    {
+      "name": "Cauliflower florets",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Whole wheat bread slice",
+      "portion_estimate": 45,
+      "confidence": 96
+    },
+    {
+      "name": "Cracker (grid pattern)",
+      "portion_estimate": 30,
+      "confidence": 98
+    },
+    {
+      "name": "Yoplait yogurt cup",
+      "portion_estimate": 125,
+      "confidence": 94
+    }
+  ]
+}

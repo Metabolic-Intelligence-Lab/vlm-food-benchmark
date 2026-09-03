@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "White meat with herbs, possibly chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Green vegetables and diced potatoes mixed together",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "White sauce or dressing on the white meat",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Fried potatoes, possibly sweet potato fries",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Whole grain bread in a plastic bag",
+      "portion_estimate": "1 slice approx. 38g",
+      "confidence": "60"
+    }
+  ]
+}

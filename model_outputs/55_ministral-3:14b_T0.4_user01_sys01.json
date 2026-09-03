@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "steamed or baked potato wedge",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetable medley with carrots, corn, and zucchini",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed or steamed collard greens",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "water in clear plastic cup",
+      "portion_estimate": "250",
+      "confidence": 90
+    }
+  ]
+}

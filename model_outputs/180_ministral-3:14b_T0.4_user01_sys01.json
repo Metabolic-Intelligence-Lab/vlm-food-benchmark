@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas and diced carrots mix",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta with pesto sauce and grated cheese",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "grilled or baked mushroom and cheese sandwich (or quesadilla)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "whole yellow apple",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "baked bread roll (possibly focaccia or similar)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    }
+  ]
+}

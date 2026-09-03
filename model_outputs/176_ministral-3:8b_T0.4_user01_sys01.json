@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "tomato and cheese stuffed bread roll (approx. 1 slice)",
+      "portion_estimate": "70 grams",
+      "confidence": 85
+    },
+    {
+      "name": "sliced tomato on bread roll",
+      "portion_estimate": "30 grams",
+      "confidence": 80
+    },
+    {
+      "name": "sliced cheese on bread roll",
+      "portion_estimate": "20 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat bread (1 slice)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "lentil soup with grated cheese",
+      "portion_estimate": "300 grams",
+      "confidence": 80
+    },
+    {
+      "name": "grated cheese on soup",
+      "portion_estimate": "15 grams",
+      "confidence": 70
+    },
+    {
+      "name": "canned tuna or chicken salad with olives",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "packaged butter or margarine (single portion)",
+      "portion_estimate": "10 grams",
+      "confidence": 75
+    },
+    {
+      "name": "sliced lemon or lime",
+      "portion_estimate": "50 grams",
+      "confidence": 75
+    }
+  ]
+}

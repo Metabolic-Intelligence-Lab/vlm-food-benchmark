@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread or pastry base",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "dark savory sauce with chunks",
+      "portion_estimate": "80g",
+      "confidence": "90"
+    },
+    {
+      "name": "shredded carrot mixture",
+      "portion_estimate": "40g",
+      "confidence": "85"
+    }
+  ]
+}

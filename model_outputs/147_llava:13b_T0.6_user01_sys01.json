@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "creamy tomato-based sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "breaded chicken or pork cutlet",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "eggplant",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bell peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    }
+  ]
+}

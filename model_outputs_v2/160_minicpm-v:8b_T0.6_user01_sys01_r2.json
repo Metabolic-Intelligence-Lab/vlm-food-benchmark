@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Oatmeal soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Vegetable cake with sour cream topping",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll (white)",
+      "portion_estimate": "125g",
+      "confidence": "70"
+    },
+    {
+      "name": "Sour cream and butter",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

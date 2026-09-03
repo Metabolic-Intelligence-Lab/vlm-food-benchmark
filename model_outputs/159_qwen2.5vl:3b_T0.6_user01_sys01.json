@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pizza",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

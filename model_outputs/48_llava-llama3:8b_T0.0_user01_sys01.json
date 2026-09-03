@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "green salad",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "ketchup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "mayonnaise",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

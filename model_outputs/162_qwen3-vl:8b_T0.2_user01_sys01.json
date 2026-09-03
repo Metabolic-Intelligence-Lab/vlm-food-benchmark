@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli and potato mix",
+      "portion_estimate": 150,
+      "confidence": 70
+    },
+    {
+      "name": "sandwich roll",
+      "portion_estimate": 100,
+      "confidence": 70
+    },
+    {
+      "name": "vegetable soup",
+      "portion_estimate": 200,
+      "confidence": 70
+    },
+    {
+      "name": "toast with potato cubes",
+      "portion_estimate": 150,
+      "confidence": 70
+    },
+    {
+      "name": "lemon",
+      "portion_estimate": 100,
+      "confidence": 80
+    }
+  ]
+}

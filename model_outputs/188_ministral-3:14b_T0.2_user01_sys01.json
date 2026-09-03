@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken and vegetable soup with carrots and mixed beans",
+      "portion_estimate": "450",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or baked fish fillet (likely salmon or similar)",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "steamed green leafy vegetable (collard greens or kale)",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt or sour cream (partially visible in background)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

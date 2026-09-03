@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne) with grated cheese",
+      "portion_estimate": "250g (uncertain, estimated by volume and plate size)",
+      "confidence": 70
+    },
+    {
+      "name": "cheese (block, likely mozzarella or similar)",
+      "portion_estimate": "150g (uncertain, estimated by size)",
+      "confidence": 65
+    },
+    {
+      "name": "cheese (yellow, baked or grilled, possibly polenta or cheesecake)",
+      "portion_estimate": "100g (uncertain, estimated by plate size)",
+      "confidence": 60
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "150g (uncertain, estimated by volume)",
+      "confidence": 75
+    },
+    {
+      "name": "plum or similar fruit",
+      "portion_estimate": "100g (uncertain, estimated by size)",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll or baguette",
+      "portion_estimate": "uncertain (not fully visible, cannot estimate)",
+      "confidence": 30
+    }
+  ]
+}

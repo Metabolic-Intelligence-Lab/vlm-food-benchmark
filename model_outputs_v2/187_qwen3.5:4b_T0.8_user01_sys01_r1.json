@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce, possibly meatballs",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "80g",
+      "confidence": 95
+    },
+    {
+      "name": "two breaded balls (likely meatballs or croquettes)",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "hamburger bun",
+      "portion_estimate": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "yogurt cup, approximately 100g",
+      "portion_estimate": "100g",
+      "confidence": 85
+    }
+  ]
+}

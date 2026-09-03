@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with orange sauce (possibly marinated with tomatoes or carrots)",
+      "portion_estimate": "250",
+      "confidence": 95
+    },
+    {
+      "name": "baked stuffed mushroom (with green filling, possibly spinach or herbs)",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "salad with mixed greens, cucumber, and possibly purple cabbage",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "small tangerine or orange (cut in half visible in the tray)",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "packaged food item with a label 'CARN' (likely a snack, e.g., cheese crackers or chips)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "wrapped item with a 'green leaf symbol' (possibly a leafy wrap or tea bag)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

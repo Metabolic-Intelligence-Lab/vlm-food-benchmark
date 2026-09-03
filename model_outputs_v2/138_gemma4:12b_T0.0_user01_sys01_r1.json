@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Seasoned rice and grain mixture",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "White beans",
+      "portion_estimate": "40g",
+      "confidence": 95
+    },
+    {
+      "name": "Herbs and greens",
+      "portion_estimate": "30g",
+      "confidence": 90
+    },
+    {
+      "name": "Toasted nuts or aromatics",
+      "portion_estimate": "20g",
+      "confidence": 80
+    }
+  ]
+}

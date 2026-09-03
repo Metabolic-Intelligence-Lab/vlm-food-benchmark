@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried egg on biscuit with potato wedges",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked spinach",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200ml",
+      "confidence": "95"
+    },
+    {
+      "name": "yogurt or cheese substitute",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "pastry or cookie",
+      "portion_estimate": "20g",
+      "confidence": "90"
+    }
+  ]
+}

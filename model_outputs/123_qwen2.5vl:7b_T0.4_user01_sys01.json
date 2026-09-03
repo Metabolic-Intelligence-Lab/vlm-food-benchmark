@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Farfalle pasta with cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked potato slices",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Scrambled egg with herbs",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200 milliliters",
+      "confidence": "80"
+    }
+  ]
+}

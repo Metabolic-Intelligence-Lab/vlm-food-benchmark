@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed salad greens (lettuce)",
+      "portion_estimate": "180",
+      "confidence": "95"
+    },
+    {
+      "name": "Red leaf lettuce or radicchio",
+      "portion_estimate": "90",
+      "confidence": "90"
+    },
+    {
+      "name": "Sliced white vegetable (likely radish or turnip)",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "Fried bread or crouton pieces",
+      "portion_estimate": "60",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Boiled egg",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "2-3 oz (60g-85g)",
+      "confidence": "70"
+    },
+    {
+      "name": "Green leafy vegetables (possibly kale or spinach)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread bun",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Yogurt container with red lid",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

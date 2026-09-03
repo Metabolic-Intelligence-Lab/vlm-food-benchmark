@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken pieces",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "green salad mix",
+      "portion_estimate": "50",
+      "confidence": "65"
+    },
+    {
+      "name": "Starbucks bottled beverage",
+      "portion_estimate": "300",
+      "confidence": "70"
+    }
+  ]
+}

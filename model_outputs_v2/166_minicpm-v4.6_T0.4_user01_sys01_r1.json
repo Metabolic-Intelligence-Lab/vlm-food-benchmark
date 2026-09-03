@@ -1,0 +1,35 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with cheese",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll (bun)",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt or dairy product",
+      "portion_estimate": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "wrapped bread/pastry",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "baked dish (pie or pastry)",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "cooked greens (vegetables)",
+      "portion_estimate": "100g",
+      "confidence": 95
+    }
+  ],
+  "notes": "Portion estimates are based on typical serving sizes observed in the image."
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked fusilli pasta with orange sauce",
+      "portion_estimate": "300 g",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked leafy greens, likely spinach",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    },
+    {
+      "name": "corn on the cob portion with seasoning",
+      "portion_estimate": "100 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll in plastic wrapper",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "fresh apricots, 3 small",
+      "portion_estimate": "105 g",
+      "confidence": "75"
+    }
+  ]
+}

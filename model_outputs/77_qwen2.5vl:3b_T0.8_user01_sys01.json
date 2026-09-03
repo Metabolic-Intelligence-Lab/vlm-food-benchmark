@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Brown beans",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Salmon fillet",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Sliced apples",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

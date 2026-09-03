@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked spinach",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "cornbread",
+      "portion_estimate": "70",
+      "confidence": "75"
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "grated cheese",
+      "portion_estimate": "20",
+      "confidence": "70"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    }
+  ]
+}

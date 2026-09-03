@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Yomo Plain Yogurt",
+      "portion_estimate": "60",
+      "confidence": 95
+    },
+    {
+      "name": "Fish with Potatoes",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "Granola Bar",
+      "portion_estimate": "40",
+      "confidence": 80
+    }
+  ]
+}

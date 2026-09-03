@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "diced tomatoes",
+      "portion_estimate": "60g",
+      "confidence": 95
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "30g",
+      "confidence": 95
+    },
+    {
+      "name": "feta cheese",
+      "portion_estimate": "30g",
+      "confidence": 90
+    }
+  ]
+}

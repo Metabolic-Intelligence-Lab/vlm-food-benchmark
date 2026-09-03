@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable Soup",
+      "portion_estimate": "200-250g",
+      "confidence": 80
+    },
+    {
+      "name": "Pastry and Vegetables",
+      "portion_estimate": "100-150g (pastry), 50-100g (vegetables)",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100-150g",
+      "confidence": 90
+    }
+  ]
+}

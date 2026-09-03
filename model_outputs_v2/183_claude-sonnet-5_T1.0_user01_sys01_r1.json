@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "focaccia bread square with pesto filling",
+      "portion_estimate": "90",
+      "confidence": 65
+    },
+    {
+      "name": "wrapped bread roll (panino)",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "vegetable and legume soup (minestrone) with grated cheese topping",
+      "portion_estimate": "300",
+      "confidence": 70
+    },
+    {
+      "name": "roasted brussels sprouts",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "grated cheese packet (grana/parmesan)",
+      "portion_estimate": "10",
+      "confidence": 55
+    }
+  ]
+}

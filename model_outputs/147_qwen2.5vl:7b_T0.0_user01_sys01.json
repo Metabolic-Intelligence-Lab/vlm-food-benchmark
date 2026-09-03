@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fusilli pasta with grated cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Meat and vegetable stew",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    }
+  ]
+}

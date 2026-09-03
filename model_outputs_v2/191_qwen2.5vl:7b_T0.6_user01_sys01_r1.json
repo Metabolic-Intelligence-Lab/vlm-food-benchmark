@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot slices",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Rice balls",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "Green soup",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "Breadsticks",
+      "portion_estimate": "30",
+      "confidence": "60"
+    }
+  ]
+}

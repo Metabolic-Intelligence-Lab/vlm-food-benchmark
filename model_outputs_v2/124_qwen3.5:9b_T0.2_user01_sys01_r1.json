@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Baked fish fillet with breadcrumb coating",
+      "portion_estimate": 180,
+      "confidence": 92
+    },
+    {
+      "name": "Fish and rice mixture (leftover or side dish)",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "Lemon wedge",
+      "portion_estimate": 20,
+      "confidence": 90
+    },
+    {
+      "name": "Tomato soup with grated cheese topping",
+      "portion_estimate": 300,
+      "confidence": 95
+    },
+    {
+      "name": "Whole wheat roll or bun (in plastic packaging)",
+      "portion_estimate": 60,
+      "confidence": 88
+    },
+    {
+      "name": "Yogurt cup (brand 'VOMO')",
+      "portion_estimate": 150,
+      "confidence": 95
+    }
+  ]
+}

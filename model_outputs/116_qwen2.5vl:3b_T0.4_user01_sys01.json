@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "grilled bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

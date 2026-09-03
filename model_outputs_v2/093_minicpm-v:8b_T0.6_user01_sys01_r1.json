@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "chicken fillet with lemon and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta salad (penne)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "yogurt and granola bar",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

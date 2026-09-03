@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with grated parmesan cheese",
+      "portion_estimate": "220",
+      "confidence": 75
+    },
+    {
+      "name": "mixed green salad with shredded carrot and beet",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "grilled panini sandwich (partially eaten)",
+      "portion_estimate": "90",
+      "confidence": 60
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "sliced bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": 55
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "food_items": [
+    {
+      "name": "Romaine Chicken Caesar Salad",
+      "portion_estimate": "0.5127",
+      "confidence": 95
+    },
+    {
+      "name": "Asian Chicken Salad",
+      "portion_estimate": "0.7817",
+      "confidence": 90
+    },
+    {
+      "name": "Broccoli Cheddar Casserole",
+      "portion_estimate": "0.7836",
+      "confidence": 85
+    },
+    {
+      "name": "Pita Chips",
+      "portion_estimate": "0.6513",
+      "confidence": 92
+    },
+    {
+      "name": "Fish Sticks",
+      "portion_estimate": "0.4629",
+      "confidence": 88
+    },
+    {
+      "name": "Honey Roasted Squash",
+      "portion_estimate": "0.5364",
+      "confidence": 80
+    },
+    {
+      "name": "Garlic Bread",
+      "portion_estimate": "0.7389",
+      "confidence": 82
+    },
+    {
+      "name": "Yellow Squash",
+      "portion_estimate": "0.6673",
+      "confidence": 75
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "0.7553",
+      "confidence": 78
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "0.7817",
+      "confidence": 70
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "0.7939",
+      "confidence": 72
+    },
+    {
+      "name": "Raspberry",
+      "portion_estimate": "0.7532",
+      "confidence": 65
+    }
+  ]
+}

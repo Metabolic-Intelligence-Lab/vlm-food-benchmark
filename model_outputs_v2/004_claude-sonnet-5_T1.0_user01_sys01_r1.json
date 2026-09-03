@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "banana",
+      "portion_estimate": "120",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed salad bowl (lettuce, cherry tomatoes, mozzarella balls, black olives, canned tuna)",
+      "portion_estimate": "300",
+      "confidence": "70"
+    },
+    {
+      "name": "whole wheat bread roll (wrapped)",
+      "portion_estimate": "80",
+      "confidence": "65"
+    }
+  ]
+}

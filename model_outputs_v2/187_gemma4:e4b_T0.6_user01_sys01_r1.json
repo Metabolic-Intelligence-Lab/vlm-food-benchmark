@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "crispy fried breaded pieces (e.g., meat or snack)",
+      "portion_estimate": "130g",
+      "confidence": "95"
+    },
+    {
+      "name": "saut\u00e9ed green vegetables (e.g., greens or herbs)",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "round bread roll or bun",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "crumbly side dish (e.g., stuffing or breadcrumbs)",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "dark braised mixture (e.g., beans or meat)",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    }
+  ]
+}

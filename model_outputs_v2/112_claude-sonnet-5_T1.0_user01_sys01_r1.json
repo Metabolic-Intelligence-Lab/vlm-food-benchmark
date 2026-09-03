@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto sauce and grated parmesan cheese",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "baked cheese and egg casserole/frittata square",
+      "portion_estimate": "120",
+      "confidence": 65
+    },
+    {
+      "name": "boiled Brussels sprouts",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "plums (whole, fresh)",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll (wrapped in plastic)",
+      "portion_estimate": "60",
+      "confidence": 55
+    },
+    {
+      "name": "sliced bread or focaccia (wrapped in plastic, top of tray)",
+      "portion_estimate": "80",
+      "confidence": 40
+    }
+  ]
+}

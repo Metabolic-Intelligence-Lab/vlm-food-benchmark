@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "uncertain, approx. weight in grams based on average serving size",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. weight in grams based on average serving size",
+      "confidence": "50"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "approximate weight in grams for an apple (average 184g)",
+      "confidence": "70"
+    }
+  ]
+}

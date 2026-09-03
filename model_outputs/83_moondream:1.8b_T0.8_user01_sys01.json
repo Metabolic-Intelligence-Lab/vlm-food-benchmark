@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "salad and rice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meat and potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "cup",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

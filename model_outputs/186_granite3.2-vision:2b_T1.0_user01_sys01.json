@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "slices of meat, possibly ham or turkey, served over potatoes or potato salad, drizzled with a dressing",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "grilled item that might be a piece of fish, chicken, or tofu",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "something brown, possibly rice or a starch-based dish",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with carrots and potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "chicken nuggets",
+      "portion_estimate": "1.2 oz (34g)",
+      "confidence": "70"
+    },
+    {
+      "name": "rice with scrambled eggs and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pita bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "water with lemon slices in a plastic cup",
+      "portion_estimate": "16 oz (473 ml)",
+      "confidence": "80"
+    },
+    {
+      "name": "low-fat yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried bread roll",
+      "portion_estimate": "uncertain, approx 80g",
+      "confidence": "50"
+    },
+    {
+      "name": "Sweet and sour sauce in a white bowl",
+      "portion_estimate": "uncertain, approx 30g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried vegetable patties (2 pieces)",
+      "portion_estimate": "uncertain, approx 150g each",
+      "confidence": "70"
+    },
+    {
+      "name": "Salad with purple cabbage and cucumber slices",
+      "portion_estimate": "uncertain, approx 300g",
+      "confidence": "60"
+    }
+  ]
+}

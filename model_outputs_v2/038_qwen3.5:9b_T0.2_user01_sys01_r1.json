@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted Brussels sprouts",
+      "portion_estimate": 200,
+      "confidence": 95
+    },
+    {
+      "name": "Fusilli pasta with sauce and grated cheese",
+      "portion_estimate": 250,
+      "confidence": 90
+    },
+    {
+      "name": "Mixed salad (cucumber, red cabbage, carrots)",
+      "portion_estimate": 180,
+      "confidence": 90
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll (in plastic packaging)",
+      "portion_estimate": 60,
+      "confidence": 85
+    },
+    {
+      "name": "Water",
+      "portion_estimate": 250,
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with broccoli, parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pastry or cake on a plate",
+      "portion_estimate": "230g",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked chicken",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll, possibly raisin or cinnamon bread in a plastic bag",
+      "portion_estimate": "28g (estimated)",
+      "confidence": "60"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

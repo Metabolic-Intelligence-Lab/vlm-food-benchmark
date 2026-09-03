@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain, estimated at around 150g per serving",
+      "confidence": "40"
+    },
+    {
+      "name": "beans with corn and herbs",
+      "portion_estimate": "uncertain, estimated at around 250-300g for the beans portion of a typical plate size",
+      "confidence": "60"
+    },
+    {
+      "name": "white fish fillet garnished with herbs",
+      "portion_estimate": "uncertain, possibly about half the weight of an average serving (approx. 150-200g)",
+      "confidence": "40"
+    },
+    {
+      "name": "whole grain bread roll",
+      "portion_estimate": "uncertain, estimated at around 60-80g for a typical small to medium-sized portion size",
+      "confidence": "35"
+    }
+  ]
+}

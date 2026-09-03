@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with vegetables",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted brussels sprouts",
+      "portion_estimate": "approximately 75 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "sweet potatoes",
+      "portion_estimate": "approximately 125 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "rice with vegetables",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "oranges",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": "70"
+    }
+  ]
+}

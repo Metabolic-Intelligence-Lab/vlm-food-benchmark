@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice with butter or oil",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed broccoli florets with meat (likely chicken)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "roasted carrots and potatoes (or parsnips)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "whole lemon",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "orange-colored condiment (likely chutney or sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "packaged butter or margarine",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

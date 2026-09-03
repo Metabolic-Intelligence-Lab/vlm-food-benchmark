@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "Cheese and spinach pasta roll (cavatelli)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "Steamed spinach or kale",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250",
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "Cucumber salad",
+      "portion_estimate": "100",
+      "confidence": 90
+    }
+  ]
+}

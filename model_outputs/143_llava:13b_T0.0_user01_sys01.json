@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fish fillets",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "yogurt or sour cream",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "cooked greens (spinach or leafy vegetable)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "bread (whole wheat or multigrain)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

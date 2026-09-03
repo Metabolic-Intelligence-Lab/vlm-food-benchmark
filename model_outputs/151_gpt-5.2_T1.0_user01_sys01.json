@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "baked salmon fillet (or similar orange fish)",
+      "portion_estimate": "110 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Brussels sprouts (cooked)",
+      "portion_estimate": "80 g",
+      "confidence": "85"
+    },
+    {
+      "name": "diced carrots (cooked)",
+      "portion_estimate": "50 g",
+      "confidence": "80"
+    },
+    {
+      "name": "penne pasta (cooked) with mushrooms",
+      "portion_estimate": "230 g",
+      "confidence": "80"
+    },
+    {
+      "name": "grated parmesan cheese (topping)",
+      "portion_estimate": "10 g",
+      "confidence": "70"
+    },
+    {
+      "name": "red/purple grapes",
+      "portion_estimate": "25 g",
+      "confidence": "75"
+    },
+    {
+      "name": "slice of bread (light/white bread)",
+      "portion_estimate": "35 g",
+      "confidence": "75"
+    }
+  ]
+}

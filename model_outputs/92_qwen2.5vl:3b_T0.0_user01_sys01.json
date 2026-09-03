@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "crispy fried potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "sesame seed ball",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": "90"
+    }
+  ]
+}

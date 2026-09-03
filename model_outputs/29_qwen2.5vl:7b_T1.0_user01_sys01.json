@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce and grated cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Frittata with zucchini",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Zucchini and onion relish",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "70 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    }
+  ]
+}

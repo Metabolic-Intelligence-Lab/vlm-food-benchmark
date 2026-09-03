@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bruschetta or bruschetta-like dish",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Apple or pear",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "70"
+    }
+  ]
+}

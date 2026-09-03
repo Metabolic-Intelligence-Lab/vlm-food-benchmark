@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried croquette or breaded protein",
+      "portion_estimate": "180",
+      "confidence": "95"
+    },
+    {
+      "name": "shredded carrots side salad",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "toast or bread base",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "tomato and pepper relish topping",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "green vegetable spears (e.g., asparagus or green beans)",
+      "portion_estimate": "50",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken in creamy sauce",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "cooked green beans in sauce",
+      "portion_estimate": "70 grams",
+      "confidence": 90
+    },
+    {
+      "name": "boiled greens with potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "40 grams",
+      "confidence": 80
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "130 grams",
+      "confidence": 95
+    }
+  ]
+}

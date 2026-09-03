@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "tuna or other white fish stuffed with spinach and herbs",
+      "portion_estimate": "150-200g",
+      "confidence": 90
+    },
+    {
+      "name": "orange-shaped fettuccine pasta",
+      "portion_estimate": "150-200g",
+      "confidence": 95
+    },
+    {
+      "name": "parsnip or orange-crusted pasta sauce",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "smaller orange halves (possibly candied fruit or fruit slices like apricots)",
+      "portion_estimate": "total 150g combined (3 halves ~50g each)",
+      "confidence": 90
+    },
+    {
+      "name": "mixed cabbage salad (shredded purple cabbage, cucumber)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    }
+  ]
+}

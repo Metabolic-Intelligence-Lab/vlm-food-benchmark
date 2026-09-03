@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Small bread roll or bun",
+      "portion_estimate": "90",
+      "confidence": "85"
+    },
+    {
+      "name": "Green pesto pasta dish",
+      "portion_estimate": "300",
+      "confidence": "80"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "130",
+      "confidence": "90"
+    },
+    {
+      "name": "Steamed green beans",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "Toasted bread slice with topping",
+      "portion_estimate": "80",
+      "confidence": "75"
+    }
+  ]
+}

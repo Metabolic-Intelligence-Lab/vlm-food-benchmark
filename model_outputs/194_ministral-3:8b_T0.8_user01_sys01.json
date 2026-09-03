@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "broth or soup (in bowl)",
+      "portion_estimate": "200g",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": 80
+    },
+    {
+      "name": "steamed cabbage or kale with sauce (on plate)",
+      "portion_estimate": "120g",
+      "confidence": 65
+    },
+    {
+      "name": "sliced orange",
+      "portion_estimate": "120g (whole fruit)",
+      "confidence": 75
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "small packaged item (contents unclear)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

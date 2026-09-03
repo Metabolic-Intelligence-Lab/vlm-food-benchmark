@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Whole Grain Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with Spinach and Parmesan",
+      "portion_estimate": "uncertain",
+      "confidence": "75"
+    },
+    {
+      "name": "Mixed Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Rutabaga",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Mushroom",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Spinach Muffin",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    },
+    {
+      "name": "Purple Plum",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

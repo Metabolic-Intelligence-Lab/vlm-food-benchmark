@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread loaf",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "sauerkraut",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "penne pasta with cheese",
+      "portion_estimate": "200",
+      "confidence": "80"
+    }
+  ]
+}

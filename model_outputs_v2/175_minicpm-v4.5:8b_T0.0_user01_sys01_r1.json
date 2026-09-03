@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "white meat (likely chicken or fish) with sauce",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "dark leafy greens with small yellow chunks (possibly potatoes or squash)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "orange (likely a mandarin or tangerine)",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    }
+  ]
+}

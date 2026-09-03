@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "sliced banana",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "scrambled eggs with vegetables (peas and carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pita or flatbread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

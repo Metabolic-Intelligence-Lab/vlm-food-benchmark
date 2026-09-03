@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable/lentil burger patty (breaded, pan-seared)",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "steamed green beans",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (wrapped, plain)",
+      "portion_estimate": "70",
+      "confidence": "75"
+    },
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "rigatoni pasta with tomato sauce and grated cheese",
+      "portion_estimate": "220",
+      "confidence": "75"
+    }
+  ]
+}

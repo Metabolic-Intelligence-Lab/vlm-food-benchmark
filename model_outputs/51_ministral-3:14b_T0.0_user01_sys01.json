@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "savory baked dish with caramelized onions and cheese topping",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "caramelized onions (topped)",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "cheese sauce or melted cheese (top layer)",
+      "portion_estimate": "30",
+      "confidence": 75
+    }
+  ]
+}

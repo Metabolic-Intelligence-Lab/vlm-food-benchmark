@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "Beverage Carton",
+      "portion_estimate": "200",
+      "confidence": 0.95
+    },
+    {
+      "name": "Cake Slice",
+      "portion_estimate": "100",
+      "confidence": 0.85
+    }
+  ]
+}

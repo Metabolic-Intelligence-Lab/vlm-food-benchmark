@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and meat sauce",
+      "portion_estimate": "150 grams (approximate)",
+      "confidence": 70
+    },
+    {
+      "name": "fried brussels sprouts",
+      "portion_estimate": "120 grams (approximate)",
+      "confidence": 80
+    },
+    {
+      "name": "pan-seared or baked fish fillet (appearance suggests mild seasoning)",
+      "portion_estimate": "130 grams (approximate)",
+      "confidence": 75
+    },
+    {
+      "name": "plastic-wrapped small whole wheat roll/brioche",
+      "portion_estimate": "uncertain (estimated 50-80 grams)",
+      "confidence": 55
+    },
+    {
+      "name": "yogurt (Tomo plain yogurt) with white lid",
+      "portion_estimate": "uncertain (150-175ml container, likely ~180 grams)",
+      "confidence": 65
+    },
+    {
+      "name": "salt or seasoning packet (likely for fish or pasta)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

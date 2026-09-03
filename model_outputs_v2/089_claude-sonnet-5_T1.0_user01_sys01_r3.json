@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "boiled white rice with oil drizzle",
+      "portion_estimate": "180",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll, individually wrapped",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "chickpeas, boiled/stewed",
+      "portion_estimate": "150",
+      "confidence": "78"
+    },
+    {
+      "name": "white fish fillet, plain baked or steamed",
+      "portion_estimate": "90",
+      "confidence": "55"
+    },
+    {
+      "name": "pear, whole",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

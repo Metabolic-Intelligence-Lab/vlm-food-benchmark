@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and grated cheese",
+      "portion_estimate": "200 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sliced bread with melted cheese topping",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed vegetables and grated cheese salad",
+      "portion_estimate": "100 g",
+      "confidence": "60"
+    }
+  ]
+}

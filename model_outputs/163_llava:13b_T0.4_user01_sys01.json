@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup or dal",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "bread (naan or roti)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "saag paneer",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt-based item",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

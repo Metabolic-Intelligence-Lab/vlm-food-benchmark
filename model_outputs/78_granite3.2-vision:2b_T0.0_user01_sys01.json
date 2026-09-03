@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fish (salmon or cod)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "green vegetable (asparagus or broccoli)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread roll (Arcola Learkist)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

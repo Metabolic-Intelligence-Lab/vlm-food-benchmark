@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed lettuce",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "tomato slices",
+      "portion_estimate": "80",
+      "confidence": "90"
+    },
+    {
+      "name": "cucumber slices",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "red onion slices",
+      "portion_estimate": "30",
+      "confidence": "80"
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "20",
+      "confidence": "75"
+    }
+  ]
+}

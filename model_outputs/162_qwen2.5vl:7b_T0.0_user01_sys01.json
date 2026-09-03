@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli and potato medley",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "Toast with diced potatoes",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "Lemon",
+      "portion_estimate": "50",
+      "confidence": 60
+    }
+  ]
+}

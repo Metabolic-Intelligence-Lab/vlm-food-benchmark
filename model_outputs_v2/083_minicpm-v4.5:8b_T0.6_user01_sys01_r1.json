@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish with vegetables",
+      "portion_estimate": "150-200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "100-150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mushroom with greens",
+      "portion_estimate": "50-75 grams",
+      "confidence": 70
+    },
+    {
+      "name": "couscous with chickpeas and greens",
+      "portion_estimate": "150-200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small roll or bread",
+      "portion_estimate": "50-75 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt drink (Yomo brand)",
+      "portion_estimate": "100-150 ml (approximately 100 grams)",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "scrambled eggs or omelette with vegetables and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "potato wedges or fries",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "rice cakes or snack wrapper",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "creamy sauce with meat or seafood",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

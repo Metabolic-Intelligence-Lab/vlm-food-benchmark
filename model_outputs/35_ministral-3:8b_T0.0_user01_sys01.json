@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans (steamed)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "chickpea or lentil patty (or similar meat substitute)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "pasta (penne) with grated cheese and herbs",
+      "portion_estimate": "200g (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "baguette or French bread roll (packaged)",
+      "portion_estimate": "uncertain (likely ~50-70g per roll)",
+      "confidence": 60
+    }
+  ]
+}

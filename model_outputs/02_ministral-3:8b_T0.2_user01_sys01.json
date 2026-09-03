@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "tomato slices",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "shredded cabbage",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "cucumber slices",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "red onion shreds",
+      "portion_estimate": "30g",
+      "confidence": 75
+    },
+    {
+      "name": "carrot shreds",
+      "portion_estimate": "40g",
+      "confidence": 75
+    },
+    {
+      "name": "lettuce leaves",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "dressing (visible drizzle)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "seasoning/salt packet",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

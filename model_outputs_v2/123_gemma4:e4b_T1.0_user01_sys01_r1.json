@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked pasta dish with creamy sauce and breadcrumbs",
+      "portion_estimate": "220",
+      "confidence": "90"
+    },
+    {
+      "name": "Breaded fried cutlet (fish or chicken)",
+      "portion_estimate": "140",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried potato chips/pieces",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "Banana (whole)",
+      "portion_estimate": "110",
+      "confidence": "95"
+    },
+    {
+      "name": "Clear beverage (Water)",
+      "portion_estimate": "350",
+      "confidence": "80"
+    }
+  ]
+}

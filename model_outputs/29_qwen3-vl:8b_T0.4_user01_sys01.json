@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni with mushrooms and cheese",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "quiche slice with mixed vegetables",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "bread loaf",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "150",
+      "confidence": "90"
+    }
+  ]
+}

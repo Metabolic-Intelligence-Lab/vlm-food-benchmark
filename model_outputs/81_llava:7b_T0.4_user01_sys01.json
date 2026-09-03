@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed broccoli",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Smashed potatoes with butter",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Meatballs in sauce",
+      "portion_estimate": "120g",
+      "confidence": "60"
+    }
+  ]
+}

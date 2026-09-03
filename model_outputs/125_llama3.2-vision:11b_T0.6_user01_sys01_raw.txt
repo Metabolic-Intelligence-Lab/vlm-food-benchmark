@@ -1,0 +1,10 @@
+Here is the food image:
+
+| Food Item | Portion Estimate (g) | Confidence |
+| --- | --- | --- |
+| Soup | 250 | 90 |
+| Bread Roll | 50 | 80 |
+| Yogurt | 100 | 70 |
+| Water | 250 | 100 |
+
+This output format is designed to provide a concise and structured response to the food recognition task, including the name of each food item, an estimate of its portion size in grams, and a confidence score indicating the model's certainty in its identification.

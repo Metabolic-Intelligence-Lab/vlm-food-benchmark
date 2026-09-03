@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed or boiled green beans with light seasoning (e.g., garlic powder, cheese)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or brown rice pilaf with peas",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "single large piece of toasted flatbread or focaccia",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "partially unwrapped orange-flavored snack cake (e.g., danish or muffin)",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "small whole banana",
+      "portion_estimate": "120",
+      "confidence": 90
+    }
+  ]
+}

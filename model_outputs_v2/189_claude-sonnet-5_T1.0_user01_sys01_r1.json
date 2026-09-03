@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "brown legume/vegetable soup (e.g. lentil or minestra) in bowl",
+      "portion_estimate": "300",
+      "confidence": "55"
+    },
+    {
+      "name": "meat patty or burger with tomato sauce",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "cooked leafy greens (e.g. cime di rapa or spinach) in side bowl",
+      "portion_estimate": "120",
+      "confidence": "55"
+    },
+    {
+      "name": "packaged crackers (biscotti/crackers snack pack)",
+      "portion_estimate": "25",
+      "confidence": "65"
+    },
+    {
+      "name": "individual yogurt or dessert cup with red foil lid",
+      "portion_estimate": "125",
+      "confidence": "50"
+    },
+    {
+      "name": "wrapped bread sticks or grissini",
+      "portion_estimate": "30",
+      "confidence": "45"
+    },
+    {
+      "name": "uncertain food item, partially visible at bottom right of tray",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    }
+  ]
+}

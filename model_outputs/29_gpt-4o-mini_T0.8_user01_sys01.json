@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with mushrooms and cheese",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "stir-fried vegetables (zucchini and potatoes)",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "vegetable omelette slice",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150",
+      "confidence": "90"
+    }
+  ]
+}

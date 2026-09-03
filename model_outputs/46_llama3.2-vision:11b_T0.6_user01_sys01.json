@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable soup",
+      "portion_estimate": "300g",
+      "confidence": 80
+    },
+    {
+      "name": "Mixed green salad",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "White bread roll",
+      "portion_estimate": "50g",
+      "confidence": 60
+    },
+    {
+      "name": "Yomo yogurt",
+      "portion_estimate": "125g",
+      "confidence": 90
+    },
+    {
+      "name": "Unspecified biscuit",
+      "portion_estimate": "20g",
+      "confidence": 50
+    },
+    {
+      "name": "Fried polenta cake",
+      "portion_estimate": "100g",
+      "confidence": 80
+    }
+  ]
+}

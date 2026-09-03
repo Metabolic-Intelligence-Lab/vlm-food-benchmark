@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken breast with white sauce (likely bechamel or cheese-based)",
+      "portion_estimate": 120,
+      "confidence": 85
+    },
+    {
+      "name": "steamed green beans with diced potatoes and carrots",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "chickpeas (likely in a tomato sauce)",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "baked roll or small bread",
+      "portion_estimate": 60,
+      "confidence": 75
+    },
+    {
+      "name": "water in a glass",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "single-serve cream or butter packet (partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

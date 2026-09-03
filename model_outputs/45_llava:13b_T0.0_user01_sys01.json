@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Chicken",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Corn on the Cob",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    }
+  ]
+}

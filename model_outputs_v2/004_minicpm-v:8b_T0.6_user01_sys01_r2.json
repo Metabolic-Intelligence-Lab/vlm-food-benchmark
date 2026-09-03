@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain, approx. weight in grams based on size",
+      "confidence": "50"
+    },
+    {
+      "name": "bread (bagel)",
+      "portion_estimate": "uncertain, approx. weight in grams based on size",
+      "confidence": "60"
+    },
+    {
+      "name": "salad with mixed greens and various toppings including mozzarella cheese, cherry tomatoes, olives, tuna or chicken salad",
+      "portion_estimate": "uncertain, approx. weight in grams based on typical serving sizes of these items",
+      "confidence": "75"
+    }
+  ]
+}

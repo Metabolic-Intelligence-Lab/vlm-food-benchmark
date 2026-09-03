@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "breaded cutlet (possibly chicken or vegetable-based)",
+      "portion_estimate": "120-150g",
+      "confidence": 75
+    },
+    {
+      "name": "steamed or saut\u00e9ed greens (likely kale or Swiss chard)",
+      "portion_estimate": "100-120g",
+      "confidence": 75
+    },
+    {
+      "name": "pasta (penne) in marinara sauce",
+      "portion_estimate": "150-180g (cooked weight)",
+      "confidence": 80
+    }
+  ]
+}

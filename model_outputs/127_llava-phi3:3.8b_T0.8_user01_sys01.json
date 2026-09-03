@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Tiny pasta shells with marinara sauce",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bowl of salad with dressing",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    },
+    {
+      "name": "A white bowl with a blue plastic wrapper in it",
+      "portion_estimate": "100g",
+      "confidence": "50"
+    },
+    {
+      "name": "A ripe banana on the table",
+      "portion_estimate": "75g",
+      "confidence": "80"
+    }
+  ]
+}

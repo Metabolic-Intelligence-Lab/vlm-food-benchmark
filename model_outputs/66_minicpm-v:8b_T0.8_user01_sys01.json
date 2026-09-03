@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "Edamame",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Canned tuna or chicken chunks in brine/juice",
+      "portion_estimate": "uncertain, estimate approximately same as edamame if portion size is similar",
+      "confidence": 65
+    }
+  ]
+}

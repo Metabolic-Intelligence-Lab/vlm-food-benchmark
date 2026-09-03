@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat roll or baguette",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "salted cheese spread or puff pastry slices",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "salted cheese or Parmesan-topped penne pasta",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "biscuits or crackers",
+      "portion_estimate": "40",
+      "confidence": 85
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "2",
+      "confidence": 95
+    }
+  ]
+}

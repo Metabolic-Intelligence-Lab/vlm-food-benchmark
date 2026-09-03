@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cake or pie",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "salad or roasted vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

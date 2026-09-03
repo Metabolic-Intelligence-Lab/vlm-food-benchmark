@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bun or bread roll",
+      "portion_estimate": "45",
+      "confidence": 85
+    },
+    {
+      "name": "vegetable soup with cheese and greens",
+      "portion_estimate": "300",
+      "confidence": 80
+    },
+    {
+      "name": "breaded vegetable patty with cooked cabbage",
+      "portion_estimate": "70",
+      "confidence": 75
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "strawberry yogurt",
+      "portion_estimate": "125",
+      "confidence": 90
+    }
+  ]
+}

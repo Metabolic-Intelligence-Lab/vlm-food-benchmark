@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "lentil/vegetable soup with grated cheese on top",
+      "portion_estimate": "450 g",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded fried fish fillet",
+      "portion_estimate": "140 g",
+      "confidence": "75"
+    },
+    {
+      "name": "chopped cooked chicken (seasoned)",
+      "portion_estimate": "110 g",
+      "confidence": "68"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "70 g",
+      "confidence": "62"
+    },
+    {
+      "name": "bread roll (small bun)",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged fruit yogurt (strawberry/berry)",
+      "portion_estimate": "125 g",
+      "confidence": "78"
+    }
+  ]
+}

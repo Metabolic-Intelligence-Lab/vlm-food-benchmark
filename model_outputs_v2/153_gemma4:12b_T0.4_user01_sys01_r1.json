@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "saut\u00e9ed green beans",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "turmeric rice with vegetables",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "penne pasta with cheese",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "whole pear",
+      "portion_estimate": "150g",
+      "confidence": 98
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": 85
+    }
+  ]
+}

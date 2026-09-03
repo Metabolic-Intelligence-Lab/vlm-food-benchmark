@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Rice",
+      "portion_estimate": "12g",
+      "confidence": 95
+    },
+    {
+      "name": "Side Dish (Vegetable)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Soup (Green)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    }
+  ]
+}

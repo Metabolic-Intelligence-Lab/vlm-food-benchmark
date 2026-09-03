@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato-based sauce and grated cheese (some vegetables visible)",
+      "portion_estimate": "320 g",
+      "confidence": "75"
+    },
+    {
+      "name": "rectangular bread sandwich (filled, likely spinach/greens)",
+      "portion_estimate": "140 g",
+      "confidence": "70"
+    },
+    {
+      "name": "creamy shredded salad (likely coleslaw/potato-style salad)",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll/bun (packaged)",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "plums (whole)",
+      "portion_estimate": "180 g",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Breaded meat",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Pasta salad with peas and cheese",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with Alfredo sauce",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

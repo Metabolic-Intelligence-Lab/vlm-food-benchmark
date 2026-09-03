@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "barbecue-glazed chicken pieces",
+      "portion_estimate": "180 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mashed or boiled potatoes",
+      "portion_estimate": "150 g",
+      "confidence": "75"
+    },
+    {
+      "name": "uncertain",
+      "portion_estimate": "100 g",
+      "confidence": "45"
+    }
+  ]
+}

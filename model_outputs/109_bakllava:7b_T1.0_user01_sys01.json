@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "rice",
+      "portion_estimate": "1 bowl",
+      "confidence": 90
+    },
+    {
+      "name": "vegetables (green beans and string beans)",
+      "portion_estimate": "2 bowls",
+      "confidence": 80
+    },
+    {
+      "name": "fruits (apples)",
+      "portion_estimate": "1 bowl",
+      "confidence": 70
+    }
+  ]
+}

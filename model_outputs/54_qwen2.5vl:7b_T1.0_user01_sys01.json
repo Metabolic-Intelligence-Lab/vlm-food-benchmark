@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with mixed vegetables",
+      "portion_estimate": "125-150 grams",
+      "confidence": 70
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "75-100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "cucumber and cabbage salad",
+      "portion_estimate": "50-75 grams",
+      "confidence": 70
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "30-40 grams",
+      "confidence": 70
+    },
+    {
+      "name": "scrambled egg",
+      "portion_estimate": "50-60 grams",
+      "confidence": 70
+    },
+    {
+      "name": "baked bread",
+      "portion_estimate": "40-50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250 milliliters",
+      "confidence": 70
+    }
+  ]
+}

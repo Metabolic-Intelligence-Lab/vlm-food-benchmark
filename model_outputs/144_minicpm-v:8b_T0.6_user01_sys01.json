@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Penne with Alfredo Sauce",
+      "portion_estimate": "uncertain, approximately 300g",
+      "confidence": "65"
+    },
+    {
+      "name": "Bread (Whole Grain)",
+      "portion_estimate": "1 slice (~75-90g)",
+      "confidence": "80"
+    },
+    {
+      "name": "Green Apple",
+      "portion_estimate": "uncertain, approximately 120g",
+      "confidence": "60"
+    }
+  ]
+}

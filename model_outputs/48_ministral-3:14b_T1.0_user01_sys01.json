@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with alfredo or tomato cream sauce (partially consumed)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potato wedges with seasoning",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "pita bread or tortilla wrap",
+      "portion_estimate": "70g",
+      "confidence": 75
+    },
+    {
+      "name": "guacamole or green salsa dip with tortilla chips",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "sour cream or similar white condiment (small dollop next to dip)",
+      "portion_estimate": "20g",
+      "confidence": 65
+    }
+  ]
+}

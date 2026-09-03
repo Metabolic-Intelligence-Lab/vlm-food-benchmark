@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken breast",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll with butter",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi with tomato sauce and cheese",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "garden salad with feta cheese",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": 90
+    },
+    {
+      "name": "Parmigiano Reggiano cheese packet",
+      "portion_estimate": "20g",
+      "confidence": 95
+    }
+  ]
+}

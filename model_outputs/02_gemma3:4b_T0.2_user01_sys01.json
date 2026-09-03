@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Lettuce",
+      "portion_estimate": "80",
+      "confidence": 95
+    },
+    {
+      "name": "Tomato",
+      "portion_estimate": "30",
+      "confidence": 85
+    },
+    {
+      "name": "Cucumber",
+      "portion_estimate": "40",
+      "confidence": 70
+    }
+  ]
+}

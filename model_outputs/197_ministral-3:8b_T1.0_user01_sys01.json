@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried or breaded shrimp (whole, cluster on plate)",
+      "portion_estimate": "150g (approximate, based on visual comparison to a standard plate size)",
+      "confidence": 70
+    },
+    {
+      "name": "brown onion (whole)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "mandarin orange or clementine (one whole piece)",
+      "portion_estimate": "80g (one fruit)",
+      "confidence": 90
+    },
+    {
+      "name": "broccoli florets (cooked, with olive oil and seasoning)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "potato gnocchi or cheese-filled dumplings (small portion on plate)",
+      "portion_estimate": "60g",
+      "confidence": 65
+    }
+  ]
+}

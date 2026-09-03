@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Assorted bread rolls",
+      "portion_estimate": "350",
+      "confidence": "95"
+    },
+    {
+      "name": "Green curry or vegetable stew",
+      "portion_estimate": "400",
+      "confidence": "85"
+    },
+    {
+      "name": "Crumbled rice or stuffing",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "Vegetable croquette or patty",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "Dark dipping sauce or relish",
+      "portion_estimate": "60",
+      "confidence": "90"
+    }
+  ]
+}

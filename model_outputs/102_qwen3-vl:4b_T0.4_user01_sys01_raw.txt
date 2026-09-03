@@ -1,0 +1,33 @@
+Based on the visible items in the image, here is a concise list of distinct food items with their portion estimates and confidence levels. **Note:** Only items that are clearly identifiable and visible are included (no invented or ambiguous items like the "thick clear kit" bag, which lacks clear identification).  
+
+1. **Bread roll**  
+   - *Portion estimate:* 60g  
+   - *Confidence:* 80%  
+   - *Reason:* A single, wrapped roll is visible; standard rolls are ~50–70g.  
+
+2. **Baked pasta casserole**  
+   - *Portion estimate:* 200g  
+   - *Confidence:* 70%  
+   - *Reason:* A serving-sized dish of pasta is visible; portions for casseroles typically range 150–250g.  
+
+3. **Roasted potato cubes**  
+   - *Portion estimate:* 150g  
+   - *Confidence:* 80%  
+   - *Reason:* Visible, uniform cubes; standard roasted potato servings are ~150g.  
+
+4. **Chicken breast**  
+   - *Portion estimate:* 150g  
+   - *Confidence:* 70%  
+   - *Reason:* A solid, cooked piece with shredded cheese; chicken breast portions are commonly 150g.  
+
+5. **Berry yogurt**  
+   - *Portion estimate:* 150g  
+   - *Confidence:* 80%  
+   - *Reason:* A standard container (e.g., 150ml/150g) with visible berries.  
+
+### Key Notes:  
+- **Excluded items:** The "thick clear kit" bag is not identified (e.g., unclear if it’s a snack, bar, or other product), so it is omitted per the requirement to avoid hallucination.  
+- **Confidence basis:** Estimates rely on standard portion sizes for common foods, with lower confidence for items where visual cues (e.g., meat type) are less definitive.  
+- **Beverage note:** Yogurt is listed as a food item (not a beverage), as per the query’s focus on "food and beverage" but yogurt is classified as a food.  
+
+This list reflects only visible, identifiable items without speculation.

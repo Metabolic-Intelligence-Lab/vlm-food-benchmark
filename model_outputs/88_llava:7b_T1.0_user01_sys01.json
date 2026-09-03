@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with pesto sauce",
+      "portion_estimate": "125g",
+      "confidence": 90
+    },
+    {
+      "name": "Baked cheese omelette",
+      "portion_estimate": "85g",
+      "confidence": 60
+    },
+    {
+      "name": "Piece of whole grain bread",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "Creamy potato salad with peas and crumbled feta cheese",
+      "portion_estimate": "170g",
+      "confidence": 70
+    },
+    {
+      "name": "Mixed berries",
+      "portion_estimate": "60g",
+      "confidence": 80
+    }
+  ]
+}

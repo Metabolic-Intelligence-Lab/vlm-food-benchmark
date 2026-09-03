@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "lentils",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "mushroom",
+      "portion_estimate": "50",
+      "confidence": 60
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "100",
+      "confidence": 80
+    }
+  ]
+}

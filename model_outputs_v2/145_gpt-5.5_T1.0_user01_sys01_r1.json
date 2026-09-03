@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "lentil stew or soup",
+      "portion_estimate": "350 g",
+      "confidence": "85"
+    },
+    {
+      "name": "grated hard cheese topping",
+      "portion_estimate": "10 g",
+      "confidence": "75"
+    },
+    {
+      "name": "steamed cauliflower florets",
+      "portion_estimate": "150 g",
+      "confidence": "90"
+    },
+    {
+      "name": "spinach frittata or omelet slice",
+      "portion_estimate": "90 g",
+      "confidence": "85"
+    },
+    {
+      "name": "plain yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "80"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "packaged breadstick or cracker",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    }
+  ]
+}

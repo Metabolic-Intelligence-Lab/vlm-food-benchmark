@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "creamy tomato-based soup (e.g., minestrone or similar)",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "grilled or baked fish fillet with sauce (e.g., salmon or trout)",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or saut\u00e9ed leafy greens (e.g., spinach or kale)",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "small baked or fried potato-based dish (e.g., potato croquette or hash brown)",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "small whole orange",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "water in clear plastic cup",
+      "portion_estimate": "250",
+      "confidence": 80
+    },
+    {
+      "name": "small round bread roll or bun (e.g., dinner roll)",
+      "portion_estimate": "50",
+      "confidence": 70
+    }
+  ]
+}

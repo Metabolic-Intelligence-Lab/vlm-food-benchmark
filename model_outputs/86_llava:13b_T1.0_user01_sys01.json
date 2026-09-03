@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Fish with Herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Macaroni and Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Mixed Vegetable Salad (Cherry Tomatoes, Green Herbs)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Blueberries",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Sliced Bread or Rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup in a bowl with visible chunks and cheese",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "Fried potatoes/crumpets",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "Roasted/candied potatoes pieces",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "Assorted crackers/snacks in clear plastic bag",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "Dairy product container in packaging (e.g., yogurt, pudding)",
+      "portion_estimate": "200",
+      "confidence": 75
+    }
+  ]
+}

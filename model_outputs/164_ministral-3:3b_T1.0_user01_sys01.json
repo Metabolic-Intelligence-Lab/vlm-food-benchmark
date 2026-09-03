@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "garlic mashed beans",
+      "portion_estimate": "150 g",
+      "confidence": 85
+    },
+    {
+      "name": "corn fritters",
+      "portion_estimate": "120 g",
+      "confidence": 75
+    },
+    {
+      "name": "green bean soup",
+      "portion_estimate": "220 g",
+      "confidence": 85
+    },
+    {
+      "name": "garlic bread or roll",
+      "portion_estimate": "65 g (1 slice)",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt (unspecified flavor, likely mango or fruit flavor)",
+      "portion_estimate": "150 g (from can)",
+      "confidence": 75
+    },
+    {
+      "name": "paprika seasoned corn chips, partially visible",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked fish fillet",
+      "portion_estimate": "130",
+      "confidence": "85"
+    },
+    {
+      "name": "Yellow pasta or vegetable noodles",
+      "portion_estimate": "180",
+      "confidence": "75"
+    },
+    {
+      "name": "Fluffy grains (rice or couscous)",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "Yellowish pickled or preserved item",
+      "portion_estimate": "30",
+      "confidence": "65"
+    },
+    {
+      "name": "Small bread roll or bun",
+      "portion_estimate": "70",
+      "confidence": "85"
+    },
+    {
+      "name": "Yellow condiment or spread (in packaging)",
+      "portion_estimate": "30",
+      "confidence": "60"
+    }
+  ]
+}

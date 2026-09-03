@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with sauce and grated cheese",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "mixed vegetable salad",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "triangular pastry or baked dish",
+      "portion_estimate": "50g",
+      "confidence": 95
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100g",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "grilled eggplant with tomato sauce and grated cheese",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "potato and zucchini salad/side dish",
+      "portion_estimate": "150",
+      "confidence": 65
+    },
+    {
+      "name": "whole wheat bread roll",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt cup (Yomo)",
+      "portion_estimate": "125",
+      "confidence": 70
+    },
+    {
+      "name": "water in plastic cup",
+      "portion_estimate": "200",
+      "confidence": 60
+    }
+  ]
+}

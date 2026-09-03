@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "red potatoes with cheese and bacon bits",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "mixed greens",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "ketchup",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "sugar packets",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    }
+  ]
+}

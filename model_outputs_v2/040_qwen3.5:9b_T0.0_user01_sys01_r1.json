@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Slice of frittata (egg omelet) with mushrooms and ham",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Saut\u00e9ed vegetables (carrots, potatoes)",
+      "portion_estimate": 100,
+      "confidence": 95
+    },
+    {
+      "name": "Rice salad with peas, corn, ham, and red cabbage",
+      "portion_estimate": 200,
+      "confidence": 95
+    },
+    {
+      "name": "Baguette roll (bread)",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Fresh apricots",
+      "portion_estimate": 120,
+      "confidence": 95
+    }
+  ]
+}

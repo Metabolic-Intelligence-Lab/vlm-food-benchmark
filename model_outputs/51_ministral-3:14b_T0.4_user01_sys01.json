@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "savory baked egg dish with caramelized sauce (potentially containing cheese, ham, or bacon bits)",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "crispy fried onions (topping)",
+      "portion_estimate": "20",
+      "confidence": "80"
+    },
+    {
+      "name": "melted cheese or caramelized sauce (on top of egg mixture)",
+      "portion_estimate": "30",
+      "confidence": "75"
+    }
+  ]
+}

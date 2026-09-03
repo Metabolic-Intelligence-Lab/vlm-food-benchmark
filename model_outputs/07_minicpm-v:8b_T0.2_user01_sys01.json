@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain, approx. slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "Salad with carrots and lettuce",
+      "portion_estimate": "uncertain, bowl full",
+      "confidence": "60"
+    },
+    {
+      "name": "Custard cup",
+      "portion_estimate": "uncertain, approx. 1/3 of the container",
+      "confidence": "50"
+    },
+    {
+      "name": "Fried chicken nugget",
+      "portion_estimate": "uncertain, approx. single piece",
+      "confidence": "60"
+    },
+    {
+      "name": "Chickpea stew with cheese and spices",
+      "portion_estimate": "uncertain, plate full",
+      "confidence": "50"
+    }
+  ]
+}

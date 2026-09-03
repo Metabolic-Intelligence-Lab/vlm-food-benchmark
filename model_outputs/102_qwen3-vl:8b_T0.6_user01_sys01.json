@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked Bow-Tie Pasta",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "Breaded Chicken Cutlet",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Roasted Potato Cubes",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Yogurt (SporT Brand)",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    }
+  ]
+}

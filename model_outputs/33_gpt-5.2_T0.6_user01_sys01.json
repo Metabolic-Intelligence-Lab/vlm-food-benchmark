@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "260 g",
+      "confidence": "78"
+    },
+    {
+      "name": "mixed vegetables (peas, carrots, potatoes, mushrooms/eggplant) cooked",
+      "portion_estimate": "140 g",
+      "confidence": "72"
+    },
+    {
+      "name": "bread roll (small)",
+      "portion_estimate": "60 g",
+      "confidence": "70"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "170 g",
+      "confidence": "80"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "250 g",
+      "confidence": "75"
+    },
+    {
+      "name": "savory patty/fritter topped with a slice of tomato (possibly mashed potato or polenta base)",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    }
+  ]
+}

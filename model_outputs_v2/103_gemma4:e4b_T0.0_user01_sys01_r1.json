@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Roast meat (pork or ham)",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Saut\u00e9ed green vegetables (zucchini/broccoli)",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "Creamy vegetable soup or stew",
+      "portion_estimate": "350",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread rolls",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

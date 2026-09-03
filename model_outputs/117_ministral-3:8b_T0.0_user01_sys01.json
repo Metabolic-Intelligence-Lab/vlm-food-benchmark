@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green soup (likely minestrone or similar)",
+      "portion_estimate": "450 grams",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "buttered bread or croutons (on plate)",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "mixed vegetables (broccoli florets and possibly other mixed veggies)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small tub of butter or margarine (Owow brand)",
+      "portion_estimate": "uncertain (likely 25-50 grams)",
+      "confidence": 50
+    }
+  ]
+}

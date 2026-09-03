@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fresh salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red container",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

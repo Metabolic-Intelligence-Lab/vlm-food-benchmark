@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "200g",
+      "confidence": 100
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "150g",
+      "confidence": 100
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50g",
+      "confidence": 100
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100g",
+      "confidence": 100
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "apple pie",
+      "portion_estimate": "uncertain, approx. slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "approx. half a cup",
+      "confidence": "70"
+    },
+    {
+      "name": "ham with black pepper",
+      "portion_estimate": "uncertain, approx. slice size",
+      "confidence": "50"
+    }
+  ]
+}

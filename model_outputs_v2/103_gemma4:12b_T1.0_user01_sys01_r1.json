@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable soup with cream",
+      "portion_estimate": "350g",
+      "confidence": 90
+    },
+    {
+      "name": "Roasted meat with herbs",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Roasted broccoli with herb coating",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60g",
+      "confidence": 95
+    },
+    {
+      "name": "Small container of dressing/spread",
+      "portion_estimate": "50g",
+      "confidence": 85
+    }
+  ]
+}

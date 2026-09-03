@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potato wedges with herbs",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "small portion of tomato and cheese dip with crackers or bread",
+      "portion_estimate": "50",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt drink (partially visible in red container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pickled vegetable (e.g., cucumber or okra) in plastic bag",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

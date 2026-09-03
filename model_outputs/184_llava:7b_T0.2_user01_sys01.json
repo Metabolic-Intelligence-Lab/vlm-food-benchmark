@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Breaded and fried fish fillet",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed potatoes with gravy",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Rolled sandwich (possibly chicken), with lettuce and tomato",
+      "portion_estimate": "70 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Green salad in bowl",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    }
+  ]
+}

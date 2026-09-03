@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Egg with a side of saut\u00e9ed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Pasta (spaghetti)",
+      "portion_estimate": "150 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Egg in a shell",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Breakfast roll (likely containing eggs)",
+      "portion_estimate": "160 grams",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bun or roll",
+      "portion_estimate": "100g (approximate size of a small bun)",
+      "confidence": 85
+    },
+    {
+      "name": "chicken or meatball (likely spiced)",
+      "portion_estimate": "100g (pair of meatballs combined)",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or roasted carrots (sliced)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "pasta (likely shell pasta) with cheese sauce",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "plain water",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

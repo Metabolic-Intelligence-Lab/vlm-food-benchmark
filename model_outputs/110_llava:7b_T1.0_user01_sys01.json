@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Lunch",
+      "portion_estimate": "approximate weight in grams (uncertain)",
+      "confidence": 50
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "approximate weight in grams (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "Croissant",
+      "portion_estimate": "approximate weight in grams (uncertain)",
+      "confidence": 60
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "approximate weight in grams (uncertain)",
+      "confidence": 70
+    }
+  ]
+}

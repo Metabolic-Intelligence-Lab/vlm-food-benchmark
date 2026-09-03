@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roasted chicken pieces",
+      "portion_estimate": "250",
+      "confidence": "95"
+    },
+    {
+      "name": "roasted chickpeas",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "30",
+      "confidence": "95"
+    },
+    {
+      "name": "farfalle pasta with tomato sauce",
+      "portion_estimate": "250",
+      "confidence": "95"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "90",
+      "confidence": "95"
+    }
+  ]
+}

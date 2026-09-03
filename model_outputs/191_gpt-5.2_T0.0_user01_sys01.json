@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green soup (likely vegetable/puree soup)",
+      "portion_estimate": "300 g",
+      "confidence": "72"
+    },
+    {
+      "name": "sliced cooked carrots",
+      "portion_estimate": "80 g",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded fried balls (uncertain: arancini/croquettes/meatballs), 2 pieces",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Torinesi cheese (sliced/semi-soft cheese pack)",
+      "portion_estimate": "80 g",
+      "confidence": "65"
+    },
+    {
+      "name": "fruit yogurt cup (strawberry/cherry flavor, uncertain)",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    }
+  ]
+}

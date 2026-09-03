@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "shredded cheese (likely cheddar or similar)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "ground beef or turkey (lean cut)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "tomato sauce or gravy",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

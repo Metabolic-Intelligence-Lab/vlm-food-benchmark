@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Diced potatoes with herbs",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "Chicken breast with creamy sauce",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Red kidney beans",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "80g",
+      "confidence": 90
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200g",
+      "confidence": 90
+    }
+  ]
+}

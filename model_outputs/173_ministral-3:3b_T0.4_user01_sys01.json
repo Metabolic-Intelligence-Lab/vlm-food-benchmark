@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed green beans",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "small boiled egg (2 pieces)",
+      "portion_estimate": "25 grams each (total ~50 grams)",
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "sliced bread wrapped in plastic wrap",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange slice",
+      "portion_estimate": "50 grams",
+      "confidence": 95
+    }
+  ]
+}

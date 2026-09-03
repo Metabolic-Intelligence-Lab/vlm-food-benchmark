@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "chili and potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sour cream or similar condiment",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

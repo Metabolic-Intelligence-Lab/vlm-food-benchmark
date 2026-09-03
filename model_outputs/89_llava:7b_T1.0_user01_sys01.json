@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Plain rice (uncertain)",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Bread roll (uncertain)",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Chicken or seafood dish (uncertain, but likely some type of fish given portion size and context), with white sauce and possibly vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Green lentils (uncertain)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Fresh yellow banana (uncertain portion size, likely intended to serve as a snack or dessert), on top of what might be an orange or small citrus fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    }
+  ]
+}

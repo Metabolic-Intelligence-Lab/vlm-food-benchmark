@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Meat",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

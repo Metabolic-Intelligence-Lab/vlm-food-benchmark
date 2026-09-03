@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "egg, sunny side up",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "fries, golden brown",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "white bread roll with black writing on it",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "coleslaw, dark green and yellow",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "white plate with greens on it",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "green mayonnaise bottle",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "red ketchup packet",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

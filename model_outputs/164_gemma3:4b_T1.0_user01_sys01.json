@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable Soup",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "Fried Egg",
+      "portion_estimate": "75g",
+      "confidence": 70
+    },
+    {
+      "name": "Potato Hash",
+      "portion_estimate": "125g",
+      "confidence": 65
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "125g",
+      "confidence": 90
+    }
+  ]
+}

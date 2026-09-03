@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": 55,
+      "confidence": 80
+    },
+    {
+      "name": "Yoplait yogurt",
+      "portion_estimate": 120,
+      "confidence": 80
+    },
+    {
+      "name": "mixed greens salad with carrots",
+      "portion_estimate": 120,
+      "confidence": 80
+    },
+    {
+      "name": "chickpea soup with cheese",
+      "portion_estimate": 200,
+      "confidence": 80
+    },
+    {
+      "name": "breaded chicken tender",
+      "portion_estimate": 70,
+      "confidence": 80
+    }
+  ]
+}

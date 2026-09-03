@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

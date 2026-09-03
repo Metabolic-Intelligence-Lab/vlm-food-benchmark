@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Eggs",
+      "portion_estimate": "2 eggs, 100 grams each",
+      "confidence": "70"
+    },
+    {
+      "name": "Zucchini",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    }
+  ]
+}

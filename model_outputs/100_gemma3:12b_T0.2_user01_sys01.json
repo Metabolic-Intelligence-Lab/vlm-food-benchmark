@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "Pickled cucumbers",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

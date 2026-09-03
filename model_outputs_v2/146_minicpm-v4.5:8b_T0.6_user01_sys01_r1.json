@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bowtie pasta with creamy sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "crusty bread (sliced)",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "sliced cheese packet (likely provolone or similar)",
+      "portion_estimate": "30 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed cauliflower florets",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "square puff pastry (possibly spinach or cheese)",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "purple plums (two visible)",
+      "portion_estimate": "100 grams (total for two plums)",
+      "confidence": "85"
+    }
+  ]
+}

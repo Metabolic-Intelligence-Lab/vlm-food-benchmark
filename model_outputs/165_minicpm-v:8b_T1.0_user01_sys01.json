@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken tikka masala",
+      "portion_estimate": "uncertain, approx. 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Garlic bread",
+      "portion_estimate": "approx. 80g each for two slices",
+      "confidence": "70"
+    },
+    {
+      "name": "Minted chickpea salad with curry leaves (top)",
+      "portion_estimate": "uncertain, approx. 50-100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Cucumber raita",
+      "portion_estimate": "approx. 70g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed potatoes with curry gravy (left side of white plate)",
+      "portion_estimate": "uncertain, approx. 150-200g",
+      "confidence": "60"
+    }
+  ]
+}

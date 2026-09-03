@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken or turkey meat chunks (likely shredded)",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "plain bagel or roll (partially visible in plastic packaging)",
+      "portion_estimate": "70 grams",
+      "confidence": 70
+    },
+    {
+      "name": "plain sliced ham or pork loin",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes or mashed sweet potato",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "water or clear liquid (in small glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

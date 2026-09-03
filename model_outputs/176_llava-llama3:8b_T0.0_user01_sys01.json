@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with cream and croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Sandwich with lettuce, tomato, and coleslaw",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Rice with black olives",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

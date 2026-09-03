@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with green sauce and cheese",
+      "portion_estimate": "uncertain (approximate weight in grams)",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain (approximate weight in grams)",
+      "confidence": "60"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain (approximate weight in grams)",
+      "confidence": "50"
+    },
+    {
+      "name": "Mushroom with green sauce and yellow noodles",
+      "portion_estimate": "uncertain (approximate weight in grams)",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain (approximate weight in grams)",
+      "confidence": "50"
+    }
+  ]
+}

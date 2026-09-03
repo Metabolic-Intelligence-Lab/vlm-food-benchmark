@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni pasta",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "diced carrots",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "60 grams",
+      "confidence": 65
+    },
+    {
+      "name": "diced onions",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "diced cabbage or broccoli florets",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    }
+  ]
+}

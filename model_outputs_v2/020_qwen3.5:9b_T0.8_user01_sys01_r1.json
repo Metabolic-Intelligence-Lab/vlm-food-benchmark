@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Sliced cooked sweet potatoes",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Cooked Brussels sprouts",
+      "portion_estimate": 175,
+      "confidence": 92
+    },
+    {
+      "name": "Glazed chicken wings",
+      "portion_estimate": 140,
+      "confidence": 88
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": 180,
+      "confidence": 97
+    },
+    {
+      "name": "Water in glass",
+      "portion_estimate": 200,
+      "confidence": 94
+    }
+  ]
+}

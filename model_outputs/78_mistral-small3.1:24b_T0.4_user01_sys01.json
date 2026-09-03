@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot cubes",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "soup with breadcrumbs",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "hummus with tahini",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "flatbread",
+      "portion_estimate": "80",
+      "confidence": "85"
+    }
+  ]
+}

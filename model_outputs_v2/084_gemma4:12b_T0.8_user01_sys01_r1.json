@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Stir-fried vegetables with tofu cubes",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "Rice topped with tomato-based sauce",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "Saut\u00e9ed mixed vegetables",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "Multi-grain bread slice",
+      "portion_estimate": "40",
+      "confidence": "95"
+    },
+    {
+      "name": "Beverage in cup",
+      "portion_estimate": "250",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked mixed pasta (rigatoni/cavatappi/rotini style)",
+      "portion_estimate": "200 g",
+      "confidence": "78"
+    },
+    {
+      "name": "melted cheese sauce (possibly mozzarella/alfredo-style)",
+      "portion_estimate": "40 g",
+      "confidence": "64"
+    },
+    {
+      "name": "tomato-based sauce (marinara-like) in small amounts",
+      "portion_estimate": "20 g",
+      "confidence": "62"
+    }
+  ]
+}

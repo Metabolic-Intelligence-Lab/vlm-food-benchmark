@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy vegetable soup with grated cheese topping",
+      "portion_estimate": "450 grams",
+      "confidence": 75
+    },
+    {
+      "name": "whole wheat roll (from plastic packaging)",
+      "portion_estimate": "60 grams",
+      "confidence": 70
+    },
+    {
+      "name": "savory spinach and cheese quiche slice",
+      "portion_estimate": "120 grams",
+      "confidence": 70
+    },
+    {
+      "name": "mixed fresh peas and sliced carrots (served together)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "dried plums (prunes)",
+      "portion_estimate": "30 grams",
+      "confidence": 70
+    }
+  ]
+}

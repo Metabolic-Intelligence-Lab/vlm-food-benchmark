@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken with sauce",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Soup (potato",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Cheese (shredded)",
+      "portion_estimate": "20g",
+      "confidence": "40"
+    }
+  ]
+}

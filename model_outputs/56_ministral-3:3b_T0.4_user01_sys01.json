@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried breadstick or crouton",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "mushroom and vegetable stir-fry (with carrots, mushrooms, onions, bell peppers)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with tomato sauce and herbs (penne or similar pasta)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "plain water (from the clear glass)",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "garlic bread or dinner roll",
+      "portion_estimate": "80",
+      "confidence": 80
+    }
+  ]
+}

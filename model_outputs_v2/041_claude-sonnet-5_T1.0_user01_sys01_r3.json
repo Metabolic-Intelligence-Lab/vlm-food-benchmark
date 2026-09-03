@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "conchiglie pasta with tomato sauce and grated cheese",
+      "portion_estimate": "220",
+      "confidence": 85
+    },
+    {
+      "name": "stuffed pasta crepe/cannelloni with spinach and béchamel, gratinated",
+      "portion_estimate": "180",
+      "confidence": 75
+    },
+    {
+      "name": "mixed cabbage and cucumber salad",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "apricots, whole fresh fruit",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll, packaged",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "water in plastic cup",
+      "portion_estimate": "200",
+      "confidence": 60
+    }
+  ]
+}

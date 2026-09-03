@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "wrap with fillings (like a burrito)",
+      "portion_estimate": "approximately 250 grams",
+      "confidence": 95
+    },
+    {
+      "name": "visible fillings (such as spinach or other vegetables)",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": 80
+    }
+  ]
+}

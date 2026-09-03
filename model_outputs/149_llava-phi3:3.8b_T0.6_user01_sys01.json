@@ -1,0 +1,30 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "20g",
+      "confidence": "95"
+    },
+    {
+      "name": "potato salad",
+      "portion_estimate": "40g",
+      "confidence": "80"
+    },
+    {
+      "name": "sliced cherry tomatoes",
+      "portion_estimate": "30g",
+      "confidence": "75"
+    },
+    {
+      "name": "orange pasta salad",
+      "portion_estimate": "60g",
+      "confidence": "90"
+    }
+  ],
+  "tablecloth": [
+    {
+      "type": "white cloth with green leaves pattern",
+      "color": "white and green"
+    }
+  ]
+}

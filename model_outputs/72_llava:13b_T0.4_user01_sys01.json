@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "50 g",
+      "confidence": "60"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "75 g",
+      "confidence": "80"
+    },
+    {
+      "name": "curry",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain, approx 100g",
+      "confidence": "50"
+    },
+    {
+      "name": "Boiled egg with mustard sauce",
+      "portion_estimate": "uncertain, approx 75g",
+      "confidence": "40"
+    },
+    {
+      "name": "Bread roll (white)",
+      "portion_estimate": "approx. 60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Apple pie with apples and cinnamon",
+      "portion_estimate": "uncertain, approx 125g",
+      "confidence": "70"
+    },
+    {
+      "name": "Soup (potato-based)",
+      "portion_estimate": "approx. 300g",
+      "confidence": "90"
+    }
+  ]
+}

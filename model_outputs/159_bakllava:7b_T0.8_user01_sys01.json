@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "broccoli and other vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "loaf of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "lemon or orange",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

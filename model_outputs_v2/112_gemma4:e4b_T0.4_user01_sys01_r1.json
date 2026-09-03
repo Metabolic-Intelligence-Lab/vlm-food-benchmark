@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fettuccine pasta with grated cheese",
+      "portion_estimate": "220g",
+      "confidence": "95"
+    },
+    {
+      "name": "Dark grapes or plums",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Baked cheese or polenta square",
+      "portion_estimate": "80g",
+      "confidence": "85"
+    },
+    {
+      "name": "Small bread roll or pastry",
+      "portion_estimate": "70g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green olives",
+      "portion_estimate": "60g",
+      "confidence": "95"
+    }
+  ]
+}

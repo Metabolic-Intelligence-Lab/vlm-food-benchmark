@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Noodle dish (likely penne or rigatoni)",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Vegetable stir-fry",
+      "portion_estimate": "200 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Fresh bread roll",
+      "portion_estimate": "45 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "A slice of watermelon",
+      "portion_estimate": "120 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed salad (likely including carrots)",
+      "portion_estimate": "80 grams",
+      "confidence": "40"
+    },
+    {
+      "name": "Pasta dish with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    }
+  ]
+}

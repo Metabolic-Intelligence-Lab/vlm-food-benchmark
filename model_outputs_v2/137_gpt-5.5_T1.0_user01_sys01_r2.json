@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked ridged pasta",
+      "portion_estimate": "220 g",
+      "confidence": "90"
+    },
+    {
+      "name": "melted cheese on pasta",
+      "portion_estimate": "35 g",
+      "confidence": "75"
+    },
+    {
+      "name": "red tomato-based sauce",
+      "portion_estimate": "20 g",
+      "confidence": "70"
+    }
+  ]
+}

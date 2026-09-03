@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy pasta or grain dish",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "Sliced carrots and mixed root vegetables",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Saut\u00e9ed light green vegetables (e.g., zucchini)",
+      "portion_estimate": "170",
+      "confidence": "75"
+    },
+    {
+      "name": "Baked bun or biscuit (wrapped)",
+      "portion_estimate": "90",
+      "confidence": "90"
+    },
+    {
+      "name": "Two plums or small dark stone fruits",
+      "portion_estimate": "60",
+      "confidence": "85"
+    }
+  ]
+}

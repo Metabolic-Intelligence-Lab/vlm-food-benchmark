@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked fish with breading and side of zucchini/cucumber mix",
+      "portion_estimate": "150-200g",
+      "confidence": 95
+    },
+    {
+      "name": "rice or grain-based dish with what appears to be shredded meat or tofu",
+      "portion_estimate": "100-150g",
+      "confidence": 90
+    },
+    {
+      "name": "plain whole-grain bread",
+      "portion_estimate": "30-50g",
+      "confidence": 85
+    },
+    {
+      "name": "orange (whole)",
+      "portion_estimate": "125-150g",
+      "confidence": 95
+    },
+    {
+      "name": "water (from clear glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

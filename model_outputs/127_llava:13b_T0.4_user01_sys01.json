@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta in red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "salad with mixed greens and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "two slices of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sweet treat (chocolate bar or candy)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

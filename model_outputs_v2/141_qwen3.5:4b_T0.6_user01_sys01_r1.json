@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli",
+      "portion_estimate": "150",
+      "confidence": "high"
+    },
+    {
+      "name": "chicken breast or white fish fillet",
+      "portion_estimate": "120",
+      "confidence": "high"
+    },
+    {
+      "name": "whole wheat bread slice",
+      "portion_estimate": "35",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "100",
+      "confidence": "high"
+    }
+  ]
+}

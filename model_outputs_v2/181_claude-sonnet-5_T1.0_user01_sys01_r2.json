@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti pasta plain with herbs",
+      "portion_estimate": "180",
+      "confidence": "70"
+    },
+    {
+      "name": "pizza slice with diced squash/pumpkin topping",
+      "portion_estimate": "150",
+      "confidence": "65"
+    },
+    {
+      "name": "sauteed shredded pumpkin or squash",
+      "portion_estimate": "120",
+      "confidence": "60"
+    },
+    {
+      "name": "whole pear",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll, packaged",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "sliced cheese, packaged",
+      "portion_estimate": "30",
+      "confidence": "55"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad with greens, possibly romaine or butter lettuce",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "plain yogurt (white/vanilla), packaged in a small container",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "onion, whole",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "baked dish with what appears to be tater tots or shredded potatoes",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed green vegetables (possibly bok choy or spinach)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "cucumber or similar salad green slices (small piece in plastic wrap)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "small whole wheat roll or bun",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "juice or beverage carton (green color) with some liquid",
+      "portion_estimate": "150",
+      "confidence": 80
+    }
+  ]
+}

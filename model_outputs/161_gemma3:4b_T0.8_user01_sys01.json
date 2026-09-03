@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with Tomato Sauce",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Vegetable Medley",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "Vegetable Tart",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "Peach",
+      "portion_estimate": "80g",
+      "confidence": 90
+    }
+  ]
+}

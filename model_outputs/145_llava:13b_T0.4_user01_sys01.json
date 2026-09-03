@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Dal with Rice and Spices",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Cauliflower and Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Sour Cream or Yogurt (Condiment)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Bread (Wrapped in Plastic)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

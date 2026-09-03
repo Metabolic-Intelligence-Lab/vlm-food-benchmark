@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded fish",
+      "portion_estimate": "30g",
+      "confidence": "60"
+    },
+    {
+      "name": "Eggs benedict with hollandaise sauce",
+      "portion_estimate": "45g",
+      "confidence": "50"
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "20g",
+      "confidence": "30"
+    }
+  ]
+}

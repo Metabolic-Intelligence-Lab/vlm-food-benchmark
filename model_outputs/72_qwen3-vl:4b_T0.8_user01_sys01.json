@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked fish fillet",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sweet potato slices",
+      "portion_estimate": "80g",
+      "confidence": "75"
+    },
+    {
+      "name": "Lentil stew",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "150g",
+      "confidence": "75"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "item": "Cooked macaroni pasta",
+    "portion": {
+      "weight": 120,
+      "unit": "g",
+      "confidence": 70
+    }
+  },
+  {
+    "item": "Pear",
+    "portion": {
+      "weight": 180,
+      "unit": "g",
+      "confidence": 80
+    }
+  },
+  {
+    "item": "Bread roll (packaged)",
+    "portion": {
+      "weight": 70,
+      "unit": "g",
+      "confidence": 70
+    }
+  },
+  {
+    "item": "Cooked lentils",
+    "portion": {
+      "weight": 120,
+      "unit": "g",
+      "confidence": 70
+    }
+  },
+  {
+    "item": "Breaded balls (two)",
+    "portion": {
+      "weight": 100,
+      "unit": "g",
+      "confidence": 70
+    }
+  },
+  {
+    "item": "Dark slice (e.g., bread slice)",
+    "portion": {
+      "weight": 30,
+      "unit": "g",
+      "confidence": 60
+    }
+  }
+]

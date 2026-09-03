@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice",
+      "portion_estimate": "250 grams",
+      "confidence": 95
+    },
+    {
+      "name": "white beans/lentils",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "leafy vegetables (e.g., spinach or herbs)",
+      "portion_estimate": "70 grams",
+      "confidence": 85
+    }
+  ]
+}

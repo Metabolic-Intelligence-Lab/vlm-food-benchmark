@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato-based sauce",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "green beans (cooked)",
+      "portion_estimate": "140 g",
+      "confidence": "82"
+    },
+    {
+      "name": "omelet/frittata (egg-based, with herbs/vegetables)",
+      "portion_estimate": "170 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mushroom (cooked, whole/large piece)",
+      "portion_estimate": "30 g",
+      "confidence": "66"
+    },
+    {
+      "name": "bread roll (in plastic packaging)",
+      "portion_estimate": "70 g",
+      "confidence": "84"
+    },
+    {
+      "name": "yogurt cup (possibly lemon flavor)",
+      "portion_estimate": "125 g",
+      "confidence": "60"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "250 g",
+      "confidence": "75"
+    }
+  ]
+}

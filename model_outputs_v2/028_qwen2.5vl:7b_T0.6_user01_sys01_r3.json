@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and vegetables",
+      "portion_estimate": "100-150",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50-75",
+      "confidence": 70
+    },
+    {
+      "name": "spinach and cheese-filled pastry",
+      "portion_estimate": "50-75",
+      "confidence": 60
+    },
+    {
+      "name": "green leafy vegetable",
+      "portion_estimate": "50-75",
+      "confidence": 70
+    },
+    {
+      "name": "salad with cucumber and cabbage",
+      "portion_estimate": "50-75",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "50-75",
+      "confidence": 70
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200",
+      "confidence": 90
+    }
+  ]
+}

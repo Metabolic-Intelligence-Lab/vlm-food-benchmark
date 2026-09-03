@@ -1,0 +1,41 @@
+{
+  "food_items": [
+    {
+      "name": "Fried eggs",
+      "portion_estimate": "2 whole eggs",
+      "confidence": "90"
+    },
+    {
+      "name": "Bacon",
+      "portion_estimate": "1 strip",
+      "confidence": "85"
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "12 pieces",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "1 piece",
+      "confidence": "85"
+    },
+    {
+      "name": "Ketchup",
+      "portion_estimate": "1 small cup",
+      "confidence": "90"
+    }
+  ],
+  "tray": [
+    {
+      "item": "French fries",
+      "quantity": 12,
+      "color": "golden brown"
+    },
+    {
+      "item": "Bacon",
+      "quantity": 1,
+      "color": "reddish brown"
+    }
+  ]
+}

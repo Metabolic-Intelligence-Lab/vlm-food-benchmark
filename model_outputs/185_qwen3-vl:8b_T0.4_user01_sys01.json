@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "Diced Potatoes",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "Shredded Cabbage or Salad",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200ml",
+      "confidence": 80
+    },
+    {
+      "name": "Wrapped Item",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

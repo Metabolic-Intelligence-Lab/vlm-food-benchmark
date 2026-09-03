@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed broccoli",
+      "portion_estimate": "100 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Stuffed potato",
+      "portion_estimate": "250 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Macaroni and cheese",
+      "portion_estimate": "300 g",
+      "confidence": "70"
+    }
+  ]
+}

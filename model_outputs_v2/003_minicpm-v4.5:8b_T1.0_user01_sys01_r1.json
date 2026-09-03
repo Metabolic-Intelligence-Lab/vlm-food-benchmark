@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (spirals) with vegetables",
+      "portion_estimate": "150-200g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed broccoli with sauce",
+      "portion_estimate": "100-120g",
+      "confidence": 80
+    },
+    {
+      "name": "grilled eggplant with topping (possibly cheese and herbs)",
+      "portion_estimate": "50-70g",
+      "confidence": 75
+    },
+    {
+      "name": "brown bread roll",
+      "portion_estimate": "50-60g",
+      "confidence": 70
+    },
+    {
+      "name": "water",
+      "portion_estimate": "150ml (assuming glass is filled to standard line)",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "mixed rice with vegetables",
+      "portion_estimate": "uncertain, approx 300g",
+      "confidence": "50"
+    },
+    {
+      "name": "baked potato or sweet potato",
+      "portion_estimate": "approx. 170g",
+      "confidence": "60"
+    },
+    {
+      "name": "chicken curry with boiled egg and green leafy vegetables",
+      "portion_estimate": "uncertain, approx 250g",
+      "confidence": "50"
+    },
+    {
+      "name": "apple juice or apple cider vinegar",
+      "portion_estimate": "uncertain, approx. 1 cup (240ml)",
+      "confidence": "70"
+    }
+  ]
+}

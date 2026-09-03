@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni Salad",
+      "portion_estimate": "400g",
+      "confidence": "85%"
+    },
+    {
+      "name": "Pasta with Cream Sauce and Parmesan Cheese",
+      "portion_estimate": "237.16g",
+      "confidence": "95%"
+    },
+    {
+      "name": "Cucumber Salad",
+      "portion_estimate": "280g",
+      "confidence": "89%"
+    },
+    {
+      "name": "Bread Roll with Cheese",
+      "portion_estimate": "150g",
+      "confidence": "67%"
+    },
+    {
+      "name": "Orange Juice",
+      "portion_estimate": "247.83ml",
+      "confidence": "89%"
+    }
+  ]
+}

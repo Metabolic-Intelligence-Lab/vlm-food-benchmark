@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pizza Slice",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Pasta with Spinach",
+      "portion_estimate": "200g",
+      "confidence": 75
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "120g",
+      "confidence": 90
+    }
+  ]
+}

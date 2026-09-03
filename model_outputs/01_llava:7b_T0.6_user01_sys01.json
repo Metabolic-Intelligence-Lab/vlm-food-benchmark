@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "Rice pilaf",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Breaded and fried item (kebab or schnitzel)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Soup (herb-based)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Hummus",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Mashed potatoes (herb-garnished)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Dairy condiment (yogurt-like)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Beverage (milk or juice)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Cookies or biscuits",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

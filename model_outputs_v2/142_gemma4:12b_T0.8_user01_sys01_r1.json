@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked fish fillet",
+      "portion_estimate": "130",
+      "confidence": 95
+    },
+    {
+      "name": "orzo pasta with seasonings",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "cooked pasta dish in bowl",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "whole grain bread slice",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "roasted small onions",
+      "portion_estimate": "30",
+      "confidence": 90
+    }
+  ]
+}

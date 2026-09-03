@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green soup with cheese on top",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "grilled potato wedges",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "crispy breaded balls (likely meatballs or dumplings)",
+      "portion_estimate": "80g",
+      "confidence": 95
+    },
+    {
+      "name": "saut\u00e9ed or steamed cabbage (kohlrabi or sauerkraut)",
+      "portion_estimate": "70g",
+      "confidence": 90
+    },
+    {
+      "name": "sandwich roll (partially eaten, likely bread)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

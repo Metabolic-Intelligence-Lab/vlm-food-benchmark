@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Muffin with Chocolate Drizzle",
+      "portion_estimate": "75 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Potato Fries",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Carrot sticks",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    }
+  ]
+}

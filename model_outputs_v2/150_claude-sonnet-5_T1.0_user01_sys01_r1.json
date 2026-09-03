@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto and grated cheese",
+      "portion_estimate": "220",
+      "confidence": 75
+    },
+    {
+      "name": "diced boiled potatoes",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "boiled carrots, sliced",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "50",
+      "confidence": 65
+    },
+    {
+      "name": "vegetable and carrot fritter/patty with cooked spinach",
+      "portion_estimate": "90",
+      "confidence": 60
+    },
+    {
+      "name": "bread roll, packaged",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "black plums",
+      "portion_estimate": "120",
+      "confidence": 70
+    }
+  ]
+}

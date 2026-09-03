@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Baked Chicken Breast with Lemon Pepper Seasoning",
+      "portion_estimate": "approximate 100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed Vegetable Stir-fry",
+      "portion_estimate": "approximate 100g",
+      "confidence": "75"
+    },
+    {
+      "name": "Diced Bell Peppers",
+      "portion_estimate": "approximate 100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked Red Kidney Beans",
+      "portion_estimate": "approximate 100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Whole Grains Sandwich Bread",
+      "portion_estimate": "approximate 50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Baked Salmon",
+      "portion_estimate": "approximate 100g",
+      "confidence": "75"
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "approximate 50g",
+      "confidence": "70"
+    }
+  ]
+}

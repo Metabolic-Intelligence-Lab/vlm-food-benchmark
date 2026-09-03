@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with creamy sauce",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "30",
+      "confidence": "75"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

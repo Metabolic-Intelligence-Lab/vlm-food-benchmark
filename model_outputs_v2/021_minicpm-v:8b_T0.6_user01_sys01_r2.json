@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted fish with crispy topping",
+      "portion_estimate": "uncertain, approx. weight of plate",
+      "confidence": "50"
+    },
+    {
+      "name": "Green olives in green sauce",
+      "portion_estimate": "uncertain, approx. weight of bowl",
+      "confidence": "40"
+    },
+    {
+      "name": "Roasted vegetables (possibly Brussels sprouts and carrots)",
+      "portion_estimate": "uncertain, approx. weight of plate",
+      "confidence": "60"
+    },
+    {
+      "name": "Dark grapes",
+      "portion_estimate": "uncertain, approx. single fruit size",
+      "confidence": "50"
+    },
+    {
+      "name": "Black olives",
+      "portion_estimate": "uncertain, approx. weight of bowl",
+      "confidence": "60"
+    }
+  ]
+}

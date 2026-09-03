@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Peanut butter and jelly sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Green salad with mixed greens",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Mixed fruit, including banana and apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Cereal with milk and a banana",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

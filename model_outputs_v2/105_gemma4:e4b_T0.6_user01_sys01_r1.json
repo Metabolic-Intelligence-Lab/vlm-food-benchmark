@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed leafy greens (e.g., butter lettuce, romaine)",
+      "portion_estimate": "100-120",
+      "confidence": "90"
+    },
+    {
+      "name": "Red/purple leaf lettuce (e.g., radicchio)",
+      "portion_estimate": "50-60",
+      "confidence": "85"
+    },
+    {
+      "name": "Sliced white vegetable (likely cabbage or turnip)",
+      "portion_estimate": "60-70",
+      "confidence": "80"
+    },
+    {
+      "name": "Croutons or toasted bread pieces",
+      "portion_estimate": "15-25",
+      "confidence": "75"
+    }
+  ]
+}

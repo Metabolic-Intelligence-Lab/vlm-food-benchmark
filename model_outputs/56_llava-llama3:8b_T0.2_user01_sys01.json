@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried fish",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "two baked apples with topping (e.g., oats, nuts, cinnamon)",
+      "portion_estimate": "uncertain (approximate combined weight: 250g)",
+      "confidence": 65
+    },
+    {
+      "name": "carrots (whole, baby)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted pumpkin or butternut squash seeds",
+      "portion_estimate": "70g",
+      "confidence": 80
+    },
+    {
+      "name": "whole apple",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "yogurt (strawberry flavored, in small tub)",
+      "portion_estimate": "uncertain (approximate weight: 100g)",
+      "confidence": 70
+    }
+  ]
+}

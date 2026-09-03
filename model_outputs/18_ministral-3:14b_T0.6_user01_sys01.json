@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grilled or baked fish (likely cod or similar white fish)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "mixed salad with shredded carrots, purple cabbage, and possibly other greens (e.g., romaine lettuce)",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "red wine (partial glass, residual amount)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

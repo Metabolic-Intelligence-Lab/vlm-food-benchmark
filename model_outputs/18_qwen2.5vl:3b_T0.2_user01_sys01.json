@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Chicken Breast",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Carrot Salad",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

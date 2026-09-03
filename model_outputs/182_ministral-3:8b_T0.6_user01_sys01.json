@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with meat sauce (likely rigatoni)",
+      "portion_estimate": "250 grams (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "broccoli florets",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "cheese-covered baked bread or flatbread",
+      "portion_estimate": "100 grams (uncertain)",
+      "confidence": 75
+    },
+    {
+      "name": "packaged cheese (cubed, likely cheddar or similar)",
+      "portion_estimate": "100 grams (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "whole oranges",
+      "portion_estimate": "250 grams (two medium oranges)",
+      "confidence": 90
+    }
+  ]
+}

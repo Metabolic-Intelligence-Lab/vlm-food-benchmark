@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli florets",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "stuffed eggplant (with ricotta and herbs)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "rotini pasta with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 ml (200 grams)",
+      "confidence": 100
+    },
+    {
+      "name": "bun (possibly a dinner roll or small bread)",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    }
+  ]
+}

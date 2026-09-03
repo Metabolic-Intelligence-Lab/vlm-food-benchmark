@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "shredded chicken (cooked)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "steamed or boiled dumpling (e.g., gyoza or potsticker wrapper)",
+      "portion_estimate": "30",
+      "confidence": 85
+    },
+    {
+      "name": "fried dumpling (e.g., potsticker or gyoza, filled)",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "baguette or sandwich roll (partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "clear broth or soup (in small glass container)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

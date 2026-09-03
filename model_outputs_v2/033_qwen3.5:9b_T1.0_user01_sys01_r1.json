@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with tomato sauce",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Fried polenta cake with stewed vegetables (carrots, peas, potatoes) and a fried tomato slice on top",
+      "portion_estimate": 120,
+      "confidence": 85
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": 180,
+      "confidence": 98
+    },
+    {
+      "name": "Bread roll or Bun in plastic bag",
+      "portion_estimate": 60,
+      "confidence": 75
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": 250,
+      "confidence": 80
+    }
+  ]
+}

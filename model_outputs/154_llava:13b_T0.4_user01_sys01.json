@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "blueberries",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "condiment/seasoning",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

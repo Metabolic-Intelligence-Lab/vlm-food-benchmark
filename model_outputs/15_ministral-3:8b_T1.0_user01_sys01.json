@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cabbage or cole slaw (shredded vegetables in small bowl)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "mashed potato or mashed vegetable (small patty on plate)",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "fried or baked onion rings/tortilla chips (group on plate)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "boiled or steamed egg (halved, in foil wrapper)",
+      "portion_estimate": "70g (whole)",
+      "confidence": 85
+    },
+    {
+      "name": "raisins or dried grapes (in transparent bag on the tray)",
+      "portion_estimate": "20g",
+      "confidence": 65
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 0
+    }
+  ]
+}

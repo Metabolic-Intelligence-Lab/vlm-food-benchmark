@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fried chicken cutlet",
+      "portion_estimate": "uncertain weight, possibly around 70-150 grams based on size of typical portion.",
+      "confidence": "60"
+    },
+    {
+      "name": "Steamed green leafy vegetables (possibly kale or spinach)",
+      "portion_estimate": "approximate total serving about 234 grams",
+      "confidence": "70-90, depending on personal estimate."
+    },
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": "uncertain weight for penne based portion size - could be approximately between 56 and 138g.",
+      "confidence": "70"
+    }
+  ]
+}

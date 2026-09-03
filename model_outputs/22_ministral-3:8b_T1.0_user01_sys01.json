@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green beans (steamed or boiled)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "butternut squash or roasted cubed sweet potatoes",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "quinoa or brown rice with mixed vegetables (e.g., peas, corn, carrots)",
+      "portion_estimate": "100g (dry weight, likely ~200g cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "chicken or turkey breast strips (grilled)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "whole-grain bread or whole wheat sandwich roll",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "water (from transparent cup)",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "unspecified flavored water or liquid in paper carton (red label)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

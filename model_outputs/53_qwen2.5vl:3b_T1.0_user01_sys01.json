@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried breaded fish fillet",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Stir-fried green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Unrecognizable pastries",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Unrecognizable pastry",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

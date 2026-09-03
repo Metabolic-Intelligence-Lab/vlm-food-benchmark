@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable and legume minestrone soup",
+      "portion_estimate": "300",
+      "confidence": "75"
+    },
+    {
+      "name": "Breaded fried chicken/potato nuggets",
+      "portion_estimate": "150",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole orange",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "Water in plastic cup",
+      "portion_estimate": "200",
+      "confidence": "70"
+    },
+    {
+      "name": "Water in plastic cup",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded fried nuggets (background tray)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

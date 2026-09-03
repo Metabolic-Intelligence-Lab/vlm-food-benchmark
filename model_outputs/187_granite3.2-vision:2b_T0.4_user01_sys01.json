@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "breaded and fried dish with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "purple onion slices",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "chicken pieces",
+      "portion_estimate": "approximately 150 g",
+      "confidence": 95
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "approximately 300 g",
+      "confidence": 95
+    },
+    {
+      "name": "fried cutlet or breaded food",
+      "portion_estimate": "approximately 120 g",
+      "confidence": 90
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "approximately 200 g",
+      "confidence": 90
+    },
+    {
+      "name": "gold rice",
+      "portion_estimate": "approximately 150 g",
+      "confidence": 95
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "approximately 5 g",
+      "confidence": 80
+    }
+  ]
+}

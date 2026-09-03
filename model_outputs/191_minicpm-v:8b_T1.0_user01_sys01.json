@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "carrot sticks",
+      "portion_estimate": "150g each carrot stick, assuming average size of these as standard snack carrots.",
+      "confidence": 98
+    },
+    {
+      "name": "pomegranate seeds ball",
+      "portion_estimate": "20-30g each seed cluster (estimated based on image)",
+      "confidence": 75
+    },
+    {
+      "name": "pomegranate soup",
+      "portion_estimate": "uncertain, around half a bowl possibly.",
+      "confidence": 40
+    },
+    {
+      "name": "chicken sausage roll",
+      "portion_estimate": "12-18g each (estimated based on average size of these)",
+      "confidence": 95
+    }
+  ]
+}

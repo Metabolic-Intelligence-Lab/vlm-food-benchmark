@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "baked fish with breadcrumb topping",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "500",
+      "confidence": "90"
+    },
+    {
+      "name": "elio snack bar",
+      "portion_estimate": "30",
+      "confidence": "50"
+    },
+    {
+      "name": "tea bag",
+      "portion_estimate": "2",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green soup with butter",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Yogurt (125g)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Crinkle-cut fries with a dollop of ketchup and two potato chips",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Cauliflower or sauerkraut (likely)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

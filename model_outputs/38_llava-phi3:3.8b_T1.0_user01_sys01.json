@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Sweet Potatoes",
+      "portion_estimate": "2 cups",
+      "confidence": 70
+    },
+    {
+      "name": "Baked Macaroni and Cheese",
+      "portion_estimate": "1 bowl",
+      "confidence": 60
+    },
+    {
+      "name": "Sourdough Rolls",
+      "portion_estimate": "2 rolls",
+      "confidence": 80
+    },
+    {
+      "name": "Broccoli and Carrots Salad",
+      "portion_estimate": "1 cup",
+      "confidence": 70
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "1 medium banana",
+      "confidence": 80
+    }
+  ]
+}

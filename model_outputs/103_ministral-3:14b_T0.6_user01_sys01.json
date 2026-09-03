@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled or pan-seared pork chop",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "steamed or saut\u00e9ed broccoli florets",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "creamy tomato-based soup with cheese topping",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "sugar packet (likely white granulated sugar, ~4g per packet)",
+      "portion_estimate": "4",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll (partially visible)",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "iced beverage in a glass (type uncertain)",
+      "portion_estimate": "250",
+      "confidence": "60"
+    }
+  ]
+}

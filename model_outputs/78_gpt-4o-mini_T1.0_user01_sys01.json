@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup with cheese",
+      "portion_estimate": "250",
+      "confidence": "70"
+    },
+    {
+      "name": "diced cooked pumpkin",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked grain patty with cheese",
+      "portion_estimate": "120",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80",
+      "confidence": "80"
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "150",
+      "confidence": "75"
+    }
+  ]
+}

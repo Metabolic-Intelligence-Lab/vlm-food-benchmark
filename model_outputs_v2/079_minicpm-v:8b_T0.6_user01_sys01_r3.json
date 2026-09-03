@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "baked beans",
+      "portion_estimate": "approx. 120g",
+      "confidence": "90"
+    },
+    {
+      "name": "pita bread with cheese spread and pesto sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "peanut butter",
+      "portion_estimate": "approx. 40g",
+      "confidence": "90"
+    },
+    {
+      "name": "sliced sausage links with green seasoning",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

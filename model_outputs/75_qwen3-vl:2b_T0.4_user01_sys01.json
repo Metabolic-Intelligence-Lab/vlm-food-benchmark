@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pickled vegetables",
+      "portion_estimate": "50",
+      "confidence": "95"
+    },
+    {
+      "name": "meat",
+      "portion_estimate": "50",
+      "confidence": "95"
+    },
+    {
+      "name": "beans",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "95"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": "95"
+    }
+  ]
+}

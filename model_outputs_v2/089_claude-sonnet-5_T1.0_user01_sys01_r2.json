@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "boiled white rice with olive oil drizzle",
+      "portion_estimate": "180",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "boiled chickpeas",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "white fish fillet with herbs",
+      "portion_estimate": "90",
+      "confidence": "60"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150",
+      "confidence": "85"
+    }
+  ]
+}

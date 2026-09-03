@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white rice with grated cheese and olive oil",
+      "portion_estimate": "250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "mixed vegetable stir-fry (cauliflower, carrots, spinach, potatoes)",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed carrots and pineapple chunks",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    }
+  ]
+}

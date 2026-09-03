@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked ham slice or deli meat",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    },
+    {
+      "name": "Steamed or blanched broccoli florets",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Broth-based soup with solids",
+      "portion_estimate": "300g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll or dinner roll",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    }
+  ]
+}

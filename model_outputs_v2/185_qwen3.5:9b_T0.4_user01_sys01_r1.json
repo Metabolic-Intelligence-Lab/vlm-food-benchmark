@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with tomato sauce",
+      "portion_estimate": 250,
+      "confidence": 90
+    },
+    {
+      "name": "Diced potatoes (home fries)",
+      "portion_estimate": 180,
+      "confidence": 90
+    },
+    {
+      "name": "Burger patty with shredded lettuce and sauce",
+      "portion_estimate": 230,
+      "confidence": 85
+    },
+    {
+      "name": "Water in plastic cup",
+      "portion_estimate": 240,
+      "confidence": 95
+    }
+  ]
+}

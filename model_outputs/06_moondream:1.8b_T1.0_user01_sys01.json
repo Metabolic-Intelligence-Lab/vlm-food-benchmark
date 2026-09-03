@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken, noodles, and green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pastries",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

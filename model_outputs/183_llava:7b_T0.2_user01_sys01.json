@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pizza",
+      "portion_estimate": "1 slice",
+      "confidence": "60"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "1 bowl",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "1 roll",
+      "confidence": "60"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "1 apple",
+      "confidence": "80"
+    },
+    {
+      "name": "Bruschetta",
+      "portion_estimate": "1 piece",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans with spices",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Boiled eggs (2)",
+      "portion_estimate": "uncertain, approx. each: 60-70 grams",
+      "confidence": 40
+    },
+    {
+      "name": "Whole grain toast with butter and jam",
+      "portion_estimate": "150 grams for the slice",
+      "confidence": 80
+    },
+    {
+      "name": "Pasta (penne) with cheese sauce",
+      "portion_estimate": "120-130 grams per serving",
+      "confidence": 60
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "uncertain, approx. weight: 50 grams for the whole fruit",
+      "confidence": 70
+    }
+  ]
+}

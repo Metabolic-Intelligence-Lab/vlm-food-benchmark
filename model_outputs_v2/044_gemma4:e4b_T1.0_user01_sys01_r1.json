@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Cubed fried/baked potatoes",
+      "portion_estimate": "140g",
+      "confidence": "90"
+    },
+    {
+      "name": "Open-faced sandwich components (tomato, cheese, lettuce)",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Small bread roll or bun",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    }
+  ]
+}

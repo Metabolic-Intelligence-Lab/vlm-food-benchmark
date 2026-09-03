@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fried potato wedges",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "roasted potatoes with herbs",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "baked onion rings",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed collard greens/kale",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "orange-fleshed fruit (likely apricots or nectarines)",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "plain water (from glass)",
+      "portion_estimate": "200",
+      "confidence": 100
+    },
+    {
+      "name": "plain bagged snack (likely a salted potato chip or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

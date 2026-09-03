@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli florets",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fish",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pears",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

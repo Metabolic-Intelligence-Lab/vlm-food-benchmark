@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli and meat (possibly ham or bacon) with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread (sandwich)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

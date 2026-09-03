@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Cheese sticks",
+      "portion_estimate": "uncertain, approx 50g per stick",
+      "confidence": "40"
+    },
+    {
+      "name": "Pasta with tomato sauce and cheese",
+      "portion_estimate": "approx 200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Grilled chicken quesadilla",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "40"
+    },
+    {
+      "name": "Steamed greens with onions and cheese",
+      "portion_estimate": "approx 200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread bun",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "40"
+    },
+    {
+      "name": "Greek yogurt with a red lid (possibly strawberry)",
+      "portion_estimate": "uncertain, approx 200g",
+      "confidence": "30"
+    }
+  ]
+}

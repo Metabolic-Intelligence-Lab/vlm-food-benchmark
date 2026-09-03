@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked dark leafy greens (spinach or kale)",
+      "portion_estimate": "150 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "two breaded fried croquettes or meatballs",
+      "portion_estimate": "110 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "mashed potatoes or smooth potato puree",
+      "portion_estimate": "180 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "packaged bread roll or pastry",
+      "portion_estimate": "80 grams",
+      "confidence": "65"
+    },
+    {
+      "name": "clear water in plastic cup",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "uncertain sealed single-serve condiment or dessert cup",
+      "portion_estimate": "20 grams",
+      "confidence": "45"
+    }
+  ]
+}

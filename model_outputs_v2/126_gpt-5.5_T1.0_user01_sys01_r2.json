@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with tomato sauce and grated cheese",
+      "portion_estimate": "180 g",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "88"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "95"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 g",
+      "confidence": "95"
+    },
+    {
+      "name": "uncertain spinach or vegetable patty topped with zucchini",
+      "portion_estimate": "100 g",
+      "confidence": "55"
+    },
+    {
+      "name": "white fish portion",
+      "portion_estimate": "70 g",
+      "confidence": "70"
+    },
+    {
+      "name": "boiled potato pieces",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "uncertain packaged cheese or butter stick",
+      "portion_estimate": "30 g",
+      "confidence": "45"
+    }
+  ]
+}

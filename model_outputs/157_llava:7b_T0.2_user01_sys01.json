@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni and cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Mango",
+      "portion_estimate": "120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Beans",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Cooked meatballs",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    }
+  ]
+}

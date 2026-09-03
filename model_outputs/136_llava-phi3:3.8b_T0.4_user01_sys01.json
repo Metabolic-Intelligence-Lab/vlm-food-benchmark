@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Green Beans and Peas",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "Cheese Sauce",
+      "portion_estimate": "30g",
+      "confidence": "90"
+    }
+  ]
+}

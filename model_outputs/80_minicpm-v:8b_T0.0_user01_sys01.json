@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed rice with vegetables",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Potato wedges",
+      "portion_estimate": "uncertain, approx. 100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Omelette with mushrooms and spinach",
+      "portion_estimate": "uncertain, approx. 250g",
+      "confidence": "70"
+    },
+    {
+      "name": "Boiled egg",
+      "portion_estimate": "uncertain, approx. 60g",
+      "confidence": "40"
+    }
+  ]
+}

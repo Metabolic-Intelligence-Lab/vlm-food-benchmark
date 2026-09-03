@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green peas",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "breads",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "greens",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

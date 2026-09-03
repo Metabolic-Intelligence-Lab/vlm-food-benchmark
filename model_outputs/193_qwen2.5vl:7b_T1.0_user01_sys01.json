@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread (likely) with crumbly topping",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Hot soup",
+      "portion_estimate": "300 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "150 milliliters",
+      "confidence": "60"
+    }
+  ]
+}

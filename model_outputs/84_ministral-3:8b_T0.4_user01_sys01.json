@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli and potato mix (steamed)",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "mixed vegetables (carrots, peppers, onions, and herbs in sauce)",
+      "portion_estimate": "180g",
+      "confidence": 80
+    },
+    {
+      "name": "quinoa or couscous with tomato sauce",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "grilled turkey or chicken breast",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "butter or margarine packet (small serving)",
+      "portion_estimate": "10g",
+      "confidence": 60
+    },
+    {
+      "name": "sliced cheese (cheddar or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

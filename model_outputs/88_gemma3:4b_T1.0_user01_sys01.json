@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta with Peas and Parmesan",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Mushroom Quiche",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "80g",
+      "confidence": 95
+    }
+  ]
+}

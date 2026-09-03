@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken breast (grilled or baked)",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "red cabbage (shredded)",
+      "portion_estimate": "80 grams",
+      "confidence": 80
+    },
+    {
+      "name": "green leaf lettuce (iceberg or similar)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "carrot (julienned/shredded)",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "cauliflower (shredded)",
+      "portion_estimate": "60 grams",
+      "confidence": 70
+    }
+  ]
+}

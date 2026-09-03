@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta salad",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetables (carrots and peas)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "chickpeas or garbanzo beans",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "wrapped sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "dessert (small container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

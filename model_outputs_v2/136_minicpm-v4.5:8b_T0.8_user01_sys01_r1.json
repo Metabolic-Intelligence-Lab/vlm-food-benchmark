@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta",
+      "portion_estimate": "150-200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "green peas",
+      "portion_estimate": "30-50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "chopped vegetables (zucchini, carrots, onions)",
+      "portion_estimate": "50-100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "tomato-based sauce",
+      "portion_estimate": "100-150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "small pieces of cheese (possibly mozzarella or similar)",
+      "portion_estimate": "20-50 grams",
+      "confidence": "70"
+    }
+  ]
+}

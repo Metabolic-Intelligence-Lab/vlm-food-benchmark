@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "white rice (uncooked or cooked)",
+      "portion_estimate": "120 grams (cooked rice estimate based on visual comparison with typical portion sizes)",
+      "confidence": 75
+    },
+    {
+      "name": "curried meat or vegetable stew (with chunks of meat and vegetables)",
+      "portion_estimate": "150 grams",
+      "confidence": 70
+    }
+  ]
+}

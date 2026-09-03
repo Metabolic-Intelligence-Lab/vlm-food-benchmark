@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed potatoes with gravy",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green beans or vegetables (uncertain), covered in sauce",
+      "portion_estimate": "60 g",
+      "confidence": "50"
+    },
+    {
+      "name": "Breaded and fried meat patty",
+      "portion_estimate": "100 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed vegetables in the tray of food (uncertain), portion size uncertain",
+      "portion_estimate": "50 g",
+      "confidence": "30"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "French fries (uncertain), portion size uncertain",
+      "portion_estimate": "60 g",
+      "confidence": "40"
+    }
+  ]
+}

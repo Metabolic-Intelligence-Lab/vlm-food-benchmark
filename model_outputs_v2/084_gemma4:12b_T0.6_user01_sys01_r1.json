@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Sauteed broccoli and paneer/tofu cubes",
+      "portion_estimate": "220g",
+      "confidence": 90
+    },
+    {
+      "name": "Whole grain bread slice",
+      "portion_estimate": "60g",
+      "confidence": 95
+    },
+    {
+      "name": "Red fruit juice or tea",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "Stuffed paneer patty with topping",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Saut\u00e9ed mixed vegetables (carrots, peas, peppers)",
+      "portion_estimate": "120g",
+      "confidence": 90
+    }
+  ]
+}

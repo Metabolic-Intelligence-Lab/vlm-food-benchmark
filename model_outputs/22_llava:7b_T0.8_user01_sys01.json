@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Salmon",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Mixed vegetables (including broccoli and carrots)",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Rice pilaf",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Naan bread",
+      "portion_estimate": "70g",
+      "confidence": "85"
+    },
+    {
+      "name": "Soup (possibly a tomato-based soup)",
+      "portion_estimate": "200ml",
+      "confidence": "65"
+    }
+  ]
+}

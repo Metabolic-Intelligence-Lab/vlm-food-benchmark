@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Sliced bread/toast",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Cooked pasta (penne)",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120g",
+      "confidence": "98"
+    },
+    {
+      "name": "Mixed green salad with shredded carrots",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Toast/Multi-grain bread slice",
+      "portion_estimate": "80g",
+      "confidence": "95"
+    }
+  ]
+}

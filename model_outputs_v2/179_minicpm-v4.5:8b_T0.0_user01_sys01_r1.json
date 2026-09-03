@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta with red sauce",
+      "portion_estimate": "150-200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "boiled potato",
+      "portion_estimate": "100-120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "rice with cauliflower",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "spinach and cheese stuffed vegetable (likely a roll or ball)",
+      "portion_estimate": "50-70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "bun or bread roll",
+      "portion_estimate": "50-70 grams",
+      "confidence": 85
+    }
+  ]
+}

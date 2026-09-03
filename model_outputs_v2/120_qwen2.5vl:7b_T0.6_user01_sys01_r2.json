@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded cutlet",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "condiment",
+      "portion_estimate": "25",
+      "confidence": "65"
+    }
+  ]
+}

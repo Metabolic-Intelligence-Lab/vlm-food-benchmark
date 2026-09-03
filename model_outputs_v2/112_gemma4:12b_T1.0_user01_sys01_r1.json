@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "two fresh plums",
+      "portion_estimate": "200g",
+      "confidence": "95"
+    },
+    {
+      "name": "slice of baked frittata or quiche",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked Brussels sprouts",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "wrapped wedge of cheese",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    }
+  ]
+}

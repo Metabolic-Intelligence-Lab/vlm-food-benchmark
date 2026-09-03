@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": "150-200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "ground meat (likely beef/sausage)",
+      "portion_estimate": "70-90 grams",
+      "confidence": 85
+    },
+    {
+      "name": "grated cheese (parmesan or similar)",
+      "portion_estimate": "30-40 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pasta seasoning/oil sprinkles",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

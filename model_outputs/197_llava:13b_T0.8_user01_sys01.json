@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fried fish or meat with breadcrumbs and dark sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Potatoes (home fries or sausage)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Green vegetables (greens or broccoli) with carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Orange or grapefruit fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

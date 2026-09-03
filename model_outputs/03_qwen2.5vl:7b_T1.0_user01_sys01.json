@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "300",
+      "confidence": 80
+    },
+    {
+      "name": "Roasted broccoli",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "Grilled eggplant",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "100",
+      "confidence": 60
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": "200",
+      "confidence": 90
+    }
+  ]
+}

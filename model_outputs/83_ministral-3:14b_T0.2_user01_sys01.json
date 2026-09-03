@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "quinoa and vegetable medley (kale, corn, and other mixed vegetables)",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "grilled chicken breast with avocado slice and roasted sweet potatoes",
+      "portion_estimate": "300",
+      "confidence": 80
+    },
+    {
+      "name": "roasted sweet potato cubes",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "single-serving yogurt (likely Greek-style, unflavored or lightly flavored)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "single-serving crackers or breadstick",
+      "portion_estimate": "30",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat or similar bread roll",
+      "portion_estimate": "150-200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "green vegetable soup with cheese on top",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "plain yogurt (Yoplait) with fruit pieces",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "fried potato wedges",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "green bean or corn salad pieces",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    }
+  ]
+}

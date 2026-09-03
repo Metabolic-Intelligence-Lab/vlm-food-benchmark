@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti in sauce with parmesan",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "salad with greens, tomatoes, cucumbers, and possibly other vegetables or fruits",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "breadsticks",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bananas",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "packaged item (condiment or dessert)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

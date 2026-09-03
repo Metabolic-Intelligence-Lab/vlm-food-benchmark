@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "watermelon",
+      "portion_estimate": "500g",
+      "confidence": "80"
+    },
+    {
+      "name": "spaghetti with red sauce",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "greens (possibly spinach or similar)",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "chicken breast",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ]
+}

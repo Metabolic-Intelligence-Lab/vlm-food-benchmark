@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta with tomato sauce and vegetables (possibly orecchiette)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "breaded chicken fillet",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mixed vegetables (including carrots, peas, and mushrooms)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

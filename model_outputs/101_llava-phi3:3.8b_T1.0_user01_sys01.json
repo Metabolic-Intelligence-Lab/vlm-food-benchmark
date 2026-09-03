@@ -1,0 +1,59 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "spaghetti with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "plain bun",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "white bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "whole wheat bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "grilled chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "salmon or tuna on lettuce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "orange juice",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "orange slices",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "meat wrapped in plastic and foil",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

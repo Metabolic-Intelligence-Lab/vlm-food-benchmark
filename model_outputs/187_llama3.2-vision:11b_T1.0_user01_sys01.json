@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "30g",
+      "confidence": "80"
+    },
+    {
+      "name": "long green bean",
+      "portion_estimate": "15g",
+      "confidence": "95"
+    },
+    {
+      "name": "baked potato",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "spaghetti",
+      "portion_estimate": "90g",
+      "confidence": "75"
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "40g",
+      "confidence": "90"
+    },
+    {
+      "name": "red sauce",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200g",
+      "confidence": "95"
+    }
+  ]
+}

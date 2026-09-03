@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Carrot",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "200g",
+      "confidence": "95"
+    },
+    {
+      "name": "Meatball",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    }
+  ]
+}

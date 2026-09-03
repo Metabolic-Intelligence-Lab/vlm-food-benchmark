@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad with mixed greens and croutons",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Meatballs in tomato sauce",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Gnocchi with red sauce",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Breadsticks",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }
+  ]
+}

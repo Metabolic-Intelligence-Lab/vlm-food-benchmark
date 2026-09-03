@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "two small pieces of food",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "hummus",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red cup",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

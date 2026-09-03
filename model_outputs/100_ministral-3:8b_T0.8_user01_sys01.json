@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried or baked gnocchi with cheese topping",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed zucchini and onion mix",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll (partially visible, wrapped)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

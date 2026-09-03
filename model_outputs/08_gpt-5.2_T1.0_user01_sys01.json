@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup with grated cheese (likely pea or lentil soup)",
+      "portion_estimate": "320 g",
+      "confidence": "70"
+    },
+    {
+      "name": "grated hard cheese topping (parmesan-style) on soup",
+      "portion_estimate": "10 g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed salad with creamy dressing (lettuce/cabbage with mushrooms)",
+      "portion_estimate": "120 g",
+      "confidence": "65"
+    },
+    {
+      "name": "breaded spinach/vegetable croquettes (2 pieces)",
+      "portion_estimate": "100 g",
+      "confidence": "60"
+    },
+    {
+      "name": "strawberry-flavored yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "70"
+    }
+  ]
+}

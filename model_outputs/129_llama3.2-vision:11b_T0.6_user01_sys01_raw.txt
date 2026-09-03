@@ -1,0 +1,13 @@
+Here is the food image description in strict JSON format:
+
+{
+  "food_items": [
+    {
+      "name": "Green Soup",
+      "portion_estimate": "unknown",
+      "confidence": "uncertain"
+    }
+  ],
+}
+
+Note: The confidence level is set to "uncertain" as the model is unable to accurately identify the food item due to the lack of distinct features and the presence of a green color that could be attributed to various ingredients.

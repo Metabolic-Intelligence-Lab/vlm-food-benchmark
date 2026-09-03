@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish with red sauce",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded chicken breast",
+      "portion_estimate": "120g",
+      "confidence": "60"
+    },
+    {
+      "name": "Mashed potatoes with gravy",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green salad with dressing",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    }
+  ]
+}

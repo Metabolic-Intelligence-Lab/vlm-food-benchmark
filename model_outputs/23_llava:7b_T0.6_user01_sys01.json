@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Meat and rice",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta salad with vegetables",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded fish fillet",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta salad with sauce",
+      "portion_estimate": "250g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried potatoes",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Caesar salad",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    }
+  ]
+}

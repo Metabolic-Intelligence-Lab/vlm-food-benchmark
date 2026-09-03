@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Fish fillet (pan-seared)",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "Cooked spinach",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "200",
+      "confidence": 95
+    }
+  ]
+}

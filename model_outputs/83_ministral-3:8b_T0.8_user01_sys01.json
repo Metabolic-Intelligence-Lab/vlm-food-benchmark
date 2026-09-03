@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked leafy greens (kale or collard greens)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "rice or quinoa mix with yellow vegetables",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "grilled or baked chicken (pork tenderloin)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "stuffing or breading mixture inside the meat",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "roasted potatoes or sweet potato chunks",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "canned corn (in a small carton)",
+      "portion_estimate": "uncertain (likely ~120g based on average serving size)",
+      "confidence": 65
+    },
+    {
+      "name": "cinnamon roll or pastry",
+      "portion_estimate": "uncertain (likely ~80g)",
+      "confidence": 60
+    }
+  ]
+}

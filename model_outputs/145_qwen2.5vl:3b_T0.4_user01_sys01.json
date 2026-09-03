@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spinach and Cheese Quiche",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Baked Cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Baked Beans",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    },
+    {
+      "name": "Butter",
+      "portion_estimate": "uncertain",
+      "confidence": "90"
+    }
+  ]
+}

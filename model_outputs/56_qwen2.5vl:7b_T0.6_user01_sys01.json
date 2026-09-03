@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "200 grams",
+      "confidence": 70
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "breaded chicken",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    }
+  ]
+}

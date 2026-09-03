@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked chickpeas (garbanzo beans)",
+      "portion_estimate": "190 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked white fish fillet (likely cod/hake)",
+      "portion_estimate": "120 g",
+      "confidence": "75"
+    },
+    {
+      "name": "lemon wedges",
+      "portion_estimate": "20 g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "75 g",
+      "confidence": "70"
+    },
+    {
+      "name": "fruit yogurt (125 g cup)",
+      "portion_estimate": "125 g",
+      "confidence": "85"
+    },
+    {
+      "name": "pasta salad (mixed shapes pasta with tomato-based dressing and vegetables)",
+      "portion_estimate": "230 g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "curried rice",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "curry soup",
+      "portion_estimate": "250",
+      "confidence": "90"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "150",
+      "confidence": "95"
+    }
+  ]
+}

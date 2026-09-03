@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta with sauce",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "roasted Brussels sprouts",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "yellow risotto",
+      "portion_estimate": "80 grams",
+      "confidence": 70
+    },
+    {
+      "name": "red cabbage",
+      "portion_estimate": "50 grams",
+      "confidence": 65
+    },
+    {
+      "name": "peaches",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    }
+  ]
+}

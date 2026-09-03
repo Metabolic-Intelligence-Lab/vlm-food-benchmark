@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup",
+      "portion_estimate": "300-400g",
+      "confidence": 90
+    },
+    {
+      "name": "cauliflower with black olives",
+      "portion_estimate": "100-150g",
+      "confidence": 90
+    },
+    {
+      "name": "vegetable patty with tomato and cheese",
+      "portion_estimate": "50-75g",
+      "confidence": 85
+    },
+    {
+      "name": "sliced bread",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "yellow pear",
+      "portion_estimate": "100g",
+      "confidence": 90
+    }
+  ]
+}

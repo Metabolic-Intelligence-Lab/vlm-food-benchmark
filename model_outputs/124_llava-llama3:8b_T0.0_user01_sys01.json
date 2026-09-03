@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Dark Brown Stew",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Grilled Fish",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Red Condiment",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Yellow Condiment",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

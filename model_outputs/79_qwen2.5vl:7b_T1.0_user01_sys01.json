@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce and cheese",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "white beans",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "pita bread",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "50 grams",
+      "confidence": "65"
+    }
+  ]
+}

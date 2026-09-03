@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fried eggplant/cucumber balls",
+      "portion_estimate": "30-50 grams",
+      "confidence": 90
+    },
+    {
+      "name": "baked potato with onions",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "green soup with grated cheese topping",
+      "portion_estimate": "300-400 grams",
+      "confidence": 95
+    },
+    {
+      "name": "plain yogurt (Yomo Foodservice)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "lettuce/cucumber salad",
+      "portion_estimate": "150-200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "fried egg (inside the baked potato)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "plain boiled egg (in packaging)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

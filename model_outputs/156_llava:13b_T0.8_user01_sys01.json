@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken breast with breading",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta (macaroni or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "steamed Brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "roasted sweet potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cake or cheesecake",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

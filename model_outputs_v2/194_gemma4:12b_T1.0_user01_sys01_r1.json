@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of reddish soup",
+      "portion_estimate": "300",
+      "confidence": "95"
+    },
+    {
+      "name": "bread bun",
+      "portion_estimate": "80",
+      "confidence": "95"
+    },
+    {
+      "name": "tangerine",
+      "portion_estimate": "130",
+      "confidence": "95"
+    },
+    {
+      "name": "small round dish with flower garnish and greens",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250",
+      "confidence": "95"
+    },
+    {
+      "name": "yellow food slice (bottom left)",
+      "portion_estimate": "100",
+      "confidence": "65"
+    }
+  ]
+}

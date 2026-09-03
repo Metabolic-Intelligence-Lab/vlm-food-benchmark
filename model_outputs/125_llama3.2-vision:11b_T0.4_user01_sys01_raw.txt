@@ -1,0 +1,61 @@
+Here is the food image:
+
+**Food Items:**
+
+* Soup: a bowl of brown soup with a spoon in it
+* Bread: a slice of white bread on the side
+* Salad: a plate of mixed greens with vegetables and a dressing
+* Meat: a piece of grilled chicken on top of the salad
+* Fruits: a plate of sliced apples and grapes
+* Dessert: a slice of chocolate cake
+
+**Portion Estimates:**
+
+* Soup: 300g
+* Bread: 50g
+* Salad: 200g
+* Meat: 100g
+* Fruits: 150g
+* Dessert: 100g
+
+**Confidence Levels:**
+
+* Soup: 80%
+* Bread: 90%
+* Salad: 70%
+* Meat: 60%
+* Fruits: 80%
+* Dessert: 70%
+
+**Food Items List:**
+
+* {
+  "name": "Soup",
+  "portion_estimate": "300g",
+  "confidence": "80"
+}
+* {
+  "name": "Bread",
+  "portion_estimate": "50g",
+  "confidence": "90"
+}
+* {
+  "name": "Salad",
+  "portion_estimate": "200g",
+  "confidence": "70"
+}
+* {
+  "name": "Meat",
+  "portion_estimate": "100g",
+  "confidence": "60"
+}
+* {
+  "name": "Fruits",
+  "portion_estimate": "150g",
+  "confidence": "80"
+}
+* {
+  "name": "Dessert",
+  "portion_estimate": "100g",
+  "confidence": "70"
+}

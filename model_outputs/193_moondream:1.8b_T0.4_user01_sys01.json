@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "orange juice",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sandwiches",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "cakes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

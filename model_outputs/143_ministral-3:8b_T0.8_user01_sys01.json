@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bread slice (wrapped in plastic)",
+      "portion_estimate": "50 grams",
+      "confidence": 75
+    },
+    {
+      "name": "yellow cheese (e.g., cheddar or similar, in a small tub labeled 'COW' and '100g' serving size)",
+      "portion_estimate": "uncertain (portion consumed unknown)",
+      "confidence": 50
+    },
+    {
+      "name": "steamed or saut\u00e9ed broccoli (on a bowl)",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "white fish fillet (e.g., cod or haddock)",
+      "portion_estimate": "120 grams",
+      "confidence": 70
+    },
+    {
+      "name": "mashed or cubed potatoes (with herbs)",
+      "portion_estimate": "150 grams",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green salad",
+      "portion_estimate": "uncertain, approx. bowl size",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, whole roll visible in background",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt with honey",
+      "portion_estimate": "uncertain, cup size",
+      "confidence": "50"
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "uncertain, plate size",
+      "confidence": "60"
+    }
+  ]
+}

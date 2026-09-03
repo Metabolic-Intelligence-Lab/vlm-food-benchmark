@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cream of broccoli or cheese soup (bowl)",
+      "portion_estimate": "450-500g",
+      "confidence": 75
+    },
+    {
+      "name": "brown bread roll",
+      "portion_estimate": "80-100g",
+      "confidence": 70
+    },
+    {
+      "name": "sliced beef or pork sandwich (with sauerkraut and condiments)",
+      "portion_estimate": "120-150g",
+      "confidence": 70
+    },
+    {
+      "name": "yellow mashed or whipped potatoes",
+      "portion_estimate": "100-120g",
+      "confidence": 70
+    },
+    {
+      "name": "small plastic spoon (not consumed)",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "packaged butter or margarine",
+      "portion_estimate": "uncertain (likely 20-30g removed)",
+      "confidence": 60
+    },
+    {
+      "name": "dietary supplement drink mix (empty package)",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    }
+  ]
+}

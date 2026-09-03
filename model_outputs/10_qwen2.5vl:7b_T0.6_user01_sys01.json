@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli soup",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt with fruits",
+      "portion_estimate": "60",
+      "confidence": 70
+    }
+  ]
+}

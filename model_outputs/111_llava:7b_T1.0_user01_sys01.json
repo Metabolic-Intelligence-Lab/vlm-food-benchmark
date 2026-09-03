@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Unidentified meat",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Pasta or rice",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "Soup in a bowl (possibly beef broth)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Banana and some type of sauce",
+      "portion_estimate": "150g",
+      "confidence": 60
+    },
+    {
+      "name": "Pasta with sauce on it (possibly tomato-based)",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "Rice in a white dish or bowl",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

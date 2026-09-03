@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable and grain rice bowl",
+      "portion_estimate": "150 grams (uncertain)",
+      "confidence": "60"
+    },
+    {
+      "name": "Small pizza with toppings",
+      "portion_estimate": "1 slice (uncertain)",
+      "confidence": "40"
+    },
+    {
+      "name": "Green salad with mixed vegetables",
+      "portion_estimate": "150 grams (uncertain)",
+      "confidence": "40"
+    },
+    {
+      "name": "Steamed carrots in tray",
+      "portion_estimate": "1 piece per slice of pizza (uncertain)",
+      "confidence": "30"
+    },
+    {
+      "name": "Fruits (apples and oranges)",
+      "portion_estimate": "50 grams each (uncertain)",
+      "confidence": "20"
+    }
+  ]
+}

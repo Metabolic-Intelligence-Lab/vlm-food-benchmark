@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "bagel",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "wine",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

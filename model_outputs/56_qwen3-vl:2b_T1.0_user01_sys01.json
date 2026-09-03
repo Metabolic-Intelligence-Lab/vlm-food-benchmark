@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded item (e.g., chicken breast)",
+      "portion_estimate": "150 grams",
+      "confidence": 100
+    },
+    {
+      "name": "Mixed vegetables (e.g., salad)",
+      "portion_estimate": "150 grams",
+      "confidence": 100
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "200 grams",
+      "confidence": 100
+    },
+    {
+      "name": "Bun",
+      "portion_estimate": "10 grams",
+      "confidence": 100
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "100 grams",
+      "confidence": 100
+    }
+  ]
+}

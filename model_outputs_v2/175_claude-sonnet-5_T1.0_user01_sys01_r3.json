@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green beans in tomato sauce",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "sliced turkey/chicken breast with parsley garnish",
+      "portion_estimate": "100",
+      "confidence": 55
+    },
+    {
+      "name": "sauteed leafy greens (chicory/spinach) with diced potatoes",
+      "portion_estimate": "180",
+      "confidence": 70
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "150",
+      "confidence": 85
+    }
+  ]
+}

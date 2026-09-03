@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "Carrot sticks",
+      "portion_estimate": "100-150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Watermelon slice",
+      "portion_estimate": "uncertain, estimated 30g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green spinach with fried meat patty",
+      "portion_estimate": "150-200g",
+      "confidence": "90"
+    }
+  ]
+}

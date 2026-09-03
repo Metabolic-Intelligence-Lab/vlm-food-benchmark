@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "salad with broccoli and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meat",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "beans",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

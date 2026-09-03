@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with orange sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "salad with greens, carrots, and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pizza with golden crust and toppings",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "ripe pear",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

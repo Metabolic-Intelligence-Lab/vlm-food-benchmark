@@ -1,0 +1,12 @@
+The portion sizes for the given list of items are determined based on standard serving recommendations:
+
+- **Water**: 200 ml (a common serving size for hydration).
+- **Pesto pasta**: 150 g (a typical portion for cooked pasta).
+- **Rotini pasta**: 150 g (similar to pesto pasta, as both are cooked pasta servings).
+- **Broccoli**: 100 g (a standard serving size for cooked vegetables).
+- **Avocado**: 100 g (a typical serving size for avocado).
+- **Bread roll**: 50 g (a standard serving size for a single bread roll).
+
+Thus, the portion sizes corresponding to the list `['water', 'pesto pasta', 'rotini pasta', 'broccoli', 'avocado', 'bread roll']` are:
+
+**[200, 150, 150, 100, 100, 50]**

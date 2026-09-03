@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with white sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "beans and barley",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "burrito",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

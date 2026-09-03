@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "omelette (frittata/quiche)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sausage",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

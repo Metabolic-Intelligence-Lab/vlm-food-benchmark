@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked macaroni and tubular pasta",
+      "portion_estimate": "150-180",
+      "confidence": "95"
+    },
+    {
+      "name": "creamy sauce and mixed ground meat",
+      "portion_estimate": "150-180",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked carrots",
+      "portion_estimate": "80-100",
+      "confidence": "95"
+    },
+    {
+      "name": "cooked green and yellow bell peppers",
+      "portion_estimate": "50-70",
+      "confidence": "85"
+    }
+  ]
+}

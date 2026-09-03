@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with butter and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Potato",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

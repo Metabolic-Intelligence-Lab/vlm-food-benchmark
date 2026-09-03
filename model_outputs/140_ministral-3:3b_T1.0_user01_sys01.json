@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fried calamari (deep-fried squid)",
+      "portion_estimate": "130 grams",
+      "confidence": 85
+    },
+    {
+      "name": "baked brussels sprouts",
+      "portion_estimate": "90 grams",
+      "confidence": 78
+    },
+    {
+      "name": "purple plums (plums)",
+      "portion_estimate": "100 grams total (about 50 grams each)",
+      "confidence": 70
+    },
+    {
+      "name": "packaged green tea (unopened pouch)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

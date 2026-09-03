@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce, peppers, and cheese",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "Fried egg omelette (egg salad sandwich)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "Steamed green beans",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Whole wheat bun roll (in packaging)",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "Banana(s)",
+      "portion_estimate": "120g",
+      "confidence": 95
+    }
+  ]
+}

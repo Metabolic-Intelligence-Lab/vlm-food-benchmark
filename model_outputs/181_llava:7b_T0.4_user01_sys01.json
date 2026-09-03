@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Fruit pie",
+      "portion_estimate": "2 slices",
+      "confidence": "60"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "1 medium",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "1 medium",
+      "confidence": "60"
+    },
+    {
+      "name": "Crispy fried food (possibly fried fish or chicken)",
+      "portion_estimate": "2 pieces",
+      "confidence": "50"
+    },
+    {
+      "name": "Banana chips",
+      "portion_estimate": "1 small bag",
+      "confidence": "40"
+    }
+  ]
+}

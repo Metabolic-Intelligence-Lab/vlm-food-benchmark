@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Twisted pasta (fusilli) with herbs and possibly butter/oil",
+      "portion_estimate": 180,
+      "confidence": 92
+    },
+    {
+      "name": "Omelette with sliced green peppers and topped with shredded cabbage or lettuce",
+      "portion_estimate": 140,
+      "confidence": 88
+    },
+    {
+      "name": "Sliced carrots (cooked)",
+      "portion_estimate": 150,
+      "confidence": 93
+    },
+    {
+      "name": "Whole fresh peach",
+      "portion_estimate": 160,
+      "confidence": 95
+    },
+    {
+      "name": "Packaged bread roll (brown/brownish)",
+      "portion_estimate": 80,
+      "confidence": 90
+    },
+    {
+      "name": "Water in a clear plastic cup",
+      "portion_estimate": 250,
+      "confidence": 96
+    }
+  ]
+}

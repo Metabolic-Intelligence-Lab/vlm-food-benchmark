@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked penne pasta with herb/oil sauce and grated cheese",
+      "portion_estimate": "260 g",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked grain mix (farro/wheat berries) with green peas",
+      "portion_estimate": "190 g",
+      "confidence": "66"
+    },
+    {
+      "name": "slice of savory pie/quiche (egg-based) with vegetables",
+      "portion_estimate": "160 g",
+      "confidence": "62"
+    },
+    {
+      "name": "bread roll (plain)",
+      "portion_estimate": "70 g",
+      "confidence": "84"
+    },
+    {
+      "name": "banana (with peel)",
+      "portion_estimate": "120 g",
+      "confidence": "88"
+    }
+  ]
+}

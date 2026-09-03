@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Meatballs",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Grapes",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Lettuce",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "Dressing",
+      "portion_estimate": "10g",
+      "confidence": "80"
+    },
+    {
+      "name": "Parmesan cheese",
+      "portion_estimate": "20g",
+      "confidence": "90"
+    }
+  ]
+}

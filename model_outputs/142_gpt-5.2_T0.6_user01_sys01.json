@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes (or boiled potatoes, roughly mashed)",
+      "portion_estimate": "220 g",
+      "confidence": "70"
+    },
+    {
+      "name": "white beans (cannellini/navy-style), cooked",
+      "portion_estimate": "170 g",
+      "confidence": "72"
+    },
+    {
+      "name": "cooked fish fillet (likely mackerel), with herbs and lemon pieces",
+      "portion_estimate": "110 g",
+      "confidence": "62"
+    },
+    {
+      "name": "small slice of multigrain bread",
+      "portion_estimate": "30 g",
+      "confidence": "80"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    }
+  ]
+}

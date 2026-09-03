@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "180g",
+      "confidence": 75
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "Fried potatoes",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "Baked fish",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "100g",
+      "confidence": 70
+    }
+  ]
+}

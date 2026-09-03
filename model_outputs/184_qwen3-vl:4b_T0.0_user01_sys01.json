@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "35",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed greens salad",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked rice",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "baked pastry",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "salad greens",
+      "portion_estimate": "20",
+      "confidence": "50"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "10",
+      "confidence": "70"
+    }
+  ]
+}

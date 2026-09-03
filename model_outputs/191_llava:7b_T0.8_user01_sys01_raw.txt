@@ -1,0 +1,21 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "250 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain, portion size not visible",
+      "confidence": "20"
+    },
+    {
+      "name": "Fried balls with sauce (possibly fried meat or vegetables)",
+      "portion_estimate": "uncertain, portion size not visible",
+      "confidence": "20"
+    }
+  ]
+}
+```
+The image shows a tray of food on a dining table. There appears to be a bowl of soup and what looks like fried balls with sauce, possibly meat or vegetables, next to the soup. The carrots are not clearly visible or countable in this image. Without more information, it is not possible to provide precise portion sizes for the carro

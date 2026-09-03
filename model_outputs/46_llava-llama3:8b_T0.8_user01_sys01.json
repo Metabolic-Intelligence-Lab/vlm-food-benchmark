@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "black soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "golden-brown bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "coleslaw",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

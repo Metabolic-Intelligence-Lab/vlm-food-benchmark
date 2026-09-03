@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable minestrone soup",
+      "portion_estimate": "300",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded fried food (chicken nuggets or similar)",
+      "portion_estimate": "120",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "orange (whole fruit)",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "400",
+      "confidence": "70"
+    }
+  ]
+}

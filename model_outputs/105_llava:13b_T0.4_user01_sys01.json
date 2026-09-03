@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "lettuce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "vegetables or greens",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

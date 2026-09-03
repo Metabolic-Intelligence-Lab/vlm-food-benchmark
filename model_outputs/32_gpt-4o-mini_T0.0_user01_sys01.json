@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "red bell pepper",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "grated cheese",
+      "portion_estimate": "30",
+      "confidence": "75"
+    }
+  ]
+}

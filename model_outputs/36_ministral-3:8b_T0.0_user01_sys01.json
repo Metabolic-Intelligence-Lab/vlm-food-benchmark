@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried noodles or rice sticks",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "purple cabbage salad with cucumber slices",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "green patties (likely falafel or spinach meatballs)",
+      "portion_estimate": "100g (two patties)",
+      "confidence": 80
+    },
+    {
+      "name": "sauce in small bowl (likely sweet chili or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "small baked pastry or bread roll",
+      "portion_estimate": "50g",
+      "confidence": 75
+    }
+  ]
+}

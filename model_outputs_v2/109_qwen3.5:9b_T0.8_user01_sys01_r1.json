@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Boiled green beans",
+      "portion_estimate": 200,
+      "confidence": 95
+    },
+    {
+      "name": "Steamed brown rice with butter or oil drizzle",
+      "portion_estimate": 200,
+      "confidence": 90
+    },
+    {
+      "name": "Chilled potato chunks (cubed)",
+      "portion_estimate": 180,
+      "confidence": 85
+    },
+    {
+      "name": "Whole fruit in plastic wrapper (likely apple or pear)",
+      "portion_estimate": 200,
+      "confidence": 90
+    },
+    {
+      "name": "Soft bread roll or brioche bun",
+      "portion_estimate": 80,
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried fish fillet (cotoletta di pesce) with white sauce",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "fried breaded Brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "fried breaded cauliflower/potato florets",
+      "portion_estimate": "60",
+      "confidence": "50"
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "wrapped bread roll (panino)",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

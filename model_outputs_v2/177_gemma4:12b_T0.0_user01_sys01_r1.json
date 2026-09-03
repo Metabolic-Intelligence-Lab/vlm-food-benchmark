@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fish fillet with white and green sauce",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "250g",
+      "confidence": "95"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    }
+  ]
+}

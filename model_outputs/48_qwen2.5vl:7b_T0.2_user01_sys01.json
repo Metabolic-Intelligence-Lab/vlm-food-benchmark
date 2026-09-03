@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "baked potatoes",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "eggplant with cheese",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

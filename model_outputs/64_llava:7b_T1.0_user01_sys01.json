@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni and cheese",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Chicken and rice dish",
+      "portion_estimate": "400g",
+      "confidence": "70"
+    }
+  ]
+}

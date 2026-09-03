@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried breadstick (garlic or herb)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetable medley (carrots, mushrooms, green beans, corn, peas)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with tomato sauce (likely penne or similar)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small roll or breadstick (bottom right)",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "water (in clear glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

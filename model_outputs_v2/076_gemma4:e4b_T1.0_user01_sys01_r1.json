@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed pasta gnocchi dish in tomato sauce",
+      "portion_estimate": "320g",
+      "confidence": "90"
+    },
+    {
+      "name": "Couscous salad with mixed green herbs",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread or rolls segment",
+      "portion_estimate": "250g",
+      "confidence": "80"
+    },
+    {
+      "name": "Small baked mushroom or vegetable item",
+      "portion_estimate": "90g",
+      "confidence": "65"
+    },
+    {
+      "name": "Reddish grapes or stone fruit (2 pieces)",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    }
+  ]
+}

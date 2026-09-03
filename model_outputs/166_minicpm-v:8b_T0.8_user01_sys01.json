@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cheese sticks",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Quiche with spinach or other greens and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Green salad (likely kale) with pieces of cooked potato",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

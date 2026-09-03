@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with diced carrots and squash",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "mashed squash",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "couscous with vegetables",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "grilled chicken pieces",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "whole grain bread",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread bun (waffle/cinnamon roll style)",
+      "portion_estimate": "80",
+      "confidence": "95"
+    },
+    {
+      "name": "Main dish: Fried eggplant/frittata with fried egg and herbs",
+      "portion_estimate": "250",
+      "confidence": "80"
+    },
+    {
+      "name": "Two falafel balls (one appears to have white sauce)",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "Pickled cabbage salad",
+      "portion_estimate": "200",
+      "confidence": "90"
+    }
+  ]
+}

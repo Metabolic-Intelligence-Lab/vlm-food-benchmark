@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese (penne or penne pasta)",
+      "portion_estimate": "150 grams (estimate for a standard serving of pasta)",
+      "confidence": 85
+    },
+    {
+      "name": "mashed or diced potato (side dish, likely roasted or baked potatoes)",
+      "portion_estimate": "150 grams (estimate for a standard serving)",
+      "confidence": 80
+    },
+    {
+      "name": "pan-fried or baked potato patty (likely as a meat replacement or side dish)",
+      "portion_estimate": "100 grams (estimate for one patty)",
+      "confidence": 70
+    },
+    {
+      "name": "whole wheat sandwich bread roll (or whole grain sandwich bread)",
+      "portion_estimate": "50 grams (estimate for a small roll)",
+      "confidence": 75
+    },
+    {
+      "name": "condiment (creamy spread, likely sour cream or similar)",
+      "portion_estimate": "uncertain (squeeze bottle appears empty, but portion unknown)",
+      "confidence": 40
+    },
+    {
+      "name": "lemon wedge (visible partially wrapped)",
+      "portion_estimate": "uncertain (estimated 20-30 grams)",
+      "confidence": 60
+    }
+  ]
+}

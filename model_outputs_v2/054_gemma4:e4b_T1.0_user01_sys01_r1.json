@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried crispy noodle or snack mix",
+      "portion_estimate": "110g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed salad or slaw (cucumber, cabbage, etc.)",
+      "portion_estimate": "180g",
+      "confidence": "75"
+    },
+    {
+      "name": "Crumbled white protein topping (e.g., tofu or paneer)",
+      "portion_estimate": "130g",
+      "confidence": "70"
+    },
+    {
+      "name": "Small dinner roll or bun",
+      "portion_estimate": "90g",
+      "confidence": "90"
+    },
+    {
+      "name": "Condiment/Dipping sauce in container",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    }
+  ]
+}

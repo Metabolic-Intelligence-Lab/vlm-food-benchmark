@@ -1,0 +1,63 @@
+Here is the list of food items with their portion estimates and confidence levels:
+
+* Soup: 
+	+ Name: Vegetable Soup
+	+ Portion Estimate: 250g
+	+ Confidence: 80%
+* Bread: 
+	+ Name: Sliced Bread
+	+ Portion Estimate: 50g
+	+ Confidence: 90%
+* Yogurt: 
+	+ Name: Yogurt
+	+ Portion Estimate: 100g
+	+ Confidence: 70%
+* Cracker: 
+	+ Name: Crackers
+	+ Portion Estimate: 20g
+	+ Confidence: 60%
+* Cauliflower: 
+	+ Name: Cauliflower
+	+ Portion Estimate: 100g
+	+ Confidence: 80%
+* Water: 
+	+ Name: Water
+	+ Portion Estimate: 250g
+	+ Confidence: 100%
+
+The final answer is:
+
+*Answer*: {
+  "food_items": [
+    {
+      "name": "Vegetable Soup",
+      "portion_estimate": "250g",
+      "confidence": "80%"
+    },
+    {
+      "name": "Sliced Bread",
+      "portion_estimate": "50g",
+      "confidence": "90%"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": "70%"
+    },
+    {
+      "name": "Crackers",
+      "portion_estimate": "20g",
+      "confidence": "60%"
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "100g",
+      "confidence": "80%"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250g",
+      "confidence": "100%"
+    }
+  ]
+}

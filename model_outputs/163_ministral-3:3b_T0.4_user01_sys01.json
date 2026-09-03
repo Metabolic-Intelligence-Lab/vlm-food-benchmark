@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white bread roll",
+      "portion_estimate": "100 grams (approximate half of a typical roll)",
+      "confidence": 85
+    },
+    {
+      "name": "packaged yogurt (small container)",
+      "portion_estimate": "100 grams (approximate serving size)",
+      "confidence": 70
+    },
+    {
+      "name": "soup in a bowl (potato or vegetable-based)",
+      "portion_estimate": "200 grams (approximate bowl size)",
+      "confidence": 80
+    },
+    {
+      "name": "grilled fish or meat with cabbage slaw",
+      "portion_estimate": "150 grams (approximate portion size)",
+      "confidence": 75
+    },
+    {
+      "name": "roasted or saut\u00e9ed vegetables (carrots, possibly others)",
+      "portion_estimate": "120 grams (approximate serving size)",
+      "confidence": 70
+    }
+  ]
+}

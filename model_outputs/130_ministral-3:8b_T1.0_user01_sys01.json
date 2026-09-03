@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "white rice with mixed vegetables/rice dish",
+      "portion_estimate": "120-150 grams (rice portion approximately 90-110g, mixed vegetables/stew approximately 30-40g)",
+      "confidence": 75
+    },
+    {
+      "name": "seasoned rice or rice mix (leftover portion)",
+      "portion_estimate": "uncertain (small amount, approximate 10-20g)",
+      "confidence": 65
+    }
+  ]
+}

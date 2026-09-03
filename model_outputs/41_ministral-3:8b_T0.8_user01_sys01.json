@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato-based sauce (shell pasta)",
+      "portion_estimate": "300g",
+      "confidence": 75
+    },
+    {
+      "name": "grated parmesan cheese",
+      "portion_estimate": "20g",
+      "confidence": 70
+    },
+    {
+      "name": "spinach-filled pasta shell (e.g., ravioli or similar)",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "roasted or steamed carrots",
+      "portion_estimate": "150g",
+      "confidence": 65
+    },
+    {
+      "name": "canned apricot halves in juice",
+      "portion_estimate": "150g (including juice)",
+      "confidence": 70
+    },
+    {
+      "name": "mixed salad (cabbage, cucumber, and possibly lettuce)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "salad with tomatoes, lettuce, cucumbers, onions",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "172g (approx.)",
+      "confidence": "80"
+    }
+  ]
+}

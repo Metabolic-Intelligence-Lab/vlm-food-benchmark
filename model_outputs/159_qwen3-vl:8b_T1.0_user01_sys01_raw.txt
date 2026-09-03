@@ -1,0 +1,63 @@
+### Visible Food Items with Estimated Portions and Confidence Levels
+
+Based on the provided image, the following **distinct visible food items** are identifiable. Each item is described with its **estimated portion size** and **confidence level**, reflecting the clarity of visibility and estimation accuracy.
+
+---
+
+#### 1. **Penne with Cheese**  
+- **Description**: A bowl of penne pasta topped with grated cheese.  
+- **Portion Estimate**: 130g  
+- **Confidence Level**: 90%  
+  - *Reasoning*: The pasta appears to be a standard serving size, and the cheese is clearly visible. This is a common portion for a meal.  
+
+---
+
+#### 2. **Sautéed Kale with Cheese**  
+- **Description**: A portion of sautéed kale (likely with cheese or a similar topping) on the middle plate.  
+- **Portion Estimate**: 80g  
+- **Confidence Level**: 85%  
+  - *Reasoning*: The green leafy vegetable is distinguishable and appears to be a moderate serving size. The cheese is visible as a topping, but the exact quantity is slightly less certain.  
+
+---
+
+#### 3. **Diced Potatoes (Home Fries)**  
+- **Description**: Diced potatoes (likely cooked as home fries) on the middle plate.  
+- **Portion Estimate**: 100g  
+- **Confidence Level**: 85%  
+  - *Reasoning*: The diced texture and golden-brown appearance match typical home fries. The portion size is reasonable for a side dish.  
+
+---
+
+#### 4. **Bread Roll**  
+- **Description**: A small, wrapped bread roll (possibly a pastry or flatbread).  
+- **Portion Estimate**: 50g  
+- **Confidence Level**: 80%  
+  - *Reasoning*: The item is wrapped in plastic and appears to be a standard-sized bread roll or roll-like pastry. The packaging limits the ability to precisely estimate the contents.  
+
+---
+
+#### 5. **Pear**  
+- **Description**: A single yellow pear on the right side of the image.  
+- **Portion Estimate**: 180g  
+- **Confidence Level**: 90%  
+  - *Reasoning*: The pear is fully visible, and its size aligns with typical fruit portions. The color and shape are clearly identifiable.  
+
+---
+
+### Summary of Identified Items
+
+| Food Item               | Portion Estimate | Confidence Level |
+|-------------------------|------------------|------------------|
+| Penne with Cheese       | 130g             | 90%              |
+| Sautéed Kale with Cheese | 80g              | 85%              |
+| Diced Potatoes           | 100g             | 85%              |
+| Bread Roll               | 50g              | 80%              |
+| Pear                     | 180g             | 90%              |
+
+---
+
+### Notes on Exclusions
+- A **butter package** was visible but not included because the contents could not be confirmed (e.g., it might contain butter or a different product).  
+- Other minor items (e.g., utensils, background elements) were not considered as they do not qualify as **food items**.  
+
+This breakdown reflects a careful assessment of what is clearly visible and reasonably estimable from the given image.

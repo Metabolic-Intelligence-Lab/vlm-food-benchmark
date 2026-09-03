@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Fish",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Pasta with Green Sauce",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "Potato Mash",
+      "portion_estimate": "80g",
+      "confidence": 65
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "60g",
+      "confidence": 70
+    }
+  ]
+}

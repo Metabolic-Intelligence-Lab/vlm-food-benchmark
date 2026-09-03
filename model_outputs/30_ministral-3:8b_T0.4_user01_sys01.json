@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "cappuccino or similar coffee beverage (in cup)",
+      "portion_estimate": "uncertain (liquid volume unclear, cannot estimate grams without cup size reference)",
+      "confidence": 50
+    },
+    {
+      "name": "digestive biscuits (e.g., plain wafers)",
+      "portion_estimate": "85 grams (approximately 8 biscuits, assuming each biscuit weighs ~10-11 grams)",
+      "confidence": 85
+    }
+  ]
+}

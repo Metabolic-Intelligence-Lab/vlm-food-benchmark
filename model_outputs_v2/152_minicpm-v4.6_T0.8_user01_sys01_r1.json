@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pastry with fillings",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "mixed diced vegetables (potatoes and carrots)",
+      "portion_estimate": "50 g",
+      "confidence": 90
+    },
+    {
+      "name": "spiral pasta with cheese",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "30 g",
+      "confidence": 95
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "30 g",
+      "confidence": 90
+    }
+  ]
+}

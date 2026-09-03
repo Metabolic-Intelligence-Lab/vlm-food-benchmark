@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "savory pastry or pie",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "soup with vegetables (potatoes, carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roll wrapped in paper",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green vegetables (brussels sprouts or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "salad or side dish with sliced cucumbers and other vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

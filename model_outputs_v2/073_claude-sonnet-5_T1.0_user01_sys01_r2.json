@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce and mozzarella",
+      "portion_estimate": "220",
+      "confidence": "75"
+    },
+    {
+      "name": "grilled white fish fillet",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "roasted brussels sprouts",
+      "portion_estimate": "90",
+      "confidence": "70"
+    },
+    {
+      "name": "roasted diced pumpkin/squash",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "wilted cooked greens (spinach or chard)",
+      "portion_estimate": "20",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70",
+      "confidence": "80"
+    },
+    {
+      "name": "grated parmesan cheese in small cup",
+      "portion_estimate": "10",
+      "confidence": "55"
+    },
+    {
+      "name": "Yomo fruit yogurt (sealed cup, unopened)",
+      "portion_estimate": "125",
+      "confidence": "85"
+    }
+  ]
+}

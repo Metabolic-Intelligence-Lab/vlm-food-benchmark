@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Potato and corn chowder",
+      "portion_estimate": "300",
+      "confidence": 90
+    },
+    {
+      "name": "Cheeseburger with lettuce and tomato",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "150",
+      "confidence": 90
+    }
+  ]
+}

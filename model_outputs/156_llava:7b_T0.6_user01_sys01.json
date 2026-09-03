@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked pasta salad",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Cheese lasagna",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green banana",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Cooked eggplant with sauce",
+      "portion_estimate": "100g",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce",
+      "portion_estimate": "100g",
+      "confidence": "85%"
+    },
+    {
+      "name": "diced vegetables",
+      "portion_estimate": "50g",
+      "confidence": "60%"
+    }
+  ],
+  "tray": {
+    "material": "plastic",
+    "dimensions": {
+      "length": "18cm",
+      "width": "23cm"
+    },
+    "background_color": "white",
+    "pattern": "green leaves"
+  }
+}

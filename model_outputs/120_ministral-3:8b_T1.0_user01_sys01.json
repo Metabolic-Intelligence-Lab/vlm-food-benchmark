@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cauliflower dish (likely cheese sauce or fried)",
+      "portion_estimate": "uncertain (likely ~200-250g total for both pieces combined)",
+      "confidence": 70
+    },
+    {
+      "name": "coddled or baked cauliflower florets",
+      "portion_estimate": "uncertain (likely ~150-180g)",
+      "confidence": 75
+    },
+    {
+      "name": "creamy soup with visible toppings (likely cheese and herbs)",
+      "portion_estimate": "1 bowl (~400-500g)",
+      "confidence": 85
+    },
+    {
+      "name": "Yakult (or similar probiotic drink in plastic tube)",
+      "portion_estimate": "80-100g",
+      "confidence": 95
+    },
+    {
+      "name": "packaged or wrapped condiment (appears to be seasoning or spread)",
+      "portion_estimate": "uncertain (~30-50g)",
+      "confidence": 60
+    }
+  ]
+}

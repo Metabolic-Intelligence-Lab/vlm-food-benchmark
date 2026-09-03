@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "stewed cabbage and onion side dish",
+      "portion_estimate": "120",
+      "confidence": "55"
+    },
+    {
+      "name": "roasted pumpkin and carrot mix",
+      "portion_estimate": "150",
+      "confidence": "60"
+    },
+    {
+      "name": "rice or potato balls with herb coating",
+      "portion_estimate": "80",
+      "confidence": "50"
+    },
+    {
+      "name": "bread roll, plastic-wrapped",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "dark round fruit, possibly persimmon or apple",
+      "portion_estimate": "150",
+      "confidence": "40"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150",
+      "confidence": "55"
+    }
+  ]
+}

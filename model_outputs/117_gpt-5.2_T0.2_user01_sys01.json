@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup/stew (spinach-based) with grated cheese on top",
+      "portion_estimate": "450 g",
+      "confidence": "72"
+    },
+    {
+      "name": "bread roll (small, white)",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "plain yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "85"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "160 g",
+      "confidence": "66"
+    },
+    {
+      "name": "stuffed meat patty/kofte wrapped in leafy greens (likely cabbage) with sauce",
+      "portion_estimate": "140 g",
+      "confidence": "58"
+    }
+  ]
+}

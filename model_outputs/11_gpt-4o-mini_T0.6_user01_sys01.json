@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange",
+      "portion_estimate": "130",
+      "confidence": "85"
+    },
+    {
+      "name": "salad (cabbage and purple cabbage)",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "saut\u00e9ed greens (likely spinach or similar)",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "wrap (filled with beans or meat)",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "peach",
+      "portion_estimate": "100",
+      "confidence": "85"
+    }
+  ]
+}

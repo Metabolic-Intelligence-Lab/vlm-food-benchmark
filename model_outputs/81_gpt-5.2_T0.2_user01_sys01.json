@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked leafy greens (spinach-like)",
+      "portion_estimate": "180 g",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded fried meatball/croquette (2 pieces)",
+      "portion_estimate": "140 g",
+      "confidence": "65"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "280 g",
+      "confidence": "75"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "70"
+    },
+    {
+      "name": "brown cake/pastry pieces in plastic bag",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    }
+  ]
+}

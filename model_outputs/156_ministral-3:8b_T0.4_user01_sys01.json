@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat roll (packaged)",
+      "portion_estimate": "60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pasta (rotini/corkscrew) with cheese sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "fish fillet (likely cod or similar) with cheese and herbs",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or saut\u00e9ed Brussels sprouts",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    }
+  ]
+}

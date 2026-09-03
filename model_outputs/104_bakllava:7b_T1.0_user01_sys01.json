@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "food on plates",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

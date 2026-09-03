@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "fried dumplings or gyoza (or similar wrapped pork filling)",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "plain wrapping dough (e.g., all-purpose flour dough, partially crisped)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

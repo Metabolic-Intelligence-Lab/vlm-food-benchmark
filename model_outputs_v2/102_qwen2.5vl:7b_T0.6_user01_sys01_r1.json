@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta with bow tie pasta",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "roast chicken with herb sauce",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "roast potatoes",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "60",
+      "confidence": "60"
+    }
+  ]
+}

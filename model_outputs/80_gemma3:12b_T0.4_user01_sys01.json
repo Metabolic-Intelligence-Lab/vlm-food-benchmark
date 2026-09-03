@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried rice with vegetables and egg",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "chicken patty",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "orange fruit, sliced",
+      "portion_estimate": "70",
+      "confidence": "70"
+    },
+    {
+      "name": "mayonnaise packet",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "coffee creamer, individual packet",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Crispy fried noodles or shredded topping",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Small bread roll or bun",
+      "portion_estimate": "90g",
+      "confidence": "90"
+    },
+    {
+      "name": "Dipping sauce with dark item (e.g., mushroom or meatball)",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "Two fried croquettes or fritters",
+      "portion_estimate": "110g",
+      "confidence": "90"
+    },
+    {
+      "name": "Side salad of shredded purple cabbage and cucumber slices",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    }
+  ]
+}

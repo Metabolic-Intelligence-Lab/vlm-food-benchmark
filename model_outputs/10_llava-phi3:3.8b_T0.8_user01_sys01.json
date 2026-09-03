@@ -1,0 +1,33 @@
+{
+  "food_items": [
+    {
+      "name": "Miso soup",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Roasted potatoes and cheese balls",
+      "portion_estimate": "300g",
+      "confidence": "70"
+    },
+    {
+      "name": "Biscuit sandwiches",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    }
+  ],
+  "other_items": [
+    {
+      "name": "White and black checkered tablecloth",
+      "description": "The table cloth is white with a pattern of black stripes."
+    },
+    {
+      "name": "Coffee mug",
+      "description": "A coffee mug is on the background tray near biscuit sandwiches and cheese balls."
+    },
+    {
+      "name": "Fork on tablecloth",
+      "description": "A silver fork rests on the checkered tablecloth by a bowl of soup."
+    }
+  ]
+}

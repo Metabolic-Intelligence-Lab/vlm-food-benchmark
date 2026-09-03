@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta with cheese and garnish",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "chicken or pork with sauce and vegetables",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "potato wedges",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    }
+  ]
+}

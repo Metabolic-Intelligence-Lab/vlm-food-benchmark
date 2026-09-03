@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried breaded protein (e.g., chicken or fish)",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Shredded fried noodles or carrots",
+      "portion_estimate": "90",
+      "confidence": "80"
+    },
+    {
+      "name": "White base with egg and diced vegetables (e.g., rice or bread)",
+      "portion_estimate": "130",
+      "confidence": "75"
+    },
+    {
+      "name": "Cooked green vegetables (e.g., asparagus or green beans)",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "Dipping sauce or condiment",
+      "portion_estimate": "30",
+      "confidence": "70"
+    }
+  ]
+}

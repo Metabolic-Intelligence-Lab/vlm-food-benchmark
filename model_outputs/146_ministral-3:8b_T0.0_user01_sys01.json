@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bread (single slice)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "shell pasta with cheese sauce (large bowl)",
+      "portion_estimate": "250 grams",
+      "confidence": 80
+    },
+    {
+      "name": "plain crackers (small pack, partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "cheese sauce (visible on pasta)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "plain crackers (single piece on plate)",
+      "portion_estimate": "15 grams",
+      "confidence": 85
+    },
+    {
+      "name": "plums (two whole)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    }
+  ]
+}

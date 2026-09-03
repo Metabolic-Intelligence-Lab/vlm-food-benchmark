@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and parmesan cheese",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "grilled vegetable wrap",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "diced cucumber salad",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

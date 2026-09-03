@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain, approx. bowl size",
+      "confidence": "50"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain, approx. standard bread roll weight",
+      "confidence": "60"
+    },
+    {
+      "name": "milk with cereal",
+      "portion_estimate": "uncertain, approx. cup size",
+      "confidence": "50"
+    },
+    {
+      "name": "chicken nuggets",
+      "portion_estimate": "uncertain, approx. standard serving weight",
+      "confidence": "60"
+    },
+    {
+      "name": "potatoes with herbs",
+      "portion_estimate": "uncertain, approx. plate size",
+      "confidence": "50"
+    }
+  ]
+}

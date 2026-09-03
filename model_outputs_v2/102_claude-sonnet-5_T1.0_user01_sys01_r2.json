@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta bake with farfalle and grated cheese topping",
+      "portion_estimate": "220",
+      "confidence": 75
+    },
+    {
+      "name": "whole wheat bread roll",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "chicken cutlet with sauce and shredded zucchini garnish",
+      "portion_estimate": "130",
+      "confidence": 65
+    },
+    {
+      "name": "roasted potato and eggplant cubes",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125",
+      "confidence": 60
+    }
+  ]
+}

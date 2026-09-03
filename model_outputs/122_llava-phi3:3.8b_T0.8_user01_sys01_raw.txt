@@ -1,0 +1,26 @@
+{
+"tablecloth": {
+"color": "white",
+"pattern": "floral"
+},
+"plates": [
+{
+"dish": "meatballs and carrots",
+"ingredients": ["breaded meatballs", "carrots"],
+"portion_size": "85g",
+"color": ["white", "orange"]
+},
+{
+"dish": "noodles with sauce",
+"ingredients": ["noodles", "tomato sauce", "cheese"],
+"portion_size": "207g",
+"color": ["white", "orange", "yellow"]
+}
+],
+"drinkware": {
+"container": "cup",
+"contents": "water",
+"portion_size": "245ml",
+"color": "clear"
+}
+},

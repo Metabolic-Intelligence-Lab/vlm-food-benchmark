@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with vegetables (carrots, potatoes, lentils/beans)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Quiche/Pie with spinach or kale",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Steamed broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Butter or margarine",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Jam or cream cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

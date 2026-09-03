@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with grated cheese and parsley",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Roasted vegetables (broccoli, carrots, zucchini)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

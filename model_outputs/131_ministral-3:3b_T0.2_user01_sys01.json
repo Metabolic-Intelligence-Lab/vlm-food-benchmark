@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "white rice (plain or seasoned)",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "ground meat (beef or similar) in tomato sauce",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "tomato sauce layer",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "lentil soup",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

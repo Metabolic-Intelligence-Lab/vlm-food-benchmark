@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce and potatoes",
+      "portion_estimate": "uncertain, estimate between 100-350g based on plate size for pasta portion",
+      "confidence": "60"
+    },
+    {
+      "name": "sweet potato or roasted potatoes mixed in diced form",
+      "portion_estimate": "uncertain, estimate between 80-250g based on plate size for sweet potato portion",
+      "confidence": "70"
+    },
+    {
+      "name": "ground meat with spices and seasonings",
+      "portion_estimate": "uncertain, estimate between 100-300g based on plate size for ground meat portion",
+      "confidence": "65"
+    }
+  ]
+}

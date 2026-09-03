@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pumpkin Puree",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Mashed Potato",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "Orange segments",
+      "portion_estimate": "80g",
+      "confidence": 60
+    }
+  ]
+}

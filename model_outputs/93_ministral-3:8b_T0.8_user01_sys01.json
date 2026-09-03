@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "pan-seared fish fillet (likely cod or similar white fish)",
+      "portion_estimate": "180g",
+      "confidence": 75
+    },
+    {
+      "name": "sliced lemon wedge",
+      "portion_estimate": "30g",
+      "confidence": 65
+    },
+    {
+      "name": "pasta with tomato-based sauce (likely penne or similar)",
+      "portion_estimate": "180g (cooked)",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat or regular dinner roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "yogurt (plain, unsweetened, in tub)",
+      "portion_estimate": "uncertain (container looks close to 150g, but portion unspecified)",
+      "confidence": 55
+    }
+  ]
+}

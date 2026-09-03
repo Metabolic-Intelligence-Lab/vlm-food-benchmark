@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Kale",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    }
+  ]
+}

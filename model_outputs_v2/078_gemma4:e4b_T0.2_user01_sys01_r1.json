@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Diced orange vegetables (carrots or sweet potato)",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Curry or stew in a bowl",
+      "portion_estimate": "320g",
+      "confidence": "90"
+    },
+    {
+      "name": "Yellowish spread or mash on a plate",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll or bun",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    }
+  ]
+}

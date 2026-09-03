@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce and grated cheese",
+      "portion_estimate": "uncertain, approximately 200g",
+      "confidence": "50"
+    },
+    {
+      "name": "vegetable stir-fry (peas, carrots, green peas, cherry tomatoes)",
+      "portion_estimate": "uncertain, approximately 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "quinoa or spinach-based pie with cheese on top",
+      "portion_estimate": "uncertain, approximately 200g",
+      "confidence": "40"
+    },
+    {
+      "name": "peeled pear",
+      "portion_estimate": "uncertain, approximately 150g",
+      "confidence": "60"
+    }
+  ]
+}

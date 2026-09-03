@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pea and carrot salad",
+      "portion_estimate": "uncertain, approximately 150g per serving for a similar dish",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain, approximately 80-90g based on typical slice size",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt with vanilla flavoring and fruit",
+      "portion_estimate": "uncertain, typically around 125g per serving for similar yogurt products",
+      "confidence": "60"
+    }
+  ]
+}

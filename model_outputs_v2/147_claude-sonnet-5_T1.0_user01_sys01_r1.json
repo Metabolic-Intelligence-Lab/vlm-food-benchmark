@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with grated parmesan cheese",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "beef stew/goulash with green beans and potatoes in tomato sauce",
+      "portion_estimate": "220",
+      "confidence": 75
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll, wrapped",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "fresh plums (3)",
+      "portion_estimate": "150",
+      "confidence": 75
+    }
+  ]
+}

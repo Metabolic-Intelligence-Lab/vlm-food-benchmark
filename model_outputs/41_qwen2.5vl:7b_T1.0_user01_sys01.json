@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole Wheat Elbow Pasta",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "Grilled Spinach and Feta Salad",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed Greens and Cucumber Salad",
+      "portion_estimate": "150",
+      "confidence": "60"
+    },
+    {
+      "name": "Apricots",
+      "portion_estimate": "80",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "40",
+      "confidence": "70"
+    }
+  ]
+}

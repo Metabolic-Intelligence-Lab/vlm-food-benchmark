@@ -1,0 +1,46 @@
+**Food Image Analysis**
+
+**Food Items:**
+
+* Omelette (made of eggs)
+* Bread (in the background, not visible in the main image)
+
+**Portion Estimates:**
+
+* Omelette: approximately 120-150g
+* Bread: not visible, no estimate
+
+**Confidence:**
+
+* Omelette: 90
+* Bread: 0 (not visible)
+
+**Food Items with Portion Estimates:**
+
+* Omelette: 120-150g, 90
+
+**Food Items without Portion Estimates:**
+
+* Bread: 0
+
+**Total Food Items:**
+
+* 2
+
+**Total Portion Estimates:**
+
+* 1
+
+**Total Confidences:**
+
+* 90
+
+**Total Food Image Analysis:**
+
+* Food items: 2
+* Portion estimates: 1
+* Confidences: 90
+
+**Food Image Analysis Output:**
+
+{ "food_items": [ { "name": "Omelette", "portion_estimate": "120-150g", "confidence": 90 } ] }

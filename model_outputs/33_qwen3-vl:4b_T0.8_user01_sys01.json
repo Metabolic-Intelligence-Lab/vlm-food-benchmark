@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "200 g",
+      "confidence": 95
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "olive oil",
+      "portion_estimate": "450 g",
+      "confidence": 95
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    }
+  ]
+}

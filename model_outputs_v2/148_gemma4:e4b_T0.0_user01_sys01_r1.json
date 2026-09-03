@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green pesto pasta with cheese topping",
+      "portion_estimate": "220",
+      "confidence": "95"
+    },
+    {
+      "name": "Steamed cauliflower florets",
+      "portion_estimate": "250",
+      "confidence": "95"
+    },
+    {
+      "name": "Roasted squash or sweet potato mash",
+      "portion_estimate": "75",
+      "confidence": "85"
+    },
+    {
+      "name": "Black olives",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "Assorted bread rolls",
+      "portion_estimate": "200",
+      "confidence": "90"
+    }
+  ]
+}

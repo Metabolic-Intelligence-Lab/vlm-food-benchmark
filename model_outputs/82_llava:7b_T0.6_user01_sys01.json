@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Caesar salad",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Pizza slices",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Chocolate cake",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Milk in a cup",
+      "portion_estimate": "125 ml",
+      "confidence": 70
+    }
+  ]
+}

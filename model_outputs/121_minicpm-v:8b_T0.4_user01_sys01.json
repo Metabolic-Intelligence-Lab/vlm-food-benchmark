@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Banana",
+      "portion_estimate": "1 medium banana (approx. 105 grams)",
+      "confidence": "95"
+    },
+    {
+      "name": "Whole grain toast with butter",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta dish",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Carrot salad",
+      "portion_estimate": "uncertain",
+      "confidence": "85"
+    }
+  ]
+}

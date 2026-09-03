@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Banana",
+      "portion_estimate": "130g",
+      "confidence": "95"
+    },
+    {
+      "name": "Mixed salad with greens, protein, and cheese",
+      "portion_estimate": "250g",
+      "confidence": "85"
+    },
+    {
+      "name": "Wrapped dinner roll or bun",
+      "portion_estimate": "110g",
+      "confidence": "90"
+    }
+  ]
+}

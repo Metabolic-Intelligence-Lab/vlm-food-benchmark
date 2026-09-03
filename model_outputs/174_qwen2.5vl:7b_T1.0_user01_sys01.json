@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried fish with vegetables",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed vegetable salad",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Bun",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "150",
+      "confidence": "90"
+    }
+  ]
+}

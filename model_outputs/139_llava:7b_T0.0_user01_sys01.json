@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried eggs",
+      "portion_estimate": "2",
+      "confidence": "80"
+    },
+    {
+      "name": "Sliced potatoes",
+      "portion_estimate": "1 cup",
+      "confidence": "70"
+    },
+    {
+      "name": "Chicken breast",
+      "portion_estimate": "1 piece",
+      "confidence": "80"
+    },
+    {
+      "name": "Steamed carrots",
+      "portion_estimate": "1 cup",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "1 piece",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with parmesan",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed vegetables in tomato sauce",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "pretzel",
+      "portion_estimate": "30",
+      "confidence": "85"
+    }
+  ]
+}

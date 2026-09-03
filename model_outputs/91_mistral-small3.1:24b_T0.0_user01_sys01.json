@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "minestrone soup",
+      "portion_estimate": "300",
+      "confidence": "85"
+    },
+    {
+      "name": "grilled chicken breast",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "120",
+      "confidence": "90"
+    }
+  ]
+}

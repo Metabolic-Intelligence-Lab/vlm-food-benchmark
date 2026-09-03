@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "200g",
+      "confidence": 100
+    },
+    {
+      "name": "Meat/Protein",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "Tomato Sauce",
+      "portion_estimate": "100g",
+      "confidence": 100
+    }
+  ]
+}

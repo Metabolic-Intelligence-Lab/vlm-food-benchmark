@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Sliced peppers",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta salad with dressing",
+      "portion_estimate": "250g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed green salad",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Orange slice",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ]
+}

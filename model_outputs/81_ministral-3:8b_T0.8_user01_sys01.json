@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potato (creamy texture)",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed greens (kale or similar leafy green)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "breaded meatball (likely pork or veal)",
+      "portion_estimate": "60g",
+      "confidence": 85
+    },
+    {
+      "name": "sauce in clear plastic container (appears thick)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "condiment packet (mayo or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

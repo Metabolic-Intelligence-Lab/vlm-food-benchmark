@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Water",
+      "portion_estimate": "200 ml",
+      "confidence": 95
+    },
+    {
+      "name": "Tomato Soup",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "Chicken Breast",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "Carrot Sticks",
+      "portion_estimate": "50 g",
+      "confidence": 95
+    }
+  ]
+}

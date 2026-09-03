@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Chicken",
+      "portion_estimate": "80g",
+      "confidence": "65"
+    },
+    {
+      "name": "Mixed Vegetables (including carrots)",
+      "portion_estimate": "90g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cream Cheese with vegetable toppings",
+      "portion_estimate": "50g",
+      "confidence": "50"
+    }
+  ]
+}

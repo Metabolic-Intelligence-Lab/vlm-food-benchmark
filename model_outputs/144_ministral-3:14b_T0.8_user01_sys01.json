@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with parmesan cheese",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat bread, partially wrapped",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "baked egg with white sauce, served with chickpeas in tomato sauce",
+      "portion_estimate": "220g",
+      "confidence": 85
+    },
+    {
+      "name": "small green vegetable side (appears to be green beans or broccoli)",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "yellow-green apple",
+      "portion_estimate": "180g",
+      "confidence": 85
+    }
+  ]
+}

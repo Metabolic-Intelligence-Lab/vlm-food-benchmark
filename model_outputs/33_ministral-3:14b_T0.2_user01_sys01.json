@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "tomato and cheese quiche with mixed vegetable medley (carrots, peas, zucchini, eggplant)",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "fettuccine pasta with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "whole wheat or seeded bread roll",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "whole red apple",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "water in clear plastic cup",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

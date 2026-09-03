@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "200-250 grams",
+      "confidence": 80
+    },
+    {
+      "name": "roast meat (likely pork)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "potato hash or fried potatoes",
+      "portion_estimate": "150-200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "bun (possibly a dinner roll or small bread)",
+      "portion_estimate": "50-70 grams",
+      "confidence": 70
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "200-250 ml",
+      "confidence": 90
+    }
+  ]
+}

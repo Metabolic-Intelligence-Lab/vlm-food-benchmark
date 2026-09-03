@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried egg (sunny side up)",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "fried potato wedges",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "sauteed spinach",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "fruit yogurt or dessert cup (sealed, red label)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

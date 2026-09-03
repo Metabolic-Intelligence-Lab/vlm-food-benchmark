@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "70",
+      "confidence": 80
+    },
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "100",
+      "confidence": 85
+    }
+  ]
+}

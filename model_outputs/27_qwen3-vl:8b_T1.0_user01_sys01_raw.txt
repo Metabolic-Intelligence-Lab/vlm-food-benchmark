@@ -1,0 +1,22 @@
+The meal tray contains the following items, each with confidence levels based on observable details and the requirement to avoid hallucination (items with confidence below 60% are marked as uncertain):
+
+- **Grilled cheese sandwich** (70% confidence)  
+  *Reason:* A substantial, toasted bread item with visible melted cheese is present, but the exact type of cheese or sandwich filling is ambiguous due to overlapping edges.
+
+- **Cooked kale** (90% confidence)  
+  *Reason:* A bowl of steamed or sautéed green leafy vegetables matches the description of kale, with no other common greens (e.g., spinach) observed.
+
+- **Penne pasta with tomato sauce** (90% confidence)  
+  *Reason:* A plate of penne pasta in a red tomato-based sauce is clearly visible, with no other pasta types or sauces identifiable.
+
+- **Glass of water** (90% confidence)  
+  *Reason:* A transparent glass filled with clear liquid matches the standard appearance of water, with no other beverages visible.
+
+- **Container labeled "KIND"** (40% confidence)  
+  *Reason:* A small container with the "KIND" brand name is present, but it is too small and indistinct to confirm the contents (e.g., it could be a snack bar, but the label alone is not definitive). This is uncertain due to possible mislabeling or obscured details.
+
+- **Wrapped food item** (30% confidence)  
+  *Reason:* A brown, wrapped object (e.g., bread or a burger) is partially visible, but it is too small and ambiguous to identify precisely. This item has low confidence due to limited detail.
+
+**Summary:**  
+The most certain items are the grilled cheese sandwich (70%), cooked kale (90%), penne pasta with tomato sauce (90%), and water (90%). The remaining items ("KIND" container and wrapped food) are uncertain (confidence <60%) due to insufficient visual clarity. All descriptions are based solely on the provided image details without assumptions.

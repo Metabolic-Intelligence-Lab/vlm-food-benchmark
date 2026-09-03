@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cheese fries",
+      "portion_estimate": "100-200 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "French toast sticks with powdered sugar and marinara sauce",
+      "portion_estimate": "uncertain, approx 80g each (4 pieces total)",
+      "confidence": "60"
+    },
+    {
+      "name": "Baked chips",
+      "portion_estimate": "125-250 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Toast with butter and jam",
+      "portion_estimate": "uncertain, approx 36g each (2 slices total)",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "150-300 grams",
+      "confidence": "70"
+    }
+  ]
+}

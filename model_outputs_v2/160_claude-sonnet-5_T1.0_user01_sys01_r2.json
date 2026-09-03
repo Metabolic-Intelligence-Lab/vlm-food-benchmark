@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "corn and bean soup (minestrone-style)",
+      "portion_estimate": "300",
+      "confidence": "75"
+    },
+    {
+      "name": "green beans, sauteed",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "vegetable fritter/rosti with cream sauce",
+      "portion_estimate": "90",
+      "confidence": "65"
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "15",
+      "confidence": "70"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "130",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "uncertain small packaged condiment/butter portion",
+      "portion_estimate": "10",
+      "confidence": "40"
+    }
+  ]
+}

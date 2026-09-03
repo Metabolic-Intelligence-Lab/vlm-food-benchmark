@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich with toasted bread and fillings",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "grilled or roasted vegetable (zucchini or eggplant)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

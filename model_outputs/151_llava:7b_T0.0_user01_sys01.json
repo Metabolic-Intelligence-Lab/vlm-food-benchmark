@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Salad with mixed greens, carrots, and croutons",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Roasted vegetables (broccoli and carrots)",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta with mushrooms, olives, and cheese",
+      "portion_estimate": "250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Breaded chicken breast",
+      "portion_estimate": "180 grams",
+      "confidence": "70"
+    }
+  ]
+}

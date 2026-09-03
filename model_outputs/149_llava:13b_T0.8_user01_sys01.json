@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cake",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta salad with broccoli and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sandwich with meat, lettuce, tomato, and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

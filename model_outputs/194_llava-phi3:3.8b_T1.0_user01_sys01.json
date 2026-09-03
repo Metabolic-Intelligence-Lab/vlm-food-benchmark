@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "white bowl with soup",
+      "portion_estimate": "150g",
+      "color": "white"
+    },
+    {
+      "name": "plate with food",
+      "portion_estimate": "100g",
+      "contents": [
+        {
+          "name": "meatball sandwich",
+          "portion_estimate": "50g"
+        },
+        {
+          "name": "cabbage with carrots",
+          "portion_estimate": "100g"
+        }
+      ],
+      "color": "white"
+    },
+    {
+      "name": "ice cube in cup",
+      "portion_estimate": "50g",
+      "material": "plastic"
+    },
+    {
+      "name": "brown bread roll",
+      "portion_estimate": "75g",
+      "color": "brown"
+    },
+    {
+      "name": "orange with black stems",
+      "portion_estimate": "100g",
+      "color": "orange"
+    }
+  ],
+  "condiments": [
+    {
+      "name": "ketchup",
+      "portion_estimate": "25g"
+    },
+    {
+      "name": "sugar",
+      "portion_estimate": "25g"
+    }
+  ]
+}

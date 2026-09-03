@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Tuna Pasta",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Crispy Fish Fillet",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green Salad (possibly containing beans)",
+      "portion_estimate": "80g",
+      "confidence": "60"
+    },
+    {
+      "name": "Meatball Pasta",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Focaccia Bread (possibly containing a stuffed vegetable)",
+      "portion_estimate": "30g",
+      "confidence": "60"
+    }
+  ]
+}

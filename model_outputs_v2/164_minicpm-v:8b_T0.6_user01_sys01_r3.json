@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with butter on top",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60g-80g",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt with fruits (red label)",
+      "portion_estimate": "125g",
+      "confidence": "90"
+    },
+    {
+      "name": "Potato croquettes with potato chips and condiment on top",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans or cooked vegetables",
+      "portion_estimate": "approx. 15g per serving (based on common portion sizes)",
+      "confidence": "90"
+    }
+  ]
+}

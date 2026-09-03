@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "dark green leafy greens",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "spaghetti (2 servings)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red tomato",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "clear plastic cups (water)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce (rotini/noodles)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "roasted brussels sprouts",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed red cabbage",
+      "portion_estimate": "80 grams",
+      "confidence": 80
+    },
+    {
+      "name": "sweet potato/crusted dish (likely fried or baked sweet potato slices)",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole mandarin oranges (peeled)",
+      "portion_estimate": "300 grams (3 pieces)",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based soup with chunks (likely lentil or vegetable soup)",
+      "portion_estimate": "450",
+      "confidence": 85
+    },
+    {
+      "name": "grilled or baked chicken breast strips",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or saut\u00e9ed dark green leafy vegetables (e.g., kale, spinach, or broccoli rabe)",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "whole wheat or seeded roll/bun",
+      "portion_estimate": "80",
+      "confidence": 70
+    },
+    {
+      "name": "sour cream or similar dairy topping (partially used, visible in container)",
+      "portion_estimate": "30",
+      "confidence": 75
+    },
+    {
+      "name": "water (in a clear glass)",
+      "portion_estimate": "250",
+      "confidence": 90
+    }
+  ]
+}

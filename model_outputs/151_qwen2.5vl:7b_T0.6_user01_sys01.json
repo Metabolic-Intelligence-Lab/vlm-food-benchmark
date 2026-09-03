@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with mushrooms and grated cheese",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed vegetables (brussels sprouts and carrots)",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrot cake",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

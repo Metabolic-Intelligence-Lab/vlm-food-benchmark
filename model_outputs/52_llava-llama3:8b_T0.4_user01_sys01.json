@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "coleslaw",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "breaded chicken strips",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

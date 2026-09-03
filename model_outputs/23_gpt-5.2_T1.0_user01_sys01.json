@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "baked pumpkin slice with tomato-based topping (possible cheese/breadcrumb crust)",
+      "portion_estimate": "160 g",
+      "confidence": "55"
+    },
+    {
+      "name": "creamy chicken pieces (chicken in light cream/mushroom sauce)",
+      "portion_estimate": "140 g",
+      "confidence": "50"
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "15 g",
+      "confidence": "85"
+    },
+    {
+      "name": "penne pasta with tomato sauce and mixed vegetables (peas, carrots, peppers)",
+      "portion_estimate": "250 g",
+      "confidence": "70"
+    },
+    {
+      "name": "plain bread rolls/small buns",
+      "portion_estimate": "70 g",
+      "confidence": "75"
+    },
+    {
+      "name": "fruit yogurt cup (strawberry/berry flavor)",
+      "portion_estimate": "125 g",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "85"
+    }
+  ]
+}

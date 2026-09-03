@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll or bun",
+      "portion_estimate": "90",
+      "confidence": "95"
+    },
+    {
+      "name": "Spaghetti or pasta with tomato sauce",
+      "portion_estimate": "220",
+      "confidence": "90"
+    },
+    {
+      "name": "Steamed or saut\u00e9ed green beans",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Omelet or scrambled eggs",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Water or clear soda beverage",
+      "portion_estimate": "450",
+      "confidence": "95"
+    }
+  ]
+}

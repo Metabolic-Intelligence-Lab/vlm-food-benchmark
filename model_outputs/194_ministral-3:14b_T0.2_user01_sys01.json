@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "creamy tomato-based soup (e.g., tomato soup)",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "grilled or baked fish fillet with glaze (e.g., salmon or trout)",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or saut\u00e9ed dark green leafy vegetable (e.g., kale or spinach)",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "small baked or fried pastry (e.g., croquette or small pie)",
+      "portion_estimate": "80",
+      "confidence": 75
+    },
+    {
+      "name": "small whole orange",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "250",
+      "confidence": 85
+    }
+  ]
+}

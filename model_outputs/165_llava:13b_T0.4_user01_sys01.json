@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup or stew (possibly chili)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sauce or condiment (mustard or ketchup)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sandwich (burger)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "mashed potatoes with sausage patty",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "side salad (lettuce and vegetables)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

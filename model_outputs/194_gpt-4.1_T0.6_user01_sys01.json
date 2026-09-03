@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "300",
+      "confidence": 90
+    },
+    {
+      "name": "boiled leafy greens",
+      "portion_estimate": "70",
+      "confidence": 85
+    },
+    {
+      "name": "cooked patty with sauce and shredded cabbage",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "clear carbonated beverage (possibly water or soda)",
+      "portion_estimate": "200",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "White rice",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Slices of bread or pita",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "120 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Breaded meat or fish",
+      "portion_estimate": "75 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Cooked beans, possibly kidney beans or pinto beans",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    }
+  ]
+}

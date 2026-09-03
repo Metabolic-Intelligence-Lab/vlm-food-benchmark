@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sliced yellow bell pepper",
+      "portion_estimate": "120 grams",
+      "confidence": 95
+    },
+    {
+      "name": "farfalle pasta with tomato sauce",
+      "portion_estimate": "200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "baked or fried bread",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "150 milliliters",
+      "confidence": 90
+    }
+  ]
+}

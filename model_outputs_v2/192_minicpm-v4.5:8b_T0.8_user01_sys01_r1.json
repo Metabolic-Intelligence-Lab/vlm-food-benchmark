@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded cutlet (likely pork or chicken)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "dark leafy greens (spinach or similar)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "rigatoni pasta with tomato sauce",
+      "portion_estimate": "150-200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "lemon",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "celery sticks (in plastic bag)",
+      "portion_estimate": "50 grams",
+      "confidence": 75
+    }
+  ]
+}

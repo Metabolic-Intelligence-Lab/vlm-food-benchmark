@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "shell pasta",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "cheese sauce",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "30",
+      "confidence": "70"
+    }
+  ]
+}

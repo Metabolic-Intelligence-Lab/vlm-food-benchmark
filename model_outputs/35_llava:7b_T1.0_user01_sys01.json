@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Green salad with bacon and egg",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Steak with a side of garlic bread",
+      "portion_estimate": "150g",
+      "confidence": 70
+    },
+    {
+      "name": "Sliced watermelon with blackberries",
+      "portion_estimate": "150g",
+      "confidence": 60
+    },
+    {
+      "name": "Fettuccine Alfredo with grilled chicken and steamed vegetables",
+      "portion_estimate": "300g",
+      "confidence": 80
+    },
+    {
+      "name": "Sliced bread loaf with a pat of butter on the side",
+      "portion_estimate": "1 slice",
+      "confidence": 40
+    },
+    {
+      "name": "Green beans and steamed carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

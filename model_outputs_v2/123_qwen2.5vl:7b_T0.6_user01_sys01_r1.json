@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bow tie pasta with cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Omelette",
+      "portion_estimate": "80 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Potato wedges",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": "200 milliliters",
+      "confidence": "100"
+    }
+  ]
+}

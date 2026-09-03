@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Rice with a greenish topping, possibly vegetable rice",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Vegetarian mixed stir-fry",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Steamed broccoli and potatoes with a dark sauce, possibly mushroom or black bean sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Rice with orange food item",
+      "portion_estimate": "200 grams",
+      "confidence": "60"
+    }
+  ]
+}

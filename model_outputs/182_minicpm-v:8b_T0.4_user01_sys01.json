@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Cheese pizza with mushrooms and chicken",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta dish (possibly seafood)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Oranges",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

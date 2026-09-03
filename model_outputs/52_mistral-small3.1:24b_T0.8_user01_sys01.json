@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken breast",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "penne pasta with tomato and basil sauce",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "shredded carrots and red cabbage salad",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "slice of whole grain bread",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "portion of butter",
+      "portion_estimate": "10",
+      "confidence": "70"
+    },
+    {
+      "name": "portion of water",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

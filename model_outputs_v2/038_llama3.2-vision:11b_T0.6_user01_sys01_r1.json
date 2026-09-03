@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "80g",
+      "confidence": "90"
+    }
+  ]
+}

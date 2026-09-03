@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup with crumbled cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "small round bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "scoop of ice cream",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

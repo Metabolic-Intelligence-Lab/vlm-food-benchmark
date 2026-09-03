@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "grilled fish with herbs",
+      "portion_estimate": "approximately 120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "water in a glass",
+      "portion_estimate": "approximately 200 milliliters",
+      "confidence": "90"
+    }
+  ]
+}

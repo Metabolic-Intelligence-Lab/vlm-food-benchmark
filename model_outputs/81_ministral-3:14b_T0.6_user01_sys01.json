@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes (possibly with butter)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "saut\u00e9ed or steamed kale/cabbage",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "fried or breaded potato croquettes (2 pieces)",
+      "portion_estimate": "120g",
+      "confidence": 88
+    },
+    {
+      "name": "ketchup or tomato-based sauce (small serving)",
+      "portion_estimate": "30g",
+      "confidence": 80
+    },
+    {
+      "name": "salt or seasoning granules (on plate)",
+      "portion_estimate": "5g",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "burger with carrots and banana",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

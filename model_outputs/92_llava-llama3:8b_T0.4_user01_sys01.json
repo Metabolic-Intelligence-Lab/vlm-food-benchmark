@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup with tofu",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "baguette roll",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

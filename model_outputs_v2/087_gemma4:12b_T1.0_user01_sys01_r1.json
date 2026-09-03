@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole grain pasta",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "saut\u00e9ed green beans with seasonings and seaweed",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "fresh peach",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "tube of sauce/condiment",
+      "portion_estimate": "150",
+      "confidence": 80
+    }
+  ]
+}

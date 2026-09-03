@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "uncertain, 1 portion",
+      "confidence": "20"
+    },
+    {
+      "name": "Sausage links",
+      "portion_estimate": "5 pieces",
+      "confidence": "60"
+    },
+    {
+      "name": "Salad with mixed vegetables",
+      "portion_estimate": "uncertain, 1 portion",
+      "confidence": "30"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "1 piece",
+      "confidence": "70"
+    },
+    {
+      "name": "Roll with butter",
+      "portion_estimate": "uncertain, 1 portion",
+      "confidence": "40"
+    }
+  ]
+}

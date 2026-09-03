@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fettuccine Alfredo",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "ciabatta bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "blueberries",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

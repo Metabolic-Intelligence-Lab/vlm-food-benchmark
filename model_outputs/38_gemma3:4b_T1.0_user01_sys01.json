@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "Fried Balls (likely meatballs)",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "Cucumber and Salad",
+      "portion_estimate": "80g",
+      "confidence": 65
+    }
+  ]
+}

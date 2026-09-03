@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with white sauce and grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bowl of vegetables, including carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "muffin",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "wrapped sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "egg",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    }
+  ]
+}

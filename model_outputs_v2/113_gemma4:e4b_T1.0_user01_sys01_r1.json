@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup or stew with white topping",
+      "portion_estimate": "450 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Assortment of dinner rolls or bread rolls",
+      "portion_estimate": "300 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Vegetable patties (falafel) with roasted vegetables",
+      "portion_estimate": "250 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Savory pastry or thick bread slice",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Plums or red stone fruit",
+      "portion_estimate": "120 grams",
+      "confidence": "90"
+    }
+  ]
+}

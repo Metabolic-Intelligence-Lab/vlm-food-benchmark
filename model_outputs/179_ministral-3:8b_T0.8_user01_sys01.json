@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fries with tomato ketchup",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "small whole lemon",
+      "portion_estimate": "120 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed tuna salad with broccoli",
+      "portion_estimate": "180 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "rolled tortilla wrap (empty or with filling partially visible, looks like mayonnaise)",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

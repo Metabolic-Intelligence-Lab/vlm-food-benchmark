@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "green soup with croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "small round pieces of food with white sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread with cream cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

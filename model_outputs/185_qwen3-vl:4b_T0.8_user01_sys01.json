@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "180 g",
+      "confidence": 80
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "120 g",
+      "confidence": 70
+    },
+    {
+      "name": "Small roll",
+      "portion_estimate": "25 g",
+      "confidence": 70
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "150 ml",
+      "confidence": 100
+    }
+  ]
+}

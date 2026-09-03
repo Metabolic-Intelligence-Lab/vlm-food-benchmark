@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce and grated cheese",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll (plastic wrapped)",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "Butter stick",
+      "portion_estimate": "25",
+      "confidence": 90
+    },
+    {
+      "name": "Cracker (square, honeycomb pattern)",
+      "portion_estimate": "15",
+      "confidence": 85
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "40",
+      "confidence": 90
+    }
+  ]
+}

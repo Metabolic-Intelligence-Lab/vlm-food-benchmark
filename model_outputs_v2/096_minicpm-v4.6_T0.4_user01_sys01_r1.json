@@ -1,0 +1,15 @@
+{
+  "food_items": [
+    {
+      "name": "fruit juice",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "sandwich-like pastries",
+      "portion_estimate": "150g each",
+      "confidence": 90
+    }
+  ],
+  "notes": "The items include a juice carton and two packaged baked goods. Portion estimates are based on visible packaging and typical serving sizes."
+}

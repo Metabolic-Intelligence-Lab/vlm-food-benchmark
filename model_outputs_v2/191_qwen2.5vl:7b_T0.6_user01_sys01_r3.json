@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "300",
+      "confidence": 80
+    },
+    {
+      "name": "sesame balls",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "green soup",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "bouquet garni",
+      "portion_estimate": "10",
+      "confidence": 60
+    },
+    {
+      "name": "unidentified wrapped item",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

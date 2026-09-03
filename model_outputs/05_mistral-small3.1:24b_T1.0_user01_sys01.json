@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken nuggets",
+      "portion_estimate": "113",
+      "confidence": 80
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "170",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "cream of tomato soup",
+      "portion_estimate": "240",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "113",
+      "confidence": 80
+    }
+  ]
+}

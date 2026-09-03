@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Frozen vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Frozen carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Frozen peas",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Frozen broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

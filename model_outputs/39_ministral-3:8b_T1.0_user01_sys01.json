@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (likely penne or rigatoni), likely cooked",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "baguette (whole wheat appearance)",
+      "portion_estimate": "70 grams",
+      "confidence": 70
+    },
+    {
+      "name": "spinach salad or saut\u00e9ed spinach",
+      "portion_estimate": "80 grams",
+      "confidence": 75
+    },
+    {
+      "name": "fish fillet, grilled or baked (appearance similar to halibut or cod)",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "sun-dried tomatoes (or cherry tomatoes if small)",
+      "portion_estimate": "30 grams",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta shells with tomato sauce and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "rice or grains with meat (possibly chicken or pork) and vegetables (possibly carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread roll or bun",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "mango",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

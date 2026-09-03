@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Two slices of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "A piece of broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "A piece of fish (fillet)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "A small portion of sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "A bowl of chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "A tortilla wrap (package)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "A red container labeled \"HONEY\"",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

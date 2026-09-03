@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bun (sandwich bread)",
+      "portion_estimate": "50-70 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "cabbage salad (purple and green cabbage)",
+      "portion_estimate": "60-80 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "apricot",
+      "portion_estimate": "100 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "steamed spinach",
+      "portion_estimate": "60-80 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "dumpling or stuffed pastry (visible on plate)",
+      "portion_estimate": "80-120 grams",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fusilli pasta with herbs",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Sliced cooked carrots",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "Veggie patty with toppings",
+      "portion_estimate": "130g",
+      "confidence": "85"
+    },
+    {
+      "name": "Fresh peach",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    }
+  ]
+}

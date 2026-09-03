@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "potato latke (with visible onion slices on top)",
+      "portion_estimate": "uncertain (100g - both pieces combined)",
+      "confidence": 70
+    },
+    {
+      "name": "green leafy soup with cheese topping",
+      "portion_estimate": "300g",
+      "confidence": 85
+    },
+    {
+      "name": "mixed salad (green leafy vegetables, possibly iceberg lettuce, cilantro, and shredded cabbage)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "pre-sliced onion wrapped in clear plastic",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt (YOVO brand, plain flavored)",
+      "portion_estimate": "125g",
+      "confidence": 100
+    }
+  ]
+}

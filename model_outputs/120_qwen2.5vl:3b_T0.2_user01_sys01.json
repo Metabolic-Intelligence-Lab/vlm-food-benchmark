@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "crispy fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "125g",
+      "confidence": "80"
+    },
+    {
+      "name": "bagel",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

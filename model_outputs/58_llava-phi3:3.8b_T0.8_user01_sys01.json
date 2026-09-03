@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "noodles",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "60g",
+      "confidence": "95"
+    },
+    {
+      "name": "bread roll with jam",
+      "portion_estimate": "45g",
+      "confidence": "85"
+    },
+    {
+      "name": "peach slices",
+      "portion_estimate": "60g",
+      "confidence": "92"
+    },
+    {
+      "name": "blue glass cup",
+      "portion_estimate": "100ml",
+      "confidence": "85"
+    }
+  ]
+}

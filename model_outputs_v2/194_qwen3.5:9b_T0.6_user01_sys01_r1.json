@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broth-based soup with greens",
+      "portion_estimate": 350,
+      "confidence": 95
+    },
+    {
+      "name": "Patty on bun (possibly a burger or sandwich)",
+      "portion_estimate": 180,
+      "confidence": 90
+    },
+    {
+      "name": "Side salad with dark leafy greens",
+      "portion_estimate": 60,
+      "confidence": 85
+    },
+    {
+      "name": "Orange whole fruit",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Glass of water with ice",
+      "portion_estimate": 250,
+      "confidence": 95
+    }
+  ]
+}

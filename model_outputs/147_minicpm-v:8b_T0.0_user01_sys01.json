@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. 100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Plums and grapes",
+      "portion_estimate": "uncertain, approx. 25-30g each",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Sweet potato mash with butter",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Stir-fried vegetables and tofu",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    }
+  ]
+}

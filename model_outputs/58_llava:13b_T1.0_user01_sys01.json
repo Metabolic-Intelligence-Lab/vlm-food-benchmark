@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100-200g",
+      "confidence": "75"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "50-100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Eggs and Vegetables (possibly an omelette or quiche)",
+      "portion_estimate": "100-200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Whole Wheat Bread Roll",
+      "portion_estimate": "50-100g",
+      "confidence": "75"
+    },
+    {
+      "name": "Fruit (possibly a peach or apricot)",
+      "portion_estimate": "50-100g",
+      "confidence": "60"
+    }
+  ]
+}

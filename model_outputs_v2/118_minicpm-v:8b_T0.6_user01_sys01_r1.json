@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne with Tomato Sauce",
+      "portion_estimate": "uncertain, approx 200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Potato Wedges",
+      "portion_estimate": "uncertain, approx 100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Grilled Chicken Breast with Tomato Sauce",
+      "portion_estimate": "uncertain, approx 80g",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt (Tomato Flavored)",
+      "portion_estimate": "uncertain, approx 125g",
+      "confidence": "40"
+    }
+  ]
+}

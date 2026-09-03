@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "200 grams (estimated by comparing to standard plate size and typical portion size)",
+      "confidence": 75
+    },
+    {
+      "name": "broccoli florets",
+      "portion_estimate": "150 grams (estimated by visual comparison to a standard serving size)",
+      "confidence": 70
+    },
+    {
+      "name": "tuna or chicken salad mix (likely tuna based on appearance)",
+      "portion_estimate": "120 grams (estimated by visual comparison to a standard serving size)",
+      "confidence": 65
+    },
+    {
+      "name": "whole lemon",
+      "portion_estimate": "150 grams (average weight of a standard lemon)",
+      "confidence": 85
+    },
+    {
+      "name": "unidentified wrapped food item (likely a baked item or bread roll)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

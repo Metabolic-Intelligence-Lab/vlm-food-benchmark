@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "red bell pepper",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "parsley",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

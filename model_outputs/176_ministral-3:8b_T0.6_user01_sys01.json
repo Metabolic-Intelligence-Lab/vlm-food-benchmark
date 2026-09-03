@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "bean or lentil-based soup",
+      "portion_estimate": "450",
+      "confidence": 75
+    },
+    {
+      "name": "grated cheese (topping)",
+      "portion_estimate": "20",
+      "confidence": 60
+    },
+    {
+      "name": "tomato and cheese quiche or frittata slice",
+      "portion_estimate": "120",
+      "confidence": 70
+    },
+    {
+      "name": "whole wheat bread slice",
+      "portion_estimate": "50",
+      "confidence": 75
+    },
+    {
+      "name": "canned or packaged spread (butter or margarine)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "mixed fruit salad (raisins and white chunks, possibly peaches or pears)",
+      "portion_estimate": "150",
+      "confidence": 65
+    },
+    {
+      "name": "small whole avocado",
+      "portion_estimate": "130",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chili or spicy stew with cheese and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "rice pudding with cinnamon topping",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad with lettuce and tomato",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pasta in light sauce (pesto or white sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

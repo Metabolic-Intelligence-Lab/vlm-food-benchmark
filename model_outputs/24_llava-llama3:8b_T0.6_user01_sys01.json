@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange balls",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "orange carrot slices",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "white balls with black spots",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "nuts and seeds mixture",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

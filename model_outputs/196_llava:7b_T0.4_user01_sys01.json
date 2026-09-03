@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grilled meat (chicken or pork chops) with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "greenish-brown soup or stew",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "condiment or spread (hummus or similar dip)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "steamed green beans",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted butternut squash",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "rice with vegetables",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200",
+      "confidence": "80"
+    }
+  ]
+}

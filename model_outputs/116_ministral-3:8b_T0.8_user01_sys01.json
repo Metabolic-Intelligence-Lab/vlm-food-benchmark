@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup with vegetables and grated cheese",
+      "portion_estimate": "350 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "whole milk cheese spread (single-serve pack)",
+      "portion_estimate": "80 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "multi-grain or whole wheat bread roll",
+      "portion_estimate": "70 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "grated parmesan-style cheese",
+      "portion_estimate": "40 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "water in disposable cup",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

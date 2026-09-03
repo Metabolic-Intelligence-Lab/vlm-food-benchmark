@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "carrot and cabbage salad (shredded)",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "meat patty or burger with topping (possibly cheese and sauce)",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "diced potatoes (possibly roasted or saut\u00e9ed)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "sliced apple or pear chunks",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "sauce packet (orange, possibly apricot or tomato-based)",
+      "portion_estimate": "20",
+      "confidence": 75
+    },
+    {
+      "name": "jam or jelly (dark red, possibly plum or grape)",
+      "portion_estimate": "30",
+      "confidence": 70
+    },
+    {
+      "name": "salt or sugar shaker (empty, partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

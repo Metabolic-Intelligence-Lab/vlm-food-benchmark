@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "250g (uncertain; visually estimated based on standard pasta serving size)",
+      "confidence": 75
+    },
+    {
+      "name": "packaged baked potato (pre-portioned)",
+      "portion_estimate": "200g (estimated based on typical baked potato size)",
+      "confidence": 80
+    },
+    {
+      "name": "rice and green peas",
+      "portion_estimate": "120g (rice only, mixed with peas; estimated based on common rice portion sizes)",
+      "confidence": 75
+    },
+    {
+      "name": "spinach or leafy vegetable tart/slice",
+      "portion_estimate": "180g (estimated based on size similar to a standard tart)",
+      "confidence": 65
+    },
+    {
+      "name": "banana (partially visible)",
+      "portion_estimate": "80g (estimated portion visible; whole banana would likely be ~120g)",
+      "confidence": 60
+    }
+  ]
+}

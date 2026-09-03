@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "diced potatoes",
+      "portion_estimate": "120 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "minced meat in sauce",
+      "portion_estimate": "130 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

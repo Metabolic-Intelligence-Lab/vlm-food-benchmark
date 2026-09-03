@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with pesto",
+      "portion_estimate": "uncertain, approx. 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "pasta salad (possibly fusilli) with chickpeas and diced carrots",
+      "portion_estimate": "uncertain, approx. 150-200g",
+      "confidence": "70"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "approx. 100g",
+      "confidence": "80"
+    },
+    {
+      "name": "bagel with a spread (possibly cream cheese)",
+      "portion_estimate": "uncertain, approx. 60-90g",
+      "confidence": "75"
+    },
+    {
+      "name": "portobello mushroom with avocado and green salad toppings",
+      "portion_estimate": "uncertain, approx. 120g",
+      "confidence": "80"
+    }
+  ]
+}

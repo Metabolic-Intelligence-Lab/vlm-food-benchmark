@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "meatballs with green sauce",
+      "portion_estimate": "75",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt dessert",
+      "portion_estimate": "125",
+      "confidence": "90"
+    }
+  ]
+}

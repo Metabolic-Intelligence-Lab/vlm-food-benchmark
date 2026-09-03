@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup",
+      "portion_estimate": "300 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "hamburger with vegetables",
+      "portion_estimate": "120 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "80 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    }
+  ]
+}

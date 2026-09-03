@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "dal",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "chole",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "roti",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

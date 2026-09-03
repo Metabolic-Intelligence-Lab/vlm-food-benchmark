@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "raw meat with sprouts",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "200",
+      "confidence": "70"
+    },
+    {
+      "name": "baked bread",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": "90"
+    }
+  ]
+}

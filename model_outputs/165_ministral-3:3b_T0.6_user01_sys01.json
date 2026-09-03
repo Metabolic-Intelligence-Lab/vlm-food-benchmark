@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "soup (likely tomato or vegetable-based, with seasoning)",
+      "portion_estimate": "250 grams",
+      "confidence": 95
+    },
+    {
+      "name": "mini roll or sandwich bun",
+      "portion_estimate": "30 grams",
+      "confidence": 90
+    },
+    {
+      "name": "grilled meat patty with relish (e.g., fried eggplant or similar garnish)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small baked potato with mash or butter",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "sliced cucumber or green vegetable (e.g., lettuce)",
+      "portion_estimate": "20 grams",
+      "confidence": 70
+    },
+    {
+      "name": "salted water or water with an electrolyte drink pouch (Ellory brand)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "small plastic container with unknown beverage (e.g., possibly a sports drink)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

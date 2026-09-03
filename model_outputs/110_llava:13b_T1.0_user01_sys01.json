@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "minestrone soup",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "scone or small loaf of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "plums or dried apricots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "mixed vegetables (peas and carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "cornbread or similar baked item",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

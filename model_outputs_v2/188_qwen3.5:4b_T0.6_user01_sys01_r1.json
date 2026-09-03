@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup with vegetables",
+      "portion_estimate": "400",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt drink (Toko)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "water",
+      "portion_estimate": "300",
+      "confidence": 60
+    },
+    {
+      "name": "savory pie or quiche slice",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "steamed spinach or kale",
+      "portion_estimate": "120",
+      "confidence": 85
+    }
+  ]
+}

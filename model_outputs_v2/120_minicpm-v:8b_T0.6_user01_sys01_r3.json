@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "uncertain, estimate around 100g per serving",
+      "confidence": "75"
+    },
+    {
+      "name": "Crouton or Fried Chicken Cutlet",
+      "portion_estimate": "uncertain, estimate around 30-40g",
+      "confidence": "60"
+    },
+    {
+      "name": "Broccoli Cheese Soup",
+      "portion_estimate": "uncertain, estimate around 250g per serving",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread Slices (White Bread)",
+      "portion_estimate": "uncertain, estimate around 4 slices total weighing approximately 130-150g",
+      "confidence": "60"
+    }
+  ]
+}

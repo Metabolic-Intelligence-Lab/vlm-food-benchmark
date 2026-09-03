@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (twisted shape with seasoning)",
+      "portion_estimate": "250",
+      "confidence": "90"
+    },
+    {
+      "name": "Baked potato",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "Carrots (sliced and cooked)",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "Omelette with crab meat",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "Peach",
+      "portion_estimate": "120",
+      "confidence": "90"
+    }
+  ]
+}

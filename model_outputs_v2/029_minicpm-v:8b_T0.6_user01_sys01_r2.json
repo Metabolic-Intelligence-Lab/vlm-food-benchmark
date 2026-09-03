@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain, approx. slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain, typical medium apple weight around 172-340 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain bread slice in plastic bag labeled 'Elior's' with best before date of '1/95/80', likely a typo for January 9th, 2023",
+      "portion_estimate": "uncertain, approx. slice size",
+      "confidence": "40"
+    },
+    {
+      "name": "Macaroni and cheese with mushrooms",
+      "portion_estimate": "approximate serving weight of macaroni & cheese is around 158-263 grams per cup based on typical portion sizes, so a reasonable estimate might be mid-range for this dish. The exact amount can vary.",
+      "confidence": "70"
+    },
+    {
+      "name": "Green salad with feta and possibly zucchini or cucumber",
+      "portion_estimate": "approximate weight of the green portions combined is around 125-346 grams, considering a typical portion size for such salads. The exact amount can vary.",
+      "confidence": "70"
+    },
+    {
+      "name": "Pizza slice with cheese and yellow topping",
+      "portion_estimate": "approximate weight of the pizza slice is around 125-346 grams, considering a typical portion size for such slices. The exact amount can vary.",
+      "confidence": "70"
+    }
+  ]
+}

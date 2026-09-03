@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fish",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "roasted potatoes and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "dark green vegetables (kale or spinach)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

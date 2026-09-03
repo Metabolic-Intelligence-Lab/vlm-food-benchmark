@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "broccoli florets",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "meatballs (likely beef or veal)",
+      "portion_estimate": "100g total (two meatballs)",
+      "confidence": 75
+    },
+    {
+      "name": "sauce (possibly tomato-based) in plastic container",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "condiment packet (likely salt or seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

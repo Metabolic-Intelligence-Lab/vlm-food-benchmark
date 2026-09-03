@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Porridge with oats",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried eggs",
+      "portion_estimate": "2 medium",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll with butter",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Sauteed mushrooms and onions",
+      "portion_estimate": "120 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Coffee cake with frosting",
+      "portion_estimate": "80 grams",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "200 grams (estimated)",
+      "confidence": 75
+    },
+    {
+      "name": "bread roll or garlic bread",
+      "portion_estimate": "60 grams (estimated)",
+      "confidence": 70
+    },
+    {
+      "name": "plums (whole, 3 visible)",
+      "portion_estimate": "120 grams (estimated)",
+      "confidence": 70
+    },
+    {
+      "name": "roasted vegetables (squash, zucchini, and green beans in sauce)",
+      "portion_estimate": "150 grams (estimated)",
+      "confidence": 75
+    },
+    {
+      "name": "mashed potatoes or polenta",
+      "portion_estimate": "180 grams (estimated)",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of soup with grated cheese",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Chopped carrots",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Apricots",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "Cheese and bread",
+      "portion_estimate": "100",
+      "confidence": "70"
+    }
+  ]
+}

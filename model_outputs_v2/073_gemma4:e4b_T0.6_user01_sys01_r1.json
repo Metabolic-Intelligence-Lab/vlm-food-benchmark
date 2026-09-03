@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Scrambled eggs and meat hash with vegetables",
+      "portion_estimate": "300g",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried croquettes or potato dumplings",
+      "portion_estimate": "180g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pan-fried white protein (chicken or fish) with green sauce",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Baked dinner roll or bun",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    }
+  ]
+}

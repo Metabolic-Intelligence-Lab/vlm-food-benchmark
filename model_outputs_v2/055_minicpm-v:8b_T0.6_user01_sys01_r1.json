@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain flatbread with lentil curry",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed vegetables (carrots, zucchini, bell pepper)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Steamed greens with herbs and garlic sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Dairy product (milk or yogurt)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

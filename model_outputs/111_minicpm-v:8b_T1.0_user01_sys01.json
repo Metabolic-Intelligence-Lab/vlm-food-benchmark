@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Baked sweet potato with chili and yogurt sauce",
+      "portion_estimate": "150-200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread bun (unbaked)",
+      "portion_estimate": "80-100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Boiled pasta with butter and/or oil sauce, likely rotini or bow-tie shapes",
+      "portion_estimate": "250-300 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Dish labeled 'Unclear' but possibly a creamy rice dish or dessert",
+      "portion_estimate": "180-240 grams",
+      "confidence": "50"
+    }
+  ]
+}

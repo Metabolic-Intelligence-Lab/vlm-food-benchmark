@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pizza",
+      "portion_estimate": "approximately 100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "approximately 50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Rice with vegetables",
+      "portion_estimate": "approximately 100g",
+      "confidence": "70"
+    }
+  ]
+}

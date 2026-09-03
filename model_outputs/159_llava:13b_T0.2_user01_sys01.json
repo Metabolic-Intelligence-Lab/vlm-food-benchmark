@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with White Sauce and Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Side Salad with Broccoli and Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Meat with Mashed Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Lemon Wedge",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

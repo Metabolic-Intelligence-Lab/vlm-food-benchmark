@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Minestrone Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Polenta",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread or Rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Cake or Pastry",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Potato Salad or Coleslaw",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

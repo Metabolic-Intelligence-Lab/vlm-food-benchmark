@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "roasted pork chop",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "roasted broccoli florets",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "soup (potentially vegetable-based, with broth and possible meat)",
+      "portion_estimate": "250 grams",
+      "confidence": 80
+    },
+    {
+      "name": "packaged spaghetti sauce (canned, visible label suggests tomato-based)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "plain bread roll (or similar baked product)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "water glass",
+      "portion_estimate": "200 milliliters",
+      "confidence": 95
+    }
+  ]
+}

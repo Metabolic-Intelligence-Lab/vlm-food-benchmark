@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "mixed green leafy lettuce (romaine/iceberg-like)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "red cabbage or red-leafed chard",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "chopped cooked chicken breast (appears grilled)",
+      "portion_estimate": "85g",
+      "confidence": 80
+    }
+  ]
+}

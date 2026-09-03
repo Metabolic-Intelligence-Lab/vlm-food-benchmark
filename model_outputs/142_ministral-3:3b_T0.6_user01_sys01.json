@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes or cauliflower mash",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "roasted or boiled beets with possible onion bits",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "baked fish (likely salmon) with herbs",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "small portion of whole-grain bread",
+      "portion_estimate": "30g",
+      "confidence": 75
+    },
+    {
+      "name": "plums (2 visible)",
+      "portion_estimate": "20g",
+      "confidence": 80
+    }
+  ]
+}

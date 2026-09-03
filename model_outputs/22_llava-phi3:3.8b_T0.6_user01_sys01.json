@@ -1,0 +1,35 @@
+{
+  "tray": {
+    "shape": "rectangle",
+    "material": "plastic",
+    "items": [
+      {
+        "type": "bowl",
+        "contents": "green beans"
+      },
+      {
+        "type": "plate",
+        "contents": "rice, carrots, and mushrooms"
+      },
+      {
+        "type": "bread",
+        "material": "wax paper"
+      }
+    ]
+  },
+  "table": {
+    "top": "wooden",
+    "items": [
+      {
+        "shape": "circle",
+        "color": "blue",
+        "text": "SUSHI"
+      }
+    ]
+  },
+  "sauce": {
+    "container": "plastic",
+    "contents": "soy sauce",
+    "position": "right"
+  }
+}

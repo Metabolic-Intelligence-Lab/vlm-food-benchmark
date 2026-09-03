@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rotini pasta (yellow)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "spinach (saut\u00e9ed)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "grilled or baked corn on the cob with butter/seasoning",
+      "portion_estimate": "100g (corn kernel equivalent)",
+      "confidence": 75
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "garlic bread or baguette",
+      "portion_estimate": "80g",
+      "confidence": 70
+    }
+  ]
+}

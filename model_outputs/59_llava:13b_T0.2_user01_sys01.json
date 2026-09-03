@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "salad",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "quiche with spinach and cheese",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "fruit salad",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "brown soup (likely vegetable or lentil soup)",
+      "portion_estimate": "300-400 grams",
+      "confidence": 90
+    },
+    {
+      "name": "grain patty with red sauce (possibly quinoa or lentil)",
+      "portion_estimate": "50-70 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed greens (possibly spinach or broccoli)",
+      "portion_estimate": "50-75 grams",
+      "confidence": 80
+    },
+    {
+      "name": "partially visible white plate with small yellowish item (possibly a cracker or small piece of food)",
+      "portion_estimate": "10-20 grams",
+      "confidence": 60
+    },
+    {
+      "name": "partially visible glass (likely water or another clear beverage)",
+      "portion_estimate": "100-150 ml (uncertain liquid type)",
+      "confidence": 60
+    },
+    {
+      "name": "packaged food item (likely a cracker or biscuit, partially visible)",
+      "portion_estimate": "15-25 grams",
+      "confidence": 70
+    },
+    {
+      "name": "small red-lidded container (likely a small yogurt or sauce)",
+      "portion_estimate": "30-50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "packaged food item (likely a cheese slice or similar, partially visible)",
+      "portion_estimate": "20-30 grams",
+      "confidence": 65
+    }
+  ]
+}

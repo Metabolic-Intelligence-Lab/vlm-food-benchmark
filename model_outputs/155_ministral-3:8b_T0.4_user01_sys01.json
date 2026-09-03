@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese (fettuccine or similar with grated cheese)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "bread slice (whole grain)",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "scrambled eggs with cheese",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetables (carrots, peas, and possibly green beans or snap peas)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    }
+  ]
+}

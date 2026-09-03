@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Fried egg (sunny side up)",
+      "portion_estimate": "55",
+      "confidence": "85"
+    },
+    {
+      "name": "Sauteed spinach with parmesan",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked polenta or cornmeal patty",
+      "portion_estimate": "90",
+      "confidence": "55"
+    },
+    {
+      "name": "Penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll (panino)",
+      "portion_estimate": "60",
+      "confidence": "85"
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": "150",
+      "confidence": "90"
+    }
+  ]
+}

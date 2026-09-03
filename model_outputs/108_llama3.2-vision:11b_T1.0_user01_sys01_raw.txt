@@ -1,0 +1,26 @@
+Based on the provided image, I've identified the following food items:
+
+1. **Spaghetti**
+	* Portion estimate: 150-200g
+	* Confidence: 90
+2. **Meatball**
+	* Portion estimate: 100-150g
+	* Confidence: 80
+3. **Tomato sauce**
+	* Porting estimate: 100-150g
+	* Confidence: 90
+4. **Bread**
+	* Portion estimate: 100-150g
+	* Confidence: 85
+
+Here's the output in the required JSON format:
+
+```json
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_est
+  }
+]
+```

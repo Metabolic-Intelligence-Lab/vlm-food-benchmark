@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "salad with lettuce, blackberries, nuts, and cherry tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "banana (partially peeled)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

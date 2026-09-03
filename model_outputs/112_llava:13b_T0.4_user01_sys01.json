@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "meatball or sausage in sauce with vegetables and breadsticks",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich with ham and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "casserole or baked dish",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sliced vegetables (salad or side dish)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

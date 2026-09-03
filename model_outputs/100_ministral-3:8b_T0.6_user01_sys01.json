@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried or baked pasta shells with cheese",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "mixed chopped vegetables (likely zucchini and bell pepper)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat bread roll (packaged)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

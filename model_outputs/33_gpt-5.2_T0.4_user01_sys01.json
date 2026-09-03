@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato-based sauce",
+      "portion_estimate": "240 g",
+      "confidence": "82"
+    },
+    {
+      "name": "mixed vegetables (peas, carrots, potatoes, mushrooms)",
+      "portion_estimate": "160 g",
+      "confidence": "74"
+    },
+    {
+      "name": "polenta cake with a slice of salami on top",
+      "portion_estimate": "120 g",
+      "confidence": "62"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "78"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "170 g",
+      "confidence": "86"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "200 g",
+      "confidence": "85"
+    }
+  ]
+}

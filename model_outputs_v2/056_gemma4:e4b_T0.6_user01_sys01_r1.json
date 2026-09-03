@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried bread piece (on top plate)",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "Saut\u00e9ed mixed vegetables (mushrooms, peppers)",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried pasta or breadsticks (on bottom plate)",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "Clear beverage (water)",
+      "portion_estimate": "300g",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish fillet",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed vegetables (carrots, peas, mushrooms, zucchini)",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "pasta (gnocchi)",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": "85"
+    }
+  ]
+}

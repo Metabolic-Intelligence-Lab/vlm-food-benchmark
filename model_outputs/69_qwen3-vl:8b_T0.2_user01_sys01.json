@@ -1,0 +1,21 @@
+{
+  "food_items": [
+    {
+      "name": "stuffed green bell peppers",
+      "portion_estimate": 150,
+      "confidence": 70
+    },
+    {
+      "name": "sausage",
+      "portion_estimate": 50,
+      "confidence": 70
+    }
+  ],
+  "beverage_items": [
+    {
+      "name": "uncertain beverage",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

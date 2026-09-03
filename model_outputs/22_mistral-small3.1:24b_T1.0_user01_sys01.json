@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with carrots",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "mixed rice and egg dish",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "roasted sweet potato",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "whole grain flat bread",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250ml",
+      "confidence": 80
+    }
+  ]
+}

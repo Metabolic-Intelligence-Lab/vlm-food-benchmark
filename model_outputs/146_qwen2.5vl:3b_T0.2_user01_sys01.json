@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "crispy bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

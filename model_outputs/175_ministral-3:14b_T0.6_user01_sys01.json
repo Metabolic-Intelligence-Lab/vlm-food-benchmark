@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked or roasted pork chop with sauce",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed green beans with butter or garlic sauce",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed kale with garlic and possibly lemon",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "roasted or saut\u00e9ed potato wedges",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "orange (whole)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    }
+  ]
+}

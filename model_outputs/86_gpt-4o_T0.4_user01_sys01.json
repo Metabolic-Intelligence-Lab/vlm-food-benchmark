@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "macaroni with sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "90 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": "90"
+    }
+  ]
+}

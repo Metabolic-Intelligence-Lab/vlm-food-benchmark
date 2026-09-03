@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "meatball dish with tomato-based sauce and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta with creamy sauce (macaroni or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "bread or bun",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "potatoes or starch",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Lentil and vegetable soup with cheese topping",
+      "portion_estimate": "450g",
+      "confidence": 95
+    },
+    {
+      "name": "Savory pastry slice",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "Saut\u00e9ed peas and carrots",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "Fresh plum",
+      "portion_estimate": "90g",
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "70g",
+      "confidence": 90
+    }
+  ]
+}

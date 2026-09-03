@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed Lettuce",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Tomato Slices",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "Cucumber Slices",
+      "portion_estimate": "30",
+      "confidence": "90"
+    },
+    {
+      "name": "Shredded Carrots",
+      "portion_estimate": "40",
+      "confidence": "90"
+    },
+    {
+      "name": "Seed-Based Snack",
+      "portion_estimate": "20",
+      "confidence": "90"
+    }
+  ]
+}

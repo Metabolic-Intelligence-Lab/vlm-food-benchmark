@@ -1,0 +1,9 @@
+{
+"plates":[{"type":"rectangle","color":"white"},{"type":"square","color":"white"},{"type":"oval","color":"white"}],
+"food_items":[{"name":"pasta","quantity":"1 cup"},{"name":"apple","quantity":"1 piece"},{"name":"cheese","quantity":"2 cubes"},{"name":"sauce","quantity":"1 tbsp"},{"name":"bread","quantity":"1 piece"}],
+"tablecloth":[{"color":"white"},{"color":"beige"},{"color":"cream-colored"}],
+"position":[0.2,0.65,"bottom left of plate and below cheese block"),(0.28,0.74,"the small slice of parmesan cheese"),(0.37,0.91,"the square white plate with the piece of apple on it"),
+"relative_positions":[{"plate":"top left","food":"pasta"},{"plate":"bottom right","food":"sauce and bread"}],
+"countries":[],
+"international_locations":[]
+}

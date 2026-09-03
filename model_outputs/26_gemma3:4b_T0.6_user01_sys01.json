@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Chicken",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "Green Leafy Vegetables",
+      "portion_estimate": "75g",
+      "confidence": 70
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250ml",
+      "confidence": 90
+    }
+  ]
+}

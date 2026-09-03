@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "150-200g",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "100-150g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50-75g",
+      "confidence": "60"
+    },
+    {
+      "name": "yogurt/pudding",
+      "portion_estimate": "50-100g",
+      "confidence": "50"
+    }
+  ]
+}

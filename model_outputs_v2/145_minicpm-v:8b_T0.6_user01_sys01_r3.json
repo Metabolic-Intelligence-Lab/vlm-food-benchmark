@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cauliflower",
+      "portion_estimate": "uncertain, about half a plate full",
+      "confidence": "50"
+    },
+    {
+      "name": "carrot sticks with hummus dip",
+      "portion_estimate": "about one quarter of the plate",
+      "confidence": "60"
+    },
+    {
+      "name": "scrambled eggs, spinach and cheese omelette",
+      "portion_estimate": "uncertain, about half a plate full",
+      "confidence": "50"
+    },
+    {
+      "name": "toasted whole grain English muffin",
+      "portion_estimate": "about one quarter of the plate",
+      "confidence": "60"
+    },
+    {
+      "name": "le Polpine Greek yogurt, blueberry flavor",
+      "portion_estimate": "uncertain, about half a cup full",
+      "confidence": "50"
+    },
+    {
+      "name": "baked beans on toast with sprinkled cheese",
+      "portion_estimate": "about one quarter of the plate",
+      "confidence": "60"
+    }
+  ]
+}

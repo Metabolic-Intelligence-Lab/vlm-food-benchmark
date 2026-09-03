@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "savory pie or quiche slice",
+      "portion_estimate": "150-200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "mini baguette or roll",
+      "portion_estimate": "30-50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "soup in bowl (likely vegetable or chicken soup)",
+      "portion_estimate": "250-300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "100-120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150-180 grams",
+      "confidence": 80
+    }
+  ]
+}

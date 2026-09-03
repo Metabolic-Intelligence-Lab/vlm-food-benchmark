@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetables (carrots, peas, bread/roll)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pizza with green herbs (possibly basil) and grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "mango",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup or stew",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread (rolls or small loaves)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "chicken breast with spinach and sauce/dressing",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "shredded lettuce or leafy greens (garnish)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

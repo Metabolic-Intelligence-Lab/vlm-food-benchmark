@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mixed greens with chickpeas and lemon dressing",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "quinoa or couscous with roasted vegetables",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "grilled chicken breast with herb topping",
+      "portion_estimate": "180g",
+      "confidence": 80
+    },
+    {
+      "name": "roasted sweet potato cubes",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt (plain, possibly Greek) with fruit",
+      "portion_estimate": "uncertain (container size unclear)",
+      "confidence": 50
+    },
+    {
+      "name": "packaged fruit (likely orange or mandarin segments)",
+      "portion_estimate": "100g",
+      "confidence": 70
+    }
+  ]
+}

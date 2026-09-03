@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "spaghetti with red sauce",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "green vegetables (possibly spinach or kale)",
+      "portion_estimate": "50g",
+      "confidence": "40"
+    },
+    {
+      "name": "breaded meat patty",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    }
+  ]
+}

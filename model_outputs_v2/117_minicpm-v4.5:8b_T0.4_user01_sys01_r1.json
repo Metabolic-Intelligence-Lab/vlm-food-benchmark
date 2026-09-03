@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup (likely spinach or vegetable-based)",
+      "portion_estimate": "350g",
+      "confidence": "90"
+    },
+    {
+      "name": "small roll or dinner roll",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt (Yomo brand)",
+      "portion_estimate": "125g",
+      "confidence": "95"
+    },
+    {
+      "name": "mashed potatoes with gravy",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "stuffed pastry or dumpling (with green crust and meat filling)",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    }
+  ]
+}

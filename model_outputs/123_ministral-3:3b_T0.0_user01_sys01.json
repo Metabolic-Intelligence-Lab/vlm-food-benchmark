@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200ml (approx. 20g)",
+      "confidence": 90
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "fried or roasted potatoes (with some apple slices)",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "small piece of fried egg or omelette",
+      "portion_estimate": "30g",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "tomatoes",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "20",
+      "confidence": 90
+    },
+    {
+      "name": "ham",
+      "portion_estimate": "30",
+      "confidence": 80
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "30",
+      "confidence": 85
+    },
+    {
+      "name": "onions",
+      "portion_estimate": "10",
+      "confidence": 60
+    }
+  ]
+}

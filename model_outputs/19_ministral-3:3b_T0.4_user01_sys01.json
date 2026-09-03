@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried fish with breading and mixed vegetables (likely zucchini or green beans)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "crispy fried potatoes or sweet potato wedges",
+      "portion_estimate": "100-150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "50-70 grams",
+      "confidence": 85
+    },
+    {
+      "name": "orange (whole)",
+      "portion_estimate": "175-185 grams",
+      "confidence": 95
+    },
+    {
+      "name": "water (from transparent glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

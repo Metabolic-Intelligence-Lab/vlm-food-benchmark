@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "220",
+      "confidence": 80
+    },
+    {
+      "name": "baked vegetable medley (carrots, peas, potatoes, zucchini, eggplant)",
+      "portion_estimate": "150",
+      "confidence": 65
+    },
+    {
+      "name": "vegetable and cheese patty topped with tomato slice",
+      "portion_estimate": "100",
+      "confidence": 55
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "200",
+      "confidence": 70
+    }
+  ]
+}

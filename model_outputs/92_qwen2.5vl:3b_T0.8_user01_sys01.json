@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "1 piece",
+      "confidence": "80"
+    },
+    {
+      "name": "Vegetable Soup",
+      "portion_estimate": "approx 200 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Roasted Potatoes",
+      "portion_estimate": "approx 150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Vegetable Roll",
+      "portion_estimate": "approx 100 grams",
+      "confidence": "70"
+    }
+  ]
+}

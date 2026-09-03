@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken pieces",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta or rice with meat sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "soup (tomato-based)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "vegetable dish (saut\u00e9ed spinach)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "sauce (ketchup)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "nuts or seeds (peanuts)",
+      "portion_estimate": "uncertain",
+      "confidence": 68
+    },
+    {
+      "name": "roll or bread item",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    }
+  ]
+}

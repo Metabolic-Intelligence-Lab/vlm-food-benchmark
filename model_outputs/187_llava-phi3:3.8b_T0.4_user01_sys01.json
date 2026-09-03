@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "meatballs",
+      "portion_estimate": "3 pieces",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "1 piece",
+      "confidence": "85"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "2 cups",
+      "confidence": "90"
+    }
+  ]
+}

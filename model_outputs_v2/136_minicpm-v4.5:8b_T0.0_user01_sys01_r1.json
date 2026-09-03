@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (rigatoni)",
+      "portion_estimate": "200-250 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed vegetables (peas, carrots, green beans, zucchini)",
+      "portion_estimate": "100-150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "tomato-based sauce",
+      "portion_estimate": "100-150 grams",
+      "confidence": "75"
+    }
+  ]
+}

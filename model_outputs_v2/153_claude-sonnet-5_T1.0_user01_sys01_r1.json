@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat penne pasta with grated cheese",
+      "portion_estimate": "160",
+      "confidence": "80"
+    },
+    {
+      "name": "sauteed green beans",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "vegetable frittata (with zucchini and bell pepper)",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "whole pear",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "uncertain wrapped item, possibly cheese portion",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

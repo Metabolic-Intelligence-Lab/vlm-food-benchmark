@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "yellow pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "blue rice",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

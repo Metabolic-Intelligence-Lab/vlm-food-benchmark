@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce and cheese",
+      "portion_estimate": "200-250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed vegetable medley (zucchini, potatoes, onions)",
+      "portion_estimate": "100-120 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    }
+  ]
+}

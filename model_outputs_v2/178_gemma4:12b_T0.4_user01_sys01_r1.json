@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with herbs",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Herb-crusted fish fillet",
+      "portion_estimate": "130g",
+      "confidence": "95"
+    },
+    {
+      "name": "Saut\u00e9ed mushrooms or roasted vegetables",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "70g",
+      "confidence": "95"
+    },
+    {
+      "name": "Butter or spread packet",
+      "portion_estimate": "15g",
+      "confidence": "75"
+    }
+  ]
+}

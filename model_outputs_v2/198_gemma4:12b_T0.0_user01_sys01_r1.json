@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "roasted sweet potato",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked rice",
+      "portion_estimate": "200g",
+      "confidence": "95"
+    },
+    {
+      "name": "cooked white fish",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    }
+  ]
+}

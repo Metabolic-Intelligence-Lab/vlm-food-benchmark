@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "salad",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "scallops",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "tomato garnish",
+      "portion_estimate": "10 grams",
+      "confidence": 70
+    },
+    {
+      "name": "cherry tomato",
+      "portion_estimate": "10 grams",
+      "confidence": 70
+    },
+    {
+      "name": "purple grape",
+      "portion_estimate": "20 grams",
+      "confidence": 90
+    }
+  ]
+}

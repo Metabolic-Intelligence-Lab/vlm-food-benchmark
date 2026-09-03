@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried cutlets, uncertain type",
+      "portion_estimate": "120 grams",
+      "confidence": "55"
+    },
+    {
+      "name": "roasted diced potatoes with herbs",
+      "portion_estimate": "160 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked leafy greens",
+      "portion_estimate": "120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "small orange fruits, uncertain type",
+      "portion_estimate": "120 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": "90"
+    }
+  ]
+}

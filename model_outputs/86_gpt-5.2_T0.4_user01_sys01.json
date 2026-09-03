@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grilled salmon fillet",
+      "portion_estimate": "140 g",
+      "confidence": "80"
+    },
+    {
+      "name": "rigatoni pasta in creamy/yellow sauce (possibly cheese or butter-based) with small broccoli pieces",
+      "portion_estimate": "220 g",
+      "confidence": "65"
+    },
+    {
+      "name": "mashed potatoes (rough mash)",
+      "portion_estimate": "170 g",
+      "confidence": "70"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    }
+  ]
+}

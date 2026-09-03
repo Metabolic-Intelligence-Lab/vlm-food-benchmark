@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with mushrooms and tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Rice salad with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread roll (unspecified type)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

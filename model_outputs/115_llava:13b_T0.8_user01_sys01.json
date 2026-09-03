@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rigatoni pasta with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Salad (mixed greens or lettuce with vegetables and dressing)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Meatballs in marinara sauce with bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Pasta (spaghetti or fettuccine) with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

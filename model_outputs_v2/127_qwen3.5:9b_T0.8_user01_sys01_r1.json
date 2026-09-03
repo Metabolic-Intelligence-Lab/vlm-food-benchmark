@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Gnocchi with tomato sauce, grated cheese (likely Parmesan), and pepper",
+      "portion_estimate": 300,
+      "confidence": 92
+    },
+    {
+      "name": "Mixed green salad with chopped tomatoes, white vegetables (possibly fennel or onion), and dressing",
+      "portion_estimate": 150,
+      "confidence": 88
+    },
+    {
+      "name": "Packaged sliced cheese (label indicates 'FORMAGGIO FRESCO', likely fresh mozzarella)",
+      "portion_estimate": 40,
+      "confidence": 90
+    },
+    {
+      "name": "Whole banana",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Packaged bread rolls (approx. 2\u20133 small rolls)",
+      "portion_estimate": 80,
+      "confidence": 75
+    }
+  ]
+}

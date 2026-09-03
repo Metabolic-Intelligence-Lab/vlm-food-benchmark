@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta salad",
+      "portion_estimate": "uncertain, approximately 200g per serving",
+      "confidence": "65"
+    },
+    {
+      "name": "pepperoni slices",
+      "portion_estimate": "uncertain, approximately 30g per slice",
+      "confidence": "70"
+    },
+    {
+      "name": "carrot pieces",
+      "portion_estimate": "uncertain, approximately 15-20g each",
+      "confidence": "60"
+    }
+  ]
+}

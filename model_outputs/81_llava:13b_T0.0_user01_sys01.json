@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "spinach dish",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "30g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "diced ham (or cooked pork)",
+      "portion_estimate": "30g",
+      "confidence": 85
+    },
+    {
+      "name": "diced tomatoes (canned or fresh)",
+      "portion_estimate": "60g",
+      "confidence": 80
+    },
+    {
+      "name": "carrot pieces",
+      "portion_estimate": "20g",
+      "confidence": 85
+    },
+    {
+      "name": "black olives (sliced)",
+      "portion_estimate": "10g",
+      "confidence": 80
+    },
+    {
+      "name": "diced red bell pepper",
+      "portion_estimate": "15g",
+      "confidence": 75
+    },
+    {
+      "name": "white cheese chunks (or cubed mozzarella)",
+      "portion_estimate": "15g",
+      "confidence": 70
+    }
+  ]
+}

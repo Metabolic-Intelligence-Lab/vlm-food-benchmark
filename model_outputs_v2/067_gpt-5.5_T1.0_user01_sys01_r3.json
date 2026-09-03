@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "large flour tortilla/flatbread",
+      "portion_estimate": "90 g",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed vegetable filling inside wrap",
+      "portion_estimate": "70 g",
+      "confidence": "55"
+    },
+    {
+      "name": "red/orange sauce inside wrap",
+      "portion_estimate": "20 g",
+      "confidence": "45"
+    }
+  ]
+}

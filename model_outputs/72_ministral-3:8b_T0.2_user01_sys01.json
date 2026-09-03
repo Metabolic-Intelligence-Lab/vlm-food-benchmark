@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish fillet (likely cod or similar white fish)",
+      "portion_estimate": "120-150g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted or boiled carrots (chopped)",
+      "portion_estimate": "100-120g",
+      "confidence": 80
+    },
+    {
+      "name": "lentil stew with carrots and possibly other vegetables",
+      "portion_estimate": "150-180g",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt (in small container, likely 125ml or 150ml)",
+      "portion_estimate": "125-150g",
+      "confidence": 75
+    },
+    {
+      "name": "water (in clear glass)",
+      "portion_estimate": "uncertain (glass appears ~250ml but unclear)",
+      "confidence": 50
+    }
+  ]
+}

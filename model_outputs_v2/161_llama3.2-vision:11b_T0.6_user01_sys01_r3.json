@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with tomato sauce and parmesan",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mixed vegetables (carrots, zucchini, peas, potatoes)",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread (crust)",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Fried chicken nuggets",
+      "portion_estimate": "approximately 50 grams per piece, up to 120g total (based on an average size)",
+      "confidence": "75"
+    },
+    {
+      "name": "Roasted potatoes with seasonings",
+      "portion_estimate": "uncertain, potentially about half a cup or more depending on the serving size",
+      "confidence": "65"
+    },
+    {
+      "name": "Steamed spinach leaves",
+      "portion_estimate": "approximately 10-20 grams per portion based on common plate sizes",
+      "confidence": "85"
+    },
+    {
+      "name": "Whole grain roll or bread bun, plain with no visible toppings or spreads",
+      "portion_estimate": "uncertain but could be around half a standard dinner roll size (1.7 ounces/49 grams based on average adult portions)",
+      "confidence": "60"
+    },
+    {
+      "name": "Clear glass of water or clear liquid drink, possibly still water in plastic cup",
+      "portion_estimate": "approximately 250-300 ml total (based on a standard disposable coffee-size paper cup size) but exact weight is uncertain since it's not directly measured from the container itself.",
+      "confidence": "70"
+    },
+    {
+      "name": "Small bowl of dried apricots and other fruits or nuts",
+      "portion_estimate": "uncertain, potentially 1-2 pieces per serving size. If using a standard fruit bag as guide (common grocery store bags with multiple sizes), this could be up to two servings each but exact weight is indeterminate due to the unclear count of items within.",
+      "confidence": "50"
+    }
+  ]
+}

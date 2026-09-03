@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with red sauce",
+      "portion_estimate": 250,
+      "confidence": 90
+    },
+    {
+      "name": "Watermelon slice",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Steamed spinach or similar leafy green vegetable",
+      "portion_estimate": 80,
+      "confidence": 90
+    },
+    {
+      "name": "Fried breaded cutlet (e.g., chicken patty)",
+      "portion_estimate": 120,
+      "confidence": 85
+    },
+    {
+      "name": "Water in glass",
+      "portion_estimate": 200,
+      "confidence": 95
+    }
+  ]
+}

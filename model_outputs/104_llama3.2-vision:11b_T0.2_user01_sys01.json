@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "250g",
+      "confidence": "80"
+    },
+    {
+      "name": "Peas and Carrots",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }
+  ]
+}

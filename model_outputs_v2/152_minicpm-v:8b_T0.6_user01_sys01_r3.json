@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "A slice of quiche",
+      "portion_estimate": "uncertain, approximately a quarter to half portion based on plate size.",
+      "confidence": "60"
+    },
+    {
+      "name": "Boiled potatoes with green leafy vegetables and diced carrot chunks",
+      "portion_estimate": "uncertain, possibly around 150 grams for the entire pile of chopped veggies",
+      "confidence": "70"
+    },
+    {
+      "name": "A bowl of pasta noodles mixed with raisins or currants, sprinkled with grated cheese",
+      "portion_estimate": "approximately a quarter to half portion based on plate size.",
+      "confidence": "65"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "uncertain, possibly around 10-20 grams for each plum depending on the size. Total could be estimated at approximately 80-100g if all are similar in size.",
+      "confidence": "50"
+    },
+    {
+      "name": "A roll",
+      "portion_estimate": "uncertain, possibly around a quarter to half portion based on plate size.",
+      "confidence": "65"
+    }
+  ]
+}

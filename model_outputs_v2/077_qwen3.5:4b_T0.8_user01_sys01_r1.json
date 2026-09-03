@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "peanuts with green scallions",
+      "portion_estimate": "140",
+      "confidence": 85
+    },
+    {
+      "name": "grilled fish fillets (white fish)",
+      "portion_estimate": "160",
+      "confidence": 90
+    },
+    {
+      "name": "roasted broccoli or cauliflower with cheese",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "white bread bun in wrapper",
+      "portion_estimate": "45",
+      "confidence": 90
+    },
+    {
+      "name": "plums (3 pieces)",
+      "portion_estimate": "120",
+      "confidence": 85
+    }
+  ]
+}

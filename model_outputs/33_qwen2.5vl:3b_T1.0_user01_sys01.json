@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "concrete",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": "75"
+    },
+    {
+      "name": "unidentifiable",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "unidentifiable",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    },
+    {
+      "name": "unidentifiable",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "unidentifiable",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

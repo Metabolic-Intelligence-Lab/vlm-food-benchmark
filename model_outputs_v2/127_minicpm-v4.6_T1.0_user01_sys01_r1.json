@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grated cheese on gnudi pasta",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "fresh salad with vegetables and tomatoes",
+      "portion_estimate": "200 g",
+      "confidence": 90
+    },
+    {
+      "name": "a banana",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "packaged bread rolls (buns)",
+      "portion_estimate": "100 g",
+      "confidence": 85
+    },
+    {
+      "name": "packaged cheese or butter",
+      "portion_estimate": "10 g",
+      "confidence": 95
+    }
+  ]
+}

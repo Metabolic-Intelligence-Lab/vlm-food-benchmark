@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "beef or pork steak (pan-seared)",
+      "portion_estimate": "180-200g",
+      "confidence": 85
+    },
+    {
+      "name": "brussels sprouts (roasted)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "carrots (roasted)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "sliced lemon wedge",
+      "portion_estimate": "10g",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll (plain)",
+      "portion_estimate": "60-70g",
+      "confidence": 80
+    },
+    {
+      "name": "beef or vegetable stew (in bowl)",
+      "portion_estimate": "300-350g",
+      "confidence": 75
+    },
+    {
+      "name": "plums (2 whole)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    }
+  ]
+}

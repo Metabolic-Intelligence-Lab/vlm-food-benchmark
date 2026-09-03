@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "230 g",
+      "confidence": "84"
+    },
+    {
+      "name": "cooked leafy greens (spinach/chard)",
+      "portion_estimate": "90 g",
+      "confidence": "72"
+    },
+    {
+      "name": "breaded fried cutlet/patty (uncertain type)",
+      "portion_estimate": "85 g",
+      "confidence": "62"
+    },
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "220 g",
+      "confidence": "80"
+    },
+    {
+      "name": "sparkling water (in glass)",
+      "portion_estimate": "250 g",
+      "confidence": "68"
+    }
+  ]
+}

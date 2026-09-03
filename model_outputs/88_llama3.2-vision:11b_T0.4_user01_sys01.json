@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "brown pasta dish with cheese",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "slice of omelette with mushrooms",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "peas and rice",
+      "portion_estimate": "50g",
+      "confidence": 60
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50g",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Carrots on a plate with garlic and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Lentils mixed with carrots in a bowl",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt cup (Fior di Latte)",
+      "portion_estimate": "150g approx.",
+      "confidence": 80
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": "uncertain, possibly full",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with meat or legume base and chunks",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Cooked peas and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Crackers or bread rolls (packets)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Condiment or spread (plastic container)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

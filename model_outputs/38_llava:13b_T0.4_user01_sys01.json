@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Baked potatoes",
+      "portion_estimate": "200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Swedish meatballs",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    }
+  ]
+}

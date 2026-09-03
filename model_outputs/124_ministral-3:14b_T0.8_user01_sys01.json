@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken pieces (breaded)",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "potato (whole, possibly boiled or baked)",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "chicken soup with meat, carrots, and what appears to be seasoned broth",
+      "portion_estimate": "350",
+      "confidence": "85"
+    },
+    {
+      "name": "fried food (possibly chicken nuggets or a similar item)",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "lemon wedge (partial)",
+      "portion_estimate": "15",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with carrot",
+      "portion_estimate": "uncertain, likely a serving of spaghetti and carrots (e.g., around 150g-200g)",
+      "confidence": "60"
+    },
+    {
+      "name": "watermelon wedge",
+      "portion_estimate": "uncertain but possibly half a watermelon slice (e.g., around 80g-100g)",
+      "confidence": "70"
+    },
+    {
+      "name": "spinach with fried patty",
+      "portion_estimate": "uncertain, likely portion of spinach and patty combined (e.g., around 120g-150g)",
+      "confidence": "65"
+    }
+  ]
+}

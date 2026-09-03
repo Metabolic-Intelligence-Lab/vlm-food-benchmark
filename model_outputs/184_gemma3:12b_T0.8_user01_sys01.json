@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "baked potato with toppings",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed greens salad with dressing",
+      "portion_estimate": "80",
+      "confidence": "85"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "40",
+      "confidence": "70"
+    }
+  ]
+}

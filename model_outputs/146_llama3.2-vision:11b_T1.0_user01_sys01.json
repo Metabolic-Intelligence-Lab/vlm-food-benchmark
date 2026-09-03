@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "creamy pasta dish with parmesan",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "similar pasta dish with parmesan",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "crackers (wheat thins or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

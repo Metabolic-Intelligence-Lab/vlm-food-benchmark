@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "steamed yellow bread or dumpling",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked dark leafy greens (e.g., spinach)",
+      "portion_estimate": "130g",
+      "confidence": "95"
+    },
+    {
+      "name": "golden-brown fried patty or croquette",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "second golden-brown fried patty or croquette",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "fried snacks in plastic wrapper",
+      "portion_estimate": "80g",
+      "confidence": "80"
+    },
+    {
+      "name": "red spice or seasoning packet",
+      "portion_estimate": "10g",
+      "confidence": "90"
+    }
+  ]
+}

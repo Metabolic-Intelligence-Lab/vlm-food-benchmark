@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green salad",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "penne pasta with creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "clear glass drink",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "white cup drink",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

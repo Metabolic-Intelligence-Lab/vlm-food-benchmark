@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato-based meat sauce (rag\u00f9)",
+      "portion_estimate": "300 g",
+      "confidence": "72"
+    },
+    {
+      "name": "broccoli with shredded cheese",
+      "portion_estimate": "140 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mashed potatoes (or potato puree)",
+      "portion_estimate": "220 g",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "78"
+    },
+    {
+      "name": "whole apple",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    }
+  ]
+}

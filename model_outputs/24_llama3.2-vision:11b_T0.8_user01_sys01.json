@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green pasta with a white sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Sliced carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Orange slices",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Red apple",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

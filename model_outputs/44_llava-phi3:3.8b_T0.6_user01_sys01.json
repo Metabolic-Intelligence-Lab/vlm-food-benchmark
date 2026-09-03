@@ -1,0 +1,44 @@
+{
+  "tray": [
+    {
+      "type": "plate",
+      "contents": [
+        {
+          "name": "fried potatoes with cheese",
+          "quantity": "1 portion"
+        },
+        {
+          "name": "red tomato slices",
+          "quantity": "3 pieces"
+        }
+      ]
+    },
+    {
+      "type": "bread roll",
+      "contents": [
+        {
+          "name": "white bread roll",
+          "quantity": "1 piece"
+        }
+      ],
+      "bag": {
+        "color": "green",
+        "text": "Krispy Kreme Doughnuts"
+      }
+    },
+    {
+      "type": "cup",
+      "contents": [
+        {
+          "name": "glass of water",
+          "quantity": "1 portion"
+        }
+      ]
+    }
+  ],
+  "location": {
+    "x": 0.59,
+    "y": 0.46
+  },
+  "text": ""
+}

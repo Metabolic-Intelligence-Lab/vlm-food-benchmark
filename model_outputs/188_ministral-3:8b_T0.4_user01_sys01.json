@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup with vegetables and meatballs",
+      "portion_estimate": "450 grams",
+      "confidence": 75
+    },
+    {
+      "name": "saut\u00e9ed or boiled greens (likely kale or collard greens)",
+      "portion_estimate": "150 grams",
+      "confidence": 70
+    },
+    {
+      "name": "brown bread roll or flatbread",
+      "portion_estimate": "80 grams",
+      "confidence": 65
+    }
+  ]
+}

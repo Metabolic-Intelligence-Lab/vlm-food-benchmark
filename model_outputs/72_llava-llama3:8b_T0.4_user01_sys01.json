@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "brown rice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "black beans",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

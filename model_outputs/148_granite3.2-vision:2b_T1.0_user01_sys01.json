@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "black rice",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "orange fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "purple spherical object",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "80g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta Salad",
+      "portion_estimate": "120g",
+      "confidence": "60"
+    }
+  ],
+  "tableware": [
+    {
+      "item": "Soup spoon",
+      "material": "Metal",
+      "color": "Silver"
+    },
+    {
+      "item": "Plate",
+      "material": "Ceramic",
+      "color": "White"
+    }
+  ],
+  "condiments": [
+    {
+      "name": "Dressing",
+      "container_type": "Plastic cup",
+      "quantity": "100g"
+    },
+    {
+      "name": "Butter",
+      "container_type": "Plastic container",
+      "quantity": "50g"
+    }
+  ],
+  "drinks": [
+    {
+      "item": "Glass of water",
+      "material": "Ceramic",
+      "color": "Clear"
+    },
+    {
+      "item": "Plastic cup",
+      "material": "Plastic",
+      "color": "White"
+    }
+  ]
+}

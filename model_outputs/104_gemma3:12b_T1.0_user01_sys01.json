@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "beef stew",
+      "portion_estimate": "250",
+      "confidence": "80"
+    },
+    {
+      "name": "dinner roll",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed vegetables (peas, carrots)",
+      "portion_estimate": "150",
+      "confidence": "85"
+    }
+  ]
+}

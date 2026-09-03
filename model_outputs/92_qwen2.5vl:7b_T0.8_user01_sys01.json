@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "crumbed food",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    }
+  ]
+}

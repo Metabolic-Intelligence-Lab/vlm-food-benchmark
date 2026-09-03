@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "roasted or mashed beet salad with shredded carrots and red cabbage",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "tomato-based penne pasta with herbs and possibly meatballs or pieces of meat",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "fried breaded cutlet (possibly veal or pork) with tomato sauce",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "baked bun (possibly garlic or plain)",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "sparkling water (clear, possibly unsweetened)",
+      "portion_estimate": "250ml",
+      "confidence": 90
+    },
+    {
+      "name": "salt and pepper packets (uncertain exact type)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with grated parmesan cheese",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "plums (whole, 3 pieces)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "lasagna with tomato meat sauce",
+      "portion_estimate": "220",
+      "confidence": 75
+    },
+    {
+      "name": "mixed vegetable side (green beans and diced potatoes/carrots)",
+      "portion_estimate": "100",
+      "confidence": 65
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "180",
+      "confidence": 80
+    }
+  ]
+}

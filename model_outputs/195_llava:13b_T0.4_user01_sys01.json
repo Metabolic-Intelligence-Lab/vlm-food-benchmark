@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "meat-based pasta dish",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "breaded meat",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce (spaghetti or penne)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt-based dessert/snack (strawberry flavored)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "potatoes with creamy sauce/melted cheese topping",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meat patty with tomato sauce and leafy green garnish (arugula or basil)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

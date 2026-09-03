@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "name": "salad",
+      "portion_size": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "pasta",
+      "portion_size": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "leafy greens",
+      "portion_size": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "yogurt cup",
+      "portion_size": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_size": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "beverage",
+      "portion_size": "250g",
+      "confidence": 90
+    }
+  ]
+}

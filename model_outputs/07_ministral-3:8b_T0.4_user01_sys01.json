@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat roll (single)",
+      "portion_estimate": "60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt (single-serve container, ~170g)",
+      "portion_estimate": "170 grams",
+      "confidence": 95
+    },
+    {
+      "name": "fried cutlet (e.g., chicken or vegetable)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "bean/chickpea soup with cheese",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed greens salad with shredded carrots",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    }
+  ]
+}

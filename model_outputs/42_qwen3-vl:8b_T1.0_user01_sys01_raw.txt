@@ -1,0 +1,23 @@
+To determine the number of objects described in the given string, we can analyze the structure of the input. The description is formatted as a list of items separated by commas, with the last item preceded by the word "and". 
+
+### Approach
+1. **Problem Analysis**: The input string is structured as "item1, item2, item3, and item4". The commas serve as separators between the items, and the word "and" is used before the last item. 
+2. **Key Insight**: Each comma in the string marks the end of one item and the beginning of the next. Thus, the total number of items is equal to the number of commas plus one.
+3. **Algorithm Selection**: 
+   - Count the number of commas in the input string.
+   - Add 1 to this count to get the total number of items.
+
+### Solution Code
+```python
+description = input().strip()
+comma_count = description.count(',')
+print(comma_count + 1)
+```
+
+### Explanation
+1. **Input Handling**: The input string is read and stripped of leading/trailing whitespace to handle any unintended spaces.
+2. **Comma Counting**: The `count` method is used to count how many times the comma character (`,`) appears in the string. In the given example, there are three commas.
+3. **Result Calculation**: Since each comma separates one item from the next, the total number of items is the number of commas plus one (i.e., `3 + 1 = 4`).
+4. **Output**: The result is printed, which gives the count of objects described in the input string.
+
+This approach efficiently calculates the number of items by leveraging the structure of the input string, ensuring correctness for the given format. The solution is optimal with a time complexity of O(n), where n is the length of the input string, as counting commas is a linear operation.

@@ -1,0 +1,32 @@
+{
+  "plate1": {
+    "food": "Spaghetti",
+    "color": "Orange",
+    "weight": "500g",
+    "location": "Top left"
+  },
+  "plate2": {
+    "food": "French fries and a burger patty",
+    "color": "Golden brown",
+    "weight": "350g",
+    "location": "Bottom left"
+  },
+  "glass1": {
+    "contents": "Ice water in a glass cup on a tray with a small amount of ice",
+    "size": "Medium"
+  },
+  "tray": {
+    "material": "Silver plastic",
+    "shape": "Rectangular",
+    "items": [
+      {
+        "item": "Spaghetti",
+        "quantity": "1 portion"
+      },
+      {
+        "item": "French fries and a burger patty",
+        "quantity": "1 portion"
+      }
+    ]
+  }
+}

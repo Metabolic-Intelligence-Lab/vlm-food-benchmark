@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "white rice (with grains visible)",
+      "portion_estimate": "uncertain (visual reference suggests approximately 150-200g, but not measurable directly)",
+      "confidence": 70
+    },
+    {
+      "name": "green leafy vegetables (spinach or similar)",
+      "portion_estimate": "uncertain (estimated ~50-80g)",
+      "confidence": 65
+    },
+    {
+      "name": "white beans or similar legumes",
+      "portion_estimate": "uncertain (estimated ~30-50g)",
+      "confidence": 70
+    },
+    {
+      "name": "saut\u00e9ed onions (or similar yellowish vegetables)",
+      "portion_estimate": "uncertain (estimated ~20-30g)",
+      "confidence": 60
+    }
+  ]
+}

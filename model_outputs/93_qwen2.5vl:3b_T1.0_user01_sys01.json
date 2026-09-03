@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Butter",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    }
+  ]
+}

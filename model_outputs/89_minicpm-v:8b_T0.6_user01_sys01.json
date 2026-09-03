@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "steamed chicken breast with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "bread bun",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

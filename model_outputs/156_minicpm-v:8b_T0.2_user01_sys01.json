@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "oatmeal with nuts and fruit",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "pasta salad",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    },
+    {
+      "name": "brussel sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

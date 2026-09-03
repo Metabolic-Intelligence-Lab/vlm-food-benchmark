@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green vegetables (spinach or broccoli)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich and side dish",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bow tie pasta with cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Whole wheat bread",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Scrambled eggs with vegetables",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Mixed beans and peas",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    }
+  ]
+}

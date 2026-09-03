@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "fried potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "grilled chicken breast",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "sliced bread",
+      "portion_estimate": "30",
+      "confidence": "75"
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "10",
+      "confidence": "70"
+    }
+  ]
+}

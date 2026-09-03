@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto sauce and grated cheese",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "steamed cauliflower florets",
+      "portion_estimate": "150",
+      "confidence": 82
+    },
+    {
+      "name": "vegetable and carrot quiche/tart (savory cake with diced carrots)",
+      "portion_estimate": "100",
+      "confidence": 60
+    },
+    {
+      "name": "black plums",
+      "portion_estimate": "120",
+      "confidence": 78
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "whole dinner roll or bun",
+      "portion_estimate": "140g",
+      "confidence": "95"
+    },
+    {
+      "name": "baked slice (possible cake or crumble)",
+      "portion_estimate": "120g",
+      "confidence": "75"
+    },
+    {
+      "name": "baked fish or chicken fillet with green sauce",
+      "portion_estimate": "110g",
+      "confidence": "90"
+    },
+    {
+      "name": "diced, saut\u00e9ed potatoes or plantains",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    }
+  ]
+}

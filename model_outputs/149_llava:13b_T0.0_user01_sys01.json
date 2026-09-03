@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich with meat and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta or noodles with sauce or seasoning",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fruit (plums or blueberries)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "rolls or buns",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

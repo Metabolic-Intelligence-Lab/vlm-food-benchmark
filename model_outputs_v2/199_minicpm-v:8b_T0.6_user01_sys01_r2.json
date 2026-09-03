@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green pasta with pesto",
+      "portion_estimate": "uncertain, approx 150g per serving",
+      "confidence": "70"
+    },
+    {
+      "name": "Baked potato stuffed with green beans and cheese",
+      "portion_estimate": "uncertain, approx 200-300g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green peas",
+      "portion_estimate": "uncertain, approx 150g per serving",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx 60-80g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce and cheese",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "Fried brussels sprouts",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "Vegetable salad",
+      "portion_estimate": "100g",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fries",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meat, possibly lasagna or spaghetti bolognese",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "salad composed of mixed greens and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with orange sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Spinach and egg quiche",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Salad with mixed vegetables (zucchini, cucumber, cabbage)",
+      "portion_estimate": "uncertain",
+      "confidence": 50,
+      "dressing": "white creamy dressing"
+    },
+    {
+      "name": "Orange fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

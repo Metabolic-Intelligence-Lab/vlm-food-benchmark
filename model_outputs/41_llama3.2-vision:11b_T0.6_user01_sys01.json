@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato-based sauce and grated cheese",
+      "portion_estimate": "150g",
+      "confidence": "90-100"
+    },
+    {
+      "name": "Salad with mixed greens, vegetables, and a dressing",
+      "portion_estimate": "100g",
+      "confidence": "90-100"
+    },
+    {
+      "name": "Fruit (berries)",
+      "portion_estimate": "50g",
+      "confidence": "80-90"
+    },
+    {
+      "name": "Bread roll or croissant",
+      "portion_estimate": "50g",
+      "confidence": "70-80"
+    },
+    {
+      "name": "Yogurt or similar dairy product",
+      "portion_estimate": "100g",
+      "confidence": "80-90"
+    }
+  ]
+}

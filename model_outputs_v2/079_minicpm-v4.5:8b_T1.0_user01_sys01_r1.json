@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti pasta with sauce and grated cheese",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pita bread or flatbread with green pesto filling",
+      "portion_estimate": "50-70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "raw white beans (possibly cannellini beans)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "red grapes",
+      "portion_estimate": "60-80 grams",
+      "confidence": 75
+    },
+    {
+      "name": "string cheese (likely string cheese stick)",
+      "portion_estimate": "30-40 grams",
+      "confidence": 60
+    }
+  ]
+}

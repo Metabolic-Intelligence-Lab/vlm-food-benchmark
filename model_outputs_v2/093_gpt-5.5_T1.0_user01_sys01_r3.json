@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked chickpeas",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked white fish fillet pieces",
+      "portion_estimate": "120 g",
+      "confidence": "80"
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "15 g",
+      "confidence": "90"
+    },
+    {
+      "name": "farfalle pasta with tomato sauce and vegetables",
+      "portion_estimate": "250 g",
+      "confidence": "85"
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "plain yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "95"
+    },
+    {
+      "name": "uncertain packaged pale food item",
+      "portion_estimate": "30 g",
+      "confidence": "40"
+    }
+  ]
+}

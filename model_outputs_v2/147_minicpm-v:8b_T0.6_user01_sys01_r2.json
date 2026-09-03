@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Alfredo Sauce",
+      "portion_estimate": "uncertain, approx. 150g - 200g per serving",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread Rolls (Plain)",
+      "portion_estimate": "uncertain, approx. 40g each roll",
+      "confidence": "80"
+    },
+    {
+      "name": "Plums and Red Fruit (possibly Goji Berries or Cherries)",
+      "portion_estimate": "uncertain, approx. 5-10g per piece",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "approx. 200g - 300g for the whole portion on plate",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried Dish with Vegetables (possibly a type of fried fish or meat)",
+      "portion_estimate": "uncertain, approx. 150g per serving",
+      "confidence": "70"
+    }
+  ]
+}

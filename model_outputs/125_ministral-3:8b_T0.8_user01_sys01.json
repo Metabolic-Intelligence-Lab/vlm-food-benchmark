@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "boiled egg (whole)",
+      "portion_estimate": "60 grams",
+      "confidence": 75
+    },
+    {
+      "name": "broth-based soup with chunks of meat/tendon and grated cheese topping",
+      "portion_estimate": "350 grams",
+      "confidence": 70
+    },
+    {
+      "name": "fried or baked dough-based bread roll with a purple filling (likely meat/pickle)",
+      "portion_estimate": "60 grams",
+      "confidence": 75
+    },
+    {
+      "name": "yellow, spoonable sauce or dip (mayonnaise-like)",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "condiment packet (appears to be sugar/sweetener)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "condiment packet (appears to be seasoning/spice)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "clear liquid (water or beverage)",
+      "portion_estimate": "200 ml",
+      "confidence": 65
+    },
+    {
+      "name": "yogurt or cheese cup (red lid)",
+      "portion_estimate": "120 grams",
+      "confidence": 70
+    }
+  ]
+}

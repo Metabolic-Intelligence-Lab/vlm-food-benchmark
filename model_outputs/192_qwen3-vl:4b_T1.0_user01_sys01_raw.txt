@@ -1,0 +1,71 @@
+To determine the number of ways to arrange 8 distinct books on a shelf such that **two specific books are not adjacent**, we can use the principle of complementary counting.
+
+---
+
+### **Step 1: Total Arrangements Without Restrictions**
+
+If there were no restrictions, the total number of arrangements of 8 distinct books is:
+
+$$
+8! = 40320
+$$
+
+---
+
+### **Step 2: Count Arrangements Where the Two Specific Books Are Adjacent**
+
+We treat the two specific books as a single "block" or "entity." This reduces the problem to arranging 7 entities (the block and the other 6 books).
+
+- The number of ways to arrange these 7 entities is:
+  $$
+  7!
+  $$
+- Within the block, the two specific books can be ordered in:
+  $$
+  2! = 2 \text{ ways}
+  $$
+
+So, the total number of arrangements where the two books are **adjacent** is:
+$$
+7! \times 2! = 5040 \times 2 = 10080
+$$
+
+---
+
+### **Step 3: Subtract to Find Non-Adjacent Arrangements**
+
+To find the number of arrangements where the two books are **not adjacent**, subtract the adjacent cases from the total:
+
+$$
+40320 - 10080 = 30240
+$$
+
+---
+
+### **Verification via Combinatorial Method**
+
+Alternatively, we can compute this directly:
+
+- Choose 2 positions out of 8 for the two specific books: $\binom{8}{2} = 28$
+- Subtract the number of adjacent pairs: 7 (since in a line of 8 positions, there are 7 adjacent pairs)
+- So, the number of valid position pairs is:
+  $$
+  28 - 7 = 21
+  $$
+- For each such pair, the remaining 6 books can be arranged in $6!$ ways, and the two specific books can be permuted in $2!$ ways.
+- Total arrangements:
+  $$
+  21 \times 6! \times 2! = 21 \times 720 \times 2 = 30240
+  $$
+
+This confirms the result.
+
+---
+
+### **Conclusion**
+
+The solution provided is **correct**. The number of ways to arrange 8 distinct books such that two specific books are **not adjacent** is:
+
+$$
+\boxed{30240}
+$$

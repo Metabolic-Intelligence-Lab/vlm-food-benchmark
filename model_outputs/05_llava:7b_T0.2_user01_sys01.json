@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Croutons",
+      "portion_estimate": "30 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried Potatoes",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Crispy Chicken Strips",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    }
+  ]
+}

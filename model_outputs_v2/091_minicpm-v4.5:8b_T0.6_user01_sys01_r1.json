@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "soup (likely vegetable or minestrone with cheese topping)",
+      "portion_estimate": "300-350g",
+      "confidence": "90"
+    },
+    {
+      "name": "small roll (bun)",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "white cheese stick (possibly string cheese)",
+      "portion_estimate": "25g",
+      "confidence": "80"
+    },
+    {
+      "name": "Yomo foodservice yogurt (berry flavor)",
+      "portion_estimate": "125g (as labeled)",
+      "confidence": "100"
+    },
+    {
+      "name": "water (in clear cup)",
+      "portion_estimate": "250ml (estimated volume, not weight)",
+      "confidence": "100"
+    },
+    {
+      "name": "chicken strips with lettuce (salad)",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked leafy greens (possibly kale or spinach)",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    }
+  ]
+}

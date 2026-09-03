@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fried meat with sauce",
+      "portion_estimate": "120 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Potatoes with skin on",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Steamed vegetables with sauce",
+      "portion_estimate": "150 g",
+      "confidence": "60"
+    }
+  ]
+}

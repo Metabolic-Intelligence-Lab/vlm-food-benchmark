@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Baked sandwich with greens",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Yoghurt",
+      "portion_estimate": "125 grams",
+      "confidence": "85"
+    }
+  ]
+}

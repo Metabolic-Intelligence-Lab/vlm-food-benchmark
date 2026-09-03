@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green soup with croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sandwich with meat and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mashed potatoes with green onions",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "blue berries",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green penne pasta with parmesan cheese",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baked fish with peas",
+      "portion_estimate": "150 grams",
+      "confidence": 70
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "le Polpine",
+      "portion_estimate": "100 grams",
+      "confidence": 50
+    }
+  ]
+}

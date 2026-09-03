@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Italian Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Calzone with Spinach and Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread Roll (possibly a bun)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta Salad with Pasta, Tomatoes, and Olives",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Sliced Cheese (possibly Provolone)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

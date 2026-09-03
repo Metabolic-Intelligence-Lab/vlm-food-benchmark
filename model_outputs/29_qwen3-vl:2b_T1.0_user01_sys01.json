@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Apple",
+      "portion_estimate": "100 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bun (bread roll)",
+      "portion_estimate": "100 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta (macaroni or penne)",
+      "portion_estimate": "100 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Frittata slice",
+      "portion_estimate": "40 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Vegetable mixture (zucchini, potatoes)",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Beverage (water or juice)",
+      "portion_estimate": "200 g",
+      "confidence": "80"
+    }
+  ]
+}

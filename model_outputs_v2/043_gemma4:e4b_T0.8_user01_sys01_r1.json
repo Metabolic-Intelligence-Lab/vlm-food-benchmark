@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (penne or rigatoni style) with grated cheese",
+      "portion_estimate": "300 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Baked or seared fillet (fish or chicken) with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Chopped mixed vegetables (cucumber, celery, etc.)",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    }
+  ]
+}

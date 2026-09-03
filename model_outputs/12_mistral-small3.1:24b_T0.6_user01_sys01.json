@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried egg on bread",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "french fries",
+      "portion_estimate": "200",
+      "confidence": "95"
+    },
+    {
+      "name": "green leafy vegetable",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "roll in plastic",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "150",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (rigatoni)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "tomatoes",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "25",
+      "confidence": 90
+    },
+    {
+      "name": "feta cheese",
+      "portion_estimate": "30",
+      "confidence": 80
+    },
+    {
+      "name": "tuna salad (with herbs/seasoning)",
+      "portion_estimate": "40",
+      "confidence": 70
+    }
+  ]
+}

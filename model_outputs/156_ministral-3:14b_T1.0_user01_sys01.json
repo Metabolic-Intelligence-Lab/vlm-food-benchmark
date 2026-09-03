@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked salmon fillet with seasoning",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "steamed or roasted brussels sprouts",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "fried rice or rice-like pasta dish (e.g., orzo or risotto)",
+      "portion_estimate": "180g",
+      "confidence": 80
+    },
+    {
+      "name": "fresh banana, partially peeled",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "partially unwrapped bread roll (type uncertain)",
+      "portion_estimate": "60g",
+      "confidence": 70
+    }
+  ]
+}

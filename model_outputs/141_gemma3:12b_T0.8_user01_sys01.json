@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked chickpeas",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "mixed green salad with creamy dressing",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "whole wheat bread roll",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt dessert",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "unidentifiable leafy green vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed beans and shredded carrots in a bowl",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried patty or fritter",
+      "portion_estimate": "60g",
+      "confidence": "75"
+    },
+    {
+      "name": "Fried vegetable or tofu cubes",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Dipping sauce or gravy",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Small reddish cooked food item",
+      "portion_estimate": "40g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat roll or bread",
+      "portion_estimate": "100-120g",
+      "confidence": 85
+    },
+    {
+      "name": "green vegetable soup with grated cheese on top",
+      "portion_estimate": "300-350g",
+      "confidence": 80
+    },
+    {
+      "name": "corned or fried plantain slices",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "corned or fried breaded items (potato cakes or patties)",
+      "portion_estimate": "120-150g",
+      "confidence": 80
+    },
+    {
+      "name": "plain fried plantains or green plantains",
+      "portion_estimate": "80-100g",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt with almonds (from the can)",
+      "portion_estimate": "125g (as per label)",
+      "confidence": 90
+    }
+  ]
+}

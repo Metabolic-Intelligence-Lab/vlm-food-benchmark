@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti (plain, uncooked weight estimate)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "cheese slice (cheddar or similar)",
+      "portion_estimate": "20",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetable and cheese casserole (with carrots, potatoes, and cheese topping)",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "shredded cheese (melted or grated)",
+      "portion_estimate": "30",
+      "confidence": 80
+    },
+    {
+      "name": "peeled and diced carrot or potato mix (cooked)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "pear (whole, with skin)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "sandwich bun (plain, partially wrapped in plastic)",
+      "portion_estimate": "100",
+      "confidence": 75
+    }
+  ]
+}

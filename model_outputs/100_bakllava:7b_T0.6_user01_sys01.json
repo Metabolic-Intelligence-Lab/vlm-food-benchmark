@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "lasagna",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "cucumbers",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "zucchini",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

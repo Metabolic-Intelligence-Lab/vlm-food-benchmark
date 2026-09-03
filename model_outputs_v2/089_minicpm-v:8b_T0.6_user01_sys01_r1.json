@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with butter",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Chickpeas in sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Fish with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

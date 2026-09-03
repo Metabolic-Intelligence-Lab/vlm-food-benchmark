@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "meat (chicken breast or pork cutlet)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "breaded meat patty (burger or meatballs in gravy)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "side salad or greens",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "pickled or cooked vegetables (olives)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

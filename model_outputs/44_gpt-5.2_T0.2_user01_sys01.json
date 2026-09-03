@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "caprese-style salad (tomato slices with fresh mozzarella and anchovy pieces, small mixed salad leaves)",
+      "portion_estimate": "190 g",
+      "confidence": "72"
+    },
+    {
+      "name": "pan-fried diced potatoes",
+      "portion_estimate": "170 g",
+      "confidence": "78"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "80"
+    },
+    {
+      "name": "strawberry yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "250 g",
+      "confidence": "65"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Omelet or fritter base with mixed vegetables (mushrooms, peppers)",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "Sliced processed meat (sausage or ham)",
+      "portion_estimate": "30",
+      "confidence": "85"
+    },
+    {
+      "name": "Spaghetti noodles",
+      "portion_estimate": "200",
+      "confidence": "95"
+    },
+    {
+      "name": "Small bakery roll (bread)",
+      "portion_estimate": "90",
+      "confidence": "90"
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": "170",
+      "confidence": "100"
+    }
+  ]
+}

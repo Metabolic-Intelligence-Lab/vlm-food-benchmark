@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Boiled egg",
+      "portion_estimate": "uncertain, approx. half an average-sized boiled egg",
+      "confidence": "60"
+    },
+    {
+      "name": "Sauerkraut",
+      "portion_estimate": "approx. 1/4 cup (57g)",
+      "confidence": "80"
+    },
+    {
+      "name": "Stuffed grape leaf",
+      "portion_estimate": "uncertain, approx. half a stuffed grape leaf",
+      "confidence": "60"
+    },
+    {
+      "name": "Saut\u00e9ed spinach",
+      "portion_estimate": "approx. 1/4 cup (57g)",
+      "confidence": "80"
+    },
+    {
+      "name": "Puff pastry filled with cheese and spinach",
+      "portion_estimate": "uncertain, approx. half a puff pastry piece",
+      "confidence": "60"
+    },
+    {
+      "name": "Roast chicken breast",
+      "portion_estimate": "approx. 1/4 cup (57g)",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. half a standard-sized bread roll",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "cake with ice cream",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green beans with bacon bits",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

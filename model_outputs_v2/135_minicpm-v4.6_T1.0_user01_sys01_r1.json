@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Baked casserole with dark sauce (e.g., sweet or barbecue)",
+      "portion_estimate": "250 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Potatoes or mashed vegetable side",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Shredded mixed vegetables (e.g., carrots or cabbage)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato-based vegetable sauce (zucchini/eggplant/pepper pieces)",
+      "portion_estimate": "320 g",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked leafy greens (spinach or similar)",
+      "portion_estimate": "120 g",
+      "confidence": "67"
+    },
+    {
+      "name": "breaded stuffed pasta or pastry (uncertain; looks like spinach/cheese-filled)",
+      "portion_estimate": "180 g",
+      "confidence": "52"
+    },
+    {
+      "name": "mixed salad (shredded cabbage with cucumber and purple cabbage)",
+      "portion_estimate": "90 g",
+      "confidence": "72"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt drink or yogurt cup (sealed)",
+      "portion_estimate": "200 g",
+      "confidence": "60"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "250 g",
+      "confidence": "75"
+    }
+  ]
+}

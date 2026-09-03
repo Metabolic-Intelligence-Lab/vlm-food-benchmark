@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto sauce and grated cheese",
+      "portion_estimate": "300 g",
+      "confidence": "78"
+    },
+    {
+      "name": "chickpea and carrot salad (cooked)",
+      "portion_estimate": "180 g",
+      "confidence": "74"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "160 g",
+      "confidence": "82"
+    },
+    {
+      "name": "bread roll (white)",
+      "portion_estimate": "60 g",
+      "confidence": "76"
+    },
+    {
+      "name": "grilled eggplant slice with melted cheese and shredded lettuce (small portion)",
+      "portion_estimate": "70 g",
+      "confidence": "58"
+    }
+  ]
+}

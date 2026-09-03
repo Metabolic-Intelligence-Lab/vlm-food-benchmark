@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fish fillet (breaded/crusted)",
+      "portion_estimate": 100,
+      "confidence": 92
+    },
+    {
+      "name": "Cooked Brussels sprouts",
+      "portion_estimate": 130,
+      "confidence": 89
+    },
+    {
+      "name": "Vegetable and pasta bake mix (carrots, potatoes, beans)",
+      "portion_estimate": 220,
+      "confidence": 85
+    },
+    {
+      "name": "Water",
+      "portion_estimate": 240,
+      "confidence": 95
+    },
+    {
+      "name": "Plums (whole)",
+      "portion_estimate": 120,
+      "confidence": 88
+    }
+  ]
+}

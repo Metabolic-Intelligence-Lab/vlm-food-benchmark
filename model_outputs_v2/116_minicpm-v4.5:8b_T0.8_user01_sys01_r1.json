@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "minestrone soup",
+      "portion_estimate": "400-500 grams",
+      "confidence": 90
+    },
+    {
+      "name": "two slices of whole grain bread",
+      "portion_estimate": "50-60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "cauliflower florets",
+      "portion_estimate": "100-150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "small pastry (possibly spinach quiche slice)",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Greek yogurt (Yomo brand)",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta or rice dish with pesto sauce and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sandwich wrapped in paper",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "potato salad with boiled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

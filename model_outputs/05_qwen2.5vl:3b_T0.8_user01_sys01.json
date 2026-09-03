@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Yellow Soup",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Crispy Chicken Nuggets",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Crispy Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Cereal or Granola in a Wrapper",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Stir-Fried Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

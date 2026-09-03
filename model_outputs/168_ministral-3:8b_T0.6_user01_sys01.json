@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni pasta",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "diced chicken breast",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "diced carrots",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "diced cabbage",
+      "portion_estimate": "30g",
+      "confidence": 75
+    },
+    {
+      "name": "diced potatoes",
+      "portion_estimate": "70g",
+      "confidence": 70
+    }
+  ]
+}

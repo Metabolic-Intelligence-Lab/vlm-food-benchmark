@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bread roll",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "butter pat, wrapped",
+      "portion_estimate": "10",
+      "confidence": 70
+    },
+    {
+      "name": "vegetable and legume soup (minestrone) with grated parmesan",
+      "portion_estimate": "300",
+      "confidence": 75
+    },
+    {
+      "name": "Yomo plain yogurt cup, foodservice, unopened",
+      "portion_estimate": "125",
+      "confidence": 85
+    },
+    {
+      "name": "breaded chicken strips with lettuce salad",
+      "portion_estimate": "120",
+      "confidence": 65
+    },
+    {
+      "name": "cooked sauteed spinach",
+      "portion_estimate": "130",
+      "confidence": 70
+    },
+    {
+      "name": "water, glass (partially filled)",
+      "portion_estimate": "150",
+      "confidence": 55
+    }
+  ]
+}

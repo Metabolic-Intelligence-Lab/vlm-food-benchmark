@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "green peas",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "salad with mixed greens and other vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "orange food (noodles or pasta)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

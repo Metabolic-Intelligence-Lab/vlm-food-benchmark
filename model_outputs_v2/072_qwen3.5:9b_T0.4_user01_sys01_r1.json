@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded fish fillet (likely cod or hake)",
+      "portion_estimate": 150,
+      "confidence": 92
+    },
+    {
+      "name": "Sliced cooked carrots",
+      "portion_estimate": 80,
+      "confidence": 95
+    },
+    {
+      "name": "Lentil stew with vegetables",
+      "portion_estimate": 300,
+      "confidence": 90
+    },
+    {
+      "name": "Still water in glass",
+      "portion_estimate": 250,
+      "confidence": 85
+    },
+    {
+      "name": "Yoplait yogurt cup (mixed fruit)",
+      "portion_estimate": 125,
+      "confidence": 95
+    }
+  ]
+}

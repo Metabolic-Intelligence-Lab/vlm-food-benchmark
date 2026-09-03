@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "beef stew",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "mustard or other spread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "peas and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "crackers or breadsticks",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "butter or other spreadable item",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

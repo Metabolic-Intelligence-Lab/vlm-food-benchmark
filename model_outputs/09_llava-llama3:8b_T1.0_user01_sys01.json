@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "scrambled eggs with bacon bits",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sausage links with cheese sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "golden brown hash browns",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "jelly",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cinnamon rolls (2)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "orange juice",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

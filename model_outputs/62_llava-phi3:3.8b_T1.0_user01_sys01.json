@@ -1,0 +1,43 @@
+{
+  "plate1": {
+    "type": "white",
+    "food": [
+      {
+        "name": "soup",
+        "quantity": "unknown"
+      },
+      {
+        "name": "vegetable patties",
+        "quantity": "large"
+      },
+      {
+        "name": "bread roll",
+        "quantity": "1"
+      }
+    ]
+  },
+  "plate2": {
+    "type": "red",
+    "food": [
+      {
+        "name": "patty",
+        "quantity": "small"
+      }
+    ],
+    "description": "patty"
+  },
+  "item": [
+    {
+      "name": "bread roll",
+      "quantity": "1"
+    },
+    {
+      "name": "plate2",
+      "quantity": "1"
+    },
+    {
+      "name": "plate1",
+      "quantity": "1"
+    }
+  ]
+}

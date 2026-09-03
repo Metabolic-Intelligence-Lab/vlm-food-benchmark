@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Calzone with cheese and spinach",
+      "portion_estimate": "1 piece",
+      "confidence": "50"
+    },
+    {
+      "name": "Sandwich",
+      "portion_estimate": "1 serving",
+      "confidence": "60"
+    }
+  ]
+}

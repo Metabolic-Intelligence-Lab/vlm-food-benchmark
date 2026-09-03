@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked white rice",
+      "portion_estimate": "180 g",
+      "confidence": "82"
+    },
+    {
+      "name": "cooked chicken breast pieces (with herb sauce/seasoning)",
+      "portion_estimate": "120 g",
+      "confidence": "72"
+    },
+    {
+      "name": "roasted Brussels sprouts",
+      "portion_estimate": "110 g",
+      "confidence": "70"
+    },
+    {
+      "name": "dairy dessert cup (panna cotta style, sealed single-serve)",
+      "portion_estimate": "100 g",
+      "confidence": "55"
+    }
+  ]
+}

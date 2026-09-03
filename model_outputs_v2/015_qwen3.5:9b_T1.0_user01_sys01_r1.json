@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": 100,
+      "confidence": 95
+    },
+    {
+      "name": "breaded meatball",
+      "portion_estimate": 60,
+      "confidence": 85
+    },
+    {
+      "name": "baked or steamed cabbage",
+      "portion_estimate": 120,
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": 70,
+      "confidence": 90
+    }
+  ]
+}

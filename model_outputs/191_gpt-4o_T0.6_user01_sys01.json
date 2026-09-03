@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of green soup",
+      "portion_estimate": "300 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "80 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "breaded balls",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "breadsticks package",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "strawberry yogurt container",
+      "portion_estimate": "125 grams",
+      "confidence": "90"
+    }
+  ]
+}

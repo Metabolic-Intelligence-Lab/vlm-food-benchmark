@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pizza",
+      "portion_estimate": "1 slice (~60g)",
+      "confidence": 90
+    },
+    {
+      "name": "Soup with cheese and broccoli",
+      "portion_estimate": "1 bowl (~200g)",
+      "confidence": 85
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "1 roll (~30g)",
+      "confidence": 70
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "1 apple (~150g)",
+      "confidence": 80
+    },
+    {
+      "name": "Bruschetta with vegetables",
+      "portion_estimate": "1 serving (~50g)",
+      "confidence": 75
+    }
+  ]
+}

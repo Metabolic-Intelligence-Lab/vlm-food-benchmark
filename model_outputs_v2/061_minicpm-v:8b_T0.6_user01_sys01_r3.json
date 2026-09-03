@@ -1,0 +1,26 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy Tomato Soup",
+      "portion_estimate": "50-100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mushroom Chicken Omelette with Potatoes",
+      "portion_estimate": "200-300g",
+      "confidence": "80"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "Cappuccino",
+      "portion_estimate": "150ml",
+      "confidence": "65"
+    },
+    {
+      "name": "White Bread Roll",
+      "portion_estimate": "uncertain, approx. 80g",
+      "confidence": "40"
+    }
+  ]
+}

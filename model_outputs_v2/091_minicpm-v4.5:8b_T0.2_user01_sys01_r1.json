@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of vegetable soup with grated cheese",
+      "portion_estimate": "300-350 grams",
+      "confidence": 90
+    },
+    {
+      "name": "small roll or bun",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "container of yogurt (Yomo foodserv vice)",
+      "portion_estimate": "125 grams",
+      "confidence": 100
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200-250 ml (uncertain weight)",
+      "confidence": 60
+    },
+    {
+      "name": "sliced chicken with salad",
+      "portion_estimate": "100-150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "cooked leafy greens (possibly spinach or kale)",
+      "portion_estimate": "100-125 grams",
+      "confidence": 85
+    },
+    {
+      "name": "packaged butter or margarine (unclear if used)",
+      "portion_estimate": "20-30 grams",
+      "confidence": 70
+    }
+  ]
+}

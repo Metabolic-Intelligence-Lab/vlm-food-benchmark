@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with tomato sauce",
+      "portion_estimate": "180 g",
+      "confidence": "85"
+    },
+    {
+      "name": "grated Parmesan-style cheese topping",
+      "portion_estimate": "8 g",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded cutlet or schnitzel",
+      "portion_estimate": "110 g",
+      "confidence": "78"
+    },
+    {
+      "name": "potato wedges",
+      "portion_estimate": "140 g",
+      "confidence": "85"
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "35 g",
+      "confidence": "82"
+    },
+    {
+      "name": "packaged soft cheese spread",
+      "portion_estimate": "100 g",
+      "confidence": "70"
+    },
+    {
+      "name": "wrapped pale vegetable or fruit, possibly leek or banana",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    }
+  ]
+}

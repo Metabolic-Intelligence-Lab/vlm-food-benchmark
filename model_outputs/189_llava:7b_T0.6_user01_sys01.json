@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with chunks of meat and vegetables",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Portion of rice in a bowl",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Green leafy vegetable",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Sauce in a bowl with a spoon in it",
+      "portion_estimate": "100 grams",
+      "confidence": "50"
+    }
+  ]
+}

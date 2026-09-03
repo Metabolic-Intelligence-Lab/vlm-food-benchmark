@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce and Parmesan cheese",
+      "portion_estimate": "180 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Diced potatoes",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Corn on the cob",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Meatball (or vegetable patty)",
+      "portion_estimate": "80 grams",
+      "confidence": 90
+    }
+  ]
+}

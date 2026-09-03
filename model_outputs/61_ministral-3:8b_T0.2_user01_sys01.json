@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy mushroom and potato frittata or quiche",
+      "portion_estimate": "250g",
+      "confidence": 75
+    },
+    {
+      "name": "potato fries or hash browns",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "tomato-based soup (likely tomato bisque or similar)",
+      "portion_estimate": "300g",
+      "confidence": 70
+    },
+    {
+      "name": "unspecified dairy product (likely yogurt or creamy dessert) in small container",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "condiment packet (likely salt or seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

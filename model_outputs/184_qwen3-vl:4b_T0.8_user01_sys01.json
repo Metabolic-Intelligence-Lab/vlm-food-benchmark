@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Bread Roll (wrapped)",
+      "portion_estimate": "35 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Salad Bowl (green salad)",
+      "portion_estimate": "150 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "50 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Fried Food (e.g., chicken or vegetable)",
+      "portion_estimate": "100 grams",
+      "confidence": 65
+    },
+    {
+      "name": "Small Salad Portion (greens and tomatoes)",
+      "portion_estimate": "20 grams",
+      "confidence": 50
+    },
+    {
+      "name": "Plum (dark fruit)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "green leafy vegetable (spinach or kale)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "yellow crumbled cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

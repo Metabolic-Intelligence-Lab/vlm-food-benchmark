@@ -1,0 +1,49 @@
+Here is the food image:
+
+**Food Items:**
+
+*   A bowl of soup with a brownish color and a sprinkle of white powder on top.
+*   A plate of peas and carrots.
+*   A small container of yogurt with a red lid.
+*   A bread roll wrapped in plastic.
+
+**Portion Estimates:**
+
+*   Soup: approximately 250g
+*   Peas and Carrots: approximately 150g
+*   Yogurt: approximately 100g
+*   Bread Roll: approximately 50g
+
+**Confidence Levels:**
+
+*   Soup: 80%
+*   Peas and Carrots: 90%
+*   Yogurt: 70%
+*   Bread Roll: 60%
+
+**Food Items JSON Output:**
+
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "250g",
+      "confidence": "80"
+    },
+    {
+      "name": "Peas and Carrots",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }
+  ]
+}

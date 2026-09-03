@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked asparagus with sauce or seasoning",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "breaded meat with creamy sauce or cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "spinach or greens with bean or lentil dish",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

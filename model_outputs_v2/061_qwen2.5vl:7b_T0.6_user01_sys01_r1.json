@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of pumpkin soup",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "Plate of roasted potatoes",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Fried food (possibly egg or omelette with toppings)",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Pack of yogurt",
+      "portion_estimate": "120",
+      "confidence": 70
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "30",
+      "confidence": 70
+    }
+  ]
+}

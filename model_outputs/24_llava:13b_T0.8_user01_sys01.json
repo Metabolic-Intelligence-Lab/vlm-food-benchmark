@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "meal of mixed vegetables",
+      "portion_estimate": "approximately 150-200 grams depending on type and amount of each vegetable",
+      "confidence": "70"
+    },
+    {
+      "name": "serving of lentil or bean curry",
+      "portion_estimate": "approximately 100-150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "side dish, possibly rice pudding or similar dessert",
+      "portion_estimate": "approximately 50-70 grams",
+      "confidence": "80"
+    }
+  ]
+}

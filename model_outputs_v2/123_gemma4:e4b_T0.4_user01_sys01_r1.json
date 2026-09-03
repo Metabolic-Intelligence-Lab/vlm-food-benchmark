@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni or small pasta dish with cheese topping",
+      "portion_estimate": "220",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried egg or savory fritter",
+      "portion_estimate": "140",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried chips or plantain pieces",
+      "portion_estimate": "180",
+      "confidence": "75"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "110",
+      "confidence": "95"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "320",
+      "confidence": "90"
+    }
+  ]
+}

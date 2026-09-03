@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "baked potato with creamy topping",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "round object (toast/bread)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

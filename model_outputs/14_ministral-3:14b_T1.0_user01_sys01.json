@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "assorted salad mix (includes shredded carrots, red cabbage, radishes, and chopped green onions)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "penne pasta with tomato sauce and small meat or vegetable chunks",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "fried breaded cutlet with tomato topping",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "buttered dinner roll or bun",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "bottled water (partially visible in a clear cup)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

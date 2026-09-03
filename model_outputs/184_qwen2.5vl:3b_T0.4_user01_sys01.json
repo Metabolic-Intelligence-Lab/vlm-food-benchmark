@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "crispy chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "mixed greens salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "hamburger bun",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    }
+  ]
+}

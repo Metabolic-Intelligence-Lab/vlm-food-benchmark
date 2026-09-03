@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "meatballs with carrot slices",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "spaghetti with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "shrimp cooked in tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

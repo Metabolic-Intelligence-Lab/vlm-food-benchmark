@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mushrooms",
+      "portion_estimate": "30g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread rolls",
+      "portion_estimate": "1 bread roll",
+      "confidence": "70"
+    },
+    {
+      "name": "Palm fruit",
+      "portion_estimate": "1 palm fruit",
+      "confidence": "60"
+    }
+  ]
+}

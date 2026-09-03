@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked pasta casserole with bowtie pasta, cheese, and herbs",
+      "portion_estimate": 250,
+      "confidence": 90
+    },
+    {
+      "name": "Roasted potato cubes with mushrooms",
+      "portion_estimate": 180,
+      "confidence": 85
+    },
+    {
+      "name": "Grilled chicken breast with sauce and shredded slaw topping",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "Whole wheat roll in plastic bag",
+      "portion_estimate": 60,
+      "confidence": 90
+    },
+    {
+      "name": "Sour cream yogurt cup with fruit pieces",
+      "portion_estimate": 125,
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Roasted vegetables (Brussels sprouts and potatoes)",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Baked cod",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "30",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Yogurt (Yomol power)",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "Sparkling water",
+      "portion_estimate": "200",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "brown rice with spices",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "fish with green herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Eggs Benedict",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrot salad",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ]
+}

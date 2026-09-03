@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "seasoned chicken pieces",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "cooked carrot slices",
+      "portion_estimate": "70g",
+      "confidence": 95
+    },
+    {
+      "name": "lentil and grain mixture",
+      "portion_estimate": "250g",
+      "confidence": 90
+    }
+  ]
+}

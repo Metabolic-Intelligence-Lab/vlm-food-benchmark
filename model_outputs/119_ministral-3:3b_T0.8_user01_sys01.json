@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "small bun (roll) wrapped in plastic",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "plain baked apple slices with granulated sugar sprinkled",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "chickpea stew in bowl (visible peas and veggies)",
+      "portion_estimate": "300",
+      "confidence": 95
+    },
+    {
+      "name": "yogurt cup (Tom of Maine, visible container)",
+      "portion_estimate": "170",
+      "confidence": 80
+    },
+    {
+      "name": "water in transparent glass",
+      "portion_estimate": "250",
+      "confidence": 90
+    }
+  ]
+}

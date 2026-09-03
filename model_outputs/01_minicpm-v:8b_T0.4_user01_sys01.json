@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain, approximately a small sandwich bun",
+      "confidence": "50"
+    },
+    {
+      "name": "Green Soup with Cheese",
+      "portion_estimate": "2-3 tablespoons of soup and cheese topping",
+      "confidence": "70"
+    },
+    {
+      "name": "Yam Fritters or Cakes",
+      "portion_estimate": "uncertain, approximately a medium-sized fritter or cake",
+      "confidence": "50"
+    },
+    {
+      "name": "White Rice with Seasoning",
+      "portion_estimate": "uncertain, approximately 2-3 tablespoons of rice and seasoning",
+      "confidence": "60"
+    }
+  ]
+}

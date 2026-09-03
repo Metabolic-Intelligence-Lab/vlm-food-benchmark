@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chili with ground meat and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "sour cream",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "mashed potatoes with gravy",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "salad with greens and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

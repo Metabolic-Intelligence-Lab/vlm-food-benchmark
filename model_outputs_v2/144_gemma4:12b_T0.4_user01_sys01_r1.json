@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with creamy sauce and cheese",
+      "portion_estimate": "250",
+      "confidence": 95
+    },
+    {
+      "name": "slice of multi-grain bread",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "cooked grain and vegetable mixture",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "180",
+      "confidence": 95
+    }
+  ]
+}

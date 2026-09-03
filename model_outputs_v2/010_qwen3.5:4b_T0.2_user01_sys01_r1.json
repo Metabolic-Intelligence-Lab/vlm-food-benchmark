@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup with parmesan cheese",
+      "portion_estimate": "350",
+      "confidence": 90
+    },
+    {
+      "name": "potatoes, roasted and cubed",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "meatballs with sauce",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 80
+    }
+  ]
+}

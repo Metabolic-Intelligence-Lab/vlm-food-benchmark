@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and cheese",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70g",
+      "confidence": 90
+    },
+    {
+      "name": "TOMA spread",
+      "portion_estimate": "80g",
+      "confidence": 90
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "roasted potatoes and mixed vegetables",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "savory spread",
+      "portion_estimate": "40g",
+      "confidence": 85
+    },
+    {
+      "name": "large wrapped food item",
+      "portion_estimate": "150g",
+      "confidence": 55
+    }
+  ]
+}

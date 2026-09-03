@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Fried fish fillets (golden brown, breaded)",
+      "portion_estimate": 150,
+      "confidence": 94
+    },
+    {
+      "name": "Roasted or fried diced potatoes with herbs",
+      "portion_estimate": 120,
+      "confidence": 94
+    },
+    {
+      "name": "Dark green cooked leafy vegetables (likely spinach or kale)",
+      "portion_estimate": 60,
+      "confidence": 93
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": 250,
+      "confidence": 89
+    },
+    {
+      "name": "Round bread roll (half-baguettes style)",
+      "portion_estimate": 70,
+      "confidence": 93
+    },
+    {
+      "name": "Nectarines or small apricots",
+      "portion_estimate": 120,
+      "confidence": 94
+    }
+  ]
+}

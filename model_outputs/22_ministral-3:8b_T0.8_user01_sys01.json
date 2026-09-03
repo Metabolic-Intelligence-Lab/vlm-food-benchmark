@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed green beans with carrots",
+      "portion_estimate": 150,
+      "confidence": 75
+    },
+    {
+      "name": "mashed or roasted sweet potatoes",
+      "portion_estimate": 200,
+      "confidence": 70
+    },
+    {
+      "name": "mixed quinoa or rice dish with bits of meat/protein",
+      "portion_estimate": 180,
+      "confidence": 75
+    },
+    {
+      "name": "whole wheat sandwich or bread roll (packaged)",
+      "portion_estimate": 80,
+      "confidence": 70
+    },
+    {
+      "name": "water (in clear glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

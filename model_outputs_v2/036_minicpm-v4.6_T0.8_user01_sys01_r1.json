@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bun (wrapped)",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "Stew with meatball",
+      "portion_estimate": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "Pasta (rotini)",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Salad (with cabbage and cucumber)",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Falafel patties",
+      "portion_estimate": "100g",
+      "confidence": 95
+    }
+  ]
+}

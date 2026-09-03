@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meat and vegetable stew (goulash or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "side salad (mixed greens)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "cake",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

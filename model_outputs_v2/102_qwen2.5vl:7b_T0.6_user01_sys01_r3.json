@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "ravioli",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "roast chicken",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "jar of yogurt",
+      "portion_estimate": "100",
+      "confidence": 60
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": 75
+    }
+  ]
+}

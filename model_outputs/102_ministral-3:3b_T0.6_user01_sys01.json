@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fried breaded apple dish with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "chopped apples with caramelized pieces",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "cinnamon roll or doughnut in container",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "beverage with Sprinkles (unidentifiable liquid)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

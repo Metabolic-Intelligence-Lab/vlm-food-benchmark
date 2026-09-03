@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "dark soup",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "fried food",
+      "portion_estimate": "30",
+      "confidence": 70
+    },
+    {
+      "name": "green leafy vegetable",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "crackers",
+      "portion_estimate": "20",
+      "confidence": 80
+    }
+  ]
+}

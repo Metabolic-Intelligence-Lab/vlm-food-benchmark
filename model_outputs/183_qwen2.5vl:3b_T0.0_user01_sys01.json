@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "slice of cake",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": "90"
+    }
+  ]
+}

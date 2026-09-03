@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with parmesan",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "plain baked or boiled potatoes (plain, no seasoning visible)",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "sweet peas (frozen or canned, with some meat or seasoning)",
+      "portion_estimate": "100",
+      "confidence": 90
+    }
+  ]
+}

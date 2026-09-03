@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain, approx. 100-200g",
+      "confidence": "65"
+    },
+    {
+      "name": "Mixed salad with lettuce and carrots in a white bowl",
+      "portion_estimate": "uncertain, approx. 150-300g",
+      "confidence": "70"
+    },
+    {
+      "name": "Custard or yogurt cup",
+      "portion_estimate": "uncertain, approx. 60-90g",
+      "confidence": "68"
+    },
+    {
+      "name": "Fried chicken nugget on a white plate",
+      "portion_estimate": "uncertain, approx. 50-100g",
+      "confidence": "72"
+    },
+    {
+      "name": "Chickpea curry with cauliflower and spices in a large bowl",
+      "portion_estimate": "uncertain, approx. 300-400g",
+      "confidence": "65"
+    }
+  ]
+}

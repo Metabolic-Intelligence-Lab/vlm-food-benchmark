@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chickpea soup with grated cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed greens",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "two croquettes",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "baked apple",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "bagel",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    }
+  ]
+}

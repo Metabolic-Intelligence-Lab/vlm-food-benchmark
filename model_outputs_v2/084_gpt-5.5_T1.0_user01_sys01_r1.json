@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "cooked broccoli with diced potatoes",
+      "portion_estimate": "180 g",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed cooked vegetables with carrots, peas, potatoes and mushrooms",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    },
+    {
+      "name": "couscous or semolina grains",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "40 g",
+      "confidence": "75"
+    },
+    {
+      "name": "uncertain breaded cutlet or fish fillet",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    },
+    {
+      "name": "slice of whole-grain bread",
+      "portion_estimate": "35 g",
+      "confidence": "90"
+    },
+    {
+      "name": "packaged yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "75"
+    },
+    {
+      "name": "packaged butter or margarine portion",
+      "portion_estimate": "10 g",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged breadsticks or crackers",
+      "portion_estimate": "20 g",
+      "confidence": "65"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "tray": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Potato",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "120ml",
+      "confidence": "70"
+    }
+  ]
+}

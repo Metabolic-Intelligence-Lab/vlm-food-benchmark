@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Breakfast Plate",
+      "portion_estimate": "30g bread, 150g eggs, 50g carrots, 75g potatoes, 60g sausage",
+      "confidence": 80
+    },
+    {
+      "name": "Dinner Plate",
+      "portion_estimate": "100g meat (chicken or pork), 50g potatoes, 75g carrots",
+      "confidence": 80
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "30g",
+      "confidence": 70
+    },
+    {
+      "name": "Sausage",
+      "portion_estimate": "100g",
+      "confidence": 60
+    }
+  ]
+}

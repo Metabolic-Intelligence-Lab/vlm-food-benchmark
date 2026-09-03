@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Brown soup or curry in bowl",
+      "portion_estimate": "320",
+      "confidence": "90"
+    },
+    {
+      "name": "Three slices of toasted bread with spread",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "Roasted chickpeas",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Small mandarin orange",
+      "portion_estimate": "90",
+      "confidence": "95"
+    }
+  ]
+}

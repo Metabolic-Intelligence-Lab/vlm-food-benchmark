@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce, greens, and grated cheese",
+      "portion_estimate": "250 g",
+      "confidence": "85"
+    },
+    {
+      "name": "rectangular focaccia or flatbread slice with dark leafy filling",
+      "portion_estimate": "130 g",
+      "confidence": "70"
+    },
+    {
+      "name": "uncertain pasta or vegetable casserole on plate",
+      "portion_estimate": "120 g",
+      "confidence": "50"
+    },
+    {
+      "name": "plain bread roll in plastic wrap",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "three plums",
+      "portion_estimate": "180 g",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain, approx. weight in grams (use a fork to estimate)",
+      "confidence": "50"
+    },
+    {
+      "name": "steamed or boiled potatoes with spices",
+      "portion_estimate": "uncertain, approx. weight in grams (use a fork to estimate)",
+      "confidence": "60"
+    },
+    {
+      "name": "mixed vegetables and chickpeas",
+      "portion_estimate": "uncertain, approx. weight in grams (use a fork to estimate)",
+      "confidence": "50"
+    }
+  ]
+}

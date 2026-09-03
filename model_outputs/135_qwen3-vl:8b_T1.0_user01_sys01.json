@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Shredded Chicken",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Barbecue Sauce",
+      "portion_estimate": "40g",
+      "confidence": 95
+    },
+    {
+      "name": "Roasted Potatoes",
+      "portion_estimate": "100g",
+      "confidence": 95
+    }
+  ]
+}

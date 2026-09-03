@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and spinach",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "small chicken parmesan-style patty",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted or mashed potatoes with herbs",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "plain yogurt (unspecified flavor)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    }
+  ]
+}

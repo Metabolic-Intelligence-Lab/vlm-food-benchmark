@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "uncooked pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "bacon",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of brown soup with white powder topping",
+      "portion_estimate": 350,
+      "confidence": 95
+    },
+    {
+      "name": "Packaged bread roll (buttered)",
+      "portion_estimate": 60,
+      "confidence": 98
+    },
+    {
+      "name": "Sliced sweet potato casserole",
+      "portion_estimate": 150,
+      "confidence": 92
+    },
+    {
+      "name": "Steamed Brussels sprouts with carrots",
+      "portion_estimate": 180,
+      "confidence": 94
+    },
+    {
+      "name": "Fresh plum (whole)",
+      "portion_estimate": 120,
+      "confidence": 96
+    },
+    {
+      "name": "Fresh peach or nectarine (whole)",
+      "portion_estimate": 130,
+      "confidence": 95
+    }
+  ]
+}

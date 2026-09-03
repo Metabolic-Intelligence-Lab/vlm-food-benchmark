@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried fish fillets (2 pieces)",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "sauteed brussels sprouts",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "mixed vegetable side (carrots, potatoes, cauliflower) with grated cheese topping",
+      "portion_estimate": "150",
+      "confidence": 65
+    },
+    {
+      "name": "black plums (2 whole)",
+      "portion_estimate": "90",
+      "confidence": 70
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": 60
+    }
+  ]
+}

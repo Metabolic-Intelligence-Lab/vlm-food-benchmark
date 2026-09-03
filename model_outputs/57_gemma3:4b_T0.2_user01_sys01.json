@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Egg",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120",
+      "confidence": 90
+    }
+  ]
+}

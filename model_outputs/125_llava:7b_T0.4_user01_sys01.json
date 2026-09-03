@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "70 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Sauce",
+      "portion_estimate": "2 tablespoons",
+      "confidence": "50"
+    },
+    {
+      "name": "Dessert",
+      "portion_estimate": "1 scoop",
+      "confidence": "70"
+    }
+  ]
+}

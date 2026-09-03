@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "black bean soup with white bean mixture and grated cheese topping",
+      "portion_estimate": 350,
+      "confidence": 90
+    },
+    {
+      "name": "carrot and peas mix",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "single-serving vanilla yogurt (in white cup)",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "baguette or sandwich roll (partially visible, wrapped)",
+      "portion_estimate": 80,
+      "confidence": 80
+    }
+  ]
+}

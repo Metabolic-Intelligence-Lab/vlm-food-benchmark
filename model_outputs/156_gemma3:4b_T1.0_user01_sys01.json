@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Rolled Breakfast Sandwich",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Brussels Sprouts",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "115g",
+      "confidence": 90
+    }
+  ]
+}

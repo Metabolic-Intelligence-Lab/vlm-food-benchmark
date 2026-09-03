@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked green beans",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "Creamy meat dish (chicken/pork with sauce)",
+      "portion_estimate": "100g",
+      "confidence": 65
+    },
+    {
+      "name": "Cooked leafy greens with diced potatoes",
+      "portion_estimate": "150g",
+      "confidence": 70
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "150g",
+      "confidence": 80
+    }
+  ]
+}

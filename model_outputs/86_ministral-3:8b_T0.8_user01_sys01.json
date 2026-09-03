@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet (likely cod or similar white fish)",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta with creamy sauce (likely in a bowl)",
+      "portion_estimate": "150g (cooked)",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes or pureed vegetable side",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "whole black plums (4 visible)",
+      "portion_estimate": "100g (4 medium plums)",
+      "confidence": 90
+    },
+    {
+      "name": "packet of artificial sweetener or butter substitute",
+      "portion_estimate": "uncertain (likely <5g for sugar substitute)",
+      "confidence": 40
+    }
+  ]
+}

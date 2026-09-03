@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Yellow soup (likely pumpkin or corn) with grated cheese",
+      "portion_estimate": 350,
+      "confidence": 92
+    },
+    {
+      "name": "Fried potato cakes (hash browns)",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Diced roasted potatoes with seasoning",
+      "portion_estimate": 120,
+      "confidence": 94
+    },
+    {
+      "name": "Whole wheat bread roll (in plastic bag)",
+      "portion_estimate": 60,
+      "confidence": 85
+    },
+    {
+      "name": "Yoplait yogurt cup",
+      "portion_estimate": 125,
+      "confidence": 90
+    }
+  ]
+}

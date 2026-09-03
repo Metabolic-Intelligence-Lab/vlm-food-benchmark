@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Salmon",
+      "portion_estimate": "125g",
+      "confidence": "60"
+    },
+    {
+      "name": "Rice (possibly basmati)",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Vegetable medley with sauce (sauteed mixed vegetables, possibly asparagus and green beans),",
+      "portion_estimate": "125g",
+      "confidence": "60"
+    },
+    {
+      "name": "Roasted Brussels sprouts",
+      "portion_estimate": "75g",
+      "confidence": "60"
+    }
+  ]
+}

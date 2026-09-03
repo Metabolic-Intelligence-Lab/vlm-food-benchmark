@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pesto chicken or meatball",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pasta (bowtie shape, likely penne or farfalle)",
+      "portion_estimate": "120 grams (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "grated cheese (parmesan or similar)",
+      "portion_estimate": "30 grams",
+      "confidence": 75
+    },
+    {
+      "name": "blueberries",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "packaged butter or spread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "packaged seasoning or sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

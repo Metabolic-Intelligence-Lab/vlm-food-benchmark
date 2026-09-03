@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot sticks",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 90
+    },
+    {
+      "name": "nuts",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 70
+    },
+    {
+      "name": "cookies",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 80
+    },
+    {
+      "name": "sauce",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 60
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 70
+    }
+  ]
+}

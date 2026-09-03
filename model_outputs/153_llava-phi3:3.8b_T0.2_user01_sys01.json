@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Green beans and yellow rice",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }
+  ]
+}

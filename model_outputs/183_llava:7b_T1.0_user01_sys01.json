@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pie with a golden brown crust",
+      "portion_estimate": "60 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Soup with creamy white sauce and multiple green toppings",
+      "portion_estimate": "450 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Crate of briny green pickled vegetables",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    }
+  ]
+}

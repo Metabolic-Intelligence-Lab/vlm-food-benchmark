@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "cavatappi pasta",
+      "portion_estimate": "100-120g",
+      "confidence": "85"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "30-40g",
+      "confidence": "80"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "20-30g",
+      "confidence": "70"
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "10-15g",
+      "confidence": "70"
+    },
+    {
+      "name": "red kidney beans",
+      "portion_estimate": "30-40g",
+      "confidence": "80"
+    },
+    {
+      "name": "chopped cabbage",
+      "portion_estimate": "20-30g",
+      "confidence": "70"
+    },
+    {
+      "name": "mushrooms",
+      "portion_estimate": "10-15g",
+      "confidence": "60"
+    },
+    {
+      "name": "liquid (likely broth or sauce)",
+      "portion_estimate": "150-200g",
+      "confidence": "75"
+    }
+  ]
+}

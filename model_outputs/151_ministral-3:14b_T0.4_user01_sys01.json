@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "roasted sweet potato with cheese topping",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed brussels sprouts",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "roasted or saut\u00e9ed carrots (sliced)",
+      "portion_estimate": "50g",
+      "confidence": 75
+    },
+    {
+      "name": "penne pasta with meat sauce",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "grilled or roasted chicken breast (chopped, mixed in pasta)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "whole-grain bread slice",
+      "portion_estimate": "30g",
+      "confidence": 70
+    },
+    {
+      "name": "dark grapes (whole, loose)",
+      "portion_estimate": "50g",
+      "confidence": 75
+    }
+  ]
+}

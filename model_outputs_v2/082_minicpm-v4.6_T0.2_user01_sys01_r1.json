@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "salad with mixed greens and cabbage",
+      "portion_estimate": "200 g",
+      "confidence": 95
+    },
+    {
+      "name": "rice dish",
+      "portion_estimate": "300 g",
+      "confidence": 90
+    },
+    {
+      "name": "cooked spinach or kale",
+      "portion_estimate": "150 g",
+      "confidence": 85
+    },
+    {
+      "name": "bun or bread roll",
+      "portion_estimate": "120 g",
+      "confidence": 80
+    },
+    {
+      "name": "drink cup (water or beverage)",
+      "portion_estimate": "250 ml (\u2248226 g)",
+      "confidence": 88
+    },
+    {
+      "name": "small container (yogurt or dip)",
+      "portion_estimate": "100 g",
+      "confidence": 85
+    },
+    {
+      "name": "butter or cheese stick",
+      "portion_estimate": "5 g",
+      "confidence": 95
+    }
+  ]
+}

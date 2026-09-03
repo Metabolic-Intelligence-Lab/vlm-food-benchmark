@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "carrot dish",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "meat sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "side salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "tomato or minestrone soup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "butter or margarine",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "condiments or spreads",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "roll or bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "tea or coffee",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

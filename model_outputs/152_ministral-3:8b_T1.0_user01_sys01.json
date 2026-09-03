@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spinach and cheese quiche (approx. 1/4 of a standard quiche pie)",
+      "portion_estimate": "250",
+      "confidence": 75
+    },
+    {
+      "name": "saut\u00e9ed mixed vegetables (diced carrots and onions)",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "roasted sweet potato wedges (sliced)",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with meatballs or rag\u00f9 sauce (penne)",
+      "portion_estimate": "250",
+      "confidence": 80
+    },
+    {
+      "name": "plain roll/bread bun (whole or soft)",
+      "portion_estimate": "50",
+      "confidence": 75
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "150",
+      "confidence": 75
+    }
+  ]
+}

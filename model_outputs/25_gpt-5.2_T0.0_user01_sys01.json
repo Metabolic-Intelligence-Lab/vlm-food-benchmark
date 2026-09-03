@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked chickpeas (garbanzo beans)",
+      "portion_estimate": "150 g",
+      "confidence": "78"
+    },
+    {
+      "name": "breaded patty/croquette with tomato-based sauce and shredded cheese on top",
+      "portion_estimate": "110 g",
+      "confidence": "55"
+    },
+    {
+      "name": "cooked fusilli pasta with tomato sauce",
+      "portion_estimate": "220 g",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged bread roll/bun",
+      "portion_estimate": "60 g",
+      "confidence": "82"
+    },
+    {
+      "name": "sealed fruit yogurt cup (YoPRO/YoPro style) - flavor uncertain",
+      "portion_estimate": "150 g",
+      "confidence": "60"
+    }
+  ]
+}

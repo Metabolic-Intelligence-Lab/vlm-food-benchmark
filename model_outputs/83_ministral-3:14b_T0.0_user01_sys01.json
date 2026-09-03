@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "quinoa and vegetable medley (with spinach, corn, and possibly peas)",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "grilled chicken breast with avocado slice",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "roasted sweet potato cubes",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "single-serving yogurt (likely Greek or similar, brand 'Chobani')",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "whole-grain or seeded crackers (partially visible)",
+      "portion_estimate": "30",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain toast with peanut butter and jelly",
+      "portion_estimate": "uncertain, approximately 40-50g per slice",
+      "confidence": "60"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "approx. 125g for medium banana",
+      "confidence": "80"
+    },
+    {
+      "name": "Whole grain toast with peanut butter and jelly, partially visible",
+      "portion_estimate": "uncertain but likely around 40-50g per slice (assuming similar size as above)",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta in a creamy sauce on whole-grain breadsticks",
+      "portion_estimate": "uncertain, approximately 70g for serving",
+      "confidence": "50"
+    },
+    {
+      "name": "Salad with shredded carrots and greens",
+      "portion_estimate": "uncertain but likely around 125-150g per bowl (assuming typical portion size)",
+      "confidence": "60"
+    }
+  ]
+}

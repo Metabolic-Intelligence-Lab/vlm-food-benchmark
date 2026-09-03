@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy soup with croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "chunky soup with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "golden-brown croissant with purple cream",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "red tea",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "white coffee",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

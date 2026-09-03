@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken cutlet with red sauce and shredded cabbage/lettuce topping",
+      "portion_estimate": "190 g",
+      "confidence": "68"
+    },
+    {
+      "name": "cooked farfalle pasta (plain/lightly oiled)",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "bread roll (plain bun)",
+      "portion_estimate": "70 g",
+      "confidence": "82"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    },
+    {
+      "name": "crumbly white cheese (possibly ricotta salata or similar)",
+      "portion_estimate": "90 g",
+      "confidence": "52"
+    }
+  ]
+}

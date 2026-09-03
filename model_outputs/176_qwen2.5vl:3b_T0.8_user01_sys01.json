@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "vegetable pancake",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "baguette slice",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "cauliflower rice",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "olives",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

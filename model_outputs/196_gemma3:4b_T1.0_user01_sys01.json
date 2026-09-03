@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Soup (likely broth-based)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Slice of bread with spread",
+      "portion_estimate": "80",
+      "confidence": 70
+    },
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "60",
+      "confidence": 75
+    }
+  ]
+}

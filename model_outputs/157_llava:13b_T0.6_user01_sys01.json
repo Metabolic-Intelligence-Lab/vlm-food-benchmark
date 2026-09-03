@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "lentils (Indian dish)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread or flatbread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mango or similar citrus fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

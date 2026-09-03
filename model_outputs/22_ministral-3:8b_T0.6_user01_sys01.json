@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed green beans with small carrots",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mashed or roasted sweet potatoes/pumpkin",
+      "portion_estimate": "180 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mixed grain or quinoa pilaf with herbs/spices",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "brown or whole grain bread roll (partially wrapped)",
+      "portion_estimate": "70 grams",
+      "confidence": 75
+    },
+    {
+      "name": "water in clear plastic cup",
+      "portion_estimate": "uncertain (no visible measurement)",
+      "confidence": 50
+    }
+  ]
+}

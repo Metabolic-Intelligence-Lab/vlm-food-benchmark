@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled tomato and vegetable topping on egg or hash brown",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "side salad with mixed vegetables (carrots, bell peppers, peas)",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "garlic butter spaghetti",
+      "portion_estimate": 300,
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or brioche bun",
+      "portion_estimate": 60,
+      "confidence": 75
+    },
+    {
+      "name": "water in transparent plastic cup",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "apple (green variety)",
+      "portion_estimate": 180,
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried breaded meat pieces (top left plate)",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Curry or stew in bowl",
+      "portion_estimate": "320g",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried breaded items (top right plate)",
+      "portion_estimate": "170g",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried bun or croquette (bottom left)",
+      "portion_estimate": "80g",
+      "confidence": "80"
+    },
+    {
+      "name": "Lemon slices",
+      "portion_estimate": "30g",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "food_items": [
+    {
+      "name": "pizza slice",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "broccoli salad",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "8oz",
+      "confidence": 90
+    },
+    {
+      "name": "pasta with white sauce and toppings",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pita bread sandwiches",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fruit salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "crumbed chicken dish",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green beans and red pepper soup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "cheese and crackers plate",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

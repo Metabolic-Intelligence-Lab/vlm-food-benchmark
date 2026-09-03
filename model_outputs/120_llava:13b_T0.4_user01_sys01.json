@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup with carrots and pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich or burger patty with condiments",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "yogurt or sour cream",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

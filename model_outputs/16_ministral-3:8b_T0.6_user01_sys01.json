@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mixed shredded vegetables (carrots and cabbage-like)",
+      "portion_estimate": "150 grams (approximate)",
+      "confidence": 75
+    },
+    {
+      "name": "meatball or patty (appears to be with pineapple chunks and sauce)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "diced pineapple pieces",
+      "portion_estimate": "80 grams",
+      "confidence": 70
+    },
+    {
+      "name": "salt or seasoning container (not a food item)",
+      "portion_estimate": "uncertain",
+      "confidence": 0
+    },
+    {
+      "name": "packaged sauce or dip (orange-colored)",
+      "portion_estimate": "uncertain (container partially visible)",
+      "confidence": 55
+    },
+    {
+      "name": "packaged cherry tomato",
+      "portion_estimate": "30 grams (1-2 tomatoes)",
+      "confidence": 75
+    }
+  ]
+}

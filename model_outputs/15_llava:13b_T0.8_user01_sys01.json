@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Indian-style curry",
+      "portion_estimate": "100g-200g",
+      "confidence": "85"
+    },
+    {
+      "name": "Creamy mashed potatoes",
+      "portion_estimate": "100g-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll or naan",
+      "portion_estimate": "50g-100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Side salad or vegetable garnish",
+      "portion_estimate": "50g-100g",
+      "confidence": "80"
+    }
+  ]
+}

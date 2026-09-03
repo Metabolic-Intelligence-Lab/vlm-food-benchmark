@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with mixed vegetables",
+      "portion_estimate": "250 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Meat and vegetable stir fry",
+      "portion_estimate": "150 g",
+      "confidence": "40"
+    },
+    {
+      "name": "Chicken with spinach",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Potatoes (fried or baked)",
+      "portion_estimate": "150 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread rolls (2)",
+      "portion_estimate": "80 g",
+      "confidence": "50"
+    },
+    {
+      "name": "Butter",
+      "portion_estimate": "10 g",
+      "confidence": "90"
+    }
+  ]
+}

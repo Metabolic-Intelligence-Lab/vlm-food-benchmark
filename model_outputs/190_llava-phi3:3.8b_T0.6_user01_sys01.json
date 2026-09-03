@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Potato chips on a white plate",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Spaghetti with tomato sauce in a bowl",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    }
+  ],
+  "tablecloth": {
+    "color": "white",
+    "pattern": "leaves"
+  },
+  "utensils": [
+    {
+      "type": "fork",
+      "position": "right side of the image"
+    }
+  ]
+}

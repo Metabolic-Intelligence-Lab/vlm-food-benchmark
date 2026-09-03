@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto and grated cheese",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "cauliflower and vegetable mix",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "small patty with diced vegetables",
+      "portion_estimate": "80g",
+      "confidence": 90
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "30g",
+      "confidence": 75
+    },
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "120g",
+      "confidence": 95
+    }
+  ]
+}

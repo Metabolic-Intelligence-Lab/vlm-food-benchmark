@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole wheat bread slice",
+      "portion_estimate": "60g",
+      "confidence": "95"
+    },
+    {
+      "name": "Steamed broccoli florets",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Cooked white protein (e.g., fish or chicken)",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Cooked chickpeas (garbanzo beans)",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Bag of fresh leafy greens (e.g., cabbage or lettuce)",
+      "portion_estimate": "180g",
+      "confidence": "80"
+    }
+  ]
+}

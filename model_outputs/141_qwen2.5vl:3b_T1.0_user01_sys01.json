@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Boiled Chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken Slices",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

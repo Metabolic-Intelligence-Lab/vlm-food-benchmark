@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Sauteed spinach",
+      "portion_estimate": "80 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked fish with seasoning",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Tomato halves",
+      "portion_estimate": "30 grams",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with sauce and cheese",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fruit salad",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread with cheese and herbs",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    }
+  ]
+}

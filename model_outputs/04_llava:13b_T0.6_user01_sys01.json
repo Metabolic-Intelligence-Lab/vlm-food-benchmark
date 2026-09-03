@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "200-300 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "150-200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Whole Wheat Bread",
+      "portion_estimate": "100-150 grams",
+      "confidence": "70"
+    }
+  ]
+}

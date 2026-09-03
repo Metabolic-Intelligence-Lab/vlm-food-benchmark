@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green salad with mixed greens",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta dish with red sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Green peas",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Orange slices",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with grated cheese (parmesan) on top",
+      "portion_estimate": "260 g",
+      "confidence": "78"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 g",
+      "confidence": "88"
+    },
+    {
+      "name": "slice of white bread",
+      "portion_estimate": "45 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked broad beans (fava beans) with carrots",
+      "portion_estimate": "180 g",
+      "confidence": "72"
+    },
+    {
+      "name": "baked omelet/frittata slice (egg-based)",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken with curry",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Custard pudding",
+      "portion_estimate": "uncertain",
+      "confidence": 30,
+      "description": "A dessert with a custard topping."
+    },
+    {
+      "name": "Chicken fried item (possibly chicken nuggets)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

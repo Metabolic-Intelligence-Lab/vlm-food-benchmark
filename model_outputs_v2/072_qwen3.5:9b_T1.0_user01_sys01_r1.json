@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded chicken cutlet or fish fillet with breading",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "Roasted baby carrots",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Red lentil stew with vegetables (carrots visible)",
+      "portion_estimate": 200,
+      "confidence": 92
+    },
+    {
+      "name": "Water",
+      "portion_estimate": 240,
+      "confidence": 95
+    }
+  ]
+}

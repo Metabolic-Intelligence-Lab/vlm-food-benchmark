@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Cottage cheese",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta salad",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread rolls",
+      "portion_estimate": "2 x 50g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetable and rice pilaf",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "baked potato with cheese and broccoli",
+      "portion_estimate": "250",
+      "confidence": 80
+    },
+    {
+      "name": "hard-boiled egg (peeled)",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "yogurt drink (unsweetened, in cup)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "sugar packet (sweetener)",
+      "portion_estimate": "5",
+      "confidence": 75
+    }
+  ]
+}

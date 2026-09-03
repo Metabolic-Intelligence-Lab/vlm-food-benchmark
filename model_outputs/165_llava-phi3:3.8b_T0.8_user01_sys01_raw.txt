@@ -1,0 +1,36 @@
+{
+"food_items": [
+{
+"name": "bowl of soup",
+"portion_estimate": "150 grams",
+"image":"http://source.unsplash.co/iDuqvzUjN"
+},
+{
+"name": "red container with white lid",
+"portion_estimate": "200 grams",
+"image":"https://source.unsplash.co/J69t7GsV3M"
+},
+{
+"name": "round burger bun",
+"portion_estimate": "150 grams",
+"image":"https://source.unsplash.co/EUjzKXFcJY"
+},
+{
+"name": "white plate with food on it",
+"portion_estimate": {
+"meat": "100 grams",
+"mashed potatoes": "100 grams",
+"onions": "50 grams"
+ },
+"image":"https://source.unsplash.co/E8n94TaS3k"
+},
+{
+"name": "yellow napkin on tray",
+"portion_estimate": {
+"length": "20 cm",
+"width": "50 cm",
+"image":"https://source.unsplash.co/lC4HJ1VLF6"
+},
+"confidence": 70
+}
+]

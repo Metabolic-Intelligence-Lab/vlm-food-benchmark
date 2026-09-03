@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with tomato sauce and grated cheese",
+      "portion_estimate": "220",
+      "confidence": "80"
+    },
+    {
+      "name": "savory pastry/quiche slice with spinach and cheese filling",
+      "portion_estimate": "130",
+      "confidence": "65"
+    },
+    {
+      "name": "sauteed spinach with diced potatoes",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll (panino), wrapped",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "tomato sauce condiment cup (Yoyo pomodoro)",
+      "portion_estimate": "20",
+      "confidence": "60"
+    },
+    {
+      "name": "individually wrapped cheese portion",
+      "portion_estimate": "20",
+      "confidence": "50"
+    }
+  ]
+}

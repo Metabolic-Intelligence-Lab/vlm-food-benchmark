@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Fish",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Side Salad",
+      "portion_estimate": "80",
+      "confidence": 75
+    },
+    {
+      "name": "Mango",
+      "portion_estimate": "80",
+      "confidence": 90
+    }
+  ]
+}

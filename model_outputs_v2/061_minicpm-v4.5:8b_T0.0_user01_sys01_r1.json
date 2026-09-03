@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange soup (likely pumpkin or tomato-based)",
+      "portion_estimate": "300-400 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "scrambled egg with mushrooms and herbs",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "roasted potato cubes",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Yogo yogurt (125g)",
+      "portion_estimate": "125 grams",
+      "confidence": 100
+    }
+  ]
+}

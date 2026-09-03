@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "ground meat (beef/lamb) in tomato sauce",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "grated parmesan cheese",
+      "portion_estimate": "20 grams",
+      "confidence": 70
+    }
+  ]
+}

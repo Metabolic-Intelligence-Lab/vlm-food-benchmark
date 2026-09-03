@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based vegetable soup",
+      "portion_estimate": "350 g",
+      "confidence": "75"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 g",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked leafy greens or seaweed",
+      "portion_estimate": "80 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked salmon or fish fillet with garnish",
+      "portion_estimate": "100 g",
+      "confidence": "65"
+    },
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "mandarin orange",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    },
+    {
+      "name": "partially visible wrapped bread roll",
+      "portion_estimate": "50 g",
+      "confidence": "60"
+    }
+  ]
+}

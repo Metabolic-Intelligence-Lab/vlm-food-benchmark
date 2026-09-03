@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "beef or pork stew-like dish (appears thick with possible corn kernels)",
+      "portion_estimate": "300 grams",
+      "confidence": 95
+    },
+    {
+      "name": "small pieces of grilled/saut\u00e9ed cauliflower",
+      "portion_estimate": "80 grams",
+      "confidence": 90
+    },
+    {
+      "name": "small piece of what looks like cheese-based or spinach quiche/gratin",
+      "portion_estimate": "40 grams",
+      "confidence": 85
+    },
+    {
+      "name": "polybius chocolate drink sachet (likely ready-to-drink liquid)",
+      "portion_estimate": "150 ml (sachet size) / ~85 grams (assuming liquid + wrapper)",
+      "confidence": 75
+    },
+    {
+      "name": "single fried or baked snack chip (unclear exact type, looks like a small crispy snack)",
+      "portion_estimate": "15 grams",
+      "confidence": 70
+    }
+  ]
+}

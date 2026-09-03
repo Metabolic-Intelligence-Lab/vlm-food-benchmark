@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "soup or stew with meat and vegetables, grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "cooked greens (spinach or kale), herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "butter or margarine",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

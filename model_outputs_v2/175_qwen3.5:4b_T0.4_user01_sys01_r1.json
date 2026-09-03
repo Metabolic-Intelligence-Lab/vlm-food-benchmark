@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with sauce",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "pork tenderloin with gravy",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "collard greens with cheese",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "130",
+      "confidence": 95
+    }
+  ]
+}

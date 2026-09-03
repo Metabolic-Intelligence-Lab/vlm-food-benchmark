@@ -1,0 +1,31 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "approximate weight in grams"
+    },
+    {
+      "name": "quiche with spinach and other vegetables",
+      "portion_estimate": "approximate weight in grams"
+    },
+    {
+      "name": "baked potato slices, yellow",
+      "portion_estimate": "approximate weight in grams"
+    },
+    {
+      "name": "broccoli quiche triangle",
+      "portion_estimate": "approximate weight in grams"
+    },
+    {
+      "name": "baguette roll",
+      "portion_estimate": "approximate weight in grams"
+    }
+  ],
+  "confidence": [
+    "60",
+    "75",
+    "90",
+    "100",
+    "80"
+  ]
+}

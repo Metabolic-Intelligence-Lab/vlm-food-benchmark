@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich (burger-like)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "vegetables (carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pasta with marinara sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread/garlic bread",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "blueberries",
+      "portion_estimate": "uncertain",
+      "confidence": 68
+    }
+  ]
+}

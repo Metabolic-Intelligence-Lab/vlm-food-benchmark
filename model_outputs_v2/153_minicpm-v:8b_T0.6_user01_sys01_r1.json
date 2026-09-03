@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Green Beans",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Omelet with Green Beans and Cherry Tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Penne Pasta with Cheese",
+      "portion_estimate": "125g",
+      "confidence": 90
+    }
+  ]
+}

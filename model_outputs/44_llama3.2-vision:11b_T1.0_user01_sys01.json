@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "tomato slices with mozzarella and olive tapenade",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "lettuce or spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roasted potatoes or other vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

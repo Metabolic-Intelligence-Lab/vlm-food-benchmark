@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with pesto sauce (bow-tie pasta)",
+      "portion_estimate": "260 g",
+      "confidence": "78"
+    },
+    {
+      "name": "baked savory pie/quiche slice (egg-based, rectangular portion)",
+      "portion_estimate": "180 g",
+      "confidence": "62"
+    },
+    {
+      "name": "brussels sprouts (cooked)",
+      "portion_estimate": "120 g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (small, packaged)",
+      "portion_estimate": "55 g",
+      "confidence": "74"
+    },
+    {
+      "name": "banana (whole, with peel)",
+      "portion_estimate": "120 g",
+      "confidence": "86"
+    }
+  ]
+}

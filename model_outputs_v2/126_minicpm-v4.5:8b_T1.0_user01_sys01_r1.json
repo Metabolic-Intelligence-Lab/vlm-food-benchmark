@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with tomato sauce",
+      "portion_estimate": "250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt (Yomogi flavor)",
+      "portion_estimate": "125 grams",
+      "confidence": "100"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 milliliters",
+      "confidence": "100"
+    },
+    {
+      "name": "green vegetable patty (avocado-topped)",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "chopped potatoes with bits of another vegetable (likely egg or another starch)",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged butter or spread (yellow, wrapped)",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    }
+  ]
+}

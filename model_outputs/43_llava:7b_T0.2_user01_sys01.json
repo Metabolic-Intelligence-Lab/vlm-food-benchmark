@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Breaded chicken cutlet",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Sliced vegetables with dressing",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    }
+  ]
+}

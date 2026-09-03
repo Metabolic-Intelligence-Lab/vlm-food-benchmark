@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "vegetables (green beans and carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bowl with another type of food",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

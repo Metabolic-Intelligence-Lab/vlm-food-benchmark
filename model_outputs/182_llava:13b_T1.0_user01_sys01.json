@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with meat sauce (spaghetti bolognese style)",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "Spinach (side salad or part of main dish)",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "Flatbread or bread roll with sauce",
+      "portion_estimate": "100",
+      "confidence": 60
+    },
+    {
+      "name": "Pizza (cheese and tomato sauce with herbs)",
+      "portion_estimate": "200",
+      "confidence": 75
+    },
+    {
+      "name": "Broccoli (side dish or main course)",
+      "portion_estimate": "100",
+      "confidence": 65
+    },
+    {
+      "name": "Orange slices with juice",
+      "portion_estimate": "150",
+      "confidence": 70
+    }
+  ]
+}

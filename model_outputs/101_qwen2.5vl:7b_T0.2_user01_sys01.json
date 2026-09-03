@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "chicken",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "lemon",
+      "portion_estimate": "20",
+      "confidence": "60"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "cheese cake",
+      "portion_estimate": "100",
+      "confidence": "70"
+    }
+  ]
+}

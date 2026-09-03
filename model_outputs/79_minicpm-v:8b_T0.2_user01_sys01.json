@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and cheese",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. 100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Peanut butter and jelly sandwich",
+      "portion_estimate": "uncertain, approx. 80g",
+      "confidence": "50"
+    },
+    {
+      "name": "Boiled peanuts",
+      "portion_estimate": "uncertain, approx. 120g",
+      "confidence": "60"
+    },
+    {
+      "name": "Cheese slice",
+      "portion_estimate": "uncertain, approx. 50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Sausages with red sauce",
+      "portion_estimate": "uncertain, approx. 120g",
+      "confidence": "60"
+    }
+  ]
+}

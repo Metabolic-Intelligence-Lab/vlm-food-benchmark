@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Piece of meat",
+      "portion_estimate": "60 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Steamed carrots",
+      "portion_estimate": "75 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad in bowl",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    }
+  ]
+}

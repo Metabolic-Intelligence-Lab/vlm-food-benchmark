@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Crustless Quiche",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "Vegetable Soup",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "Brussels Sprouts",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100",
+      "confidence": 85
+    }
+  ]
+}

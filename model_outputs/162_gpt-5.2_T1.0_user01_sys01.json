@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed broccoli and boiled potato pieces",
+      "portion_estimate": "170 g",
+      "confidence": "72"
+    },
+    {
+      "name": "vegetable soup with grated cheese/parmesan on top",
+      "portion_estimate": "320 g",
+      "confidence": "70"
+    },
+    {
+      "name": "small plain bread roll (in plastic)",
+      "portion_estimate": "55 g",
+      "confidence": "78"
+    },
+    {
+      "name": "open-faced toast with diced potatoes (possibly roasted) and shredded cheese",
+      "portion_estimate": "200 g",
+      "confidence": "62"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150 g",
+      "confidence": "86"
+    }
+  ]
+}

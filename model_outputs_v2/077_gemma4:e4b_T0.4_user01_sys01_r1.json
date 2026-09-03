@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed nuts, beans, and chopped green vegetables",
+      "portion_estimate": "300 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Chopped green and yellow salad or relish mixture",
+      "portion_estimate": "180 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Wrapped bread roll or loaf",
+      "portion_estimate": "180 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "Golden-brown baked snack or roll",
+      "portion_estimate": "90 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Reddish sausage or meat product (small)",
+      "portion_estimate": "80 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Reddish-brown sausage or meat product (large)",
+      "portion_estimate": "110 grams",
+      "confidence": "70"
+    }
+  ]
+}

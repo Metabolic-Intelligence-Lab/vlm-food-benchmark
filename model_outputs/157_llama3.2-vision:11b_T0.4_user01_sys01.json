@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "lentils",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "mushroom",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "mango",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

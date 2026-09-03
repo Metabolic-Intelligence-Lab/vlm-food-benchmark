@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

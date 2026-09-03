@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "30g",
+      "confidence": "95%"
+    },
+    {
+      "name": "Cut apple",
+      "portion_estimate": "40g",
+      "confidence": "92%"
+    },
+    {
+      "name": "Apple sauce container",
+      "portion_estimate": "150g",
+      "confidence": "87%"
+    },
+    {
+      "name": "Garlic bread",
+      "portion_estimate": "60g",
+      "confidence": "94%"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "golden-brown penne pasta with tomato sauce and red peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "fish with orange sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "assortment of nuts",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "slice of lemon",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sugar",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

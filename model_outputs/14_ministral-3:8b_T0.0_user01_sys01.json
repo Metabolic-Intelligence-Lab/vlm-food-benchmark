@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad with shredded carrots and radicchio",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with tomato sauce (pennelle/penne)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll (ciabatta or similar)",
+      "portion_estimate": "70g",
+      "confidence": 80
+    },
+    {
+      "name": "fried cutlet (likely veal or chicken) with tomato sauce",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "water in clear plastic cup",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

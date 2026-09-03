@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "egg omelet with vegetables on top",
+      "portion_estimate": "approximate weight in grams for the egg and veggies combined, as they are mixed together.",
+      "confidence": 70
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain but likely several ounces given quantity visible. (This assumes that these have not been significantly prepared or portioned before)",
+      "confidence": 50
+    },
+    {
+      "name": "pomegranate fruit with a bite taken out of it.",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

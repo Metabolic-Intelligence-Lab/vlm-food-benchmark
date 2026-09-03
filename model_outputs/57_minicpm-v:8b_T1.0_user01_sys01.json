@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Fried egg with mushroom",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Penne pasta with tomato sauce and basil",
+      "portion_estimate": "200g - 300g",
+      "confidence": "90"
+    }
+  ]
+}

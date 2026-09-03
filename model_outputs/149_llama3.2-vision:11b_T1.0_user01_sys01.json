@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    },
+    {
+      "name": "Sage",
+      "portion_estimate": "5g",
+      "confidence": "70"
+    },
+    {
+      "name": "Carrot",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "40g",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with pesto",
+      "portion_estimate": "uncertain, approximately 200g",
+      "confidence": "65"
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "uncertain, approximately 100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Yellow cheese slice (possibly a quiche or custard)",
+      "portion_estimate": "uncertain, possibly around 50-70g",
+      "confidence": "45"
+    }
+  ]
+}

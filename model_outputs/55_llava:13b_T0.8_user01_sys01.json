@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken breast",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    },
+    {
+      "name": "quinoa",
+      "portion_estimate": "50g",
+      "confidence": "65"
+    },
+    {
+      "name": "carrot slices",
+      "portion_estimate": "25g",
+      "confidence": "80"
+    },
+    {
+      "name": "spinach leaves",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    }
+  ]
+}

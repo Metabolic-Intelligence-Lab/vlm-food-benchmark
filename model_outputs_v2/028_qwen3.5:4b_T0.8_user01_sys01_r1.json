@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato and vegetable sauce",
+      "portion_estimate": "280",
+      "confidence": 90
+    },
+    {
+      "name": "Steamed spinach",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "Pasta roll or crepe with filling (likely spinach)",
+      "portion_estimate": "80",
+      "confidence": 75
+    },
+    {
+      "name": "Salad (mixed vegetables)",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "340",
+      "confidence": 85
+    }
+  ]
+}

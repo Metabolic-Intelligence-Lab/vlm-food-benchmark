@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pieces of potato",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "Saucy-looking substance (gravy or sauce)",
+      "portion_estimate": "150g",
+      "confidence": 60
+    },
+    {
+      "name": "Meat (pork or chicken)",
+      "portion_estimate": "100g",
+      "confidence": 60
+    }
+  ]
+}

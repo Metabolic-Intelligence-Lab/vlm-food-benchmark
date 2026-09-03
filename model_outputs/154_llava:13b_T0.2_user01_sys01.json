@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "meatballs and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta (spaghetti or other noodle dish) with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad or mixed vegetables (including broccoli and other greens/vegetables)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roll or bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "muffin or cookie",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

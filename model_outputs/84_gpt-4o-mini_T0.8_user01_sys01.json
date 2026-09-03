@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli with potatoes",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed vegetables (carrots, peas, and potatoes)",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "40",
+      "confidence": "80"
+    },
+    {
+      "name": "baked chicken with sauce",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

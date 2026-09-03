@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain, approx. bowl size",
+      "confidence": "50"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain, slice of a typical bread roll",
+      "confidence": "60"
+    },
+    {
+      "name": "yogurt with fruit",
+      "portion_estimate": "125g",
+      "confidence": "90"
+    },
+    {
+      "name": "chips on toast",
+      "portion_estimate": "uncertain, approx. plate size",
+      "confidence": "60"
+    },
+    {
+      "name": "green vegetables",
+      "portion_estimate": "uncertain, approx. portion of a typical serving",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken with salad",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "Soup (likely lentil or vegetable)",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "Yomo Yoghurt (approx. 125g)",
+      "portion_estimate": "125",
+      "confidence": 80
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250",
+      "confidence": 95
+    }
+  ]
+}

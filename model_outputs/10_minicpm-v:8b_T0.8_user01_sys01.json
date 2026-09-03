@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Sour cream",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pinto beans or soup with cheese",
+      "portion_estimate": "70g (approximate weight for a cup of cooked pinto beans, based on average size)",
+      "confidence": "90"
+    },
+    {
+      "name": "Round bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Diced potatoes with white cheese sauce and green herb dressing",
+      "portion_estimate": "120g (approximate weight for a serving of diced cooked potato, based on average size)",
+      "confidence": "90"
+    }
+  ]
+}

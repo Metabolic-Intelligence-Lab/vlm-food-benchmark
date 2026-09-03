@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Diced carrots",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Cooked chicken pieces",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Green olives",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    },
+    {
+      "name": "Whole apple",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "220g",
+      "confidence": "95"
+    }
+  ]
+}

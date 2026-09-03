@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with dumplings",
+      "portion_estimate": "300g",
+      "confidence": "80"
+    },
+    {
+      "name": "Dinner rolls",
+      "portion_estimate": "15g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried chicken tenders",
+      "portion_estimate": "85g",
+      "confidence": "60"
+    },
+    {
+      "name": "Hash browns or potato wedges",
+      "portion_estimate": "230g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cooked breakfast potatoes",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    }
+  ]
+}

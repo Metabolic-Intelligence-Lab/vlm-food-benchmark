@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli and potato mix",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "bread slices",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "vegetable mix with peas, carrots, and potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "breaded meat or fish cutlet with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    }
+  ]
+}

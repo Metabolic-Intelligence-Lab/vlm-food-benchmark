@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "dinner roll",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed roasted vegetables (carrots, broccoli, potatoes)",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "savory muffin (spinach & cheese)",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "50",
+      "confidence": "75"
+    }
+  ]
+}

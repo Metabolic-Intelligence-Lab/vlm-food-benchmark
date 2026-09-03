@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "oranges",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "nuts",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "yellow rice with purple flowers and black sesame seeds",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "loaf of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

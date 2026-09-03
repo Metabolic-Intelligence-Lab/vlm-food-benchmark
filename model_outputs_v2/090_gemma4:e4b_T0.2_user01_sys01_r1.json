@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "White rice",
+      "portion_estimate": "280g",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mixed rice salad",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Lime",
+      "portion_estimate": "60g",
+      "confidence": "95"
+    },
+    {
+      "name": "Cooked carrots",
+      "portion_estimate": "230g",
+      "confidence": "95"
+    }
+  ]
+}

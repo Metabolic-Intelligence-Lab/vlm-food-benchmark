@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled or baked chicken breast (two slices)",
+      "portion_estimate": "180-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed salad with shredded carrots, purple cabbage, and dressing",
+      "portion_estimate": "120-150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pasta (penne) with sauce and herbs",
+      "portion_estimate": "150-180 grams (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat bread (one slice)",
+      "portion_estimate": "40-50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (small container)",
+      "portion_estimate": "uncertain (likely 100-150 grams)",
+      "confidence": 55
+    },
+    {
+      "name": "water in clear plastic cup",
+      "portion_estimate": "uncertain (likely 200-250 ml)",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "cup of milk (likely low fat)",
+      "portion_estimate": "250 mL or 1/4 cup",
+      "confidence": 90
+    },
+    {
+      "name": "bowl of salad containing lettuce and possibly other greens",
+      "portion_estimate": "100-200 grams",
+      "confidence": 60
+    },
+    {
+      "name": "serving of cooked spinach",
+      "portion_estimate": "50 grams or less",
+      "confidence": 70
+    },
+    {
+      "name": "cup of what appears to be a hot beverage, possibly coffee or tea",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "plate with a serving of pasta and what could be tomato-based sauce",
+      "portion_estimate": "100-200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "bowl containing what seems like a vegetable dish, possibly containing kale or similar leafy greens",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "sandwich that could be made with whole grain bread and might contain various fillings such as cheese, tomato, lettuce, or avocado",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "small container of a condiment or side dish (possibly yogurt or sour cream)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "plate with what appears to be some form of cooked vegetable, possibly broccoli or cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

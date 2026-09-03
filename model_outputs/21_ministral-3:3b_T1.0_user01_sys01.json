@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish fillet (potato pancake topping)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "grilled green beans with mushrooms",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "potatoes with carrot mash & potato gratin",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "plain water (from clear glass)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "plum sauce with black plums",
+      "portion_estimate": "30",
+      "confidence": 70
+    }
+  ]
+}

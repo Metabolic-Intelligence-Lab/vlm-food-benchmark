@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "meatloaf with mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sugar packet",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

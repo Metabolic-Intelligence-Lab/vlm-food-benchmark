@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Sliced pizza",
+      "portion_estimate": "2 slices",
+      "confidence": "70"
+    },
+    {
+      "name": "Italian dish with beans",
+      "portion_estimate": "1 bowl",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "1 roll",
+      "confidence": "60"
+    },
+    {
+      "name": "Soup with croutons and cheese",
+      "portion_estimate": "1 bowl",
+      "confidence": "90"
+    },
+    {
+      "name": "Side of steamed vegetables",
+      "portion_estimate": "1 cup",
+      "confidence": "50"
+    }
+  ]
+}

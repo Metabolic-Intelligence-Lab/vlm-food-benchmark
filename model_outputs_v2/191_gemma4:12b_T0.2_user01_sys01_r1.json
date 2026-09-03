@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green soup",
+      "portion_estimate": "350g",
+      "confidence": "95"
+    },
+    {
+      "name": "Sliced carrots",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Breaded croquettes",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Small snack cup",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Green leafy vegetables",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    }
+  ]
+}

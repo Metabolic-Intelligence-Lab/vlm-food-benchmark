@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy tomato-based soup with grated cheese",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "steamed or saut\u00e9ed green leafy vegetables (likely spinach or kale)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "small mushroom (likely cremini or shiitake) with olive oil",
+      "portion_estimate": "15g",
+      "confidence": 70
+    },
+    {
+      "name": "plain lemon",
+      "portion_estimate": "120g (whole fruit)",
+      "confidence": 95
+    },
+    {
+      "name": "packaged doughnut or pastry (likely a sweet bun)",
+      "portion_estimate": "50g",
+      "confidence": 75
+    }
+  ]
+}

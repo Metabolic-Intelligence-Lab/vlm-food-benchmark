@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "seasoned ground meat",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup (pureed/strained, likely spinach or herb soup)",
+      "portion_estimate": "450 g",
+      "confidence": "70"
+    },
+    {
+      "name": "round grain patty/cake (possibly lentil or bulgur) with red sauce",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "cooked leafy greens (stewed greens)",
+      "portion_estimate": "90 g",
+      "confidence": "65"
+    },
+    {
+      "name": "packaged breadsticks/crispbread (thin sticks)",
+      "portion_estimate": "35 g",
+      "confidence": "60"
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "75"
+    }
+  ]
+}

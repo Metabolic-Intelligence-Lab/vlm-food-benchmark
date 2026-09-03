@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Sauce",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Yomo Yogurt",
+      "portion_estimate": "125",
+      "confidence": 70
+    },
+    {
+      "name": "Fruit (apple)",
+      "portion_estimate": "100",
+      "confidence": 65
+    }
+  ]
+}

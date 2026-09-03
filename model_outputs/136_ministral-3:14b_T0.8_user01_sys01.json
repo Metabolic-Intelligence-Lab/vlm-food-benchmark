@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": "200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "mixed vegetables (carrots, green peas, corn, and bell peppers)",
+      "portion_estimate": "70 grams",
+      "confidence": 90
+    },
+    {
+      "name": "tomato-based pasta sauce",
+      "portion_estimate": "80 grams",
+      "confidence": 95
+    }
+  ]
+}

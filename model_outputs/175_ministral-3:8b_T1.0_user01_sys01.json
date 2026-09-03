@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bacon strips",
+      "portion_estimate": 50,
+      "confidence": 75
+    },
+    {
+      "name": "green beans (with sauce)",
+      "portion_estimate": 150,
+      "confidence": 75
+    },
+    {
+      "name": "diced chicken in creamy sauce",
+      "portion_estimate": 100,
+      "confidence": 70
+    },
+    {
+      "name": "spinach salad with dressing and chunks (likely cheese or croutons)",
+      "portion_estimate": 120,
+      "confidence": 65
+    },
+    {
+      "name": "orange (whole)",
+      "portion_estimate": 130,
+      "confidence": 90
+    }
+  ]
+}

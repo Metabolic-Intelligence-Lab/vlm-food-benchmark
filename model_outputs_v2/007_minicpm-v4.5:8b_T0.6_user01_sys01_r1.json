@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chickpea soup",
+      "portion_estimate": "300-400g",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50-70g",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "150-200g",
+      "confidence": 70
+    },
+    {
+      "name": "breaded cutlet (likely chicken or fish)",
+      "portion_estimate": "100-150g",
+      "confidence": 70
+    }
+  ]
+}

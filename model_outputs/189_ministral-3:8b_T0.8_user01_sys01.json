@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of what appears to be coffee or black tea (likely with milk)",
+      "portion_estimate": "300 grams (typical coffee cup size)",
+      "confidence": 85
+    },
+    {
+      "name": "small portion of condiment/sauce (likely spicy or tomato-based)",
+      "portion_estimate": "20 grams",
+      "confidence": 80
+    },
+    {
+      "name": "green vegetable mix (possibly stir-fried cabbage or broccoli)",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "canned yogurt or dairy product with lid partially removed",
+      "portion_estimate": "uncertain (likely 100-150 grams based on common cup sizes)",
+      "confidence": 65
+    },
+    {
+      "name": "packaged crackers or biscuits (brand not fully visible)",
+      "portion_estimate": "uncertain (partially visible, likely ~30-50 grams for 3-4 pieces)",
+      "confidence": 60
+    }
+  ]
+}

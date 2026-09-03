@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "uncertain ingredient",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "uncertain ingredient",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

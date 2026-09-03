@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed or saut\u00e9ed broccoli with potato cubes",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "soup (appears to be creamy broth-based soup, likely contains vegetables like carrots and peas)",
+      "portion_estimate": "200 grams",
+      "confidence": 70
+    },
+    {
+      "name": "whole soft-boiled egg",
+      "portion_estimate": "70 grams",
+      "confidence": 85
+    },
+    {
+      "name": "breaded fried potato patty or latke",
+      "portion_estimate": "120 grams",
+      "confidence": 70
+    },
+    {
+      "name": "plain or lightly sugared baked apple wedge",
+      "portion_estimate": "80 grams",
+      "confidence": 65
+    }
+  ]
+}

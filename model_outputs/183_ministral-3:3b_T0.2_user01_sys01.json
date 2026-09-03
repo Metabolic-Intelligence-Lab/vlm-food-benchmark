@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "savory quiche or pie slice",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "small baguette or sandwich roll (partially visible)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "soup in a bowl (likely vegetable or meat-based)",
+      "portion_estimate": "250 grams",
+      "confidence": 95
+    },
+    {
+      "name": "steamed broccoli florets",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    }
+  ]
+}

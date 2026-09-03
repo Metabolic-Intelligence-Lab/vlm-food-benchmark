@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "baked potato (skin-on, partially mashed)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed mixed vegetables (carrots, green beans, corn, mushrooms)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "steamed collard greens",
+      "portion_estimate": "100",
+      "confidence": 88
+    },
+    {
+      "name": "water (in clear plastic cup, ~16 oz/473 mL serving)",
+      "portion_estimate": "473",
+      "confidence": 95
+    }
+  ]
+}

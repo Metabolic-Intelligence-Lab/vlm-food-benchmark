@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Shredded cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Mashed potatoes or similar side dish",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Small roll",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

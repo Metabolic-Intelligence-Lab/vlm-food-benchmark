@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried cutlet (cotoletta/schnitzel)",
+      "portion_estimate": "120",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed diced vegetables (carrots, peas, potatoes, mushrooms, zucchini)",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "pasta shells (gnocchetti) with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "water in plastic cup",
+      "portion_estimate": "150",
+      "confidence": "60"
+    }
+  ]
+}

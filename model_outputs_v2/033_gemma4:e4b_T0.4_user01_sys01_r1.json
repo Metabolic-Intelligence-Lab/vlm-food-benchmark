@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked spaghetti noodles",
+      "portion_estimate": "300",
+      "confidence": "95"
+    },
+    {
+      "name": "omelet/scramble with mixed vegetables and ham slice",
+      "portion_estimate": "280",
+      "confidence": "90"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "90",
+      "confidence": "85"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "180",
+      "confidence": "95"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "320",
+      "confidence": "100"
+    }
+  ]
+}

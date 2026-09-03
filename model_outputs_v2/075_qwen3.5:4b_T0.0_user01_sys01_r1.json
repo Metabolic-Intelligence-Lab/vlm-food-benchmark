@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Potatoes with herbs and possibly cream",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "White fish fillet with cream sauce",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "Baked beans in tomato sauce",
+      "portion_estimate": "250",
+      "confidence": 95
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "300",
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "80",
+      "confidence": 80
+    }
+  ]
+}

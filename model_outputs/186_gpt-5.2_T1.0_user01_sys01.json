@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked chopped potato and minced meat mixture (hash-like)",
+      "portion_estimate": "250 g",
+      "confidence": "70"
+    },
+    {
+      "name": "sliced roasted pork or ham (2 slices)",
+      "portion_estimate": "90 g",
+      "confidence": "65"
+    },
+    {
+      "name": "boiled potato slices",
+      "portion_estimate": "150 g",
+      "confidence": "60"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "75"
+    },
+    {
+      "name": "clear carbonated beverage (possibly sparkling water or soda) in plastic cup",
+      "portion_estimate": "200 g",
+      "confidence": "55"
+    }
+  ]
+}

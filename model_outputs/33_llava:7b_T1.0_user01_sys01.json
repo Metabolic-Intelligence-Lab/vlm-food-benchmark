@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "Veggie Omelette",
+      "portion_estimate": "130g (4 oz)",
+      "confidence": "85"
+    },
+    {
+      "name": "Garlic Bread",
+      "portion_estimate": "70g (2.5 oz)",
+      "confidence": "60"
+    },
+    {
+      "name": "Steamed Carrots with Butter and Pepper",
+      "portion_estimate": "150g (5.3 oz)",
+      "confidence": "70"
+    },
+    {
+      "name": "Garlic and Lemon Grilled Salmon",
+      "portion_estimate": "150g (5.3 oz)",
+      "confidence": "80"
+    },
+    {
+      "name": "Steamed Asparagus with Mushrooms and White Sauce",
+      "portion_estimate": "210g (7.4 oz)",
+      "confidence": "65"
+    },
+    {
+      "name": "Napkin Rolls",
+      "portion_estimate": "3 pieces",
+      "confidence": "80"
+    },
+    {
+      "name": "Spaghetti with Sauce and Cheese",
+      "portion_estimate": "180g (6.3 oz)",
+      "confidence": "75"
+    },
+    {
+      "name": "White Sauce",
+      "portion_estimate": "45g (1.6 oz)",
+      "confidence": "70"
+    },
+    {
+      "name": "Grilled Salmon with Pesto",
+      "portion_estimate": "150g (5.3 oz)",
+      "confidence": "80"
+    }
+  ]
+}

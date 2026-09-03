@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "fried fish fillet",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed green salad",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

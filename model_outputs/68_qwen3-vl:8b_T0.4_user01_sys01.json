@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "small shell pasta",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "sliced cherry tomatoes",
+      "portion_estimate": "30",
+      "confidence": "80"
+    },
+    {
+      "name": "carrot strips",
+      "portion_estimate": "20",
+      "confidence": "80"
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "25",
+      "confidence": "75"
+    },
+    {
+      "name": "ham pieces",
+      "portion_estimate": "15",
+      "confidence": "70"
+    },
+    {
+      "name": "feta cheese",
+      "portion_estimate": "10",
+      "confidence": "70"
+    },
+    {
+      "name": "basil leaves",
+      "portion_estimate": "5",
+      "confidence": "60"
+    }
+  ]
+}

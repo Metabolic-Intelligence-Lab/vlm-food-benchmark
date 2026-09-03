@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "70g",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrot slices",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Egg omelette with vegetables",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ]
+}

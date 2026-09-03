@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fish (Baked)",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Broccoli (Steamed)",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "White Bread (Crumbly)",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    }
+  ]
+}

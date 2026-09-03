@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grilled salmon fillet",
+      "portion_estimate": "130 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked short pasta (rigatoni) with light sauce/cheese",
+      "portion_estimate": "220 g",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked cauliflower pieces",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "plain bread roll (bun)",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    }
+  ]
+}

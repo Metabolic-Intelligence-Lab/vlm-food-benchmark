@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "uncertain, but approx. 200g per bowl",
+      "confidence": "75"
+    },
+    {
+      "name": "toasted sandwich with lettuce and tomato on whole grain bread",
+      "portion_estimate": "approx. 150g for the sandwich portion alone",
+      "confidence": "80"
+    },
+    {
+      "name": "dark green leafy vegetable (possibly spinach or kale)",
+      "portion_estimate": "uncertain, but approx. 70-90g per serving",
+      "confidence": "65"
+    }
+  ]
+}

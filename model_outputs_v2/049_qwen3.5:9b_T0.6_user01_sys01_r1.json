@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta",
+      "portion_estimate": 100,
+      "confidence": 95
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": 30,
+      "confidence": 92
+    },
+    {
+      "name": "chicken pieces",
+      "portion_estimate": 40,
+      "confidence": 85
+    },
+    {
+      "name": "diced tomatoes",
+      "portion_estimate": 30,
+      "confidence": 90
+    },
+    {
+      "name": "yogurt or sour cream base",
+      "portion_estimate": 60,
+      "confidence": 80
+    }
+  ]
+}

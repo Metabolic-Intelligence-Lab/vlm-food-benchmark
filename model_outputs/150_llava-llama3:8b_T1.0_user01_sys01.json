@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "golden brown rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fresh fruits and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "meat and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

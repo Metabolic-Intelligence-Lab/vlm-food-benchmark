@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice with yellow seasoning",
+      "portion_estimate": "220 g",
+      "confidence": "80"
+    },
+    {
+      "name": "brown curry or gravy sauce",
+      "portion_estimate": "50 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked chicken pieces",
+      "portion_estimate": "90 g",
+      "confidence": "55"
+    },
+    {
+      "name": "shredded cabbage or mixed vegetables",
+      "portion_estimate": "40 g",
+      "confidence": "60"
+    }
+  ]
+}

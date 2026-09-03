@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta shells in tomato sauce",
+      "portion_estimate": "250 g",
+      "confidence": "72"
+    },
+    {
+      "name": "breaded chicken cutlet (fried or baked)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked broccoli (possibly saut\u00e9ed or steamed)",
+      "portion_estimate": "140 g",
+      "confidence": "74"
+    },
+    {
+      "name": "meatballs in light sauce/gravy (3 pieces)",
+      "portion_estimate": "150 g",
+      "confidence": "68"
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "70 g",
+      "confidence": "78"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "160 g",
+      "confidence": "85"
+    }
+  ]
+}

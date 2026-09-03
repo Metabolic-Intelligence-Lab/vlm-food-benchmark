@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "protein source (possibly chicken or fish)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "carbohydrate (pasta or rice)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "fruit (orange)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

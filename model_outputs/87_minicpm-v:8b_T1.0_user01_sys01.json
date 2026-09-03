@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Asparagus with yellow spices and sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Baked goods (possibly apple pie)",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Fruit, likely peach or apricot",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    }
+  ]
+}

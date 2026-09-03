@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable soup (with cheese)",
+      "portion_estimate": "220",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread slice (wrapped)",
+      "portion_estimate": "35",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread cracker",
+      "portion_estimate": "20",
+      "confidence": "60"
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "50",
+      "confidence": "60"
+    }
+  ]
+}

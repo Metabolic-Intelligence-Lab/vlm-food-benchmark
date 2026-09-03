@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "pasta with meat sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "slice of lasagna",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "75 grams (each)",
+      "confidence": "90"
+    }
+  ]
+}

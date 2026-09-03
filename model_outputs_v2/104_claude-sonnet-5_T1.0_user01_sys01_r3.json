@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup with grated parmesan cheese",
+      "portion_estimate": "350",
+      "confidence": "80"
+    },
+    {
+      "name": "boiled peas and carrots side dish",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "bread rolls (packaged)",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "fruit yogurt or fruit compote cup (sealed, label partially visible)",
+      "portion_estimate": "125",
+      "confidence": "55"
+    },
+    {
+      "name": "individually wrapped cheese portion",
+      "portion_estimate": "20",
+      "confidence": "50"
+    }
+  ]
+}

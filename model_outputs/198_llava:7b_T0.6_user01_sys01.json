@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Piece of grilled chicken",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Rice pilaf with vegetables",
+      "portion_estimate": "200 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Steamed broccoli",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Sauce on the side",
+      "portion_estimate": "1 tablespoon",
+      "confidence": "60"
+    }
+  ]
+}

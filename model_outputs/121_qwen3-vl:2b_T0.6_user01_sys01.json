@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "100",
+      "confidence": "100"
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "150",
+      "confidence": "100"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "100",
+      "confidence": "100"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "100",
+      "confidence": "100"
+    },
+    {
+      "name": "panini",
+      "portion_estimate": "100",
+      "confidence": "100"
+    }
+  ]
+}

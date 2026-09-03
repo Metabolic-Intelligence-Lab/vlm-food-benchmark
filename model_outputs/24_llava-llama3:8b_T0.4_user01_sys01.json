@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange cakes",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "black beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "brown rice",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "white cup and saucer",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

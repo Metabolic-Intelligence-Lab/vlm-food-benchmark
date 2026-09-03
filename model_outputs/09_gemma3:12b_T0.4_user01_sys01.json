@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "lasagna",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed greens salad",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "beverage (likely water)",
+      "portion_estimate": "250",
+      "confidence": "60"
+    }
+  ]
+}

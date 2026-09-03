@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese (parmesan)",
+      "portion_estimate": "180 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted diced potatoes (potato gnocchi-like)",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "sausage patty topped with marinara and cheese sauce",
+      "portion_estimate": "100 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "butter or margarine (container)",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "30 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "olive oil (small packet with green label)",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

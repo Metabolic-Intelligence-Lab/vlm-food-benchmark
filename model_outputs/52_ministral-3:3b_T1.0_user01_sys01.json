@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cheese and cracker pack (single serving box)",
+      "portion_estimate": "15 grams",
+      "confidence": 90
+    },
+    {
+      "name": "beetroot/cranberry salad with carrot shavings and onion (1 plate)",
+      "portion_estimate": "200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "two slices of bread (whole grain)",
+      "portion_estimate": "100 grams",
+      "confidence": 92
+    },
+    {
+      "name": "penne pasta with sauce",
+      "portion_estimate": "350 grams",
+      "confidence": 93
+    }
+  ]
+}

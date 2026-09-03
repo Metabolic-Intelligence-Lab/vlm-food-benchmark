@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "whole milk (200ml carton, likely 2% fat)",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "chocolate zigzag cookie (Starbucks-style)",
+      "portion_estimate": "45",
+      "confidence": 85
+    },
+    {
+      "name": "chocolate zigzag sandwich cookie (Starbucks-style)",
+      "portion_estimate": "60",
+      "confidence": 85
+    }
+  ]
+}

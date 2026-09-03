@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    }
+  ]
+}

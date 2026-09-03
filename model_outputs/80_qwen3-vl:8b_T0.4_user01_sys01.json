@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "name": "mixed rice with vegetables",
+      "portion_estimate": 200,
+      "unit": "g",
+      "confidence_level": 90
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": 120,
+      "unit": "g",
+      "confidence_level": 90
+    },
+    {
+      "name": "diced potatoes",
+      "portion_estimate": 170,
+      "unit": "g",
+      "confidence_level": 90
+    },
+    {
+      "name": "omelette",
+      "portion_estimate": 130,
+      "unit": "g",
+      "confidence_level": 85
+    },
+    {
+      "name": "apple",
+      "portion_estimate": 180,
+      "unit": "g",
+      "confidence_level": 85
+    },
+    {
+      "name": "lactose-free gel",
+      "portion_estimate": 25,
+      "unit": "g",
+      "confidence_level": 80
+    }
+  ]
+}

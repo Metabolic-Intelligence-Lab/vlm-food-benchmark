@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta with Tomato Sauce",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Gnocchi with Pesto",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "Yomo Yogurt",
+      "portion_estimate": "100g",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked potato, wrapped in plastic",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "salad with lettuce and tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    },
+    {
+      "name": "broth-based soup, possibly lentil",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "crispy chicken balls or similar",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    },
+    {
+      "name": "glass of water, possibly fruit-flavored",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

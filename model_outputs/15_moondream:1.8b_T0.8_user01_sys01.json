@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "egg salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich or pastry",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

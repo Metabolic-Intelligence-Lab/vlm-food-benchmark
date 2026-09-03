@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "stir-fried rice with vegetables and meat (potsticker filling)",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "carrot and onion soup (orange-colored, likely cream or tomato-based)",
+      "portion_estimate": "350",
+      "confidence": "80"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "130",
+      "confidence": "90"
+    },
+    {
+      "name": "water in transparent cup",
+      "portion_estimate": "250",
+      "confidence": "75"
+    },
+    {
+      "name": "steamed bun (bao) with visible filling (partially visible, bottom left)",
+      "portion_estimate": "70",
+      "confidence": "85"
+    }
+  ]
+}

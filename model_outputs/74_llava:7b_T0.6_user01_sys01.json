@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni and cheese",
+      "portion_estimate": "approx. 100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Beans",
+      "portion_estimate": "approx. 50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "approx. 70g",
+      "confidence": "60"
+    },
+    {
+      "name": "Snap peas",
+      "portion_estimate": "approx. 50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta salad with tomatoes and other vegetables",
+      "portion_estimate": "approx. 200g",
+      "confidence": "70"
+    }
+  ]
+}

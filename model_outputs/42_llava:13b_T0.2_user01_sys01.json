@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted brussel sprouts",
+      "portion_estimate": "75g",
+      "confidence": "60"
+    },
+    {
+      "name": "stuffed bell peppers",
+      "portion_estimate": "80g",
+      "confidence": "70"
+    },
+    {
+      "name": "quinoa and vegetable salad",
+      "portion_estimate": "125g",
+      "confidence": "65"
+    }
+  ]
+}

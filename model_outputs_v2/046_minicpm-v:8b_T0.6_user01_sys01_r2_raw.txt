@@ -1,0 +1,30 @@
+{
+  "food_items": [
+    {
+      "name": "A bowl of soup with green vegetables and cheese on top",
+      "portion_estimate": "uncertain, possibly around 250g",
+      "confidence": "60"
+    },
+    {
+      "name": "Two patties topped with sauteed onions",
+      "portion_estimate": "uncertain, possibly around 100-150g each",
+      "confidence": "70"
+    },
+    {
+      "name": "A salad of cabbage and other vegetables in a bowl",
+      "portion_estimate": "uncertain, possibly around 200g",
+      "confidence": "60"
+    },
+    {
+      "name": "An egg muffin or roll with green branding on it",
+      "portion_estimate": "uncertain, approximately the size of an average English muffin (135-140g)",
+      "confidence": "70"
+    },
+    {
+      "name": "A small container of yogurt labeled 'YOMO foodservice 125g',
+        possibly containing a sweetened fruit or berry flavor",
+      "portion_estimate": "uncertain, approximately the size of an average cupcake (60-80g)",
+      "confidence": "70"
+    }
+  ]
+}

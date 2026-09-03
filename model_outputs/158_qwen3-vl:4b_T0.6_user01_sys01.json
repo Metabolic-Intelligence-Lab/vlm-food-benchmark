@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Meatballs",
+      "portion_estimate": "150 g",
+      "confidence": 80
+    },
+    {
+      "name": "Baked Bread Slice",
+      "portion_estimate": "100 g",
+      "confidence": 70
+    },
+    {
+      "name": "Fusilli Pasta",
+      "portion_estimate": "100 g",
+      "confidence": 80
+    },
+    {
+      "name": "Parmesan Cheese",
+      "portion_estimate": "15 g",
+      "confidence": 60
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50 g",
+      "confidence": 80
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "180 g",
+      "confidence": 80
+    },
+    {
+      "name": "Butter Package",
+      "portion_estimate": "30 g",
+      "confidence": 70
+    }
+  ]
+}

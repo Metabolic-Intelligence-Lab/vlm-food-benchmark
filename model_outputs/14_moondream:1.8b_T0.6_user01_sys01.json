@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta and vegetables (carrots, broccoli)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "meat and noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad ingredients (lettuce, tomatoes)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

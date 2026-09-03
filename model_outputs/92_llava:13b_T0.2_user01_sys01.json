@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Minestrone Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Fried Potatoes (Home Fries)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Side Salad with Purple Cabbage (Coleslaw)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

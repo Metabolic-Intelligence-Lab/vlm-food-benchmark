@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with visible ingredients",
+      "portion_estimate": "100-200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Salad in a bowl",
+      "portion_estimate": "50-100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll on tray",
+      "portion_estimate": "50-100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Cup of tea or coffee",
+      "portion_estimate": "200-300 ml",
+      "confidence": "80"
+    }
+  ]
+}

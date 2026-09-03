@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "candied carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "beans (soup or stew)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "milk",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

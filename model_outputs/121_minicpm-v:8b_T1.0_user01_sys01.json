@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Garlic bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Grilled chicken",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "192g (approx.)",
+      "confidence": "90"
+    }
+  ]
+}

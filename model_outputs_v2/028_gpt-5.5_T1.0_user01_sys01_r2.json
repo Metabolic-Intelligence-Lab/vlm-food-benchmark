@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato-based vegetable sauce",
+      "portion_estimate": "220 g",
+      "confidence": "88"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "92"
+    },
+    {
+      "name": "cooked leafy greens",
+      "portion_estimate": "120 g",
+      "confidence": "86"
+    },
+    {
+      "name": "spinach and cheese stuffed pastry or crepe",
+      "portion_estimate": "130 g",
+      "confidence": "55"
+    },
+    {
+      "name": "mixed salad with cucumber, cabbage, and radicchio",
+      "portion_estimate": "90 g",
+      "confidence": "82"
+    },
+    {
+      "name": "single-serve yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "72"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "75"
+    }
+  ]
+}

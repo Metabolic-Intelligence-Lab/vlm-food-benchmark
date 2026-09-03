@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Assorted bread rolls/loaves",
+      "portion_estimate": "220",
+      "confidence": "90"
+    },
+    {
+      "name": "Green/brown stew or soup",
+      "portion_estimate": "300",
+      "confidence": "80"
+    },
+    {
+      "name": "Crumby side dish (e.g., stuffing or bread crumble)",
+      "portion_estimate": "90",
+      "confidence": "75"
+    },
+    {
+      "name": "Two reddish-brown coated items (e.g., croquettes or dumplings)",
+      "portion_estimate": "140",
+      "confidence": "75"
+    }
+  ]
+}

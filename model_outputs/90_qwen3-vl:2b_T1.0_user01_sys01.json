@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked rice",
+      "portion_estimate": "200 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Carrots and potatoes mix",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken and vegetable mix",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    }
+  ]
+}

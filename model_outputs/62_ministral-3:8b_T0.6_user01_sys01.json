@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce (bowl)",
+      "portion_estimate": "250 grams (uncertain, visual estimate)",
+      "confidence": 65
+    },
+    {
+      "name": "saut\u00e9ed kale with garlic butter",
+      "portion_estimate": "120 grams (uncertain, visual estimate)",
+      "confidence": 70
+    },
+    {
+      "name": "garlic bread roll",
+      "portion_estimate": "70 grams (uncertain, visual estimate)",
+      "confidence": 75
+    },
+    {
+      "name": "sauce packet (likely BBQ or sweet chili sauce)",
+      "portion_estimate": "uncertain (packet not fully visible)",
+      "confidence": 40
+    },
+    {
+      "name": "water (glass)",
+      "portion_estimate": "uncertain (empty glass, no visible liquid)",
+      "confidence": 10
+    }
+  ]
+}

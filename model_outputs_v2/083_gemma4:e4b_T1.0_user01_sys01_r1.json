@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed saut\u00e9ed vegetables and grain dish",
+      "portion_estimate": "175",
+      "confidence": "90"
+    },
+    {
+      "name": "Grilled protein (fish or chicken) with saut\u00e9ed greens",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "Cubed yellow fruit salad (e.g., mango/pineapple)",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "Assortment of bread rolls or buns",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250",
+      "confidence": "95"
+    }
+  ]
+}

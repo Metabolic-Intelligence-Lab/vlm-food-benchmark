@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Orange Jell-O",
+      "portion_estimate": "100-150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pineapple",
+      "portion_estimate": "20-30g",
+      "confidence": "70"
+    },
+    {
+      "name": "Whipped Cream",
+      "portion_estimate": "10-20g",
+      "confidence": "60"
+    }
+  ]
+}

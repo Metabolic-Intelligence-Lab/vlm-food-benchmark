@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "carrot",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

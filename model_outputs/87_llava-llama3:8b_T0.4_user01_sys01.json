@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "roasted vegetables (asparagus and green beans)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "ripe peach",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "blue sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "white sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

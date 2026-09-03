@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with parmesan",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "chicken with potatoes and herbs",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "80",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "Salad with shredded cabbage and carrots, possibly including lettuce or similar greens.",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "Bread roll in plastic wrap (likely a baguette)",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "Fried egg with spinach and feta cheese on toast",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "Spaghetti or linguine with grated parmesan cheese, possibly mixed greens in a bowl.",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    }
+  ]
+}

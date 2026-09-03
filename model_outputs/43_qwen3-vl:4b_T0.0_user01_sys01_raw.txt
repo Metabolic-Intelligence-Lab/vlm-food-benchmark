@@ -1,0 +1,74 @@
+To determine the number of **distinct arrangements** of the letters in the word **"MATHEMATICS"** where **all vowels are together**, we proceed with a structured analysis.
+
+---
+
+### Step 1: Understand the Word and Its Components
+
+The word **"MATHEMATICS"** has **11 letters**. Let's identify the **vowels** and **consonants**:
+
+- **Vowels**: A, E, A, I → **4 vowels**
+- **Consonants**: M, T, H, M, T, C, S → **7 consonants**
+
+Note that:
+- There are **two M's** and **two T's** among the consonants.
+- The vowels include **two A's**.
+
+So, the total number of **distinct arrangements** of all 11 letters (without any restrictions) is:
+
+$$
+\frac{11!}{2! \cdot 2!} = \frac{39916800}{4} = 9979200
+$$
+
+However, we are only interested in those arrangements where **all vowels appear consecutively**.
+
+---
+
+### Step 2: Treat the Vowels as a Single Block
+
+Since all vowels must be together, we treat them as a **single block** or "super letter". This reduces the problem to arranging:
+
+- **1 block** (containing the 4 vowels)
+- **7 consonants**
+
+Thus, we now have **8 items** to arrange: **7 consonants + 1 vowel block**.
+
+But among these 8 items, there are **repeated elements**:
+- Two M's and two T's among the consonants.
+
+So, the number of **distinct arrangements** of these 8 items is:
+
+$$
+\frac{8!}{2! \cdot 2!} = \frac{40320}{4} = 10080
+$$
+
+---
+
+### Step 3: Count the Number of Distinct Arrangements Within the Vowel Block
+
+Within the vowel block, the 4 vowels are: **A, E, A, I**
+
+There are **two A's**, so the number of **distinct permutations** of the vowels is:
+
+$$
+\frac{4!}{2!} = \frac{24}{2} = 12
+$$
+
+---
+
+### Step 4: Total Number of Valid Arrangements
+
+Now, multiply the number of ways to arrange the **entire structure** (block + consonants) by the number of **distinct internal arrangements** of the vowels:
+
+$$
+\text{Total} = \left( \frac{8!}{2! \cdot 2!} \right) \times \left( \frac{4!}{2!} \right) = 10080 \times 12 = 120960
+$$
+
+---
+
+### ✅ Final Answer
+
+$$
+\boxed{120960}
+$$
+
+This is the **number of distinct arrangements** of the letters in **"MATHEMATICS"** where **all vowels appear together**.

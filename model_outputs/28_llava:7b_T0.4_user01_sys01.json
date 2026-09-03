@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Salad with greens and croutons",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta dish with tomato sauce and vegetables",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded and fried meat patty",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    }
+  ]
+}

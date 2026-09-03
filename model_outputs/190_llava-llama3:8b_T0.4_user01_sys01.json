@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "penne pasta with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

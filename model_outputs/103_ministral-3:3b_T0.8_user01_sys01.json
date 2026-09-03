@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "roast pork cutlet",
+      "portion_estimate": "150 grams (approximate from visible slice)",
+      "confidence": 85
+    },
+    {
+      "name": "broccoli florets",
+      "portion_estimate": "80 grams (from visible pile)",
+      "confidence": 80
+    },
+    {
+      "name": "creamy vegetable soup",
+      "portion_estimate": "220 grams (approximate from bowl, assuming 8-10 oz bowl)",
+      "confidence": 75
+    },
+    {
+      "name": "garlic powder or herb seasoning (canister)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "soup spoon",
+      "portion_estimate": "uncertain (not a food item)",
+      "confidence": 50
+    },
+    {
+      "name": "water glass",
+      "portion_estimate": "200 milliliters (assuming standard glass size)",
+      "confidence": 70
+    }
+  ]
+}

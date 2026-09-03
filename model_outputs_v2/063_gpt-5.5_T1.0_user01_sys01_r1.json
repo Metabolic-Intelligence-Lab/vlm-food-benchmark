@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with tomato sauce",
+      "portion_estimate": "250 g",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed shredded vegetable salad with grilled chicken strips",
+      "portion_estimate": "160 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "90"
+    },
+    {
+      "name": "grilled eggplant slice with creamy topping and shredded vegetables",
+      "portion_estimate": "90 g",
+      "confidence": "55"
+    }
+  ]
+}

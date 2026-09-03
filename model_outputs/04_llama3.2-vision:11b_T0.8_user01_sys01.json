@@ -1,0 +1,46 @@
+{
+  "food_items": [
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60,
+      "calories": 350,
+      "fat": "20g",
+      "carbohydrates": "30g",
+      "protein": "20g",
+      "fiber": "5g",
+      "vitamin_a": "10%",
+      "vitamin_c": "20%",
+      "calcium": "10%",
+      "iron": "15%"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 60,
+      "calories": 100,
+      "fat": "uncertain",
+      "carbohydrates": "uncertain",
+      "protein": "uncertain",
+      "fiber": "uncertain",
+      "vitamin_a": "uncertain",
+      "vitamin_c": "uncertain",
+      "calcium": "uncertain",
+      "iron": "uncertain"
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60,
+      "calories": 150,
+      "fat": "uncertain",
+      "carbohydrates": "uncertain",
+      "protein": "uncertain",
+      "fiber": "uncertain",
+      "vitamin_a": "uncertain",
+      "vitamin_c": "uncertain",
+      "calcium": "uncertain",
+      "iron": "uncertain"
+    }
+  ]
+}

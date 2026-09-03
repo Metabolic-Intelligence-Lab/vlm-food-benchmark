@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "legume soup (green/lentil-based) with grated cheese topping",
+      "portion_estimate": "300",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll (panino)",
+      "portion_estimate": "70",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed salad with fennel, radicchio, and shredded vegetables",
+      "portion_estimate": "120",
+      "confidence": "65"
+    },
+    {
+      "name": "breaded and fried vegetable patties (spinach/herb croquettes)",
+      "portion_estimate": "100",
+      "confidence": "55"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "75"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150",
+      "confidence": "60"
+    }
+  ]
+}

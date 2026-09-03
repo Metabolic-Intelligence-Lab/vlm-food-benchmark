@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried food (likely fish or vegetable fritter)",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "roasted potatoes or diced potato dish",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "saut\u00e9ed kale or greens",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "whole apricots",
+      "portion_estimate": "100g (2 apricots)",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll or soft roll",
+      "portion_estimate": "60g",
+      "confidence": 70
+    },
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

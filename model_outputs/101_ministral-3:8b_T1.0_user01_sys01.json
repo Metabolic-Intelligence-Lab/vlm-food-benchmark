@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of penne pasta (plain, without sauce)",
+      "portion_estimate": "180g",
+      "confidence": "75"
+    },
+    {
+      "name": "chopped meat (likely shredded chicken or pork)",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "packaged mayonnaise (e.g., Hellmann's or similar)",
+      "portion_estimate": "uncertain (container not visible)",
+      "confidence": "40"
+    },
+    {
+      "name": "baguette/garlic bread roll",
+      "portion_estimate": "90g",
+      "confidence": "80"
+    },
+    {
+      "name": "pasta bake with visible filling (likely ricotta or cheese) and yellow toppings",
+      "portion_estimate": "250g",
+      "confidence": "65"
+    },
+    {
+      "name": "lemon wedge (unidentified citrus)",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    }
+  ]
+}

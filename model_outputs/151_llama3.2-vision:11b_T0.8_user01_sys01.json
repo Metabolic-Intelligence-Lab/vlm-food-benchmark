@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fish or meat dish with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "pasta dish with rigatoni, mushrooms, and creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "bottle of water",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "tomato-sauced pasta bake or fried pasta",
+      "portion_estimate": "180 g",
+      "confidence": "70"
+    },
+    {
+      "name": "sauced meatball or stuffed meat item",
+      "portion_estimate": "90 g",
+      "confidence": "55"
+    },
+    {
+      "name": "red cabbage and cucumber salad with dressing",
+      "portion_estimate": "100 g",
+      "confidence": "85"
+    },
+    {
+      "name": "two green breadcrumb-coated croquettes or falafel",
+      "portion_estimate": "90 g",
+      "confidence": "65"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with tomato sauce and grated cheese",
+      "portion_estimate": "200 g",
+      "confidence": "78"
+    },
+    {
+      "name": "spinach patty with creamy topping and shredded zucchini",
+      "portion_estimate": "130 g",
+      "confidence": "70"
+    },
+    {
+      "name": "potato and fish (or chicken) gratin/casserole portion",
+      "portion_estimate": "170 g",
+      "confidence": "55"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "90"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "88"
+    }
+  ]
+}

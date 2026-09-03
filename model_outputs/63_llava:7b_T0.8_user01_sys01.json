@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Italian style pasta with red sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Sliced tomato and lettuce salad with croutons",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Chicken Caesar salad with croutons",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    }
+  ]
+}

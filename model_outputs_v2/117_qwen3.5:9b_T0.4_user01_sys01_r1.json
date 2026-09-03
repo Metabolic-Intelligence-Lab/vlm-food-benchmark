@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green vegetable soup with croutons and grated cheese",
+      "portion_estimate": 450,
+      "confidence": 92
+    },
+    {
+      "name": "Small bread roll (baguette style)",
+      "portion_estimate": 85,
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt cup with strawberry topping",
+      "portion_estimate": 120,
+      "confidence": 96
+    },
+    {
+      "name": "Mashed potatoes (with butter)",
+      "portion_estimate": 180,
+      "confidence": 94
+    },
+    {
+      "name": "Stuffed green peppers (meat filling with sauce)",
+      "portion_estimate": 220,
+      "confidence": 93
+    }
+  ]
+}

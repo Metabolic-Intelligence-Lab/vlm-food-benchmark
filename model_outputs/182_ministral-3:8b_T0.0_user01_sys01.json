@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with meat sauce (likely rigatoni or similar)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "broccoli florets",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "cheese-filled pasta (e.g., ravioli or tortellini)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "packaged butter or margarine",
+      "portion_estimate": "uncertain (portion not visible)",
+      "confidence": 50
+    },
+    {
+      "name": "clementines or small oranges",
+      "portion_estimate": "200 grams (two whole fruits)",
+      "confidence": 90
+    }
+  ]
+}

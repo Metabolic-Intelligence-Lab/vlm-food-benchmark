@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Broccoli casserole",
+      "portion_estimate": "120 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Breaded and fried chicken",
+      "portion_estimate": "100 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed green salad with dressing",
+      "portion_estimate": "75 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Sourdough bread roll",
+      "portion_estimate": "30 grams",
+      "confidence": "40"
+    },
+    {
+      "name": "Cup of coffee with creamer",
+      "portion_estimate": "150 ml",
+      "confidence": "20"
+    }
+  ]
+}

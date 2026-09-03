@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bean or lentil soup",
+      "portion_estimate": "100-150g",
+      "confidence": 90
+    },
+    {
+      "name": "vegetables (Brussels sprouts, carrots, meat/fish)",
+      "portion_estimate": "50-75g",
+      "confidence": 80
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "25-50g",
+      "confidence": 70
+    }
+  ]
+}

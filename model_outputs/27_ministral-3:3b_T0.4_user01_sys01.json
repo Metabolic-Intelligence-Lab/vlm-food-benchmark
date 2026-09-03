@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried penne pasta",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "green leafy vegetable (likely kale or spinach)",
+      "portion_estimate": "70",
+      "confidence": 85
+    },
+    {
+      "name": "toasted sandwich with cheese and herbs (top bun)",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "plain milk",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "packaged butter (small container)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "plain yogurt (red container)",
+      "portion_estimate": "100",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "eggs with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "spinach greens",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "uncertain",
+      "confidence": 25
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 15
+    }
+  ]
+}

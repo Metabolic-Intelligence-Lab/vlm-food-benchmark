@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain bread with butter",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed vegetables (potatoes and greens)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Grilled chicken with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

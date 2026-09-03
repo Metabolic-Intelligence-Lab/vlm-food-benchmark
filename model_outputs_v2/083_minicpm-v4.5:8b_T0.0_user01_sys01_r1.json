@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish with vegetables",
+      "portion_estimate": "150-200g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "100-120g",
+      "confidence": 85
+    },
+    {
+      "name": "mushroom with greens",
+      "portion_estimate": "50-70g",
+      "confidence": 70
+    },
+    {
+      "name": "couscous with chickpeas and greens",
+      "portion_estimate": "150-200g",
+      "confidence": 85
+    },
+    {
+      "name": "small roll (bun)",
+      "portion_estimate": "30-40g",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (in plastic container)",
+      "portion_estimate": "100-120g",
+      "confidence": 80
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "200-250ml",
+      "confidence": 90
+    }
+  ]
+}

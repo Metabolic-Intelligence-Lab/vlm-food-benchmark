@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "beef stew",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "peaches",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "egg omelette",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

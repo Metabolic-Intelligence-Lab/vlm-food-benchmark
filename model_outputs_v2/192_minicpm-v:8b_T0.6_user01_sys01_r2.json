@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "yellow bell pepper",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "carrot sticks with sauce",
+      "portion_estimate": "170g (approximate)",
+      "confidence": "80"
+    },
+    {
+      "name": "pasta carbonara",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

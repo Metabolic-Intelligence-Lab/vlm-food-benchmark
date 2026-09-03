@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chopped pumpkin",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "bowl of soup",
+      "portion_estimate": "200",
+      "confidence": "70"
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "pancake with yellow spread",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "unidentifiable wrapped item",
+      "portion_estimate": "100",
+      "confidence": "50"
+    }
+  ]
+}

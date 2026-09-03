@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and meatballs",
+      "portion_estimate": "200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Garden salad",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Sliced bread roll with spreads",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Pile of fries or potato wedges",
+      "portion_estimate": "100 grams",
+      "confidence": "60"
+    }
+  ]
+}

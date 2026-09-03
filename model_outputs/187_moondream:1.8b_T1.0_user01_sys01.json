@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "green beans and mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "meat and pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

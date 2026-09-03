@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Shell pasta with creamy sauce and grated cheese",
+      "portion_estimate": "220",
+      "confidence": "95"
+    },
+    {
+      "name": "Fried piece (e.g., hash or fritter)",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried potato pieces/chips",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "110",
+      "confidence": "95"
+    }
+  ]
+}

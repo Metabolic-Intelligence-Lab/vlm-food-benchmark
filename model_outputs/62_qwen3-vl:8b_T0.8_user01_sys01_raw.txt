@@ -1,0 +1,36 @@
+\boxed{
+  {
+    "food_items": [
+      {
+        "name": "Pasta with tomato sauce and vegetables",
+        "portion_estimate": "150g",
+        "confidence": 80
+      },
+      {
+        "name": "Cooked spinach",
+        "portion_estimate": "100g",
+        "confidence": 80
+      },
+      {
+        "name": "Potato with sauce",
+        "portion_estimate": "100g",
+        "confidence": 70
+      },
+      {
+        "name": "Bread roll",
+        "portion_estimate": "50g",
+        "confidence": 70
+      },
+      {
+        "name": "Yogurt",
+        "portion_estimate": "100g",
+        "confidence": 70
+      },
+      {
+        "name": "Water",
+        "portion_estimate": "200g",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad with croutons and dressing",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Pizza slice with various toppings",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "1 medium apple",
+      "confidence": "90"
+    }
+  ]
+}

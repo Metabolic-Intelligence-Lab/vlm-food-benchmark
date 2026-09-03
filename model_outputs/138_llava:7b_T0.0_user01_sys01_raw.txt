@@ -1,0 +1,19 @@
+The image shows a dish that appears to be a type of rice pilaf, possibly with vegetables and some kind of protein. It's served in a clear plastic container. There are two photos side by side, one showing the dish from a slightly different angle than the other.
+
+The dish contains what looks like brown rice mixed with green herbs or vegetables, which could be spinach or another leafy green. The portion size is estimated to be approximately 150 grams.
+
+Here's the JSON output:
+
+```json
+{
+  "food_items": [
+    {
+      "name": "Rice pilaf with vegetables",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    }
+  ]
+}
+```
+
+Please note that the confidence level is an estimation based on the visible content of the dish and may not accurately reflect the actual composition or portion size.

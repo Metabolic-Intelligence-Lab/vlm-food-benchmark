@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 95
+    },
+    {
+      "name": "baked potato or pasta bake",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "grilled cheese sandwich with tomato and corn",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "carrot salad",
+      "portion_estimate": "150",
+      "confidence": 95
+    }
+  ]
+}

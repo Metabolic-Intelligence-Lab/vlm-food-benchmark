@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "red cup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water glass",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

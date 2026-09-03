@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "red pasta dish",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "roasted vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fish with greens and roll",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sugar packets",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "red jam packet",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

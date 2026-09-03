@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Crispy fried food",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Pickled vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "125g",
+      "confidence": "80"
+    }
+  ]
+}

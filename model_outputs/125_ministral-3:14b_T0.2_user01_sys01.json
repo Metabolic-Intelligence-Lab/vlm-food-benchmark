@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "beef or vegetable stew with dumplings",
+      "portion_estimate": "400",
+      "confidence": 85
+    },
+    {
+      "name": "fried dough ball with purple cabbage filling (e.g., pierogi or similar)",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "sour cream or similar dairy spread",
+      "portion_estimate": "30",
+      "confidence": 75
+    },
+    {
+      "name": "hard-boiled egg (partially visible)",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt or similar dairy product (partially visible, in container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "plastic container of butter or margarine",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

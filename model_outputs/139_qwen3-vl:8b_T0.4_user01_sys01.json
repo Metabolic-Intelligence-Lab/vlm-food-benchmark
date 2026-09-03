@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Banana",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "Macaroni and Cheese",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "Chicken Breast",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "Diced Carrots",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "Diced Onions",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "Fruit Spread (e.g., Jam or Jelly)",
+      "portion_estimate": "30g",
+      "confidence": 70
+    }
+  ]
+}

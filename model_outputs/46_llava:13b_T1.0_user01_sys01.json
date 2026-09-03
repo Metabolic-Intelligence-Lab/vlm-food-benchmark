@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "150-200g",
+      "confidence": "65"
+    },
+    {
+      "name": "serving of salad with cheese croutons and blueberries",
+      "portion_estimate": "70-80g",
+      "confidence": "45"
+    },
+    {
+      "name": "veggie frittata or omelette",
+      "portion_estimate": "100-120g",
+      "confidence": "70"
+    }
+  ]
+}

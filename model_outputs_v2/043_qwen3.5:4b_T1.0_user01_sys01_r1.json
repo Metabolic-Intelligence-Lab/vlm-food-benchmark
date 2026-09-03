@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": "250",
+      "confidence": "80"
+    },
+    {
+      "name": "Cheese (grated, likely Parmesan or similar)",
+      "portion_estimate": "15",
+      "confidence": "70"
+    },
+    {
+      "name": "Potato toast topped with tomato sauce and cheese",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "Pickled vegetables (e.g., peppers, celery)",
+      "portion_estimate": "40",
+      "confidence": "60"
+    },
+    {
+      "name": "Baguette roll",
+      "portion_estimate": "45",
+      "confidence": "80"
+    },
+    {
+      "name": "Yokoo milk drink (cup)",
+      "portion_estimate": "150",
+      "confidence": "60"
+    }
+  ]
+}

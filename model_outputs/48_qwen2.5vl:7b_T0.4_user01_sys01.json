@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spicy Pasta with Meat Sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Roasted Potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Stuffed Eggplant with Cheese",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "60 grams",
+      "confidence": 75
+    }
+  ]
+}

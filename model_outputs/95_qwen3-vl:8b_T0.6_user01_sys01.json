@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "250g",
+      "confidence": "80"
+    },
+    {
+      "name": "Uncertain",
+      "portion_estimate": "100g",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Sliced pickled vegetables (or light pickled onions)",
+      "portion_estimate": "120",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried savory snacks/tempura pile",
+      "portion_estimate": "90",
+      "confidence": "95"
+    },
+    {
+      "name": "Small fried croquette or savory ball",
+      "portion_estimate": "35",
+      "confidence": "85"
+    },
+    {
+      "name": "Plain baked bread roll/bun",
+      "portion_estimate": "90",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried pastry or bread item (in plastic packaging)",
+      "portion_estimate": "130",
+      "confidence": "80"
+    }
+  ]
+}

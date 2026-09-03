@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "80-100g",
+      "confidence": 85
+    },
+    {
+      "name": "Spinaci",
+      "portion_estimate": "30-40g",
+      "confidence": 70
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "60-80g",
+      "confidence": 65
+    }
+  ]
+}

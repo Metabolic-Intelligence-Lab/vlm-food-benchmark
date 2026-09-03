@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "200g",
+      "confidence": 100
+    },
+    {
+      "name": "Penne Pasta",
+      "portion_estimate": "150g",
+      "confidence": 100
+    },
+    {
+      "name": "Diced Potatoes",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "Brussels Sprouts",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "Baked Item",
+      "portion_estimate": "150g",
+      "confidence": 100
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "60g",
+      "confidence": 100
+    }
+  ]
+}

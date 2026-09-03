@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "baked penne pasta with grated parmesan",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "fried chicken cutlet (breaded)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "potato wedges (fried)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat sandwich roll",
+      "portion_estimate": "50g",
+      "confidence": 75
+    },
+    {
+      "name": "single-serving butter or spread packet",
+      "portion_estimate": "10g",
+      "confidence": 65
+    },
+    {
+      "name": "lemon wedge (whole)",
+      "portion_estimate": "20g",
+      "confidence": 70
+    }
+  ]
+}

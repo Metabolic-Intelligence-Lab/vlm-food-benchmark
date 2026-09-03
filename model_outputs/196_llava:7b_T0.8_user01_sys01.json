@@ -1,0 +1,54 @@
+{
+  "food_items": [
+    {
+      "name": "meat, possibly pork chops or steak with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "beans or legumes, possibly black-eyed peas",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "chopped vegetables, likely including carrots and bell peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "sauce or gravy, possibly barbecue",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    },
+    {
+      "name": "chopped nuts, which could be walnuts or almonds",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roasted vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "oranges",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sauce or spread, possibly for bread or crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "grain, possibly rice or couscous",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "drink",
+      "portion_estimate": "uncertain",
+      "confidence": 35
+    }
+  ]
+}

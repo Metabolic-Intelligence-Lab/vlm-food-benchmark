@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Homemade vegetable soup",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Chicken breast strips",
+      "portion_estimate": "20g",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed greens",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "YOMO yogurt with berries",
+      "portion_estimate": "125g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pillow roll bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

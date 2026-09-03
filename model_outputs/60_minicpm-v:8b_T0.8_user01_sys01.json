@@ -1,0 +1,31 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": "uncertain, approx. 150-200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Mashed potatoes (possibly sweet potato) and vegetables",
+      "portion_estimate": "uncertain, approx. 300-400 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Two breaded croquettes",
+      "portion_estimate": "uncertain, approx. 150-200 grams each",
+      "confidence": "60"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "Water in a glass",
+      "portion_estimate": "uncertain, approx. 350 ml",
+      "confidence": "80"
+    },
+    {
+      "name": "Red drink in a plastic cup (possibly fruit juice or smoothie)",
+      "portion_estimate": "uncertain, approx. 125-175 grams",
+      "confidence": "60"
+    }
+  ]
+}

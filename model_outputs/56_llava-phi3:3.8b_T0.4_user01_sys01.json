@@ -1,0 +1,32 @@
+{
+  "tray": {
+    "description": "A tray with a variety of food items on it.",
+    "items": [
+      {
+        "name": "Pasta",
+        "portion_estimate": "50g"
+      },
+      {
+        "name": "Breaded chicken",
+        "portion_estimate": "40g"
+      },
+      {
+        "name": "Vegetables",
+        "portion_estimate": "30g"
+      }
+    ]
+  },
+  "table": {
+    "description": "A table with a tray on it.",
+    "items": [
+      {
+        "name": "Water glass",
+        "portion_estimate": "150ml"
+      },
+      {
+        "name": "Bread roll",
+        "portion_estimate": "60g"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Sliced pickled vegetables or onions",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Plain bread roll or bun",
+      "portion_estimate": "130 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Dip or creamy topping (green/pale yellow dollops)",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Crispy fried components (e.g., potato or tempura)",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Mixed fried fritters or savory bits",
+      "portion_estimate": "80 grams",
+      "confidence": "75"
+    }
+  ]
+}

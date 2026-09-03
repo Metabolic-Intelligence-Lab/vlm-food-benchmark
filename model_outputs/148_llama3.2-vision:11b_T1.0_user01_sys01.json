@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pesto pasta",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed cauliflower",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "grape",
+      "portion_estimate": "10g",
+      "confidence": "80"
+    }
+  ]
+}

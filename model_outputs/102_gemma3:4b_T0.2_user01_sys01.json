@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Cheese",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "Grilled Chicken with Cucumber",
+      "portion_estimate": "110g",
+      "confidence": 75
+    },
+    {
+      "name": "Potato",
+      "portion_estimate": "60g",
+      "confidence": 60
+    }
+  ]
+}

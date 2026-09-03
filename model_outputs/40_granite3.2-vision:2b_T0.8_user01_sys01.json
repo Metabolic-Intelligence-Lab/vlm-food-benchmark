@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "baked potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "greens (steamed or saut\u00e9ed)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange slices (tangerines or mandarins)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "peaches",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

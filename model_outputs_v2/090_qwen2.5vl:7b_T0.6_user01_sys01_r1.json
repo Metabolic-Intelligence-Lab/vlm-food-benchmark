@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white rice",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "baked carrots and potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": "80"
+    }
+  ]
+}

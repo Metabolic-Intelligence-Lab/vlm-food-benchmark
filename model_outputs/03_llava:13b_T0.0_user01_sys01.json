@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked mushroom",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked eggplant",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Whole wheat bread roll",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    }
+  ]
+}

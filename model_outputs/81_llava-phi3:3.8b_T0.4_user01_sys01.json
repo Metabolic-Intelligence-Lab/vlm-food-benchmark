@@ -1,0 +1,30 @@
+{
+  "food_items": [
+    {
+      "name": "black bean salad",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "meatballs and breadsticks",
+      "portion_estimate": "50g meatballs, 2 breadsticks",
+      "confidence": "80"
+    },
+    {
+      "name": "potato salad",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ],
+  "tablecloth": {
+    "color": "white",
+    "pattern": "striped"
+  },
+  "cutlery": [
+    {
+      "item": "fork",
+      "material": "metal",
+      "position": "on plate"
+    }
+  ]
+}

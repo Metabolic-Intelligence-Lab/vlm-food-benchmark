@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "tomato slices",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "shredded cabbage",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "sliced cucumber",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "shredded purple cabbage or red onion",
+      "portion_estimate": "70g",
+      "confidence": 80
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "50g",
+      "confidence": 75
+    },
+    {
+      "name": "lettuce leaves",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "dressing or seasoning (small container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

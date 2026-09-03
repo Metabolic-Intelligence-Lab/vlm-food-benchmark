@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with white sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "beans and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "salad (in plastic bag)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

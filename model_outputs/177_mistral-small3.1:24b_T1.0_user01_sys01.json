@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta penne with tomato sauce",
+      "portion_estimate": "220",
+      "confidence": "80"
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "fish with parsley",
+      "portion_estimate": "140",
+      "confidence": "70"
+    },
+    {
+      "name": "hummus",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "170",
+      "confidence": "80"
+    },
+    {
+      "name": "burger bun",
+      "portion_estimate": "130",
+      "confidence": "70"
+    }
+  ]
+}

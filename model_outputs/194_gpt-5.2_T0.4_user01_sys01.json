@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based soup/stew (possibly bean or vegetable)",
+      "portion_estimate": "320 g",
+      "confidence": "55"
+    },
+    {
+      "name": "cooked leafy greens (boiled/sauteed greens)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded fried patty/cutlet with sauce (possibly fish or chicken)",
+      "portion_estimate": "110 g",
+      "confidence": "50"
+    },
+    {
+      "name": "bread roll (white bun)",
+      "portion_estimate": "65 g",
+      "confidence": "75"
+    },
+    {
+      "name": "mandarin/clementine",
+      "portion_estimate": "85 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "200 g",
+      "confidence": "80"
+    }
+  ]
+}

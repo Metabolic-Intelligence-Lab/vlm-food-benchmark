@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "string cheese",
+      "portion_estimate": "28",
+      "confidence": "90"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "85"
+    },
+    {
+      "name": "crackers",
+      "portion_estimate": "30",
+      "confidence": "70"
+    }
+  ]
+}

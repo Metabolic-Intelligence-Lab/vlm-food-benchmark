@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Water",
+      "portion_estimate": "200 grams",
+      "confidence": 100
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "150 grams",
+      "confidence": 100
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "30 grams",
+      "confidence": 100
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "150 grams",
+      "confidence": 100
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 100
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green salad",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Ravioli with red sauce and cheese",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "kale",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "flatbread",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "150",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "brown rice",
+      "portion_estimate": "200-250 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "spinach (cooked)",
+      "portion_estimate": "50-75 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "chickpeas (cannellini beans)",
+      "portion_estimate": "50-75 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "chicken (diced)",
+      "portion_estimate": "100-150 grams",
+      "confidence": "70"
+    }
+  ]
+}

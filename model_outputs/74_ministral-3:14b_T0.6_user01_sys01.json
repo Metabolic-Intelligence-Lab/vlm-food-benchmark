@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "diced carrots",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "fettuccine alfredo or cheesy tomato pasta",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "green beans (steamed or boiled)",
+      "portion_estimate": "120g",
+      "confidence": 88
+    },
+    {
+      "name": "white bread (partially unwrapped)",
+      "portion_estimate": "80g",
+      "confidence": 92
+    },
+    {
+      "name": "beverage (water, unclear brand)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

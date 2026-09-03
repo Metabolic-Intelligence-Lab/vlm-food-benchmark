@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "uncertain, approx. weight of pasta and tomato sauce combined",
+      "confidence": "50"
+    },
+    {
+      "name": "Pickled Vegetables (possibly Zucchini)",
+      "portion_estimate": "approx. 1/4 plate size",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "uncertain, approx. half a roll",
+      "confidence": "60"
+    }
+  ]
+}

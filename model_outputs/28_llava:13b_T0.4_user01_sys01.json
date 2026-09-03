@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "200g",
+      "confidence": "75"
+    },
+    {
+      "name": "Green vegetables (possibly spinach)",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Pita bread or some kind of flatbread",
+      "portion_estimate": "50g",
+      "confidence": "40"
+    }
+  ]
+}

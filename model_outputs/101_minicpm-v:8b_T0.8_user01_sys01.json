@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain, approximate weight in grams based on visual estimation.",
+      "confidence": "60"
+    },
+    {
+      "name": "Soy Milk",
+      "portion_estimate": "uncertain, approximately 125g for a cup of soy milk from such packaging.",
+      "confidence": "70"
+    },
+    {
+      "name": "Cereal with Milk (unsure)",
+      "portion_estimate": "uncertain, approximate weight in grams based on visual estimation.",
+      "confidence": "60"
+    }
+  ]
+}

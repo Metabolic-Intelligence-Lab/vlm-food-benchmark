@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rotini pasta with vegetables",
+      "portion_estimate": "approximately 200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "approximately 90 grams",
+      "confidence": 90
+    },
+    {
+      "name": "roasted Brussels sprouts",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "yellow baked dish (e.g., pita or cake)",
+      "portion_estimate": "approximately 120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": 80
+    }
+  ]
+}

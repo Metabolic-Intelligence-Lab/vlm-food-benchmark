@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and tomatoes",
+      "portion": 200,
+      "confidence": 90
+    },
+    {
+      "name": "Fish",
+      "portion": 150,
+      "confidence": 85
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion": 100,
+      "confidence": 90
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion": 100,
+      "confidence": 85
+    },
+    {
+      "name": "Water",
+      "portion": 200,
+      "confidence": 90
+    },
+    {
+      "name": "Yogurt",
+      "portion": 150,
+      "confidence": 90
+    },
+    {
+      "name": "Bread",
+      "portion": 100,
+      "confidence": 90
+    }
+  ]
+}

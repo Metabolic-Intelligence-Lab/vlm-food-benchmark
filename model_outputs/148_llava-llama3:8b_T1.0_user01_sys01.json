@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese with diced carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "green pasta salad with chopped herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "blueberry muffins",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed greens salad",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Small bread roll",
+      "portion_estimate": "35g",
+      "confidence": "65"
+    },
+    {
+      "name": "YOYO yogurt",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    },
+    {
+      "name": "Cheese-topped patty",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    }
+  ]
+}

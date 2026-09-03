@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Plate of meat and potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Small bowl of vegetables or salad",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Glass of water with a straw",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

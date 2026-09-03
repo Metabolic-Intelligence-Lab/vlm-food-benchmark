@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Gnocchi with tomato sauce and grated cheese",
+      "portion_estimate": 350,
+      "confidence": 94
+    },
+    {
+      "name": "Green lentils stew with vegetables",
+      "portion_estimate": 280,
+      "confidence": 96
+    },
+    {
+      "name": "Sweet bread roll (in plastic)",
+      "portion_estimate": 65,
+      "confidence": 92
+    },
+    {
+      "name": "Yomo cherry yogurt dessert",
+      "portion_estimate": 130,
+      "confidence": 88
+    }
+  ]
+}

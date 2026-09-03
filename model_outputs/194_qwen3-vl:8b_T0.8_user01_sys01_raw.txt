@@ -1,0 +1,40 @@
+### Distinct Visible Food and Beverage Items with Portion Estimates and Confidence Levels
+
+1. **Tomato vegetable soup**  
+   - **Portion Estimate**: 250g  
+   - **Confidence Level**: 70%  
+   *Rationale: A standard bowl of soup typically contains around 250g, and the visual cues (e.g., liquid volume, bowl size) support this estimate. Confidence is moderate due to the lack of explicit details on soup consistency.*
+
+2. **Sautéed spinach**  
+   - **Portion Estimate**: 100g  
+   - **Confidence Level**: 70%  
+   *Rationale: A typical serving of sautéed spinach is approximately 100g. The green, cooked appearance matches this estimate. Confidence is moderate due to the ambiguity of the cooking method, but visual context (e.g., texture, quantity) aligns with standard servings.*
+
+3. **Pancake with blueberry topping**  
+   - **Portion Estimate**: 80g  
+   - **Confidence Level**: 60%  
+   *Rationale: A small pancake with a modest blueberry topping is roughly 80g. Confidence is lower due to the subjective nature of "topping" size and potential variations in pancake thickness.*
+
+4. **Iced water**  
+   - **Portion Estimate**: 200g  
+   - **Confidence Level**: 80%  
+   *Rationale: A standard glass of iced water holds about 200g. Visual cues (e.g., glass size, ice level) strongly support this estimate, making confidence high.*
+
+5. **Orange**  
+   - **Portion Estimate**: 120g  
+   - **Confidence Level**: 80%  
+   *Rationale: A medium-sized orange weighs approximately 120g. The fruit’s round shape and visible size align with common weight standards, ensuring high confidence.*
+
+6. **Hamburger bun**  
+   - **Portion Estimate**: 50g  
+   - **Confidence Level**: 70%  
+   *Rationale: A typical hamburger bun weighs around 50g. The wrapped appearance suggests it’s a standard bun, though exact weight can vary slightly based on brand or preparation.*
+
+---
+
+### Summary of Key Details
+- **Beverage**: Iced water (200g, 80% confidence) is clearly visible and well-estimated.  
+- **Food Items**: All listed items are distinct, visible, and reasonably estimated based on visual context. Confidence levels reflect the reliability of visual cues (e.g., size, shape, color).  
+- **Not Included**: Any ambiguous or non-distinct items (e.g., wrapped bread or cheese) were excluded due to insufficient visual clarity.  
+
+This list provides a balanced, realistic assessment of the visible items in the scene.

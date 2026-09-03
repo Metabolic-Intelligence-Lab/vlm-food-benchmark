@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta with cheese",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "baked pastry",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "whole grain bun",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "yellow squash",
+      "portion_estimate": "100",
+      "confidence": "70"
+    }
+  ]
+}

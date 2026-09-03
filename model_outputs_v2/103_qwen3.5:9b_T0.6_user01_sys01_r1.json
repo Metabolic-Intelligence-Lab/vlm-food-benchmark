@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli florets with green sauce (likely pesto)",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Raw fish fillet (appears to be salmon or trout) topped with sprouts and herbs",
+      "portion_estimate": 140,
+      "confidence": 90
+    },
+    {
+      "name": "Creamy soup in a bowl, likely vegetable or potato leek soup, garnished with grated cheese",
+      "portion_estimate": 320,
+      "confidence": 95
+    },
+    {
+      "name": "Whole wheat roll or bun wrapped in plastic",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt cup (brand visible as 'Sprinkles', flavor appears to be strawberry)",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Water in a glass",
+      "portion_estimate": 240,
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti and meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "noodles with spinach and watermelon slices",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "chicken or fish with greens",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

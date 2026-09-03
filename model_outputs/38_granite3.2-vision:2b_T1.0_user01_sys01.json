@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "green leafy vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange (carrots or citrus fruit)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "round object (banana or tofu)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

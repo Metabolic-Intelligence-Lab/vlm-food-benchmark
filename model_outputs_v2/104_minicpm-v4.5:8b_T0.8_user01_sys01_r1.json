@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup",
+      "portion_estimate": "400 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "peas and carrot medley",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "plain yogurt (plum flavor)",
+      "portion_estimate": "125 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "bun or roll",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    }
+  ]
+}

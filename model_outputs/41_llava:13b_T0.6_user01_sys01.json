@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "approximately 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "approximately 80g",
+      "confidence": "40"
+    },
+    {
+      "name": "Salad with vegetables and dressing",
+      "portion_estimate": "approximately 150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Zucchini boat with spinach filling",
+      "portion_estimate": "approximately 120g",
+      "confidence": "80"
+    }
+  ]
+}

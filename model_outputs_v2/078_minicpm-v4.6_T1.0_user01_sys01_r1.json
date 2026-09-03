@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "300g",
+      "confidence": 95
+    },
+    {
+      "name": "chopped vegetables (carrots)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "veggie patty with cheese",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll (bun)",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "whole apricots",
+      "portion_estimate": "60g",
+      "confidence": 85
+    }
+  ]
+}

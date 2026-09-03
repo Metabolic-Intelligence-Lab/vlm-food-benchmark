@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "semi-skimmed milk (200ml carton, ~1.5% fat)",
+      "portion_estimate": "200",
+      "confidence": 100
+    },
+    {
+      "name": "plain chocolate cookie or biscuit (single piece, likely rectangular)",
+      "portion_estimate": "45",
+      "confidence": 85
+    },
+    {
+      "name": "savoiardi (ladyfingers) sandwich with filling (likely cream-based)",
+      "portion_estimate": "80",
+      "confidence": 80
+    }
+  ]
+}

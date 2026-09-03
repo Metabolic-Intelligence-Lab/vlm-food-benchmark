@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni pasta dish with sauce and cheese",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "grilled salmon fillet with herb sauce",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "white beans in a bowl",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "orange-colored baked good or fruit in packaging",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "red grapes",
+      "portion_estimate": "50g",
+      "confidence": 95
+    }
+  ]
+}

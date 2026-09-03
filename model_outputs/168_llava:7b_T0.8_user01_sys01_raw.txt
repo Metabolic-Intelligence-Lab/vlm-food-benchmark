@@ -1,0 +1,28 @@
+Based on the provided image, there are two distinct, visible food and beverage items:
+
+1. A portion of pasta with a creamy sauce topped with chunks of meat that appear to be chicken. The pasta looks like it could be fusilli or penne due to its swirled shape. There's also a hint of carrot in the dish, but it's not clearly visible.
+
+2. A serving of mixed vegetables, including what appears to be broccoli and possibly other green leafy vegetables. There's no pasta or sauce on this side.
+
+Given the limited visibility and the fact that some items are overlapping, I am unable to provide precise portion sizes in grams. However, I can estimate that there is approximately 150-200 grams of pasta with meat sauce, and 75-100 grams of mixed vegetables. The confidence level for these estimates would be around 60% due to the limitations of visibility in the image.
+
+Here's an example JSON representation of the food items:
+
+```json
+{
+  "food_items": [
+    {
+      "name": "Pasta with meat sauce",
+      "portion_estimate": "150-200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "75-100 grams",
+      "confidence": "60"
+    }
+  ]
+}
+```
+
+Please note that these are rough estimates and the actual weights could vary.

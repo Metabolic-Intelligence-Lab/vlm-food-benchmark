@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and grated cheese",
+      "portion_estimate": "180g",
+      "confidence": 80
+    },
+    {
+      "name": "Potato wedges",
+      "portion_estimate": "150g",
+      "confidence": 70
+    },
+    {
+      "name": "Chicken breast",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "Bread slice",
+      "portion_estimate": "35g",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "Celery stalk",
+      "portion_estimate": "10g",
+      "confidence": 70
+    }
+  ]
+}

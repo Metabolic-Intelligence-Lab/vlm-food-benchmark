@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "boiled and seasoned broccoli",
+      "portion_estimate": "uncertain (approximate weight of a typical serving, not measured)",
+      "confidence": "60"
+    },
+    {
+      "name": "broiled salmon fillet with spices",
+      "portion_estimate": "uncertain (approximate weight of a typical serving, not measured)",
+      "confidence": "75"
+    },
+    {
+      "name": "boiled chicken leg pieces",
+      "portion_estimate": "uncertain (approximate weight of a typical serving, not measured)",
+      "confidence": "60"
+    },
+    {
+      "name": "peanut and celery snack mix",
+      "portion_estimate": "uncertain (approximate weight of a typical snack bag, not measured)",
+      "confidence": "50"
+    },
+    {
+      "name": "baked chicken breast with herbs on plate",
+      "portion_estimate": "uncertain (approximate portion size based on the visible food item, not measured)",
+      "confidence": "65"
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "uncertain (approximate weight of a typical serving, not measured)",
+      "confidence": "70"
+    },
+    {
+      "name": "slices of baked potato",
+      "portion_estimate": "uncertain (approximate portion size based on the visible food item, not measured)",
+      "confidence": "60"
+    },
+    {
+      "name": "fresh plum fruit pieces",
+      "portion_estimate": "uncertain (approximate weight of a typical serving, not measured)",
+      "confidence": "75"
+    }
+  ]
+}

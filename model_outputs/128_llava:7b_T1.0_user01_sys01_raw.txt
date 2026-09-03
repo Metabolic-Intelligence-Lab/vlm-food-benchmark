@@ -1,0 +1,27 @@
+The image shows two plates of food. The left plate contains a pasta dish, which appears to be spaghetti bolognese with a meat sauce and some cheese sprinkled on top. The right plate has a side of garlic bread and what seems to be a small portion of meatballs or chicken nuggets.
+
+The image is of low resolution and taken from above, making it challenging to discern all the details. The text "uncertain" appears multiple times in the JSON representation below as an acknowledgment of the limitations due to image quality and the difficulty of distinguishing certain items.
+
+Here is the JSON output:
+
+```json
+{
+  "food_items": [
+    {
+      "name": "Spaghetti bolognese",
+      "portion_estimate": "100-200 grams",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "Garlic bread",
+      "portion_estimate": "50-100 grams",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "Meatballs/chicken nuggets",
+      "portion_estimate": "20-40 grams",
+      "confidence": "uncertain"
+    }
+  ]
+}
+```

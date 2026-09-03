@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sesame seed bagel",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "carrot salad",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit bun",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "grape",
+      "portion_estimate": "10",
+      "confidence": "90"
+    }
+  ]
+}

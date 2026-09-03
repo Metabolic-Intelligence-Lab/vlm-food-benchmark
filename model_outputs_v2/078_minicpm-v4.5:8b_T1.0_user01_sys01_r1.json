@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chunked sweet potato",
+      "portion_estimate": "150-200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "soup (likely tomato-based with grated cheese)",
+      "portion_estimate": "300-350 grams",
+      "confidence": 80
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "150-180 grams (3 medium apricots)",
+      "confidence": 80
+    },
+    {
+      "name": "patty with melted cheese (possibly falafel or meat patty)",
+      "portion_estimate": "100-120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small bread roll (bun or roll)",
+      "portion_estimate": "50-60 grams",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "breaded fish fillet",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "250",
+      "confidence": "75"
+    },
+    {
+      "name": "yogurt, plain",
+      "portion_estimate": "125",
+      "confidence": "85"
+    }
+  ]
+}

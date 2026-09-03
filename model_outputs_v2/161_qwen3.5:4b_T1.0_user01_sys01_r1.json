@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti Bolognese",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "Mixed Steamed Vegetables",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Vegetable Frittata",
+      "portion_estimate": "200",
+      "confidence": 75
+    },
+    {
+      "name": "Croissant",
+      "portion_estimate": "90",
+      "confidence": 85
+    }
+  ]
+}

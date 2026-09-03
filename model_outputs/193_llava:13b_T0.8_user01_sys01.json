@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried rice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meat",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "2 cups",
+      "confidence": 90
+    },
+    {
+      "name": "soup or stew",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange slice",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

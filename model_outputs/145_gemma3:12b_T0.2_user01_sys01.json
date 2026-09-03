@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chocolate oatmeal",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "boiled potatoes",
+      "portion_estimate": "75",
+      "confidence": "75"
+    },
+    {
+      "name": "spinach and cheese quiche slice",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

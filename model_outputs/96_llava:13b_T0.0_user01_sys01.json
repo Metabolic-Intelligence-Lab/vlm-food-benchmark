@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Oatly oat milk",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Biscuit or cookie",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Cake or pastry (muffin or bread with filling/topping)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

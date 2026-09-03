@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and basil",
+      "portion_estimate": "260 g",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "150 g",
+      "confidence": "74"
+    },
+    {
+      "name": "vegetable omelette/frittata slice (with mushroom)",
+      "portion_estimate": "90 g",
+      "confidence": "70"
+    },
+    {
+      "name": "banana (with peel)",
+      "portion_estimate": "120 g",
+      "confidence": "72"
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "66"
+    }
+  ]
+}

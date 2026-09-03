@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Gnocchi with tomato sauce, grated cheese",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "Fresh salad (lettuce, tomato, cucumber, possibly cheese)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "Unopened baguette (potential sandwich or snack)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

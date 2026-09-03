@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed vegetables and rice",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pizza slice with toppings",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Banana and peach",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rotini pasta",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "Apricots",
+      "portion_estimate": "10g",
+      "confidence": 95
+    },
+    {
+      "name": "Roasted brussels sprouts and salad",
+      "portion_estimate": "150g",
+      "confidence": 88
+    },
+    {
+      "name": "Baked yellow cakes/patties",
+      "portion_estimate": "40g",
+      "confidence": 80
+    },
+    {
+      "name": "Bun",
+      "portion_estimate": "150g",
+      "confidence": 98
+    }
+  ]
+}

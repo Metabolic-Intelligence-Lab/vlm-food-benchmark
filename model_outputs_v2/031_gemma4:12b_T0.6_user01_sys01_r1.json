@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "80g",
+      "confidence": 95
+    },
+    {
+      "name": "rigatoni pasta with herbs and cheese",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "stuffed vegetable",
+      "portion_estimate": "40g",
+      "confidence": 85
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250g",
+      "confidence": 95
+    }
+  ]
+}

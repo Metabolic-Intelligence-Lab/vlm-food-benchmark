@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (uncooked or lightly cooked, with grated cheese)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "baked meatballs in tomato sauce",
+      "portion_estimate": "120g (meatballs only)",
+      "confidence": 85
+    },
+    {
+      "name": "mixed green salad with lettuce, red cabbage, and croutons",
+      "portion_estimate": "180g",
+      "confidence": 88
+    },
+    {
+      "name": "red grapes (bunch)",
+      "portion_estimate": "100g",
+      "confidence": 92
+    },
+    {
+      "name": "whole-grain bread (partially visible, wrapped)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

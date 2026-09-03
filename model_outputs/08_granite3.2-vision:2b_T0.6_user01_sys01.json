@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cheese soup with crust",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pastries or dumplings",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "savory soup or salad with green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

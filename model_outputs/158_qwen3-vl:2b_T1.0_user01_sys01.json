@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fried okra",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mango",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

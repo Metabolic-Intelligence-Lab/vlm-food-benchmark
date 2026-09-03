@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mushroom and mixed vegetable medley (potatoes, carrots, peas, corn)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mashed sweet potato",
+      "portion_estimate": "100-120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "cooked leafy greens (spinach or similar)",
+      "portion_estimate": "100-120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200-250 ml",
+      "confidence": 90
+    },
+    {
+      "name": "canned fruit (likely peaches or similar)",
+      "portion_estimate": "120-150 grams",
+      "confidence": 70
+    }
+  ]
+}

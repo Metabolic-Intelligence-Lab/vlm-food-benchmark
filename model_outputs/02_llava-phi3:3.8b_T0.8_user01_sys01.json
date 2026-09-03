@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "salad",
+      "portion_estimate": "approx. 400g",
+      "confidence": "95"
+    },
+    {
+      "name": "sliced cucumbers",
+      "portion_estimate": "approx. 50g",
+      "confidence": "93"
+    },
+    {
+      "name": "red peppers",
+      "portion_estimate": "approx. 70g",
+      "confidence": "82"
+    },
+    {
+      "name": "tomatoes",
+      "portion_estimate": "approx. 100g",
+      "confidence": "89"
+    },
+    {
+      "name": "pepper",
+      "portion_estimate": "approx. 25g",
+      "confidence": "76"
+    },
+    {
+      "name": "lettuce",
+      "portion_estimate": "approx. 100g",
+      "confidence": "83"
+    }
+  ]
+}

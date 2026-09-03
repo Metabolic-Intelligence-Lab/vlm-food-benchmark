@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cauliflower",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "quiche slice",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "lentil stew",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "yoghurt",
+      "portion_estimate": "150",
+      "confidence": 80
+    }
+  ]
+}

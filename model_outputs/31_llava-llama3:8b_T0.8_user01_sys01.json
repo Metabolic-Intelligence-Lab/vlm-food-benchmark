@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta and green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "breaded chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "ketchup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mustard",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

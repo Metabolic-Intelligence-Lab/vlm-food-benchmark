@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "light orange pasta with red sauce and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "dark brown bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "potato skins",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

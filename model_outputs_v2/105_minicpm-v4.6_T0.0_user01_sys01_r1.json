@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "mixed leafy lettuce salad",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "approximately 20 grams",
+      "confidence": 90
+    },
+    {
+      "name": "croutons or bread crumbs",
+      "portion_estimate": "approximately 30 grams",
+      "confidence": 85
+    }
+  ]
+}

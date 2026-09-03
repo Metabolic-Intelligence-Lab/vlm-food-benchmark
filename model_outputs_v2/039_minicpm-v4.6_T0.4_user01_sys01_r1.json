@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rotini pasta",
+      "portion_estimate": "300 grams",
+      "confidence": 95
+    },
+    {
+      "name": "cooked spinach",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "baked dish with yellow topping",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "peaches",
+      "portion_estimate": "150 grams (each)",
+      "confidence": 75
+    }
+  ]
+}

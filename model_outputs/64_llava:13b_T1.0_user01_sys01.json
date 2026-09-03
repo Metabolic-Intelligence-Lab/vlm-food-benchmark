@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "75-100g",
+      "confidence": "40"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "75-100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Meat patty with gravy (breaded)",
+      "portion_estimate": "100-125g",
+      "confidence": "30"
+    }
+  ]
+}

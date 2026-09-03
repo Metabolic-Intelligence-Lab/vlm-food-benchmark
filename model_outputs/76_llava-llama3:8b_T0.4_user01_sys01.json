@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "yellow rice dish with green leaf garnish",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "pasta dish with red pepper",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "brown meat dish with green leaf garnish",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green substance (pesto or guacamole)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

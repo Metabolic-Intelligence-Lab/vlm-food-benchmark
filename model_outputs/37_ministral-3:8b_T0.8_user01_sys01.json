@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed greens salad with shredded red cabbage and orange carrots",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "small whole red apple (with skin)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "whole wheat toast with fried egg and saut\u00e9ed greens/spinach",
+      "portion_estimate": "120g (toast) + 50g (egg) + 30g (spinach)",
+      "confidence": 80
+    },
+    {
+      "name": "sliced whole wheat sandwich with spread (possibly peanut butter or jam)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "pasta (likely penne or similar) with sauce",
+      "portion_estimate": "180g (cooked)",
+      "confidence": 80
+    }
+  ]
+}

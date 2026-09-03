@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "rice or another staple dish",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "mashed potatoes or another starchy side dish",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "apples",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "beans and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "drink",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

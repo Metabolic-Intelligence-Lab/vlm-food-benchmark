@@ -1,0 +1,33 @@
+Based on the provided food image, I have identified the following food and beverage items:
+
+### Food Items
+
+1. **Breaded Chicken Breast**: This is a fried or breaded chicken breast, likely served as a main or an entertainment together with the pasta.
+2. **Pasta**: This is a portion of cooked, pen-like, long pasta in tomato sauce.
+
+### Portion Estimates
+
+* **Breaded Chicken Breast**: 
+  * **Est. Port.**: This is an estimated portion of 100g for a full breath
+* **Pasta**:
+  * **Est. Port.**: This is an estimated 500g for a full of … 
+
+
+### Output
+
+{
+  "food_items": [
+    {
+      "name": "Breaded Chicken Breast",
+      "portion_estimate": "100g",
+      "confidence": "100"
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "500g",
+      "confidence": "100"
+    }
+  ]
+}
+
+**Note**: The above output is based on my training data and may not reflect a real-world environment. If you have any further questions or need more help, please let me know!

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken breast with a creamy herb sauce",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "stewed potatoes with green vegetables (likely eggplant and peppers)",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "baked beans in tomato sauce",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 90
+    }
+  ]
+}

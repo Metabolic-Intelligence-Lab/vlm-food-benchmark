@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken noodle soup",
+      "portion_estimate": "300",
+      "confidence": "90"
+    },
+    {
+      "name": "burger bun",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "burger patty with coleslaw",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "mashed potato",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "calorie free sweetener",
+      "portion_estimate": "1",
+      "confidence": "90"
+    }
+  ]
+}

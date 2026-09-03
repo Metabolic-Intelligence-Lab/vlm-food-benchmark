@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Flatbread or pizza slice with herbs",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Penne pasta dish with sauce",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mixed salad with shredded vegetables",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Water or clear beverage",
+      "portion_estimate": "250g",
+      "confidence": "85"
+    },
+    {
+      "name": "Red dipping sauce (e.g., ketchup)",
+      "portion_estimate": "20g",
+      "confidence": "95"
+    }
+  ]
+}

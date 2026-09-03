@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato-based sauce",
+      "portion_estimate": "230 g",
+      "confidence": "78"
+    },
+    {
+      "name": "broccoli (cooked, with visible seasoning/oil)",
+      "portion_estimate": "170 g",
+      "confidence": "72"
+    },
+    {
+      "name": "baked eggplant slice with small portion of creamy topping and sprouts",
+      "portion_estimate": "90 g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll (white bun)",
+      "portion_estimate": "70 g",
+      "confidence": "70"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "250 g",
+      "confidence": "65"
+    }
+  ]
+}

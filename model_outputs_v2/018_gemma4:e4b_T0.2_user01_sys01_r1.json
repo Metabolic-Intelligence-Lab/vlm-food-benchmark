@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Topped flatbread or pizza slice",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Penne pasta dish with sauce",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mixed noodle and greens salad",
+      "portion_estimate": "160g",
+      "confidence": "85"
+    }
+  ]
+}

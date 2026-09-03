@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Mozzarella sticks",
+      "portion_estimate": "uncertain, likely approx. 60-120g each",
+      "confidence": "50"
+    },
+    {
+      "name": "Chopped green beans with brown seasoning",
+      "portion_estimate": "approx. 75g for a portion of chopped vegetables",
+      "confidence": "80"
+    },
+    {
+      "name": "Roasted or steamed whole wheat bread roll",
+      "portion_estimate": "uncertain, likely approx. 120-160g each",
+      "confidence": "50"
+    },
+    {
+      "name": "Mozzarella cheese stick with red sauce",
+      "portion_estimate": "approx. 70g",
+      "confidence": "90"
+    }
+  ]
+}

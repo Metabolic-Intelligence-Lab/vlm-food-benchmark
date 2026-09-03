@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with shell-shaped shells (e.g., conchiglie) in tomato-based sauce",
+      "portion_estimate": "300 grams",
+      "confidence": 75
+    },
+    {
+      "name": "quinoa or couscous dish with saut\u00e9ed vegetables (spinach, red peppers, herbs)",
+      "portion_estimate": "150 grams",
+      "confidence": 70
+    },
+    {
+      "name": "whole wheat or artisanal bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": 70
+    },
+    {
+      "name": "fried or baked scallop (whole, with broiled greens or herbs)",
+      "portion_estimate": "100 grams",
+      "confidence": 65
+    },
+    {
+      "name": "whole plum (possibly a damson or similar)",
+      "portion_estimate": "80 grams",
+      "confidence": 75
+    },
+    {
+      "name": "second whole plum (similar to the first)",
+      "portion_estimate": "80 grams",
+      "confidence": 75
+    }
+  ]
+}

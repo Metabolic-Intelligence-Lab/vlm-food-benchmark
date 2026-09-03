@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti and meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "grilled chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "salad (mixed greens and purple cabbage)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

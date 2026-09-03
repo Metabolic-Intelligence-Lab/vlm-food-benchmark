@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed green beans (with seasoning)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "hard-boiled eggs (2 halves, with seasoning)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta (uncooked, dry)",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "grilled or baked fish fillet (partially wrapped in plastic)",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "150",
+      "confidence": 95
+    }
+  ]
+}

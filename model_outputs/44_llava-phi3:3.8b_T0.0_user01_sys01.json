@@ -1,0 +1,38 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "1 piece",
+      "confidence": "90"
+    },
+    {
+      "name": "Tomato",
+      "portion_estimate": "2 pieces",
+      "confidence": "85"
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "3 slices",
+      "confidence": "90"
+    },
+    {
+      "name": "Fries",
+      "portion_estimate": "1 cup",
+      "confidence": "85"
+    }
+  ],
+  "tableware": [
+    {
+      "item": "Glass of water",
+      "location": "left side"
+    },
+    {
+      "item": "Bread roll",
+      "location": "middle right side"
+    },
+    {
+      "item": "Plastic bag with bread in it",
+      "location": "right side"
+    }
+  ]
+}

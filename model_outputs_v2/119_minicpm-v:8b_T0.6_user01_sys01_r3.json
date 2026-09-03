@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "garlic breadsticks",
+      "portion_estimate": "uncertain, approximately a serving size of garlic bread sticks",
+      "confidence": "50"
+    },
+    {
+      "name": "peanut butter and jelly sandwich",
+      "portion_estimate": "uncertain, likely an average-sized sandwich",
+      "confidence": "40"
+    },
+    {
+      "name": "yogurt with berries",
+      "portion_estimate": "1 serving of yogurt",
+      "confidence": "65"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain, possibly a small bowl or half cup portion",
+      "confidence": "70"
+    }
+  ]
+}

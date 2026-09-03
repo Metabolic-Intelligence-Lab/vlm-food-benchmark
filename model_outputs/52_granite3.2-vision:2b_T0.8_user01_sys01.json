@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish with char marks",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "baked potatoes seasoned with herbs (garlic and chives)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green salad with leafy greens and cherry tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "whole wheat bread rolls or flatbreads",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "brown grain pasta with green herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "~100g",
+      "confidence": 90
+    },
+    {
+      "name": "Cooked Rice",
+      "portion_estimate": "~120g",
+      "confidence": 90
+    },
+    {
+      "name": "Fish Fillet",
+      "portion_estimate": "~100g",
+      "confidence": 90
+    },
+    {
+      "name": "Roasted Vegetables (Brussels Sprouts)",
+      "portion_estimate": "~80g",
+      "confidence": 80
+    }
+  ]
+}

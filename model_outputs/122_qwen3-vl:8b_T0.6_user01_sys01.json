@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": 120,
+      "confidence": 0.9
+    },
+    {
+      "name": "Seeded energy balls",
+      "portion_estimate": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "Carrot slices",
+      "portion_estimate": 100,
+      "confidence": 0.9
+    },
+    {
+      "name": "Farfalle pasta",
+      "portion_estimate": 150,
+      "confidence": 0.85
+    },
+    {
+      "name": "Water",
+      "portion_estimate": 50,
+      "confidence": 0.8
+    }
+  ]
+}

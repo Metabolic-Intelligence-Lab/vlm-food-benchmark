@@ -1,0 +1,41 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Brussel sprouts",
+      "portion_estimate": "80g",
+      "confidence": "70"
+    },
+    {
+      "name": "Yellow cake balls",
+      "portion_estimate": "60g",
+      "confidence": "90"
+    }
+  ],
+  "other_items": [
+    {
+      "name": "Orange",
+      "portion_estimate": "30g",
+      "confidence": "80"
+    },
+    {
+      "name": "Snack bag",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ],
+  "background": [
+    {
+      "name": "Tablecloth",
+      "description": "white and gray patterned"
+    },
+    {
+      "name": "Paper towels",
+      "description": "white, crinkled in a pile"
+    }
+  ]
+}

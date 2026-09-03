@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Sushi roll with avocado",
+      "portion_estimate": "1 piece",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed salad",
+      "portion_estimate": "1 portion",
+      "confidence": "90"
+    },
+    {
+      "name": "Pie slice with filling",
+      "portion_estimate": "1 slice",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked beans with mixed vegetables (corn, green beans, carrots)",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll (whole wheat)",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "grilled or baked chicken breast with herbs",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "saut\u00e9ed broccoli with garlic and olive oil",
+      "portion_estimate": "100g",
+      "confidence": 88
+    },
+    {
+      "name": "plums (fresh, 2 medium-sized)",
+      "portion_estimate": "150g",
+      "confidence": 95
+    }
+  ]
+}

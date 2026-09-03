@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto sauce and grated parmesan",
+      "portion_estimate": "300 g",
+      "confidence": "72"
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "55 g",
+      "confidence": "70"
+    },
+    {
+      "name": "piece of baked casserole/lasagna-like pasta dish",
+      "portion_estimate": "180 g",
+      "confidence": "55"
+    },
+    {
+      "name": "brussels sprouts (cooked)",
+      "portion_estimate": "120 g",
+      "confidence": "78"
+    },
+    {
+      "name": "plums (2 whole)",
+      "portion_estimate": "130 g",
+      "confidence": "80"
+    },
+    {
+      "name": "wrapped breadstick/baguette-style roll",
+      "portion_estimate": "90 g",
+      "confidence": "55"
+    }
+  ]
+}

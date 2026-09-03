@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried egg",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Green leafy vegetables (possibly spinach)",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt cup (Red label)",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    }
+  ]
+}

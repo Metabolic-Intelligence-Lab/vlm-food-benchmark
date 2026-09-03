@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat or multigrain roll (in plastic packaging)",
+      "portion_estimate": "50-60g (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "pasta (likely penne or rigatoni) with cheese sauce",
+      "portion_estimate": "150-180g (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "pan-seared fish fillet with cheese and herbs",
+      "portion_estimate": "120-150g",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or saut\u00e9ed brussels sprouts",
+      "portion_estimate": "100-120g",
+      "confidence": 80
+    },
+    {
+      "name": "ripe banana",
+      "portion_estimate": "120-130g",
+      "confidence": 90
+    }
+  ]
+}

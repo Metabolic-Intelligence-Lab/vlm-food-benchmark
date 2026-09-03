@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spinach noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "egg with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red liquid (ketchup)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

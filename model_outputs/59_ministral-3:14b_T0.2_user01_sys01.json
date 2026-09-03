@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot and cucumber salad with shredded carrots, cucumber slices, and greens",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed kale",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "sliced quiche or savory pie with caramelized topping",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "whole-grain or seeded bread roll",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "red radishes (whole)",
+      "portion_estimate": "50",
+      "confidence": 90
+    }
+  ]
+}

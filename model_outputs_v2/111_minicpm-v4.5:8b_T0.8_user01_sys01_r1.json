@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "70-100g",
+      "confidence": "85"
+    },
+    {
+      "name": "pasta dish with red sauce and shredded vegetable garnish",
+      "portion_estimate": "200-250g",
+      "confidence": "80"
+    },
+    {
+      "name": "pasta dish with light sauce (bow-tie pasta)",
+      "portion_estimate": "250-300g",
+      "confidence": "85"
+    },
+    {
+      "name": "small pasta dish with light sauce",
+      "portion_estimate": "50-75g",
+      "confidence": "85"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    }
+  ]
+}

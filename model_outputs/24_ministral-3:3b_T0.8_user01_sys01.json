@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "dates and walnut mix in bowl",
+      "portion_estimate": 100,
+      "confidence": 90
+    },
+    {
+      "name": "mandarin orange halves in bowl",
+      "portion_estimate": 60,
+      "confidence": 90
+    },
+    {
+      "name": "carrot pieces (halved or cubed)",
+      "portion_estimate": 100,
+      "confidence": 95
+    },
+    {
+      "name": "apple",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "tomato kefir or yogurt pouch (1 small)",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "pre-packaged snack item (possibly biscuit)",
+      "portion_estimate": 30,
+      "confidence": 60
+    }
+  ]
+}

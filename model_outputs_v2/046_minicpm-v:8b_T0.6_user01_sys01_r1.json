@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approximately 100g",
+      "confidence": "50"
+    },
+    {
+      "name": "Soup (possibly lentil or vegetable)",
+      "portion_estimate": "approx. 400g",
+      "confidence": "70"
+    },
+    {
+      "name": "Salad with cabbage and dressing",
+      "portion_estimate": "uncertain, approximately 250g",
+      "confidence": "60"
+    },
+    {
+      "name": "Cucumber salad in a bowl",
+      "portion_estimate": "approx. 300g",
+      "confidence": "80"
+    }
+  ]
+}

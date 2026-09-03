@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "sliced chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "salad with mixed greens and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sliced mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pickles",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

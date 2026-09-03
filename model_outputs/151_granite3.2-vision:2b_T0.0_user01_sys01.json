@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne or fusilli)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "white bread loaf",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green leafy vegetables (spinach or arugula)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "eggplant or red bell peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

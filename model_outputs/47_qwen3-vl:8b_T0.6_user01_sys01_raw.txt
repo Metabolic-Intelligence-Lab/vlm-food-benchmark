@@ -1,0 +1,56 @@
+### Distinct, Visible Food and Beverage Items with Portion Estimates and Confidence Levels
+
+Based on the visual context provided, the following items are identified as distinct, visible, and measurable. Each entry includes:
+- **Name**: Clear description of the item.
+- **Portion Estimate**: Estimated quantity (in grams for solids/liquids, or milliliters for beverages).
+- **Confidence Level**: Percentage reflecting the certainty of the estimate (based on visibility, common standards, and contextual clues).
+
+---
+
+#### **Food Items**
+1. **Bread Roll**  
+   - **Portion Estimate**: 50 g  
+   - **Confidence Level**: 70%  
+   - *Rationale*: A single, small bread roll is visible. Standard roll sizes range from 40–60 g, but the exact size is estimated based on visual proportions and typical serving sizes.
+
+2. **Penne Pasta with Tomato Sauce**  
+   - **Portion Estimate**: 180 g  
+   - **Confidence Level**: 80%  
+   - *Rationale*: The pasta appears to be a standard serving size (150–200 g) for a single portion. The sauce is visible, but the estimate focuses on the pasta itself, as the sauce is incidental.
+
+3. **Green Beans**  
+   - **Portion Estimate**: 120 g  
+   - **Confidence Level**: 80%  
+   - *Rationale*: A portion of green beans is visible, and 100–150 g is a common serving size for cooked green beans. The estimate accounts for the visible quantity.
+
+4. **Omelette**  
+   - **Portion Estimate**: 100 g  
+   - **Confidence Level**: 75%  
+   - *Rationale*: The omelette appears to be a small, single-serving size (80–120 g). The visibility of the dish limits precision, but it aligns with typical omelette portions.
+
+5. **Mushroom**  
+   - **Portion Estimate**: 30 g  
+   - **Confidence Level**: 70%  
+   - *Rationale*: A single mushroom is visible, and 25–35 g is a standard weight for a medium-sized mushroom. The estimate is based on visual scale and common culinary standards.
+
+---
+
+#### **Beverage Items**
+6. **Water**  
+   - **Portion Estimate**: 250 mL (250 g)  
+   - **Confidence Level**: 80%  
+   - *Rationale*: The glass is filled to approximately 250 mL, a standard serving size for a standard glass. The liquid’s weight is assumed to be equal to its volume (1 g/mL).
+
+7. **Sprite Soda**  
+   - **Portion Estimate**: 330 mL (330 g)  
+   - **Confidence Level**: 90%  
+   - *Rationale*: The can is a standard 330 mL Sprite can, which is clearly visible. The weight is derived from the volume (1 g/mL for water-based beverages).
+
+---
+
+### Key Notes:
+- **Confidence Levels**: Higher confidence applies to items with clear visual references (e.g., standard can sizes) or common culinary norms. Lower confidence applies to items where visibility is limited (e.g., the mushroom’s exact size).
+- **Exclusions**: Items not visible or unidentifiable (e.g., background objects) are omitted. Only items explicitly seen in the context are included.
+- **Units**: Portion estimates are in grams for solids and milliliters for beverages (converted to grams for consistency with weight-based measurements).
+
+This list reflects a balanced assessment of visible elements while adhering to practical standards for portion estimation.

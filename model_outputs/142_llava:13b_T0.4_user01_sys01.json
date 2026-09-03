@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "pasta or rice",
+      "portion_estimate": "150",
+      "confidence": 60
+    },
+    {
+      "name": "fish with parsley garnish",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "roll or bread loaf",
+      "portion_estimate": "80",
+      "confidence": 75
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "150",
+      "confidence": 65
+    }
+  ]
+}

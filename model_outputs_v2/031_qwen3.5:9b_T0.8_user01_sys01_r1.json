@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta in green sauce with grated cheese",
+      "portion_estimate": 230,
+      "confidence": 95
+    },
+    {
+      "name": "baked zucchini boat with egg and shredded greens filling",
+      "portion_estimate": 140,
+      "confidence": 92
+    },
+    {
+      "name": "cooked green beans",
+      "portion_estimate": 100,
+      "confidence": 93
+    },
+    {
+      "name": "whole banana",
+      "portion_estimate": 120,
+      "confidence": 98
+    },
+    {
+      "name": "bread roll in clear plastic wrapper",
+      "portion_estimate": 45,
+      "confidence": 94
+    },
+    {
+      "name": "glass of water with ice",
+      "portion_estimate": 200,
+      "confidence": 88
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+Here is the list of distinct, visible food and beverage items with their estimated portions and confidence levels based on typical visual cues and standard serving sizes:
+
+1. **Rigatoni with tomato sauce and parmesan**  
+   - *Portion*: 150g  
+   - *Confidence*: 80%  
+   - *Reasoning*: A standard portion of rigatoni pasta (100–150g) with visible tomato sauce and grated parmesan. The bowl appears full, indicating a generous serving.
+
+2. **Veggie patty**  
+   - *Portion*: 100g  
+   - *Confidence*: 70%  
+   - *Reasoning*: A compact, flat patty resembling a plant-based burger. Exact composition is unclear, but size aligns with a typical small patty.
+
+3. **Shredded vegetables (likely zucchini)**  
+   - *Portion*: 30g  
+   - *Confidence*: 70%  
+   - *Reasoning*: Lightly shredded, greenish strips on the plate. Color and texture suggest zucchini, though other vegetables are possible.
+
+4. **Roasted potatoes**  
+   - *Portion*: 50g  
+   - *Confidence*: 70%  
+   - *Reasoning*: Small, cubed, and golden-brown pieces. Size and appearance match a modest side of roasted potatoes.
+
+5. **Yogurt (YOKO brand)**  
+   - *Portion*: 100g  
+   - *Confidence*: 90%  
+   - *Reasoning*: A small container with visible branding ("YOKO"), commonly sold in 100g portions. The creamy texture confirms yogurt.
+
+6. **Bread roll**  
+   - *Portion*: 50g  
+   - *Confidence*: 80%  
+   - *Reasoning*: A single, round roll in a plastic wrap. Typical weight for a small dinner roll is 50g.
+
+7. **Water**  
+   - *Portion*: 200g  
+   - *Confidence*: 90%  
+   - *Reasoning*: A standard glass filled to the brim. 200ml (200g) is a common serving size for water.
+
+---
+
+### Notes:
+- **Uncertainty**: Items like the veggie patty and shredded vegetables have lower confidence due to ambiguous visual details (e.g., exact ingredients), but the portions are estimated based on typical meal portions.  
+- **Excluded Items**: A wrapped item on the right was visible but indistinct (e.g., could be a snack or utensil), so it was excluded as it lacked clear identification.  
+- **Confidence Scale**:  
+  - 90%: Highly visible and identifiable (e.g., branded yogurt, water).  
+  - 80%: Clear visual cues but minor ambiguity (e.g., bread roll size).  
+  - 70%: Reasonable guess based on context but not definitive (e.g., shredded vegetables).  
+
+This list reflects a practical interpretation of the scene while acknowledging uncertainties. Let me know if you'd like adjustments!

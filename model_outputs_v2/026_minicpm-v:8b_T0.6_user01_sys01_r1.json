@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fried chicken nuggets",
+      "portion_estimate": "uncertain, approximately 100g per piece",
+      "confidence": "50"
+    },
+    {
+      "name": "Mashed potatoes with herbs and nuts",
+      "portion_estimate": "uncertain, approximately 120-150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Steamed greens or spinach",
+      "portion_estimate": "uncertain, approximately 80-100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Whole grain roll",
+      "portion_estimate": "uncertain, approximately 60g",
+      "confidence": "50"
+    }
+  ]
+}

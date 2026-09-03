@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of vegetables with zucchini",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "plate of pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "cup of coffee",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "banana in its peel",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

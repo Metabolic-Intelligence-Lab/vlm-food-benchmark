@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bow-tie pasta",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Chicken or beef",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "100g",
+      "confidence": 90
+    }
+  ]
+}

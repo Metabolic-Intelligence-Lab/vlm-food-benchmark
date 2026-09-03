@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "dumpling (possibly with cabbage filling)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "shredded cabbage (filling inside dumpling)",
+      "portion_estimate": "50",
+      "confidence": 80
+    }
+  ]
+}

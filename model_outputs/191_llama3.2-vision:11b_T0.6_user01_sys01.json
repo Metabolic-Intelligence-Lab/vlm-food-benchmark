@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of green soup",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Plate of sliced carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Plate of meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Package of crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Cup of yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 88
+    },
+    {
+      "name": "Plate of greens",
+      "portion_estimate": "uncertain",
+      "confidence": 72
+    }
+  ]
+}

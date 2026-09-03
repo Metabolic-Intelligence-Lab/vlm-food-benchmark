@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "small green fruit/vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "small nut/seed",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "light green leafy vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "small fruit slice/meat",
+      "portion_estimate": "uncertain",
+      "confidence": 35
+    },
+    {
+      "name": "large green leafy vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    },
+    {
+      "name": "small meat/tofu",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

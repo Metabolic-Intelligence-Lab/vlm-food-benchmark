@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried or breaded chicken or fish (appears as a cutlet)",
+      "portion_estimate": "150-180g",
+      "confidence": 70
+    },
+    {
+      "name": "diced mixed vegetables (carrots and onions)",
+      "portion_estimate": "100-120g",
+      "confidence": 75
+    },
+    {
+      "name": "diced or shredded potatoes (possibly hash browns or potato pancake)",
+      "portion_estimate": "120-150g",
+      "confidence": 75
+    },
+    {
+      "name": "whole wheat or bun roll",
+      "portion_estimate": "70-90g",
+      "confidence": 80
+    },
+    {
+      "name": "butter or margarine (small container)",
+      "portion_estimate": "uncertain (likely 10-25g, portion size unclear)",
+      "confidence": 40
+    }
+  ]
+}

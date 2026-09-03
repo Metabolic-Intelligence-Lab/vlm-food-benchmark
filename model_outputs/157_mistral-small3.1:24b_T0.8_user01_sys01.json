@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "shell pasta",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "grated cheese",
+      "portion_estimate": "10",
+      "confidence": "80"
+    },
+    {
+      "name": "lentils",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "stuffed mushroom",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed potato",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "180",
+      "confidence": "80"
+    }
+  ]
+}

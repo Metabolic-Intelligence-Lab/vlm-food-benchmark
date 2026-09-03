@@ -1,0 +1,9 @@
+The visible food items in the image are identified as follows:
+
+- **Chickpeas**: Clearly visible as a primary component. The portion estimate is based on a typical serving size (approximately 250g), and the confidence level is high (80%) due to the distinct appearance and common culinary context.
+  
+- **Uncertain food item**: The rolled items are visible but cannot be definitively identified. Given the lack of clear visual cues (e.g., no visible filling or specific shape to confirm as spring rolls or another item), the name is marked as "uncertain." The portion estimate (100g) is an approximation based on the size relative to the chickpeas, and the confidence level is low (50%) due to the ambiguity.
+
+**Final Answer**:
+- Chickpeas: 250g, confidence 80%
+- Uncertain: 100g, confidence 50%

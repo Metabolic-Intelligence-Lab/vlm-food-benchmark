@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Fried fish",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "Cooked greens",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "100",
+      "confidence": 60
+    }
+  ]
+}

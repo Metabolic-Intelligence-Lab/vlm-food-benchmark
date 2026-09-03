@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich with greens and meat/cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "vegetable medley (carrots and potatoes)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pasta with creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "blueberries",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

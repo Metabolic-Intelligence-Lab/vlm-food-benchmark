@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked white rice",
+      "portion_estimate": "280",
+      "confidence": "95"
+    },
+    {
+      "name": "cooked dark leafy greens (e.g., spinach)",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "cashews or similar light-colored nuts",
+      "portion_estimate": "60",
+      "confidence": "80"
+    }
+  ]
+}

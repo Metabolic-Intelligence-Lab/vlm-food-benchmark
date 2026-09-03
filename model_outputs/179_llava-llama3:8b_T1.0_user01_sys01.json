@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fettuccine pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "steamed broccoli and rice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "lemon",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

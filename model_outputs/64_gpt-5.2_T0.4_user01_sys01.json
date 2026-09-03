@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rotini pasta with tomato-based sauce (with visible tomato pieces)",
+      "portion_estimate": "170 g",
+      "confidence": "70"
+    },
+    {
+      "name": "home fries / diced roasted potatoes with herbs",
+      "portion_estimate": "160 g",
+      "confidence": "72"
+    },
+    {
+      "name": "stuffed pasta/savory pastry (uncertain filling; appears to include meat and sauce)",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "plain yogurt cup (packaged)",
+      "portion_estimate": "125 g",
+      "confidence": "68"
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60 g",
+      "confidence": "60"
+    }
+  ]
+}

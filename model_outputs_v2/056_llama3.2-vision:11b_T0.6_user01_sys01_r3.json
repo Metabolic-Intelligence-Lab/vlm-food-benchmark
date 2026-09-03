@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Chicken Breast",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed Vegetables",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    }
+  ]
+}

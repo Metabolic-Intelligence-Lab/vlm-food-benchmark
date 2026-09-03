@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Rice",
+      "portion_estimate": "1 cup (uncertain, set confidence to 20)",
+      "confidence": 20
+    },
+    {
+      "name": "Pasta salad",
+      "portion_estimate": "1 serving (uncertain, set confidence to 30)",
+      "confidence": 30
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "1 piece (uncertain, set confidence to 40)",
+      "confidence": 40
+    },
+    {
+      "name": "Fruit salad (contains carrots and broccoli), possibly with apple and kiwi",
+      "portion_estimate": "2 portions (uncertain, set confidence to 50)",
+      "confidence": 50
+    }
+  ]
+}

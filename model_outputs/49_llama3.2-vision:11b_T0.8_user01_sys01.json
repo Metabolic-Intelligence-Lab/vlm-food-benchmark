@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Olives",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Mozzarella cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

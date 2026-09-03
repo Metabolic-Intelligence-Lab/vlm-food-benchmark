@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "dark brown coffee or espresso",
+      "portion_estimate": "250",
+      "confidence": "90"
+    },
+    {
+      "name": "sweet chili sauce",
+      "portion_estimate": "20",
+      "confidence": "85"
+    },
+    {
+      "name": "pickled vegetables (e.g., kimchi or similar fermented greens)",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "butter packet (unopened, partially visible)",
+      "portion_estimate": "14",
+      "confidence": "95"
+    },
+    {
+      "name": "cream cheese or whipped cream packet (unopened, partially visible)",
+      "portion_estimate": "30",
+      "confidence": "95"
+    },
+    {
+      "name": "sugar or sweetener packet (e.g., Splenda or similar)",
+      "portion_estimate": "5",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "vegetable soup with cheese",
+      "portion_estimate": "300",
+      "confidence": "75"
+    },
+    {
+      "name": "fried corn cakes",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "pickled red onions",
+      "portion_estimate": "20",
+      "confidence": "60"
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "125",
+      "confidence": "85"
+    }
+  ]
+}

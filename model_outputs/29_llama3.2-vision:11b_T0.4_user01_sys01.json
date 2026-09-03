@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "Omelette",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Zucchini",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

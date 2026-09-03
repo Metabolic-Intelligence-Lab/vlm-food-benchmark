@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato and meat sauce",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "baked or breaded brussels sprouts and potato wedges",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "broiled or baked white fish fillet (possibly cod or pollock)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "unopened packet of TOMs unsweetened almond milk",
+      "portion_estimate": "200ml (equivalent to 204g)",
+      "confidence": 95
+    },
+    {
+      "name": "single wrapped dinner roll or small bread",
+      "portion_estimate": "80g",
+      "confidence": 85
+    }
+  ]
+}

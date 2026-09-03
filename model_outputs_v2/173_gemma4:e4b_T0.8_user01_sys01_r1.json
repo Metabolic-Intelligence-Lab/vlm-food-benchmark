@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "saut\u00e9ed dark green leafy vegetables or herbs",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "light colored potato or cheese croquette",
+      "portion_estimate": "50g",
+      "confidence": "75"
+    },
+    {
+      "name": "yellowish filling croquette or patty",
+      "portion_estimate": "60g",
+      "confidence": "75"
+    },
+    {
+      "name": "fried or baked pasta (rigatoni style)",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "lemon or small orange fruit",
+      "portion_estimate": "70g",
+      "confidence": "95"
+    }
+  ]
+}

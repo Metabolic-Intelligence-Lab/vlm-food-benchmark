@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rotini pasta",
+      "portion_estimate": "300 grams",
+      "confidence": 80
+    },
+    {
+      "name": "spinach (cooked)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baked fish with yellow topping (likely polenta or cornmeal)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small loaf of bread (in plastic wrap)",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "two apricots",
+      "portion_estimate": "100 grams total (50 grams each)",
+      "confidence": 80
+    }
+  ]
+}

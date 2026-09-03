@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta or noodles with sauce and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta or noodles with pesto and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "roll with fish or meat filling",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fruit (possibly blueberries)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "chips or snacks",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

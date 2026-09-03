@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Farfalle pasta with cheese",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Soda water",
+      "portion_estimate": "uncertain, approx. volume of glass (240-360ml)",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken casserole",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "pasta salad with tomatoes and red onions",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "30g",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt parfait with granola and berries",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    }
+  ]
+}

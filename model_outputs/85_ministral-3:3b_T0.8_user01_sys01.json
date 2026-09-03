@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy tomato soup (on plate)",
+      "portion_estimate": "150\u2013200 g",
+      "confidence": 95
+    },
+    {
+      "name": "steamed or saut\u00e9ed mushroom (seasoned with garlic, on plate)",
+      "portion_estimate": "80 g",
+      "confidence": 90
+    },
+    {
+      "name": "baby spinach or kale salad (on plate)",
+      "portion_estimate": "100 g",
+      "confidence": 90
+    },
+    {
+      "name": "lemon",
+      "portion_estimate": "130\u2013150 g",
+      "confidence": 95
+    },
+    {
+      "name": "baked or fried pastry (e.g., croissant or danish)",
+      "portion_estimate": "80\u2013100 g",
+      "confidence": 85
+    }
+  ]
+}

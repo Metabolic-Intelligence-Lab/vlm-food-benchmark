@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Crispy Pasta",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Red Cabbage Salad",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "70g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried Egg",
+      "portion_estimate": "70g",
+      "confidence": "90"
+    },
+    {
+      "name": "Crisp Fried Vegetables",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    }
+  ]
+}

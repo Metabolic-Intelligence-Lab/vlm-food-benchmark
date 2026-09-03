@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "small roll/bun",
+      "portion_estimate": "40 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "bowtie pasta with pesto",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "scrambled eggs with cheese",
+      "portion_estimate": "80 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted Brussels sprouts",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": "100"
+    }
+  ]
+}

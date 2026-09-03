@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "boiled or steamed peas (shelled)",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "baked or boiled potato (whole)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "peas on top of what appears to be a baked dish (potato or similar)",
+      "portion_estimate": "50",
+      "confidence": 70
+    }
+  ]
+}

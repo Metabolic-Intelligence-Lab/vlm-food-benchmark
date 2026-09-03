@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans with vegetables and grains",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "rice with vegetables and possibly meat or cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta with tomato-based sauce and grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fruit salad or mixed fruit dish",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

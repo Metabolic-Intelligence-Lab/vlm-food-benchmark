@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "meat (possibly chicken or fish) with mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

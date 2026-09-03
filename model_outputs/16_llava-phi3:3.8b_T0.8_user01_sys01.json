@@ -1,0 +1,31 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of dark colored vegetables",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll in a paper bag",
+      "portion_estimate": "100g",
+      "confidence": "93"
+    },
+    {
+      "name": "plate with food on it",
+      "portion_estimate": "400g",
+      "confidence": "86"
+    },
+    {
+      "name": "fruit in a plastic bag",
+      "portion_estimate": "250g",
+      "confidence": "93"
+    }
+  ],
+  "tablecloth": [
+    {
+      "name": "white tablecloth with green leaves on it",
+      "portion_estimate": "1800g",
+      "confidence": "82"
+    }
+  ]
+}

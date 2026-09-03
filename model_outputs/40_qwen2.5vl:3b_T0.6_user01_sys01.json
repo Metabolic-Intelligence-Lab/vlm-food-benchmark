@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Hamburger Bun",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed Vegetable Salad",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried Rice with Peas, Corn, and Ham",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    },
+    {
+      "name": "Vegetable Stir-fry",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Mushroom and Cheese Omelette",
+      "portion_estimate": "uncertain",
+      "confidence": "65"
+    },
+    {
+      "name": "Sliced Carrots and Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Oranges",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

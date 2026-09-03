@@ -1,0 +1,28 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "type": "Gumbo with okra and cornmeal mush",
+      "portion_estimate": "2 cups",
+      "confidence": "90%"
+    },
+    {
+      "name": "Bread roll",
+      "type": "Bakery bread",
+      "portion_estimate": "1 slice",
+      "confidence": "80%"
+    },
+    {
+      "name": "Mushrooms and onions with spices",
+      "type": "Home cooked fried mushrooms & onions",
+      "portion_estimate": "4-6 pieces of mushrooms, 3 pieces of onions",
+      "confidence": "80%"
+    },
+    {
+      "name": "Salt and pepper shakers",
+      "type": "Table condiments",
+      "portion_estimate": "2 shakers",
+      "confidence": "100%"
+    }
+  ]
+}

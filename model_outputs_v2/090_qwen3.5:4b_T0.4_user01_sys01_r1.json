@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with butter",
+      "portion_estimate": 250,
+      "confidence": 90
+    },
+    {
+      "name": "Steamed carrots and potatoes",
+      "portion_estimate": 180,
+      "confidence": 90
+    },
+    {
+      "name": "Stir-fry with shrimp (cauliflower, spinach)",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": 60,
+      "confidence": 90
+    }
+  ]
+}

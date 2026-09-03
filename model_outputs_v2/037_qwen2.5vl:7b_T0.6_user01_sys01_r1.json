@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Fried egg",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Grilled bread with spinach and cheese",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Spaghetti with parmesan cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Red cabbage and carrot salad",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    }
+  ]
+}

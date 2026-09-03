@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "shell-shaped pasta with vegetables",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "couscous salad with vegetables",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "rolls",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "stuffed mussel",
+      "portion_estimate": "30",
+      "confidence": "85"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

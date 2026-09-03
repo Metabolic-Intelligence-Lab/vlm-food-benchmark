@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Eggs with Spinach and Cornbread",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Penne Pasta with Tomato Sauce and Parmesan Cheese",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "85"
+    }
+  ]
+}

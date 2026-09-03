@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Green salad with dressing",
+      "portion_estimate": "80 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Piece of fish with herbs",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll on the side",
+      "portion_estimate": "60 grams",
+      "confidence": "40"
+    }
+  ]
+}

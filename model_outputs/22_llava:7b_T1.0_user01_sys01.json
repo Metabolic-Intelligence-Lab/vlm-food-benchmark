@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Rice",
+      "portion_estimate": "185 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Vegetables (possibly green beans)",
+      "portion_estimate": "uncertain, portion likely 100 g or less due to the context of serving as a side",
+      "confidence": "60"
+    },
+    {
+      "name": "Naan",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Sauce/Dipping Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

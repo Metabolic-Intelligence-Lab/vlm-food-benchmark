@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt or dairy product",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": 75
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "approximately 250 grams",
+      "confidence": 90
+    }
+  ]
+}

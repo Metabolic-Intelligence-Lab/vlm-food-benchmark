@@ -1,0 +1,29 @@
+{
+  "tray": [
+    {
+      "food_items": [
+        {
+          "name": "mixed vegetables",
+          "portion_estimate": "60g",
+          "confidence": "90"
+        },
+        {
+          "name": "salad with dressing",
+          "portion_estimate": "120g",
+          "confidence": "85"
+        },
+        {
+          "name": "bread roll",
+          "portion_estimate": "90g",
+          "confidence": "75"
+        },
+        {
+          "name": "red berries",
+          "portion_estimate": "80g",
+          "confidence": "65"
+        }
+      ],
+      "confidence": "95"
+    }
+  ]
+}

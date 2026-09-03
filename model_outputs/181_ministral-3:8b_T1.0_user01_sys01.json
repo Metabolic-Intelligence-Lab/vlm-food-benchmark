@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (likely spaghetti)",
+      "portion_estimate": "120 grams (uncertain)",
+      "confidence": 75
+    },
+    {
+      "name": "bun or bread roll (wrapped)",
+      "portion_estimate": "50 grams (uncertain)",
+      "confidence": 65
+    },
+    {
+      "name": "pie or tart with filling (diced potatoes with cheese)",
+      "portion_estimate": "200 grams (uncertain)",
+      "confidence": 80
+    },
+    {
+      "name": "single cheese slice or portion",
+      "portion_estimate": "30 grams (uncertain)",
+      "confidence": 60
+    },
+    {
+      "name": "sliced and saut\u00e9ed cabbage or potato noodles (ramen noodles)",
+      "portion_estimate": "70 grams (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "whole pear",
+      "portion_estimate": "150 grams (uncertain)",
+      "confidence": 90
+    }
+  ]
+}

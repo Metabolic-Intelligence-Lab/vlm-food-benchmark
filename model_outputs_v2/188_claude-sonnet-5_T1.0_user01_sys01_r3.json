@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable and legume soup (minestrone-style with carrots, beans)",
+      "portion_estimate": "300",
+      "confidence": "75"
+    },
+    {
+      "name": "savory puff pastry pie slice with spinach filling",
+      "portion_estimate": "120",
+      "confidence": "65"
+    },
+    {
+      "name": "sauteed spinach side dish",
+      "portion_estimate": "80",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt cup (dairy dessert/snack)",
+      "portion_estimate": "125",
+      "confidence": "55"
+    }
+  ]
+}

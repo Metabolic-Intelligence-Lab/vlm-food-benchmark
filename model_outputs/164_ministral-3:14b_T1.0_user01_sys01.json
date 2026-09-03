@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken and mushroom soup (with visible chicken pieces and mushrooms) including grated cheese topping",
+      "portion_estimate": "450",
+      "confidence": 85
+    },
+    {
+      "name": "chicken-fried chicken cutlet with honey or brown gravy",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "macerated or saut\u00e9ed green vegetables (likely green bell peppers or chili peppers)",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "round white dinner roll (plain or buttery)",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt drink or yogurt-based dessert (brand: Yomo!)",
+      "portion_estimate": "125",
+      "confidence": 95
+    }
+  ]
+}

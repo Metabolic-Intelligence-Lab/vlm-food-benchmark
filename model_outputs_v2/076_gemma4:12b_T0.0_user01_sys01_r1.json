@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomatoes and herbs",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "Yellow rice with herbs",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "80g",
+      "confidence": 90
+    },
+    {
+      "name": "Two pieces of peach",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "Grilled fish fillet",
+      "portion_estimate": "150g",
+      "confidence": 90
+    }
+  ]
+}

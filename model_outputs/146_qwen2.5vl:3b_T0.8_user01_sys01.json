@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "unwrapped slice of bread",
+      "portion_estimate": "approx. 20 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "pasta with red pepper and cheese",
+      "portion_estimate": "approx. 50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "approx. 30 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "grilled bread",
+      "portion_estimate": "approx. 10 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "approx. 100 grams",
+      "confidence": "70"
+    }
+  ]
+}

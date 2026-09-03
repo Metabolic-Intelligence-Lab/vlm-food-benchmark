@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Meatloaf",
+      "portion_estimate": "120g",
+      "confidence": "60"
+    }
+  ]
+}

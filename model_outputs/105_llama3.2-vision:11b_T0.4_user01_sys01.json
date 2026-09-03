@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed greens (lettuce, radicchio, etc.)",
+      "portion_estimate": "300-400 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Red onions",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Chicken or turkey (protein source)",
+      "portion_estimate": "100-150 grams",
+      "confidence": "80"
+    }
+  ]
+}

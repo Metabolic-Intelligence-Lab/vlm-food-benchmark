@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "plate of green beans",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "plate with fish cake, lemon, and sauce",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": "80"
+    }
+  ]
+}

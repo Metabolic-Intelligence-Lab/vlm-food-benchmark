@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with chicken",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Orange juice",
+      "portion_estimate": "240 ml",
+      "confidence": "80"
+    },
+    {
+      "name": "White bread roll",
+      "portion_estimate": "130-160 g",
+      "confidence": "75"
+    },
+    {
+      "name": "Sour cream soup",
+      "portion_estimate": "240 ml",
+      "confidence": "90"
+    }
+  ]
+}

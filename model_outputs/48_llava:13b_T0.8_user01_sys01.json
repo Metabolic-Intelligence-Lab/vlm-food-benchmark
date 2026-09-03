@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Sliced Chicken",
+      "portion_estimate": "approximately 100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta with Red Sauce",
+      "portion_estimate": "approximately 100g",
+      "confidence": "40"
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "approximately 200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Side Salad or Vegetable Medley",
+      "portion_estimate": "approximately 50g",
+      "confidence": "50"
+    }
+  ]
+}

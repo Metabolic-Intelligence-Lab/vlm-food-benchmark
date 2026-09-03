@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "frittata with mushroom",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "steamed green beans",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with tomato sauce and diced vegetables (e.g., bell peppers, tomatoes)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or seeded bread roll",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "banana (partially peeled)",
+      "portion_estimate": "120",
+      "confidence": 80
+    }
+  ]
+}

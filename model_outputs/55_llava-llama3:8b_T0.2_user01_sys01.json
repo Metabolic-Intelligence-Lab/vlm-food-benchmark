@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken and Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Greens",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Leafy Greens",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

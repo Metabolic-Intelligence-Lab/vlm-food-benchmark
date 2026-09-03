@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish (likely cod or haddock)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "pasta (al dente, olive oil and garlic sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "salad (mixed greens, lettuce, spinach, vinaigrette)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "crusty Italian bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "shredded cheese (possibly mozzarella or parmesan)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad dressing (vinaigrette)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

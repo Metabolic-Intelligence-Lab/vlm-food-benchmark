@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with white sauce and grated cheese",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "plate with vegetables, potatoes, and a small muffin",
+      "portion_estimate": "400",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich and some fruit",
+      "portion_estimate": "200",
+      "confidence": 60
+    }
+  ]
+}

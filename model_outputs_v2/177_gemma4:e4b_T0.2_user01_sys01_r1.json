@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "savory dip or patty with white topping",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "fried bread or croquette pieces",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "tubular pasta (penne)",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "lemon or citrus fruit",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "two purple plums",
+      "portion_estimate": "140 g",
+      "confidence": "95"
+    },
+    {
+      "name": "cooked Brussels sprouts",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked leafy greens, likely spinach or chicory",
+      "portion_estimate": "120 g",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded fried cutlet, possibly chicken or fish",
+      "portion_estimate": "100 g",
+      "confidence": "55"
+    },
+    {
+      "name": "packaged breadstick or cracker",
+      "portion_estimate": "15 g",
+      "confidence": "50"
+    }
+  ]
+}

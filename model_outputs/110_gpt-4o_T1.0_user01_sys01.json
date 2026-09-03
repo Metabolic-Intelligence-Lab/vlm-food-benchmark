@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "soup with vegetables and cheese",
+      "portion_estimate": "250 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "spinach pie",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "peas and carrot mix",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "70 grams",
+      "confidence": "85"
+    }
+  ]
+}

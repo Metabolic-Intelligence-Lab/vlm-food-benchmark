@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breadstick (wrapped in plastic)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "fried fish cutlet (breaded and fried)",
+      "portion_estimate": "150-180 grams",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt cup (Kefir or similar dairy-based drink)",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "shredded carrots (saut\u00e9ed or raw)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "egg white omelet with corn and green beans",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread rolls",
+      "portion_estimate": 60,
+      "confidence": 70
+    },
+    {
+      "name": "rice salad",
+      "portion_estimate": 180,
+      "confidence": 80
+    },
+    {
+      "name": "quiche slice",
+      "portion_estimate": 120,
+      "confidence": 80
+    },
+    {
+      "name": "roasted carrots and potatoes",
+      "portion_estimate": 100,
+      "confidence": 70
+    },
+    {
+      "name": "clementines",
+      "portion_estimate": 150,
+      "confidence": 80
+    }
+  ]
+}

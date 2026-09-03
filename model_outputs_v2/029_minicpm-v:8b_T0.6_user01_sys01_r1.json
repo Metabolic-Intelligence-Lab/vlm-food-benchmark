@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Pasta with mushrooms and cheese",
+      "portion_estimate": "160 grams (approximate)",
+      "confidence": 80
+    },
+    {
+      "name": "Vegetable salad",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Pizza slice with cheese and herbs",
+      "portion_estimate": "120 grams (approximate)",
+      "confidence": 80
+    }
+  ]
+}

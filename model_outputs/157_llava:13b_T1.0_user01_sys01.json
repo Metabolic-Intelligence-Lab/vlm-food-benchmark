@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Meatball dish with tomato-based sauce and herbs/spices",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Fruit salad with orange and yellow fruit (possibly mango or pineapple)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

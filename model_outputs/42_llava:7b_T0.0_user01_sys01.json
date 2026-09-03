@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Mushrooms and potatoes",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Rice with vegetables",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Breaded meat patty",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Steamed broccoli",
+      "portion_estimate": "80 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed vegetables with sauce",
+      "portion_estimate": "120 grams",
+      "confidence": "50"
+    }
+  ]
+}

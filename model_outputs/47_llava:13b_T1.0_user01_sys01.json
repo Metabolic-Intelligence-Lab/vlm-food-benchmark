@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with Sauce",
+      "portion_estimate": "100g-200g",
+      "confidence": "45"
+    },
+    {
+      "name": "String Beans",
+      "portion_estimate": "75g-100g",
+      "confidence": "55"
+    },
+    {
+      "name": "Vegetable Omelet",
+      "portion_estimate": "100g-200g",
+      "confidence": "40"
+    },
+    {
+      "name": "White Bread Slice",
+      "portion_estimate": "75g-100g",
+      "confidence": "65"
+    },
+    {
+      "name": "Yogurt Cup with Fruit Sticker",
+      "portion_estimate": "250ml-300ml",
+      "confidence": "70"
+    },
+    {
+      "name": "Plastic Container of Nuts",
+      "portion_estimate": "30g-50g",
+      "confidence": "80"
+    }
+  ]
+}

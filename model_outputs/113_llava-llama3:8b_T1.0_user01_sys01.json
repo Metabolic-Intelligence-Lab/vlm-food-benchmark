@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "brown soup with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "oatmeal with cranberries and honey",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "toasted bread",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "fresh bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

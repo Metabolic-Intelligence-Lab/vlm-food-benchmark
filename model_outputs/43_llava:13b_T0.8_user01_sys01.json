@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti Bolognese",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sausage Pasta",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Steamed Vegetables",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    }
+  ]
+}

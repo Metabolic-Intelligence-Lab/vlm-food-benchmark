@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Eggs",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "1 medium",
+      "confidence": "70"
+    }
+  ]
+}

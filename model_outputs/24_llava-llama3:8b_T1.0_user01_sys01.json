@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "yellow food",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "orange food",
+      "portion_estimate": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "brown objects (nuts or seeds)",
+      "portion_estimate": "20g",
+      "confidence": 90
+    },
+    {
+      "name": "white cup with blue lid",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "white bread bag",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

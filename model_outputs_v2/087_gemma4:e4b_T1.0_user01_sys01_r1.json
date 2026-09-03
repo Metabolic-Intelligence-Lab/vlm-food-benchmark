@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Blanched peanuts or whole nuts",
+      "portion_estimate": "175",
+      "confidence": "90"
+    },
+    {
+      "name": "Seasoned green vegetable relish or mixture",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried or seared savory pieces (e.g., paneer or meat)",
+      "portion_estimate": "90",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried snack pieces (in clear plastic bag)",
+      "portion_estimate": "130",
+      "confidence": "75"
+    },
+    {
+      "name": "Apricot or peach fruit",
+      "portion_estimate": "120",
+      "confidence": "95"
+    }
+  ]
+}

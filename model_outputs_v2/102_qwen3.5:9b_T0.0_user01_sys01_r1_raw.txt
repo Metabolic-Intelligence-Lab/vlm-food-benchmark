@@ -1,0 +1,28 @@
+{
+  "food_items": [
+    {
+      "name": "Baked pasta dish with bowtie pasta, cheese, and breadcrumbs",
+      "portion_estimate": 250,
+      "confidence": 90
+    },
+    {
+      "name": "Grilled chicken breast with shredded topping",
+      "portion_estimate": 180,
+      "confidence": 85
+    },
+    {
+      "name": "Roasted diced potatoes with herbs and mushrooms",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+      "name": "Whole wheat bread roll in plastic bag",
+      "portion_estimate": 60,
+      "confidence": 90
+    },
+    {
+      "name": "Yoplait yogurt cup (mixed berry flavor)",
+      "portion_estimate": 150,
+      "confidence": 85
+    }
+  ]
+}

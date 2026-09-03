@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken patty",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "carrot salad",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "hard boiled egg with vegetables",
+      "portion_estimate": "50",
+      "confidence": "85"
+    }
+  ]
+}

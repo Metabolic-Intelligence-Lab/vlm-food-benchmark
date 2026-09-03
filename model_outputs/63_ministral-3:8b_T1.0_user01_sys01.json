@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (cooked, likely penne or rigatoni) with tomato sauce and breadcrumbs",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "thick-cut fried chicken breast or cutlet",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed or grilled eggplant",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "raw chicken strips mixed with julienned vegetables (cucumber and carrot)",
+      "portion_estimate": "150g (chicken + veggies combined)",
+      "confidence": 80
+    },
+    {
+      "name": "fried potato wedges or sticks",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "small sesame seed roll or sandwich bun (plastic-wrapped)",
+      "portion_estimate": "50g",
+      "confidence": 70
+    }
+  ]
+}

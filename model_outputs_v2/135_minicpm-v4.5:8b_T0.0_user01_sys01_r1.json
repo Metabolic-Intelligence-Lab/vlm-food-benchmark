@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "200-250g",
+      "confidence": "80"
+    },
+    {
+      "name": "barbecue sauce",
+      "portion_estimate": "50-75g",
+      "confidence": "70"
+    },
+    {
+      "name": "shredded meat (likely pulled pork or beef)",
+      "portion_estimate": "150-200g",
+      "confidence": "75"
+    }
+  ]
+}

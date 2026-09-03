@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "190 g",
+      "confidence": "78"
+    },
+    {
+      "name": "broccoli florets (cooked)",
+      "portion_estimate": "140 g",
+      "confidence": "75"
+    },
+    {
+      "name": "eggplant slice (cooked/roasted)",
+      "portion_estimate": "45 g",
+      "confidence": "70"
+    },
+    {
+      "name": "rolled chicken/turkey slice with green herb garnish",
+      "portion_estimate": "60 g",
+      "confidence": "62"
+    },
+    {
+      "name": "bread roll (white)",
+      "portion_estimate": "70 g",
+      "confidence": "73"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "250 g",
+      "confidence": "85"
+    }
+  ]
+}

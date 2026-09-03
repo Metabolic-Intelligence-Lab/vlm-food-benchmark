@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with two eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

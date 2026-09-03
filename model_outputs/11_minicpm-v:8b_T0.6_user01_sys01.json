@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "cabbage and lettuce salad",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "quinoa",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    }
+  ]
+}

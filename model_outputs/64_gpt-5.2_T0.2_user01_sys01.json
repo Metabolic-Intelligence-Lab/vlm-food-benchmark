@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rotini pasta with tomato-based sauce",
+      "portion_estimate": "170 g",
+      "confidence": "78"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "170 g",
+      "confidence": "76"
+    },
+    {
+      "name": "baked stuffed pasta (cannelloni/lasagna roll) with meat and tomato sauce",
+      "portion_estimate": "140 g",
+      "confidence": "66"
+    },
+    {
+      "name": "plain bread roll (small)",
+      "portion_estimate": "60 g",
+      "confidence": "62"
+    },
+    {
+      "name": "yogurt cup (likely strawberry)",
+      "portion_estimate": "125 g",
+      "confidence": "73"
+    }
+  ]
+}

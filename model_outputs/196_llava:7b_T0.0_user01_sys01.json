@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "1 cup",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken with sauce",
+      "portion_estimate": "1 serving",
+      "confidence": "70"
+    },
+    {
+      "name": "Beans",
+      "portion_estimate": "1/2 cup",
+      "confidence": "60"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "1 piece",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup with cheese topping",
+      "portion_estimate": "450 grams",
+      "confidence": 85
+    },
+    {
+      "name": "braised/steamed green leafy vegetables (likely broccoli rabe or Swiss chard)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole, cooked mushroom (likely porcini or chestnut mushroom)",
+      "portion_estimate": "40 grams",
+      "confidence": 75
+    },
+    {
+      "name": "whole lemon",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "small packaged roll or brioche bun",
+      "portion_estimate": "60 grams",
+      "confidence": 70
+    }
+  ]
+}

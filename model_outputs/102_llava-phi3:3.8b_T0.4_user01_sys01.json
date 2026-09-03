@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried Chicken with Gravy",
+      "portion_estimate": "70g",
+      "confidence": "90"
+    }
+  ]
+}

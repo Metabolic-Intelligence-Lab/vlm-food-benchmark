@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta dish with sauce and vegetables/meat",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta dish with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "bread or roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "condiment or seasoning",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "lemons",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

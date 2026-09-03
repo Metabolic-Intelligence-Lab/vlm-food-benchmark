@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green soup",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "yellow polenta with tomato",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "white rice",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "300",
+      "confidence": "80"
+    }
+  ]
+}

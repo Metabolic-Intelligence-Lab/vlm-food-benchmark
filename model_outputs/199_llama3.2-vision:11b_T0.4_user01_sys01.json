@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "plate with green sauce and parmesan",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "plate with pasta in green sauce and parmesan",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "plate with peas and meat/fish",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

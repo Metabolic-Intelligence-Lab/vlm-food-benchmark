@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "sashimi platter with raw fish",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "cucumber slices",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "fried potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

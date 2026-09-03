@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato-based sauce and fried food",
+      "portion_estimate": "300g",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetables salad",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "vegetable stuffed with topping",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "80g",
+      "confidence": 85
+    }
+  ]
+}

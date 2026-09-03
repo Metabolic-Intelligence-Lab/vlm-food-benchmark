@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "main course dish (white sauce and vegetables)",
+      "portion_estimate": "200-250 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "small bowl of beans",
+      "portion_estimate": "100-150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "roll or bread",
+      "portion_estimate": "50-75 grams",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "plate1": {
+    "name": "Potato salad",
+    "portion_estimate": "500g",
+    "confidence": "90"
+  },
+  "plate2": {
+    "name": "Bread rolls",
+    "portion_estimate": "3 pieces",
+    "confidence": "80"
+  },
+  "cup1": {
+    "name": "Yogurt",
+    "portion_estimate": "150g",
+    "confidence": "70"
+  },
+  "cup2": {
+    "name": "Jelly",
+    "portion_estimate": "100g",
+    "confidence": "60"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked penne pasta (with Parmesan or breadcrumb coating)",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "spinach and zucchini stuffed quiche or frittata slice",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "small whole wheat burger bun (without filling)",
+      "portion_estimate": "50",
+      "confidence": 75
+    },
+    {
+      "name": "small container Greek yogurt (single-serve, ~170g typical)",
+      "portion_estimate": "170",
+      "confidence": 70
+    },
+    {
+      "name": "stick of butter (semi-soft, ~85% fat content)",
+      "portion_estimate": "30",
+      "confidence": 80
+    }
+  ]
+}

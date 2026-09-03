@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Twisted pasta (fusilli) with sauce and grated cheese",
+      "portion_estimate": 250,
+      "confidence": 85
+    },
+    {
+      "name": "Savory baked dish, likely quiche or frittata slice",
+      "portion_estimate": 130,
+      "confidence": 80
+    },
+    {
+      "name": "Fried or roasted potatoes (potato balls)",
+      "portion_estimate": 120,
+      "confidence": 75
+    },
+    {
+      "name": "Sliced baguette bread",
+      "portion_estimate": 60,
+      "confidence": 88
+    },
+    {
+      "name": "Whole fruit (possibly pear or peach)",
+      "portion_estimate": 250,
+      "confidence": 90
+    }
+  ]
+}

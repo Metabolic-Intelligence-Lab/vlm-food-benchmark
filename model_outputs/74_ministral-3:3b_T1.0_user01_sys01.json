@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cubed carrots",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "diced sweet potato or butternut squash",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta with sauce (tomato/chicken)",
+      "portion_estimate": "150g cooked",
+      "confidence": 85
+    },
+    {
+      "name": "green beans (fresh, cut)",
+      "portion_estimate": "90g",
+      "confidence": 90
+    },
+    {
+      "name": "white bread cube (loaf, rough estimate)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "ice water (in disposable cup)",
+      "portion_estimate": "uncertain (50-60ml)",
+      "confidence": 70
+    },
+    {
+      "name": "plastic wrap bag (potential starch like rice or corn, not directly visible food inside)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "Fried Mushrooms",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "Salad with Cucumber and Tomato",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120g",
+      "confidence": 85
+    }
+  ]
+}

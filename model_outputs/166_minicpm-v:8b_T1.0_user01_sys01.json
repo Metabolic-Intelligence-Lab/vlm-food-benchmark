@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Rigate",
+      "portion_estimate": "100g (approx.)",
+      "confidence": "80"
+    },
+    {
+      "name": "Spinach with Potatoes",
+      "portion_estimate": "uncertain, approximately 50-75g",
+      "confidence": "60"
+    },
+    {
+      "name": "Quiche or Pie",
+      "portion_estimate": "125g (approx.)",
+      "confidence": "80"
+    },
+    {
+      "name": "Cheese Slices",
+      "portion_estimate": "uncertain, approximately 3-4 slices of medium thickness",
+      "confidence": "60"
+    }
+  ]
+}

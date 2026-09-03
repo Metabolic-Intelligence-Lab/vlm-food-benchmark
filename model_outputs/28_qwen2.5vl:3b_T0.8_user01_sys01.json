@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Spinach and Cheese Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta with Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Cucumber Salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt Drink",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

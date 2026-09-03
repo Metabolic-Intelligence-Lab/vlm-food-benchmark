@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Green Sauce",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Slice of Bread",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "Peach",
+      "portion_estimate": "80g",
+      "confidence": 90
+    }
+  ]
+}

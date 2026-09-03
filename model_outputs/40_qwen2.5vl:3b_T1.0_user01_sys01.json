@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pizza",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "vegetable mix",
+      "portion_estimate": "approx 50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "approx 100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "hummus or similar dip",
+      "portion_estimate": "approx 100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "roll or bread",
+      "portion_estimate": "approx 100 grams",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked broccoli",
+      "portion_estimate": "60 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "pizza slice with vegetables",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "two mandarins",
+      "portion_estimate": "160 grams",
+      "confidence": "90"
+    }
+  ]
+}

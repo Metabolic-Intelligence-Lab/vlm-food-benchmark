@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "salad with leafy greens (lettuce or spinach)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pasta (whole grain variety)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange slice",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

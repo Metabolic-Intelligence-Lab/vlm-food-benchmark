@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "fried rice",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "bagel",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "ham",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "milk",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange juice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+Based on the input image, the distinct food items visible are identified along with their estimated portion sizes and confidence levels. The analysis considers typical serving sizes and visual context (e.g., the bread roll appears small and wrapped, while the yogurt and spinach are standard portions).
+
+1. **Spinach (leafy green vegetable)**  
+   - **Portion size**: ~100g  
+   - **Confidence**: 90%  
+   - *Rationale*: The spinach is served in a typical portion for a salad or side dish, with a volume and weight consistent with 100g (e.g., ~1 cup of chopped spinach). The image shows it as a dense, fresh pile.
+
+2. **French fries**  
+   - **Portion size**: ~180g  
+   - **Confidence**: 80%  
+   - *Rationale*: The fries are thick-cut and piled high, forming a generous portion. Standard restaurant portions for fries are often 150–200g, so 180g aligns with the visual scale (e.g., ~6–8 medium fries).
+
+3. **Fried egg on bun**  
+   - **Portion size**: ~70g  
+   - **Confidence**: 85%  
+   - *Rationale*: The egg is cooked to a medium doneness, and the bun is a small, soft roll. Total weight is estimated at 70g (e.g., 30g egg + 40g bun), common for a single serving of a breakfast sandwich.
+
+4. **Bread roll**  
+   - **Portion size**: ~30g  
+   - **Confidence**: 70%  
+   - *Rationale*: This is a small, individually wrapped roll, likely a single serving. It appears dense and compact, typical of a mini bread roll or "bun" portion (e.g., 15–25g, but the image shows a slightly larger size).
+
+5. **Yogurt**  
+   - **Portion size**: ~100g  
+   - **Confidence**: 85%  
+   - *Rationale*: The container is standard for a single serving, and the visible portion (e.g., filling a 150ml cup) is consistent with 100g of plain yogurt (100g = ~150ml).
+
+### Key Notes:
+- **No other food items** were identified in the image (e.g., no sauces, sides, or additional dishes are visible).
+- **Confidence levels** reflect the reliability of visual estimation (e.g., the bread roll is small, but the exact weight is less certain due to lack of scale).
+- **Portion sizes** align with common dietary standards for restaurant or home servings. For reference:
+  - Spinach: 100g is a standard portion for a side salad.
+  - French fries: 180g is a moderate-to-large portion.
+  - Egg sandwich: 70g is typical for a single serving.
+  - Yogurt: 100g is a standard single-serving size.
+
+This list is derived from the visual content of the input image, with portions estimated based on typical serving sizes and context.

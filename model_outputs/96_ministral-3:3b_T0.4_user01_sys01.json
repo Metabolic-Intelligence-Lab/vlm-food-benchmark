@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Starbucks coffee-flavored pastry (sandwich-like bun)",
+      "portion_estimate": 30,
+      "confidence": 90
+    },
+    {
+      "name": "Starbucks coffee-flavored pastry (smaller piece)",
+      "portion_estimate": 15,
+      "confidence": 85
+    },
+    {
+      "name": "Starbucks coffee-flavored milk (200ml carton)",
+      "portion_estimate": 200,
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Eggs",
+      "portion_estimate": "2 large",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked green vegetables",
+      "portion_estimate": "1 cup",
+      "confidence": "70"
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "1 medium",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "1 slice",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with creamy sauce and grated cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "roast pie with green beans",
+      "portion_estimate": "180 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "45 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "brioche roll",
+      "portion_estimate": "80 grams",
+      "confidence": "75"
+    }
+  ]
+}

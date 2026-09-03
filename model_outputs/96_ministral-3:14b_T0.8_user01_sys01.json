@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "whole milk (200ml carton)",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "carrot cake muffin or bar",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "oatmeal raisin cookie or scone",
+      "portion_estimate": "55",
+      "confidence": "80"
+    }
+  ]
+}

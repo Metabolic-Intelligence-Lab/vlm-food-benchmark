@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated Parmesan",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "plain bun (likely a sandwich bun)",
+      "portion_estimate": "60g",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt (plain, likely Yoplait)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed green beans with potatoes",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "water (glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Fish",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Potatoes with herbs",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green vegetables (possibly spinach or kale)",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fruit salad",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    }
+  ]
+}

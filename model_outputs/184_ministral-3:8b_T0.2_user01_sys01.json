@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bun (sliced side visible)",
+      "portion_estimate": "60g",
+      "confidence": 85
+    },
+    {
+      "name": "grilled chicken breast with stuffing (approx. half of a medium slice)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "mixed greens salad with cherry tomatoes and cucumber",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "pickled plum or prune",
+      "portion_estimate": "30g",
+      "confidence": 70
+    },
+    {
+      "name": "small portion of fresh parsley or garnish",
+      "portion_estimate": "5g",
+      "confidence": 65
+    }
+  ]
+}

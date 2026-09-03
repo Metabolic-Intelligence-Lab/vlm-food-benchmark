@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "orange spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "watermelon slices",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "grilled chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

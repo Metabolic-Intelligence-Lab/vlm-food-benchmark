@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "banana (whole)",
+      "portion_estimate": "120 g",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll (whole wheat, small)",
+      "portion_estimate": "70 g",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed salad bowl (lettuce)",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "tuna (canned, drained)",
+      "portion_estimate": "75 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cherry tomatoes (halved)",
+      "portion_estimate": "70 g",
+      "confidence": "75"
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "15 g",
+      "confidence": "70"
+    },
+    {
+      "name": "fresh mozzarella balls (bocconcini)",
+      "portion_estimate": "50 g",
+      "confidence": "70"
+    }
+  ]
+}

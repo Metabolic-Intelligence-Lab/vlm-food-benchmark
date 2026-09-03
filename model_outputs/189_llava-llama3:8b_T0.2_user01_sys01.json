@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "dark brown soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "breaded chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "coleslaw",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "ketchup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "mustard",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

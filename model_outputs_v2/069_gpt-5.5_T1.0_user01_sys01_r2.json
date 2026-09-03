@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green bell pepper pieces",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "uncertain cooked brown pieces, possibly mushrooms or sausage",
+      "portion_estimate": "80 g",
+      "confidence": "45"
+    },
+    {
+      "name": "brown stir-fry sauce or cooking oil",
+      "portion_estimate": "30 g",
+      "confidence": "65"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded cutlet (likely chicken or pork)",
+      "portion_estimate": "180-200g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed kale",
+      "portion_estimate": "100-120g",
+      "confidence": 80
+    },
+    {
+      "name": "roasted or fried pasta (likely penne or rigatoni)",
+      "portion_estimate": "150-180g (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "uncertain (small portion, ~20-30g)",
+      "confidence": 60
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "uncertain (small glass, ~200-250ml)",
+      "confidence": 60
+    }
+  ]
+}

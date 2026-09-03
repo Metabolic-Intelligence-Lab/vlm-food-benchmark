@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "yellow curry soup",
+      "portion_estimate": "uncertain - approx 200-300 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "boiled egg",
+      "portion_estimate": "1 large boiled egg",
+      "confidence": "90"
+    },
+    {
+      "name": "tofu patty with coleslaw on top",
+      "portion_estimate": "uncertain - approx 50-70 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "mashed potatoes or cauliflower mash",
+      "portion_estimate": "uncertain - approx 120-150 grams",
+      "confidence": "40"
+    }
+  ]
+}

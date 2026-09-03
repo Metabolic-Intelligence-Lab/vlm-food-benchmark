@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable Soup",
+      "portion_estimate": "300g",
+      "confidence": 80
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "Crackel",
+      "portion_estimate": "50g",
+      "confidence": 60
+    },
+    {
+      "name": "Sourdough Bread",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": 90
+    }
+  ]
+}

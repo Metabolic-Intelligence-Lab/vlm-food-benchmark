@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roasted carrots and meat",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "black beans with red peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "napkin",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

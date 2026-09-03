@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce and parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "chicken or pork with a brown sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "spinach or kale",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "package of bread or crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "small bowl of salad or fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

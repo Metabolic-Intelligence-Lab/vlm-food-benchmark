@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded and fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "orange french fries",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "grilled fish",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "ketchup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mayonnaise",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked spinach",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "fried rice balls",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "small bread rolls",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "food_items": [
+    {
+      "name": "cauliflower",
+      "portion_estimate": "about 100g",
+      "confidence": 95
+    },
+    {
+      "name": "white beans",
+      "portion_estimate": "about 150g",
+      "confidence": 90
+    },
+    {
+      "name": "fish",
+      "portion_estimate": "about 50g",
+      "confidence": 95
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "about 20g",
+      "confidence": 95
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "about 10g",
+      "confidence": 90
+    }
+  ],
+  "total_food_items": 5
+}

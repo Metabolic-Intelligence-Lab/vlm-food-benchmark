@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Saut\u00e9ed leafy greens (e.g., spinach, beet greens)",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Green beans (beans or green bean mix)",
+      "portion_estimate": 130,
+      "confidence": 95
+    },
+    {
+      "name": "Fish fillet with butter",
+      "portion_estimate": 140,
+      "confidence": 98
+    },
+    {
+      "name": "Sliced bread (whole wheat or multigrain)",
+      "portion_estimate": 50,
+      "confidence": 92
+    },
+    {
+      "name": "Keto cream cheese packet (Uncertain Brand)",
+      "portion_estimate": 80,
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

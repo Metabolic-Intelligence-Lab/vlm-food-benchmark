@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "lentils",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "fruit (orange or yellow melon)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

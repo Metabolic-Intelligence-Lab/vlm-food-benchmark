@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta shells with tomato-based sauce and grated cheese",
+      "portion_estimate": "260 g",
+      "confidence": "78"
+    },
+    {
+      "name": "spinach and cheese stuffed pasta (cannelloni/manicotti) with white sauce",
+      "portion_estimate": "220 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed salad (cucumber, cabbage)",
+      "portion_estimate": "110 g",
+      "confidence": "74"
+    },
+    {
+      "name": "bread roll (in plastic wrap)",
+      "portion_estimate": "70 g",
+      "confidence": "72"
+    },
+    {
+      "name": "clementines/mandarins (3 whole)",
+      "portion_estimate": "240 g",
+      "confidence": "80"
+    }
+  ]
+}

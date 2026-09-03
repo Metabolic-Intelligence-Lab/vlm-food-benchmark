@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "200g (approximate)",
+      "confidence": "70"
+    },
+    {
+      "name": "potato fries (or roasted potatoes)",
+      "portion_estimate": "150g (approximate)",
+      "confidence": "75"
+    },
+    {
+      "name": "omelette or quiche slice",
+      "portion_estimate": "120g (approximate)",
+      "confidence": "70"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120g (approximate)",
+      "confidence": "80"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "uncertain (no visible measurement)",
+      "confidence": "30"
+    }
+  ]
+}

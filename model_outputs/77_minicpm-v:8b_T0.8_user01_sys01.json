@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Peas and peanuts",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Broccoli with cheese sauce",
+      "portion_estimate": "uncertain, approx 200g",
+      "confidence": "40"
+    },
+    {
+      "name": "Fish fillet",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cheese spreadable",
+      "portion_estimate": "uncertain, approx 30g",
+      "confidence": "60"
+    },
+    {
+      "name": "Apple sauce cupcake",
+      "portion_estimate": "uncertain, approx 125g",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta with Pesto",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Green Peas",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "White Bread",
+      "portion_estimate": "1 slice",
+      "confidence": 90
+    }
+  ]
+}

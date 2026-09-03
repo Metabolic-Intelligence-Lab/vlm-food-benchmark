@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "breaded cutlet",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "vegetable medley",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200",
+      "confidence": 80
+    }
+  ]
+}

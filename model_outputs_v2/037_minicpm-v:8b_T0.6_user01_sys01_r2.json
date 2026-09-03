@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole Grain Bread (Bagel)",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Fruit Salad",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta with Parmesan Cheese (Spaghetti)",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Egg Toast",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried Egg with Cheese on Bread",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    }
+  ]
+}

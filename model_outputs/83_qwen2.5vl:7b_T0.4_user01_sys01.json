@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked potatoes",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "roasted chickpeas",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "baked fish",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": 60
+    }
+  ]
+}

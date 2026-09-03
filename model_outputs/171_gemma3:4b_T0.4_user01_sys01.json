@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Leafy Greens (likely Spinach)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "80g",
+      "confidence": 90
+    },
+    {
+      "name": "Sandwich Slice",
+      "portion_estimate": "40g",
+      "confidence": 70
+    }
+  ]
+}

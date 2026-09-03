@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Sliced bread",
+      "portion_estimate": "35",
+      "confidence": 100
+    },
+    {
+      "name": "Creamy pasta with cheese",
+      "portion_estimate": "180",
+      "confidence": 100
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "120",
+      "confidence": 100
+    },
+    {
+      "name": "Cracker",
+      "portion_estimate": "25",
+      "confidence": 100
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "110",
+      "confidence": 100
+    },
+    {
+      "name": "Butter",
+      "portion_estimate": "25",
+      "confidence": 100
+    }
+  ]
+}

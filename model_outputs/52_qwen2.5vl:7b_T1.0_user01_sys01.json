@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Fish",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with Sauce",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed Salad",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole Grain Bread",
+      "portion_estimate": "50",
+      "confidence": "75"
+    }
+  ]
+}

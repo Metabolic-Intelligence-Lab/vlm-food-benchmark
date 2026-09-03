@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with tomato and red pepper sauce",
+      "portion_estimate": "180",
+      "confidence": "75"
+    },
+    {
+      "name": "sauteed spinach",
+      "portion_estimate": "120",
+      "confidence": "75"
+    },
+    {
+      "name": "breaded fried patty (potato/vegetable) with ketchup",
+      "portion_estimate": "90",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "potato salad",
+      "portion_estimate": "uncertain, approx. bowl size",
+      "confidence": "50"
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "320g",
+      "confidence": "98"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain (small), approx. small piece size",
+      "confidence": "65"
+    }
+  ]
+}

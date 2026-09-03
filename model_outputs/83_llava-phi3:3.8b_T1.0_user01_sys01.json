@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Congealed Gravy in Plastic Cup",
+    "type": "Condiment",
+    "color": {
+      "red": 0.13,
+      "white": 0.29,
+      "clear": 0.48
+    },
+    "size": "small",
+    "texture": "smooth"
+  },
+  {
+    "name": "Fried Chicken on Plate",
+    "type": "Main Dish",
+    "color": {
+      "yellow": 0.6,
+      "orange": 0.47,
+      "white": 0.53
+    },
+    "size": "medium",
+    "texture": "crunchy"
+  },
+  {
+    "name": "Potato Salad on Plate",
+    "type": "Side Dish",
+    "color": {
+      "yellow": 0.62,
+      "orange": 0.38,
+      "white": 0.47
+    },
+    "size": "medium",
+    "texture": "creamy"
+  },
+  {
+    "name": "Bread in Plastic Bag",
+    "type": "Side Dish",
+    "color": {
+      "yellow": 0.15,
+      "white": 0.39
+    },
+    "size": "large",
+    "texture": "soft"
+  }
+]

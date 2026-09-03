@@ -1,0 +1,54 @@
+{
+  "food_items": [
+    {
+      "name": "pasta, possibly spaghetti or another type of noodle dish",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "meatballs or similar baked item",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "slice of cake, which could be a dessert or a breakfast pastry",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich, possibly containing cheese and other ingredients",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad that includes greens and some kind of vegetable or fruit, such as pears or apples",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "piece of cake or pastry",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cheese dish, possibly a type of cheese board or a grated cheese salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "side dish that could be a potato salad or a similar cold salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fruit, which looks like an apple or pear",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "piece of bread or roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

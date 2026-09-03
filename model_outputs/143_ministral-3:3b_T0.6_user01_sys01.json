@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole-grain bread (sliced)",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "plain yogurt (single-serve tub)",
+      "portion_estimate": 170,
+      "confidence": 80
+    },
+    {
+      "name": "broccoli and green beans mix (roasted)",
+      "portion_estimate": 120,
+      "confidence": 85
+    },
+    {
+      "name": "baked chicken breast (seasoned)",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "roasted potatoes (cubed)",
+      "portion_estimate": 120,
+      "confidence": 80
+    }
+  ]
+}

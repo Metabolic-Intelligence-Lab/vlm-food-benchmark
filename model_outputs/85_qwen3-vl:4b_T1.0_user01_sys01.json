@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Tomato soup",
+      "portion_estimate": "240 g",
+      "confidence": 60
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": "180 g",
+      "confidence": 90
+    },
+    {
+      "name": "Cooked spinach",
+      "portion_estimate": "150 g",
+      "confidence": 80
+    },
+    {
+      "name": "Cheese pastries",
+      "portion_estimate": "100 g",
+      "confidence": 70
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "40 g",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "potato chunks",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "mashed potatoes or potato wedges",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    },
+    {
+      "name": "grain bread, possibly whole grain",
+      "portion_estimate": "2 slices (1 slice approx. 60-70g)",
+      "confidence": "80"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "yogurt with fruit",
+      "portion_estimate": "uncertain, likely a small cup",
+      "confidence": "50"
+    }
+  ]
+}

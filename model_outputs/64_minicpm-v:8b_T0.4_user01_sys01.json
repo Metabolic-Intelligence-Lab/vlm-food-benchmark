@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Omelet or frittata with ham and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Yogurt cup",
+      "portion_estimate": "125g",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "200",
+      "confidence": "70"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "200",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked noodles with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

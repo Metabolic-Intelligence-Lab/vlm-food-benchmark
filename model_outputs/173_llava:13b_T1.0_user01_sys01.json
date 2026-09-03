@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "cookies",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "macaroni",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "coffee/tea",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "noodles with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "salad (spring mix or mixed leafy greens)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "breaded patty (egg or chicken fillet)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

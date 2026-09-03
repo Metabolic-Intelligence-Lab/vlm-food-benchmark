@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato-based sauce and grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetable medley (carrots, peas, broccoli, corn)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "spinach and cheese salad (portion visible)",
+      "portion_estimate": "70 grams",
+      "confidence": 75
+    },
+    {
+      "name": "whole wheat or multigrain roll",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "peach or nectarine",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    }
+  ]
+}

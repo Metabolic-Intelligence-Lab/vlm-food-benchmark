@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated Parmesan",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "mixed green salad with lettuce, red cabbage, and croutons",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "meatballs in tomato sauce",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or grain crackers",
+      "portion_estimate": "40g",
+      "confidence": 80
+    },
+    {
+      "name": "red grapes",
+      "portion_estimate": "75g",
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "Brown rice",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat pasta (penne)",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "green beans with breadcrumbs",
+      "portion_estimate": 120,
+      "confidence": 80
+    },
+    {
+      "name": "breaded and fried cutlet (likely chicken or veal)",
+      "portion_estimate": 120,
+      "confidence": 80
+    },
+    {
+      "name": "packaged butter or margarine (in wrapper)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "whole plum/nectarine",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "packaged cheese slice (likely in plastic wrapper)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

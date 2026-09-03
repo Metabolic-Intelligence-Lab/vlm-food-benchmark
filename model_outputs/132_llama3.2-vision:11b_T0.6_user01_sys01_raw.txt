@@ -1,0 +1,14 @@
+Here is the food recognition output in JSON format:
+
+{ "food_items": [
+  {
+    "name": "Pasta",
+    "portion_estimate": "80g",
+    "confidence": "90"
+  },
+  {
+    "name": "Peas",
+    "portion_estimate": "100g",
+    "confidence": "95"
+  }
+] }

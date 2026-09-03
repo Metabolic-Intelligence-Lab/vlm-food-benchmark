@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with vegetables",
+      "portion_estimate": "150g-200g",
+      "confidence": "90"
+    },
+    {
+      "name": "mashed potatoes on a bed of yellow lentils or beans, topped with red sauce and condiments",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "boiled egg",
+      "portion_estimate": "50g-70g",
+      "confidence": "80"
+    },
+    {
+      "name": "sliced lemon",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "white plate with a red rose logo and the word 'Hello' on it, partially visible",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Chopped green peppers",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Broccoli with cheese and spices",
+      "portion_estimate": "20g",
+      "confidence": "60"
+    },
+    {
+      "name": "Grilled salmon fillet",
+      "portion_estimate": "100-120g",
+      "confidence": "75"
+    },
+    {
+      "name": "Boiled egg white with spices",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Green salad in a plastic bag labeled 'Clear Kit'",
+      "portion_estimate": "2-3oz",
+      "confidence": "50"
+    },
+    {
+      "name": "Whole grain roll with visible seeds, wrapped in plastic and labeled 'Love' (partially obscured)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Red plum tomatoes",
+      "portion_estimate": "1-2oz each",
+      "confidence": "75"
+    }
+  ]
+}

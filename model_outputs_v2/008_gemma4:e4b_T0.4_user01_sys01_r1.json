@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup or stew with cheese topping",
+      "portion_estimate": "300g",
+      "confidence": "95"
+    },
+    {
+      "name": "Sliced cabbage salad",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll or baguette section",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Two small meatballs or croquettes",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    }
+  ]
+}

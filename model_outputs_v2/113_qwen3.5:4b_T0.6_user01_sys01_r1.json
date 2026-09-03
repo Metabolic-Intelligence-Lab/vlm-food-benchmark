@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked potato (cut into quarters)",
+      "portion_estimate": 250,
+      "confidence": 85
+    },
+    {
+      "name": "Soup with cheese topping",
+      "portion_estimate": 300,
+      "confidence": 90
+    },
+    {
+      "name": "Roasted Brussels sprouts and carrots",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "Baguette roll (packaged)",
+      "portion_estimate": 100,
+      "confidence": 90
+    },
+    {
+      "name": "Red fruit (likely apples or plums)",
+      "portion_estimate": 80,
+      "confidence": 75
+    }
+  ]
+}

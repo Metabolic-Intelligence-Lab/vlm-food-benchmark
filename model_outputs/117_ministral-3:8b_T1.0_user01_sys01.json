@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green soup with grated cheese on top (e.g., minestrone or similar)",
+      "portion_estimate": "350 grams (assuming standard bowl size)",
+      "confidence": 80
+    },
+    {
+      "name": "baked or seasoned potato wedges with red sauce",
+      "portion_estimate": "180 grams (roughly 1/4 to 1/3 of a standard portion)",
+      "confidence": 75
+    },
+    {
+      "name": "bread roll or crusty loaf",
+      "portion_estimate": "80 grams (one slice/roll)",
+      "confidence": 70
+    },
+    {
+      "name": "meatballs or chopped meat with broccoli floret",
+      "portion_estimate": "120 grams (for meat + veggie combined)",
+      "confidence": 70
+    },
+    {
+      "name": "packaged butter substitute or margarine",
+      "portion_estimate": "uncertain (portion size not fully visible)",
+      "confidence": 55
+    }
+  ]
+}

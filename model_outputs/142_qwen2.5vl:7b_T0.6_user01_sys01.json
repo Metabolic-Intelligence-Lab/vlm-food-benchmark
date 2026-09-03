@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "baked white beans",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "salmon",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": 70
+    }
+  ]
+}

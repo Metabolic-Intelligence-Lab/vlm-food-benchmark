@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked dark green leafy vegetables",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Two round cooked side items (e.g., fritters or dumplings)",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Cooked tubular pasta (penne)",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Whole orange",
+      "portion_estimate": "130g",
+      "confidence": "98"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "about 1 cup (235 mL)",
+      "confidence": "80"
+    },
+    {
+      "name": "Potato Salad",
+      "portion_estimate": "about 1/4 cup (60 mL)",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "one small roll, approximately 50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Sour Cream and Chives",
+      "portion_estimate": "about 1 tbsp (15 mL)",
+      "confidence": "70"
+    },
+    {
+      "name": "Fries",
+      "portion_estimate": "about 4 small pieces, approximately 28g",
+      "confidence": "70"
+    },
+    {
+      "name": "Soda",
+      "portion_estimate": "not visible in image",
+      "confidence": "60"
+    }
+  ]
+}

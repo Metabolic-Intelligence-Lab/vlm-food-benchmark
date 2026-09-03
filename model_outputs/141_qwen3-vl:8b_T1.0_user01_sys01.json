@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole Wheat Bread Slice",
+      "portion_estimate": "35g",
+      "confidence": 100
+    },
+    {
+      "name": "Cooked Broccoli (1 Cup)",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "Chicken Breast (1 Cup, Cooked)",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "Cooked Chickpeas (1 Cup)",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "Shredded Lettuce (1 Cup)",
+      "portion_estimate": "80g",
+      "confidence": 100
+    }
+  ]
+}

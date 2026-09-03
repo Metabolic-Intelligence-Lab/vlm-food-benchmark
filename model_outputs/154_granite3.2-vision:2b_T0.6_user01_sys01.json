@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "plums or blueberries",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "blackberries",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "spinach or lettuce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "grilled meat (chicken or pork)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled fish with crispy topping",
+      "portion_estimate": "uncertain, approx. weight of piece visible in photo",
+      "confidence": "60"
+    },
+    {
+      "name": "Saut\u00e9ed mushrooms or olives",
+      "portion_estimate": "uncertain, exact number not clear but seems substantial for one meal",
+      "confidence": "50"
+    },
+    {
+      "name": "Boiled quail eggs with seasoning",
+      "portion_estimate": "approx. 1-2 each egg (one visible), total weight in grams: uncertain due to size variation between eggs, approx. range of possible weights for one egg is [30g-50g]",
+      "confidence": "60"
+    },
+    {
+      "name": "Crispy snack balls",
+      "portion_estimate": "uncertain but appears substantial (likely 2-4 pieces visible), total weight in grams: uncertain due to size variation between individual items, approx. range of possible weights for one piece is [3g-5g]",
+      "confidence": "60"
+    },
+    {
+      "name": "Dark purple plum fruit",
+      "portion_estimate": "uncertain but appears substantial (likely 2 pieces visible), total weight in grams: uncertain due to size variation between fruits, approx. range of possible weights for one piece is [5g-10g]",
+      "confidence": "60"
+    },
+    {
+      "name": "Red plum fruit",
+      "portion_estimate": "uncertain but appears substantial (likely 2 pieces visible), total weight in grams: uncertain due to size variation between fruits, approx. range of possible weights for one piece is [5g-10g]",
+      "confidence": "60"
+    }
+  ]
+}

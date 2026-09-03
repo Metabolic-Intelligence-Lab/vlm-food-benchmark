@@ -1,0 +1,22 @@
+{
+"food_items": [
+    {
+        "name": "Bread",
+        "portion_estimate": "100g",
+        "confidence": "95"
+    },
+    {
+        "name": "Mashed potatoes",
+        "portion_estimate": "200g",
+        "confidence": "80"
+    },
+    {
+        "name": "Pork chop with gravy",
+        "portion_estimate": "150g",
+        "confidence": "70"
+    }
+],
+"tablecloth": {
+    "color": "white",
+    "pattern": "dots"
+}

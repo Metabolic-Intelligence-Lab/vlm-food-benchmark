@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cheese spread (from container)",
+      "portion_estimate": "100 grams (assuming ~1/2 of the container)",
+      "confidence": 85
+    },
+    {
+      "name": "baked pasta with meat sauce (plate)",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "fried potatoes or fries (plate)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "green beans with breaded meatballs (plate)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "plain baked potato (plastic bag)",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "baked egg (plastic bag)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    }
+  ]
+}

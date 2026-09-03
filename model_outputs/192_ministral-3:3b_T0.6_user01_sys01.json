@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried cutlet (likely chicken or pork)",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "baked kale (or saut\u00e9ed greens)",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "carrot fries (or penne pasta with carrot sauce)",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "orange (sliced)",
+      "portion_estimate": "100",
+      "confidence": 70
+    }
+  ]
+}

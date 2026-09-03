@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "raw carrot slices (cooked or boiled, rounded)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "roasted or pan-seared chicken with gravy",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "green olives (whole, pitted)",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "yellow apple (whole, with skin)",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "250",
+      "confidence": 75
+    }
+  ]
+}

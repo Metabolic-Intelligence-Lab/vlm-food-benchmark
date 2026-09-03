@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas and diced carrots",
+      "portion_estimate": 200,
+      "confidence": 95
+    },
+    {
+      "name": "green pasta with pesto sauce and parmesan cheese",
+      "portion_estimate": 350,
+      "confidence": 95
+    },
+    {
+      "name": "whole green apple",
+      "portion_estimate": 200,
+      "confidence": 95
+    },
+    {
+      "name": "round bread roll wrapped in plastic",
+      "portion_estimate": 80,
+      "confidence": 90
+    },
+    {
+      "name": "grilled vegetable wrap or stuffed pastry with white sauce (possibly cheese) and lettuce garnish",
+      "portion_estimate": 150,
+      "confidence": 75
+    }
+  ]
+}

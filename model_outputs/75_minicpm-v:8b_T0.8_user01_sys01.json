@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken breast with green chives and sour cream",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mashed potatoes with gravy",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Fried chicken pieces",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "2-3 slices, approx. 100g each",
+      "confidence": "90"
+    }
+  ]
+}

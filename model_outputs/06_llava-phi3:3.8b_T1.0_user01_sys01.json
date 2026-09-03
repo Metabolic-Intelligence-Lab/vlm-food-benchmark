@@ -1,0 +1,26 @@
+{
+  "trays": [
+    {
+      "id": "1",
+      "image": "https://i.stack.imgur.com/5YgC3.png",
+      "caption": "The pasta in the left hand picture."
+    },
+    {
+      "id": "2",
+      "image": "https://i.stack.imgur.com/6JwT7.png",
+      "caption": "Egg on a plate"
+    }
+  ],
+  "descriptions": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "85%"
+    },
+    {
+      "name": "Scrambled eggs with toast",
+      "portion_estimate": "3 eggs and a slice of bread",
+      "confidence": "76%"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "garlic-roasted beef cutlet",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed Brussels sprouts (mixed with carrots)",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "plain beef broth with grated cheese",
+      "portion_estimate": 250,
+      "confidence": 75
+    },
+    {
+      "name": "wrapped sandwich bun (partially eaten)",
+      "portion_estimate": 60,
+      "confidence": 70
+    },
+    {
+      "name": "cooked plum or dried fruit (red plums)",
+      "portion_estimate": 10,
+      "confidence": 75
+    }
+  ]
+}

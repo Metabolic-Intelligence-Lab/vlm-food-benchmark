@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "instant noodle soup",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bread or cracker",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "savory spread or condiment",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

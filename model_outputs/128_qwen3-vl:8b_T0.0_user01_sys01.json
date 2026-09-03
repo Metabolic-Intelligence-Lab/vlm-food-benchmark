@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "item": "Penne pasta",
+      "portion_size": 150,
+      "confidence": 90
+    },
+    {
+      "item": "Tomato sauce",
+      "portion_size": 50,
+      "confidence": 85
+    },
+    {
+      "item": "Shredded cheese",
+      "portion_size": 25,
+      "confidence": 90
+    },
+    {
+      "item": "Ground meat",
+      "portion_size": 50,
+      "confidence": 85
+    }
+  ]
+}

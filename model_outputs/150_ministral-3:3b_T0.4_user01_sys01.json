@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "small baguette slices (partially wrapped)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "mixed roasted vegetables (carrots, potatoes, cauliflower)",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "plain purple plums",
+      "portion_estimate": "10g (3-4 plums)",
+      "confidence": 70
+    }
+  ]
+}

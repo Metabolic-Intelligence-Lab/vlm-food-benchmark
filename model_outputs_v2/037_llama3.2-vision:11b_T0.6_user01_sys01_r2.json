@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Egg",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "20g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "30g",
+      "confidence": "85"
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Radicchio",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Carrot",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    }
+  ]
+}

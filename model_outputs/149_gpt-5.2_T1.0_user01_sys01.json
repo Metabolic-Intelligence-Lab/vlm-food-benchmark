@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta penne with tomato-based sauce and grated cheese (some green vegetable pieces)",
+      "portion_estimate": "320 g",
+      "confidence": "78"
+    },
+    {
+      "name": "rectangular bread roll/sandwich bread (possibly filled with greens/spinach)",
+      "portion_estimate": "140 g",
+      "confidence": "65"
+    },
+    {
+      "name": "shredded cabbage salad with creamy dressing (coleslaw-like)",
+      "portion_estimate": "150 g",
+      "confidence": "62"
+    },
+    {
+      "name": "plain bread roll (in plastic bag)",
+      "portion_estimate": "70 g",
+      "confidence": "72"
+    },
+    {
+      "name": "plums (whole)",
+      "portion_estimate": "160 g",
+      "confidence": "85"
+    }
+  ]
+}

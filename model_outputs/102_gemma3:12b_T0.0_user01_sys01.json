@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Farfalle pasta with sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken breast",
+      "portion_estimate": "120",
+      "confidence": "75"
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "80",
+      "confidence": "70"
+    },
+    {
+      "name": "Cucumber slices",
+      "portion_estimate": "30",
+      "confidence": "65"
+    },
+    {
+      "name": "Yogurt fruit snack",
+      "portion_estimate": "150",
+      "confidence": "90"
+    }
+  ]
+}

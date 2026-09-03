@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Plain Toast",
+      "portion_estimate": "60 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "80 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Potato Salad",
+      "portion_estimate": "120 grams",
+      "confidence": 70
+    }
+  ]
+}

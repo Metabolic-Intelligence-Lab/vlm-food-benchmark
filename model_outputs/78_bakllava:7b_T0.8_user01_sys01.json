@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "piece of bread and some vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "bowl of soup, a couple of oranges and a spoon",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "meal and a few carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

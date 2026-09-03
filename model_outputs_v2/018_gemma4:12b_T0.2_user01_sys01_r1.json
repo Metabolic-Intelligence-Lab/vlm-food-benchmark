@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked herb-crusted cheese",
+      "portion_estimate": "130",
+      "confidence": "95"
+    },
+    {
+      "name": "Shredded carrot and cabbage salad",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "250",
+      "confidence": "95"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "Small red fruit",
+      "portion_estimate": "50",
+      "confidence": "50"
+    }
+  ]
+}

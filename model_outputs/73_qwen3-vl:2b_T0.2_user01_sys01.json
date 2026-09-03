@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "fish",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "70"
+    }
+  ]
+}

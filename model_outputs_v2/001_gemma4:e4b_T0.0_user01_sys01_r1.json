@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Small loaf of bread",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Soup with grated cheese topping",
+      "portion_estimate": "320g",
+      "confidence": "85"
+    },
+    {
+      "name": "Savory patty or fritter",
+      "portion_estimate": "90g",
+      "confidence": "80"
+    },
+    {
+      "name": "Shredded side dish or grains",
+      "portion_estimate": "180g",
+      "confidence": "75"
+    }
+  ]
+}

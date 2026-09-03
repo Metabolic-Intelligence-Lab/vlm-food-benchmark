@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried cauliflower cutlets (individual piece, ~100g estimated per piece)",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "cauliflower florets (mixed, small to medium size)",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "creamy soup (likely cheese or vegetable-based, bowl size ~250ml)",
+      "portion_estimate": "250",
+      "confidence": 75
+    },
+    {
+      "name": "single-serving yogurt (Yoplait, 100g container)",
+      "portion_estimate": "100",
+      "confidence": 100
+    },
+    {
+      "name": "wrapped bread or roll (unidentified, portion unclear)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

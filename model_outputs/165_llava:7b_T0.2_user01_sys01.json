@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "salad or mixed greens",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sauce or condiment",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "beverage (tea or coffee)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

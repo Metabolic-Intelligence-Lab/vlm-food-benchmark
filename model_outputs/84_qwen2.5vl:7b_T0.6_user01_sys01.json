@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "steamed broccoli with chunks of potato",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetables with potatoes and meat",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "baked fish with breadcrumbs",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "pita bread",
+      "portion_estimate": "50",
+      "confidence": 80
+    }
+  ]
+}

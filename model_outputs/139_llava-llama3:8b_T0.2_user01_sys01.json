@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread and orange",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

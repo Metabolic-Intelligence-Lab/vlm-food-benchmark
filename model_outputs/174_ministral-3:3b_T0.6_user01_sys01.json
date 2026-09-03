@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled or baked fish (likely salmon)",
+      "portion_estimate": "150\u2013180 g",
+      "confidence": 95
+    },
+    {
+      "name": "roasted zucchini/cucumber mixture with tomatoes",
+      "portion_estimate": "80\u2013100 g",
+      "confidence": 90
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "70\u201390 g",
+      "confidence": 95
+    },
+    {
+      "name": "whole wheat bun (Starbucks-style)",
+      "portion_estimate": "50\u201370 g",
+      "confidence": 80
+    },
+    {
+      "name": "orange (whole)",
+      "portion_estimate": "125\u2013150 g",
+      "confidence": 95
+    }
+  ]
+}

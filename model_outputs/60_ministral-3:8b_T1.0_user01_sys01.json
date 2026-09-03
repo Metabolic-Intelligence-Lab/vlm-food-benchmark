@@ -1,0 +1,31 @@
+[
+  {
+    "food_items": [
+      {
+        "name": "penne pasta with tomato sauce and greens",
+        "portion_estimate": "280 grams",
+        "confidence": "85"
+      },
+      {
+        "name": "chicken breast (breaded or grilled)",
+        "portion_estimate": "120 grams",
+        "confidence": "80"
+      },
+      {
+        "name": "roasted potatoes with herbs",
+        "portion_estimate": "200 grams",
+        "confidence": "85"
+      },
+      {
+        "name": "yogurt (plain or flavored)",
+        "portion_estimate": "100 grams (based on small container size)",
+        "confidence": "75"
+      },
+      {
+        "name": "small portion of crumb-like baked goods (background)",
+        "portion_estimate": "uncertain",
+        "confidence": "50"
+      }
+    ]
+  }
+]

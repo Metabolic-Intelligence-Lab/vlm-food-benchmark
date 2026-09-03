@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked fish",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "zucchini and vegetable medley",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "broccoli florets",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "70"
+    }
+  ]
+}

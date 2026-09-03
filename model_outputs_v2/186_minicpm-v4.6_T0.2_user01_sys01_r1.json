@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "crunchy fried potatoes",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "sliced meat with black specks",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "bread rolls",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250ml (approximately 85g)",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce and grated cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "lentil dish",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "two pieces of bread",
+      "portion_estimate": "50 grams each",
+      "confidence": "60"
+    },
+    {
+      "name": "fruit (possibly a pear)",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    }
+  ]
+}

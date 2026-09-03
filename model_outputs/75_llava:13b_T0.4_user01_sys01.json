@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "serving of mashed potatoes",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "serving of chicken with sauce",
+      "portion_estimate": "approximately 120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "serving of green beans",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": "60"
+    }
+  ]
+}

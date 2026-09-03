@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli with chunks of cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Sliced ham on a slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed vegetable stir-fry (including carrots, peas, and corn)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "A small container of red yogurt with a dollop on top",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

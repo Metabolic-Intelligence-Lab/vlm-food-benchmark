@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "noodles and vegetables (spinach or beans)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "cooked red meat (resembling sausage)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "half-full glass",
+      "confidence": 90
+    }
+  ]
+}

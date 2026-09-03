@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll or small loaf of bread",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Spaghetti pasta with sauce and seasoning",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mixed saut\u00e9ed vegetables (peppers, carrots, zucchini)",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Flatbread or tart piece with cheese and herbs",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Peach or nectarine",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    }
+  ]
+}

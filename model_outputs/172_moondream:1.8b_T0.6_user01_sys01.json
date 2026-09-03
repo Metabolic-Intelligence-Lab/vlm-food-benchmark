@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (egg noodles or spaghetti)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "salad (lettuce and possibly peas)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange halves",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

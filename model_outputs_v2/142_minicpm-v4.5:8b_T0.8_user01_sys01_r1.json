@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "boiled cauliflower florets",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "grilled white fish fillet",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "white beans with herbs and lemon",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "sliced bread (whole grain or rye)",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "purple plum",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    }
+  ]
+}

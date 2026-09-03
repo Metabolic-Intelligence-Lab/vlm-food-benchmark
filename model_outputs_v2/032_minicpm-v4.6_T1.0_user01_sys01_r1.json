@@ -1,0 +1,20 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (or gnudi)",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "chopped tomatoes",
+      "portion_estimate": "70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "grated cheese (Parmesan)",
+      "portion_estimate": "10 grams",
+      "confidence": 90
+    }
+  ],
+  "note": "The dish appears to be a pasta salad or salad-like dish with tomatoes and cheese, with portions estimated based on visual estimation."
+}

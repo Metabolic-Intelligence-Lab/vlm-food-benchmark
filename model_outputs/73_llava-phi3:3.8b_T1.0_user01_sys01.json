@@ -1,0 +1,34 @@
+{
+  "plates": [
+    {
+      "type": "white",
+      "dish": "Rice with mixed vegetables"
+    },
+    {
+      "type": "clear",
+      "dish": "Soup in a clear bowl"
+    },
+    {
+      "type": "white",
+      "dish": "Bread roll on a white plate"
+    }
+  ],
+  "condiments": [
+    {
+      "type": "red plastic cup",
+      "brand": "Kraft Dinner",
+      "content": "Frozen macaroni and cheese pouches"
+    },
+    {
+      "type": "white napkin",
+      "contents": [
+        {
+          "item": "red sauce packet",
+          "brand": "Salsa Con Queso",
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "tablecloth": "gray with text"
+}

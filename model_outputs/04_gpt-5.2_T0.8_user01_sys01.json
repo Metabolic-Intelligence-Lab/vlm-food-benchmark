@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "banana (whole, peeled not shown)",
+      "portion_estimate": "120 g",
+      "confidence": "92"
+    },
+    {
+      "name": "bread roll (small, in plastic bag)",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed salad bowl (lettuce, tuna, cherry tomatoes, black olives, mozzarella balls)",
+      "portion_estimate": "330 g",
+      "confidence": "74"
+    },
+    {
+      "name": "lettuce (in salad)",
+      "portion_estimate": "70 g",
+      "confidence": "70"
+    },
+    {
+      "name": "tuna (in salad)",
+      "portion_estimate": "90 g",
+      "confidence": "72"
+    },
+    {
+      "name": "cherry tomatoes (in salad)",
+      "portion_estimate": "90 g",
+      "confidence": "75"
+    },
+    {
+      "name": "black olives (in salad)",
+      "portion_estimate": "20 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mozzarella balls (in salad)",
+      "portion_estimate": "60 g",
+      "confidence": "78"
+    }
+  ]
+}

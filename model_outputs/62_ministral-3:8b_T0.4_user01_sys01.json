@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and diced tomatoes",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed kale or collard greens",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "egg fried in oil with a drizzle of sauce (likely a quiche or omelette piece)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "buttered bread roll or garlic bread",
+      "portion_estimate": "70g",
+      "confidence": 75
+    },
+    {
+      "name": "condiment packet (likely sweet chili sauce or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "water (in clear glass)",
+      "portion_estimate": "uncertain (empty glass)",
+      "confidence": 20
+    }
+  ]
+}

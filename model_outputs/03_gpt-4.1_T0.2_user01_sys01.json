@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato and vegetables",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "cooked broccoli",
+      "portion_estimate": "90",
+      "confidence": 90
+    },
+    {
+      "name": "stuffed eggplant with cheese and zucchini",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250",
+      "confidence": 95
+    }
+  ]
+}

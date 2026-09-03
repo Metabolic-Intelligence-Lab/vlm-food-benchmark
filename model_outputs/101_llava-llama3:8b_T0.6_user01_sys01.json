@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "lemon-infused fish",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "garlic bread",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

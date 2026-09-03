@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "orange carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "dark green sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

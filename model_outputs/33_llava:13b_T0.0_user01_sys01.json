@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "vegetable stir fry",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "grilled chicken breast",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70g",
+      "confidence": "60"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

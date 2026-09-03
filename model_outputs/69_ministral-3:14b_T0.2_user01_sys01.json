@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "sliced grilled or roasted eggplant",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "sliced grilled or roasted sausage (likely pork or beef)",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "mixed sauce or marinade (likely oil-based with herbs/spices)",
+      "portion_estimate": "30",
+      "confidence": 75
+    }
+  ]
+}

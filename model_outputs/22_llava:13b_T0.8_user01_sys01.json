@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup in bowl",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "rice dish with vegetables",
+      "portion_estimate": "100 g",
+      "confidence": "60"
+    },
+    {
+      "name": "small salad in bowl",
+      "portion_estimate": "50 g",
+      "confidence": "80"
+    },
+    {
+      "name": "serving of bread rolls",
+      "portion_estimate": "120 g",
+      "confidence": "40"
+    }
+  ]
+}

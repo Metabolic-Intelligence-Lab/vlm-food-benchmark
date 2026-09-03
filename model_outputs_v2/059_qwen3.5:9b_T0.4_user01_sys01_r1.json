@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed salad with shredded carrots, cucumber slices, and leafy greens",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Steamed dark leafy greens (likely spinach or kale)",
+      "portion_estimate": 120,
+      "confidence": 90
+    },
+    {
+      "name": "Baked potato topped with a slice of cheese and brown sauce",
+      "portion_estimate": 250,
+      "confidence": 90
+    },
+    {
+      "name": "Whole wheat roll or bun in plastic packaging",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Three plums (purple fruit)",
+      "portion_estimate": 180,
+      "confidence": 95
+    }
+  ]
+}

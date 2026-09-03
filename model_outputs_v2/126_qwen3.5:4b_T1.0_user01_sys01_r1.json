@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": 250,
+      "confidence": 90
+    },
+    {
+      "name": "Baked potato or hash brown (sliced)",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "Burger patty with toppings",
+      "portion_estimate": 120,
+      "confidence": 90
+    },
+    {
+      "name": "Bagel bun",
+      "portion_estimate": 80,
+      "confidence": 85
+    },
+    {
+      "name": "Yogurt (Tomo brand)",
+      "portion_estimate": 120,
+      "confidence": 85
+    },
+    {
+      "name": "Water",
+      "portion_estimate": 250,
+      "confidence": 95
+    }
+  ]
+}

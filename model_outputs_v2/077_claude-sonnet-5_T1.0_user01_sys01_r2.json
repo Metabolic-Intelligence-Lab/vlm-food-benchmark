@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "borlotti/cranberry bean salad with celery",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "grilled fish fillet (white fish)",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "sauteed broccoli with shaved parmesan",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "apricot",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "70",
+      "confidence": "70"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "70",
+      "confidence": "70"
+    },
+    {
+      "name": "uncertain packaged item (possibly cheese or condiment, wrapped)",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

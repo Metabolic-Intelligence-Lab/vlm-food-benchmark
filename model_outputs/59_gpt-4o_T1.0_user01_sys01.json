@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad with lettuce, carrots, cucumber",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked spinach",
+      "portion_estimate": "80 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "potato cake with sauce",
+      "portion_estimate": "70 grams",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (penne) with light sauce",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Baked fish fillet (white meat)",
+      "portion_estimate": 140,
+      "confidence": 92
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Greek yogurt cup (Strawberry & Blueberry flavor)",
+      "portion_estimate": 125,
+      "confidence": 98
+    },
+    {
+      "name": "Baked pastry slice (possibly a quiche or savory tart) with glaze",
+      "portion_estimate": 160,
+      "confidence": 85
+    },
+    {
+      "name": "Lemon wedge",
+      "portion_estimate": 15,
+      "confidence": 95
+    }
+  ]
+}

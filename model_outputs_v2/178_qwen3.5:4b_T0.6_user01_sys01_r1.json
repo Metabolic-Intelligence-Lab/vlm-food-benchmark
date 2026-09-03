@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with pesto",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "Potato frittata",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Mashed potatoes with gravy",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "Burger bun",
+      "portion_estimate": "60",
+      "confidence": 80
+    }
+  ]
+}

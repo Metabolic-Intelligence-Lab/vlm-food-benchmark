@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "spinach soup with cheese",
+      "portion_estimate": "250",
+      "confidence": "75"
+    },
+    {
+      "name": "corn fritters",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "saut\u00e9ed red cabbage",
+      "portion_estimate": "30",
+      "confidence": "65"
+    },
+    {
+      "name": "mixed salad",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "125",
+      "confidence": "85"
+    }
+  ]
+}

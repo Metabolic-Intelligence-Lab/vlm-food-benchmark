@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot salad with cucumber and lettuce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "120g (approx.)",
+      "confidence": "80"
+    },
+    {
+      "name": "Dark green leafy salad with dressing",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Red and purple grapes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

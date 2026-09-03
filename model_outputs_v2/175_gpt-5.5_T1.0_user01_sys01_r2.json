@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans in sauce",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    },
+    {
+      "name": "creamy meat pieces with ham, uncertain",
+      "portion_estimate": "120 g",
+      "confidence": "50"
+    },
+    {
+      "name": "cooked leafy greens with potato pieces",
+      "portion_estimate": "180 g",
+      "confidence": "80"
+    },
+    {
+      "name": "orange or mandarin",
+      "portion_estimate": "130 g",
+      "confidence": "85"
+    },
+    {
+      "name": "wrapped banana, uncertain",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    }
+  ]
+}

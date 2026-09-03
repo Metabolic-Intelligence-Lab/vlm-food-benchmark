@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and vegetables",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Grilled fish with spinach",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Mixed salad",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250 milliliters",
+      "confidence": 95
+    }
+  ]
+}

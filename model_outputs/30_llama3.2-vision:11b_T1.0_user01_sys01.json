@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "cookies",
+      "portion_estimate": "7 cookies",
+      "confidence": 90
+    },
+    {
+      "name": "coffee",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

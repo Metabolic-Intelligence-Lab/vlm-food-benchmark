@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Tomato Pasta",
+      "portion_estimate": "250g",
+      "confidence": "80"
+    },
+    {
+      "name": "Steamed Broccoli",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "White Bread",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    }
+  ]
+}

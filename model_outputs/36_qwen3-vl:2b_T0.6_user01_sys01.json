@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bun",
+      "portion_estimate": "10",
+      "confidence": "40"
+    },
+    {
+      "name": "fruit jelly",
+      "portion_estimate": "50",
+      "confidence": "40"
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "100",
+      "confidence": "40"
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "50",
+      "confidence": "40"
+    },
+    {
+      "name": "falafel",
+      "portion_estimate": "20",
+      "confidence": "40"
+    }
+  ]
+}

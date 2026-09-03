@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "roasted brussels sprouts",
+      "portion_estimate": "80",
+      "confidence": "65"
+    },
+    {
+      "name": "roasted pumpkin or squash cubes",
+      "portion_estimate": "50",
+      "confidence": "55"
+    },
+    {
+      "name": "grilled white fish fillet",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "Yomo fruit yogurt cup (125g)",
+      "portion_estimate": "125",
+      "confidence": "85"
+    },
+    {
+      "name": "small cup with white granulated substance (likely sugar or salt)",
+      "portion_estimate": "10",
+      "confidence": "40"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70",
+      "confidence": "70"
+    }
+  ]
+}

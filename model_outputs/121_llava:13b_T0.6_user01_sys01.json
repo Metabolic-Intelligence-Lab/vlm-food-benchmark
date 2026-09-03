@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "salad with shredded carrots, cucumber, and croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "savory bread or pastry (pannetone-like)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "slice of cake",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

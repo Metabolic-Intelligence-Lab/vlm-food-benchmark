@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "green soup",
+      "portion_estimate": "300g",
+      "confidence": 75
+    },
+    {
+      "name": "grated cheese on soup",
+      "portion_estimate": "25g",
+      "confidence": 65
+    },
+    {
+      "name": "fried fish",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "fried potato",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green salad",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "yoghurt",
+      "portion_estimate": "125g",
+      "confidence": 95
+    }
+  ]
+}

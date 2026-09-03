@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed green beans with carrots",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed vegetable and rice dish with meat (chicken or turkey)",
+      "portion_estimate": "350",
+      "confidence": "90"
+    },
+    {
+      "name": "dark rye or whole grain bread (partially unwrapped)",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "diet cola or light soda in plastic bottle",
+      "portion_estimate": "500",
+      "confidence": "95"
+    },
+    {
+      "name": "water in clear cup",
+      "portion_estimate": "300",
+      "confidence": "95"
+    }
+  ]
+}

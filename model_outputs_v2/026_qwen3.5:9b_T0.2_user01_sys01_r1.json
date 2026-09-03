@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Fried fish fillets",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Roasted diced potatoes with seasoning",
+      "portion_estimate": 130,
+      "confidence": 95
+    },
+    {
+      "name": "Steamed dark leafy greens (likely spinach or kale)",
+      "portion_estimate": 80,
+      "confidence": 92
+    },
+    {
+      "name": "Fresh apricots",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Water in a glass",
+      "portion_estimate": 240,
+      "confidence": 98
+    },
+    {
+      "name": "Bread roll (in plastic packaging)",
+      "portion_estimate": 60,
+      "confidence": 95
+    }
+  ]
+}

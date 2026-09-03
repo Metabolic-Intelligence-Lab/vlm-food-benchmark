@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "roasted broccoli and potato mix",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "whole grain bread slice",
+      "portion_estimate": "40",
+      "confidence": 70
+    },
+    {
+      "name": "breaded chicken/fish cutlet with tomato sauce",
+      "portion_estimate": "120",
+      "confidence": 65
+    },
+    {
+      "name": "mixed diced vegetables (carrot, potato, zucchini, peas)",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "sliced cheese wedges (packaged)",
+      "portion_estimate": "20",
+      "confidence": 55
+    },
+    {
+      "name": "fruit yogurt or dessert cup",
+      "portion_estimate": "100",
+      "confidence": 40
+    }
+  ]
+}

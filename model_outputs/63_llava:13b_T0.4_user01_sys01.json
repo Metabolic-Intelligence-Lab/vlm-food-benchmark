@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

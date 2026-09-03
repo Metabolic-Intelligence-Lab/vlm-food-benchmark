@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with butter or oil-based sauce",
+      "portion_estimate": "200g",
+      "confidence": 75
+    },
+    {
+      "name": "steamed or boiled baby carrots",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "chicken or shredded meat (likely mixed with sauce)",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "whole roasted peach",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or multigrain roll/bun",
+      "portion_estimate": "60g",
+      "confidence": 70
+    },
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "uncertain (no visible measurement)",
+      "confidence": 40
+    }
+  ]
+}

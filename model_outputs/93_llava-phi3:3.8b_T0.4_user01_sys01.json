@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Beans",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fish with lemon and parsley on a plate",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta with red sauce in a bowl",
+      "portion_estimate": "300g",
+      "confidence": "90"
+    }
+  ]
+}

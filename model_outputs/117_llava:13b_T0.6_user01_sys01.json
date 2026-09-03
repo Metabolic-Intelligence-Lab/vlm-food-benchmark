@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bean-based soup or stew (chili or chowder)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "rice or mashed potatoes with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "casserole dish with meat and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

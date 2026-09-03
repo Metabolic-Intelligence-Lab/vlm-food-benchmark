@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "1 bowl (approx. 400g)",
+      "confidence": "80"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "1 serving (approx. 75g)",
+      "confidence": "70"
+    },
+    {
+      "name": "Meat (possibly chicken or pork loin), with sauce",
+      "portion_estimate": "1 serving (approx. 120g)",
+      "confidence": "60"
+    },
+    {
+      "name": "Sandwich roll",
+      "portion_estimate": "1 roll (approx. 30g)",
+      "confidence": "60"
+    }
+  ]
+}

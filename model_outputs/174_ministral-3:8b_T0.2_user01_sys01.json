@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet (likely cod or similar)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "mixed saut\u00e9ed vegetables (zucchini, bell pepper, and greens)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or roasted broccoli",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat roll or bun",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "unspecified sauce (likely on fish)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

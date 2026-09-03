@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "kidney beans with green onions",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "grilled or baked fish fillet (likely cod or similar)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed broccoli florets",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "diced potatoes (likely boiled or roasted)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "plums (two whole)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    }
+  ]
+}

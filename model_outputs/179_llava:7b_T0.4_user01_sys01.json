@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Breaded and baked chicken breast",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Garlic bread",
+      "portion_estimate": "60 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Steamed broccoli",
+      "portion_estimate": "100 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Boiled potatoes",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Lemon wedges",
+      "portion_estimate": "3",
+      "confidence": "60"
+    }
+  ]
+}

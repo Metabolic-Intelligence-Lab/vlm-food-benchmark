@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and grated cheese",
+      "portion_estimate": "200-250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "whole wheat bread roll",
+      "portion_estimate": "50-60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Yokohama yogurt (red lid)",
+      "portion_estimate": "125 grams",
+      "confidence": 95
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "200-250 ml",
+      "confidence": 90
+    },
+    {
+      "name": "green vegetable patty with yellow topping (possibly avocado or egg)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "boiled or steamed potatoes",
+      "portion_estimate": "100-120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "white rice or grain (small portion on plate)",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "yellow packaged item (possibly butter or spread)",
+      "portion_estimate": "50 grams",
+      "confidence": 60
+    }
+  ]
+}

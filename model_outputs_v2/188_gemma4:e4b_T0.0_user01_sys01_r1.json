@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup or stew with visible root vegetables",
+      "portion_estimate": "350",
+      "confidence": "75"
+    },
+    {
+      "name": "slice of whole grain bread or toast",
+      "portion_estimate": "60",
+      "confidence": "95"
+    },
+    {
+      "name": "cooked dark leafy greens (e.g., spinach or kale)",
+      "portion_estimate": "90",
+      "confidence": "90"
+    }
+  ]
+}

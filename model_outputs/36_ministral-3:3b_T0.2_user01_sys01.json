@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried potato wedges",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "plain bun (possibly a sandwich bun)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "small sauce or dip",
+      "portion_estimate": "30",
+      "confidence": 85
+    },
+    {
+      "name": "shredded purple cabbage salad with diced green pickles",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "green herb-filled balls (potentially stuffed cabbage rolls or similar)",
+      "portion_estimate": "60",
+      "confidence": 80
+    }
+  ]
+}

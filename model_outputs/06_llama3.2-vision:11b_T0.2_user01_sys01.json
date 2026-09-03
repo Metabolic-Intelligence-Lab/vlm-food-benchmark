@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Cucumber",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Egg",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Cookie",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

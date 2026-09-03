@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with green pesto sauce",
+      "portion_estimate": "230 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated parmesan cheese (topping on pasta)",
+      "portion_estimate": "10 g",
+      "confidence": "72"
+    },
+    {
+      "name": "banana (whole, unpeeled)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "plums (2 whole)",
+      "portion_estimate": "150 g",
+      "confidence": "68"
+    },
+    {
+      "name": "plain bread roll/bun (wrapped)",
+      "portion_estimate": "70 g",
+      "confidence": "62"
+    },
+    {
+      "name": "lasagna slice (cheese-topped)",
+      "portion_estimate": "180 g",
+      "confidence": "67"
+    },
+    {
+      "name": "brussels sprouts (cooked, about 10 pieces)",
+      "portion_estimate": "120 g",
+      "confidence": "72"
+    }
+  ]
+}

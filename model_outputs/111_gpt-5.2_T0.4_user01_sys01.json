@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken patty with shredded cabbage/lettuce and orange sauce",
+      "portion_estimate": "160 g",
+      "confidence": "68"
+    },
+    {
+      "name": "cooked farfalle (bow-tie pasta)",
+      "portion_estimate": "200 g",
+      "confidence": "80"
+    },
+    {
+      "name": "banana (whole, with peel)",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "75"
+    },
+    {
+      "name": "mashed/crumbled cooked cauliflower (or similar pale vegetable)",
+      "portion_estimate": "110 g",
+      "confidence": "55"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy Soup or Chili",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Spinach and Cheese Dish (Lasagna or Ravioli)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Roasted Carrots and Green Peppers with Side Salad (Cucumber)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread or Pastry",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Pudding or Ice Cream with Whipped Cream",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Condiment or Seasoning",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

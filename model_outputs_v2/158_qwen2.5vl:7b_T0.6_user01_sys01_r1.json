@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce and cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mango",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "sweet potato or squash",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "sweet potatoes or squash cubes",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pie",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    }
+  ]
+}

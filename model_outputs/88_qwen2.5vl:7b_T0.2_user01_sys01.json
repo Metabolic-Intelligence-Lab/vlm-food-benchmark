@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce and cheese",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Farro with peas",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Slice of pizza",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

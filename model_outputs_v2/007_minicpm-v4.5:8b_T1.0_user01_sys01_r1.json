@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cottage roll bread",
+      "portion_estimate": "80-100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt (Yomo)",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "lettuce and carrot salad",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded cutlet (likely chicken or fish)",
+      "portion_estimate": "80 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "chickpea stew (likely Moroccan or Italian-style)",
+      "portion_estimate": "250 grams",
+      "confidence": "85"
+    }
+  ]
+}

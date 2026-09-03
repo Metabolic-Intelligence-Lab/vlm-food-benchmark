@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "230 g",
+      "confidence": "75"
+    },
+    {
+      "name": "grated parmesan cheese (on pasta)",
+      "portion_estimate": "10 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "70"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "65"
+    },
+    {
+      "name": "baked eggplant half topped with tomato sauce and shredded cheese",
+      "portion_estimate": "180 g",
+      "confidence": "60"
+    },
+    {
+      "name": "mixed cooked vegetables (zucchini/potato pieces)",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "60"
+    }
+  ]
+}

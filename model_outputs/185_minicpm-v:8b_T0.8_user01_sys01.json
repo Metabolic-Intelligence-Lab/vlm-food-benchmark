@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "diced potatoes in gravy",
+      "portion_estimate": "214g",
+      "confidence": "90"
+    },
+    {
+      "name": "chutney with spices and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

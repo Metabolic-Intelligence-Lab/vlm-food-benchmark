@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with pesto",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "shrimp",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "cauliflower and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

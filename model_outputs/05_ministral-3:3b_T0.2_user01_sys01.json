@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy soup with grated cheese",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "fried potato croquettes",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "roasted apple and carrot chunks",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "packaged yogurt drink (red container)",
+      "portion_estimate": "150",
+      "confidence": 65
+    },
+    {
+      "name": "baked bread roll (on the left, partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried egg",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "120-150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Green leafy vegetables (possibly kale)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread bun",
+      "portion_estimate": "15-20 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt cup (Red and white)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

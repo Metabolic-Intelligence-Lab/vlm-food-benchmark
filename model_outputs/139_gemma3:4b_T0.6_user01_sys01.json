@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fish fillet in pastry",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Fruit with pastry",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "Strawberry Yogurt",
+      "portion_estimate": "150g",
+      "confidence": 90
+    }
+  ]
+}

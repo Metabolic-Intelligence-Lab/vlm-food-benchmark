@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Lemon slice",
+      "portion_estimate": "30g",
+      "confidence": "60"
+    },
+    {
+      "name": "Breaded chicken",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "220g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

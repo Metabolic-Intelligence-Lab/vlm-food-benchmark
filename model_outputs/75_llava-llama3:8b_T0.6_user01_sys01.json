@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "candy beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "nuts",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    }
+  ]
+}

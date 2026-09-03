@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Beef Patty",
+      "portion_estimate": "110g",
+      "confidence": 95
+    },
+    {
+      "name": "Coleslaw",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "Carrot Stick",
+      "portion_estimate": "30g",
+      "confidence": 80
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "30g",
+      "confidence": 70
+    }
+  ]
+}

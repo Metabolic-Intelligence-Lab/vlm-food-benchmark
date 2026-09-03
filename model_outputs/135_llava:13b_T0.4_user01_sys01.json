@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "barbecue sandwich with pulled pork, coleslaw, chili, and baked beans",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "mashed potatoes with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green salad with cabbage, carrots, and other vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "barbecue sauce (tomato-based)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pickles or similar condiments",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

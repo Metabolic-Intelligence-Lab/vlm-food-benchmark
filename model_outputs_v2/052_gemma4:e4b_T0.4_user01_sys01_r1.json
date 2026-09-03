@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked protein pieces (e.g., chicken or tofu)",
+      "portion_estimate": "110g",
+      "confidence": "85"
+    },
+    {
+      "name": "Mixed shredded salad (cabbage, carrots, etc.)",
+      "portion_estimate": "180g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried vegetable or snack sticks",
+      "portion_estimate": "180g",
+      "confidence": "75"
+    },
+    {
+      "name": "Yogurt or dressing (in small cup)",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Whole grain bread slice",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    }
+  ]
+}

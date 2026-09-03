@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "150g (approximate)",
+      "confidence": "90"
+    },
+    {
+      "name": "cauliflower dish",
+      "portion_estimate": "uncertain, approx. same weight as bowl of soup",
+      "confidence": "60"
+    },
+    {
+      "name": "toasted bread with cheese spread",
+      "portion_estimate": "1 slice (approximate)",
+      "confidence": "85"
+    },
+    {
+      "name": "cracker",
+      "portion_estimate": "uncertain, approx. same weight as bowl of soup",
+      "confidence": "60"
+    }
+  ]
+}

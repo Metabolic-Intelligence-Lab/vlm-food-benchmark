@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad greens (frisée, radicchio, endive)",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "shredded carrot",
+      "portion_estimate": "10",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded fried food (chicken or fish nugget/cutlet)",
+      "portion_estimate": "40",
+      "confidence": "40"
+    }
+  ]
+}

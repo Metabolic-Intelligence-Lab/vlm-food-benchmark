@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "small pastry (pie or quiche)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roll with butter",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pickles or cured vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "apple slices",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

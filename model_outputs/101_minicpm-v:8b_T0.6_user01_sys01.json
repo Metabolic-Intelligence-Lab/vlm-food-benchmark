@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain, approx. <150g",
+      "confidence": "60"
+    },
+    {
+      "name": "sliced bread",
+      "portion_estimate": "2 slices (approx. 35g each)",
+      "confidence": "80"
+    },
+    {
+      "name": "pumpkin seeds",
+      "portion_estimate": "uncertain, approx. <10g",
+      "confidence": "60"
+    },
+    {
+      "name": "chicken",
+      "portion_estimate": "approx. 250-300g (uncertain)",
+      "confidence": "70"
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": "uncertain, approx. <10g",
+      "confidence": "60"
+    }
+  ]
+}

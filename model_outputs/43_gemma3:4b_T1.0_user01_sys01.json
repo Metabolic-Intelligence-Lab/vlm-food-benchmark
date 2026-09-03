@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Chicken Breast",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "Cucumber and Watermelon Salad",
+      "portion_estimate": "60g",
+      "confidence": 70
+    }
+  ]
+}

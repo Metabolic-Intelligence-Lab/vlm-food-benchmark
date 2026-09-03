@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fish with creamy sauce and herb topping",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70g",
+      "confidence": 95
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "250g",
+      "confidence": 95
+    }
+  ]
+}

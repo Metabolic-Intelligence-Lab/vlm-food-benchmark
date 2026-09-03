@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chili con carne",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "sour cream",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fish with sauce/butter",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "water/beverage",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

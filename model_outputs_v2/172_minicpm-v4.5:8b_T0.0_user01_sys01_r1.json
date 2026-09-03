@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green peas",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "salad (mixed greens, radicchio, carrots)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pasta (rotini) with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    }
+  ]
+}

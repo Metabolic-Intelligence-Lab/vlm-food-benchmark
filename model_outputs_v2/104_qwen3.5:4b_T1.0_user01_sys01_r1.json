@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bean and liver soup",
+      "portion_estimate": "350",
+      "confidence": "85"
+    },
+    {
+      "name": "Green peas",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Sliced carrots",
+      "portion_estimate": "60",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread rolls",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

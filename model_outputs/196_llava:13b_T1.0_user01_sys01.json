@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "grain (couscous or rice)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "meat dish (chicken)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "condiment (hummus or spread)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "beverage (water or drink)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Crispy golden brown potatoes",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Cooked rice with mixed vegetables",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Dinner roll",
+      "portion_estimate": "30g",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken breast with herbs and spices",
+      "portion_estimate": "120g",
+      "confidence": "40"
+    }
+  ]
+}

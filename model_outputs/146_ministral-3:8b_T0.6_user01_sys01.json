@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat roll (1 piece)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pasta shells (creamy sauce, whole plate)",
+      "portion_estimate": "250 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pasta shells (plain, without sauce, smaller portion)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "cracker or water cracker (whole piece)",
+      "portion_estimate": "30 grams",
+      "confidence": 85
+    },
+    {
+      "name": "single dried plum",
+      "portion_estimate": "10 grams",
+      "confidence": 90
+    },
+    {
+      "name": "butter or margarine packet (small, likely for spreading)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

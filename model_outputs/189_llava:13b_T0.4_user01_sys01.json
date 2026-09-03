@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based soup or stew with meat and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fried patty or cutlet with yellow sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "cooked greens or vegetables (spinach or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "meatballs or fried patties in sauce with tomato and spices",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "crushed ingredient (spices or herbs)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

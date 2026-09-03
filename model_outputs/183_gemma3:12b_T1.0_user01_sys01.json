@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "square focaccia bread slice",
+      "portion_estimate": "80",
+      "confidence": "90"
+    },
+    {
+      "name": "bowl of pumpkin soup with parmesan",
+      "portion_estimate": "250",
+      "confidence": "95"
+    },
+    {
+      "name": "roasted brussel sprouts",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged croissant",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

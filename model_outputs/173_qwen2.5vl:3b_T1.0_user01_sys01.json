@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Vegetable paste",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Plain whole wheat bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

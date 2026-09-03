@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Zuccheri Zuccerini",
+      "portion_estimate": "200ml",
+      "confidence": 95
+    },
+    {
+      "name": "Cake with chocolate glaze and nuts on top",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Cake with white cream layers, possibly a sponge cake or puff pastry base",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

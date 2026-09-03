@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken piece with skin",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "fried fries (potatoes)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "egg fried with mushrooms and lettuce",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "mixed vegetable salad (cucumber, carrot, onion, and possibly other veggies)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "bread roll (whole grain or similar)",
+      "portion_estimate": "50g",
+      "confidence": 70
+    }
+  ]
+}

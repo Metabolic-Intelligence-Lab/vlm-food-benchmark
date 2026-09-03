@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Scrambled eggs",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread (toast)",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mushroom",
+      "portion_estimate": "30g",
+      "confidence": "60"
+    }
+  ]
+}

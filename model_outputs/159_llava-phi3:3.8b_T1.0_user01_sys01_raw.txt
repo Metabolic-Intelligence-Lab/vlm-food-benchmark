@@ -1,0 +1,21 @@
+{
+  "food_items": [
+    {
+      "name": "Pie",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+avoid foods and drinks:
+```
+  "food_items": [
+    {
+      "name": "Bread roll with a piece of cheese inside the bread",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Lemon half",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }

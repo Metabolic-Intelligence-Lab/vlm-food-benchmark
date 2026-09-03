@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "pickled cucumbers",
+      "portion_estimate": "50",
+      "confidence": "80"
+    }
+  ]
+}

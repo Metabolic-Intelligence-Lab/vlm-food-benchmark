@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Meat patty with cheese and vegetables",
+      "portion_estimate": "approximately 120 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Baked potato with sour cream and chives",
+      "portion_estimate": "approximately 80 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "approximately 70 grams",
+      "confidence": "40"
+    },
+    {
+      "name": "Pasta dish with tomato sauce and cheese",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "30"
+    }
+  ]
+}

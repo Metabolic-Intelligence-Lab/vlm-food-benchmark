@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pan-seared pork chop",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "roasted broccoli florets",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "creamy soup with grated cheese (likely mac and cheese or similar)",
+      "portion_estimate": "300 grams",
+      "confidence": 80
+    },
+    {
+      "name": "sugar or sweetener packet (e.g., saccharin)",
+      "portion_estimate": "uncertain (likely 1-2 grams per packet)",
+      "confidence": 60
+    },
+    {
+      "name": "bread roll (or similar baked pastry)",
+      "portion_estimate": "uncertain (likely 50-70 grams)",
+      "confidence": 70
+    },
+    {
+      "name": "condiment packet (likely chili flakes)",
+      "portion_estimate": "uncertain (likely 2 grams)",
+      "confidence": 60
+    },
+    {
+      "name": "water in glass (no ice)",
+      "portion_estimate": "uncertain (approximately 250 ml)",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "chopped salad greens (mixed leaf lettuce)",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "whole baked food item (potato/carb dish)",
+      "portion_estimate": 120,
+      "confidence": 90
+    },
+    {
+      "name": "garlic bread roll or bun",
+      "portion_estimate": 60,
+      "confidence": 90
+    },
+    {
+      "name": "water bottle (or possibly tea/juice in disposable cup with a logo)",
+      "portion_estimate": 240,
+      "confidence": 80
+    },
+    {
+      "name": "garlic, peeled",
+      "portion_estimate": 100,
+      "confidence": 95
+    },
+    {
+      "name": "onion slice(s)",
+      "portion_estimate": 30,
+      "confidence": 80
+    },
+    {
+      "name": "garlic breaded/cooked vegetables/fried dish (likely green veggie mix)",
+      "portion_estimate": 100,
+      "confidence": 95
+    },
+    {
+      "name": "plain yogurt container (if plastic wrapped in a clear plastic bag)",
+      "portion_estimate": 175,
+      "confidence": 75
+    }
+  ]
+}

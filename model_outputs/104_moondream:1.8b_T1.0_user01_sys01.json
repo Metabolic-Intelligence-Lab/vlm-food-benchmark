@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of stew or soup",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "carrots mixed with noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwiches",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

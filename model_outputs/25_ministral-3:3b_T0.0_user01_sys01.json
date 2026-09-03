@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas (roasted or boiled)",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "toasted bread or flatbread with toppings (e.g., olive oil, herbs)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "packaged cheese (e.g., American cheese slice)",
+      "portion_estimate": "20 grams",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich bun or bread roll (partially visible in plastic wrap)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

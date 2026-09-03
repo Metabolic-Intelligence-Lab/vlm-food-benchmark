@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "radicchio",
+      "portion_estimate": "40",
+      "confidence": 95
+    },
+    {
+      "name": "green leaf lettuce",
+      "portion_estimate": "60",
+      "confidence": 95
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "15",
+      "confidence": 95
+    },
+    {
+      "name": "grilled chicken pieces",
+      "portion_estimate": "70",
+      "confidence": 85
+    }
+  ]
+}

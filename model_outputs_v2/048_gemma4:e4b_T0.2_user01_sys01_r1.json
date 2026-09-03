@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    },
+    {
+      "name": "fried crispy noodles or strips",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "fried potato cubes",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "savory protein dish with white topping (e.g., cheese or coconut)",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    }
+  ]
+}

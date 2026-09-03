@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "113g",
+      "confidence": 95
+    },
+    {
+      "name": "Steamed broccoli",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Cooked brown rice",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Carrot sticks with hummus",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Apple slices",
+      "portion_estimate": "180g",
+      "confidence": 95
+    }
+  ]
+}

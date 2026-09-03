@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pear juice carton",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Chocolate-topped pastry (left)",
+      "portion_estimate": "90g",
+      "confidence": 90
+    },
+    {
+      "name": "Chocolate-topped pastry (right)",
+      "portion_estimate": "90g",
+      "confidence": 90
+    }
+  ]
+}

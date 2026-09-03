@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "Mashed eggplant",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Diced roasted potatoes",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "125",
+      "confidence": "80"
+    }
+  ]
+}

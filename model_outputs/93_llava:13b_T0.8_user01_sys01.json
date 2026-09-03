@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chickpeas with Herbs and Lemon",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Grilled Fish or Seafood with Butter",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Pasta in Red Sauce (Spaghetti Bolognese)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Pasta in Red Sauce (Macaroni with Tomato Sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Sliced Bread with Condiments",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (macaroni or penne with tomato sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Salad (greens, vegetables, possibly chicken or beans)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread (crusty, possibly baguette or ciabatta)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Vegetables (steamed or roasted, possibly broccoli, carrots, zucchini)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

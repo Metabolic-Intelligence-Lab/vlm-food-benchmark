@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "bowl of salad with carrots and lettuce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "chicken nugget",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "bowl of chickpea stew with cheese cubes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

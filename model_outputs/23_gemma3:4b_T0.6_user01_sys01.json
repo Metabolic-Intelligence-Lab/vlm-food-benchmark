@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (Tomato Sauce)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Fish (likely cod)",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250ml",
+      "confidence": 90
+    }
+  ]
+}

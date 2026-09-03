@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Green vegetable salad with dressing",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "White sauce on grilled chicken",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "French fries with ketchup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mashed potatoes or saut\u00e9ed vegetables on white plate",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "White bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Water in a glass cup",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Soy milk or non-dairy beverage (unclear)",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

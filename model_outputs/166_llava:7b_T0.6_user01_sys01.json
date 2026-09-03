@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish with meat sauce and parmesan",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Green salad with leafy greens, croutons, and dressing",
+      "portion_estimate": "120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Breaded meat patty with a side of fries",
+      "portion_estimate": "100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Cheese and spinach stuffed chicken breast with sauce on the side",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    }
+  ]
+}

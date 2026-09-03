@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Marinated pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "Vegetable balls",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "Fried chicken with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "Ice cream",
+      "portion_estimate": "125g",
+      "confidence": "80"
+    }
+  ]
+}

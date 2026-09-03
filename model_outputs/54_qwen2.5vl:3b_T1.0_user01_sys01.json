@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Vegetables",
+      "portion_estimate": "120 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Cucumber Salad",
+      "portion_estimate": "80 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Salmon & Cucumber Sandwich",
+      "portion_estimate": "60 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Cr\u00e8me Fra\u00eeche Salad",
+      "portion_estimate": "30 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Roland Water",
+      "portion_estimate": "200 milliliters",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and herbs",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "grilled or baked fish fillet (likely cod or similar)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed kale or Swiss chard",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "mixed green salad (lettuce, cucumber, possibly other greens)",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "packaged bread roll or bun (wrapped)",
+      "portion_estimate": "uncertain (likely ~50-70g)",
+      "confidence": 60
+    }
+  ]
+}

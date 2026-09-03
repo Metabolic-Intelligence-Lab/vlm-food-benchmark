@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "sliced chicken breast with herbs",
+      "portion_estimate": "90\u2013110g",
+      "confidence": 90
+    },
+    {
+      "name": "saut\u00e9ed seasonal vegetables (likely mixed bell peppers and/or onions)",
+      "portion_estimate": "120\u2013140g",
+      "confidence": 85
+    },
+    {
+      "name": "chicken liver spread or p\u00e2t\u00e9 (on white paper)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "chickpeas or similar legumes in tomato sauce",
+      "portion_estimate": "110\u2013130g",
+      "confidence": 88
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "uncertain (assumed ~150\u2013180g)",
+      "confidence": 80
+    },
+    {
+      "name": "water bottle, approximate content ~500\u2013600ml",
+      "portion_estimate": "600g",
+      "confidence": 75
+    },
+    {
+      "name": "unpackaged snack or treat packaging (potentially cereal/muffin-like)",
+      "portion_estimate": "uncertain (if applicable)",
+      "confidence": 60
+    }
+  ]
+}

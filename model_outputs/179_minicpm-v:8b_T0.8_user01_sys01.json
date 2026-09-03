@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "potato",
+      "portion_estimate": "30-40g",
+      "confidence": "70"
+    },
+    {
+      "name": "steamed broccoli with garlic",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mashed potatoes and corn",
+      "portion_estimate": "120g for the mashed potato portion, 30-40g for the corn on cob",
+      "confidence": "80"
+    },
+    {
+      "name": "bun bread in plastic wrap",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked short pasta with light sauce or oil",
+      "portion_estimate": "220 g",
+      "confidence": "85"
+    },
+    {
+      "name": "green beans with breadcrumb topping",
+      "portion_estimate": "160 g",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded eggplant or mixed vegetable slices",
+      "portion_estimate": "70 g",
+      "confidence": "60"
+    },
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "peach or nectarine",
+      "portion_estimate": "150 g",
+      "confidence": "85"
+    },
+    {
+      "name": "uncertain packaged breadstick or cracker",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "salad with carrots and broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "plate of food with muffin, fruit, and greens",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "wrapped food item",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

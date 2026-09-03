@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pancakes with green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pasta (spaghetti or fettuccine)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange and bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

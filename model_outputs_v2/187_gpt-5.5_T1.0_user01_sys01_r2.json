@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and melted cheese",
+      "portion_estimate": "250 g",
+      "confidence": "85"
+    },
+    {
+      "name": "red fruit yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "80"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 g",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "green beans with breadcrumb topping",
+      "portion_estimate": "150 g",
+      "confidence": "85"
+    },
+    {
+      "name": "two breaded vegetable patties or croquettes",
+      "portion_estimate": "110 g",
+      "confidence": "65"
+    },
+    {
+      "name": "small portion of saut\u00e9ed mushrooms or dark vegetables",
+      "portion_estimate": "25 g",
+      "confidence": "55"
+    }
+  ]
+}

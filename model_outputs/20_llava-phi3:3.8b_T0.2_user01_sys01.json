@@ -1,0 +1,37 @@
+{
+  "food_items": [
+    {
+      "name": "carrots",
+      "portion_estimate": "150g",
+      "color": "orange",
+      "shape": "round"
+    },
+    {
+      "name": "chicken wings",
+      "portion_estimate": "200g",
+      "color": "brown",
+      "shape": "oval"
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "300g",
+      "color": "green",
+      "shape": "round"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150g",
+      "color": "yellow",
+      "shape": "round"
+    }
+  ],
+  "tablecloth": {
+    "color": "white",
+    "pattern": "green leaves"
+  },
+  "drinkware": {
+    "type": "glass",
+    "material": "clear",
+    "contents": "water"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green lentil or pea soup",
+      "portion_estimate": "350",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80",
+      "confidence": 95
+    },
+    {
+      "name": "butter spread",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "green-coated patty with white sauce",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed diced vegetables",
+      "portion_estimate": "150",
+      "confidence": 90
+    }
+  ]
+}

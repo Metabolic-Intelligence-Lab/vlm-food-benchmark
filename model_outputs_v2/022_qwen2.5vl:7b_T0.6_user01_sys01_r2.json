@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed Vegetables",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Pumpkin Puree",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Couscous",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed Salad",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Glass of Water",
+      "portion_estimate": "200",
+      "confidence": "80"
+    }
+  ]
+}

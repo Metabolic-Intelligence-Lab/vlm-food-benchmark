@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "egg-based dish with what appears to be bacon and scrambled eggs (mixed)",
+      "portion_estimate": "uncertain (~250-300g; approximate guess based on standard portion size for a meal-sized container)",
+      "confidence": 55
+    },
+    {
+      "name": "sauce or caramelized glaze",
+      "portion_estimate": "uncertain (~30-50g)",
+      "confidence": 45
+    },
+    {
+      "name": "paper napkin or tissue",
+      "portion_estimate": "0g (non-edible, not part of meal)",
+      "confidence": 100
+    }
+  ]
+}

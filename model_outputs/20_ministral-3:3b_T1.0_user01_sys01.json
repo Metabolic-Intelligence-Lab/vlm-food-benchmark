@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot batons",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "gluten-free bread rolls (sliced, green onions likely missing due to low visibility)",
+      "portion_estimate": "20 g",
+      "confidence": 80
+    },
+    {
+      "name": "grilled pork chop with gravy",
+      "portion_estimate": "150 g (pork portion)",
+      "confidence": 90
+    },
+    {
+      "name": "plain water",
+      "portion_estimate": "300 ml (~30 g)",
+      "confidence": 95
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "120 g",
+      "confidence": 95
+    }
+  ]
+}

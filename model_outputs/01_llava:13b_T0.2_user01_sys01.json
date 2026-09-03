@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "green lentil soup",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "yellow rice with vegetables",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green Beans with Potatoes",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "Chicken and Rice",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "330ml",
+      "confidence": 95
+    },
+    {
+      "name": "Fruit (Strawberry)",
+      "portion_estimate": "60g",
+      "confidence": 65
+    }
+  ]
+}

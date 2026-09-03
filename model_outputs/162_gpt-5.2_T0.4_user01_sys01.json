@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked broccoli with diced potatoes (seasoned)",
+      "portion_estimate": "170 g",
+      "confidence": "70"
+    },
+    {
+      "name": "vegetable soup with herbs (brothy) topped with grated cheese",
+      "portion_estimate": "380 g",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll (plain, packaged)",
+      "portion_estimate": "65 g",
+      "confidence": "80"
+    },
+    {
+      "name": "open-faced toast with chopped apple pieces and a thin layer of spread (butter or custard-like)",
+      "portion_estimate": "140 g",
+      "confidence": "65"
+    },
+    {
+      "name": "pear (whole)",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    }
+  ]
+}

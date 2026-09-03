@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (Fusilli)",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "Mussels in Garlic Sauce",
+      "portion_estimate": "120",
+      "confidence": 70
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "60",
+      "confidence": 85
+    }
+  ]
+}

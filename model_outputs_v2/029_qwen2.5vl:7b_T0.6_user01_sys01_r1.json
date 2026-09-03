@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce and cheese",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "vegetable and egg omelette",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "zucchini and onion saut\u00e9",
+      "portion_estimate": "75",
+      "confidence": 80
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": 80
+    }
+  ]
+}

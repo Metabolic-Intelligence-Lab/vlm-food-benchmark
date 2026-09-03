@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli with cheese/ranch dressing",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "Ham roll or wrapped ham",
+      "portion_estimate": "240",
+      "confidence": 90
+    },
+    {
+      "name": "Soup with grated cheese",
+      "portion_estimate": "350",
+      "confidence": 85
+    },
+    {
+      "name": "Strawberry yogurt (unopened cup)",
+      "portion_estimate": "175",
+      "confidence": 95
+    },
+    {
+      "name": "Baguette roll or bread slice",
+      "portion_estimate": "80",
+      "confidence": 80
+    }
+  ]
+}

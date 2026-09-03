@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "curry",
+      "portion_estimate": "uncertain, approx. bowl size",
+      "confidence": "50"
+    },
+    {
+      "name": "bread bun",
+      "portion_estimate": "uncertain, standard adult portion",
+      "confidence": "40"
+    },
+    {
+      "name": "potato breadstick with topping",
+      "portion_estimate": "uncertain, approx. plate size",
+      "confidence": "65"
+    },
+    {
+      "name": "mashed potato",
+      "portion_estimate": "uncertain, standard adult portion",
+      "confidence": "40"
+    }
+  ]
+}

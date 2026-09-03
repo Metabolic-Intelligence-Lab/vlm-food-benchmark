@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "crispy fried fish",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "green leafy vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    }
+  ]
+}

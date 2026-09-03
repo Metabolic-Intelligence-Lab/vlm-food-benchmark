@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese with red peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "roasted vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange-colored fruits",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "baguette roll",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

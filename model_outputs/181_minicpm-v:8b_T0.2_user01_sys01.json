@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain, approx. weight of plate",
+      "confidence": "50"
+    },
+    {
+      "name": "cheese on bread",
+      "portion_estimate": "uncertain, approx. half a slice",
+      "confidence": "60"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "uncertain, approx. weight of fruit",
+      "confidence": "50"
+    },
+    {
+      "name": "cheese on plate",
+      "portion_estimate": "uncertain, approx. half a slice",
+      "confidence": "60"
+    },
+    {
+      "name": "pie with yellow filling (possibly pineapple)",
+      "portion_estimate": "uncertain, approx. weight of pie",
+      "confidence": "50"
+    },
+    {
+      "name": "shredded food on plate",
+      "portion_estimate": "uncertain, approx. half a serving",
+      "confidence": "60"
+    }
+  ]
+}

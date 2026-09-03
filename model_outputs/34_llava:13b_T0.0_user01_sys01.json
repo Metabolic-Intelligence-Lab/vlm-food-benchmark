@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "egg with a fried egg on top",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "grilled chicken breast",
+      "portion_estimate": "approximately 120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "pasta with tomato sauce and cheese sprinkled on top",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "green vegetable side dish, possibly spinach or kale",
+      "portion_estimate": "approximately 70 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll with a crusty exterior",
+      "portion_estimate": "approximately 60 grams",
+      "confidence": "90"
+    }
+  ]
+}

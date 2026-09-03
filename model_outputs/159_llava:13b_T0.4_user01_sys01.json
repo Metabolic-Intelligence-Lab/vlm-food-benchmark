@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meat or vegetable pie",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "coleslaw or similar salad",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "roll of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "butter or other spread",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

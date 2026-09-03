@@ -1,0 +1,42 @@
+{
+  "plate1": {
+    "description": "Mini meatballs on a plate next to some carrot sticks.",
+    "portion_estimate": "30g",
+    "confidence": "90"
+  },
+  "plate2": {
+    "description": "A white ceramic dish with food in it. There is lettuce on top of the sandwich and mustard on top of a slice of cheese.",
+    "portion_estimate": "50g",
+    "confidence": "70"
+  },
+  "plate3": {
+    "description": "A plate filled with salad, sausages and roast beef. All the food is covered in sauce.",
+    "portion_estimate": "50g",
+    "confidence": "80"
+  },
+  "bread": {
+    "description": "Two slices of bread on a table with salad and sausage on top. It seems like the bread is for making sandwiches.",
+    "portion_estimate": "100g",
+    "confidence": "80"
+  },
+  "fruit": {
+    "description": "A red apple cut in half and sitting on a tray. A slice of lemon rests next to the apple.",
+    "portion_estimate": "30g",
+    "confidence": "60"
+  },
+  "bowl1": {
+    "description": "A bowl with lettuce in it. The lettuce looks green and fresh.",
+    "portion_estimate": "50g",
+    "confidence": "70"
+  },
+  "bowl2": {
+    "description": "Bread and butter on a plate. A container of jelly sits next to the bread.",
+    "portion_estimate": "60g",
+    "confidence": "80"
+  },
+  "cutting_board": {
+    "description": "A cutting board with carrots on it. It seems like someone was preparing a meal here.",
+    "portion_estimate": "50g",
+    "confidence": "90"
+  }
+}

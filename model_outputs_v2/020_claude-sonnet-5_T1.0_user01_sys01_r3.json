@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "sliced boiled carrots",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "braised chicken wings/drumsticks in sauce",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "boiled brussels sprouts",
+      "portion_estimate": "130",
+      "confidence": "80"
+    },
+    {
+      "name": "whole green apple",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150",
+      "confidence": "60"
+    },
+    {
+      "name": "wrapped bread roll (individually packaged)",
+      "portion_estimate": "50",
+      "confidence": "55"
+    }
+  ]
+}

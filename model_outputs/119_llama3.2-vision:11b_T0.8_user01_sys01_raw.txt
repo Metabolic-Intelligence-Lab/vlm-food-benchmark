@@ -1,0 +1,26 @@
+Here is the processed output in the strict JSON format:
+
+{
+  "food_items": [
+    {
+      "name": "Gnocchi",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Lentil Soup",
+      "portion_estimate": "250g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "60g",
+      "confidence": "90"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with a small amount of butter",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "uncertain, approximately 100-200g",
+      "confidence": "65"
+    },
+    {
+      "name": "Boiled potatoes with butter",
+      "portion_estimate": "approx. 75-150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed vegetables (zucchini, onions)",
+      "portion_estimate": "uncertain, approximately 80-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "approx. 50-100g",
+      "confidence": "75"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "uncertain, approximately 40-80g",
+      "confidence": "60"
+    }
+  ]
+}

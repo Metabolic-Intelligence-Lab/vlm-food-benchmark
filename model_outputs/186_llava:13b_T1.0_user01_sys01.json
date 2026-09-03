@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked grains (rice or mashed potatoes)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "chicken or pork cutlet with spices",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "bread (in wrapper)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pastry or roll",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

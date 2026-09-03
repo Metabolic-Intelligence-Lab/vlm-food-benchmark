@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Butternut Squash Soup",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "Fried Chicken Nuggets",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "Roasted Potatoes",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "125g",
+      "confidence": 90
+    }
+  ]
+}

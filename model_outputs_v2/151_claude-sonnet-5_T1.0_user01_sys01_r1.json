@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mashed sweet potato/squash puree",
+      "portion_estimate": "120",
+      "confidence": 70
+    },
+    {
+      "name": "boiled brussels sprouts",
+      "portion_estimate": "90",
+      "confidence": 75
+    },
+    {
+      "name": "diced boiled carrots",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "penne pasta with mushrooms and grated cheese",
+      "portion_estimate": "220",
+      "confidence": 75
+    },
+    {
+      "name": "black plums",
+      "portion_estimate": "120",
+      "confidence": 70
+    },
+    {
+      "name": "bread slices",
+      "portion_estimate": "50",
+      "confidence": 65
+    }
+  ]
+}

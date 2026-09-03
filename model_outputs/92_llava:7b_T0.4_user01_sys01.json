@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "250 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Sour cream",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried potato wedges",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    }
+  ]
+}

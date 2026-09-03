@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "tortilla",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "ham",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    }
+  ]
+}

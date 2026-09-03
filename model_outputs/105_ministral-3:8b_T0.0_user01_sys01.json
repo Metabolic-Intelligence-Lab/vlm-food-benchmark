@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "iceberg or similar lettuce",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "red cabbage (shredded)",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "carrot (shredded)",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "chicken breast (grilled, cubed)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "cauliflower (shredded, possibly mistaken for cabbage)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

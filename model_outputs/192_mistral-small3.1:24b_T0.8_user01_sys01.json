@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "breaded and fried chicken breast",
+      "portion_estimate": "200",
+      "confidence": "95"
+    },
+    {
+      "name": "kale",
+      "portion_estimate": "60",
+      "confidence": "95"
+    },
+    {
+      "name": "rigatoni pasta",
+      "portion_estimate": "120",
+      "confidence": "95"
+    },
+    {
+      "name": "lemon",
+      "portion_estimate": "60",
+      "confidence": "95"
+    }
+  ]
+}

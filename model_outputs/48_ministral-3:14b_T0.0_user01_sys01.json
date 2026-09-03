@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked penne pasta with tomato sauce and breadcrumbs",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "roasted potato wedges",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "guacamole with tortilla chips",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat or seeded roll/bun",
+      "portion_estimate": "80",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt or sour cream (partially consumed, in container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

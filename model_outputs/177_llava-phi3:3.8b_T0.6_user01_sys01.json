@@ -1,0 +1,31 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "70g",
+      "confidence": "90"
+    }
+  ],
+  "trays": [
+    {
+      "type": "plate",
+      "shape": "round",
+      "color": "white"
+    },
+    {
+      "type": "plate",
+      "shape": "square",
+      "color": "white"
+    }
+  ]
+}

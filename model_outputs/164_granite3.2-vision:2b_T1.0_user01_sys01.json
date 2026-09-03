@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "deep-fried, golden-brown breaded chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "cooked potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green packet (condiment or garnish)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

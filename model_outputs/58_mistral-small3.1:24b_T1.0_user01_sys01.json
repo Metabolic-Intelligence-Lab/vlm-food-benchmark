@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with butter",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "Baby carrots",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "Latke with smoked salmon",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "Peach",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Bagel",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with ground meat and sauce",
+      "portion_estimate": "approximately 300 grams",
+      "confidence": 95
+    },
+    {
+      "name": "ground meat",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "sauce",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": 85
+    }
+  ]
+}

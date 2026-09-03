@@ -1,0 +1,41 @@
+{
+  "food_items": [
+    {
+      "name": "Brown Soup",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "70g",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Fried Balls",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "Yogurt with Fruit",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ],
+  "trays": [
+    {
+      "type": "food tray",
+      "material": "metal",
+      "dimensions": {
+        "length": 34,
+        "width": 27,
+        "height": 1.5
+      },
+      "weight": 0.8
+    }
+  ]
+}

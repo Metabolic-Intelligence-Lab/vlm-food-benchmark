@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Leafy greens",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "uncertain",
+      "confidence": 95
+    }
+  ]
+}

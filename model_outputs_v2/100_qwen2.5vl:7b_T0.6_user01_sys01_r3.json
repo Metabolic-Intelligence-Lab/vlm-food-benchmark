@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "chopped cucumbers and onions",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "200 grams",
+      "confidence": 60
+    }
+  ]
+}

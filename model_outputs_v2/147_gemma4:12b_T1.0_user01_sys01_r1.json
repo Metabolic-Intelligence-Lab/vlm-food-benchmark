@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "180",
+      "confidence": "95"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "90",
+      "confidence": "95"
+    },
+    {
+      "name": "roasted meat and vegetable dish",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "fresh plums",
+      "portion_estimate": "200",
+      "confidence": "95"
+    }
+  ]
+}

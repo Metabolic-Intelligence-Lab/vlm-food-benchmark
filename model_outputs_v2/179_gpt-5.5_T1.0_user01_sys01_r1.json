@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "230 g",
+      "confidence": "85"
+    },
+    {
+      "name": "yellow apple",
+      "portion_estimate": "160 g",
+      "confidence": "95"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "65 g",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked rice or risotto",
+      "portion_estimate": "170 g",
+      "confidence": "55"
+    },
+    {
+      "name": "broccoli florets with cheese",
+      "portion_estimate": "100 g",
+      "confidence": "75"
+    }
+  ]
+}

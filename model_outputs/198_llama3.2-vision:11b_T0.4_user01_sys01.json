@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "White Rice",
+      "portion_estimate": "30 grams",
+      "confidence": "100"
+    },
+    {
+      "name": "Chicken Breast",
+      "portion_estimate": "100 grams",
+      "confidence": "100"
+    },
+    {
+      "name": "Brussels Sprouts",
+      "portion_estimate": "50 grams",
+      "confidence": "100"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "150 grams",
+      "confidence": "100"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100 grams",
+      "confidence": "100"
+    }
+  ]
+}

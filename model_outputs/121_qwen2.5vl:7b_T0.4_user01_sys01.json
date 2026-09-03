@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with grated cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Mixed salad",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Pancake",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Slice of bread",
+      "portion_estimate": "30 grams",
+      "confidence": 80
+    }
+  ]
+}

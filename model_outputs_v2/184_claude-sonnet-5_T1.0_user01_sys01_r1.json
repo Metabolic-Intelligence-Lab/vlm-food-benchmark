@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "mixed side salad (lettuce, red cabbage, carrot)",
+      "portion_estimate": "70",
+      "confidence": 65
+    },
+    {
+      "name": "mashed potato or rice-based side",
+      "portion_estimate": "90",
+      "confidence": 45
+    },
+    {
+      "name": "breaded fried item (croquette or nugget)",
+      "portion_estimate": "60",
+      "confidence": 50
+    },
+    {
+      "name": "stuffed mushroom with melted cheese",
+      "portion_estimate": "45",
+      "confidence": 55
+    },
+    {
+      "name": "bruschetta-topped item with herbs and tomato",
+      "portion_estimate": "40",
+      "confidence": 45
+    },
+    {
+      "name": "plum (whole fruit)",
+      "portion_estimate": "50",
+      "confidence": 70
+    }
+  ]
+}

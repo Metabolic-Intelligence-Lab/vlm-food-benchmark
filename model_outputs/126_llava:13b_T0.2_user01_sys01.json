@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "other pasta (penne or rigatoni)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sauce/condiments",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red beverage (tomato juice)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

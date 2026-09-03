@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Gnocchi",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Tomato",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

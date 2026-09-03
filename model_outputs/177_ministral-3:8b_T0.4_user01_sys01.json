@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pesto pasta with broccoli and breadcrumbs",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "brioche-style roll",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "peach or nectarine",
+      "portion_estimate": "150g",
+      "confidence": 90
+    }
+  ]
+}

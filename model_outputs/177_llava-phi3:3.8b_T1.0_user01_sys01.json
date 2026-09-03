@@ -1,0 +1,49 @@
+{
+  "tray": [
+    {
+      "food_items": [
+        {
+          "name": "crab cake",
+          "portion_estimate": "100g",
+          "confidence": "90"
+        },
+        {
+          "name": "shrimp skewer with sauce",
+          "portion_estimate": "50g",
+          "confidence": "80"
+        }
+      ],
+      "location": "top left"
+    },
+    {
+      "food_items": [
+        {
+          "name": "macaroni and cheese",
+          "portion_estimate": "200g",
+          "confidence": "90"
+        },
+        {
+          "nameart": "cheese pizza on cardboard",
+          "portion_estimate": "150g",
+          "confidence": "70"
+        }
+      ],
+      "location": "bottom left"
+    },
+    {
+      "food_items": [
+        {
+          "name": "apple",
+          "portion_estimate": "120g",
+          "confidence": "80"
+        },
+        {
+          "name": "crumpled napkin",
+          "portion_estimate": "50g",
+          "confidence": "90"
+        }
+      ],
+      "location": "bottom right"
+    }
+  ]
+}

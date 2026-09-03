@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked potato wedges (hash browns)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with meat sauce (likely rigatoni or penne)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "sliced white bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "sour cream (in container)",
+      "portion_estimate": "uncertain (container size not clear)",
+      "confidence": 50
+    },
+    {
+      "name": "butter (small pat)",
+      "portion_estimate": "10 grams",
+      "confidence": 70
+    }
+  ]
+}

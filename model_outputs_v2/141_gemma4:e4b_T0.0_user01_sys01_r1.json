@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole grain bread slice",
+      "portion_estimate": "60g",
+      "confidence": "95"
+    },
+    {
+      "name": "steamed broccoli florets",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked white protein (chicken or fish)",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted chickpeas",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "fresh lettuce or cabbage leaves",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    }
+  ]
+}

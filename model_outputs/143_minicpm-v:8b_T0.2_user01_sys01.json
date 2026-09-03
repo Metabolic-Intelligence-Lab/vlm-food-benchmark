@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Potato salad",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Fish fillet with herbs",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt with fruit",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    }
+  ]
+}

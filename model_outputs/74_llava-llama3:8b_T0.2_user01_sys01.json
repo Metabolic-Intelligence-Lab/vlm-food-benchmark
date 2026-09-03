@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (orange)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pasta (green)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "carrots (orange)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

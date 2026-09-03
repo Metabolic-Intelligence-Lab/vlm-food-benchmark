@@ -1,0 +1,33 @@
+{
+  "food_items": [
+    {
+      "name": "Bun",
+      "portion_estimate": "100",
+      "confidence": "100"
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "150",
+      "confidence": "100"
+    },
+    {
+      "name": "Brussels Sprouts",
+      "portion_estimate": "100",
+      "confidence": "100"
+    },
+    {
+      "name": "Fish",
+      "confidence": "100"
+    },
+    {
+      "name": "Sauce",
+      "portion_estimate": "50",
+      "confidence": "100"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100",
+      "confidence": "100"
+    }
+  ]
+}

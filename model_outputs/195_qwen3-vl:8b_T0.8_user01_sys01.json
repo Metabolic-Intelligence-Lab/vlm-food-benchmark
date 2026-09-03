@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken stir-fry",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "Uncertain",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "150g",
+      "confidence": 90
+    }
+  ]
+}

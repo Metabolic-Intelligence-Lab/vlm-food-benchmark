@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with meat/vegetable sauce",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "Saut\u00e9ed green vegetables",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Slice of baked cheese and topping dish",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "Two tangerines",
+      "portion_estimate": "160g",
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "70g",
+      "confidence": 85
+    }
+  ]
+}

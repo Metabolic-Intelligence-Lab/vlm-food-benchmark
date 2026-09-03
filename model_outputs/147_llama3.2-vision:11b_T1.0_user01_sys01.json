@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fusilino pasta with parmesan",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta sauce with vegetables",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "120g",
+      "confidence": "100"
+    }
+  ]
+}

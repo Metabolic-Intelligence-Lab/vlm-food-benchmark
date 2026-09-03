@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Dal (Indian Lentil Curry)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Fried Vegetables/Salad (with Cauliflower)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Dinner Roll/Bun",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Condiment/Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Indian Chutney/Relish",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

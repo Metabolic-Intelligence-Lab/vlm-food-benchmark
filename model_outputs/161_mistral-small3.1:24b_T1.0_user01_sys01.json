@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce and parmesan",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "spinach and feta pie",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "brioche bun",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "mango",
+      "portion_estimate": "150",
+      "confidence": 90
+    }
+  ]
+}

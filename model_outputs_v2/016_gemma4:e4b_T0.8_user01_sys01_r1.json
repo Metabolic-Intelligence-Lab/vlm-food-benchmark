@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed side dish in bowl (shredded carrots and dark relish/meat)",
+      "portion_estimate": "120-150",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried/seasoned cubes on plate",
+      "portion_estimate": "120-140",
+      "confidence": "85"
+    },
+    {
+      "name": "Thick dip or sauce",
+      "portion_estimate": "50-70",
+      "confidence": "80"
+    },
+    {
+      "name": "Tomato",
+      "portion_estimate": "100-130",
+      "confidence": "95"
+    },
+    {
+      "name": "Milk or light beverage in glass",
+      "portion_estimate": "220-280",
+      "confidence": "90"
+    }
+  ]
+}

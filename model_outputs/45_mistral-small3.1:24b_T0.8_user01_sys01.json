@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken patty",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "carrot salad",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt with vegetables and corn",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "blueberries",
+      "portion_estimate": "120",
+      "confidence": "90"
+    }
+  ]
+}

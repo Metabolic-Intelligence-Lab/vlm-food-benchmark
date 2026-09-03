@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "creamy soup (likely tomato or broccoli cheddar)",
+      "portion_estimate": 350,
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or sourdough bread roll",
+      "portion_estimate": 60,
+      "confidence": 80
+    },
+    {
+      "name": "mixed salad with cucumber, lettuce, and possibly boiled potato or apple slices",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "two falafel or veggie patties",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "yogurt or tzatziki sauce (in small container)",
+      "portion_estimate": 100,
+      "confidence": 75
+    },
+    {
+      "name": "iced beverage (likely water or lemonade)",
+      "portion_estimate": 250,
+      "confidence": 70
+    }
+  ]
+}

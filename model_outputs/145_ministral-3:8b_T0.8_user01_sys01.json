@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken with stuffing (likely including herbs/spinach and cheese)",
+      "portion_estimate": "180 grams",
+      "confidence": 80
+    },
+    {
+      "name": "cauliflower florets",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "chicken and rice soup with croutons and grated cheese",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "single-serve yogurt (Le Polpin\u00e9)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "packaged biscuits or cookies",
+      "portion_estimate": "30 grams (estimate for a single biscuit)",
+      "confidence": 60
+    }
+  ]
+}

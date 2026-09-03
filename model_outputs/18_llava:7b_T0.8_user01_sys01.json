@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Baked chicken breast",
+      "portion_estimate": "150-200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed sweet potatoes with chili flakes",
+      "portion_estimate": "100-150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Caesar salad with croutons and parmesan",
+      "portion_estimate": "200-250 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta dish with meat sauce and cheese",
+      "portion_estimate": "200-300 grams",
+      "confidence": "70"
+    }
+  ]
+}

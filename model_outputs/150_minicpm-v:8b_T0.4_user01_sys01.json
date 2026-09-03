@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "white bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta with parmesan cheese and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "mixed vegetables including carrots, peas, cauliflower, broccoli, spinach",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

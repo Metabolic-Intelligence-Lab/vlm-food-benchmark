@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "gratinated pasta",
+      "portion_estimate": "100-150 grams",
+      "confidence": 70
+    },
+    {
+      "name": "green beans with corn and tomato",
+      "portion_estimate": "50-70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "carrot shavings",
+      "portion_estimate": "100-150 grams",
+      "confidence": 90
+    }
+  ]
+}

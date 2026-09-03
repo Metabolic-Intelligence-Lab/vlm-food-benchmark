@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Sweet potato fries",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Cottage cheese",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Scrambled eggs",
+      "portion_estimate": "80g",
+      "confidence": "65"
+    },
+    {
+      "name": "Meat (chicken, beef)",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green vegetables (possibly spinach or broccoli)",
+      "portion_estimate": "80g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Roasted Brussel Sprouts",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Grilled Chicken",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Saut\u00e9ed Spinach",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    },
+    {
+      "name": "Baked Sweet Potato",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Steamed Broccoli",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Grilled Asparagus",
+      "portion_estimate": "40g",
+      "confidence": "80"
+    },
+    {
+      "name": "Canned Black Beans",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Canned Corn",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Canned Peas",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    }
+  ]
+}

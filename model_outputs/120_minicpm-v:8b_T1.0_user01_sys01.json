@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "steamed cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "breaded fish fillet or meat patty",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "vegetable soup with crumbled cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "low-sugar yogurt",
+      "portion_estimate": "245g",
+      "confidence": "90"
+    }
+  ]
+}

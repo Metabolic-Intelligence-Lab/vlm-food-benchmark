@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "300",
+      "confidence": "80"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "90"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "90"
+    }
+  ]
+}

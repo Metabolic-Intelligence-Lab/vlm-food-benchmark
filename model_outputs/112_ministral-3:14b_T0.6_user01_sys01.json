@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (uncooked, with pesto or cheese sauce)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "grated parmesan cheese",
+      "portion_estimate": "15",
+      "confidence": 80
+    },
+    {
+      "name": "roasted or baked polenta slice",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or roasted Brussels sprouts (whole, small)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "whole eggplant (unpeeled, likely not cooked)",
+      "portion_estimate": "300",
+      "confidence": 80
+    },
+    {
+      "name": "whole black eggplant or purple onion (uncertain)",
+      "portion_estimate": "50",
+      "confidence": 55
+    }
+  ]
+}

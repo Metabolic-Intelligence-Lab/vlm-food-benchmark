@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "green leafy vegetable",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "70 grams",
+      "confidence": 60
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "beverage",
+      "portion_estimate": "200 milliliters",
+      "confidence": 80
+    }
+  ]
+}

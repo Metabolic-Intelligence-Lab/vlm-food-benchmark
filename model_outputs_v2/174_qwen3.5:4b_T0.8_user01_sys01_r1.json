@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed fish fillet",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "Chopped vegetables (zucchini, peppers)",
+      "portion_estimate": 80,
+      "confidence": 90
+    },
+    {
+      "name": "Steamed broccoli",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": 140,
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": 60,
+      "confidence": 90
+    }
+  ]
+}

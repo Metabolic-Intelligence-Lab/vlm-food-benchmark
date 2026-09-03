@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cream of mushroom soup (prepared, with crackers or breadcrumbs on top)",
+      "portion_estimate": "400",
+      "confidence": 85
+    },
+    {
+      "name": "roasted or baked potato wedge with dip (possibly spinach-artichoke or cheese sauce)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed mixed vegetables (e.g., carrots, zucchini, and possibly onions or bell peppers)",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "baguette or sandwich roll",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt or sour cream container (partially visible, brand 'COCO')",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "rice with yellow sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "berries",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

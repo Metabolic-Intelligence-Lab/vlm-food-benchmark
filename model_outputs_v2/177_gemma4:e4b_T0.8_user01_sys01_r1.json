@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Savory baked dip and fried croquettes platter",
+      "portion_estimate": "320",
+      "confidence": "85"
+    },
+    {
+      "name": "Pasta (penne or ziti style)",
+      "portion_estimate": "220",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread roll or bun",
+      "portion_estimate": "110",
+      "confidence": "95"
+    },
+    {
+      "name": "Lemon (whole fruit)",
+      "portion_estimate": "130",
+      "confidence": "95"
+    }
+  ]
+}

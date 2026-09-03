@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken fillet",
+      "portion_estimate": "uncertain, approx. weight of two pieces visible",
+      "confidence": "50"
+    },
+    {
+      "name": "Penne pasta with green sauce and vegetables",
+      "portion_estimate": "uncertain, full portion size in a typical bowl",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain bread toast",
+      "portion_estimate": "uncertain, slice visible on tray",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed salad with shredded carrots and purple cabbage",
+      "portion_estimate": "uncertain, small bowl size",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt container (Unclear brand)",
+      "portion_estimate": "uncertain, typical serving size of yogurt",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "food_items": [
+    {
+      "name": "Baked Bratwurst",
+      "portion_estimate": "6-8 pieces",
+      "confidence": 90
+    },
+    {
+      "name": "Roasted Vegetables",
+      "portion_estimate": "12 small veggies",
+      "confidence": 95
+    },
+    {
+      "name": "Rice with red sauce",
+      "portion_estimate": "1/4 cup",
+      "confidence": 80
+    },
+    {
+      "name": "Bread roll in plastic wrap",
+      "portion_estimate": "1 bread roll",
+      "confidence": 70
+    },
+    {
+      "name": "Sauce packets and glass cup with straws",
+      "portion_estimate": "2 sauce packets, 1 glass",
+      "confidence": 50
+    }
+  ],
+  "tablecloth": "white",
+  "background": "wooden table"
+}

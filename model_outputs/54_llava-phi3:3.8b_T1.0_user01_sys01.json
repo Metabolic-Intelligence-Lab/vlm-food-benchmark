@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange juice in glass",
+      "portion_estimate": "40g",
+      "confidence": "60"
+    },
+    {
+      "name": "macaroni and cheese in small bowl",
+      "portion_estimate": "125g",
+      "confidence": "70"
+    },
+    {
+      "name": "cauliflower salad in white plate",
+      "portion_estimate": "140g",
+      "confidence": "65"
+    },
+    {
+      "name": "orange slices on plate",
+      "portion_estimate": "70g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll in plastic bag",
+      "portion_estimate": "100g",
+      "confidence": "65"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Hard-boiled egg",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "Salad (mixed greens)",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "Toast cubes",
+      "portion_estimate": "30",
+      "confidence": 60
+    }
+  ]
+}

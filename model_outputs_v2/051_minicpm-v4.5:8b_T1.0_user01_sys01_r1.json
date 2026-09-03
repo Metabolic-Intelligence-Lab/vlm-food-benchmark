@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "omelette",
+      "portion_estimate": "120 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "carrot",
+      "portion_estimate": "30 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "soy sauce or similar dark sauce",
+      "portion_estimate": "30 grams",
+      "confidence": "75"
+    }
+  ]
+}

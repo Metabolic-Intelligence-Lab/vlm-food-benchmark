@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of green soup",
+      "portion_estimate": "250 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "two breaded balls",
+      "portion_estimate": "80 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "breadsticks in package",
+      "portion_estimate": "30 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "individual portion of jam",
+      "portion_estimate": "20 grams",
+      "confidence": "90"
+    }
+  ]
+}

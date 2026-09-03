@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable soup with cheese",
+      "portion_estimate": "400g",
+      "confidence": "95"
+    },
+    {
+      "name": "Slice of rustic bread",
+      "portion_estimate": "80g",
+      "confidence": "95"
+    },
+    {
+      "name": "Grilled flatbread",
+      "portion_estimate": "60g",
+      "confidence": "90"
+    },
+    {
+      "name": "Small container of spread",
+      "portion_estimate": "40g",
+      "confidence": "85"
+    }
+  ]
+}

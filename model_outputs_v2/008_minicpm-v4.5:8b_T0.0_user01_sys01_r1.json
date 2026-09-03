@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green soup (likely lentil or vegetable soup)",
+      "portion_estimate": "300-350 grams",
+      "confidence": 90
+    },
+    {
+      "name": "small bread roll (in plastic wrap)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed salad (with cabbage, onions, and other vegetables)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "two green-fried items (possibly falafel or similar)",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small yogurt cup (red lid, labeled 'Yoplait')",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "clear drinking glass (water)",
+      "portion_estimate": "200-250 ml (water weight ~200 grams)",
+      "confidence": 90
+    }
+  ]
+}

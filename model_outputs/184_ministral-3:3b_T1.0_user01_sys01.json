@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "hot dog bun",
+      "portion_estimate": 25,
+      "confidence": 95
+    },
+    {
+      "name": "side salad with chopped vegetables (lettuce, carrots, pickles, possibly dried fruit)",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "fried chicken drumstick with breading",
+      "portion_estimate": 80,
+      "confidence": 80
+    },
+    {
+      "name": "stuffed mushroom (or possibly a half-croissant with fillings like cheese and herbs)",
+      "portion_estimate": 25,
+      "confidence": 65
+    },
+    {
+      "name": "plum or black plum",
+      "portion_estimate": 20,
+      "confidence": 80
+    }
+  ]
+}

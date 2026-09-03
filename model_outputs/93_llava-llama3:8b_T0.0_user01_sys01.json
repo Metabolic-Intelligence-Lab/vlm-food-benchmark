@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas with fish and lemon",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with red sauce and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "baguette roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "jam",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

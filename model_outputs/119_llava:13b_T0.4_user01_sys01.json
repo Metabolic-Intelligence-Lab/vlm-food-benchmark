@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta salad",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta-based main course (spaghetti bolognese or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "yogurt with fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "water or beverage",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

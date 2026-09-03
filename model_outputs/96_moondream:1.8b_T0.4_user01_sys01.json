@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "donut",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "cake or muffin",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "juice box (apple juice)",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

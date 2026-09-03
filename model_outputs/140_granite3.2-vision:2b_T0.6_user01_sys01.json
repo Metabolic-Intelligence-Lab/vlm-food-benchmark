@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "greens (spinach, kale, or other leafy green vegetable)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

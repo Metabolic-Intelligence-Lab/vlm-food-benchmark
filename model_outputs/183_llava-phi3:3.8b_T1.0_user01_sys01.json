@@ -1,0 +1,27 @@
+{
+  "plate1": {
+    "size": "small",
+    "color": "white"
+  },
+  "dish1": {
+    "size": "large",
+    "color": "white",
+    "contains": "vegetables"
+  },
+  "bread1": {
+    "size": "medium",
+    "color": "golden brown"
+  },
+  "spoon1": {
+    "size": "long",
+    "material": "silver"
+  },
+  "plate2": {
+    "size": "small",
+    "color": "yellow"
+  },
+  "apple1": {
+    "size": "large",
+    "color": "green"
+  }
+}

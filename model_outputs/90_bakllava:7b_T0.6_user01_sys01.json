@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "mixed vegetables (carrots and apples)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "additional food items",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

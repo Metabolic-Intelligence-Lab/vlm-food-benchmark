@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "crispy pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "vegetables (potatoes, zucchini, mushrooms)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "unidentified cake or bread",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

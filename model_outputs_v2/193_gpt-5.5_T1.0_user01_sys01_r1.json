@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange lentil or vegetable soup",
+      "portion_estimate": "350 g",
+      "confidence": "85"
+    },
+    {
+      "name": "uncertain crumbly cooked grain or egg dish",
+      "portion_estimate": "200 g",
+      "confidence": "45"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "150 g",
+      "confidence": "95"
+    },
+    {
+      "name": "water in two plastic cups",
+      "portion_estimate": "400 g",
+      "confidence": "95"
+    }
+  ]
+}

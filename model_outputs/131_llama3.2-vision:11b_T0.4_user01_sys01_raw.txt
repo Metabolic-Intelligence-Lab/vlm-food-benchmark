@@ -1,0 +1,14 @@
+Here is the output in the specified format:
+
+{ "food_items": [
+  {
+    "name": "Rice",
+    "portion_estimate": "100g",
+    "confidence": "90"
+  },
+  {
+    "name": "Tomato Sauce",
+    "portion_estimate": "50g",
+    "confidence": "80"
+  }
+] }

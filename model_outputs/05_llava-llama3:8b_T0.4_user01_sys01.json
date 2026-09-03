@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy Soup with Croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Fried Chicken Pieces",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Roasted Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Ketchup Packet",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Cream Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

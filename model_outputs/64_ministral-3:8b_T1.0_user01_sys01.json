@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked fusilli pasta with diced tomatoes",
+      "portion_estimate": "220g",
+      "confidence": 75
+    },
+    {
+      "name": "sausage with stuffing and herbs (meat and potato mixture)",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "diced and seasoned potatoes",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "uncertain (partial, estimate <50g for one slice)",
+      "confidence": 50
+    },
+    {
+      "name": "unopened container of yogurt (unspecified flavor, likely dairy-based)",
+      "portion_estimate": "uncertain (likely ~150g based on container size)",
+      "confidence": 60
+    },
+    {
+      "name": "unsweetened water or beverage in plastic cup",
+      "portion_estimate": "250ml",
+      "confidence": 70
+    }
+  ]
+}

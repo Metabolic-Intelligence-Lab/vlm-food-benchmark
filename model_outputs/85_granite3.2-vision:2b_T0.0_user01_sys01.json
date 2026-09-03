@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup (clear broth, possibly chicken or vegetable-based)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "bread (toasted, two pieces)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green vegetables (spinach, kale, or another leafy green)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

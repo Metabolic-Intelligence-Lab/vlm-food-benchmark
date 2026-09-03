@@ -1,0 +1,17 @@
+The problem provides the probability of a fair coin landing heads as 0.5 and asks for the probability of getting at least one head in 10 flips. This is a standard probability calculation.
+
+To find the probability of **at least one head** in 10 flips, we compute the complement:  
+$$
+P(\text{at least one head}) = 1 - P(\text{no heads}) = 1 - (0.5)^{10}
+$$
+
+Since $ (0.5)^{10} = \frac{1}{1024} $, the result is:
+$$
+1 - \frac{1}{1024} = \frac{1023}{1024}
+$$
+
+This value is exact and well-defined based on the given information. Therefore, the answer is **not uncertain**.
+
+$$
+\boxed{\dfrac{1023}{1024}}
+$$

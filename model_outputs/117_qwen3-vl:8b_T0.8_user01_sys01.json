@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of soup",
+      "portion_estimate": "350g",
+      "confidence": 80
+    },
+    {
+      "name": "Package of bread rolls",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Cup of yogurt",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "Plate of mashed potatoes",
+      "portion_estimate": "150g",
+      "confidence": 70
+    },
+    {
+      "name": "Stuffed meatball (pesto sauce)",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "Stuffed meatball (ketchup sauce)",
+      "portion_estimate": "50g",
+      "confidence": 70
+    }
+  ]
+}

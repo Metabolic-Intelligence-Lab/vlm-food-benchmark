@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked diced beef",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt, strawberry flavor",
+      "portion_estimate": "125",
+      "confidence": "90"
+    }
+  ]
+}

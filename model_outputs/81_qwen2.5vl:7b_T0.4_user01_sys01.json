@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed greens",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "two meatballs",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "baked beans",
+      "portion_estimate": "50",
+      "confidence": 60
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": 70
+    }
+  ]
+}

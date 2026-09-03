@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "salad with purple cabbage and cucumber",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "hamburger bun",
+      "portion_estimate": "80 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "meatball with sauce",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "crab cakes",
+      "portion_estimate": "120 grams",
+      "confidence": "80"
+    }
+  ]
+}

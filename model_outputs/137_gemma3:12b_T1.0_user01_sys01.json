@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fusilli pasta",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "Tomato sauce",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "Shredded mozzarella cheese",
+      "portion_estimate": "30",
+      "confidence": "80"
+    }
+  ]
+}

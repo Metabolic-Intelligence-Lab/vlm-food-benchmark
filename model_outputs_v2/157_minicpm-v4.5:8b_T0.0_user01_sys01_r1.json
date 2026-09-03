@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "shells pasta with grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "lentils",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "two breaded balls (possibly fish or meatballs)",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "sliced eggplant",
+      "portion_estimate": "30 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "small round bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "green pear",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "sliced green bell peppers (roasted)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "sliced sausages (likely pork or chicken, roasted)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "mushrooms (roasted, possibly cremini or white)",
+      "portion_estimate": "80g",
+      "confidence": 75
+    }
+  ]
+}

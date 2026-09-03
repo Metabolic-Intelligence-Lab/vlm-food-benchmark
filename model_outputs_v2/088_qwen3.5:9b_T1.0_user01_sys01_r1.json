@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole wheat penne pasta with brown sauce and grated parmesan cheese",
+      "portion_estimate": 250,
+      "confidence": 92
+    },
+    {
+      "name": "Banana (whole)",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Sliced frittata or omelette with visible mushroom and spinach pieces",
+      "portion_estimate": 180,
+      "confidence": 88
+    },
+    {
+      "name": "Pearled barley mixed with green peas",
+      "portion_estimate": 200,
+      "confidence": 89
+    },
+    {
+      "name": "Bread roll inside clear plastic bag",
+      "portion_estimate": 55,
+      "confidence": 90
+    }
+  ]
+}

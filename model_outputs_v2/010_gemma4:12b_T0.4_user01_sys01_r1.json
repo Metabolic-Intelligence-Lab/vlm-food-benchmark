@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green lentil soup",
+      "portion_estimate": "400g",
+      "confidence": "95"
+    },
+    {
+      "name": "roasted cubed potatoes",
+      "portion_estimate": "200g",
+      "confidence": "95"
+    },
+    {
+      "name": "herb-flecked mashed potatoes",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80g",
+      "confidence": "95"
+    },
+    {
+      "name": "latte",
+      "portion_estimate": "300g",
+      "confidence": "80"
+    }
+  ]
+}

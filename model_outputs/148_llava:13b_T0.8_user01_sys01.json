@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta or rice dish (possibly macaroni and cheese)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta or rice dish (vegetable or chicken-based baked dish)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "potato salad or couscous",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "wrapped sandwich with olive",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

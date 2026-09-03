@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Small bread roll",
+      "portion_estimate": "8g",
+      "confidence": "100"
+    },
+    {
+      "name": "Small cup of kefir",
+      "portion_estimate": "100g",
+      "confidence": "100"
+    },
+    {
+      "name": "Bowl of salad",
+      "portion_estimate": "500g",
+      "confidence": "100"
+    },
+    {
+      "name": "Small bowl of chickpea soup",
+      "portion_estimate": "104g",
+      "confidence": "100"
+    },
+    {
+      "name": "Single fritter",
+      "portion_estimate": "25g",
+      "confidence": "100"
+    }
+  ]
+}

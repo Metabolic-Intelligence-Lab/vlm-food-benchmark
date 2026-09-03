@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked broccoli",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    },
+    {
+      "name": "cheesy tomato pasta bake or lasagna portion",
+      "portion_estimate": "180 g",
+      "confidence": "78"
+    },
+    {
+      "name": "rigatoni pasta in tomato sauce with meat or mushrooms",
+      "portion_estimate": "240 g",
+      "confidence": "82"
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "88"
+    },
+    {
+      "name": "two mandarins or clementines",
+      "portion_estimate": "160 g",
+      "confidence": "90"
+    }
+  ]
+}

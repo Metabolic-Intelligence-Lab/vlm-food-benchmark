@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Kidney beans (with green vegetable bits)",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60 g",
+      "confidence": 95
+    },
+    {
+      "name": "Apricot",
+      "portion_estimate": "50 g",
+      "confidence": 95
+    },
+    {
+      "name": "Plum (per plum)",
+      "portion_estimate": "35 g",
+      "confidence": 95
+    },
+    {
+      "name": "Cooked fish fillet",
+      "portion_estimate": "120 g",
+      "confidence": 95
+    },
+    {
+      "name": "Cooked vegetable mixture",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "coffee (black, possibly with cream or milk residue)",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "sweet chili sauce (dipping sauce)",
+      "portion_estimate": "30",
+      "confidence": "80"
+    },
+    {
+      "name": "pickled vegetables (e.g., kimchi or similar fermented cabbage)",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "sugar packet (white granulated sugar)",
+      "portion_estimate": "5",
+      "confidence": "90"
+    },
+    {
+      "name": "sweetener packet (e.g., Splenda or similar artificial sweetener)",
+      "portion_estimate": "3",
+      "confidence": "90"
+    }
+  ]
+}

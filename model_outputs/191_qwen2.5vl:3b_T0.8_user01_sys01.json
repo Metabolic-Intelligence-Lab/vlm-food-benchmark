@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "bread balls",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "doughnut holes",
+      "portion_estimate": "uncertain",
+      "confidence": "10"
+    },
+    {
+      "name": "sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "peanut butter and jelly sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sliced cucumber",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange slices",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta with tomato sauce and meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "tortellini",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

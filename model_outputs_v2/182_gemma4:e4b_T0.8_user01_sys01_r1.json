@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked pasta dish (e.g., macaroni and cheese)",
+      "portion_estimate": "300",
+      "confidence": "95"
+    },
+    {
+      "name": "Saut\u00e9ed green vegetables or pesto mix",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "Baked cheesy gratin or casserole",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "Mandarin orange",
+      "portion_estimate": "60",
+      "confidence": "90"
+    },
+    {
+      "name": "Mandarin orange",
+      "portion_estimate": "60",
+      "confidence": "90"
+    }
+  ]
+}

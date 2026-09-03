@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of soup",
+      "portion_estimate": "uncertain, approx. bowl size",
+      "confidence": "50"
+    },
+    {
+      "name": "Plate with two green patties",
+      "portion_estimate": "uncertain, approx. plate diameter",
+      "confidence": "60"
+    },
+    {
+      "name": "Packaged sandwich bun",
+      "portion_estimate": "uncertain, approx. bun size",
+      "confidence": "50"
+    },
+    {
+      "name": "Bowl of coleslaw salad",
+      "portion_estimate": "uncertain, approx. bowl size",
+      "confidence": "60"
+    },
+    {
+      "name": "Cup with clear liquid (water)",
+      "portion_estimate": "uncertain, approx. cup capacity",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt container",
+      "portion_estimate": "125g",
+      "confidence": "90"
+    }
+  ]
+}

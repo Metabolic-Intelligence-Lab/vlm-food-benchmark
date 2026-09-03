@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sweet potato cubes (diced)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "sweet potato patties (or fries, wrapped in plastic)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "creamy soup with croutons (likely tomato or vegetable-based)",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "diced orange segments (whole)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "dressing/sauce (yellow, possibly yogurt-based or tahini)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

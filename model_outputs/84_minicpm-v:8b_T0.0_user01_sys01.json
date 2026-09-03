@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Sliced bread with meat and sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed vegetables (carrots, peas, corn)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Cheese stick with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

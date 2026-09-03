@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain, approx 100g",
+      "confidence": "50"
+    },
+    {
+      "name": "sour cream (Yoplait)",
+      "portion_estimate": "uncertain, approx 25ml",
+      "confidence": "60"
+    },
+    {
+      "name": "tomato yogurt drink",
+      "portion_estimate": "uncertain, approx 170g",
+      "confidence": "50"
+    },
+    {
+      "name": "mashed potatoes with herbs",
+      "portion_estimate": "uncertain, approx 200-300g",
+      "confidence": "60"
+    },
+    {
+      "name": "soup (green pea)",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "70"
+    }
+  ]
+}

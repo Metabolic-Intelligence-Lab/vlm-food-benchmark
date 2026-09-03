@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "beans and broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fish and fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich or wrap",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

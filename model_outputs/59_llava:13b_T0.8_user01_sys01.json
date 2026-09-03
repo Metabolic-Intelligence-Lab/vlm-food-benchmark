@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green vegetable dish, possibly spinach",
+      "portion_estimate": "20g",
+      "confidence": "60"
+    },
+    {
+      "name": "Baked item with filling, possibly a quiche or pie",
+      "portion_estimate": "50g",
+      "confidence": "40"
+    },
+    {
+      "name": "Colorful salad in small bowl",
+      "portion_estimate": "30g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll with packaging",
+      "portion_estimate": "50g",
+      "confidence": "40"
+    },
+    {
+      "name": "Colorful vegetables, likely carrot and radish slices",
+      "portion_estimate": "20g",
+      "confidence": "60"
+    }
+  ]
+}

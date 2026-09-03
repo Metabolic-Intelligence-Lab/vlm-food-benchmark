@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Muffin",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Crispy Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed Salad",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

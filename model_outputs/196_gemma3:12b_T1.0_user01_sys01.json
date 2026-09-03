@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "tomato soup",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "whole wheat bread slice",
+      "portion_estimate": "30",
+      "confidence": "95"
+    },
+    {
+      "name": "meat spread on bread",
+      "portion_estimate": "20",
+      "confidence": "80"
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "crackers",
+      "portion_estimate": "25",
+      "confidence": "75"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": "70"
+    }
+  ]
+}

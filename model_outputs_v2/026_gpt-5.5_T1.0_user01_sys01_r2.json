@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried cutlets, filling uncertain",
+      "portion_estimate": "140 grams",
+      "confidence": "55"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "180 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked leafy greens",
+      "portion_estimate": "130 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "clementines or small mandarins",
+      "portion_estimate": "180 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "70 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 grams",
+      "confidence": "95"
+    }
+  ]
+}

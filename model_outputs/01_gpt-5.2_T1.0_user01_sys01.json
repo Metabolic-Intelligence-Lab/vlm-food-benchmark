@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup (pureed, pea-like) with grated cheese on top",
+      "portion_estimate": "350 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated hard cheese topping (parmesan-like)",
+      "portion_estimate": "8 g",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll (small bun)",
+      "portion_estimate": "55 g",
+      "confidence": "74"
+    },
+    {
+      "name": "vegetable patty/croquette (orange, likely carrot/pumpkin-based) with a slice of tomato on top",
+      "portion_estimate": "110 g",
+      "confidence": "60"
+    },
+    {
+      "name": "slice of tomato (on top of patty)",
+      "portion_estimate": "12 g",
+      "confidence": "62"
+    },
+    {
+      "name": "small serving of pasta (short noodles) with light sauce",
+      "portion_estimate": "90 g",
+      "confidence": "66"
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "86"
+    }
+  ]
+}

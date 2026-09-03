@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fish fingers",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "potatoes with herbs and spices",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "kale chips",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "whole grain English muffin or bread roll",
+      "portion_estimate": "2 oz (approximately)",
+      "confidence": 70
+    },
+    {
+      "name": "plastic-wrapped sandwich bun with a green leaf on it, possibly from the same packaging as kale chips.",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

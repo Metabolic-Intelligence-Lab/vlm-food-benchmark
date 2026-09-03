@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese (possibly pesto/cream sauce)",
+      "portion_estimate": "320 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated Parmesan-style cheese (topping on pasta)",
+      "portion_estimate": "12 g",
+      "confidence": "65"
+    },
+    {
+      "name": "mixed vegetables (potato cubes, carrots, Brussels sprouts, possibly parsnip/turnip)",
+      "portion_estimate": "230 g",
+      "confidence": "72"
+    },
+    {
+      "name": "vegetable patty/croquette (orange-colored, topped with cooked spinach)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll (white roll, in plastic bag)",
+      "portion_estimate": "60 g",
+      "confidence": "74"
+    },
+    {
+      "name": "fresh plums (whole)",
+      "portion_estimate": "180 g",
+      "confidence": "80"
+    }
+  ]
+}

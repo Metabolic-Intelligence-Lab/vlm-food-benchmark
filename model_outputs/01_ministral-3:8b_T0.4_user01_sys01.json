@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup with grated cheese",
+      "portion_estimate": "300g",
+      "confidence": 75
+    },
+    {
+      "name": "corn-based patty (e.g., arepa or similar) with tomato sauce",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "shredded chicken or similar protein",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "packaged bread roll (whole wheat or similar)",
+      "portion_estimate": "70g",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (blueberry flavor)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "condiment packet (likely salt or seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "drink (likely iced coffee or tea)",
+      "portion_estimate": "uncertain (served in a standard cup, ~250ml)",
+      "confidence": 60
+    }
+  ]
+}

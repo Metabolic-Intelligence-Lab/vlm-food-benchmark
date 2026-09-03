@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup with cheese",
+      "portion_estimate": "300 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "slices of bread",
+      "portion_estimate": "60 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "cauliflower florets",
+      "portion_estimate": "120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "grilled sandwich",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    }
+  ]
+}

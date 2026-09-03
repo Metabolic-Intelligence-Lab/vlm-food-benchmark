@@ -1,0 +1,37 @@
+{
+  "tray": {
+    "material": "paper",
+    "design": "floral pattern"
+  },
+  "plates": [
+    {
+      "dish": "eggs benedict",
+      "ingredients": [
+        "sausage",
+        "bread"
+      ],
+      "color": "yellow and brown"
+    },
+    {
+      "dish": "rice",
+      "ingredients": [
+        "rice",
+        "nuts"
+      ],
+      "color": "white and brown"
+    }
+  ],
+  "fruit": [
+    {
+      "type": "orange",
+      "color": "orange"
+    }
+  ],
+  "cutlery": [
+    {
+      "type": "knife",
+      "material": "plastic",
+      "color": "white and gray"
+    }
+  ]
+}

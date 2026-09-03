@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked pasta (rigatoni)",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "chopped tomatoes",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "canned tuna",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "30",
+      "confidence": "70"
+    },
+    {
+      "name": "mayonnaise",
+      "portion_estimate": "20",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta salad with tomato and olive oil dressing",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "Roasted Brussels sprouts and potatoes",
+      "portion_estimate": 80,
+      "confidence": 85
+    },
+    {
+      "name": "Steamed cod fillet with green vegetables",
+      "portion_estimate": 130,
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll or bun",
+      "portion_estimate": 65,
+      "confidence": 85
+    },
+    {
+      "name": "Vanilla yogurt (closed)",
+      "portion_estimate": 125,
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "crispy fried item (possibly chicken or fish cutlet)",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "bowl of lentil soup with cheese",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "bowl of mixed greens and shredded carrots",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "YOMO yogurt container",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "75",
+      "confidence": "70"
+    }
+  ]
+}

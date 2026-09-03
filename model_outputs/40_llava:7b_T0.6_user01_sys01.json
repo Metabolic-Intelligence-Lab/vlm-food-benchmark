@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pizza",
+      "portion_estimate": "1 slice",
+      "confidence": "70"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "1 serving",
+      "confidence": "60"
+    },
+    {
+      "name": "Rolls",
+      "portion_estimate": "2 rolls",
+      "confidence": "50"
+    }
+  ]
+}

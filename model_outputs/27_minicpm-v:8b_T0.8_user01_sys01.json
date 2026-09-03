@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "approximate weight in grams based on visible portion size (use 100g per serving as a guess)",
+      "confidence": "75"
+    },
+    {
+      "name": "Green leafy vegetables",
+      "portion_estimate": "uncertain, not enough visual detail to estimate accurately. Likely around the same quantity or slightly less than other items.",
+      "confidence": "40"
+    },
+    {
+      "name": "Sliced meat with sauce",
+      "portion_estimate": "approximate weight in grams based on visible portion size (use 150g per serving as a guess)",
+      "confidence": "80"
+    },
+    {
+      "name": "White cheese powder sprinkled over pasta",
+      "portion_estimate": "uncertain, not enough visual detail to estimate accurately. Likely around the same quantity or slightly less than other items.",
+      "confidence": "45"
+    }
+  ]
+}

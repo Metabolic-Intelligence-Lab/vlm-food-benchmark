@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Muffin with chocolate topping",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "French Fries",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Carrot sticks",
+      "portion_estimate": "30 grams",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried cutlet (likely breaded chicken or pork)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "fried dumplings (possibly gyoza or similar)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with butter/cheese sauce (e.g., fettuccine Alfredo)",
+      "portion_estimate": "120 grams (dry weight)",
+      "confidence": 80
+    },
+    {
+      "name": "small round cheese (e.g., halloumi or processed cheese)",
+      "portion_estimate": "70 grams",
+      "confidence": 70
+    },
+    {
+      "name": "lemon (partial, ~1/4)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "butter (packaged stick)",
+      "portion_estimate": "25 grams (unsliced)",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato-based sauce (bowl)",
+      "portion_estimate": "250 grams (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "roasted or saut\u00e9ed broccoli",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "cheese-covered chicken or turkey breast slice (part of a larger piece)",
+      "portion_estimate": "120 grams (uncertain)",
+      "confidence": 75
+    },
+    {
+      "name": "packaged butter or margarine (small portion)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "clementines or small oranges (2 pieces)",
+      "portion_estimate": "200 grams (100g per orange)",
+      "confidence": 90
+    }
+  ]
+}

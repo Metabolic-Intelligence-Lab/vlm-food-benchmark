@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "meat with sauce",
+      "portion_estimate": "large",
+      "confidence": "90"
+    },
+    {
+      "name": "potatoes with gravy",
+      "portion_estimate": "small",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded chicken leg",
+      "portion_estimate": "medium",
+      "confidence": "70"
+    }
+  ]
+}

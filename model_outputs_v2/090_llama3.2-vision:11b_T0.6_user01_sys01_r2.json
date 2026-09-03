@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "White rice",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Steamed carrots and potatoes",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green salad",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

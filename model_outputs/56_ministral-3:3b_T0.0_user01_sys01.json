@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried breadstick or crouton",
+      "portion_estimate": "30-50 grams",
+      "confidence": 90
+    },
+    {
+      "name": "mushroom and vegetable stir-fry (carrots, mushrooms, bell peppers, onions)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with tomato sauce and herbs (penne or similar pasta)",
+      "portion_estimate": "180-220 grams",
+      "confidence": 85
+    },
+    {
+      "name": "plain water (glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "small whole wheat or seeded bread roll",
+      "portion_estimate": "40-60 grams",
+      "confidence": 75
+    }
+  ]
+}

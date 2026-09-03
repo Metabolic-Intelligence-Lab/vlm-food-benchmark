@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes (or sweet potato mash)",
+      "portion_estimate": "100\u2013150g",
+      "confidence": 90
+    },
+    {
+      "name": "grilled or fried meatballs (likely beef/chicken)",
+      "portion_estimate": "50\u201380g (two small meatballs)",
+      "confidence": 85
+    },
+    {
+      "name": "black kale or spinach salad (with visible leaves)",
+      "portion_estimate": "50\u201370g (leafy greens)",
+      "confidence": 80
+    },
+    {
+      "name": "red beverage pouch (likely soda or fruit juice)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "empty condiment container (sauce or oil, partially consumed)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Burger",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "80g",
+      "confidence": 95
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "80g",
+      "confidence": 95
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "40g",
+      "confidence": 95
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200ml",
+      "confidence": 95
+    }
+  ]
+}

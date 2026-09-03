@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "baked parmesan potatoes",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "shredded carrots and saut\u00e9ed greens mixture (e.g., zucchini, mushrooms, and celery)",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "packaged bread or roll (unopened bag), ~one piece visible",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and visible diced tomatoes",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted brussels sprouts (approx. 8 whole pieces)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "grilled or baked fish fillet (likely cod or similar white fish)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "steamed or boiled white rice (small portion)",
+      "portion_estimate": "50g",
+      "confidence": 65
+    },
+    {
+      "name": "plain roll or dinner roll (wrapped in plastic)",
+      "portion_estimate": "60g",
+      "confidence": 85
+    },
+    {
+      "name": "water (in clear plastic cup)",
+      "portion_estimate": "250ml (uncertain volume)",
+      "confidence": 60
+    },
+    {
+      "name": "packaged mozzarella cheese (Tommy brand, partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

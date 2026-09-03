@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "grilled or roasted pork tenderloin (cross-sectioned)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed broccoli florets",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "creamy soup with cheese topping (potato or mushroom-based)",
+      "portion_estimate": "300g",
+      "confidence": 78
+    },
+    {
+      "name": "round flatbread (naan or pita, whole piece)",
+      "portion_estimate": "50g",
+      "confidence": 82
+    },
+    {
+      "name": "plastic-wrapped portion of butter",
+      "portion_estimate": "20g",
+      "confidence": 70
+    },
+    {
+      "name": "sparkling water (clear plastic cup with straw)",
+      "portion_estimate": "uncertain (approximately 250ml)",
+      "confidence": 50
+    },
+    {
+      "name": "salt shaker (visible next to plate)",
+      "portion_estimate": "uncertain (shaker only)",
+      "confidence": 0
+    },
+    {
+      "name": "white napkin (on plate)",
+      "portion_estimate": "uncertain (no food value)",
+      "confidence": 0
+    }
+  ]
+}

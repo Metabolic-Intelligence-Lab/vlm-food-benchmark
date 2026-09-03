@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "steamed or boiled green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "meat in gravy with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

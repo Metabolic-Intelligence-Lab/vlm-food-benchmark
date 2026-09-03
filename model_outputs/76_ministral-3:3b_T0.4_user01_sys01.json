@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato and vegetable sauce",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "quinoa or couscous with greens and red peppers",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "garlic butter mushroom and herb stuffed roll",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "stuffed mushroom cap (inside plate)",
+      "portion_estimate": "30",
+      "confidence": 75
+    },
+    {
+      "name": "plum or apricot (on plate)",
+      "portion_estimate": "50",
+      "confidence": 65
+    }
+  ]
+}

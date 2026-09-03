@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "round bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "spinach/vegetable soup or stew with grated cheese on top",
+      "portion_estimate": "400 g",
+      "confidence": "70"
+    },
+    {
+      "name": "grated hard cheese (likely parmesan) on soup",
+      "portion_estimate": "15 g",
+      "confidence": "65"
+    },
+    {
+      "name": "shredded cabbage salad (light dressing)",
+      "portion_estimate": "120 g",
+      "confidence": "75"
+    },
+    {
+      "name": "two breaded patties/croquettes (fried or baked)",
+      "portion_estimate": "140 g",
+      "confidence": "70"
+    },
+    {
+      "name": "red cabbage (small serving, likely braised/pickled)",
+      "portion_estimate": "30 g",
+      "confidence": "65"
+    },
+    {
+      "name": "strawberry yogurt (single-serve cup, 125 g)",
+      "portion_estimate": "125 g",
+      "confidence": "90"
+    }
+  ]
+}

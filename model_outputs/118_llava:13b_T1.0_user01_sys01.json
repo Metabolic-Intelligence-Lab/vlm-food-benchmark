@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Rigatoni Pasta with Tomato Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Soup or Dipping Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Pork Cutlet or Chicken Breast with Creamy Tomato Sauce and Herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Boiled Potatoes with Herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

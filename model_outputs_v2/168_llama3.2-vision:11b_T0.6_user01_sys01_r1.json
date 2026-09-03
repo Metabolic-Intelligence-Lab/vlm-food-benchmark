@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "cabbage",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "onion",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "garlic",
+      "portion_estimate": "20g",
+      "confidence": "80"
+    },
+    {
+      "name": "beef",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "olive oil",
+      "portion_estimate": "10g",
+      "confidence": "80"
+    }
+  ]
+}

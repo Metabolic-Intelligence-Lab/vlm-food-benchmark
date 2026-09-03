@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "brown soup",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "crispbread",
+      "portion_estimate": "30",
+      "confidence": 70
+    },
+    {
+      "name": "greens",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "crab sticks",
+      "portion_estimate": "40",
+      "confidence": 60
+    }
+  ]
+}

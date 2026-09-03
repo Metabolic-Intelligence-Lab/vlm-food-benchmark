@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with pesto and cheese",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "potato croquettes or fritters",
+      "portion_estimate": "uncertain, approx. 75-90g",
+      "confidence": "40"
+    },
+    {
+      "name": "quail eggs with pesto sauce and olives",
+      "portion_estimate": "uncertain, approx. 120g",
+      "confidence": "65"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "uncertain, approx. 75-90g",
+      "confidence": "40"
+    },
+    {
+      "name": "yellow pear with green sprig",
+      "portion_estimate": "uncertain, approx. 120g",
+      "confidence": "60"
+    }
+  ]
+}

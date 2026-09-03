@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot and potato vegetable side",
+      "portion_estimate": "about 150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "savory pie slice",
+      "portion_estimate": "about 120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed rice salad",
+      "portion_estimate": "about 250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "bag of bread rolls",
+      "portion_estimate": "about 180 grams",
+      "confidence": 75
+    },
+    {
+      "name": "fresh apricots",
+      "portion_estimate": "about 120 grams",
+      "confidence": 80
+    }
+  ]
+}

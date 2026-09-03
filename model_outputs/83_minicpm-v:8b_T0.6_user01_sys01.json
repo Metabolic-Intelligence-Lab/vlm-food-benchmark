@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted sweet potatoes",
+      "portion_estimate": "150-200g",
+      "confidence": 80
+    },
+    {
+      "name": "Garlic broccoli with chickpeas and tofu scramble",
+      "portion_estimate": "300-400g",
+      "confidence": 70
+    },
+    {
+      "name": "Grilled salmon on a bed of greens",
+      "portion_estimate": "150-200g",
+      "confidence": 80
+    },
+    {
+      "name": "Whole grain couscous with chickpeas and vegetables",
+      "portion_estimate": "300-400g",
+      "confidence": 70
+    },
+    {
+      "name": "Tofu scramble on a bed of greens",
+      "portion_estimate": "150-200g",
+      "confidence": 80
+    }
+  ]
+}

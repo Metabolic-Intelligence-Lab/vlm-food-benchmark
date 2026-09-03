@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Green soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Crunchy fried food",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

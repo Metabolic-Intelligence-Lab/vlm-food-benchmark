@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green bread with toppings",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta salad",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Soup with cheese on top",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Dairy product (possibly yogurt)",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    }
+  ]
+}

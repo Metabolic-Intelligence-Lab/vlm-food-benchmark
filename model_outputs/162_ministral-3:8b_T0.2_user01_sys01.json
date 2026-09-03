@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli florets with diced potatoes",
+      "portion_estimate": "200 grams",
+      "confidence": 75
+    },
+    {
+      "name": "boiled or poached egg",
+      "portion_estimate": "60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "potato-based dish (e.g., gratin or hash) on toast",
+      "portion_estimate": "150 grams",
+      "confidence": 70
+    },
+    {
+      "name": "soup (likely vegetable or broth-based with carrots and herbs)",
+      "portion_estimate": "300 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small lemon wedge",
+      "portion_estimate": "30 grams",
+      "confidence": 70
+    }
+  ]
+}

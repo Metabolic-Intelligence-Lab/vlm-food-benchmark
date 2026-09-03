@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fried egg, sunny side up",
+      "portion_estimate": "50 g",
+      "confidence": "90"
+    },
+    {
+      "name": "potato wedges/fries",
+      "portion_estimate": "150 g",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked leafy greens, likely spinach",
+      "portion_estimate": "100 g",
+      "confidence": "80"
+    },
+    {
+      "name": "small bread roll in wrapper",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "80"
+    },
+    {
+      "name": "water in cup",
+      "portion_estimate": "200 g",
+      "confidence": "80"
+    },
+    {
+      "name": "round base under egg, possibly toast or patty",
+      "portion_estimate": "50 g",
+      "confidence": "45"
+    }
+  ]
+}

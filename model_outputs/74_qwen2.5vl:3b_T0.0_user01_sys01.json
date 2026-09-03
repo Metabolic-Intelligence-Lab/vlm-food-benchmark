@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chopped carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "buttery bread",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken breast (diced)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "red cabbage (raw, sliced)",
+      "portion_estimate": "80g",
+      "confidence": 90
+    },
+    {
+      "name": "green leaf lettuce (shredded)",
+      "portion_estimate": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "carrot (shredded)",
+      "portion_estimate": "30g",
+      "confidence": 80
+    },
+    {
+      "name": "white radish (sliced)",
+      "portion_estimate": "60g",
+      "confidence": 85
+    }
+  ]
+}

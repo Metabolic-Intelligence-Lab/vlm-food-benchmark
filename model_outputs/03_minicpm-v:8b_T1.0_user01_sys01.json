@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain, approx. 100-200g depending on floret size and quantity in dish",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "uncertain, approx. 50-100g based on a single leaf serving",
+      "confidence": "60%"
+    },
+    {
+      "name": "Saut\u00e9ed mushrooms with a slice of onion (topping)",
+      "portion_estimate": "approx. 30-40g depending on size and thickness of the mushroom",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "Pasta in tomato sauce",
+      "portion_estimate": "uncertain, approx. 150g for typical portion according to nutritional information common with pasta dishes",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "Salad dressing (dark green leafy vegetable)",
+      "portion_estimate": "approximate teaspoonful or more depending on the thickness and amount of darkened leaves",
+      "confidence": "60%"
+    }
+  ]
+}

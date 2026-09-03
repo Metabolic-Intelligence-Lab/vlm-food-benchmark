@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "65 g",
+      "confidence": "80"
+    },
+    {
+      "name": "vegetable soup/stew with grated cheese on top",
+      "portion_estimate": "350 g",
+      "confidence": "70"
+    },
+    {
+      "name": "grated cheese (on soup)",
+      "portion_estimate": "10 g",
+      "confidence": "65"
+    },
+    {
+      "name": "sliced cooked chicken/turkey breast (with some dressing/sauce)",
+      "portion_estimate": "90 g",
+      "confidence": "65"
+    },
+    {
+      "name": "mixed salad (lettuce)",
+      "portion_estimate": "40 g",
+      "confidence": "65"
+    },
+    {
+      "name": "cooked leafy greens (spinach/chard)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "fruit yogurt cup (strawberry)",
+      "portion_estimate": "125 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "70"
+    }
+  ]
+}

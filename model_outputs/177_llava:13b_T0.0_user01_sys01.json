@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "meat with sauce or gravy",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "broccoli and potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "macaroni or similar tubular pasta with creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich with meat or cheese filling",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "lemon slices",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "small bowl with side dish or condiment",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

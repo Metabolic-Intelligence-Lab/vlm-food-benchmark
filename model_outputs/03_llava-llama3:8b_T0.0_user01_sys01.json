@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread (toasted)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta (with red sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "chicken (golden-brown)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "milk",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    }
+  ]
+}

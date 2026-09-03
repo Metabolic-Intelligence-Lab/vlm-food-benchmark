@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed greens salad",
+      "portion_estimate": "180 g",
+      "confidence": 100
+    },
+    {
+      "name": "Small bread roll",
+      "portion_estimate": "40 g",
+      "confidence": 100
+    },
+    {
+      "name": "Milk pudding yogurt",
+      "portion_estimate": "120 g",
+      "confidence": 100
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200 g",
+      "confidence": 100
+    },
+    {
+      "name": "Cheese-topped patty",
+      "portion_estimate": "120 g",
+      "confidence": 100
+    },
+    {
+      "name": "Diced potatoes",
+      "portion_estimate": "100 g",
+      "confidence": 100
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta shells with tomato sauce and meat",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "roasted or saut\u00e9ed broccoli",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "cheese-stuffed chicken breast or cutlet",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "small whole mandarin orange (clementine)",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "pre-packaged cheese slice or wedge (in plastic wrap)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

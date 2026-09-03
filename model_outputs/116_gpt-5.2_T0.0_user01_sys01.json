@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup (thick, with carrots/greens) topped with grated cheese",
+      "portion_estimate": "350 g",
+      "confidence": "72"
+    },
+    {
+      "name": "plain yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "78"
+    },
+    {
+      "name": "slice of white bread",
+      "portion_estimate": "50 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked cauliflower (possibly with light sauce/cheese)",
+      "portion_estimate": "160 g",
+      "confidence": "62"
+    },
+    {
+      "name": "grilled stuffed pastry/panini (rectangular, pressed)",
+      "portion_estimate": "110 g",
+      "confidence": "60"
+    }
+  ]
+}

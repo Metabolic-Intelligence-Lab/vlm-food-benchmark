@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "breaded chicken cutlet",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "diced cucumber",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "water bottle",
+      "portion_estimate": "500",
+      "confidence": "65"
+    }
+  ]
+}

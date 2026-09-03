@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Brussel sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Green curry with chicken and egg",
+      "portion_estimate": "120g (estimated)",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll in plastic packaging",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Apple (medium)",
+      "portion_estimate": "150 g",
+      "confidence": "85"
+    },
+    {
+      "name": "Banana (medium)",
+      "portion_estimate": "120 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Cooked Rice (1/2 cup)",
+      "portion_estimate": "150 g",
+      "confidence": "85"
+    },
+    {
+      "name": "Cooked Chicken (3 oz)",
+      "portion_estimate": "100 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Cooked Carrots (1/2 cup)",
+      "portion_estimate": "100 g",
+      "confidence": "85"
+    },
+    {
+      "name": "Whole Wheat Bread (1 slice)",
+      "portion_estimate": "30 g",
+      "confidence": "90"
+    }
+  ]
+}

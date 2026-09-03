@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "couscous",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread or crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

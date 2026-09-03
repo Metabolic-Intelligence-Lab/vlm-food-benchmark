@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "deep-fried battered squid",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "whole raw garlic bulb",
+      "portion_estimate": "30 grams",
+      "confidence": 85
+    },
+    {
+      "name": "roasted or saut\u00e9ed broccoli florets with olive oil dressing",
+      "portion_estimate": "120 grams",
+      "confidence": 70
+    },
+    {
+      "name": "small roasted or grilled garlic shrimp/ prawns (size uncertain, approximate)",
+      "portion_estimate": "50 grams",
+      "confidence": 65
+    },
+    {
+      "name": "whole navel/orange variety orange",
+      "portion_estimate": "130 grams",
+      "confidence": 80
+    }
+  ]
+}

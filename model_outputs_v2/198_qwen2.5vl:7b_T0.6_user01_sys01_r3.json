@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bun",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "chicken",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "50",
+      "confidence": "80"
+    }
+  ]
+}

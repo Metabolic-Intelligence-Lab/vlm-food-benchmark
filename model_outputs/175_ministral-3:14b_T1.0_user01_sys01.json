@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pan-fried or baked meat, likely pork chop (with visible fat and seasoned crust)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "green beans (saut\u00e9ed or cooked with possible garlic or butter sauce)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed greens (kale or collard greens with visible onion pieces)",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "navel orange (whole, unpeeled)",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "salt packet (partially visible, not food)",
+      "portion_estimate": "10g (conditional, irrelevant for calorie tracking)",
+      "confidence": 90
+    }
+  ]
+}

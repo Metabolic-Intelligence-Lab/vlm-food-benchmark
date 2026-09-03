@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken pieces (crispy breaded)",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "leftover fried chicken piece (battered)",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "soup with chunks (potentially meat, vegetables, and broth)",
+      "portion_estimate": "300",
+      "confidence": 90
+    },
+    {
+      "name": "plain boiled potato (whole)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "leftover fried breaded item (potentially onion rings or similar)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "packaged beverage (red can, likely a soda or energy drink)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

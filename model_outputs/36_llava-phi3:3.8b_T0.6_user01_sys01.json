@@ -1,0 +1,39 @@
+{
+  "tray": [
+    {
+      "type": "plate",
+      "content": [
+        {
+          "name": "grilled chicken",
+          "quantity": "1.5 cups"
+        },
+        {
+          "name": "coleslaw with carrots",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "pickles and cucumbers",
+          "quantity": "2 pieces"
+        },
+        {
+          "name": "bread rolls",
+          "quantity": "1 piece"
+        }
+      ]
+    },
+    {
+      "type": "dish",
+      "content": [
+        {
+          "name": "ketchup in a bowl",
+          "quantity": "0.5 cups"
+        },
+        {
+          "name": "sauce in a cup",
+          "quantity": "0.25 cups"
+        }
+      ]
+    }
+  ],
+  "confidence": 85
+}

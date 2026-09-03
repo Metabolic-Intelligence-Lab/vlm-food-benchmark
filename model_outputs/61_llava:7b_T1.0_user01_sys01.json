@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Tomato Soup",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Breaded and Fried Chicken Patty",
+      "portion_estimate": "60 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Egg Omelette with Vegetables",
+      "portion_estimate": "125 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Roasted Potatoes (Fries)",
+      "portion_estimate": "75 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Breakfast Sandwich",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    }
+  ]
+}

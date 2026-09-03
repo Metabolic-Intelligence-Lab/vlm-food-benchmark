@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "muffin",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

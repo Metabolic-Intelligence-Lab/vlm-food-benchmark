@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "short tube pasta in sauce",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    },
+    {
+      "name": "carrot slices and pieces",
+      "portion_estimate": "45 g",
+      "confidence": "80"
+    },
+    {
+      "name": "green peas",
+      "portion_estimate": "25 g",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed beans, including kidney beans and pale beans",
+      "portion_estimate": "50 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked cabbage or leafy vegetable pieces",
+      "portion_estimate": "35 g",
+      "confidence": "65"
+    },
+    {
+      "name": "thick broth or sauce coating the mixture",
+      "portion_estimate": "50 g",
+      "confidence": "65"
+    }
+  ]
+}

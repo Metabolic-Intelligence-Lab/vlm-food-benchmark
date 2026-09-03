@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetables (peas or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "breaded item",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "pasta with sauce/condiment",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "baked item (chicken or fish)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

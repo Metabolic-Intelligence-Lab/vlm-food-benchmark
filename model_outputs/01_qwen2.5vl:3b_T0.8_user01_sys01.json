@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Green soup",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Dollop of cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Tomato-based dish",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Starch (possibly pasta or rice)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Plastic drinking cup",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

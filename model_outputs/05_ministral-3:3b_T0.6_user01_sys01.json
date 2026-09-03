@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup in a bowl with grated cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "fried potatoes (hash browns)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "roasted potatoes or diced apples (with possible berries)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt cup (red packaging)",
+      "portion_estimate": "150 grams",
+      "confidence": 70
+    },
+    {
+      "name": "baguette or bread roll (partially visible in plastic wrap)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

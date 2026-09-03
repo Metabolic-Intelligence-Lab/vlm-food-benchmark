@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "bagel",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "red apples",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "yellow apple",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "beverage",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

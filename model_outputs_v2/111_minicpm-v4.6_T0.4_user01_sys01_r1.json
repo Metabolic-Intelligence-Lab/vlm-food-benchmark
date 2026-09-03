@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "patty with red sauce and shredded toppings",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "bowtie pasta",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "chopped side dish (likely meat or vegetables)",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "150g",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "name": "soup",
+      "portion": 350,
+      "confidence": 70
+    },
+    {
+      "name": "meat patty with sauce",
+      "portion": 50,
+      "confidence": 70
+    },
+    {
+      "name": "cooked greens",
+      "portion": 100,
+      "confidence": 60
+    },
+    {
+      "name": "cracker snack",
+      "portion": 20,
+      "confidence": 50
+    },
+    {
+      "name": "yogurt",
+      "portion": 50,
+      "confidence": 60
+    },
+    {
+      "name": "cheese stick",
+      "portion": 50,
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion": 200,
+      "confidence": 80
+    }
+  ]
+}

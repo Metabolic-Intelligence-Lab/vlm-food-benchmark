@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (whole wheat, fusilli)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "mixed greens salad with cucumber and lettuce",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes (likely with butter/milk)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "tortilla chips and guacamole/dips (individual pack)",
+      "portion_estimate": "uncertain (approximate 30-40g of chips)",
+      "confidence": 55
+    },
+    {
+      "name": "small whole wheat roll/bun (wrapped)",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "uncertain (approximately 200-250ml)",
+      "confidence": 60
+    }
+  ]
+}

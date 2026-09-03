@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "milk",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "granola or cereal bar with visible nuts and seeds",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "chocolate-covered biscuit or cookie",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

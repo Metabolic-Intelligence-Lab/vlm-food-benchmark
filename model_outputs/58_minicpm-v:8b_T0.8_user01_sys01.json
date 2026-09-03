@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain, approx 200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Peach",
+      "portion_estimate": "uncertain, approx 200-300g",
+      "confidence": "70"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Mushrooms and sauerkraut on egg",
+      "portion_estimate": "uncertain, approx 200-300g",
+      "confidence": "70"
+    }
+  ]
+}

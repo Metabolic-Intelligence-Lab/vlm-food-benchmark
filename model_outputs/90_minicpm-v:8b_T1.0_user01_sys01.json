@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "white rice",
+      "portion_estimate": "150-200g",
+      "confidence": "80"
+    },
+    {
+      "name": "pineapple with sauce",
+      "portion_estimate": "uncertain, approximately 300g total for the dish",
+      "confidence": "60"
+    },
+    {
+      "name": "quinoa or couscous salad",
+      "portion_estimate": "150-200g",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed carrots with pieces of yellow fruit (possibly pineapple)",
+      "portion_estimate": "uncertain, approximately 300g total for the dish",
+      "confidence": "60"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150-200g",
+      "confidence": "70"
+    },
+    {
+      "name": "baguette",
+      "portion_estimate": "uncertain, approximately 4oz or around 113g (estimate)",
+      "confidence": "60"
+    }
+  ]
+}

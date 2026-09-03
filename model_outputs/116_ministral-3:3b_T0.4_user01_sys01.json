@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup (with visible carrots and chunks of meat)",
+      "portion_estimate": "300",
+      "confidence": 95
+    },
+    {
+      "name": "grilled cheese sandwich (half of a slice of bread with cheese)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "shredded cheese (on the plate)",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "water (clear plastic cup)",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "packaged yogurt (red label)",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "salt packet (on tray)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sugar packet (on tray)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

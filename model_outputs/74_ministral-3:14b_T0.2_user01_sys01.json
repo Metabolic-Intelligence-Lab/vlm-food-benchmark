@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "diced sweet potato or butternut squash",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "whole wheat or white bread roll",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "fresh green beans",
+      "portion_estimate": "100",
+      "confidence": 88
+    },
+    {
+      "name": "pasta with tomato sauce and mixed vegetables (e.g., bow-tie pasta with diced tomatoes, carrots, and herbs)",
+      "portion_estimate": "200",
+      "confidence": 92
+    },
+    {
+      "name": "water (in clear plastic cup)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

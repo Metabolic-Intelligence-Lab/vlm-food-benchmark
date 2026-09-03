@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken or turkey meatball with sauce and shredded cabbage/lettuce",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pasta (bowtie/farfalle) with oil or seasoning",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "shredded chicken or turkey breast",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "condiment sauce (likely tomato-based or marinara) in small container",
+      "portion_estimate": "uncertain (likely 30-50 grams)",
+      "confidence": 55
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    }
+  ]
+}

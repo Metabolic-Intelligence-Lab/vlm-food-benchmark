@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "croissant roll",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "scrambled potatoes",
+      "portion_estimate": "180",
+      "confidence": 70
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "100",
+      "confidence": 60
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "80",
+      "confidence": 60
+    },
+    {
+      "name": "apples",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "toast",
+      "portion_estimate": "50",
+      "confidence": 65
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120",
+      "confidence": 80
+    }
+  ]
+}

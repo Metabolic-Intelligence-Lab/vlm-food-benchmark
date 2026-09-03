@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "mixed rice with mixed vegetables (carrots, peas, corn, green beans)",
+      "portion_estimate": "200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "baked potatoes with a filling (likely meat and cheese)",
+      "portion_estimate": "220 grams",
+      "confidence": 92
+    },
+    {
+      "name": "yogurt drink (likely flavored with fruit or berries)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "plain boiled egg",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    }
+  ]
+}

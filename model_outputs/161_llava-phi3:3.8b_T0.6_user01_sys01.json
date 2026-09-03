@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Vegetable Salad with Feta Cheese",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Peach",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "200g",
+      "confidence": "75"
+    },
+    {
+      "name": "Apricots (three)",
+      "portion_estimate": "uncertain, approximately 1-3 oz each",
+      "confidence": "60"
+    },
+    {
+      "name": "Brussel sprouts with purple cabbage and yellow corn",
+      "portion_estimate": "uncertain, approximately 5-10oz total for all items combined",
+      "confidence": "70"
+    }
+  ]
+}

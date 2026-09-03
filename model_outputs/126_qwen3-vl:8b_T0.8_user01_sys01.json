@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Rigatoni with tomato sauce and parmesan",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "Veggie patty",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "Shredded vegetables (likely zucchini)",
+      "portion_estimate": "30g",
+      "confidence": 70
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt (YOKO brand)",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200g",
+      "confidence": 90
+    }
+  ]
+}

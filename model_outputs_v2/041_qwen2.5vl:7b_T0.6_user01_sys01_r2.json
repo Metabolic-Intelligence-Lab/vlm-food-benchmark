@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "cheese and spinach omelette",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "salad with mixed greens and cucumbers",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50 grams",
+      "confidence": 60
+    }
+  ]
+}

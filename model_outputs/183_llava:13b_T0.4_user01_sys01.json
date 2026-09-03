@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked pastry or quiche",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "soup (lentil or bean-based)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "brussel sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "potatoes or breaded chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

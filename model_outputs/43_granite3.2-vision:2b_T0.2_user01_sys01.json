@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta in red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

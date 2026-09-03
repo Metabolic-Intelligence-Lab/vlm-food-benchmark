@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried pasta (penne) with meat sauce",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "fried chicken or pork cutlet",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "grilled eggplant with lettuce",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetable salad (cucumber, carrot, onion, and shredded chicken or tofu)",
+      "portion_estimate": "200 grams",
+      "confidence": 75
+    },
+    {
+      "name": "baguette or roll",
+      "portion_estimate": "80 grams",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "food_items": [
+        {
+            "name": "Soup",
+            "portion_estimate": "200 g",
+            "confidence": 95
+        },
+        {
+            "name": "Diced Potatoes",
+            "portion_estimate": "150 g",
+            "confidence": 90
+        },
+        {
+            "name": "Omelet with Meat",
+            "portion_estimate": "120 g",
+            "confidence": 95
+        },
+        {
+            "name": "Bread Roll (Bun)",
+            "portion_estimate": "50 g",
+            "confidence": 95
+        },
+        {
+            "name": "Yogurt or Dip",
+            "portion_estimate": "10 g",

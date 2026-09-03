@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli and potato cubes",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "soup with grated cheese",
+      "portion_estimate": "350",
+      "confidence": 85
+    },
+    {
+      "name": "small bun or bread roll",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "potato and vegetable tart or pie",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "lemon",
+      "portion_estimate": "100",
+      "confidence": 95
+    }
+  ]
+}

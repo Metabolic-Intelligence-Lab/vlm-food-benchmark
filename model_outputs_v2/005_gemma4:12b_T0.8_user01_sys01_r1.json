@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Butternut squash soup with grated cheese",
+      "portion_estimate": "350g",
+      "confidence": 95
+    },
+    {
+      "name": "Breaded chicken nuggets",
+      "portion_estimate": "210g",
+      "confidence": 95
+    },
+    {
+      "name": "Roasted cubed side dish (potatoes or croutons)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Crackers in plastic packaging",
+      "portion_estimate": "40g",
+      "confidence": 80
+    }
+  ]
+}

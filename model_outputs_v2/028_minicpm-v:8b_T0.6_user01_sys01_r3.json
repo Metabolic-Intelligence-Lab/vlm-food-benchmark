@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato-based sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Baked potato",
+      "portion_estimate": "approx. 180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Sliced deli meat on a bun (possibly ham or turkey)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Green leafy vegetables, possibly saut\u00e9ed spinach",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Cucumber and red cabbage salad with dressing",
+      "portion_estimate": "approx. 15g (per serving)",
+      "confidence": "80"
+    }
+  ]
+}

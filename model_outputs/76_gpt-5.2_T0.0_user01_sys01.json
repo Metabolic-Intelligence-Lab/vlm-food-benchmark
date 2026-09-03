@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "shell pasta (orecchiette/conchiglie) with tomato/vegetable sauce and herbs",
+      "portion_estimate": "220 g",
+      "confidence": "72"
+    },
+    {
+      "name": "couscous salad with mixed vegetables (broccoli/greens, red pepper pieces)",
+      "portion_estimate": "140 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll (small bun)",
+      "portion_estimate": "55 g",
+      "confidence": "78"
+    },
+    {
+      "name": "stuffed eggplant roll (eggplant slice wrapped with shredded vegetables/cheese filling)",
+      "portion_estimate": "90 g",
+      "confidence": "60"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    }
+  ]
+}

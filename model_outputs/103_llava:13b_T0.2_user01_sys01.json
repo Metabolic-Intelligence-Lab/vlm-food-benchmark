@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "minestrone soup",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "grilled salmon",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "steamed cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "small bowl of side dish/condiment",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

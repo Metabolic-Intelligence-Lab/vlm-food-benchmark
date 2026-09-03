@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cottage cheese",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "saut\u00e9ed green vegetables",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "whole grain bread roll",
+      "portion_estimate": "80g",
+      "confidence": 90
+    },
+    {
+      "name": "baked white fish fillets",
+      "portion_estimate": "140g",
+      "confidence": 95
+    },
+    {
+      "name": "saut\u00e9ed diced potatoes",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "long meat stick or snack stick",
+      "portion_estimate": "50g",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (macaroni or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "breaded and fried meat or vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "roasted meat (chicken or pork)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "steamed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "cake or bread pudding",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "fresh fruit (plums or cherries)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken breast (or similar protein, breaded and partially consumed)",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "pasta (penne or similar shape) with tomato-based sauce",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "shredded orange carrot salad",
+      "portion_estimate": "30",
+      "confidence": 85
+    },
+    {
+      "name": "red cabbage or purple cabbage salad",
+      "portion_estimate": "40",
+      "confidence": 80
+    },
+    {
+      "name": "white cheese or mozzarella ball (partially consumed)",
+      "portion_estimate": "25",
+      "confidence": 75
+    },
+    {
+      "name": "whole-grain bread slice (partially consumed)",
+      "portion_estimate": "40",
+      "confidence": 85
+    },
+    {
+      "name": "water (in clear plastic cup)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

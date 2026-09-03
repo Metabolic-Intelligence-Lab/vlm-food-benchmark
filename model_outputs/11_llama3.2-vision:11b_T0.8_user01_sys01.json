@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "shredded lettuce and cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange-colored item",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

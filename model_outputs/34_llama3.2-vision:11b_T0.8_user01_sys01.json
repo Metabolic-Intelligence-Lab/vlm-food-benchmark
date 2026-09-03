@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green Vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Egg",
+      "portion_estimate": "1",
+      "confidence": 100
+    },
+    {
+      "name": "Bread or Pastry",
+      "portion_estimate": "1",
+      "confidence": 100
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Fruit",
+      "portion_estimate": "1",
+      "confidence": 100
+    }
+  ]
+}

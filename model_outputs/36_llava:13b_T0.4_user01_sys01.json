@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "cabbage salad with cucumber and carrot",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "sauce in a bowl",
+      "portion_estimate": "15g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "30g",
+      "confidence": "80"
+    },
+    {
+      "name": "meatballs in gravy",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    }
+  ]
+}

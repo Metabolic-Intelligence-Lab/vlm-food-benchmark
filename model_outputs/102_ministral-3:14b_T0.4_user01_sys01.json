@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "biscuit or dinner roll",
+      "portion_estimate": "60",
+      "confidence": "90"
+    },
+    {
+      "name": "fried chicken patty with coleslaw",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "mashed potatoes with mixed vegetables (e.g., peas, carrots)",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "soda (Sprite or similar lemon-lime flavored)",
+      "portion_estimate": "300",
+      "confidence": "95"
+    },
+    {
+      "name": "clear broth or consomm\u00e9 (partially consumed)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "granulated sugar or sweetener packet",
+      "portion_estimate": "5",
+      "confidence": "75"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "dark sauce (chili or stew)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "grilled chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "grain dish (rice or couscous)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sour cream or yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "condiments or seasoning",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

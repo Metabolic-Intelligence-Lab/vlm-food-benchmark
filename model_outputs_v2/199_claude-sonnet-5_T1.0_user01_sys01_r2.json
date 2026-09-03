@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto sauce and grated cheese",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "baked white fish fillet with breaded/gratin topping",
+      "portion_estimate": "100",
+      "confidence": "55"
+    },
+    {
+      "name": "green peas with diced pancetta/bacon",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll (panino)",
+      "portion_estimate": "60",
+      "confidence": "80"
+    }
+  ]
+}

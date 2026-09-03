@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    },
+    {
+      "name": "Koko yogurt",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed greens salad with carrots",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded chicken cutlet",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "chickpea soup with cheese",
+      "portion_estimate": "220g",
+      "confidence": "80"
+    }
+  ]
+}

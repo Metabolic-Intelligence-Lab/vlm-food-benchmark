@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green pasta (penne)",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "baked stuffed mushroom cap",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked peas",
+      "portion_estimate": "75",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked ham",
+      "portion_estimate": "30",
+      "confidence": "70"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "60",
+      "confidence": "90"
+    }
+  ]
+}

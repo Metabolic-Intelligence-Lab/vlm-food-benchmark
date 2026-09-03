@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup (pureed) with grated cheese on top",
+      "portion_estimate": "320 g",
+      "confidence": "75"
+    },
+    {
+      "name": "grated cheese topping (likely parmesan) on soup",
+      "portion_estimate": "8 g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "savory vegetable patty/cake (orange-colored) with tomato slice on top",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "cooked cauliflower pieces",
+      "portion_estimate": "110 g",
+      "confidence": "65"
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "75"
+    }
+  ]
+}

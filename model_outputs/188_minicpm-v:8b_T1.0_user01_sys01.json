@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "carrot and lentil soup",
+      "portion_estimate": "uncertain, estimate based on container volume.",
+      "confidence": "60"
+    },
+    {
+      "name": "potato quiche slice with greens",
+      "portion_estimate": "uncertain, estimate based on plate area. approx 150g -200g for the potato and spinach combo",
+      "confidence": "70"
+    }
+  ]
+}

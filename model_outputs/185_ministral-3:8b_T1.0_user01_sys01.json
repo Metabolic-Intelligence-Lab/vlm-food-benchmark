@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti squash noodles",
+      "portion_estimate": "400g",
+      "confidence": 80
+    },
+    {
+      "name": "roasted potatoes with herbed seasoning",
+      "portion_estimate": "350g",
+      "confidence": 85
+    },
+    {
+      "name": "grilled meat (likely pork or chicken)",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "saut\u00e9ed or garnish herbs (e.g., parsley, chives)",
+      "portion_estimate": "5g",
+      "confidence": 60
+    },
+    {
+      "name": "dish garnish (likely bacon or crispy potato bits)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "plain white wine (partial glass)",
+      "portion_estimate": "150ml (\u2248120g)",
+      "confidence": 70
+    }
+  ]
+}

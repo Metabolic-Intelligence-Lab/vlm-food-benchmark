@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken noodle soup with vegetables",
+      "portion_estimate": "300",
+      "confidence": "85"
+    },
+    {
+      "name": "cheddar cheese slices",
+      "portion_estimate": "30",
+      "confidence": "80"
+    },
+    {
+      "name": "grilled cheese sandwich",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "caesar salad",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

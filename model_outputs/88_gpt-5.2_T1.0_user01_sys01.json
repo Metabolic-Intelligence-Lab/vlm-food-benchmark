@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with herbs/oil and grated cheese",
+      "portion_estimate": "230 g",
+      "confidence": "78"
+    },
+    {
+      "name": "bread roll (white, packaged)",
+      "portion_estimate": "70 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked barley (or farro) with green peas",
+      "portion_estimate": "180 g",
+      "confidence": "62"
+    },
+    {
+      "name": "slice of savory quiche/frittata (egg-based, with mushrooms/vegetables)",
+      "portion_estimate": "150 g",
+      "confidence": "58"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    }
+  ]
+}

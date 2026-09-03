@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Frittata with carrots, potatoes, and mushrooms",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Mixed vegetable and rice dish",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Apricots",
+      "portion_estimate": "100 grams",
+      "confidence": 60
+    }
+  ]
+}

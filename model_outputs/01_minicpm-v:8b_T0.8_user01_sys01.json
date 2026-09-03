@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "butter on bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "milkshake",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "yogurt with berries",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mushroom soup",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

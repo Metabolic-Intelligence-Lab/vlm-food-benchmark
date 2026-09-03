@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "70",
+      "confidence": 90
+    },
+    {
+      "name": "ham-wrapped stuffed chicken breast",
+      "portion_estimate": "90",
+      "confidence": 80
+    },
+    {
+      "name": "vegetable soup with grated cheese",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat bread roll",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "strawberry yogurt",
+      "portion_estimate": "125",
+      "confidence": 95
+    },
+    {
+      "name": "water (in cup)",
+      "portion_estimate": "200",
+      "confidence": 90
+    }
+  ]
+}

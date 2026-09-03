@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with beans",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "baked vegetables (likely squash, zucchini)",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "pizza slice",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    }
+  ]
+}

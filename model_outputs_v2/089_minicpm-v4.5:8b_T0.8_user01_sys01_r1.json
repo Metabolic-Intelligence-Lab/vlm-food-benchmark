@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white rice with grated cheese and oil",
+      "portion_estimate": "200-250 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "100-120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "white fish fillet",
+      "portion_estimate": "80-100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "bun or roll",
+      "portion_estimate": "50-60 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "yellow pear",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    }
+  ]
+}

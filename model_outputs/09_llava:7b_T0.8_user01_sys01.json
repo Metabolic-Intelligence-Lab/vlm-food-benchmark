@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta dish with red sauce",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Rolled meat with sauce",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Caesar salad with croutons and shredded cheese",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "hearty soup",
+      "portion_estimate": "400g",
+      "confidence": 95
+    },
+    {
+      "name": "topped bread slice",
+      "portion_estimate": "40g",
+      "confidence": 90
+    },
+    {
+      "name": "creamy sauce",
+      "portion_estimate": "60g",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80g",
+      "confidence": 90
+    },
+    {
+      "name": "coffee",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250g",
+      "confidence": 90
+    }
+  ]
+}

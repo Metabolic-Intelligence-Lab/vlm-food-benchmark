@@ -1,0 +1,23 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded Fish",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Steamed Spinach",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Roasted Brussels Sprouts",
+      "portion_estimate": "100g"
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "85g",
+      "confidence": "70"
+    }
+  ]
+}

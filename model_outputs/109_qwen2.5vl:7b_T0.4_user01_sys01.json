@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150",
+      "confidence": "85"
+    }
+  ]
+}

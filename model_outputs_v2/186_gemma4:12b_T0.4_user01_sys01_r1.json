@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked rice with meat and vegetable pieces",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "70g",
+      "confidence": "90"
+    },
+    {
+      "name": "Sliced cooked meat",
+      "portion_estimate": "130g",
+      "confidence": "90"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250g",
+      "confidence": "95"
+    }
+  ]
+}

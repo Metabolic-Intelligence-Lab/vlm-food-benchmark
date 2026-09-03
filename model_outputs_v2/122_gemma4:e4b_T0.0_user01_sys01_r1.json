@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Banana",
+      "portion_estimate": "110",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread roll or bun",
+      "portion_estimate": "80",
+      "confidence": "90"
+    },
+    {
+      "name": "Mixed nuts and seeds (pile 1)",
+      "portion_estimate": "30",
+      "confidence": "85"
+    },
+    {
+      "name": "Sliced orange or carrot pieces",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "Mixed nuts and seeds (pile 2)",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried wontons or chips",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "Beverage or yogurt (in cup)",
+      "portion_estimate": "200",
+      "confidence": "75"
+    }
+  ]
+}

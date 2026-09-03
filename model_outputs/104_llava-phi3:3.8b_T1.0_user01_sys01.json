@@ -1,0 +1,34 @@
+{
+  "meal_components": [
+    {
+      "name": "Baked beans",
+      "container": "white bowl"
+    },
+    {
+      "name": "Soup with cheese and noodles",
+      "container": "white bowl"
+    },
+    {
+      "name": "Pasta salad with shrimp",
+      "dishware": "plate"
+    },
+    {
+      "name": "Fresh broccoli and carrots",
+      "dishware": "plate"
+    },
+    {
+      "name": "Yogurt",
+      "container": "plastic tub"
+    },
+    {
+      "name": "Bagel",
+      "packaging": "white bag"
+    }
+  ],
+  "condiments": [
+    {
+      "item": "sugar",
+      "container": "cubed sugar container"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Potato Balls",
+      "portion_estimate": "60g",
+      "confidence": 85
+    },
+    {
+      "name": "Pasta with Sauce",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "Strawberry Yogurt",
+      "portion_estimate": "125g",
+      "confidence": 90
+    }
+  ]
+}

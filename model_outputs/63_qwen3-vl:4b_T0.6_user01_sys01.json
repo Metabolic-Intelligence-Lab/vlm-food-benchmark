@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "Chicken vegetable salad",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "Stuffed mushroom",
+      "portion_estimate": "50g",
+      "confidence": 65
+    },
+    {
+      "name": "Small bread roll",
+      "portion_estimate": "60g",
+      "confidence": 70
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250g",
+      "confidence": 90
+    }
+  ]
+}

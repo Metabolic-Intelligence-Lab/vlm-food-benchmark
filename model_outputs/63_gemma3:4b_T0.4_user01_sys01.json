@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Meat Sauce",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Eggplant with Sauce",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "Sliced Ham",
+      "portion_estimate": "50g",
+      "confidence": 65
+    },
+    {
+      "name": "Water Bottle",
+      "portion_estimate": "600ml",
+      "confidence": 95
+    }
+  ]
+}

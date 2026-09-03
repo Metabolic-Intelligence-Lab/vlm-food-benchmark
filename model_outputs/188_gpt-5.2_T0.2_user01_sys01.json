@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup (thick, possibly lentil/bean with carrots)",
+      "portion_estimate": "400 g",
+      "confidence": "72"
+    },
+    {
+      "name": "baked salmon fillet",
+      "portion_estimate": "140 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked spinach (possibly creamed)",
+      "portion_estimate": "120 g",
+      "confidence": "68"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "150 g",
+      "confidence": "63"
+    },
+    {
+      "name": "water (in cup)",
+      "portion_estimate": "250 g",
+      "confidence": "62"
+    }
+  ]
+}

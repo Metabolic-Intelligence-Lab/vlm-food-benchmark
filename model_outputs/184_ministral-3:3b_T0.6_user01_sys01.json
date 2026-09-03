@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "corned beef roll (or pastrami sandwich piece)",
+      "portion_estimate": "30 grams (approximate from half of a typical 60g serving)",
+      "confidence": 90
+    },
+    {
+      "name": "lettuce/tomato salad mix (bowl)",
+      "portion_estimate": "100 grams (assumed typical serving size)",
+      "confidence": 85
+    },
+    {
+      "name": "corned beef roll (wrapped, whole)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pickle (whole, likely a dill pickle)",
+      "portion_estimate": "30 grams (typical size)",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll (sourdough or similar, partially visible)",
+      "portion_estimate": "120 grams (assuming whole roll size)",
+      "confidence": 80
+    }
+  ]
+}

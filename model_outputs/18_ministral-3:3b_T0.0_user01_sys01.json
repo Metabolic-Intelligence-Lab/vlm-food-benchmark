@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish slices on toast",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "roasted carrot salad with cabbage",
+      "portion_estimate": 120,
+      "confidence": 80
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "water (clear glass)",
+      "portion_estimate": 200,
+      "confidence": 70
+    }
+  ]
+}

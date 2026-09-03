@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roasted potatoes and broccoli",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "hard-boiled egg",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "chicken noodle soup",
+      "portion_estimate": "250",
+      "confidence": 80
+    },
+    {
+      "name": "grilled cheese sandwich",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150",
+      "confidence": 85
+    }
+  ]
+}

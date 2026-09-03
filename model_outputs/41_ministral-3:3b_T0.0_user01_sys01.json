@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with orange sauce and grated cheese",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "whole baked fish stuffed with herbs (likely salmon or cod)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "mixed salad with cabbage, cucumber, and possibly radish",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "mandarin oranges (peeled, 3 visible)",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "packaged cream or butter (small container)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "carrots (root vegetable)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

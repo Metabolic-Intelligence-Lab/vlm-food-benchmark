@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni with carrots and potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta with Parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "blue fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cake",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

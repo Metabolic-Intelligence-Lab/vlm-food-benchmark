@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with tomato sauce and grated cheese",
+      "portion_estimate": "220",
+      "confidence": 80
+    },
+    {
+      "name": "spinach/vegetable patty (polpetta)",
+      "portion_estimate": "90",
+      "confidence": 55
+    },
+    {
+      "name": "yogurt-based sauce with shredded zucchini/cucumber on patty",
+      "portion_estimate": "30",
+      "confidence": 45
+    },
+    {
+      "name": "boiled potatoes with cabbage/cauliflower",
+      "portion_estimate": "100",
+      "confidence": 55
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt cup (Yomo)",
+      "portion_estimate": "125",
+      "confidence": 75
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150",
+      "confidence": 60
+    },
+    {
+      "name": "wrapped sliced bread or cracker pack",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

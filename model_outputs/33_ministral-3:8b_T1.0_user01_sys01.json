@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "medley of saut\u00e9ed mixed vegetables (carrots, peppers, peas, zucchini) with a large tomato slice on polenta",
+      "portion_estimate": "250g (estimated combined weight of veggies and polenta)",
+      "confidence": 85
+    },
+    {
+      "name": "pasta (spaghetti) with tomato-based sauce",
+      "portion_estimate": "200g (cooked spaghetti)",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat roll",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "water in clear plastic cup",
+      "portion_estimate": "uncertain (no clear reference, assume ~250ml if filled to ~10cm tall)",
+      "confidence": 55
+    }
+  ]
+}

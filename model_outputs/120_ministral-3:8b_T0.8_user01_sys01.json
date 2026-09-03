@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cotoletta (breaded meat cutlet, likely chicken or veal)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "cauliflower florets (steamed or boiled)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "creamy soup with toppings (possibly tomato-based or broccoli cheese soup)",
+      "portion_estimate": "300 grams",
+      "confidence": 75
+    },
+    {
+      "name": "single-serving yogurt (Yoplait, strawberry flavor, ~100g container)",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "packaged breadstick or cracker (likely garlic flavor)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

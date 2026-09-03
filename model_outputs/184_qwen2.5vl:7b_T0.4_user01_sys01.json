@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed salad",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "100",
+      "confidence": "60"
+    }
+  ]
+}

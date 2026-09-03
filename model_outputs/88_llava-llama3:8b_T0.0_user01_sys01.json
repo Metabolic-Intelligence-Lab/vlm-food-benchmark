@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "brown noodles with green herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "rice with green peas",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "slice of pizza",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "ripe banana",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

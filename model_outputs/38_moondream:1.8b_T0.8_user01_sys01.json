@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta and vegetables (broccoli, carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bread or biscuits with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

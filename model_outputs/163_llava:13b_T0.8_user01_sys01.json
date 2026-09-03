@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green chili soup",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "naan bread with condiment",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green leafy vegetable salad (kale or spinach)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread rolls and butter/margarine",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "casserole or baked dish (with mushrooms, spinach, and other vegetables)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

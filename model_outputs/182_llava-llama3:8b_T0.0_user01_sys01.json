@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "steamed broccoli florets",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "pizza",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "light brown pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "oranges",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

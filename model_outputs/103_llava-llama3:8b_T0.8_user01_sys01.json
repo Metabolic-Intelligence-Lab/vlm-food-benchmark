@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "two pieces of meat",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange soup",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fruit smoothie",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

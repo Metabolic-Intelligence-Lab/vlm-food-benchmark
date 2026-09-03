@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Tuna",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Canned Peas",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Canned Beans",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Canned Corn",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

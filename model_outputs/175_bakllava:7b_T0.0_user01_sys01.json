@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "meat and beans",
+      "portion_estimate": "200",
+      "confidence": 70
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "150",
+      "confidence": 80
+    }
+  ]
+}

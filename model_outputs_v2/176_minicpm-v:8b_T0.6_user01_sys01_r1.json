@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with a sprinkle of cheese",
+      "portion_estimate": "uncertain, approx 200g-300g",
+      "confidence": "50"
+    },
+    {
+      "name": "Tomato and mozzarella caprese salad on toast",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain, approx 70-90g",
+      "confidence": "40"
+    },
+    {
+      "name": "Cauliflower with olives",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "60"
+    }
+  ]
+}

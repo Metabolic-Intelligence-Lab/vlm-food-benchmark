@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fried potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

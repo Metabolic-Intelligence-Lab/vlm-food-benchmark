@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce and grated cheese",
+      "portion_estimate": 200,
+      "confidence": 90
+    },
+    {
+      "name": "mixed stir-fried vegetables (carrots, peas, broccoli, mushrooms)",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "small piece of quiche or frittata (likely spinach and cheese)",
+      "portion_estimate": 50,
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or baguette roll",
+      "portion_estimate": 80,
+      "confidence": 80
+    },
+    {
+      "name": "pear",
+      "portion_estimate": 180,
+      "confidence": 95
+    }
+  ]
+}

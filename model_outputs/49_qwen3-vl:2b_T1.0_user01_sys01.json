@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (rigatoni)",
+      "portion_estimate": "80",
+      "confidence": "85"
+    },
+    {
+      "name": "Black olives",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "Tomatoes",
+      "portion_estimate": "20",
+      "confidence": "85"
+    },
+    {
+      "name": "Meat (chicken/tuna)",
+      "portion_estimate": "15",
+      "confidence": "85"
+    },
+    {
+      "name": "White sauce",
+      "portion_estimate": "20",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "plate of salad with tomatoes, cheese, and lettuce",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baked potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200 milliliters",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125 grams",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "dinner roll",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "purple cabbage salad",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "carrot",
+      "portion_estimate": "30",
+      "confidence": "95"
+    },
+    {
+      "name": "green leafy vegetable - uncertain type",
+      "portion_estimate": "75",
+      "confidence": "65"
+    },
+    {
+      "name": "starchy pancake - uncertain type",
+      "portion_estimate": "100",
+      "confidence": "70"
+    }
+  ]
+}

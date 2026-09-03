@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup (likely vegetable or chicken)",
+      "portion_estimate": "400",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat roll or bread",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "mixed salad (lettuce, cucumber, tomato, onion)",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "two meatballs (likely beef or turkey)",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (plain or flavored)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "water (in clear plastic cup)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

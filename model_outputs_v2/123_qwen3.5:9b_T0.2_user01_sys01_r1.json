@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bowtie pasta (farfalle) with grated cheese",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Fried potato wedges",
+      "portion_estimate": 140,
+      "confidence": 92
+    },
+    {
+      "name": "Omelet or frittata slice",
+      "portion_estimate": 85,
+      "confidence": 90
+    },
+    {
+      "name": "Whole banana",
+      "portion_estimate": 130,
+      "confidence": 96
+    },
+    {
+      "name": "Water",
+      "portion_estimate": 240,
+      "confidence": 85
+    }
+  ]
+}

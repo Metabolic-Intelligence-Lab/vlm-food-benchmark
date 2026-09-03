@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken breast (breaded, cooked)",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "french fries (oven-baked or fried, with seasoning)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "coleslaw (cabbage and carrot mix with mayonnaise-based dressing)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "stuffed mushroom (mushroom cap filled with coleslaw or similar mixture)",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "biscuit or dinner roll (plain, baked)",
+      "portion_estimate": "50g",
+      "confidence": 85
+    }
+  ]
+}

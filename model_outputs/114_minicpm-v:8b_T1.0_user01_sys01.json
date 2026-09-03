@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "French fries",
+      "portion_estimate": "180g (approximate weight based on typical serving size)",
+      "confidence": "95"
+    },
+    {
+      "name": "Grilled chicken breast with potato wedges",
+      "portion_estimate": "125-140g grilled chicken, 70g potato wedges (approximate weights for estimated portion sizes)",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain; bread slice visible but size and weight not clear without context or unit of measurement.",
+      "confidence": "60"
+    },
+    {
+      "name": "Yo! Greek yogurt with honey",
+      "portion_estimate": "50g (based on typical container size)",
+      "confidence": "90"
+    }
+  ]
+}

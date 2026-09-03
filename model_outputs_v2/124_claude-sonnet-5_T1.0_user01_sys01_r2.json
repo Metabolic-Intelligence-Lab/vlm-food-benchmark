@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried fish pieces (chunks)",
+      "portion_estimate": "130",
+      "confidence": "70"
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "10",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded fried fish fillet",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "vegetable and grain soup with grated cheese (parmesan)",
+      "portion_estimate": "300",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged butter pat",
+      "portion_estimate": "10",
+      "confidence": "65"
+    },
+    {
+      "name": "fruit yogurt or dessert cup (Yomo brand)",
+      "portion_estimate": "125",
+      "confidence": "60"
+    }
+  ]
+}

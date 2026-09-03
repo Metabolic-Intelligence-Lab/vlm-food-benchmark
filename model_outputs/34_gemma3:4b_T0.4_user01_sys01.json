@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Greek Salad",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "Slice of Bread",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "Fried Egg",
+      "portion_estimate": "50",
+      "confidence": 65
+    }
+  ]
+}

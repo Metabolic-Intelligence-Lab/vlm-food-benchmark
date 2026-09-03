@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "sweet potato noodles",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted potatoes with seasoning",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "fishcake with coleslaw",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

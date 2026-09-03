@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Vegetables (Brussels Sprouts)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Salmon with Creamy Sauce and Herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Rice or Grain-Based Side Dish",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Roll (Bread)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "Butter or Spreadable Condiment",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

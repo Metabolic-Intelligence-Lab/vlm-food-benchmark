@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken breast with sauce",
+      "portion_estimate": "uncertain, approximately 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed vegetables (possibly zucchini and squash)",
+      "portion_estimate": "uncertain, approximately 200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Broccoli with cheese",
+      "portion_estimate": "uncertain, possibly around 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole orange fruit",
+      "portion_estimate": "uncertain, approximately 80g",
+      "confidence": "70"
+    }
+  ]
+}

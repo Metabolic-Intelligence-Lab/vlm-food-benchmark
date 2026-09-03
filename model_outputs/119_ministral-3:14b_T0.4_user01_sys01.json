@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "arancini (fried risotto balls) with breadcrumb coating",
+      "portion_estimate": "450",
+      "confidence": "85"
+    },
+    {
+      "name": "lentil soup with vegetables",
+      "portion_estimate": "400",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (partially visible in plastic wrap)",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt drink (Tomato brand, partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "water (in clear glass)",
+      "portion_estimate": "300",
+      "confidence": "90"
+    }
+  ]
+}

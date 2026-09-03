@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "salad with shredded carrots and greens",
+      "portion_estimate": "150g",
+      "confidence": 70
+    },
+    {
+      "name": "ground meat patty",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "roasted potato cubes",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50g",
+      "confidence": 60
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "30g",
+      "confidence": 80
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200g",
+      "confidence": 80
+    }
+  ]
+}

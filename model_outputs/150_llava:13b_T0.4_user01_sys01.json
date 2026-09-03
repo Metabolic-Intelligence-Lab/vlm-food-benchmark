@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta with vegetables (broccoli, carrots, herbs)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meat or bean chili",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

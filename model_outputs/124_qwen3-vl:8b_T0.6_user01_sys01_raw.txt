@@ -1,0 +1,39 @@
+### Distinct Visible Food and Beverage Items with Estimated Portion Sizes
+
+1. **Lemon slice**  
+   - **Estimated portion size**: Approximately 30g  
+   - **Reasoning**: A single slice of lemon is typically small (e.g., 1–2 cm thick), and based on visual estimation, it aligns with standard lemon slice measurements.  
+   - **Confidence level**: 60% (due to limited visibility of the exact size).
+
+2. **Breaded chicken**  
+   - **Estimated portion size**: Approximately 100g  
+   - **Reasoning**: The plate contains multiple pieces of breaded chicken, and the total visible portion (across both plates) is estimated to be around 100g. This is based on typical serving sizes for breaded chicken (e.g., 2–3 pieces, each ~30–40g).  
+   - **Confidence level**: 80% (clear visibility of the items, but exact count/size may vary slightly).
+
+3. **Soup**  
+   - **Estimated portion size**: Approximately 220g  
+   - **Reasoning**: The soup appears to be served in a standard bowl, and based on visual estimation (depth, width, and typical bowl volume), it aligns with common soup serving sizes (e.g., 200–250g).  
+   - **Confidence level**: 70% (visible volume, but exact weight depends on density).
+
+4. **Bread roll**  
+   - **Estimated portion size**: Approximately 50g  
+   - **Reasoning**: A single bread roll is typically around 50g (e.g., a standard dinner roll or similar size). Visual estimation confirms this.  
+   - **Confidence level**: 70% (clear visibility of the roll, but exact weight may vary slightly).
+
+5. **Yogurt**  
+   - **Estimated portion size**: Approximately 100g  
+   - **Reasoning**: The container appears to be a standard small yogurt cup (e.g., 100g or 150g), and based on typical packaging, it is estimated to be 100g.  
+   - **Confidence level**: 90% (clear visibility of the container and label, if present).
+
+---
+
+### Summary of Items
+| Item            | Estimated Portion Size | Confidence Level |
+|------------------|------------------------|------------------|
+| Lemon slice      | ~30g                   | 60%              |
+| Breaded chicken  | ~100g                  | 80%              |
+| Soup             | ~220g                  | 70%              |
+| Bread roll       | ~50g                   | 70%              |
+| Yogurt           | ~100g                  | 90%              |
+
+**Note**: All estimates are based on visual assessment. Actual weights may vary slightly due to factors like ingredient density or serving style. No beverages (e.g., drinks) are visible in the image.

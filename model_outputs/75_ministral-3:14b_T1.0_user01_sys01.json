@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet (likely cod or haddock)",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "steamed vegetables (green beans, zucchini, carrots mix)",
+      "portion_estimate": 180,
+      "confidence": 85
+    },
+    {
+      "name": "canned baked beans (heated)",
+      "portion_estimate": 200,
+      "confidence": 88
+    },
+    {
+      "name": "whole wheat or whole grain roll/bun",
+      "portion_estimate": 80,
+      "confidence": 80
+    },
+    {
+      "name": "glass of carbonated water (diet/zero-sugar, partially consumed)",
+      "portion_estimate": 150,
+      "confidence": 70
+    },
+    {
+      "name": "cream-based condiment (e.g., tartar sauce or white sauce)",
+      "portion_estimate": 30,
+      "confidence": 75
+    }
+  ]
+}

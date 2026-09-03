@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce and cherry tomatoes",
+      "portion_estimate": "200-250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "roasted brussels sprouts and potato wedges",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "white fish fillet with herbs",
+      "portion_estimate": "100-120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "roast chicken pieces",
+      "portion_estimate": "50-70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50-60 grams",
+      "confidence": 90
+    },
+    {
+      "name": "yogurt (Yomo brand)",
+      "portion_estimate": "125 grams",
+      "confidence": 95
+    },
+    {
+      "name": "crushed ice or sugar in clear bowl",
+      "portion_estimate": "50-100 grams",
+      "confidence": 70
+    }
+  ]
+}

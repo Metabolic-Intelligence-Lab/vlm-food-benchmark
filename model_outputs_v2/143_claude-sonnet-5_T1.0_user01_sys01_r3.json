@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked fish fillet (2 pieces)",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "roasted potato cubes with herbs",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "steamed broccoli florets",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "whole grain bread slices, wrapped",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt cup (packaged, brand Yomo)",
+      "portion_estimate": "125",
+      "confidence": "65"
+    }
+  ]
+}

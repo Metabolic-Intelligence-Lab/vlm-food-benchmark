@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked farfalle pasta with grated cheese (likely parmesan)",
+      "portion_estimate": "260 g",
+      "confidence": "72"
+    },
+    {
+      "name": "baked omelette/frittata slice (egg-based)",
+      "portion_estimate": "140 g",
+      "confidence": "64"
+    },
+    {
+      "name": "potato wedges (roasted/baked)",
+      "portion_estimate": "170 g",
+      "confidence": "70"
+    },
+    {
+      "name": "banana (whole, unpeeled)",
+      "portion_estimate": "120 g",
+      "confidence": "78"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "250 g",
+      "confidence": "74"
+    }
+  ]
+}

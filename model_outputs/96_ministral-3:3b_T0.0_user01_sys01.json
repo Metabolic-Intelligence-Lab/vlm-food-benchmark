@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "whole milk carton (200ml)",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "Starbucks-style pastry (half of a muffin-like bread)",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "Starbucks-style pastry (whole muffin-like bread)",
+      "portion_estimate": "100",
+      "confidence": 80
+    }
+  ]
+}

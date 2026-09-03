@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Apple",
+    "portion": 150,
+    "confidence": 0.85
+  },
+  {
+    "name": "Soup",
+    "portion": 200,
+    "confidence": 0.9
+  },
+  {
+    "name": "Water",
+    "portion": "uncertain",
+    "confidence": 0.4
+  }
+]

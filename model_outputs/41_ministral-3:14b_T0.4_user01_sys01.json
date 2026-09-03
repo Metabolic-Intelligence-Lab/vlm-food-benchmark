@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat pasta (e.g., fusilli) with tomato sauce and grated cheese",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "stuffed baked zucchini boat with cheese and spinach filling",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "mixed fresh salad (cucumber, red cabbage, possibly lettuce)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "whole orange (peeled)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "whole orange (unpeeled)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "plain yogurt or sour cream (partially visible in plastic container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "white plastic cup (likely for water or beverage)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

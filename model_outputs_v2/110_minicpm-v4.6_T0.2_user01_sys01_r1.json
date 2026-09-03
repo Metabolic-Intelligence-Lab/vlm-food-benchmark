@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with grated cheese",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "Baked quiche or pie",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "Peas and carrot slices",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "70g",
+      "confidence": 75
+    },
+    {
+      "name": "Cheese packaging",
+      "portion_estimate": "50g",
+      "confidence": 90
+    }
+  ]
+}

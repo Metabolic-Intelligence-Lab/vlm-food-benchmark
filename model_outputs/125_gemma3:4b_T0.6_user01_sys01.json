@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Soup (likely chicken or vegetable)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Muffin",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "125g",
+      "confidence": 90
+    }
+  ]
+}

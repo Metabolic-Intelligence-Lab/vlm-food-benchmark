@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Spiral pasta (fusilli) with red sauce and diced tomatoes",
+      "portion_estimate": 180,
+      "confidence": 92
+    },
+    {
+      "name": "Diced roasted potatoes (or hash browns)",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Baked cannelloni or stuffed pasta shell with tomato sauce and cheese",
+      "portion_estimate": 120,
+      "confidence": 88
+    },
+    {
+      "name": "Yakult probiotic drink (bottle)",
+      "portion_estimate": 200,
+      "confidence": 96
+    },
+    {
+      "name": "Packaged bread rolls",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "Yakult bottle cap/yogurt drink lid (possibly yogurt)",
+      "portion_estimate": 130,
+      "confidence": 60
+    }
+  ]
+}

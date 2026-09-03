@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broth or soup (likely vegetable or cream-based)",
+      "portion_estimate": "300 grams (approximate bowl size)",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes or potato wedges",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pot roast or sliced roasted meat",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "buttered dinner roll or bread",
+      "portion_estimate": "60 grams (one medium-sized roll)",
+      "confidence": 80
+    },
+    {
+      "name": "sour cream or condiment",
+      "portion_estimate": "uncertain (small container, roughly 1 scoop \u2248 20 grams)",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas with lemon wedge",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "fish garnished with parsley",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sandwich wrapped in plastic wrap",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "jam",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with olive oil and Parmesan",
+      "portion_estimate": "300-400 grams (appx. 1 large bowl)",
+      "confidence": 95
+    },
+    {
+      "name": "sliced ricotta or mozzarella cheese",
+      "portion_estimate": "250 grams (whole ball, cut roughly)",
+      "confidence": 85
+    },
+    {
+      "name": "baked golden bread or focaccia",
+      "portion_estimate": "150-200 grams (single slice)",
+      "confidence": 90
+    },
+    {
+      "name": "roasted Brussels sprouts",
+      "portion_estimate": "120-150 grams (plate of 6-8 sprouts)",
+      "confidence": 95
+    },
+    {
+      "name": "plum or black fruit (possibly prune)",
+      "portion_estimate": "100-120 grams (two medium-sized plums)",
+      "confidence": 70
+    }
+  ]
+}

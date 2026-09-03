@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fish fillet",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked potatoes with sour cream and chives",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ]
+}

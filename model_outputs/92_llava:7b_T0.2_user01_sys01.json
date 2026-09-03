@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Minestrone soup",
+      "portion_estimate": "300 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "125 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta salad with cheese",
+      "portion_estimate": "300 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried potato wedges",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    }
+  ]
+}

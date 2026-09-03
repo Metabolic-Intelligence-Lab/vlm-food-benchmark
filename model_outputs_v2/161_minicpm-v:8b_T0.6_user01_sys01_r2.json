@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce and parmesan cheese",
+      "portion_estimate": "uncertain, approximately 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "green vegetable quiche or frittata",
+      "portion_estimate": "uncertain, possibly around 180-200g",
+      "confidence": "70"
+    },
+    {
+      "name": "pea and mixed veg stir-fry",
+      "portion_estimate": "uncertain, approximately 350g",
+      "confidence": "60"
+    },
+    {
+      "name": "pear fruit",
+      "portion_estimate": "uncertain, possibly around 120-150g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable frittata slice",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "carrots and potatoes",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "rice with vegetables",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "dinner roll",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "small oranges",
+      "portion_estimate": "200",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup or stew",
+      "portion_estimate": "350 g",
+      "confidence": "85"
+    },
+    {
+      "name": "grated cheese on soup",
+      "portion_estimate": "10 g",
+      "confidence": "80"
+    },
+    {
+      "name": "vegetable patty or fritter",
+      "portion_estimate": "80 g",
+      "confidence": "70"
+    },
+    {
+      "name": "tomato slices on patty",
+      "portion_estimate": "25 g",
+      "confidence": "85"
+    },
+    {
+      "name": "small cheese slice on patty",
+      "portion_estimate": "10 g",
+      "confidence": "75"
+    },
+    {
+      "name": "uncertain red deli meat slice on patty",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "35 g",
+      "confidence": "85"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "100 g",
+      "confidence": "90"
+    },
+    {
+      "name": "packaged cheese stick",
+      "portion_estimate": "25 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked cauliflower salad with olives",
+      "portion_estimate": "170 g",
+      "confidence": "70"
+    }
+  ]
+}

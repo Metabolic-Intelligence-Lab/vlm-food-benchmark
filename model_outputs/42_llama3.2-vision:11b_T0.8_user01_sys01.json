@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish",
+      "portion_estimate": "150-200g",
+      "confidence": "85"
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "approximate 50-75g",
+      "confidence": "75"
+    },
+    {
+      "name": "Red cabbage",
+      "portion_estimate": "approximate 25-50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Protein/Meat",
+      "portion_estimate": "50-100g",
+      "confidence": "65"
+    },
+    {
+      "name": "Peaches",
+      "portion_estimate": "100-150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "50-100g",
+      "confidence": "75"
+    }
+  ]
+}

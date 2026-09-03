@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion": 120,
+      "confidence": 80
+    },
+    {
+      "name": "dinner roll",
+      "portion": 35,
+      "confidence": 70
+    },
+    {
+      "name": "pear",
+      "portion": 180,
+      "confidence": 80
+    },
+    {
+      "name": "cooked lentils",
+      "portion": 100,
+      "confidence": 70
+    },
+    {
+      "name": "mushroom",
+      "portion": 15,
+      "confidence": 60
+    },
+    {
+      "name": "meatballs",
+      "portion": 70,
+      "confidence": 70
+    }
+  ]
+}

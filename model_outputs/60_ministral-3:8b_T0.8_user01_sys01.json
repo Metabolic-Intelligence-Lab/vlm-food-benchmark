@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne) with tomato-based sauce and herbs",
+      "portion_estimate": "250g (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "chicken meatballs",
+      "portion_estimate": "180g (uncertain)",
+      "confidence": 75
+    },
+    {
+      "name": "roasted or boiled potatoes (small to medium cubes)",
+      "portion_estimate": "200g (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt (sweetened, strawberry flavor)",
+      "portion_estimate": "150g",
+      "confidence": 95
+    }
+  ]
+}

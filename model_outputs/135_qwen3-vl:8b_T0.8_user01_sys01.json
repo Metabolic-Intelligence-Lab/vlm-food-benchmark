@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "150 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Pulled Pork",
+      "portion_estimate": "120 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Barbecue Sauce",
+      "portion_estimate": "40 grams",
+      "confidence": "75"
+    }
+  ]
+}

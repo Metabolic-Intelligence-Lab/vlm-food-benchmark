@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Fish (likely Cod or similar)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "White Beans",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "30g",
+      "confidence": 60
+    }
+  ]
+}

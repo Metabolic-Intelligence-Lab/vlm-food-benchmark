@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled or baked fish fillet (likely cod or similar white fish)",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "fettuccine or penne pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "shredded carrots salad mix",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "red cabbage or purple cabbage shreds",
+      "portion_estimate": "30",
+      "confidence": "70"
+    },
+    {
+      "name": "dressing or oil-based sauce on salad (uncertain type)",
+      "portion_estimate": "10",
+      "confidence": "55"
+    },
+    {
+      "name": "red wine (visible spill, portion estimate based on spill)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "150-200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60-70 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120-150 grams",
+      "confidence": "80"
+    }
+  ]
+}

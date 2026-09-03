@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with grated cheese",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70g",
+      "confidence": 90
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "meat and vegetable dish",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "butter/spread packet",
+      "portion_estimate": "15g",
+      "confidence": 80
+    }
+  ]
+}

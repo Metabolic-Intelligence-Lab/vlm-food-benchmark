@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked green beans",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Scrambled eggs or omelet",
+      "portion_estimate": "140g",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta with cheese topping",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Green apple or pear",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Packaged bread roll",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    }
+  ]
+}

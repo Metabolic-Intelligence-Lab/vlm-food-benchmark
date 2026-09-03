@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Vegetable Fritters",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Breaded Vegetables",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Cucumber Slice",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Canned Food",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    }
+  ]
+}

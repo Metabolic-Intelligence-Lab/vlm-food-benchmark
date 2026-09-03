@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "savory pastry slice or quiche",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "diced yellow/orange vegetables (e.g., squash or potato)",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "small tubular pasta or noodle dish with seasoning",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "plain baked bread roll or bun",
+      "portion_estimate": "110g",
+      "confidence": "95"
+    }
+  ]
+}

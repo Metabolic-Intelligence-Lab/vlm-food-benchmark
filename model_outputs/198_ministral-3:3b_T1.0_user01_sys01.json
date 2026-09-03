@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "sesame roll (or sesame-stuffed bun)",
+      "portion_estimate": 50,
+      "confidence": 85
+    },
+    {
+      "name": "white couscous or shredded cheese substitute (appears granular)",
+      "portion_estimate": 50,
+      "confidence": 80
+    },
+    {
+      "name": "shredded chicken",
+      "portion_estimate": 50,
+      "confidence": 80
+    },
+    {
+      "name": "roasted mushrooms or vegetable medley",
+      "portion_estimate": 40,
+      "confidence": 80
+    },
+    {
+      "name": "white cheese (possibly cheddar or similar)",
+      "portion_estimate": 20,
+      "confidence": 80
+    },
+    {
+      "name": "dairy spread (cream, butter, or salad dressing)",
+      "portion_estimate": 30,
+      "confidence": 60
+    },
+    {
+      "name": "garlic or herbs in a canister (dry seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

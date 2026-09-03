@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetables in sauce (potatoes, carrots, green beans)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat roll or bread",
+      "portion_estimate": "70 grams",
+      "confidence": 75
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100 grams (3-4 plums)",
+      "confidence": 80
+    }
+  ]
+}

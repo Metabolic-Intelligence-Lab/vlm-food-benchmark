@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Potato wedges",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Bread and butter",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

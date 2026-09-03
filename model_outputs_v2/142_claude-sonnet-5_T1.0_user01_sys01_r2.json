@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "grilled/baked mackerel fillet fish",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "white bean salad (borlotti/cannellini beans)",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "steamed cauliflower florets",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "whole grain bread slices",
+      "portion_estimate": "50",
+      "confidence": 75
+    },
+    {
+      "name": "plums (whole fruit, 2 pieces)",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "chopped parsley garnish",
+      "portion_estimate": "5",
+      "confidence": 60
+    },
+    {
+      "name": "lemon wedge garnish",
+      "portion_estimate": "10",
+      "confidence": 60
+    }
+  ]
+}

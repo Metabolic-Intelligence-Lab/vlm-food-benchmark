@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "oatmeal with spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "granola",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "milk (in carton)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bagel",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "hamburger bun",
+      "portion_estimate": "30-40 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "salad (mixed greens, carrots, red cabbage, lettuce)",
+      "portion_estimate": "100-120 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "white rice",
+      "portion_estimate": "50-70 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "scallops",
+      "portion_estimate": "60-80 grams (per serving on plate)",
+      "confidence": "80"
+    },
+    {
+      "name": "cherry tomato-based relish or salad",
+      "portion_estimate": "30-40 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "grilled fish (or similar protein, partially visible)",
+      "portion_estimate": "70-90 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "purple plum (or similar small fruit)",
+      "portion_estimate": "50-60 grams",
+      "confidence": "90"
+    }
+  ]
+}

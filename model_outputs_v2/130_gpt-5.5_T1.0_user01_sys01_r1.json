@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "cooked white basmati rice",
+      "portion_estimate": "180 g",
+      "confidence": "90"
+    },
+    {
+      "name": "uncertain brown curry or stew with chunks",
+      "portion_estimate": "uncertain (~250 g)",
+      "confidence": "55"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with olive oil",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "grilled or roasted asparagus with breadcrumbs",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "baked chicken breast with breading",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "whole peach",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "plain bagged cheese slices (unspecified brand)",
+      "portion_estimate": "20",
+      "confidence": 75
+    },
+    {
+      "name": "plain bagged cheese cubes (unspecified brand)",
+      "portion_estimate": "20",
+      "confidence": 70
+    },
+    {
+      "name": "plain bagged crackers or breadsticks (unspecified brand)",
+      "portion_estimate": "20",
+      "confidence": 70
+    }
+  ]
+}

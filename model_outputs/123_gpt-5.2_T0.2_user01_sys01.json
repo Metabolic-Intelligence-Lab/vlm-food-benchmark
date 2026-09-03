@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bow-tie pasta (farfalle) with grated cheese",
+      "portion_estimate": "240 g",
+      "confidence": "78"
+    },
+    {
+      "name": "roasted potato wedges/chunks",
+      "portion_estimate": "150 g",
+      "confidence": "74"
+    },
+    {
+      "name": "baked omelet/frittata slice (egg-based)",
+      "portion_estimate": "110 g",
+      "confidence": "62"
+    },
+    {
+      "name": "banana (whole, unpeeled)",
+      "portion_estimate": "120 g",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "85"
+    }
+  ]
+}

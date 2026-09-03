@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Egg on Biscuit",
+      "portion_estimate": "1 egg, 1 biscuit",
+      "confidence": 100
+    },
+    {
+      "name": "Potato Wedges",
+      "portion_estimate": "1/2 cup",
+      "confidence": 100
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "1/2 cup",
+      "confidence": 100
+    },
+    {
+      "name": "Bread/Pastry",
+      "portion_estimate": "1/2 slice",
+      "confidence": 100
+    },
+    {
+      "name": "Fruit/Dessert",
+      "portion_estimate": "1/2 cup",
+      "confidence": 100
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "1 cup",
+      "confidence": 100
+    },
+    {
+      "name": "Sauce/Condiment",
+      "portion_estimate": "1/4 cup",
+      "confidence": 100
+    }
+  ]
+}

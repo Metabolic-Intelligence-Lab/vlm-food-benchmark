@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup with meat and vegetables, grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes with parsley",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "ketchup",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

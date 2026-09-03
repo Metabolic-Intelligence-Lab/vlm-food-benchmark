@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Potatoes, roasted/diced",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "Sandwich (ham/bacon), half bun visible",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "Tomato and cheese sandwich, sliced",
+      "portion_estimate": "60",
+      "confidence": 90
+    }
+  ]
+}

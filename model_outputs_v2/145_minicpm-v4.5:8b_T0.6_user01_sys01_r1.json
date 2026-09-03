@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup",
+      "portion_estimate": "400-500 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "cauliflower florets",
+      "portion_estimate": "100-150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed vegetable and egg dish (possibly quiche or omelette with vegetables)",
+      "portion_estimate": "100-150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "small loaf of bread",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt (Le Polpino brand)",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    }
+  ]
+}

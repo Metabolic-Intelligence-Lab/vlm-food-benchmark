@@ -1,0 +1,32 @@
+{
+  "food_items": [
+    {
+      "name": "Beans",
+      "portion_estimate": "30g",
+      "color": "green",
+      "location": "bottom right plate",
+      "image": "/img/beans.jpg"
+    },
+    {
+      "name": "Hummus and crusty bread",
+      "portion_estimate": "50g hummus, 100g bread",
+      "color": "brown",
+      "location": "top left bowl",
+      "image": "/img/hummus.jpg"
+    },
+    {
+      "name": "Fried chicken with a spice rub and dipping sauce",
+      "portion_estimate": "100g fried chicken, 50g spice rub, 2 tbsp dipping sauce",
+      "color": "brown",
+      "location": "bottom middle plate with bread",
+      "image": "/img/fried_chicken.jpg"
+    },
+    {
+      "name": "Broccoli rabe",
+      "portion_estimate": "100g",
+      "color": "green",
+      "location": "top middle bowl",
+      "image": "/img/broccoli.jpg"
+    }
+  ]
+}

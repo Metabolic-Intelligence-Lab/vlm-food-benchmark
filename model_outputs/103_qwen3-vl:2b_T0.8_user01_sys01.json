@@ -1,0 +1,38 @@
+[
+  {
+    "name": "wrap",
+    "description": "ham and broccoli wrap",
+    "portion_size": 100,
+    "confidence": 90
+  },
+  {
+    "name": "broccoli",
+    "description": "side",
+    "portion_size": 100,
+    "confidence": 90
+  },
+  {
+    "name": "soup",
+    "description": "soup",
+    "portion_size": 200,
+    "confidence": 90
+  },
+  {
+    "name": "yogurt",
+    "description": "yogurt",
+    "portion_size": 40,
+    "confidence": 90
+  },
+  {
+    "name": "bun",
+    "description": "bun",
+    "portion_size": 150,
+    "confidence": 90
+  },
+  {
+    "name": "water",
+    "description": "water",
+    "portion_size": 250,
+    "confidence": 90
+  }
+]

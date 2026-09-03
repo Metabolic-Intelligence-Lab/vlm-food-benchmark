@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": "300 g",
+      "confidence": 95
+    },
+    {
+      "name": "ground meat",
+      "portion_estimate": "50 g",
+      "confidence": 80
+    },
+    {
+      "name": "shredded cheese",
+      "portion_estimate": "150 g",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi in tomato sauce with cheese",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "mixed salad with tomatoes and feta cheese",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "130",
+      "confidence": 95
+    },
+    {
+      "name": "snack pack (Fritto Mignolo)",
+      "portion_estimate": "30",
+      "confidence": 85
+    }
+  ]
+}

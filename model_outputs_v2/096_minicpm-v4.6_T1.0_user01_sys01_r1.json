@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fruit juice carton",
+      "portion_estimate": "approximately 70 grams",
+      "confidence": 95
+    },
+    {
+      "name": "layered cake slice",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "another layered cake slice",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup with carrots and other vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "plate of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "macaroni and cheese on a plate",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "drink in a cup",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "empty tray",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

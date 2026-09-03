@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "potato croquette",
+      "portion_estimate": "200-250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "soup (likely tomato-based)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    }
+  ]
+}

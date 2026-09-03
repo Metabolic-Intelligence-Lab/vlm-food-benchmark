@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "scrambled eggs and potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

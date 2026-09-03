@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "banana",
+      "portion_estimate": "120",
+      "confidence": "95"
+    },
+    {
+      "name": "penne pasta with cheese",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "chicken breast with pesto",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "240",
+      "confidence": "90"
+    }
+  ]
+}

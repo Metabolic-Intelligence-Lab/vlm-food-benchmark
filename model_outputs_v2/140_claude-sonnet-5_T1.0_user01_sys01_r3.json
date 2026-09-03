@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried fish fillet (cotoletta)",
+      "portion_estimate": "120",
+      "confidence": "75"
+    },
+    {
+      "name": "sauteed dark leafy greens (spinach or chard)",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "boiled brussels sprouts",
+      "portion_estimate": "110",
+      "confidence": "80"
+    },
+    {
+      "name": "fresh plums",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "50",
+      "confidence": "55"
+    }
+  ]
+}

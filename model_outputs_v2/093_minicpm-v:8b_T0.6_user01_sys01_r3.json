@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Fish fillet (likely hake or similar)",
+      "portion_estimate": "143g",
+      "confidence": 87
+    },
+    {
+      "name": "Yogurt with chia seeds and fruit",
+      "portion_estimate": "uncertain, possibly a small serving",
+      "confidence": 50
+    },
+    {
+      "name": "Garlic bread",
+      "portion_estimate": "uncertain, likely a single piece",
+      "confidence": 60
+    },
+    {
+      "name": "Pasta with tomato sauce and bacon bits",
+      "portion_estimate": "217g",
+      "confidence": 98
+    }
+  ]
+}

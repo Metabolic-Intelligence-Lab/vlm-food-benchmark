@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "green pat\u00e9 or stuffed vegetable patty",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "farfalle pasta with cheese",
+      "portion_estimate": "200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "blueberries",
+      "portion_estimate": "100 grams (approx. 6-7 medium-sized berries)",
+      "confidence": 80
+    },
+    {
+      "name": "yellow packet (potentially garlic powder, salt, or seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

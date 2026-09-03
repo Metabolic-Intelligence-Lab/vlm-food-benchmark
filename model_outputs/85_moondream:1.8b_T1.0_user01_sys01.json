@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "cheese balls",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

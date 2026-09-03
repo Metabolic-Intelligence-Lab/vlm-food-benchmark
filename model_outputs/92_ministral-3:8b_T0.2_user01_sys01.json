@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup with greens and cheese shavings",
+      "portion_estimate": "300 grams",
+      "confidence": 75
+    },
+    {
+      "name": "roasted potatoes (diced)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "stuffed cabbage rolls (two visible)",
+      "portion_estimate": "120 grams total (60 grams each)",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat roll or bread",
+      "portion_estimate": "uncertain (likely 50-70 grams)",
+      "confidence": 55
+    },
+    {
+      "name": "banana (partially visible)",
+      "portion_estimate": "uncertain (likely ~100 grams)",
+      "confidence": 50
+    }
+  ]
+}

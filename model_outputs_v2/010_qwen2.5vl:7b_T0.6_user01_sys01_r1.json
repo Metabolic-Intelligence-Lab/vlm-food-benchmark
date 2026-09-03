@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green soup",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Vegetable croquettes",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "50",
+      "confidence": 80
+    }
+  ]
+}

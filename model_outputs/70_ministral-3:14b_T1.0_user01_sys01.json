@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "potato and leek soup (creamy, with diced potatoes and leeks)",
+      "portion_estimate": "350",
+      "confidence": "85"
+    },
+    {
+      "name": "white napkin (likely for cleanup or utensil placement)",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "plastic spoon (visible beside the dish)",
+      "portion_estimate": "15",
+      "confidence": "90"
+    }
+  ]
+}

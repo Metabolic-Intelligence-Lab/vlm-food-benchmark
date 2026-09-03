@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "baked chicken casserole",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "mandarin orange",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "packaged snack (uncertain contents)",
+      "portion_estimate": "30",
+      "confidence": "60"
+    }
+  ]
+}

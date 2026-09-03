@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable frittata (egg omelet with mushroom slice)",
+      "portion_estimate": "120",
+      "confidence": "75"
+    },
+    {
+      "name": "sauteed green beans",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "penne pasta with tomato sauce and basil",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll (panino)",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120",
+      "confidence": "85"
+    }
+  ]
+}

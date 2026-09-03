@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "peanut butter",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "broccoli and white button mushrooms",
+      "portion_estimate": "1 cup (approx. 8 oz/237g)",
+      "confidence": "90"
+    },
+    {
+      "name": "red-skinned potatoes",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "dark orange fruit (possibly a plum or persimmon)",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "light brown bread",
+      "portion_estimate": "uncertain, approx. 1 slice (~70g)",
+      "confidence": "60"
+    }
+  ]
+}

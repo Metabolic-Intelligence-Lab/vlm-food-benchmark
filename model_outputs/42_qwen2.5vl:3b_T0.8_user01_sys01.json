@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "fried vegetable chunks",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "coated vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "dough balls or pastry",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "peaches",
+      "portion_estimate": "approx 100 grams",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+Based on your request, here's a breakdown of each task and what you should consider:
+
+### Tasks for Processing Food Image
+
+1. **Identify all distinct, visible food items in the input image:** Look closely at every object within the frame to identify different types of foods.
+2. **Estimate portion sizes in grams for each item:** Estimate how much a serving size is likely based on visual cues.
+
+### Constraints and Suggestions:
+
+- For uncertainties or unclear portions:
+  - Use "uncertain" as the label with lower confidence levels (e.g., below 60).
+  
+For Example, if unsure about whether an ingredient could be part of two distinct items:
+
+```json
+{
+    "food_items": [
+        {
+            "name": "Pasta in Bolognese sauce",
+            "portion_estimate": "uncertain",
+            "confidence": 50 // Assume a moderate level of uncertainty for now.
+        }
+    ]
+}
+```
+
+### Handling Input Image
+
+1. **Input:** Provide the URL or upload your food image here.
+
+2. **Output Format (JSON):** Ensure you format output as JSON following provided examples:
+
+```json
+{
+   "food_items": [
+       {
+           "name": "<specific description of item>",
+           "portion_estimate": "<estimated weight in grams>",
+           "confidence": "<percentage confidence level>"
+       }
+   ]
+}
+```
+
+### Example Output Based on Image
+
+If I analyze the image and see only pasta, sauce, and cheese:
+
+```json
+{
+    "food_items": [
+        {
+            "name": "Pasta with Bolognese sauce",
+            "portion_estimate": "uncertain",
+            "confidence": 50 // Assume a moderate level of uncertainty.
+        }
+    ]
+}
+```
+
+You can adjust these steps based on the specific content you see in your image. Always ensure accurate and appropriate labeling for each food item identified.
+
+Remember, while providing detailed outputs, try to avoid assumptions beyond what is visibly presented within the given constraints.

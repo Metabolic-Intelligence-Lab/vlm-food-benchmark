@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "40g",
+      "confidence": "95"
+    },
+    {
+      "name": "dark shredded meat or beans",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "savory fritter or patty",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "diced potato or paneer cubes",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "small roasted tomato or pepper piece",
+      "portion_estimate": "25g",
+      "confidence": "90"
+    }
+  ]
+}

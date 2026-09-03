@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole-grain baguette wrapped in plastic",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "tomato soup with cheese crystals",
+      "portion_estimate": 350,
+      "confidence": 85
+    },
+    {
+      "name": "grilled meat patty (likely steak or similar)",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "roasted Brussels sprouts and carrots",
+      "portion_estimate": 300,
+      "confidence": 85
+    },
+    {
+      "name": "fried or roasted plum/pear halves",
+      "portion_estimate": 100,
+      "confidence": 80
+    }
+  ]
+}

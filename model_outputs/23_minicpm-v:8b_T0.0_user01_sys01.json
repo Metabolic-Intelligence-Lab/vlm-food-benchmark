@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Grilled chicken breast on a bed of yellow lentils or chickpeas",
+      "portion_estimate": "uncertain, approx. 80-90g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cauliflower with red sauce and spices",
+      "portion_estimate": "uncertain, approx. 125g",
+      "confidence": "60"
+    },
+    {
+      "name": "White rice or cauliflower rice",
+      "portion_estimate": "uncertain, approx. 80-90g",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt with fruit and granola mix",
+      "portion_estimate": "uncertain, approx. 125g",
+      "confidence": "60"
+    }
+  ]
+}

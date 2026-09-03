@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "zucchini and onions",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "crispy breaded food",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "cubed food",
+      "portion_estimate": "50",
+      "confidence": 70
+    }
+  ]
+}

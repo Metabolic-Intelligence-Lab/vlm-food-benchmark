@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "chili or similar soup with beans and ground meat",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "dairy product (sour cream, yogurt, or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "tea or coffee",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "condiment (mustard, ketchup, or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "butter or margarine",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "sandwich with bread and filling",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "salad or side dish",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "crackers or breadsticks",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "jam or sweet condiment",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    }
+  ]
+}

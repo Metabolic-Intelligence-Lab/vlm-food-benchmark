@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Kale Salad",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "Ham and Cheese Sandwich",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "Grapes",
+      "portion_estimate": "60",
+      "confidence": 90
+    }
+  ]
+}

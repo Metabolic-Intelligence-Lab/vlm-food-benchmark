@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Crumbled bread",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked fish",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrot soup",
+      "portion_estimate": "200",
+      "confidence": "80"
+    }
+  ]
+}

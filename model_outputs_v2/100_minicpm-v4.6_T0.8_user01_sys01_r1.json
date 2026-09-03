@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "100 g",
+      "confidence": 85
+    },
+    {
+      "name": "pasta dish with sauce",
+      "portion_estimate": "250 g",
+      "confidence": 70
+    },
+    {
+      "name": "chopped vegetable side",
+      "portion_estimate": "120 g",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas (cooked)",
+      "portion_estimate": "approximately 250 grams",
+      "confidence": 80
+    },
+    {
+      "name": "fish fillets",
+      "portion_estimate": "approximately 20 grams",
+      "confidence": 70
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "about 10 grams",
+      "confidence": 75
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "sprinkla yogurt",
+      "portion_estimate": "135 grams",
+      "confidence": 80
+    },
+    {
+      "name": "bowtie pasta with vegetables",
+      "portion_estimate": "approximately 250 grams",
+      "confidence": 70
+    },
+    {
+      "name": "butter or cheese stick",
+      "portion_estimate": "about 10 grams",
+      "confidence": 60
+    }
+  ]
+}

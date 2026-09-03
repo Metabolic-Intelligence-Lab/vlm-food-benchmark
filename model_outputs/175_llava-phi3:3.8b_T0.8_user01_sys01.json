@@ -1,0 +1,66 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Stir fry vegetables with beansprouts and chicken",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Kale and yellow peas on a white plate",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Lemon",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    }
+  ],
+  "background": {
+    "items": [],
+    "color": "#FFFFFF"
+  },
+  "location": [
+    {
+      "name": "Soup",
+      "position": [
+        0.2,
+        0.18,
+        0.59,
+        0.49
+      ]
+    },
+    {
+      "name": "Stir fry vegetables with beansprouts and chicken",
+      "position": [
+        0.27,
+        0.3,
+        0.6,
+        0.51
+      ]
+    },
+    {
+      "name": "Kale and yellow peas on a white plate",
+      "position": [
+        0.29,
+        0.58,
+        0.62,
+        0.74
+      ]
+    },
+    {
+      "name": "Lemon",
+      "position": [
+        0.31,
+        0.76,
+        0.64,
+        0.92
+      ]
+    }
+  ]
+}

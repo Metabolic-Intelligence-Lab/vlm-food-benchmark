@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "apple pie",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "potato mash with pork cutlet",
+      "portion_estimate": "200g potato + 150g pork",
+      "confidence": "90"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

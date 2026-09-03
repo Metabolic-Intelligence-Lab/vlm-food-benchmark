@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "mashed sweet potato",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "brown sauce (uncertain composition)",
+      "portion_estimate": "30",
+      "confidence": "60"
+    }
+  ]
+}

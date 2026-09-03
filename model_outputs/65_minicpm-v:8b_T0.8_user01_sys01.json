@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole Grain English Muffin",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Green Salad with Romaine Lettuce and Balsamic Vinaigrette Dressing",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Roasted Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Yellow Sauce on the Muffin and Roasted Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Green Leaves Salad with Dressing Packaged in a Cup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

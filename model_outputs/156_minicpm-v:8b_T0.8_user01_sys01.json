@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Oatmeal (or similar grain dish)",
+      "portion_estimate": "3-4 oz",
+      "confidence": "60"
+    },
+    {
+      "name": "Brussel sprouts",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Quiche or frittata slice",
+      "portion_estimate": "1/2 cup",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread (white bun)",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried savory croquettes or fish cakes",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "fried diced potatoes or small fries",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed breaded fried toppings",
+      "portion_estimate": "40",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed or saut\u00e9ed dark leafy greens",
+      "portion_estimate": "90",
+      "confidence": "90"
+    },
+    {
+      "name": "loaf of white bread or bun",
+      "portion_estimate": "130",
+      "confidence": "90"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": "95"
+    }
+  ]
+}

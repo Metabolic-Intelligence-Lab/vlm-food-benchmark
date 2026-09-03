@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain, approx. bowl size",
+      "confidence": "60"
+    },
+    {
+      "name": "tomato and cheese on a muffin",
+      "portion_estimate": "uncertain, approx. 1/2 cup",
+      "confidence": "70"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain, approx. medium size",
+      "confidence": "65"
+    },
+    {
+      "name": "croutons with blueberries",
+      "portion_estimate": "uncertain, approx. 1/4 cup",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "macaroni",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_and_beverage_items": [
+    {
+      "name": "Vegetable Soup with Cheese",
+      "portion": 200,
+      "confidence": 80
+    },
+    {
+      "name": "Diced Potatoes",
+      "portion": 150,
+      "confidence": 85
+    },
+    {
+      "name": "Cornbread Muffins",
+      "portion": 50,
+      "confidence": 80
+    },
+    {
+      "name": "Softmix Dairy Product",
+      "portion": 50,
+      "confidence": 70
+    },
+    {
+      "name": "Bread Roll",
+      "portion": 50,
+      "confidence": 75
+    },
+    {
+      "name": "Water",
+      "portion": 200,
+      "confidence": 80
+    }
+  ]
+}

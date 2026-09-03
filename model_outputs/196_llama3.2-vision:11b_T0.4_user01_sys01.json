@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "brown broth soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "meat and chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "saltine crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

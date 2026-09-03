@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green vegetable soup with grated cheese topping",
+      "portion_estimate": 280,
+      "confidence": 95
+    },
+    {
+      "name": "Whole wheat bread roll",
+      "portion_estimate": 85,
+      "confidence": 92
+    },
+    {
+      "name": "Roasted potato cubes",
+      "portion_estimate": 140,
+      "confidence": 93
+    },
+    {
+      "name": "Coleslaw or purple cabbage salad with croutons",
+      "portion_estimate": 65,
+      "confidence": 88
+    },
+    {
+      "name": "Whole banana (partially visible)",
+      "portion_estimate": 110,
+      "confidence": 94
+    }
+  ]
+}

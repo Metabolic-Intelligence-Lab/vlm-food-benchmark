@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "beef meatballs",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed berries (packaged)",
+      "portion_estimate": "125",
+      "confidence": "100"
+    },
+    {
+      "name": "green vegetable stew",
+      "portion_estimate": "250",
+      "confidence": "75"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread rolls/buns (wrapped)",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Mixed green salad with shredded carrots",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Chickpea stew with crumbled cheese topping",
+      "portion_estimate": "320g",
+      "confidence": "90"
+    },
+    {
+      "name": "Breaded cutlet or croquette",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    }
+  ]
+}

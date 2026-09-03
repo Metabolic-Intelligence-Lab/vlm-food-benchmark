@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup (possibly spinach/pea) with grated cheese topping",
+      "portion_estimate": "320 g",
+      "confidence": "70"
+    },
+    {
+      "name": "spinach patty/cake with white cream sauce and a slice of grilled mushroom on top",
+      "portion_estimate": "150 g",
+      "confidence": "60"
+    },
+    {
+      "name": "diced vegetable side dish (mixed vegetables in orange/red sauce)",
+      "portion_estimate": "90 g",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "single-serve yogurt cup (strawberry or berry flavor)",
+      "portion_estimate": "125 g",
+      "confidence": "80"
+    }
+  ]
+}

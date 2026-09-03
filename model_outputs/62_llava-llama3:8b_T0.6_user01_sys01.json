@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "red peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "toast",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "coffee",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

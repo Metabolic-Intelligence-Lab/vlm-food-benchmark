@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta salad",
+      "portion_estimate": "about 150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Macaroni and cheese with red pepper flakes",
+      "portion_estimate": "approximate 200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta salad with chicken",
+      "portion_estimate": "about 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Grapes",
+      "portion_estimate": "approximate 100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Parmesan crackers",
+      "portion_estimate": "about 25g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "savory meatball (possibly lamb or beef)",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "green soup or sauce (e.g., pesto or tomato-based soup)",
+      "portion_estimate": "250g",
+      "confidence": 70
+    },
+    {
+      "name": "package of spread or sauce (e.g., Torinese-style spread)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "unopened container of condiment (red packet)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

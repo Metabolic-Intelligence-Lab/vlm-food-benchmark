@@ -1,0 +1,25 @@
+The distinct visible food items in the image are:
+
+1. **Gnocchi**:  
+   - *Name*: Gnocchi  
+   - *Portion Size*: 200 grams  
+   - *Confidence*: 95%  
+
+2. **Tomato**:  
+   - *Name*: Tomato  
+   - *Portion Size*: 50 grams  
+   - *Confidence*: 90%  
+
+3. **Cheese**:  
+   - *Name*: Cheese  
+   - *Portion Size*: 50 grams  
+   - *Confidence*: 90%  
+
+---
+
+### Justification:
+- **Gnocchi** is a staple food item, and its portion size is estimated based on typical serving sizes (e.g., 20 pieces × 10 grams = 200 grams) observed in the image.
+- **Tomato** is a common vegetable, with a portion size of 50 grams for 5 pieces (a standard estimate for small, diced pieces in the context of the image).
+- **Cheese** is a topping, and its portion size is estimated as 50 grams for 5 pieces, consistent with typical serving sizes for grated cheese.
+
+These estimates are based on visual observations and are conservative for the given context. Confidence levels are set at 95% for Gnocchi due to the larger quantity of pieces compared to the other items. The confidence levels for Tomato and Cheese are slightly lower (90%) because their portion sizes are smaller relative to the overall quantity in the image.

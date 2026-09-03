@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded cutlet (likely chicken or fish)",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "sweet potato or carrot noodles (shredded)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "egg with corn kernels and tomato on greens (green beans)",
+      "portion_estimate": "150 grams (egg ~60g, greens ~90g)",
+      "confidence": 85
+    },
+    {
+      "name": "condiment cup (likely mayo-based sauce)",
+      "portion_estimate": "uncertain (container suggests ~100-150g)",
+      "confidence": 50
+    },
+    {
+      "name": "plain baked potato (in bag)",
+      "portion_estimate": "uncertain (likely ~200g)",
+      "confidence": 60
+    }
+  ]
+}

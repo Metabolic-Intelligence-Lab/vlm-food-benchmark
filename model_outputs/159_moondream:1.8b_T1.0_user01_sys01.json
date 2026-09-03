@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "chicken or broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "noodles with broccoli pieces",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

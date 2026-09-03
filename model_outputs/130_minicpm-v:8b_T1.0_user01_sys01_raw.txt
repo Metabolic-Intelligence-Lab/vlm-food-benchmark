@@ -1,0 +1,25 @@
+Based on the provided images and instructions:
+
+### Food Recognition Output:
+```
+{
+  "food_items": [
+    {
+      "name": "Rice",
+      "portion_estimate": "100g - approx. a quarter of the container's visible portion.",
+      "confidence": "90"
+    },
+    {
+      "name": "Curry",
+      "portion_estimate": "150g - approximately half the size of rice in terms of volume, considering curry is usually denser than plain meat or vegetable.",
+      "confidence": "85"
+    }
+  ],
+}
+```
+
+### Constraints Applied:
+- Identified visible food items accurately.
+- Kept unsure portions to a minimum with specific descriptions and low confidence scores.
+
+This output follows the given JSON format requirements.

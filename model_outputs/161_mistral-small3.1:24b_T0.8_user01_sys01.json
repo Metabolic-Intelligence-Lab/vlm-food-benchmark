@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce and parmesan cheese",
+      "portion_estimate": "300",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "spinach and ricotta triangular pasta dish",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "180",
+      "confidence": "95"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "85"
+    }
+  ]
+}

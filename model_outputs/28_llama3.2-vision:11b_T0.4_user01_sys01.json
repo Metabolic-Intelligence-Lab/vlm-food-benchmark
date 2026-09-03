@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "200g",
+      "confidence": "100"
+    },
+    {
+      "name": "Spinach pie",
+      "portion_estimate": "150g",
+      "confidence": "100"
+    },
+    {
+      "name": "Salad with vegetables",
+      "portion_estimate": "100g",
+      "confidence": "100"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "100"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": "100"
+    }
+  ]
+}

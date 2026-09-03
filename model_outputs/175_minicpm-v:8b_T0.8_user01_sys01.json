@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans with gravy",
+      "portion_estimate": "uncertain, approx. 100g-200g based on visible portion size and average serving sizes.",
+      "confidence": "60"
+    },
+    {
+      "name": "Beef or pork with mashed potatoes",
+      "portion_estimate": "uncertain, approx. 50g-100g based on visible portion size and average serving sizes.",
+      "confidence": "60"
+    },
+    {
+      "name": "Stir-fried spinach with yellow fruit pieces (possibly pineapples)",
+      "portion_estimate": "uncertain, approx. 75g-200g based on visible portion size and average serving sizes.",
+      "confidence": "60"
+    },
+    {
+      "name": "Sliced orange",
+      "portion_estimate": "approx. 100g (average weight of a medium-sized orange)",
+      "confidence": "75"
+    }
+  ]
+}

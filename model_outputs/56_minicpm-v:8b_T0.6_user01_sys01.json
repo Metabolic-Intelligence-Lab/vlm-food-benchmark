@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "macaroni and cheese (pasta)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "chicken fillet",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "35"
+    }
+  ]
+}

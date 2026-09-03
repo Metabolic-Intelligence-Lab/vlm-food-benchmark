@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "ground beef (cooked) with tomato sauce",
+      "portion_estimate": "200 grams (ground beef) + 150 grams (tomato sauce)",
+      "confidence": 75
+    },
+    {
+      "name": "white rice (cooked)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    }
+  ]
+}

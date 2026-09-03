@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pesto pasta (farfalle/bow-tie pasta with pesto sauce)",
+      "portion_estimate": "280 g",
+      "confidence": "78"
+    },
+    {
+      "name": "brussels sprouts (cooked)",
+      "portion_estimate": "140 g",
+      "confidence": "74"
+    },
+    {
+      "name": "baked egg dish (omelet/frittata-like slice)",
+      "portion_estimate": "200 g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll (small white roll)",
+      "portion_estimate": "55 g",
+      "confidence": "70"
+    },
+    {
+      "name": "banana (whole, with peel)",
+      "portion_estimate": "120 g",
+      "confidence": "82"
+    }
+  ]
+}

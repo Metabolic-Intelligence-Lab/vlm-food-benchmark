@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "60",
+      "confidence": 95
+    },
+    {
+      "name": "whole apple",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "macaroni pasta with cream sauce and grated cheese",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "zucchini and potato mix (cooked/sauteed)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "slice of vegetable frittata or quiche (zucchini visible)",
+      "portion_estimate": "90",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Dinner roll or bread bun",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    },
+    {
+      "name": "Mixed salad (shredded white cabbage and red component)",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Savory wrap or burrito",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "Cooked dark leafy greens (e.g., spinach or kale)",
+      "portion_estimate": "90g",
+      "confidence": "90"
+    },
+    {
+      "name": "Orange segment or small fruit",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    }
+  ]
+}

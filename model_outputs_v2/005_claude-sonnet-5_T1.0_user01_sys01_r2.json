@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "creamy vegetable/pumpkin soup with grated cheese topping",
+      "portion_estimate": "300",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded fried chicken nuggets/cutlets",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "roasted diced potatoes with herbs",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "whole wheat bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": "65"
+    },
+    {
+      "name": "fruit yogurt cup (Fattoria brand)",
+      "portion_estimate": "125",
+      "confidence": "60"
+    },
+    {
+      "name": "uncertain",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

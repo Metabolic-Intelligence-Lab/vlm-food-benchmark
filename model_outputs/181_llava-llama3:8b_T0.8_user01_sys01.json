@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "yellow fruitcake",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "burger patty in a bun",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bag of spaghetti noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "noodles and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

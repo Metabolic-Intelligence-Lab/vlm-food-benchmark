@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain, approx. 300-400g",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain, approx. 120-150g",
+      "confidence": "70"
+    },
+    {
+      "name": "orange juice",
+      "portion_estimate": "uncertain, approx. 300ml",
+      "confidence": "80"
+    }
+  ]
+}

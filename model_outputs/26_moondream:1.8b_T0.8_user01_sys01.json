@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken and potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "vegetables (carrots and oranges)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

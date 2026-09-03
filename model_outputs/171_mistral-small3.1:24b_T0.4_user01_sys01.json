@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "spinach",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "turkey breast",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "whole grain bread",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "10",
+      "confidence": "90"
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": "30",
+      "confidence": "85"
+    },
+    {
+      "name": "chicken breast",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

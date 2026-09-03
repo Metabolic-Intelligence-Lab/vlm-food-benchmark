@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soups, one with tomato and cheese on top",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "banana slices",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "bread, possibly whole grain with visible seeds",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "cauliflower salad or rice dish",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

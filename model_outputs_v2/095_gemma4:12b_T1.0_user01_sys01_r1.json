@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Sausages",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "White beans",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "Tomato-based sauce",
+      "portion_estimate": "300",
+      "confidence": "90"
+    }
+  ]
+}

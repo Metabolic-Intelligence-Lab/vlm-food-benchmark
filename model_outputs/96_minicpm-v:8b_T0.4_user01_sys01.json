@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Zucccheri Zaffron Milk",
+      "portion_estimate": "200ml",
+      "confidence": "95"
+    },
+    {
+      "name": "Tiramisu Cake Bar (left)",
+      "portion_estimate": "uncertain, likely 60g-100g per piece",
+      "confidence": "70"
+    },
+    {
+      "name": "Tiramisu Cake Bar (right)",
+      "portion_estimate": "uncertain, likely 60g-100g per piece",
+      "confidence": "75"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "uncertain, approximate value around 50-100 grams depending on type of soup and ingredients used.",
+      "confidence": "40"
+    },
+    {
+      "name": "Peas with carrots in a bowl",
+      "portion_estimate": "approximate weight is between 200-300 grams, assuming standard portion size for these vegetables.",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread rolls (uncertain)",
+      "portion_estimate": "uncertain; estimation of approximately 15g each roll",
+      "confidence": "40"
+    },
+    {
+      "name": "Yogurt with honey",
+      "portion_estimate": "approximate weight is around 2.6 ounces, assuming standard serving size.",
+      "confidence": "90"
+    }
+  ]
+}

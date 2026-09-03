@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted nuts (e.g., peanuts or similar seeds)",
+      "portion_estimate": "140g",
+      "confidence": "95"
+    },
+    {
+      "name": "Seasoned green vegetable mixture",
+      "portion_estimate": "130g",
+      "confidence": "90"
+    },
+    {
+      "name": "Small savory fried bites (two pieces)",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "Wrapped pastry or bread snack",
+      "portion_estimate": "90g",
+      "confidence": "80"
+    },
+    {
+      "name": "Peach or apricot (fruit)",
+      "portion_estimate": "110g",
+      "confidence": "95"
+    }
+  ]
+}

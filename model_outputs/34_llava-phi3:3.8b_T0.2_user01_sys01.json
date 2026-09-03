@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Scrambled eggs",
+      "portion_estimate": "20g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bacon and egg muffin",
+      "portion_estimate": "30g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with cheese sauce",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "30g",
+      "confidence": "80"
+    }
+  ]
+}

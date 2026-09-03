@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup with cheese topping",
+      "portion_estimate": "350g",
+      "confidence": 85
+    },
+    {
+      "name": "fried potato croquettes (2 pieces)",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "potato hash or shredded fried potatoes",
+      "portion_estimate": "70g",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat bread roll",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt drink (unopened, flavor uncertain)",
+      "portion_estimate": "125g",
+      "confidence": 75
+    }
+  ]
+}

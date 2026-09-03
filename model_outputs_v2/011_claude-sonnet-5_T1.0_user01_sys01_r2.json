@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "wrap/crepe with vegetable filling, sesame seed topping",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "sauteed spinach",
+      "portion_estimate": "80",
+      "confidence": "80"
+    },
+    {
+      "name": "red and white cabbage coleslaw salad",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll, wrapped in plastic",
+      "portion_estimate": "70",
+      "confidence": "80"
+    },
+    {
+      "name": "small orange fruit (mandarin or persimmon)",
+      "portion_estimate": "70",
+      "confidence": "55"
+    }
+  ]
+}

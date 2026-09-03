@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "crispy fried chicken pieces",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "crispy fried potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta or rice with vegetables/herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sauce or condiment",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "peach or nectarine",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "biscuit or cookie",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

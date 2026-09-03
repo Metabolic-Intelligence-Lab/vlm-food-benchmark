@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (fusilli/cavatappi) with tomato-based sauce and grated cheese",
+      "portion_estimate": "300 g",
+      "confidence": "78"
+    },
+    {
+      "name": "white beans (cannellini/haricot) cooked, plain",
+      "portion_estimate": "170 g",
+      "confidence": "83"
+    },
+    {
+      "name": "bread roll/bun (packaged)",
+      "portion_estimate": "70 g",
+      "confidence": "72"
+    },
+    {
+      "name": "bread slice/toasted bread with green pesto/spinach sauce underneath",
+      "portion_estimate": "110 g",
+      "confidence": "64"
+    },
+    {
+      "name": "string cheese (packaged cheese stick)",
+      "portion_estimate": "28 g",
+      "confidence": "70"
+    },
+    {
+      "name": "fresh plums",
+      "portion_estimate": "210 g",
+      "confidence": "76"
+    }
+  ]
+}

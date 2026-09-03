@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "dal (lentil curry)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "chana masala (chickpea curry)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "kebab or tikka",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "red chutney or salsa",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "aloo gobi (potato and cauliflower curry)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "raita (yogurt-based condiment)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

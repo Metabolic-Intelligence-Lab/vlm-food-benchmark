@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "small bread roll (plain bun)",
+      "portion_estimate": "65 g",
+      "confidence": "85"
+    },
+    {
+      "name": "rigatoni pasta with tomato-based meat sauce",
+      "portion_estimate": "260 g",
+      "confidence": "75"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "180 g",
+      "confidence": "80"
+    },
+    {
+      "name": "eggplant parmesan (breaded eggplant slice with tomato sauce and shredded cheese)",
+      "portion_estimate": "170 g",
+      "confidence": "65"
+    },
+    {
+      "name": "yogurt cup (flavored, single-serve)",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    }
+  ]
+}

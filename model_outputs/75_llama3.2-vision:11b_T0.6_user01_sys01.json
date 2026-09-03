@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "plate of vegetables with white sauce and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "baked beans in brown sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "small white cup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

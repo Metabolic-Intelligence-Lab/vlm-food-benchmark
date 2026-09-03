@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "baguette or sandwich roll",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "white rice (cooked)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "grilled or roasted chicken breast",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "mushrooms (saut\u00e9ed or roasted)",
+      "portion_estimate": "80",
+      "confidence": 70
+    },
+    {
+      "name": "cream cheese or spreadable cheese",
+      "portion_estimate": "30",
+      "confidence": 65
+    },
+    {
+      "name": "sauce (white, possibly b\u00e9chamel or Alfredo)",
+      "portion_estimate": "50",
+      "confidence": 60
+    },
+    {
+      "name": "green herbs (possibly parsley or chives)",
+      "portion_estimate": "5",
+      "confidence": 65
+    },
+    {
+      "name": "butter or margarine (partially visible)",
+      "portion_estimate": "20",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato-based sauce and parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Bread, toasted with butter",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Steamed vegetables (broccoli, carrots, green beans)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

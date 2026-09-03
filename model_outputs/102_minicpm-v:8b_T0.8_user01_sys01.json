@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "homemade pasta",
+      "portion_estimate": "uncertain (approximate weight in grams)",
+      "confidence": "<60"
+    },
+    {
+      "name": "chicken with a side of roasted vegetables",
+      "portion_estimate": "uncertain (approximate weight in grams)",
+      "confidence": "<60"
+    },
+    {
+      "name": "strawberry yogurt",
+      "portion_estimate": "125g",
+      "confidence": "90"
+    },
+    {
+      "name": "unsliced bread",
+      "portion_estimate": "uncertain (approximate weight in grams)",
+      "confidence": "<60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried fish with herbs and spices, roasted brussel sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "butter or spreadable cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "dessert (rounded shape, plastic wrapping)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

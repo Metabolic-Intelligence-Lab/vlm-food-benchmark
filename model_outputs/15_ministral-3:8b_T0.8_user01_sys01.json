@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "shredded cabbage/sauerkraut",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "roasted potatoes/diced potatoes (with seasoning)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes or pureed vegetable (likely potatoes)",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "rolled or baked meat (loaf or patty, possibly beef or pork)",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "fruit (plum or similar)",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "packaged spread or butter",
+      "portion_estimate": "uncertain (partial package)",
+      "confidence": 45
+    },
+    {
+      "name": "water in a clear glass",
+      "portion_estimate": "200ml",
+      "confidence": 60
+    }
+  ]
+}

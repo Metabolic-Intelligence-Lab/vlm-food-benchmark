@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce and grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "veggie medley (carrots, peas, zucchini, potatoes)",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "herb and cheese quiche slice",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pear (skin only)",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    }
+  ]
+}

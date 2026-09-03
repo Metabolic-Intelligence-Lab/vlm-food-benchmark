@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with cheese sauce",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "roasted meat (chicken or pork) with mixed vegetables (bell peppers, squash, onions)",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "fresh plums",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80g",
+      "confidence": 90
+    }
+  ]
+}

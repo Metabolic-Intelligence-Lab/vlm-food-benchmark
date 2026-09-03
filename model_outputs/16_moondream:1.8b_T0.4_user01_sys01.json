@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "hamburger",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

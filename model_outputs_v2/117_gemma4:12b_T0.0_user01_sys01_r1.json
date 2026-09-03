@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "thick vegetable soup",
+      "portion_estimate": "450g",
+      "confidence": "95"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": "95"
+    },
+    {
+      "name": "small cup of sauce",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "stuffed meat rolls",
+      "portion_estimate": "80g",
+      "confidence": "90"
+    },
+    {
+      "name": "fried pieces",
+      "portion_estimate": "70g",
+      "confidence": "85"
+    }
+  ]
+}

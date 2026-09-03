@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "beef or pork steak (pan-seared)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed brussels sprouts",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed carrots",
+      "portion_estimate": "80 grams",
+      "confidence": 80
+    },
+    {
+      "name": "sliced lemon (wedges)",
+      "portion_estimate": "30 grams",
+      "confidence": 80
+    },
+    {
+      "name": "red plums",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "soup (likely bean or lentil-based) with grated cheese topping",
+      "portion_estimate": "300 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baguette or roll",
+      "portion_estimate": "80 grams",
+      "confidence": 75
+    }
+  ]
+}

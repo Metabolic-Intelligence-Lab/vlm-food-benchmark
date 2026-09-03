@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Fish",
+      "portion_estimate": "100 grams",
+      "confidence": 100
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "200 grams",
+      "confidence": 100
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "50 grams",
+      "confidence": 100
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "30 grams",
+      "confidence": 100
+    },
+    {
+      "name": "Wrapped Item (Bread/Artisanal Bread)",
+      "portion_estimate": "75 grams",
+      "confidence": 100
+    }
+  ]
+}

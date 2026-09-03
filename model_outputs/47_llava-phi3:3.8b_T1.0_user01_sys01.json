@@ -1,0 +1,36 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "100g",
+      "confidence": "65"
+    },
+    {
+      "name": "Green beans and corn",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Yellow cake or custard on a plate",
+      "portion_estimate": "150g",
+      "confidence": "75"
+    }
+  ],
+  "tablecloth": {
+    "color": "white with green and beige pattern"
+  },
+  "items_on_tray": [
+    {
+      "name": "Bread roll in a plastic bag",
+      "quantity": 1
+    },
+    {
+      "name": "Glass of water",
+      "quantity": 1
+    }
+  ],
+  "location": {
+    "left": "pasta and sauce on plate near bread roll",
+    "right": "custard or yellow cake on a plate beside the green beans"
+  }
+}

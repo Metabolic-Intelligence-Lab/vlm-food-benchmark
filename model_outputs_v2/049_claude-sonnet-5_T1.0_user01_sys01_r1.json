@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta salad",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "tomato wedges",
+      "portion_estimate": "40",
+      "confidence": 70
+    },
+    {
+      "name": "canned tuna flakes",
+      "portion_estimate": "40",
+      "confidence": 60
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "20",
+      "confidence": 70
+    },
+    {
+      "name": "mozzarella cheese chunks",
+      "portion_estimate": "30",
+      "confidence": 55
+    }
+  ]
+}

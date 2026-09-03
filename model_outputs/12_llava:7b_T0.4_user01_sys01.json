@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Egg",
+      "portion_estimate": "1 large egg",
+      "confidence": "90"
+    },
+    {
+      "name": "French Fries",
+      "portion_estimate": "1 serving of french fries",
+      "confidence": "85"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "1 small portion of broccoli",
+      "confidence": "70"
+    }
+  ]
+}

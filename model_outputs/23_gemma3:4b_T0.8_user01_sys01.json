@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (likely Penne)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "Salmon",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "Side Dish (likely rice)",
+      "portion_estimate": "80",
+      "confidence": 60
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

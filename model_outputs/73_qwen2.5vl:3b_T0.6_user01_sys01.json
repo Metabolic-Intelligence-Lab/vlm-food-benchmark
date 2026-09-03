@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "vegetable medley",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "fish fillet",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

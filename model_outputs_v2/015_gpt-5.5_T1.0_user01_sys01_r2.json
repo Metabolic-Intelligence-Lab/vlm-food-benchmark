@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked cabbage or braised vegetables in bowl",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "scrambled egg or cooked egg mixture",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "two small herbed cheese balls or savory balls",
+      "portion_estimate": "50 g",
+      "confidence": "55"
+    },
+    {
+      "name": "plain bread roll in plastic wrap",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "dark red apple or plum",
+      "portion_estimate": "100 g",
+      "confidence": "55"
+    },
+    {
+      "name": "partially visible packaged yogurt or pudding cup",
+      "portion_estimate": "125 g",
+      "confidence": "50"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "100 g",
+      "confidence": "45"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with red tomato sauce and grated parmesan cheese",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Diced roasted potatoes (parfait potatoes)",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Mashed potato patty topped with ketchup and melted cheese",
+      "portion_estimate": 110,
+      "confidence": 85
+    },
+    {
+      "name": "Yoplait yogurt cup (Strawberry flavor)",
+      "portion_estimate": 125,
+      "confidence": 95
+    },
+    {
+      "name": "Packaged breadsticks",
+      "portion_estimate": 40,
+      "confidence": 90
+    }
+  ]
+}

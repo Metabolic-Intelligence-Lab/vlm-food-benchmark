@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Meatballs",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "White Bread Roll",
+      "portion_estimate": "60g",
+      "confidence": 70
+    }
+  ]
+}

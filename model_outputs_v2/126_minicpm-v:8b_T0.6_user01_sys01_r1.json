@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Yogurt cup",
+      "portion_estimate": "125 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Water glass",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

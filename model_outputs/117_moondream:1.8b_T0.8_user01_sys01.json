@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "small bowl",
+      "confidence": 80
+    }
+  ]
+}

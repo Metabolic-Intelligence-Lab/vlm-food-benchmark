@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "chickpea stew",
+      "portion_estimate": "250",
+      "confidence": "80"
+    },
+    {
+      "name": "lettuce and carrot salad",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded chicken patty",
+      "portion_estimate": "80",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt with fruit topping",
+      "portion_estimate": "150",
+      "confidence": "75"
+    }
+  ]
+}

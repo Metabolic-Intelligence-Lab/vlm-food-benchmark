@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Dark bean soup with white powder topping",
+      "portion_estimate": 350,
+      "confidence": 92
+    },
+    {
+      "name": "Steamed green peas and sliced carrots",
+      "portion_estimate": 180,
+      "confidence": 94
+    },
+    {
+      "name": "Yoplait yogurt (peach flavor)",
+      "portion_estimate": 125,
+      "confidence": 96
+    },
+    {
+      "name": "Packaged bread roll",
+      "portion_estimate": 80,
+      "confidence": 93
+    },
+    {
+      "name": "Butter packet (unopened)",
+      "portion_estimate": 25,
+      "confidence": 85
+    }
+  ]
+}

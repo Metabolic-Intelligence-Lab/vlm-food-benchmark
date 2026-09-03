@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed green beans",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "Boiled spinach",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Brown bread",
+      "portion_estimate": "40g",
+      "confidence": "85"
+    },
+    {
+      "name": "Egg",
+      "portion_estimate": "55g",
+      "confidence": "90"
+    }
+  ]
+}

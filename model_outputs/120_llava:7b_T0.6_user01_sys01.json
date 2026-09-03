@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy mushroom soup",
+      "portion_estimate": "250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Souffl\u00e9 with a dollop of sour cream",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Fish sticks with tartar sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Breaded chicken patty",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    }
+  ]
+}

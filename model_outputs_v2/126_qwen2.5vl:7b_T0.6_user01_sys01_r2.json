@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "125 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "green vegetable with cheese",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    }
+  ]
+}

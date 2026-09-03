@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "uncertain (mashed potatoes or boiled cauliflower)",
+      "portion_estimate": "approximately 200 g",
+      "confidence": "55"
+    },
+    {
+      "name": "cooked white beans",
+      "portion_estimate": "approximately 160 g",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked white fish fillet",
+      "portion_estimate": "approximately 120 g",
+      "confidence": "80"
+    },
+    {
+      "name": "slice of multigrain bread",
+      "portion_estimate": "approximately 35 g",
+      "confidence": "85"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "approximately 120 g total",
+      "confidence": "90"
+    }
+  ]
+}

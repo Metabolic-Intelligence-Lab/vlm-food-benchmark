@@ -1,0 +1,30 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "180g",
+      "confidence_level": "90%"
+    },
+    {
+      "name": "cooked spinach (or kale)",
+      "portion_estimate": "100g",
+      "confidence_level": "90%"
+    },
+    {
+      "name": "potato with meat sauce",
+      "portion_estimate": "80g",
+      "confidence_level": "80%"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50g",
+      "confidence_level": "80%"
+    },
+    {
+      "name": "peanut butter",
+      "portion_estimate": "20g",
+      "confidence_level": "60%"
+    }
+  ],
+  "beverage_items": []
+}

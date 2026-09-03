@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta salad with chickpeas and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "mix of nuts or seeds",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apple sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "dessert or snack item",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

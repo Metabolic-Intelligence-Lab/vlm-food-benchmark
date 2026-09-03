@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Sandwich",
+      "portion_estimate": "250g",
+      "confidence": "60"
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

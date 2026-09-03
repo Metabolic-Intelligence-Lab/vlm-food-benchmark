@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Lettuce",
+      "portion_estimate": "75 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Tomato",
+      "portion_estimate": "30 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Cucumber",
+      "portion_estimate": "25 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Red Onion",
+      "portion_estimate": "15 grams",
+      "confidence": 60
+    }
+  ]
+}

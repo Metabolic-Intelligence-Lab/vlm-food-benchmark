@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled fish fillet",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed salad with dressing",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken pieces (likely thigh or drumstick)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "sliced lemon",
+      "portion_estimate": "30 grams",
+      "confidence": 80
+    },
+    {
+      "name": "creamy tomato-based soup (likely with cheese topping)",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "fried dough or cheese-filled pastry (e.g., samosa or empanada)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole boiled egg",
+      "portion_estimate": "60 grams",
+      "confidence": 90
+    },
+    {
+      "name": "condiment packet (likely soy sauce or similar)",
+      "portion_estimate": "uncertain (not consumed)",
+      "confidence": 50
+    }
+  ]
+}

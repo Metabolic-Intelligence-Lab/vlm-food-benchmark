@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni and Cheese",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Broccoli with Cheese Sauce",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "80g",
+      "confidence": 90
+    }
+  ]
+}

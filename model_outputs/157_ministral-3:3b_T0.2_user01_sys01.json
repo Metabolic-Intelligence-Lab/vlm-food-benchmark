@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "lentil stew",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "small baked potato balls (mashed potato patties)",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "grilled mushroom",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "plastic-wrapped orange fruit (likely a mandarin or tangerine)",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "green fruit (pear or apple)",
+      "portion_estimate": "150",
+      "confidence": 90
+    }
+  ]
+}

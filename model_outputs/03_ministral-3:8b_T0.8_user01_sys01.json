@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce (bowl)",
+      "portion_estimate": "250g",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed broccoli (with mushrooms)",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "chicken breast with herbs/pan sauce",
+      "portion_estimate": "120g",
+      "confidence": "75"
+    },
+    {
+      "name": "whole wheat bread roll",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    },
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "uncertain (glass volume unclear)",
+      "confidence": "30"
+    }
+  ]
+}

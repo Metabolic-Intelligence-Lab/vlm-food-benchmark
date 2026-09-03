@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "220 g",
+      "confidence": "82"
+    },
+    {
+      "name": "broccoli (cooked, mixed with herbs/seasoning)",
+      "portion_estimate": "140 g",
+      "confidence": "75"
+    },
+    {
+      "name": "eggplant slice (cooked/roasted)",
+      "portion_estimate": "40 g",
+      "confidence": "70"
+    },
+    {
+      "name": "round slice of poultry or pork roast (served on eggplant, topped with green garnish)",
+      "portion_estimate": "60 g",
+      "confidence": "52"
+    },
+    {
+      "name": "bread roll (white bun)",
+      "portion_estimate": "70 g",
+      "confidence": "78"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "250 g",
+      "confidence": "85"
+    }
+  ]
+}

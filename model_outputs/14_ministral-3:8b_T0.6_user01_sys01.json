@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad with radicchio, shredded carrots, and other greens",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with tomato-based sauce (pennone/penne or similar)",
+      "portion_estimate": "180 grams (cooked)",
+      "confidence": 80
+    },
+    {
+      "name": "baked bread roll or ciabatta",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "fried or baked cutlet (likely chicken or vegetable-based, topped with tomato sauce)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "uncertain (estimated ~200 ml)",
+      "confidence": 50
+    }
+  ]
+}

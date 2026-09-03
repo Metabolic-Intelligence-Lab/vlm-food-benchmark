@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "battered and fried fish fillet",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "steamed cauliflower florets",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "green vegetable soup (likely pea or split pea soup) with grated cheese",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "sliced bread (likely whole grain or rye)",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "small container of fruit yogurt (Vovo brand)",
+      "portion_estimate": "75",
+      "confidence": "85"
+    },
+    {
+      "name": "water (in clear bottle, partially visible)",
+      "portion_estimate": "200",
+      "confidence": "60"
+    }
+  ]
+}

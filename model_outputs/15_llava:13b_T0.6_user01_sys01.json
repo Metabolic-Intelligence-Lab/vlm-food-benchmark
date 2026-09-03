@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Eggs",
+      "portion_estimate": "100-200 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "50-100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50-100 grams",
+      "confidence": "80"
+    }
+  ]
+}

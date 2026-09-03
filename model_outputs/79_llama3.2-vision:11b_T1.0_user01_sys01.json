@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "white beans",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "sandwich or pastry",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

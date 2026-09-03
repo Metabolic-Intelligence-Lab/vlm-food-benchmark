@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "white bread",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "carrot pieces",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed vegetable stew",
+      "portion_estimate": "150",
+      "confidence": "75"
+    }
+  ]
+}

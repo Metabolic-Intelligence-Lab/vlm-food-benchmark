@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain, approx. slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain, whole fruit size",
+      "confidence": "60"
+    },
+    {
+      "name": "Macaroni and cheese with mushrooms",
+      "portion_estimate": "approx. 1/2 plate",
+      "confidence": "95"
+    },
+    {
+      "name": "Green salad (possibly zucchini or cucumber)",
+      "portion_estimate": "uncertain, approx. half of white plate size",
+      "confidence": "60"
+    },
+    {
+      "name": "Pizza slice with cheese and possibly spinach",
+      "portion_estimate": "approx. 1/4 plate",
+      "confidence": "95"
+    }
+  ]
+}

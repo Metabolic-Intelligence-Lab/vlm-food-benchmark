@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fried plantains",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed or blanched vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "baked pastry",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "uncooked rice or crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "green leafy vegetables (possibly spinach)",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "yellow fruit with green leaves (possibly apricots)",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "baked bread or pastry",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "white fish with yellow seasoning (possibly cod)",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    }
+  ]
+}

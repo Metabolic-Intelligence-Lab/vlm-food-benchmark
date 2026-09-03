@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked meat or fish (possibly chicken or salmon)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "carrots and onions",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cooked pasta or rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mashed potatoes or starch",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

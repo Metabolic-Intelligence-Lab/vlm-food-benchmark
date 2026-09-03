@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "crispy fried chicken",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt with fruit",
+      "portion_estimate": "120",
+      "confidence": 60
+    }
+  ]
+}

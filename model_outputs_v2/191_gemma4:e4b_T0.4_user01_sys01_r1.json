@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broth or soup",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Sliced carrots",
+      "portion_estimate": "90",
+      "confidence": "95"
+    },
+    {
+      "name": "Cooked vegetable side pieces",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "Dark leafy greens or seaweed",
+      "portion_estimate": "30",
+      "confidence": "70"
+    },
+    {
+      "name": "Liquid oil or broth component (in plastic bag)",
+      "portion_estimate": "50",
+      "confidence": "65"
+    }
+  ]
+}

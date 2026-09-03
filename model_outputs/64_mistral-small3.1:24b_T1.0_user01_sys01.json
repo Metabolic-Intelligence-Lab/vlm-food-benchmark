@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potato cubes",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "baked potato with topping",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "sliced bread rolls",
+      "portion_estimate": "120",
+      "confidence": 75
+    }
+  ]
+}

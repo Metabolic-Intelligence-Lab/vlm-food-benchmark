@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta with Red Pepper Sauce",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Grilled Vegetables",
+      "portion_estimate": "150g",
+      "confidence": "40"
+    },
+    {
+      "name": "Baked Brie with Crust",
+      "portion_estimate": "50g",
+      "confidence": "75"
+    },
+    {
+      "name": "Whole Wheat Bread",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    }
+  ]
+}

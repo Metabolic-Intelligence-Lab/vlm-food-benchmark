@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with creamy sauce",
+      "portion_estimate": "220 g",
+      "confidence": "74"
+    },
+    {
+      "name": "baked chicken breast (with sauce/glaze)",
+      "portion_estimate": "160 g",
+      "confidence": "70"
+    },
+    {
+      "name": "diced mixed vegetables (carrot and possibly potato/parsnip)",
+      "portion_estimate": "90 g",
+      "confidence": "62"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "83"
+    },
+    {
+      "name": "Sprinday fruit yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "86"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "peas with ham/bacon",
+      "portion_estimate": "120 g",
+      "confidence": 85
+    },
+    {
+      "name": "small baked pastry/dessert",
+      "portion_estimate": "60 g",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll (bun)",
+      "portion_estimate": "110 g",
+      "confidence": 90
+    }
+  ]
+}

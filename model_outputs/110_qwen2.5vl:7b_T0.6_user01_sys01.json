@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pea and carrot stir-fry",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Grilled vegetable sandwich",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Grilled vegetable sandwich",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "200 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Vegetable soup",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    }
+  ]
+}

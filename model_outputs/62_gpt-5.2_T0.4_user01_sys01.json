@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with tomato-based sauce (with diced vegetables)",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked leafy greens (spinach/chard), plain or lightly seasoned",
+      "portion_estimate": "150 g",
+      "confidence": "68"
+    },
+    {
+      "name": "breaded patty/cutlet with brown sauce (possibly gravy)",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll (white), packaged",
+      "portion_estimate": "65 g",
+      "confidence": "72"
+    },
+    {
+      "name": "Yomo yogurt drink, strawberry (fragola)",
+      "portion_estimate": "125 g",
+      "confidence": "80"
+    }
+  ]
+}

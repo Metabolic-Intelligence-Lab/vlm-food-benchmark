@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fish with sauce and garnish",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "fusilli pasta",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "saut\u00e9ed bamboo shoots",
+      "portion_estimate": "60g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": 90
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "110g",
+      "confidence": 95
+    }
+  ]
+}

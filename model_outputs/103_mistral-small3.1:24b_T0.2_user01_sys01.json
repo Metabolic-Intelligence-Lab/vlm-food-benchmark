@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "roasted pork",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "pumpkin soup",
+      "portion_estimate": "250",
+      "confidence": "80"
+    },
+    {
+      "name": "grissini breadstick",
+      "portion_estimate": "20",
+      "confidence": "75"
+    }
+  ]
+}

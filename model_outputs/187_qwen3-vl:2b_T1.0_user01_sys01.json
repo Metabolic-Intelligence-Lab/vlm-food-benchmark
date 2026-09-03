@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Bocconcini",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

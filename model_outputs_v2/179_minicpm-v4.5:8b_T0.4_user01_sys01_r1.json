@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta with red sauce",
+      "portion_estimate": "100-120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "boiled potato",
+      "portion_estimate": "100-120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "white rice with cauliflower",
+      "portion_estimate": "100-120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "green vegetable balls (spinach-based)",
+      "portion_estimate": "50-60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small bun or bread roll",
+      "portion_estimate": "50-60 grams",
+      "confidence": 90
+    }
+  ]
+}

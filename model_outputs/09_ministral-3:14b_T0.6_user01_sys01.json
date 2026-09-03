@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll or small sandwich (partially wrapped)",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "fried potato wedges (with seasoning)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "crispy fried meat or chicken pieces (battered)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "roasted or baked potato and vegetable mix (with herbs)",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt or similar dairy product (individual serving cup)",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "water (in clear glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "salt or seasoning packet (small)",
+      "portion_estimate": "5",
+      "confidence": 70
+    },
+    {
+      "name": "plastic wrap (non-food)",
+      "portion_estimate": "0",
+      "confidence": 0
+    },
+    {
+      "name": "plastic cutlery or napkin (non-food)",
+      "portion_estimate": "0",
+      "confidence": 0
+    }
+  ]
+}

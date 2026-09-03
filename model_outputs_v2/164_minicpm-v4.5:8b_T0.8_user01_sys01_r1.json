@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green soup with white topping",
+      "portion_estimate": "300-350g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50-70g",
+      "confidence": 85
+    },
+    {
+      "name": "yellow vegetable mix (possibly sauerkraut or cooked cabbage)",
+      "portion_estimate": "150-200g",
+      "confidence": 80
+    },
+    {
+      "name": "breaded fried item with potato chips",
+      "portion_estimate": "150-200g",
+      "confidence": 80
+    },
+    {
+      "name": "peach yogurt",
+      "portion_estimate": "125g",
+      "confidence": 100
+    },
+    {
+      "name": "yellow sauce packet (likely mayonnaise or similar)",
+      "portion_estimate": "50-75g",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain, likely over a cup's worth but under half a bowl",
+      "confidence": "50"
+    },
+    {
+      "name": "cracker and cheese",
+      "portion_estimate": "uncertain, appears to be several crackers with some cheese on top of one cracker",
+      "confidence": "60"
+    },
+    {
+      "name": "cauliflower rice",
+      "portion_estimate": "uncertain but likely a serving size for side dishes",
+      "confidence": "75"
+    }
+  ]
+}

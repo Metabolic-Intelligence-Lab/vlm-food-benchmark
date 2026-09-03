@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce and grated parmesan",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetable saute (zucchini, carrots, peas, potatoes)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "spinach and ricotta savory pie slice with grated cheese",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "170",
+      "confidence": 85
+    }
+  ]
+}

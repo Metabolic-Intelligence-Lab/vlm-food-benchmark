@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with vegetables",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "30",
+      "confidence": 70
+    },
+    {
+      "name": "grilled chicken",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": 90
+    }
+  ]
+}

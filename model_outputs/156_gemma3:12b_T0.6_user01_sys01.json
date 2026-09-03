@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "dinner roll",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "farfalle pasta with pesto",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "75",
+      "confidence": "75"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120",
+      "confidence": "90"
+    }
+  ]
+}

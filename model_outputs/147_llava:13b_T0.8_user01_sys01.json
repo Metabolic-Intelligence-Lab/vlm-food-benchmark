@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "meat dish (chicken or poultry)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "vegetables (carrots or root vegetables)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "mashed potatoes with gravy",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "bread (garlic bread)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "fruits (plums or grapes)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

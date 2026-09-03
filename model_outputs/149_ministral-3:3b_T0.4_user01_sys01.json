@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with penne and cheese (parmesan/pancetta/pepperoni sauce)",
+      "portion_estimate": 250,
+      "confidence": 95
+    },
+    {
+      "name": "sliced bread with herbed butter",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "grilled chicken or meatballs with creamy sauce",
+      "portion_estimate": 180,
+      "confidence": 90
+    },
+    {
+      "name": "plain yogurt or cream-based sauce (orange-colored liquid)",
+      "portion_estimate": 150,
+      "confidence": 70
+    },
+    {
+      "name": "plums (3 visible)",
+      "portion_estimate": 50,
+      "confidence": 80
+    },
+    {
+      "name": "baguette or sandwich roll (yellow baguette in plastic bag)",
+      "portion_estimate": 120,
+      "confidence": 65
+    }
+  ]
+}

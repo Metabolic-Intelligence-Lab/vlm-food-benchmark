@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fish fillet",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed vegetables with pasta",
+      "portion_estimate": "250g",
+      "confidence": "80"
+    },
+    {
+      "name": "Whole wheat bread roll",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": "250ml",
+      "confidence": "90"
+    }
+  ]
+}

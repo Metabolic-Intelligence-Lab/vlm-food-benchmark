@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based or butternut squash soup",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "ketchup",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "sugar",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "hot sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

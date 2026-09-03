@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "bean soup (light broth with small white beans)",
+      "portion_estimate": "320 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded fried patty/croquette (possibly vegetable or fish) with white sauce on top",
+      "portion_estimate": "90 g",
+      "confidence": "55"
+    },
+    {
+      "name": "white sauce/dressing (on patty)",
+      "portion_estimate": "20 g",
+      "confidence": "65"
+    },
+    {
+      "name": "small wedge of hard cheese",
+      "portion_estimate": "25 g",
+      "confidence": "60"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "75"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "160 g",
+      "confidence": "80"
+    }
+  ]
+}

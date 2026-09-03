@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fried eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "french fries",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad dressing",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

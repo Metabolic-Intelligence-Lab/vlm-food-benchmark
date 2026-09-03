@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "breaded and fried fish fillet (likely schnitzel or similar)",
+      "portion_estimate": 120,
+      "confidence": 85
+    },
+    {
+      "name": "grilled or saut\u00e9ed green beans",
+      "portion_estimate": 80,
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetable and potato dish with caramelized onions (potage, r\u00f6sti, or similar)",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "dark purple fruit (possibly plums or dried figs, raw)",
+      "portion_estimate": 80,
+      "confidence": 80
+    },
+    {
+      "name": "water in a glass",
+      "portion_estimate": 250,
+      "confidence": 90
+    },
+    {
+      "name": "white sugar packet (e.g., single-serve, ~4g sugar)",
+      "portion_estimate": 4,
+      "confidence": 70
+    }
+  ]
+}

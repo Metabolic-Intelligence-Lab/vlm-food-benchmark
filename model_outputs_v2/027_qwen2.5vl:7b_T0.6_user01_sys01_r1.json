@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Burger with tomato sauce",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Greens",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "125 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": "200 milliliters",
+      "confidence": 80
+    }
+  ]
+}

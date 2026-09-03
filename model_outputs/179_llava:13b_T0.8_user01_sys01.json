@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta dish with tomato sauce and possible vegetables/meat",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "grain or rice-based meal with broccoli and vegetables/meat",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "dessert - fruit or baked treat",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

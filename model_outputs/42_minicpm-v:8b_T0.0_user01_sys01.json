@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "uncertain, approx. weight of plate",
+      "confidence": "50"
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "uncertain, approx. weight of plate",
+      "confidence": "60"
+    },
+    {
+      "name": "Purple sweet potato cake with yellow sauce",
+      "portion_estimate": "uncertain, approx. weight of piece",
+      "confidence": "50"
+    },
+    {
+      "name": "Apricots (3)",
+      "portion_estimate": "uncertain, approx. each fruit's size",
+      "confidence": "60"
+    }
+  ]
+}

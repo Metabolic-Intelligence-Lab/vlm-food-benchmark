@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed pasta (penne, fusilli, etc.)",
+      "portion_estimate": "200-250",
+      "confidence": "95"
+    },
+    {
+      "name": "Creamy tomato sauce base",
+      "portion_estimate": "100-150",
+      "confidence": "90"
+    },
+    {
+      "name": "Mixed vegetables (peas, carrots, etc.)",
+      "portion_estimate": "50-75",
+      "confidence": "85"
+    }
+  ]
+}

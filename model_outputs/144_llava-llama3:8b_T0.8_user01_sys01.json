@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "loaf of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "macaroni and cheese with SilkSoy milk",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "scrambled eggs and bacon",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

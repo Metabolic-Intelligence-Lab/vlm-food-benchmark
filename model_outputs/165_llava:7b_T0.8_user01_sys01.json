@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup (broth with vegetables/greens)",
+      "portion_estimate": "400 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Creamy soup (possibly with chicken)",
+      "portion_estimate": "400 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Sandwich",
+      "portion_estimate": "100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Gravy or sauce",
+      "portion_estimate": "50 grams",
+      "confidence": "40"
+    },
+    {
+      "name": "Condiment packet (cream cheese)",
+      "portion_estimate": "N/A",
+      "confidence": "20"
+    }
+  ]
+}

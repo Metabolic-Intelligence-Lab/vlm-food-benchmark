@@ -1,0 +1,26 @@
+{
+  "food_items": [
+    {
+      "name": "slice of bread",
+      "portion_estimate": "large piece",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "smaller piece",
+      "confidence": 85
+    },
+    {
+      "name": "soup with shredded cheese on top",
+      "portion_estimate": "medium bowl",
+      "confidence": 60
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "small plate of veggies",
+      "confidence": 70
+    },
+    {
+      "name": "apple slice",
+      "portion_estimate": "one apple slice",
+      "confidence": 40

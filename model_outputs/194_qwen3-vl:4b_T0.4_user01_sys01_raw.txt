@@ -1,0 +1,25 @@
+The problem requires calculating the total weight of all the given items:
+
+- A bowl of vegetable soup weighs **250 grams**.
+- A glass of water weighs **200 grams**.
+- A serving of leafy greens weighs **100 grams**.
+- A whole orange weighs **120 grams**.
+- A roll of bread weighs **100 grams**.
+- A muffin weighs **50 grams**.
+
+To find the total weight, we sum the individual weights:
+
+$$
+250 + 200 + 100 + 120 + 100 + 50
+$$
+
+Step-by-step addition:
+- $250 + 200 = 450$
+- $450 + 100 = 550$
+- $550 + 120 = 670$
+- $670 + 100 = 770$
+- $770 + 50 = 820$
+
+Thus, the total weight of all these items is **820 grams**.
+
+\boxed{820}

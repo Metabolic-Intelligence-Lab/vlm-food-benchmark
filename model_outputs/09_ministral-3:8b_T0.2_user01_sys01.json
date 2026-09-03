@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "baked potato wedges with seasoning",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "chicken or fish with breadcrumbs and herbs",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "ground meat or lentil-based meat substitute with tomato sauce",
+      "portion_estimate": "180g",
+      "confidence": 75
+    },
+    {
+      "name": "mashed or diced potatoes (likely sweet potatoes or regular potatoes)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "packaged bread roll or bun",
+      "portion_estimate": "uncertain (likely 50-70g)",
+      "confidence": 60
+    },
+    {
+      "name": "yogurt or dairy dessert in small container",
+      "portion_estimate": "uncertain (likely 100-120g)",
+      "confidence": 70
+    },
+    {
+      "name": "water in clear plastic cup",
+      "portion_estimate": "uncertain (likely 250-300ml)",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "uncertain, approx. 200-300g",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "uncertain, approx. 60g",
+      "confidence": "40"
+    },
+    {
+      "name": "Milkshake or Smoothie in a Cup",
+      "portion_estimate": "125ml",
+      "confidence": "80"
+    }
+  ]
+}

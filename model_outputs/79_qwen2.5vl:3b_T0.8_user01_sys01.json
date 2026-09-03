@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Crispy Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "White Beans",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Crusty Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    },
+    {
+      "name": "Fruits",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

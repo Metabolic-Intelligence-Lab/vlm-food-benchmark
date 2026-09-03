@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (macaroni or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "scrambled eggs with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "vegetables (carrots, green peppers, and mixed vegetables)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

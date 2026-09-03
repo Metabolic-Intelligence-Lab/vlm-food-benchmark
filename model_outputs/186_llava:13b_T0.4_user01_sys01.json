@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fried rice with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "breaded meat (chicken or pork)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "curry or stew with vegetables and protein",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water or beverage",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

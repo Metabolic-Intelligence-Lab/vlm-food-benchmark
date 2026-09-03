@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Green leafy vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "White meat with butter",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

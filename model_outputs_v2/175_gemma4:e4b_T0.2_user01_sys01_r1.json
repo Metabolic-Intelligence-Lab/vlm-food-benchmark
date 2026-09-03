@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked white protein (e.g., chicken or fish)",
+      "portion_estimate": "120 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked green beans or vegetable stew",
+      "portion_estimate": "180 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Cooked dark leafy greens (e.g., spinach or kale)",
+      "portion_estimate": "130 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Whole orange or mandarin",
+      "portion_estimate": "180 grams",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "35g",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "Rice and Greens Salad",
+      "portion_estimate": "180g",
+      "confidence": 75
+    },
+    {
+      "name": "Roasted Potatoes",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "Fish",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250g",
+      "confidence": 90
+    }
+  ]
+}

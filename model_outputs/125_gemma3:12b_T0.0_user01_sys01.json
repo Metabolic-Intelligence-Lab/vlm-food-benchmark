@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken curry with rice",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "banana muffin",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt, fruit flavored",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "milk",
+      "portion_estimate": "240",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "40",
+      "confidence": "75"
+    }
+  ]
+}

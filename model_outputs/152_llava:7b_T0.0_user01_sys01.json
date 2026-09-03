@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Pizza",
+      "portion_estimate": "1 slice",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "1 serving",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "1 serving",
+      "confidence": "60"
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "1 serving",
+      "confidence": "70"
+    },
+    {
+      "name": "Carrot slices",
+      "portion_estimate": "1 serving",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "1 piece",
+      "confidence": "70"
+    },
+    {
+      "name": "Purple grapes",
+      "portion_estimate": "1 serving",
+      "confidence": "60"
+    }
+  ]
+}

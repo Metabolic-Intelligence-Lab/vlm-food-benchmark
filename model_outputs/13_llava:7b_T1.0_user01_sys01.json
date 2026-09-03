@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Watermelon wedge with rind",
+      "portion_estimate": "125 g (approx.)",
+      "confidence": 60
+    },
+    {
+      "name": "White plate with red noodles",
+      "portion_estimate": "200 g (approx.)",
+      "confidence": 70
+    },
+    {
+      "name": "Chicken patty and kale",
+      "portion_estimate": "150 g (approx. for meat) and 50 g (approx. for greens)",
+      "confidence": 80
+    }
+  ]
+}

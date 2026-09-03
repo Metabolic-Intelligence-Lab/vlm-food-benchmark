@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich wrapped in plastic and chips",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "plate with cheese and red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "piece of bread, grapes, and noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with marinara sauce",
+      "portion_estimate": "200 g",
+      "confidence": 90
+    },
+    {
+      "name": "whole wheat dinner roll (one slice)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "green beans with eggs (quiche/frittata)",
+      "portion_estimate": "150 g",
+      "confidence": 85
+    },
+    {
+      "name": "almond milk carton",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "baked/seasoned soy sauce canister (label visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

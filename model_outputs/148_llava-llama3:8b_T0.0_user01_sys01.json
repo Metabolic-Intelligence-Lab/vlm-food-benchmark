@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "roasted vegetables with carrots and grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread with blueberries",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

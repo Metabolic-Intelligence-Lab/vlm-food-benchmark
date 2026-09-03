@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken and vegetable soup",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "banana muffin",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt, mixed fruit",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "milk",
+      "portion_estimate": "240",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "40",
+      "confidence": "70"
+    }
+  ]
+}

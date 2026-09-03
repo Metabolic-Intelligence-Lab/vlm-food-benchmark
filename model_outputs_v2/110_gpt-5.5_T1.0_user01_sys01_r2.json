@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup or stew",
+      "portion_estimate": "350 g",
+      "confidence": "80"
+    },
+    {
+      "name": "grated hard cheese topping",
+      "portion_estimate": "15 g",
+      "confidence": "75"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "savory baked vegetable pastry or frittata slice",
+      "portion_estimate": "90 g",
+      "confidence": "55"
+    },
+    {
+      "name": "cooked peas and carrots",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "120 g",
+      "confidence": "90"
+    },
+    {
+      "name": "packaged cheese stick or slice",
+      "portion_estimate": "25 g",
+      "confidence": "55"
+    }
+  ]
+}

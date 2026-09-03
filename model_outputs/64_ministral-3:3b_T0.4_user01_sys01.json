@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "roasted potatoes with bacon bits",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "sausage roll (partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "whole wheat bun (partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "red sauce container (potato or tomato sauce)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "blue plastic container (potato or salad dressing)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

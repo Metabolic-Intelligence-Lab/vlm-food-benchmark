@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Scrambled egg on top of French fries",
+      "portion_estimate": "uncertain, approx 150-200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain, approx 80-100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Mushroom bun in plastic wrap",
+      "portion_estimate": "uncertain, approx 45-55g",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt cup with red lid and white label",
+      "portion_estimate": "approx. 6oz or 180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": "uncertain, approx 250-300ml",
+      "confidence": "70"
+    }
+  ]
+}

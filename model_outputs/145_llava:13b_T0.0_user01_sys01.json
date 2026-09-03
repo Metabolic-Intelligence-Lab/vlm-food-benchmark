@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "dal (lentil dish)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "vegetables (cauliflower and potatoes)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "condiment or chutney",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Indian snack or sweet",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "roti or naan (flatbread)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

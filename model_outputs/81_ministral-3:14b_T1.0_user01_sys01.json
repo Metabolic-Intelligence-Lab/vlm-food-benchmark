@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes (yellow)",
+      "portion_estimate": 250,
+      "confidence": 85
+    },
+    {
+      "name": "kale or cooked spinach",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "sausage patties (fried, golden brown)",
+      "portion_estimate": 150,
+      "confidence": 85
+    }
+  ]
+}

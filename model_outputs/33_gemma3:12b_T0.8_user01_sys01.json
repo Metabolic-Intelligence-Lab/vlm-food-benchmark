@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "baked fish fillet",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed salad with tomato dressing",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "180",
+      "confidence": "70"
+    }
+  ]
+}

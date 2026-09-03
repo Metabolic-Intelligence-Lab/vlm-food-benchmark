@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Plate of meat and potatoes",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Cup of sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Pasta salad with vegetables",
+      "portion_estimate": "120 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Cup of yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

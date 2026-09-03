@@ -1,0 +1,31 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and parmesan",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with red sauce, likely tomato-based",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread with butter and a spreadable cream cheese substitute",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "Clear water in a glass",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Red yogurt with fruit, likely cherry or strawberry-flavored",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

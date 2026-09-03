@@ -1,0 +1,60 @@
+**Food Image Analysis**
+
+### Food Items
+
+1. **Broccoli**: A steamed or cooked broccoli floret.
+2. **Fish**: A piece of fish, likely cooked and served with a topping.
+3. **Bread**: A roll or bread roll.
+4. **Soup**: A bowl of soup, likely a vegetable or broth-based soup.
+5. **Yogurt**: A container of yogurt, possibly a dessert or a side.
+6. **Water**: A glass of water.
+
+### Portion Estimates
+
+1. **Broccoli**: 100g
+2. **Fish**: 150g
+3. **Bread**: 50g
+4. **Soup**: 300g
+5. **Yogurt**: 100g
+6. **Water**: 500g (approx. 2-3 cups)
+
+### Confidence
+
+All food items are identified with high confidence (80-100%).
+
+### JSON Output
+
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Fish",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "300g",
+      "confidence": "95"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "500g",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded meat patty/cutlet with sauce and shredded cabbage/vegetable topping",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked farfalle pasta (plain/lightly seasoned)",
+      "portion_estimate": "220 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked cauliflower pieces",
+      "portion_estimate": "120 g",
+      "confidence": "65"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 g",
+      "confidence": "90"
+    }
+  ]
+}

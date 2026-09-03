@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "roast meat (likely pork or chicken)",
+      "portion_estimate": "100-150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "fried rice or hash browns",
+      "portion_estimate": "150-200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50-75 grams",
+      "confidence": 70
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200-250 ml",
+      "confidence": 90
+    }
+  ]
+}

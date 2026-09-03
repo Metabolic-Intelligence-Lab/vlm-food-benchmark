@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled vegetable and herb patty (e.g., quinoa or black bean-based)",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "steamed green beans",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "watermelon wedge",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "pasta (penne) with grated cheese and possible tomato sauce",
+      "portion_estimate": "160g",
+      "confidence": 95
+    },
+    {
+      "name": "baked or steamed baguette roll",
+      "portion_estimate": "uncertain (wrapped in plastic, not fully visible)",
+      "confidence": 50
+    }
+  ]
+}

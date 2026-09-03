@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked potatoes",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "brownie or dessert",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "plastic-wrapped item",
+      "portion_estimate": "20",
+      "confidence": 80
+    },
+    {
+      "name": "plastic-wrapped fruit",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetable salad",
+      "portion_estimate": "150",
+      "confidence": 80
+    }
+  ]
+}

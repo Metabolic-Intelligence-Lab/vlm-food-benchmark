@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Bowl of mixed vegetables (purple cabbage, lettuce)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Apricot",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Grilled vegetable wrap",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "Green leafy vegetable (possibly spinach)",
+      "portion_estimate": "50",
+      "confidence": 80
+    }
+  ]
+}

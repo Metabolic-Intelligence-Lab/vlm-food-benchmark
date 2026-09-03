@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Baked Pasta (Lasagna-like)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Rice with Vegetable Curry/Stew",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Sandwich with Meat and Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Side Salad Greens",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Ketchup/Dipping Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Sugar Packets",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Lemon",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Lime",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

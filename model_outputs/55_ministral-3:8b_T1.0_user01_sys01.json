@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed saut\u00e9ed vegetables (carrots, peas/broccoli, mushrooms, and potatoes)",
+      "portion_estimate": "200g (uncertain, estimated portion on a standard-sized plate)",
+      "confidence": 65
+    },
+    {
+      "name": "chicken or tofu (appears to be breaded and pan-fried)",
+      "portion_estimate": "120g (uncertain, estimated portion on a standard-sized plate)",
+      "confidence": 60
+    },
+    {
+      "name": "steamed collard greens (or spinach-like leafy vegetable)",
+      "portion_estimate": "150g (uncertain, estimated portion on a standard-sized plate)",
+      "confidence": 70
+    },
+    {
+      "name": "water in a clear plastic cup",
+      "portion_estimate": "uncertain (visible contents approximate to about 200ml, but difficult to measure accurately)",
+      "confidence": 60
+    },
+    {
+      "name": "unidentified sauce/dressing in small packet (likely sweet chili or similar)",
+      "portion_estimate": "uncertain (approximately 15-20g, based on packet size)",
+      "confidence": 50
+    }
+  ]
+}

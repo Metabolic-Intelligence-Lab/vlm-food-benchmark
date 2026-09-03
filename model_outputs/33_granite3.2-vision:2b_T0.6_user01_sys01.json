@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (spaghetti or fettuccine)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "tomato-based sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "potato crust",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "green leafy vegetables (asparagus or peas)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "cheese or bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

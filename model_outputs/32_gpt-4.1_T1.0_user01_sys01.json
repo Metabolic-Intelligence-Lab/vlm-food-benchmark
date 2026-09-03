@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi pasta with tomato sauce",
+      "portion_estimate": "220",
+      "confidence": 95
+    },
+    {
+      "name": "grated parmesan cheese",
+      "portion_estimate": "15",
+      "confidence": 90
+    },
+    {
+      "name": "cooked cherry tomatoes",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "fresh basil leaves",
+      "portion_estimate": "3",
+      "confidence": 70
+    }
+  ]
+}

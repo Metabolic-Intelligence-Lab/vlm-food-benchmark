@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Pasta salad",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "1 medium-sized apple",
+      "confidence": 70
+    },
+    {
+      "name": "Rolled up piece of bread with butter or margarine on it",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Pasta salad with vegetables and meat",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Soup with a piece of fried bread on top",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    }
+  ]
+}

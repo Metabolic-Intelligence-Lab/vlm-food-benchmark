@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Meatballs",
+      "portion_estimate": "approx. 30g",
+      "confidence": 85
+    },
+    {
+      "name": "Pasta with Sauce",
+      "portion_estimate": "approx. 150g",
+      "confidence": 75
+    },
+    {
+      "name": "Cake Slice",
+      "portion_estimate": "approx. 60g",
+      "confidence": 70
+    }
+  ]
+}

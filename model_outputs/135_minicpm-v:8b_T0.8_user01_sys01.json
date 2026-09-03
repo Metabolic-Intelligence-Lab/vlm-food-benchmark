@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "Sweet potato mash",
+      "portion_estimate": "approximate weight in grams based on visible chunks and size of dish",
+      "confidence": 90
+    },
+    {
+      "name": "Braised pork with a dark sauce",
+      "portion_estimate": "approximate weight in grams estimated from the amount covering the sweet potato mash",
+      "confidence": 85
+    }
+  ]
+}

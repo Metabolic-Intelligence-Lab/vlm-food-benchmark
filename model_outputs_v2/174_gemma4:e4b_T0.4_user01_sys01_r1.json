@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Saut\u00e9ed vegetable medley (on left plate)",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Seared fillet with creamy sauce (on left plate)",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Saut\u00e9ed dark leafy greens (on right plate)",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    },
+    {
+      "name": "Dinner roll or bread bun",
+      "portion_estimate": "90g",
+      "confidence": "90"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "130g",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "mixed grain salad (rice, corn, peas)",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "egg omelet slice",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "roasted carrots and potatoes",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "bun roll",
+      "portion_estimate": "60",
+      "confidence": 85
+    }
+  ]
+}

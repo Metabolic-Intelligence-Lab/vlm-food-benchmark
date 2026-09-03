@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans in tomato-based sauce",
+      "portion_estimate": "180 g",
+      "confidence": "78"
+    },
+    {
+      "name": "white fish fillet in creamy sauce with small pieces of ham/bacon and parsley",
+      "portion_estimate": "120 g",
+      "confidence": "62"
+    },
+    {
+      "name": "cooked leafy greens (spinach/chard) with potato pieces",
+      "portion_estimate": "160 g",
+      "confidence": "68"
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60 g",
+      "confidence": "65"
+    },
+    {
+      "name": "orange (whole)",
+      "portion_estimate": "160 g",
+      "confidence": "88"
+    }
+  ]
+}

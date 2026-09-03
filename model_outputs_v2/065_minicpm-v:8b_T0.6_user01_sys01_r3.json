@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "lettuce",
+      "portion_estimate": "uncertain, estimate based on bowl size",
+      "confidence": "50"
+    },
+    {
+      "name": "salad dressing",
+      "portion_estimate": "uncertain, bottle typically holds about 240g (8oz)",
+      "confidence": "50"
+    },
+    {
+      "name": "egg salad sandwich",
+      "portion_estimate": "uncertain, estimate based on plate size and typical portion sizes of egg sandwiches",
+      "confidence": "60"
+    },
+    {
+      "name": "potato wedges",
+      "portion_estimate": "uncertain, plate typically holds about 125g (4.3oz)",
+      "confidence": "50"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain, typical size is around 89-178g depending on variety and ripeness",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "sliced bread",
+      "portion_estimate": "about 100g",
+      "confidence": 75
+    },
+    {
+      "name": "margherite pizza slice",
+      "portion_estimate": "about 80g",
+      "confidence": 75
+    },
+    {
+      "name": "white pasta with sauce and bread crumbs on side",
+      "portion_estimate": "about 200g",
+      "confidence": 14
+    }
+  ]
+}

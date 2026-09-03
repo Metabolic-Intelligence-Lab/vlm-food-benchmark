@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Alfredo sauce and broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Cheesecake slice",
+      "portion_estimate": "170g",
+      "confidence": "90"
+    },
+    {
+      "name": "Grated cheese on pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread in a plastic bag",
+      "portion_estimate": "214g",
+      "confidence": "90"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "uncertain",
+      "confidence": "65"
+    }
+  ]
+}

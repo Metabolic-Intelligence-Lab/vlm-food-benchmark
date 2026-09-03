@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Curry or tomato-based soup/stew",
+      "portion_estimate": "300",
+      "confidence": "90"
+    },
+    {
+      "name": "Diced orange vegetables (likely carrots)",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "Scrambled egg or egg preparation",
+      "portion_estimate": "90",
+      "confidence": "85"
+    },
+    {
+      "name": "Baked dinner roll or bun",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

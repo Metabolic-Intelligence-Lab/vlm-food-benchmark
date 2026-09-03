@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup with chunks",
+      "portion_estimate": "300 grams",
+      "confidence": 90
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "70 grams",
+      "confidence": 85
+    },
+    {
+      "name": "grilled cheese slice (half of a breaded cheese)",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "cheese cubes",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "soup spoon",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "water",
+      "portion_estimate": "150 ml",
+      "confidence": 80
+    },
+    {
+      "name": "packaged cheese snack (red label)",
+      "portion_estimate": "30 grams",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Cheese",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Vegetable Stew",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "30",
+      "confidence": 60
+    }
+  ]
+}

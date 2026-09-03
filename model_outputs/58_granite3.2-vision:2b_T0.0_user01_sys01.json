@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (spaghetti or fettuccine)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "carrots (sliced)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

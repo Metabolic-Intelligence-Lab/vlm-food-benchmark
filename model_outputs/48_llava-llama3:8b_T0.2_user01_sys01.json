@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "green ice cream",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "french fries",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "white substance (cheese or sour cream)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red substance (ketchup)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "milk",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "baguette roll",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

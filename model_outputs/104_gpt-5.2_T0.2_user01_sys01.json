@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bean soup (dark bean/legume soup)",
+      "portion_estimate": "320 g",
+      "confidence": "70"
+    },
+    {
+      "name": "grated parmesan cheese (topping on soup)",
+      "portion_estimate": "8 g",
+      "confidence": "65"
+    },
+    {
+      "name": "cooked green peas",
+      "portion_estimate": "140 g",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked sliced carrots",
+      "portion_estimate": "60 g",
+      "confidence": "75"
+    },
+    {
+      "name": "plain yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "65"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Mac and cheese with bread crumbs",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta salad",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Crispy chicken with fries",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Green banana",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain pasta with cheese and sauce",
+      "portion_estimate": "about 1 cup",
+      "confidence": "70"
+    },
+    {
+      "name": "Potato wedges",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

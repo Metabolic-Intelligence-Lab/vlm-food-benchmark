@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Ground Beef or Pork",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Onion",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Tomato Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 95
+    }
+  ]
+}

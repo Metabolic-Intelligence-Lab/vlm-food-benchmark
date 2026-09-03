@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Cheese",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "French Fries",
+      "portion_estimate": "80g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mushrooms with Cheese Sauce",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    }
+  ],
+  "tablecloth": "white and gray patterned",
+  "condiments": {
+    "ketchup": "jar",
+    "mayonnaise": "bottle",
+    "mustard": "bottle"
+  },
+  "cutlery": {
+    "fork": "silver and black",
+    "knife": "silver and black"
+  }
+}

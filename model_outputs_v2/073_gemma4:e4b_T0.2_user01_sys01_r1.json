@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed scramble or seasoned vegetable/meat mix",
+      "portion_estimate": "180 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Sliced white protein (e.g., chicken or fish)",
+      "portion_estimate": "180 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried croquettes or appetizers",
+      "portion_estimate": "140 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "110 grams",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Rice",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Beans (likely white beans)",
+      "portion_estimate": "30 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "20 grams",
+      "confidence": 65
+    }
+  ]
+}

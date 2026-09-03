@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with herbs",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Pasta dish",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Broccoli frittata",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    }
+  ]
+}

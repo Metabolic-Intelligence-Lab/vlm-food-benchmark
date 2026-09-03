@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne) with grated cheese",
+      "portion_estimate": "200g",
+      "confidence": 75
+    },
+    {
+      "name": "pan-seared chicken patty",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "roasted or baked potato wedges",
+      "portion_estimate": "180g",
+      "confidence": 75
+    },
+    {
+      "name": "whole wheat sandwich roll",
+      "portion_estimate": "60g",
+      "confidence": 70
+    },
+    {
+      "name": "condiment packet (likely ketchup or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "raw celery stalk",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

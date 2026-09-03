@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish fillet (likely white fish)",
+      "portion_estimate": "130 g",
+      "confidence": "72"
+    },
+    {
+      "name": "cooked sliced carrots",
+      "portion_estimate": "110 g",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked lentils with small amount of vegetables (carrot pieces)",
+      "portion_estimate": "210 g",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged fruit juice drink (single-serve cup, likely peach/apricot)",
+      "portion_estimate": "200 g",
+      "confidence": "55"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "250 g",
+      "confidence": "70"
+    }
+  ]
+}

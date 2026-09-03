@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "vegetables",
+      "portion_estimate": "100",
+      "confidence": 80
+    }
+  ]
+}

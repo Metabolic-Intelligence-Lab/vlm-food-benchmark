@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "40",
+      "confidence": "70"
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "fish with lemon zest",
+      "portion_estimate": "80",
+      "confidence": "80"
+    },
+    {
+      "name": "dairy-free salad dressing",
+      "portion_estimate": "30",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup",
+      "portion_estimate": "large",
+      "confidence": "80"
+    },
+    {
+      "name": "plate with vegetables",
+      "portion_estimate": "medium",
+      "confidence": "90"
+    },
+    {
+      "name": "bread on a bag",
+      "portion_estimate": "small",
+      "confidence": "70"
+    }
+  ],
+  "tablecloth": {
+    "color": "white",
+    "pattern": "striped"
+  }
+}

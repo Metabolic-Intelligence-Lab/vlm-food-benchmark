@@ -1,0 +1,30 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "170g",
+      "confidence": 95
+    },
+    {
+      "name": "cauliflower and mixed vegetables",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "carrot-based veggie pukee",
+      "portion_estimate": "60g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "80g",
+      "confidence": 95
+    }
+  ],
+  "notes": "Portion estimates based on visual assessment of typical serving sizes. Ensure to check individual item quantities for accurate tracking."
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "roasted potato wedges",
+      "portion_estimate": "120g",
+      "confidence": 65
+    },
+    {
+      "name": "shredded carrot side dish (agrodolce/sautéed)",
+      "portion_estimate": "60g",
+      "confidence": 55
+    },
+    {
+      "name": "braised beef/pork in dark sauce (stufato/goulash-style)",
+      "portion_estimate": "150g",
+      "confidence": 60
+    }
+  ]
+}

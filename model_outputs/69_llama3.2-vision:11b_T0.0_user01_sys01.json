@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Sausage",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Green Peppers",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "Mushrooms",
+      "portion_estimate": "75",
+      "confidence": "60"
+    },
+    {
+      "name": "Brussel Sprouts",
+      "portion_estimate": "25",
+      "confidence": "50"
+    }
+  ]
+}

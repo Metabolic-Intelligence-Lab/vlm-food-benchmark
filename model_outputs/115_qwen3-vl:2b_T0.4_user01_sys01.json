@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": "150g",
+      "confidence": "100"
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "80g",
+      "confidence": "100"
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "150g",
+      "confidence": "100"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "100g",
+      "confidence": "100"
+    }
+  ]
+}

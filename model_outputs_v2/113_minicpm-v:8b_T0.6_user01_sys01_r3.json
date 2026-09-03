@@ -1,0 +1,26 @@
+{
+  "food_items": [
+    {
+      "name": "Roast Beef",
+      "portion_estimate": "approximate weight in grams"
+    },
+    {
+      "name": "Brussel Sprouts with Carrots",
+      "portion_estimate": "uncertain, estimated portion size based on typical serving sizes for vegetables like brussel sprouts and carrots.",
+      "confidence": 50
+    },
+    {
+      "name": "Red Potatoes",
+      "portion_estimate": "approximate weight in grams"
+    },
+    {
+      "name": "Bread Rolls",
+      "portion_estimate": "uncertain, estimated portion size based on typical serving sizes for bread rolls.",
+      "confidence": 50
+    },
+    {
+      "name": "Soup with Cheese Grated On Top",
+      "portion_estimate": "approximate weight in grams"
+    }
+  ]
+}

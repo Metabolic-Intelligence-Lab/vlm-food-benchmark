@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetarian burger with tomato and sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Bowl of lentil soup",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Bowl of granola with nuts and raisins",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "Slice of whole grain bread",
+      "portion_estimate": "30 grams",
+      "confidence": 60
+    }
+  ]
+}

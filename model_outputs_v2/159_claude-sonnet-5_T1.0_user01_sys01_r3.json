@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with grated parmesan cheese",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "broccoli and spinach savory pie/torta with cheese",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "roasted potato cubes",
+      "portion_estimate": "90",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "sliced cheese (wrapped)",
+      "portion_estimate": "30",
+      "confidence": 55
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150",
+      "confidence": 85
+    }
+  ]
+}

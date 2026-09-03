@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Bread roll with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Dipping sauce (brown)",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    },
+    {
+      "name": "Green leafy vegetable dish with cucumber slices",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Fried fish cakes or patties",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

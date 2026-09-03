@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked cauliflower",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "broccoli with cheese",
+      "portion_estimate": "80 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    }
+  ]
+}

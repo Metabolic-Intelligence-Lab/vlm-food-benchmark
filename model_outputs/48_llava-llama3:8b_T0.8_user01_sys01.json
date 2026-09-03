@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "chicken wings",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "red cup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

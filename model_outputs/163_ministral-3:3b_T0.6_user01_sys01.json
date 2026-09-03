@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bun or roll",
+      "portion_estimate": "100-120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "container of yogurt (unspecified type)",
+      "portion_estimate": "150-180 grams (based on visible can size)",
+      "confidence": 75
+    },
+    {
+      "name": "bowl of soup (likely vegetable or bean-based, with visible chunks)",
+      "portion_estimate": "250-300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed green beans (top right plate)",
+      "portion_estimate": "100 grams (approx)",
+      "confidence": 70
+    },
+    {
+      "name": "sweet potato or carrot mix (bottom right plate)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (likely gnocchi) with tomato chunks",
+      "portion_estimate": "300 grams (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "grated cheese (parmesan or similar)",
+      "portion_estimate": "30 grams (uncertain)",
+      "confidence": 75
+    },
+    {
+      "name": "diced tomatoes",
+      "portion_estimate": "100 grams (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "fresh basil or parsley",
+      "portion_estimate": "5 grams (uncertain)",
+      "confidence": 60
+    }
+  ]
+}

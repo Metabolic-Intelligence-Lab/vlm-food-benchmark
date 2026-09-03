@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "shells pasta (cooked)",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "shredded carrots (cooked)",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "chopped green cabbage or broccoli (cooked)",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "diced cooked potatoes or sweet potatoes",
+      "portion_estimate": "40",
+      "confidence": 75
+    },
+    {
+      "name": "ground beef or turkey (cooked)",
+      "portion_estimate": "60",
+      "confidence": 78
+    },
+    {
+      "name": "cream-based sauce or gravy (liquid component)",
+      "portion_estimate": "40",
+      "confidence": 70
+    }
+  ]
+}

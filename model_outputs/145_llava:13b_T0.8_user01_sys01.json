@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "dal (lentil soup)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "vegetable curry",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "dried fruits (raisins or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "chutneys or sauces",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

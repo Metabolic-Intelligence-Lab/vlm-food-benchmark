@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "125 g",
+      "confidence": "100"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "80 g",
+      "confidence": "100"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "20 g",
+      "confidence": "100"
+    },
+    {
+      "name": "Apricots",
+      "portion_estimate": "45 g",
+      "confidence": "100"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "100 g",
+      "confidence": "100"
+    }
+  ]
+}

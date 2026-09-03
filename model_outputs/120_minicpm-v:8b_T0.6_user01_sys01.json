@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken cutlet",
+      "portion_estimate": "uncertain, approx 50g-100g",
+      "confidence": "60"
+    },
+    {
+      "name": "steamed cauliflower",
+      "portion_estimate": "uncertain, approx 70g-90g",
+      "confidence": "50"
+    },
+    {
+      "name": "potato soup",
+      "portion_estimate": "uncertain, approx 150g-200g",
+      "confidence": "40"
+    },
+    {
+      "name": "sour cream yogurt dip",
+      "portion_estimate": "uncertain, approx 30g",
+      "confidence": "65"
+    },
+    {
+      "name": "whole grain bread slice",
+      "portion_estimate": "uncertain, approx 40-60g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (rigatoni)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "chicken salad (shredded chicken with dressing)",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "30",
+      "confidence": 90
+    },
+    {
+      "name": "tomato wedges",
+      "portion_estimate": "60",
+      "confidence": 85
+    }
+  ]
+}

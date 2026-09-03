@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "lasagna with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "mashed or scalloped potatoes with herbs/spices",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "chicken with sauce (gravy or cream sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "condiment or dessert",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "bread or pastries",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "sugar or sweetener",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

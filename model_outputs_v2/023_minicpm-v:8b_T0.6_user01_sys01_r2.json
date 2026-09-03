@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Penne with tomato sauce",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Cauliflower rice",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Lemon wedge",
+      "portion_estimate": "uncertain, approx. 1/4 to 1/3 of a lemon",
+      "confidence": "50"
+    },
+    {
+      "name": "Tomato-based curry with cauliflower and chickpeas",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain, approx. 150-200g (based on typical packaging size)",
+      "confidence": "80"
+    },
+    {
+      "name": "Croissant",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    }
+  ]
+}

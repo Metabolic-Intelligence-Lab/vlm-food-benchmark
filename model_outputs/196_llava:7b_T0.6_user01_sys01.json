@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Meat with sauce",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Cooked beans",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Sauce in bowl",
+      "portion_estimate": "100ml",
+      "confidence": "70"
+    },
+    {
+      "name": "Chicken drumstick",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Plate of chips",
+      "portion_estimate": "20g",
+      "confidence": "50"
+    }
+  ]
+}

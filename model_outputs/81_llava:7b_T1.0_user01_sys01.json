@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked spinach",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Baked potato with butter",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Two chicken and vegetable patties",
+      "portion_estimate": "200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Sundried tomatoes, possibly in a sauce or salad",
+      "portion_estimate": "50 grams",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "Burger patty with sauce",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed salad (beetroot and carrot)",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Dinner roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "80",
+      "confidence": "80"
+    },
+    {
+      "name": "Sparkling water",
+      "portion_estimate": "250",
+      "confidence": "60"
+    }
+  ]
+}

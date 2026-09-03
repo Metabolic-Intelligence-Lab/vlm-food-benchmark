@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fried gnocchi with tomato sauce and grated cheese",
+      "portion_estimate": "300 grams",
+      "confidence": 75
+    },
+    {
+      "name": "mixed green salad with tomatoes, cucumber, and onion",
+      "portion_estimate": "250 grams",
+      "confidence": 80
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "packaged bread roll (visible but not fully visible portion)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

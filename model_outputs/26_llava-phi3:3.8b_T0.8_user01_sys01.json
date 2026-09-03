@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Chicken",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Potato Salad",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cranberry Sauce",
+      "portion_estimate": "2 tbsp",
+      "confidence": "60"
+    },
+    {
+      "name": "Orange slices",
+      "portion_estimate": "3 pieces",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll in plastic bag",
+      "portion_estimate": "1 piece",
+      "confidence": "80"
+    }
+  ]
+}

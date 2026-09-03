@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cavatappi pasta with tomato sauce and grated cheese",
+      "portion_estimate": "220",
+      "confidence": 80
+    },
+    {
+      "name": "stuffed savory pastry (calzone/pizza rustica with greens filling)",
+      "portion_estimate": "150",
+      "confidence": 65
+    },
+    {
+      "name": "cannellini (white) beans, cooked",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll, packaged",
+      "portion_estimate": "70",
+      "confidence": 75
+    },
+    {
+      "name": "string cheese, packaged",
+      "portion_estimate": "25",
+      "confidence": 70
+    },
+    {
+      "name": "red plums",
+      "portion_estimate": "150",
+      "confidence": 75
+    }
+  ]
+}

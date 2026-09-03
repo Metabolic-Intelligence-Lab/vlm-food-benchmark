@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice with butter/oil",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed greens (e.g., spinach or broccoli rabe) with chunks of meat or seafood",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "roasted or boiled carrots with chunks of what appears to be potato or another starchy vegetable",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "whole lemon",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "condiment bottle (likely olive oil or vinegar)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

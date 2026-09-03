@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "spinach greens and chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

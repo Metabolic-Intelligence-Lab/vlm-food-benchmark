@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "red soup",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "green vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "orange slice",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "cracker with seaweed",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spinach and ricotta stuffed pasta",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "cheesy spinach roll",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "orzo pasta with cheese",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "cucumber salad",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "mandarin oranges",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

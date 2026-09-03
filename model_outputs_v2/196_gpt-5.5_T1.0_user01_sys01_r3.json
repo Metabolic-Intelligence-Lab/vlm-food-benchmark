@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "brown pureed soup",
+      "portion_estimate": "300 g",
+      "confidence": "75"
+    },
+    {
+      "name": "sliced roast meat",
+      "portion_estimate": "90 g",
+      "confidence": "70"
+    },
+    {
+      "name": "brown gravy or sauce on meat",
+      "portion_estimate": "30 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked chickpeas",
+      "portion_estimate": "150 g",
+      "confidence": "90"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "130 g",
+      "confidence": "95"
+    },
+    {
+      "name": "packaged crackers",
+      "portion_estimate": "8 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "95"
+    },
+    {
+      "name": "uncertain packaged food item",
+      "portion_estimate": "30 g",
+      "confidence": "40"
+    }
+  ]
+}

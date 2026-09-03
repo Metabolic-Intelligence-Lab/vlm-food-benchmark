@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Shredded chicken",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

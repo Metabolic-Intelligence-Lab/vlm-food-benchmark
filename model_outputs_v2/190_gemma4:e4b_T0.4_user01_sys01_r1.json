@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fried cutlet (e.g., chicken or fish)",
+      "portion_estimate": "110",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked spinach",
+      "portion_estimate": "130",
+      "confidence": "95"
+    },
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "180",
+      "confidence": "90"
+    }
+  ]
+}

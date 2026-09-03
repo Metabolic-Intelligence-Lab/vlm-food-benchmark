@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne with Mushroom and Cheese Sauce",
+      "portion_estimate": "uncertain, approx. 100g - 250g",
+      "confidence": "60"
+    },
+    {
+      "name": "Quiche",
+      "portion_estimate": "uncertain, approx. 80g - 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Cucumber Salad with Cheese",
+      "portion_estimate": "uncertain, approx. 20g - 40g",
+      "confidence": "70"
+    },
+    {
+      "name": "Apple Bread",
+      "portion_estimate": "uncertain, approx. 80g - 150g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup with cheese topping (likely cream of mushroom or similar)",
+      "portion_estimate": "400 grams (estimated from standard bowl size)",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll (plain, possibly baguette-style)",
+      "portion_estimate": "60 grams (one small roll)",
+      "confidence": 80
+    },
+    {
+      "name": "buttered breadcrumbs or fried breadcrumbs",
+      "portion_estimate": "50 grams (small bowl)",
+      "confidence": 75
+    },
+    {
+      "name": "meatballs or small meat patties (possibly pork or beef)",
+      "portion_estimate": "100 grams (estimated from two visible pieces)",
+      "confidence": 70
+    },
+    {
+      "name": "sauerkraut or pickled cabbage",
+      "portion_estimate": "30 grams (small portion)",
+      "confidence": 70
+    },
+    {
+      "name": "butter or margarine stick (Owow brand)",
+      "portion_estimate": "uncertain (partially visible, ~20-30g)",
+      "confidence": 50
+    },
+    {
+      "name": "plastic wrap (not food)",
+      "portion_estimate": "not applicable",
+      "confidence": 0
+    }
+  ]
+}

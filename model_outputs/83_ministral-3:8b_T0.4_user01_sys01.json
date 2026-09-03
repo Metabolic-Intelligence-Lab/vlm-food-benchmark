@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mixed greens and yellow squash (likely saut\u00e9ed)",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "yellow rice or quinoa",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "grilled chicken breast with green sauce/dressing",
+      "portion_estimate": "180g",
+      "confidence": 80
+    },
+    {
+      "name": "roasted or fried sweet potato cubes",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt (red packaging, likely Greek yogurt)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "packaged orange-colored fruit (likely mandarin oranges or similar)",
+      "portion_estimate": "100g",
+      "confidence": 70
+    }
+  ]
+}

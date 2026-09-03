@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Chickpea salad with chickpeas, patty, and cheese",
+      "portion_estimate": 350,
+      "confidence": 85
+    },
+    {
+      "name": "Fusilli pasta in tomato sauce",
+      "portion_estimate": 250,
+      "confidence": 90
+    },
+    {
+      "name": "Burger bun",
+      "portion_estimate": 60,
+      "confidence": 80
+    }
+  ]
+}

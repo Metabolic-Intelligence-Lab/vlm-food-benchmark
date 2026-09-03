@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "short tube pasta in mixed vegetable sauce",
+      "portion_estimate": "180 g",
+      "confidence": "85"
+    },
+    {
+      "name": "green peas",
+      "portion_estimate": "35 g",
+      "confidence": "80"
+    },
+    {
+      "name": "diced carrots",
+      "portion_estimate": "45 g",
+      "confidence": "75"
+    },
+    {
+      "name": "cauliflower florets",
+      "portion_estimate": "60 g",
+      "confidence": "70"
+    },
+    {
+      "name": "tomato-based vegetable sauce or stew",
+      "portion_estimate": "200 g",
+      "confidence": "65"
+    }
+  ]
+}

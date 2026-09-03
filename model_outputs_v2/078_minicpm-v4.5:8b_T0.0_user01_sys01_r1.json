@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange diced vegetable (likely sweet potato or squash)",
+      "portion_estimate": "100-150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "orange soup (likely tomato or vegetable-based)",
+      "portion_estimate": "250-300 grams",
+      "confidence": 80
+    },
+    {
+      "name": "three apricots",
+      "portion_estimate": "100-120 grams (total for three apricots)",
+      "confidence": 90
+    },
+    {
+      "name": "green patty with yellow sauce (likely a veggie patty with cheese or sauce)",
+      "portion_estimate": "50-70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small bread roll (bun)",
+      "portion_estimate": "50-60 grams",
+      "confidence": 85
+    }
+  ]
+}

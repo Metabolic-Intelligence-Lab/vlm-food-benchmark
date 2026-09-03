@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Rice with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Omelette",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Orange juice carton",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

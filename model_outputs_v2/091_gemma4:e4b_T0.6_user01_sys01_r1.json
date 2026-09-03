@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll or bun",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    },
+    {
+      "name": "curry or thick stew",
+      "portion_estimate": "320g",
+      "confidence": "90"
+    },
+    {
+      "name": "clear beverage (e.g., water)",
+      "portion_estimate": "320g",
+      "confidence": "95"
+    },
+    {
+      "name": "shredded protein and salad mix (e.g., chicken/vegetables)",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "dark green seaweed (e.g., wakame)",
+      "portion_estimate": "80g",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "roll of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "vegetable side dish",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "ice cream dessert with topping",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bottle of water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "cup (tea or coffee)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "packaged goods (condiments/snacks)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fresh fruit (apple/pear)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup with carrots, celery, and possibly potatoes or beans",
+      "portion_estimate": "350 grams",
+      "confidence": 75
+    },
+    {
+      "name": "saut\u00e9ed or boiled green leafy vegetables (likely kale or collard greens)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baked or pan-fried potato or sweet potato (appears to be a slice)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt (partially visible, in a small container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

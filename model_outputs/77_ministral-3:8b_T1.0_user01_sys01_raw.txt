@@ -1,0 +1,41 @@
+[
+    {
+        "food_items": [
+            {
+                "name": "kidney beans with green beans",
+                "portion_estimate": 200,
+                "confidence": 75
+            },
+            {
+                "name": "chicken breast (pan-seared)",
+                "portion_estimate": 180,
+                "confidence": 78
+            },
+            {
+                "name": "steamed broccoli florets",
+                "portion_estimate": 150,
+                "confidence": 75
+            },
+            {
+                "name": "buttered baked potato or sweet potato wedges",
+                "portion_estimate": 120,
+                "confidence": 65
+            },
+            {
+                "name": "plain biscuit",
+                "portion_estimate": 60,
+                "confidence": 80
+            },
+            {
+                "name": "plums",
+                "portion_estimate": 150,  // ~2 medium-sized plums (~75g each)
+                "confidence": 75
+            },
+            {
+                "name": "sliced lemon",
+                "portion_estimate": uncertain,
+                "confidence": 55
+            }
+        ]
+    }
+]

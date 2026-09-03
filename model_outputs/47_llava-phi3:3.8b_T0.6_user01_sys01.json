@@ -1,0 +1,31 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "Quiche with green topping",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    }
+  ],
+  "other_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "80g",
+      "confidence": "60"
+    },
+    {
+      "name": "Water bottle",
+      "portion_estimate": "250ml",
+      "confidence": "70"
+    }
+  ]
+}

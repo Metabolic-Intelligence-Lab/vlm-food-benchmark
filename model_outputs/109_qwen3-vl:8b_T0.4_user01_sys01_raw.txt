@@ -1,0 +1,52 @@
+To address the query, we analyze the visible items in the image and determine their classification based on clarity and confidence levels.
+
+---
+
+### ✅ **Distinct, Visible Food and Beverage Items**
+
+1. **Green Beans**  
+   - **Portion Estimate**: 150g  
+   - **Confidence Level**: 90%  
+   - **Reasoning**: Clearly visible, distinct, and identifiable as green beans. The portion is estimated based on visual size.
+
+2. **Bread Roll**  
+   - **Portion Estimate**: 50g  
+   - **Confidence Level**: 80%  
+   - **Reasoning**: A single bread roll is visible on a plate. While the exact weight is not measurable, it's reasonably estimated based on typical bread roll sizes.
+
+3. **Cooked Rice**  
+   - **Portion Estimate**: 100g  
+   - **Confidence Level**: 90%  
+   - **Reasoning**: A bowl of cooked rice is clearly visible. The portion is estimated based on the volume and typical serving size.
+
+4. **Diced Potatoes**  
+   - **Portion Estimate**: 100g  
+   - **Confidence Level**: 90%  
+   - **Reasoning**: Diced potatoes are visible in a bowl. The portion is estimated based on the visual volume and typical serving size.
+
+5. **Green Apple**  
+   - **Portion Estimate**: 150g  
+   - **Confidence Level**: 90%  
+   - **Reasoning**: A whole green apple is clearly visible on a plate. The weight is estimated based on standard apple sizes.
+
+6. **Uncertain Item (Plastic-Wrapped)**  
+   - **Portion Estimate**: Unknown  
+   - **Confidence Level**: 50%  
+   - **Reasoning**: This item is wrapped in plastic and not clearly identifiable. It could be cheese or another food item, but without more context or detail, it cannot be confirmed. Therefore, it is marked as "uncertain" with a confidence level below 60%.
+
+---
+
+### 📌 Final Answer
+
+$$
+\boxed{
+\begin{aligned}
+&\text{Green Beans: } 150\text{g}, \text{ Confidence: } 90\% \\
+&\text{Bread Roll: } 50\text{g}, \text{ Confidence: } 80\% \\
+&\text{Cooked Rice: } 100\text{g}, \text{ Confidence: } 90\% \\
+&\text{Diced Potatoes: } 100\text{g}, \text{ Confidence: } 90\% \\
+&\text{Green Apple: } 150\text{g}, \text{ Confidence: } 90\% \\
+&\text{Uncertain Item: Confidence: } 50\%
+\end{aligned}
+}
+$$

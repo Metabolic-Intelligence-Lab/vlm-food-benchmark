@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy ham or chicken with a light sauce",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "Canned-style green beans in brown sauce",
+      "portion_estimate": 200,
+      "confidence": 90
+    },
+    {
+      "name": "Dark leafy greens (possibly collard greens or cooked spinach) with small diced potatoes or cauliflower",
+      "portion_estimate": 150,
+      "confidence": 75
+    },
+    {
+      "name": "Whole orange",
+      "portion_estimate": 150,
+      "confidence": 95
+    }
+  ]
+}

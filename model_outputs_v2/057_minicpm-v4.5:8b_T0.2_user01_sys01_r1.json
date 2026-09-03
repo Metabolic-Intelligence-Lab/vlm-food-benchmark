@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "hamburger bun",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "egg omelette with mushroom",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "penne pasta with tomato sauce and vegetables",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": "90"
+    }
+  ]
+}

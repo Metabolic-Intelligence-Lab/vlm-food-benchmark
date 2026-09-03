@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi with tomato sauce and grated cheese",
+      "portion_estimate": "250",
+      "confidence": "75"
+    },
+    {
+      "name": "lentil stew (lenticchie) with carrots",
+      "portion_estimate": "300",
+      "confidence": "75"
+    },
+    {
+      "name": "bread rolls (panini), packaged",
+      "portion_estimate": "80",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt cup (Yomo, fruit flavored)",
+      "portion_estimate": "125",
+      "confidence": "80"
+    },
+    {
+      "name": "water in plastic cup",
+      "portion_estimate": "150",
+      "confidence": "60"
+    }
+  ]
+}

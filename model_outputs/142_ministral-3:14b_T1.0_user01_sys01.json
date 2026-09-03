@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mash potatoes with cheese",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "grilled fish fillet (likely cod or similar)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "beans with tomatoes and herbs",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "slice of white or sourdough bread",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "whole plum (damson or similar)",
+      "portion_estimate": "40g",
+      "confidence": 90
+    }
+  ]
+}

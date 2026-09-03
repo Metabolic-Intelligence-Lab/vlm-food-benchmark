@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "white bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "carrot pieces",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "lentil stew",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "baked fish fillet (e.g., cod) with breadcrumbs",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "mixed steamed green vegetables (e.g., zucchini, green beans, snap peas)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "mashed or shredded potatoes with seasoning",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "whole grain bread slice (lightly buttered or plain)",
+      "portion_estimate": "40 grams",
+      "confidence": 80
+    },
+    {
+      "name": "navel orange",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "unsweetened tea bag",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "clear water in glass",
+      "portion_estimate": "uncertain (incomplete view, no size reference)",
+      "confidence": 40
+    }
+  ]
+}

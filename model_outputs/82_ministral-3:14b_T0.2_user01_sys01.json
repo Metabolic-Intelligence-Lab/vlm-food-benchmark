@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "chicken fried rice (with mixed vegetables and sauce)",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "mixed green salad (lettuce, possibly red cabbage or other greens)",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "baked onion rings (or onion slices)",
+      "portion_estimate": "80",
+      "confidence": 70
+    },
+    {
+      "name": "iced beverage (likely green tea or lemonade) in a plastic cup",
+      "portion_estimate": "300",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt or dessert topping (in a small plastic container)",
+      "portion_estimate": "50",
+      "confidence": 65
+    },
+    {
+      "name": "bread roll (partially wrapped in plastic)",
+      "portion_estimate": "100",
+      "confidence": 70
+    }
+  ]
+}

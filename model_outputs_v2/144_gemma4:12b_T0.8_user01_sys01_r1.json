@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with creamy cheese sauce",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "slice of multi-grain bread",
+      "portion_estimate": "60g",
+      "confidence": 90
+    },
+    {
+      "name": "grain salad (likely farro or small pasta)",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "toasted bread with dip",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "180g",
+      "confidence": 95
+    }
+  ]
+}

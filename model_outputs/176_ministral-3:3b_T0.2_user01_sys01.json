@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "tomato and cheese flatbread (or pita) with tomato slice",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "soup with grated cheese on top",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "garlic breadstick",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "fried eggplant or zucchini (potato-like dish)",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "mixed nuts and dried fruit (olives, possibly)",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "halved avocado",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "packaged snack (potentially crackers or chips)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

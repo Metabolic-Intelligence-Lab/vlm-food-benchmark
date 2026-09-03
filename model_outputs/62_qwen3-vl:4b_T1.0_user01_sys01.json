@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "bagel",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "30",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto and cheese",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "grilled eggplant with tomato and herbs",
+      "portion_estimate": "70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "plastic cup (unidentified contents)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

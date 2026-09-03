@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchetti sardi pasta salad with tomato, tuna, chickpeas, black olives, carrot, and mozzarella",
+      "portion_estimate": "280",
+      "confidence": "55"
+    },
+    {
+      "name": "cherry tomato pieces",
+      "portion_estimate": "40",
+      "confidence": "60"
+    },
+    {
+      "name": "canned tuna chunks",
+      "portion_estimate": "30",
+      "confidence": "45"
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "35",
+      "confidence": "55"
+    },
+    {
+      "name": "mozzarella or cheese cubes",
+      "portion_estimate": "20",
+      "confidence": "40"
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "10",
+      "confidence": "50"
+    }
+  ]
+}

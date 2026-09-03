@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked broccoli with potato pieces",
+      "portion_estimate": "220 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll/mini loaf (brown bread)",
+      "portion_estimate": "60 g",
+      "confidence": "72"
+    },
+    {
+      "name": "processed cheese slice/bar (packaged)",
+      "portion_estimate": "30 g",
+      "confidence": "65"
+    },
+    {
+      "name": "fruit yogurt cup (strawberry/berry, packaged)",
+      "portion_estimate": "125 g",
+      "confidence": "75"
+    },
+    {
+      "name": "breaded cutlet/patty with tomato-based sauce (e.g., ketchup)",
+      "portion_estimate": "150 g",
+      "confidence": "60"
+    },
+    {
+      "name": "mixed vegetables (peas, carrots, potatoes, mushrooms) cooked",
+      "portion_estimate": "180 g",
+      "confidence": "68"
+    }
+  ]
+}

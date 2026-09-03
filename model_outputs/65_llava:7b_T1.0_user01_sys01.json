@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Breakfast burger with a fried egg and cheese",
+      "portion_estimate": "60 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Green salad",
+      "portion_estimate": "70 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Cup of French fries",
+      "portion_estimate": "35 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Carton of milk with cereal",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    }
+  ]
+}

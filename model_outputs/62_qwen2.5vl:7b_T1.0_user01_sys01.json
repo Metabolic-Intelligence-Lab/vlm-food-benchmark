@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Farfalle pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Greens (possibly kale or spinach)",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "Fried polenta or similar bread",
+      "portion_estimate": "80",
+      "confidence": 70
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": "200",
+      "confidence": 90
+    }
+  ]
+}

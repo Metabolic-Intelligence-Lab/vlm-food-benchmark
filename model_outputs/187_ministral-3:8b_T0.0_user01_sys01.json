@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried or baked potato wedges (large portion)",
+      "portion_estimate": "300-350g",
+      "confidence": 85
+    },
+    {
+      "name": "crispy breaded cutlet (likely veal or chicken)",
+      "portion_estimate": "120-150g",
+      "confidence": 80
+    },
+    {
+      "name": "steamed green beans with herbs",
+      "portion_estimate": "150-180g",
+      "confidence": 85
+    },
+    {
+      "name": "small bread roll or bun",
+      "portion_estimate": "50-70g",
+      "confidence": 75
+    },
+    {
+      "name": "butter or margarine in container (partially visible)",
+      "portion_estimate": "uncertain (likely 20-30g used)",
+      "confidence": 60
+    },
+    {
+      "name": "packaged cheese stick or spread (partially visible)",
+      "portion_estimate": "uncertain (likely 30-40g)",
+      "confidence": 60
+    }
+  ]
+}

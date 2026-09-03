@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Yellow soup (likely potato or pumpkin) with grated cheese",
+      "portion_estimate": 280,
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll in plastic bag",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt cup (Cyril brand)",
+      "portion_estimate": 125,
+      "confidence": 98
+    },
+    {
+      "name": "Fried fish or chicken nuggets",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "Diced potatoes with herbs and spices",
+      "portion_estimate": 180,
+      "confidence": 92
+    }
+  ]
+}

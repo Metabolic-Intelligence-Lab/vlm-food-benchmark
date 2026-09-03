@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "220",
+      "confidence": 80
+    },
+    {
+      "name": "breaded fried cutlet (cotoletta/breaded meat or fish patty)",
+      "portion_estimate": "100",
+      "confidence": 65
+    },
+    {
+      "name": "sauteed leafy greens (cooked spinach or chard)",
+      "portion_estimate": "90",
+      "confidence": 75
+    },
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "water in plastic cup",
+      "portion_estimate": "200",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Chicken (breaded)",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried Chicken (plain)",
+      "portion_estimate": "125g",
+      "confidence": "70"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    }
+  ]
+}

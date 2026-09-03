@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "steamed salmon",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "macaroni and cheese in a white bowl with blueberries on top of it",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "blueberry muffin wrapped in plastic",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "prawn cocktail served with crusty bread on a plate",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    }
+  ]
+}

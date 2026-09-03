@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli rabe (uncertain)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta with sauce and cheese garnish",
+      "portion_estimate": "2.4 oz or 68g",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll (uncertain)",
+      "portion_estimate": "1 slice, approx. 30g",
+      "confidence": "90"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "approx. 1 medium banana weight is about 82-154 grams depending on ripeness and size.",
+      "confidence": "70"
+    }
+  ]
+}

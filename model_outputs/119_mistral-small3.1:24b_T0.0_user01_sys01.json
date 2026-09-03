@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi with tomato sauce",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "lentil soup",
+      "portion_estimate": "300",
+      "confidence": "80"
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

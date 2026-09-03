@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with herbs and tomato sauce",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "roasted or baked potatoes (diced)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "chicken breast (seasoned, cut into pieces)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (plain, in small container)",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

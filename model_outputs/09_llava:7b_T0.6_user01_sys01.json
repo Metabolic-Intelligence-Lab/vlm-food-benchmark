@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken and rice",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Fried chicken breast",
+      "portion_estimate": "140g",
+      "confidence": "75"
+    },
+    {
+      "name": "Mashed potatoes with gravy",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Dinner rolls",
+      "portion_estimate": "40g",
+      "confidence": "70"
+    }
+  ]
+}

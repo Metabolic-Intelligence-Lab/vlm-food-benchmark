@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup with vegetables",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "sliced bread",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

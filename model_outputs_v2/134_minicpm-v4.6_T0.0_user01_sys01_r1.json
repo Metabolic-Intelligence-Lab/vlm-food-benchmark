@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice with shredded ingredient",
+      "portion_estimate": "approximately 180 grams",
+      "confidence": 95
+    },
+    {
+      "name": "shredded fried protein or vegetable",
+      "portion_estimate": "approximately 75 grams",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "plain bread roll or bun",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    },
+    {
+      "name": "sauced noodle dish with mixed ingredients",
+      "portion_estimate": "300g",
+      "confidence": "90"
+    },
+    {
+      "name": "small serving of protein (e.g., chicken or tofu)",
+      "portion_estimate": "70g",
+      "confidence": "85"
+    },
+    {
+      "name": "fried potato cubes (side dish 1)",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "main dish protein (e.g., fish or poultry) with white topping",
+      "portion_estimate": "130g",
+      "confidence": "85"
+    },
+    {
+      "name": "fried potato cubes (side dish 2)",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    }
+  ]
+}

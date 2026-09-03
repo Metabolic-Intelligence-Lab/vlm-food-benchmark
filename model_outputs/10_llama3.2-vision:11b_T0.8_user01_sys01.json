@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green soup with parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "one piece of bread in plastic wrap",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "one yogurt cup with a spoon",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "diced potatoes with herbs and spices",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "two meatballs with creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "one empty cup with a straw",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "one spoon in yogurt cup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

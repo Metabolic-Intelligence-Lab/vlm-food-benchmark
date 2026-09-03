@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce and cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Green salad, possibly spinach or arugula mix",
+      "portion_estimate": "75 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Meatball with sauce on top",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Rolled meat patty, possibly a hamburger or meatloaf",
+      "portion_estimate": "125 grams",
+      "confidence": "60"
+    }
+  ]
+}

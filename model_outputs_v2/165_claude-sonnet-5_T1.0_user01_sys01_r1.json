@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pumpkin/vegetable soup with grated cheese",
+      "portion_estimate": "300",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt (fruit, wrapped cup)",
+      "portion_estimate": "125",
+      "confidence": "75"
+    },
+    {
+      "name": "breaded meat cutlet/burger with shredded zucchini",
+      "portion_estimate": "120",
+      "confidence": "65"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "sliced bread (wrapped, side)",
+      "portion_estimate": "40",
+      "confidence": "55"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baby spinach salad",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "lightly seasoned cooked green beans (French beans)",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "sliced boiled or roasted chicken breast with gravy",
+      "portion_estimate": "60g (bone-in, excluding fat)",
+      "confidence": 85
+    },
+    {
+      "name": "white bread or roll",
+      "portion_estimate": "30g",
+      "confidence": 95
+    },
+    {
+      "name": "plain, unsweetened yogurt in container",
+      "portion_estimate": "100g (assuming full container size)",
+      "confidence": 80
+    }
+  ]
+}

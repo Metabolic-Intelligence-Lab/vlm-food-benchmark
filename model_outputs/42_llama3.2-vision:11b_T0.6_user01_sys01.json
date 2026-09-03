@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and basil",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Roasted vegetables (brussels sprouts and red cabbage)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Fresh fruit (peaches)",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne or rigatoni, uncooked weight estimation for cooked portion)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potato wedges (or hash browns)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "mini burger or chicken schnitzel patty topped with sauce (possibly marinara or ketchup)",
+      "portion_estimate": "100g",
+      "confidence": 78
+    },
+    {
+      "name": "spreadable cheese or herb spread (in container, e.g., from Tupperware)",
+      "portion_estimate": "uncertain (likely full small tub \u2248 100-150g)",
+      "confidence": 55
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti or similar pasta dish",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "rice and possibly some meat or curry",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cake",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

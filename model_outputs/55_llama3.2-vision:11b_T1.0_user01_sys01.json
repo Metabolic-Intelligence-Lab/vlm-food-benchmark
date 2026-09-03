@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable Plate",
+      "portion_estimate": "200-250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Green Plate",
+      "portion_estimate": "50-75 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Glass of Water",
+      "portion_estimate": "250-300 milliliters",
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt Cup",
+      "portion_estimate": "150-200 grams",
+      "confidence": 90
+    }
+  ]
+}

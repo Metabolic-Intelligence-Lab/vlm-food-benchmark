@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice with small bits (possibly minced meat or seasoning)",
+      "portion_estimate": "220 g",
+      "confidence": "70"
+    },
+    {
+      "name": "sliced cooked ham/pork (2 slices)",
+      "portion_estimate": "90 g",
+      "confidence": "75"
+    },
+    {
+      "name": "mashed potatoes (or creamy potato puree)",
+      "portion_estimate": "200 g",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll (in plastic bag)",
+      "portion_estimate": "55 g",
+      "confidence": "75"
+    },
+    {
+      "name": "clear water (in plastic cup)",
+      "portion_estimate": "200 g",
+      "confidence": "60"
+    }
+  ]
+}

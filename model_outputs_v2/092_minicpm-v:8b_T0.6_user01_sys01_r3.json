@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "A bowl of soup",
+      "portion_estimate": "uncertain, approximately a medium-sized bowl",
+      "confidence": "60%"
+    },
+    {
+      "name": "A plate with roasted potatoes and purple cabbage",
+      "portion_estimate": "uncertain, possibly 1 cup each for the potatoes and cabbage",
+      "confidence": "50%"
+    },
+    {
+      "name": "A round bread roll",
+      "portion_estimate": "uncertain, approximately a standard dinner roll size",
+      "confidence": "70%"
+    }
+  ]
+}

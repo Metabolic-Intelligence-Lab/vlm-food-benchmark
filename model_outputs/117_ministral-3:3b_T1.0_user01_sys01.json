@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup (with seasoning)",
+      "portion_estimate": "180 grams",
+      "confidence": 85
+    },
+    {
+      "name": "green onion or scallion topping on the soup",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "plain yogurt cup (Olweus brand) with honeycomb",
+      "portion_estimate": "150 grams (1 serving)",
+      "confidence": 95
+    },
+    {
+      "name": "crispy fried chicken or similar breaded cutlets",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "grilled meat balls or chunks",
+      "portion_estimate": "70 grams",
+      "confidence": 70
+    },
+    {
+      "name": "mixed greens or broccoli",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll (slightly out of frame, from transparent bag)",
+      "portion_estimate": "uncertain (roughly estimated to be ~80-100 grams)",
+      "confidence": 65
+    }
+  ]
+}

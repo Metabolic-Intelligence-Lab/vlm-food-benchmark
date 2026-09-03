@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "salt",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pepper",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green leaf",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

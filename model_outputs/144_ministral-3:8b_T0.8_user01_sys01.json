@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "200g (uncertain)",
+      "confidence": 55
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "canned beans in tomato sauce with fried egg",
+      "portion_estimate": "150g (beans and sauce) + 50g (egg)",
+      "confidence": 70
+    },
+    {
+      "name": "whole green apple",
+      "portion_estimate": "180g",
+      "confidence": 90
+    }
+  ]
+}

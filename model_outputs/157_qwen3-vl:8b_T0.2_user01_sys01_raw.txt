@@ -1,0 +1,38 @@
+### Distinct Items, Portions, and Confidence Levels
+
+1. **Pasta (ditalini)**  
+   - **Approximate portion**: 120g  
+   - **Confidence level**: 90%  
+   *Reasoning: Ditalini is a specific short-cut pasta shape, and the portion is estimated based on typical serving sizes for a single dish. The high confidence reflects clear visual identification.*
+
+2. **Pear**  
+   - **Approximate portion**: 150g  
+   - **Confidence level**: 95%  
+   *Reasoning: A standard medium pear weighs approximately 150g, and the item is unambiguously identifiable as a whole fruit. High confidence due to consistent size and shape.*
+
+3. **Bread roll (packaged)**  
+   - **Approximate portion**: 50g  
+   - **Confidence level**: 70%  
+   *Reasoning: The item appears to be a small, packaged bread roll (e.g., a mini roll or roll-like pastry). The portion is estimated based on common packaging sizes, but the exact type (e.g., roll vs. pastry) is less certain, leading to moderate confidence.*
+
+4. **Lentils (cooked)**  
+   - **Approximate portion**: 100g  
+   - **Confidence level**: 90%  
+   *Reasoning: Cooked lentils are typically served in portions around 100g for a single serving. The visual context (e.g., in a bowl) and texture confirm the item as lentils, with high confidence.*
+
+5. **Dumplings**  
+   - **Approximate portion**: 50g  
+   - **Confidence level**: 70%  
+   *Reasoning: The item resembles dumplings (e.g., filled pastries), but the exact type (e.g., meat-filled vs. vegetable-filled) is ambiguous. The portion is estimated for two small dumplings, but confidence is moderate due to potential overlap with other similar items.*
+
+6. **Mushroom slice**  
+   - **Approximate portion**: 30g  
+   - **Confidence level**: 70%  
+   *Reasoning: A thin slice of mushroom is estimated at 30g based on typical serving sizes. However, the item could be part of a larger dish (e.g., a garnish), reducing confidence slightly.*
+
+---
+
+### Summary of Confidence Levels
+- **High confidence (≥90%)**: Items with clear, unambiguous identification (e.g., pasta, pear, lentils).  
+- **Moderate confidence (70%)**: Items with plausible but less certain identification (e.g., bread roll, dumplings, mushroom slice).  
+- **Note**: Confidence is based on visual cues and typical serving sizes; exact measurements may vary slightly in real-world contexts.

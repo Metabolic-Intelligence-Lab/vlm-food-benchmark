@@ -1,0 +1,30 @@
+The image shows a tray with various food items and drinks. There are two bowls, one containing soup and the other containing what appears to be a salad or mixed vegetables. Next to the bowls, there's a plate with a sandwich and a side of coleslaw. A spoon is also visible on the tray. The image has been edited to include text labels for each item:
+
+```json
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Salad or mixed vegetables",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Sandwich",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Coleslaw",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "60"
+    }
+  ]
+}
+```
+
+Please note that the portion sizes are estimated and may not be accurate. The confidence levels are also subjective and based on the clarity of the image and the ability to identify each item.

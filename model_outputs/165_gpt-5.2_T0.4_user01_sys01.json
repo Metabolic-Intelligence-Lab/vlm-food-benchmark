@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup (pureed) with grated cheese topping",
+      "portion_estimate": "320 g",
+      "confidence": "72"
+    },
+    {
+      "name": "grated cheese topping on soup",
+      "portion_estimate": "8 g",
+      "confidence": "60"
+    },
+    {
+      "name": "meat patty (burger-style) topped with shredded zucchini/cucumber",
+      "portion_estimate": "110 g",
+      "confidence": "68"
+    },
+    {
+      "name": "mashed potatoes (or potato puree)",
+      "portion_estimate": "200 g",
+      "confidence": "66"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "78"
+    },
+    {
+      "name": "fruit yogurt cup (strawberry/berry, single-serve)",
+      "portion_estimate": "125 g",
+      "confidence": "62"
+    },
+    {
+      "name": "ice pop / frozen fruit ice (packaged)",
+      "portion_estimate": "80 g",
+      "confidence": "60"
+    }
+  ]
+}

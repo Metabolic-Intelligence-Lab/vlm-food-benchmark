@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "small pasta shells (conchigliette) with light sauce",
+      "portion_estimate": "180",
+      "confidence": "75"
+    },
+    {
+      "name": "sauteed green beans with breadcrumb topping",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded and fried eggplant or zucchini slices",
+      "portion_estimate": "80",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll, wrapped in plastic",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "whole peach",
+      "portion_estimate": "130",
+      "confidence": "80"
+    }
+  ]
+}

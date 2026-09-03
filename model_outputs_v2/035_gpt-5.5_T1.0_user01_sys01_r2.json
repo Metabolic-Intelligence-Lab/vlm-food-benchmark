@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "130 g",
+      "confidence": "85"
+    },
+    {
+      "name": "round vegetable or lentil patty",
+      "portion_estimate": "80 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "65 g",
+      "confidence": "85"
+    },
+    {
+      "name": "rigatoni pasta with tomato sauce",
+      "portion_estimate": "230 g",
+      "confidence": "80"
+    },
+    {
+      "name": "crumbled white cheese on pasta",
+      "portion_estimate": "25 g",
+      "confidence": "75"
+    },
+    {
+      "name": "watermelon wedge",
+      "portion_estimate": "160 g",
+      "confidence": "85"
+    }
+  ]
+}

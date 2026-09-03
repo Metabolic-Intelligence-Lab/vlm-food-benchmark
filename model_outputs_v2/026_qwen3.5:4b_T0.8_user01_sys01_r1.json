@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried chicken tenders",
+      "portion_estimate": "150 g",
+      "confidence": 80
+    },
+    {
+      "name": "Roasted potato cubes",
+      "portion_estimate": "200 g",
+      "confidence": 90
+    },
+    {
+      "name": "Steamed dark leafy greens (spinach/kale)",
+      "portion_estimate": "150 g",
+      "confidence": 85
+    },
+    {
+      "name": "Prune or similar fruit",
+      "portion_estimate": "2 pieces",
+      "confidence": 85
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "300 ml",
+      "confidence": 90
+    }
+  ]
+}

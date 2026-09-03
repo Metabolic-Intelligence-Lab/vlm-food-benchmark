@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto and grated cheese",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "two plums",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "wedge of cheese",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "square of baked frittata or quiche",
+      "portion_estimate": "130g",
+      "confidence": 85
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "150g",
+      "confidence": 95
+    }
+  ]
+}

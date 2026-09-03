@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice Krispies treat (chocolate-covered)",
+      "portion_estimate": 140,
+      "confidence": 98
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": 55,
+      "confidence": 99
+    },
+    {
+      "name": "Green vegetable fritter or falafel",
+      "portion_estimate": 130,
+      "confidence": 95
+    },
+    {
+      "name": "Creamy pasta salad with tuna and vegetables",
+      "portion_estimate": 240,
+      "confidence": 96
+    },
+    {
+      "name": "Side salad (purple cabbage and cucumber)",
+      "portion_estimate": 135,
+      "confidence": 95
+    }
+  ]
+}

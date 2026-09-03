@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne with tomato sauce",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked chicken breast",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

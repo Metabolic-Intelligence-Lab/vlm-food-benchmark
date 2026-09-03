@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "patty",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "yellow sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "salad (lettuce and greens)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

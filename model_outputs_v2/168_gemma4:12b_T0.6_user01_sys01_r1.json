@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni pasta",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "carrot chunks",
+      "portion_estimate": "40g",
+      "confidence": "95"
+    },
+    {
+      "name": "green peas",
+      "portion_estimate": "30g",
+      "confidence": "95"
+    },
+    {
+      "name": "red kidney beans",
+      "portion_estimate": "40g",
+      "confidence": "90"
+    }
+  ]
+}

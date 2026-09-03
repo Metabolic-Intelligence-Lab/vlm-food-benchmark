@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed kale or leafy green vegetable",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "fried potato wedges",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "sunny-side-up egg on a bun or English muffin",
+      "portion_estimate": "130g (egg: ~50g, bun: ~80g)",
+      "confidence": 85
+    },
+    {
+      "name": "plain white bun or English muffin (additional)",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "condiment packet (salt or seasoning, likely ketchup cup in the background)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

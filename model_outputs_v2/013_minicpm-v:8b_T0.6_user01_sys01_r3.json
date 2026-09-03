@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "green leafy vegetables",
+      "portion_estimate": "20g-30g",
+      "confidence": "70"
+    },
+    {
+      "name": "red sauce on green leafy vegetable (possibly spinach)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "chicken breast or meat patty",
+      "portion_estimate": "50g-70g",
+      "confidence": "80"
+    }
+  ]
+}

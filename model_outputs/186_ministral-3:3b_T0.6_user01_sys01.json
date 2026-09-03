@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken pieces (crispy cutlets)",
+      "portion_estimate": 100,
+      "confidence": 90
+    },
+    {
+      "name": "plain bagel or croissant",
+      "portion_estimate": 80,
+      "confidence": 85
+    },
+    {
+      "name": "ClearKit packet (presumably tea/coffee sachet)",
+      "portion_estimate": 1,
+      "confidence": 75
+    },
+    {
+      "name": "buttered meat with gravy (pork or similar meat, likely a roast piece)",
+      "portion_estimate": 200,
+      "confidence": 90
+    },
+    {
+      "name": "plain mashed potatoes",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "water or clear beverage (glass)",
+      "portion_estimate": 200,
+      "confidence": 70
+    }
+  ]
+}

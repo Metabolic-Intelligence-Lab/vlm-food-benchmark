@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt with berries",
+      "portion_estimate": "125g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fish fillet",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

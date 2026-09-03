@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "cooked spinach and cheese pastry slice",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "mixed salad with cucumber and cabbage",
+      "portion_estimate": "70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "90 grams",
+      "confidence": 85
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed Salad",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Baked Potato",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Fried Potato",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "Bun",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "50",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "sweet potato cubes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "peaches",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "baguette",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "yellow substance",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

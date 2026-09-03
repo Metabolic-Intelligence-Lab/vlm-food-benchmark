@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "70",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Lettuce and Carrot Salad",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "Breaded Cutlet",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Chickpea Soup",
+      "portion_estimate": "200",
+      "confidence": "75"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked lasagna slice with breaded chicken and cheese",
+      "portion_estimate": "300 grams",
+      "confidence": 75
+    },
+    {
+      "name": "pasta penne with grated cheese and herbs",
+      "portion_estimate": "250 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole plum (purple)",
+      "portion_estimate": "140 grams (3 plums)",
+      "confidence": 70
+    },
+    {
+      "name": "packaged spreadable cheese or dip (e.g., hummus or cheese spread)",
+      "portion_estimate": "uncertain (size not fully visible)",
+      "confidence": 50
+    },
+    {
+      "name": "bottled orange juice or similar beverage",
+      "portion_estimate": "uncertain (size not fully visible)",
+      "confidence": 50
+    }
+  ]
+}

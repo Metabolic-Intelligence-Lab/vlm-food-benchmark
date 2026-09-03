@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Indian meal",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Vegetable curry",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrot and potato side dish",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    }
+  ]
+}

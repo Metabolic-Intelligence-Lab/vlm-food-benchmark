@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "piece of pie or cake",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "25",
+      "confidence": "70"
+    },
+    {
+      "name": "peaches",
+      "portion_estimate": "75",
+      "confidence": "80"
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "baked bread",
+      "portion_estimate": "100",
+      "confidence": "70"
+    }
+  ]
+}

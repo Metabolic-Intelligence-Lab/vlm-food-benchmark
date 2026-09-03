@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "1 cup",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "1 piece",
+      "confidence": "70"
+    },
+    {
+      "name": "Sauce",
+      "portion_estimate": "1 tablespoon",
+      "confidence": "60"
+    }
+  ]
+}

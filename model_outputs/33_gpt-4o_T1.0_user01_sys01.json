@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "vegetable patty with tomato slice",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed vegetables (peas, carrots, eggplant, zucchini)",
+      "portion_estimate": "80 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "whole wheat bread roll",
+      "portion_estimate": "40 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "water in cup",
+      "portion_estimate": "250 ml",
+      "confidence": "90"
+    }
+  ]
+}

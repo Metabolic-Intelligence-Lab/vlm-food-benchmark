@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup (likely bean or lentil-based) with cheese topping",
+      "portion_estimate": "300",
+      "confidence": 95
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "grilled cheese or fried cheese balls",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "baguette or roll",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250",
+      "confidence": 85
+    }
+  ]
+}

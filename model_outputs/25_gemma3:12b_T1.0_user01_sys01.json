@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta, spiral shape, tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

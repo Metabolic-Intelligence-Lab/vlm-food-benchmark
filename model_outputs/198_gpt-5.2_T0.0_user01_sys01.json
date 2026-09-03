@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "white rice (cooked)",
+      "portion_estimate": "160 g",
+      "confidence": "78"
+    },
+    {
+      "name": "dinner roll / bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "72"
+    },
+    {
+      "name": "cooked Brussels sprouts",
+      "portion_estimate": "130 g",
+      "confidence": "80"
+    },
+    {
+      "name": "white fish fillet with herb sauce",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "creamy white sauce (on plate)",
+      "portion_estimate": "25 g",
+      "confidence": "60"
+    },
+    {
+      "name": "water (bottled/cup, not clearly visible)",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    }
+  ]
+}

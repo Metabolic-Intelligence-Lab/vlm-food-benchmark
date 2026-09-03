@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Saut\u00e9ed dark leafy greens (e.g., kale or spinach)",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    },
+    {
+      "name": "Stuffed or filled crepe/flatbread",
+      "portion_estimate": "120g",
+      "confidence": "88"
+    },
+    {
+      "name": "Sauced pasta dish (with visible vegetables)",
+      "portion_estimate": "350g",
+      "confidence": "95"
+    },
+    {
+      "name": "Water (beverage)",
+      "portion_estimate": "350ml",
+      "confidence": "100"
+    }
+  ]
+}

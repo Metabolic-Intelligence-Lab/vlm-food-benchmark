@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese and broccoli",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "30g",
+      "confidence": "60"
+    },
+    {
+      "name": "Scrambled eggs with vegetables and cheese",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "1 medium",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "150-200g",
+      "confidence": 95
+    },
+    {
+      "name": "small baked cheese slice (potato or vegetable dish)",
+      "portion_estimate": "100-120g",
+      "confidence": 92
+    },
+    {
+      "name": "whole roasted eggplant slice",
+      "portion_estimate": "uncertain (visual slice appears ~100g)",
+      "confidence": 78
+    },
+    {
+      "name": "brussels sprouts, halved or quartered",
+      "portion_estimate": "100-120g",
+      "confidence": 98
+    },
+    {
+      "name": "eggplant or plum eggplant (small whole, likely cooked)",
+      "portion_estimate": "uncertain (~50-70g)",
+      "confidence": 65
+    }
+  ]
+}

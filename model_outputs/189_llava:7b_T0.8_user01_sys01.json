@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "curry",
+      "portion_estimate": "150-200 g",
+      "confidence": "60"
+    },
+    {
+      "name": "meatballs in tomato sauce",
+      "portion_estimate": "uncertain, could be 80-100 g",
+      "confidence": "40"
+    },
+    {
+      "name": "vegetable dish with sauce",
+      "portion_estimate": "150-200 g",
+      "confidence": "60"
+    },
+    {
+      "name": "potato salad",
+      "portion_estimate": "uncertain, could be 40-60 g",
+      "confidence": "40"
+    },
+    {
+      "name": "spicy condiment",
+      "portion_estimate": "10-20 g",
+      "confidence": "50"
+    }
+  ]
+}

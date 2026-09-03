@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Mashed potato",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Crunchy snack",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Tomato Soup",
+      "portion_estimate": "240g",
+      "confidence": "90"
+    },
+    {
+      "name": "Meatballs",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Steamed Spinach",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    }
+  ]
+}

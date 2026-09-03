@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Watermelon slice",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Spaghetti with red sauce",
+      "portion_estimate": "250g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried fish fillet",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green salad with mixed greens and croutons",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    }
+  ]
+}

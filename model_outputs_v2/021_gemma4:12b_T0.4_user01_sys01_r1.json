@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried food pieces",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "small green grapes",
+      "portion_estimate": "130",
+      "confidence": 80
+    },
+    {
+      "name": "fried potato or taro chunks",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250",
+      "confidence": 95
+    },
+    {
+      "name": "dark plum",
+      "portion_estimate": "50",
+      "confidence": 85
+    }
+  ]
+}

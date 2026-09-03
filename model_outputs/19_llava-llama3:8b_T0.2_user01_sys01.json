@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "oatmeal",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "glass of water with ice cubes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

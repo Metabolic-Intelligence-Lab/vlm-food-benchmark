@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pickled or fermented vegetables or cucumbers",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "grain-like food item (couscous, pasta salad with chickpeas and herbs, or stewed vegetable with rice)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "crusty piece of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

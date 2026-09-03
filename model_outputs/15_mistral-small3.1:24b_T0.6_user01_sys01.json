@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "saut\u00e9ed onions",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "fried fish",
+      "portion_estimate": "120",
+      "confidence": "75"
+    },
+    {
+      "name": "sliced boiled potatoes",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

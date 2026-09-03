@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "bread slice",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "beans and sauce",
+      "portion_estimate": "70 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150 grams",
+      "confidence": "95"
+    }
+  ]
+}

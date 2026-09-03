@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed Vegetables",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "180g",
+      "confidence": 80
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Toast with Potatoes",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100g",
+      "confidence": 80
+    }
+  ]
+}

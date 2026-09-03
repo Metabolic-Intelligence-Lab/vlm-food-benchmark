@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "white bowl with green stuff",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "white plate with beans on it",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "white bowl with bread in it",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "yellow napkin on tray",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowtie pasta (fusilli) with sauce",
+      "portion_estimate": "200-250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "100-120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "scrambled eggs with cheese omelette",
+      "portion_estimate": "120-150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": 100
+    }
+  ]
+}

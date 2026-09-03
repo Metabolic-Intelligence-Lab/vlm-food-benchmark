@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup (likely vegetable or minestrone with visible carrots and greens)",
+      "portion_estimate": "300-400 grams",
+      "confidence": 85
+    },
+    {
+      "name": "spinach (cooked, dark green leafy vegetable)",
+      "portion_estimate": "100-150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "sandwich (crusty bread with visible filling, possibly a vegetarian or meat option)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (small container, likely fruit-flavored)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "water (in a clear bottle or cup)",
+      "portion_estimate": "200-300 grams",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Saffron Rice with Cauliflower and Lemon Slices",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Tahini Chickpea Cake with Tomato Paste, Red Curry Powder Mix, and Toppings on Top",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Yogurt with Fruit (Tomato?) Additions in a Cup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Sliced Baked Potato Chips or Crisps",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

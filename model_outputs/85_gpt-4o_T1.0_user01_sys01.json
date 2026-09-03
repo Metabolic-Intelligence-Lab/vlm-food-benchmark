@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup with grated cheese",
+      "portion_estimate": "250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "two baked spinach balls with melted cheese",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "cooked spinach",
+      "portion_estimate": "70 grams",
+      "confidence": 85
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "180 grams",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll in plastic",
+      "portion_estimate": "60 grams",
+      "confidence": 90
+    }
+  ]
+}

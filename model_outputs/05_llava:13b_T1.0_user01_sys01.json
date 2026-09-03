@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "creamy yellow soup",
+      "portion_estimate": "approximately 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "seasoned crispy chips",
+      "portion_estimate": "approximately 30g",
+      "confidence": "40"
+    },
+    {
+      "name": "baked potato wedges",
+      "portion_estimate": "approximately 50g",
+      "confidence": "60"
+    },
+    {
+      "name": "butter-flavored crackers",
+      "portion_estimate": "approximately 20g",
+      "confidence": "70"
+    }
+  ]
+}

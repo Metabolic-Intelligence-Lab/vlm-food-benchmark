@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled or baked fish fillet (e.g., cod or haddock)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "chickpeas (boiled or steamed)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "20g",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with tomato sauce and possible meat or vegetable additives (e.g., penne or fusilli)",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "sourdough or whole-grain roll (partially visible, off-plate)",
+      "portion_estimate": "80g",
+      "confidence": 75
+    }
+  ]
+}

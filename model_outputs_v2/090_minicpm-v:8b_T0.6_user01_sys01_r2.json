@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "White rice with yellow sauce",
+      "portion_estimate": "uncertain, approx. half a cup",
+      "confidence": "50"
+    },
+    {
+      "name": "Baguette bread",
+      "portion_estimate": "approx. one slice (10g)",
+      "confidence": "90"
+    },
+    {
+      "name": "Yellow apple",
+      "portion_estimate": "uncertain, approx. 25-30g",
+      "confidence": "40"
+    },
+    {
+      "name": "Mixed vegetables with pineapple chunks on a plate",
+      "portion_estimate": "approx. half cup each of mixed veggies and pineapples (total about 150g)",
+      "confidence": "95"
+    },
+    {
+      "name": "Carrot sticks, yellow bell pepper slices, and pineapple pieces in a bowl",
+      "portion_estimate": "uncertain, approx. one-third to half cup each of carrot and bell pepper, pineapple (total about 100g)",
+      "confidence": "65"
+    }
+  ]
+}

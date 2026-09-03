@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with noodles",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "piece of pizza with pineapple",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "slice of yellow cheese",
+      "portion_estimate": "30",
+      "confidence": 70
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "150",
+      "confidence": 80
+    }
+  ]
+}

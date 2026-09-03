@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Boiled Brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with cheese and mushrooms",
+      "portion_estimate": "2-3 oz.",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, perhaps 1/4 to 1 slice",
+      "confidence": "50"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "approx. 8 oz.",
+      "confidence": "60"
+    },
+    {
+      "name": "Salad (cucumbers, red cabbage, carrot)",
+      "portion_estimate": "uncertain but likely a small bowl or cup size",
+      "confidence": "50"
+    }
+  ]
+}

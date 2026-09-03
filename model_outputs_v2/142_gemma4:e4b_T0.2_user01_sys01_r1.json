@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked Rice",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Roasted Nuts/Grains Mix",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "White Fish Fillet",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    }
+  ]
+}

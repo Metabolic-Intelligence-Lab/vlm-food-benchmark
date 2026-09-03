@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Egg in sauce",
+      "portion_estimate": "approximate 60g",
+      "confidence": 70
+    },
+    {
+      "name": "Salad greens",
+      "portion_estimate": "approximate 80g",
+      "confidence": 80
+    },
+    {
+      "name": "Croutons",
+      "portion_estimate": "approximate 40g",
+      "confidence": 60
+    }
+  ]
+}

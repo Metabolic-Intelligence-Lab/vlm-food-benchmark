@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled fish with herb crust",
+      "portion_estimate": "uncertain, approx. weight based on typical serving size of fillets (120-300g)",
+      "confidence": "75"
+    },
+    {
+      "name": "Pasta salad",
+      "portion_estimate": "uncertain, approx. 4 oz.",
+      "confidence": "85"
+    },
+    {
+      "name": "Red-colored beverage (possibly juice or soda)",
+      "portion_estimate": "uncertain, typical glass serving size is usually around 120g based on bottle's volume indication",
+      "confidence": "75"
+    }
+  ]
+}

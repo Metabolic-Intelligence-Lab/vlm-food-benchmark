@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Omelette",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

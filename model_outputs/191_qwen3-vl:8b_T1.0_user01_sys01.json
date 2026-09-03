@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Sliced Carrots",
+      "portion_estimate": "100 g",
+      "confidence": 85
+    },
+    {
+      "name": "Meatballs",
+      "portion_estimate": "80 g (total)",
+      "confidence": 75
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "200 g",
+      "confidence": 70
+    },
+    {
+      "name": "Torinesi Pasta",
+      "portion_estimate": "100 g",
+      "confidence": 70
+    },
+    {
+      "name": "Sauce (Small Container)",
+      "portion_estimate": "30 g",
+      "confidence": 60
+    }
+  ]
+}

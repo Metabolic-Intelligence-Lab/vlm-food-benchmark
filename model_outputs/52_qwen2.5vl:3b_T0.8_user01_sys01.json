@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "crispy chicken strips",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "carrot",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "purple cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "whole grain bread",
+      "portion_estimate": "uncertain",
+      "confidence": "75"
+    },
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "65"
+    },
+    {
+      "name": "chicken and pasta salad",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

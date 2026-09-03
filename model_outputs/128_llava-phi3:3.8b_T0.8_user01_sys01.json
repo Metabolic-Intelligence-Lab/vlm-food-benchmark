@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "lasagna",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "cheese sauce",
+      "portion_estimate": "26g",
+      "confidence": "75"
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "18g",
+      "confidence": "65"
+    }
+  ]
+}

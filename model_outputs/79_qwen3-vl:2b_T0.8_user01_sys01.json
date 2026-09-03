@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "200",
+      "confidence": "100"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "100",
+      "confidence": "100"
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "100",
+      "confidence": "100"
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": "100",
+      "confidence": "100"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "30",
+      "confidence": "100"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "breaded pork cutlet with tomato sauce",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "sauteed spinach",
+      "portion_estimate": "90",
+      "confidence": 75
+    },
+    {
+      "name": "penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": 65
+    },
+    {
+      "name": "tomato sauce condiment cup (packaged)",
+      "portion_estimate": "20",
+      "confidence": 55
+    },
+    {
+      "name": "water in plastic cup",
+      "portion_estimate": "150",
+      "confidence": 60
+    }
+  ]
+}

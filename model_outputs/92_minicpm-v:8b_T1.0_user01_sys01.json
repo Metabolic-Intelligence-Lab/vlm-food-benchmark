@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "soup with greens, chunks of tofu and a white topping",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "plate of roasted potatoes with small brown balls",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    }
+  ]
+}

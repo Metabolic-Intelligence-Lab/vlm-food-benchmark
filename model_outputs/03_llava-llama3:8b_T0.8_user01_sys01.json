@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "burger with lettuce and tomato",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with red sauce and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "macaroni and cheese with ham",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

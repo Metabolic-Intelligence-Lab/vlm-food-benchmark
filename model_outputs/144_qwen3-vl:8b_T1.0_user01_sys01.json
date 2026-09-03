@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta with Cheese",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Bread Slice (Plastic-Wrapped)",
+      "portion_estimate": "40g",
+      "confidence": 90
+    },
+    {
+      "name": "Bread Slice with Sauce",
+      "portion_estimate": "40g",
+      "confidence": 85
+    },
+    {
+      "name": "Pinto Beans",
+      "portion_estimate": "120g",
+      "confidence": 92
+    },
+    {
+      "name": "Green Apple",
+      "portion_estimate": "170g",
+      "confidence": 98
+    }
+  ]
+}

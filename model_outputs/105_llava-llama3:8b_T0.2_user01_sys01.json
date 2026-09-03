@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "red cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "coleslaw",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

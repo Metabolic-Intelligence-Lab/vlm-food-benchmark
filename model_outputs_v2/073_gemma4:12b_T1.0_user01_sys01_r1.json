@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "280g",
+      "confidence": 95
+    },
+    {
+      "name": "roasted potato wedges",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "roasted white meat (chicken or turkey)",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250g",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans (possibly seasoned with oil/spices)",
+      "portion_estimate": "140 g",
+      "confidence": "70"
+    },
+    {
+      "name": "soft cheese rounds (likely mozzarella or similar), 2 pieces",
+      "portion_estimate": "100 g",
+      "confidence": "65"
+    },
+    {
+      "name": "cooked penne pasta (lightly sauced or plain)",
+      "portion_estimate": "170 g",
+      "confidence": "75"
+    },
+    {
+      "name": "slice of whole grain bread",
+      "portion_estimate": "40 g",
+      "confidence": "70"
+    },
+    {
+      "name": "orange (whole)",
+      "portion_estimate": "160 g",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grated potatoes or similar",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Sliced meat",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Drink",
+      "portion_estimate": "250 milliliters",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain, approximated to be a standard serving size of around 200g",
+      "confidence": "50"
+    },
+    {
+      "name": "steamed rice with grated cheese on top",
+      "portion_estimate": "approx. half cup (134g)",
+      "confidence": "60"
+    },
+    {
+      "name": "diced pineapple chunks",
+      "portion_estimate": "uncertain, approximated to be a standard serving size of around 25-70g depending on the slice thickness and fruit density; assuming average portion for this food item (e.g., apple), estimate at 40g.",
+      "confidence": "60"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain, approximated to be a standard serving size of around 150-200g; assuming medium-sized apple (e.g., Granny Smith), estimate at 175g.",
+      "confidence": "60"
+    },
+    {
+      "name": "diced pineapple chunks in plastic packaging",
+      "portion_estimate": "uncertain, approximated to be a standard serving size of around 25-70g; assuming average portion for this food item (e.g., apple), estimate at 40g.",
+      "confidence": "60"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain, approximated to be a standard serving size of around 150-200g; assuming medium-sized apple (e.g., Granny Smith), estimate at 175g.",
+      "confidence": "60"
+    },
+    {
+      "name": "whole wheat roll",
+      "portion_estimate": "uncertain, approximated to be a standard serving size of around 92-134g; assuming average portion for this food item (e.g., bread), estimate at 105g.",
+      "confidence": "60"
+    }
+  ]
+}

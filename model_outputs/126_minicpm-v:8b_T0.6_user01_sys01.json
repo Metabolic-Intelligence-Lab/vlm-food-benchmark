@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce and parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll (unspecified type)",
+      "portion_estimate": "120g - 140g",
+      "confidence": "60"
+    },
+    {
+      "name": "Cottage cheese yogurt with green vegetables and avocado on a portobello mushroom cap",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Potato salad (potatoes, butter, possibly mayonnaise)",
+      "portion_estimate": "160g - 200g",
+      "confidence": "70"
+    }
+  ]
+}

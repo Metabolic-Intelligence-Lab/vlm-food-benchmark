@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Tomatoes",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mozzzarella",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

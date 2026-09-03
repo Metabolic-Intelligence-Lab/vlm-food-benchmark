@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "85g",
+      "confidence": "95"
+    },
+    {
+      "name": "Canned Tuna",
+      "portion_estimate": "115g",
+      "confidence": "92"
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "120g",
+      "confidence": "89"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "65g",
+      "confidence": "98"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "100g",
+      "confidence": "99"
+    }
+  ]
+}

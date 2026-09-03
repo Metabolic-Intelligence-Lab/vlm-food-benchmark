@@ -1,0 +1,43 @@
+{
+  "tray": {
+    "contents": [
+      {
+        "name": "orzo",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "bread roll",
+        "quantity": 1,
+        "unit": "piece"
+      },
+      {
+        "name": "green vegetables",
+        "quantity": 2,
+        "unit": "portions"
+      },
+      {
+        "name": "mushroom pizza slice",
+        "quantity": 1,
+        "unit": "piece"
+      }
+    ],
+    "dimensions": [
+      0.75,
+      0.42,
+      0.89,
+      0.63
+    ],
+    "color": {
+      "tray": "gray",
+      "plate1": "white",
+      "plate2": "white"
+    },
+    "position": [
+      0.72,
+      0.45,
+      0.89,
+      0.6
+    ]
+  }
+}

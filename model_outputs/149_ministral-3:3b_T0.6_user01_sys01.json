@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sausage and cheese stuffed bread roll",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "penne pasta with cheese and green herbs",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "70g (approx. 3 medium)",
+      "confidence": 85
+    },
+    {
+      "name": "orange juice (in bottle)",
+      "portion_estimate": "250ml (uncertain exact volume, ~200g liquid)",
+      "confidence": 65
+    },
+    {
+      "name": "bottled water with calorie warning (yellow bag)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

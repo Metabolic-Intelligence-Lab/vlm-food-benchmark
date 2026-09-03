@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken wings",
+      "portion_estimate": "300 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with broccoli and sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried potatoes with toppings",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Meat and rice",
+      "portion_estimate": "250 grams",
+      "confidence": "70"
+    }
+  ]
+}

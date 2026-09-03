@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "meatballs with red sauce",
+      "portion_estimate": "small plate",
+      "confidence": "90"
+    },
+    {
+      "name": "noodles in bowl",
+      "portion_estimate": "large white bowl",
+      "confidence": "80"
+    },
+    {
+      "name": "meatballs with sauce on plate",
+      "portion_estimate": "small white plate",
+      "confidence": "90"
+    },
+    {
+      "name": "noodles in bowl",
+      "portion_estimate": "large white bowl",
+      "confidence": "80"
+    },
+    {
+      "name": "banana on tray",
+      "portion_estimate": "medium banana",
+      "confidence": "70"
+    }
+  ]
+}

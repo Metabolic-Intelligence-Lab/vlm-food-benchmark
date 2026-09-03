@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked Chickpeas",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Baked Muffin with Shredded Cheese Topping",
+      "portion_estimate": "70g",
+      "confidence": 90
+    },
+    {
+      "name": "Cooked Rotini Pasta with Sauce",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Sandwich Bun",
+      "portion_estimate": "60g",
+      "confidence": 90
+    },
+    {
+      "name": "Yogurt (Small Container)",
+      "portion_estimate": "50g",
+      "confidence": 85
+    }
+  ]
+}

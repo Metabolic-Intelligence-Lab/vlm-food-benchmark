@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried pasta (possibly fusilli or penne with a cheese topping)",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "breaded and fried mushrooms",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "raw vegetable salad mix (cucumber, red cabbage, carrot)",
+      "portion_estimate": "150",
+      "confidence": 88
+    },
+    {
+      "name": "whole banana (partially wrapped)",
+      "portion_estimate": "130",
+      "confidence": 95
+    },
+    {
+      "name": "white sliced bread (partially visible, wrapped)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

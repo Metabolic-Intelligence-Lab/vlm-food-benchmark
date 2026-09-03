@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "breaded vegetable patties (2) with lemon wedge",
+      "portion_estimate": "170 g",
+      "confidence": "70"
+    },
+    {
+      "name": "lemon wedges (on patties)",
+      "portion_estimate": "10 g",
+      "confidence": "75"
+    },
+    {
+      "name": "sliced cooked carrots",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked green gnocchi/pasta with creamy sauce",
+      "portion_estimate": "230 g",
+      "confidence": "60"
+    },
+    {
+      "name": "yogurt cup (single-serve)",
+      "portion_estimate": "125 g",
+      "confidence": "80"
+    },
+    {
+      "name": "red apple (whole)",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll/bun",
+      "portion_estimate": "70 g",
+      "confidence": "75"
+    }
+  ]
+}

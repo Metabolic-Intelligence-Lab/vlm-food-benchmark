@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Breaded and fried chicken breast",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Green beans with seasoning",
+      "portion_estimate": "80 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Mashed potatoes with herbs",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Rolled up biscuit",
+      "portion_estimate": "30 grams",
+      "confidence": "60"
+    }
+  ]
+}

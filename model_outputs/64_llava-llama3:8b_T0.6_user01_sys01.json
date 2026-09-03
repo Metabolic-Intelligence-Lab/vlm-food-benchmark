@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "hash browns",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

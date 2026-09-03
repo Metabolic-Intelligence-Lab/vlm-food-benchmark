@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas (stewed/seasoned, no skin)",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "white fish fillet pieces (baked/steamed, herbed)",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "lemon wedges",
+      "portion_estimate": "15",
+      "confidence": "80"
+    },
+    {
+      "name": "farfalle pasta salad with tomato and diced vegetables",
+      "portion_estimate": "180",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll (whole wheat)",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "low-fat plain yogurt cup (packaged, 125g)",
+      "portion_estimate": "125",
+      "confidence": "70"
+    },
+    {
+      "name": "butter portion (packaged, partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

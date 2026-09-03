@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "bowl of green beans",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "120",
+      "confidence": "75"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with pesto",
+      "portion_estimate": "120 g",
+      "confidence": 95
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "180 g",
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "Carrot slices",
+      "portion_estimate": "50 g",
+      "confidence": 95
+    }
+  ]
+}

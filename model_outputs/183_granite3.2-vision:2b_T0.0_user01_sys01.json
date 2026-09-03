@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "creamy orange-brown broth soup with vegetables/legumes and grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "pickled vegetables or fruits",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

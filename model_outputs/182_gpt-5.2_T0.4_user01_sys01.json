@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked broccoli florets (possibly seasoned)",
+      "portion_estimate": "130 g",
+      "confidence": "78"
+    },
+    {
+      "name": "lasagna (baked pasta with tomato sauce and melted cheese)",
+      "portion_estimate": "220 g",
+      "confidence": "74"
+    },
+    {
+      "name": "pasta with tomato-based sauce (mixed shapes)",
+      "portion_estimate": "200 g",
+      "confidence": "72"
+    },
+    {
+      "name": "small bread roll (white), wrapped",
+      "portion_estimate": "60 g",
+      "confidence": "70"
+    },
+    {
+      "name": "clementine/mandarin oranges",
+      "portion_estimate": "160 g",
+      "confidence": "82"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cheese sticks",
+      "portion_estimate": 200,
+      "confidence": 70
+    },
+    {
+      "name": "pomodoro sauce",
+      "portion_estimate": 50,
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": 50,
+      "confidence": 90
+    },
+    {
+      "name": "quiche slice",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "kale",
+      "portion_estimate": 50,
+      "confidence": 80
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": 30,
+      "confidence": 70
+    }
+  ]
+}

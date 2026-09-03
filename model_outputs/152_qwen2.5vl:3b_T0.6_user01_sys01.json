@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "carrot and apple salad",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "pastry with spinach filling",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "pasta with raisins and parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "hamburger bun",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

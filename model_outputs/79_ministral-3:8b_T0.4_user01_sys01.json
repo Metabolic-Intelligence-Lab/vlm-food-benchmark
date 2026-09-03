@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "mixed bean and vegetable pasta dish (with grated cheese)",
+      "portion_estimate": "350 grams",
+      "confidence": 85
+    },
+    {
+      "name": "grilled pesto sandwich (whole grain bread with pesto and possibly meat or cheese)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "raw white beans (cannellini or similar)",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "packaged sliced cheese (e.g., provolone or mozzarella)",
+      "portion_estimate": "70 grams",
+      "confidence": 75
+    },
+    {
+      "name": "packaged butter or margarine",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "packaged sliced bread or roll (whole grain)",
+      "portion_estimate": "uncertain (likely 50-70 grams)",
+      "confidence": 60
+    },
+    {
+      "name": "plums (3 whole)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    }
+  ]
+}

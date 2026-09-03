@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cheese-topped dish",
+      "portion_estimate": "100 grams",
+      "confidence": 100
+    },
+    {
+      "name": "Pasta with sauce and cheese",
+      "portion_estimate": "100 grams",
+      "confidence": 100
+    },
+    {
+      "name": "Leafy greens (spinach)",
+      "portion_estimate": "100 grams",
+      "confidence": 100
+    },
+    {
+      "name": "Condiment (Kevita)",
+      "portion_estimate": "50 grams",
+      "confidence": 100
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": "250 grams",
+      "confidence": 100
+    }
+  ]
+}

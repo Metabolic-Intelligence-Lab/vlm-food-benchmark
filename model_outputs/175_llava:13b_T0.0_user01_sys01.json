@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fish, accompanied by vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "spinach with creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

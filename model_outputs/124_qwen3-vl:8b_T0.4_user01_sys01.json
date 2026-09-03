@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded Chicken",
+      "portion_estimate": "220g",
+      "confidence": "80"
+    },
+    {
+      "name": "Lemon Wedge",
+      "portion_estimate": "20g",
+      "confidence": "90"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50g",
+      "confidence": "75"
+    },
+    {
+      "name": "Yogurt Cup",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    }
+  ]
+}

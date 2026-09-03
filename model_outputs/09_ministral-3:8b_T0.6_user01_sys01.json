@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "baked potato wedges with topping",
+      "portion_estimate": "200g",
+      "confidence": 75
+    },
+    {
+      "name": "meatballs or meatloaf with gravy",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetables (potatoes and possibly other diced vegetables)",
+      "portion_estimate": "180g",
+      "confidence": 70
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "50g",
+      "confidence": 75
+    },
+    {
+      "name": "condiment packet (salt/pepper or seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "yogurt or dip (small container)",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "water in clear plastic cup",
+      "portion_estimate": "uncertain (no scale visible)",
+      "confidence": 50
+    }
+  ]
+}

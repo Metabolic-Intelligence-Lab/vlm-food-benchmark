@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot chunks (cubed)",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "whole roasted carrot (or sweet potato)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "beef patty (likely from the packet)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "cream-based soup with grated bread",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "olive oil or herbed sauce",
+      "portion_estimate": "30 grams",
+      "confidence": 90
+    }
+  ]
+}

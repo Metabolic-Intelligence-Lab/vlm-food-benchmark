@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "steamed or saut\u00e9ed kale (or similar leafy green)",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "fried potato wedges",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "over-easy egg on English muffin or toasted bread",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "English muffin or toasted bread (base for egg)",
+      "portion_estimate": "50",
+      "confidence": 75
+    },
+    {
+      "name": "butter or spread on English muffin/toast",
+      "portion_estimate": "5",
+      "confidence": 65
+    },
+    {
+      "name": "whole wheat or multigrain roll (partially visible, wrapped)",
+      "portion_estimate": "80",
+      "confidence": 70
+    },
+    {
+      "name": "condiment packet (salt/pepper or sauce, empty)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

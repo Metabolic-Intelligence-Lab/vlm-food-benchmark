@@ -1,0 +1,49 @@
+### Meal Component Estimation
+
+Based on the visual description of a typical meal (e.g., a plate with a salad, bread roll, cooked spinach, a portion of potatoes with sauce, and fruit), the following portions and confidence levels are estimated. Confidence levels are derived from common food item characteristics, visual cues (e.g., size, color, and context), and standard dietary guidelines. All estimates assume a standard serving for one person.
+
+---
+
+#### 1. **Carrot and cucumber salad with greens**  
+   - **Portion size**: 180 grams  
+   - **Confidence level**: 90%  
+   - **Reasoning**: The salad typically includes shredded carrots (dense, 50–70g for a portion), diced cucumber (about 50g), and leafy greens (e.g., spinach or lettuce, 50–80g). The visual suggests a generous mix, totaling ~180g. Confidence is high due to clear identification of ingredients and portion size.
+
+---
+
+#### 2. **Roll**  
+   - **Portion size**: 40 grams  
+   - **Confidence level**: 90%  
+   - **Reasoning**: A standard dinner roll is small (typically 30–50g). The visual depicts a single, soft roll (not oversized), aligning with common bread portions. Confidence is high as it is a straightforward item with no ambiguity.
+
+---
+
+#### 3. **Cooked spinach**  
+   - **Portion size**: 120 grams  
+   - **Confidence level**: 90%  
+   - **Reasoning**: Cooked spinach is often served in a heaping portion. One cup of cooked spinach weighs ~90–100g, so 120g is reasonable for a standard side dish. The visual shows a substantial amount, and confidence is high due to the recognizable texture and color.
+
+---
+
+#### 4. **Potato with sauce**  
+   - **Portion size**: 50 grams  
+   - **Confidence level**: 80%  
+   - **Reasoning**: This likely refers to a small, cooked potato piece (e.g., a slice or cube) topped with sauce (e.g., cheese or meat-based). Potatoes weigh ~100–150g raw, but the visual suggests a minimal portion (50g) due to the sauce reducing the visible volume. Confidence is moderate as it could be misidentified (e.g., as a meatball or croquette), but context points to a potato-based item.
+
+---
+
+#### 5. **Plums**  
+   - **Portion size**: 150 grams  
+   - **Confidence level**: 90%  
+   - **Reasoning**: Three average plums weigh ~50–60g each (totaling 150–180g). The visual shows a consistent size and red color, typical of plums. Confidence is high due to clear fruit identification and common serving sizes.
+
+---
+
+### Summary
+- **Total estimated meal weight**: 540 grams (180 + 40 + 120 + 50 + 150).  
+- **Confidence notes**:  
+  - High confidence (90%) for items with clear visual cues (salad, roll, spinach, plums).  
+  - Moderate confidence (80%) for the potato due to potential ambiguity in preparation (e.g., could be a sauce-topped potato or other item, but context supports it).  
+- **Recommendation**: Adjust portions based on actual serving size in the visual (e.g., if the salad appears smaller, reduce to 150g). For precision, weigh items during preparation.  
+
+This estimation aligns with standard dietary practices and visual interpretation. Let me know if you need refinements! 😊

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "dark leafy greens (possibly kale or spinach)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "muffin-like items",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "red beverage (possibly juice or soda)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice with butter/lemon garnish",
+      "portion_estimate": "200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "steamed carrots and onions",
+      "portion_estimate": "180 grams",
+      "confidence": 95
+    },
+    {
+      "name": "saut\u00e9ed or cooked greens with shrimp/tofu and vegetables",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole lemon",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "unopened package of corn (likely frozen or canned)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

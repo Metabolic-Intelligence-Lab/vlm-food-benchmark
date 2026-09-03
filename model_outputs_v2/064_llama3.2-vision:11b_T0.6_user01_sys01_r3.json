@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fusilli with Tomato Sauce",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    },
+    {
+      "name": "Roasted Chicken",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Roasted Potatoes",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    }
+  ]
+}

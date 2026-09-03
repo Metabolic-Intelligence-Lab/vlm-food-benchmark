@@ -1,0 +1,38 @@
+{
+  "food_items": [
+    {
+      "name": "Chili",
+      "portion_estimate": "160 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "70 grams",
+      "confidence": "92"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "130 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Yogurt tubs",
+      "portion_estimate": [
+        {
+          "tub": 1,
+          "weight": "60 grams"
+        },
+        {
+          "tub": 2,
+          "weight": "70 grams"
+        }
+      ],
+      "confidence": "85"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "140 grams",
+      "confidence": "93"
+    }
+  ]
+}

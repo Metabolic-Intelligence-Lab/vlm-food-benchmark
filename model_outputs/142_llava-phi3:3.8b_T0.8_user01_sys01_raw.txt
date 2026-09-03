@@ -1,0 +1,50 @@
+{
+"food_items": [
+    {
+        "name": "white bowl of rice",
+        "portion_estimate": "60g",
+        "confidence": "90"
+    },
+    {
+        "name": "fish on a white plate with vegetables",
+        "portion_estimate": "120g",
+        "confidence": "80"
+    },
+    {
+        "name": "red cabbage on the side of bread and fish",
+        "portion_estimate": "40g",
+        "confidence": "70"
+    },
+    {
+        "name": "bread on a napkin with butter and jam",
+        "portion_estimate": "80g",
+        "confidence": "70"
+    }
+],
+"utensils": [
+    {
+        "type": "fork",
+        "material": "metal",
+        "position": "on tray"
+    },
+    {
+        "type": "knife",
+        "material": "metal",
+        "position": "under plate"
+    }
+],
+"tray": {
+    "color": "black",
+    "content": [
+        {
+            "name": "white napkin with bread and condiments on it",
+            "quantity": 1,
+            "location": "bottom of tray"
+        },
+        {
+            "name": "fish and vegetable dish in white bowl",
+            "quantity": 2,
+            "location": "top of tray"
+        }
+    ]
+},

@@ -1,0 +1,35 @@
+{
+  "food_items": [
+    {
+      "name": "cheese stick (or cheese bar)",
+      "portion_estimate": "10 grams",
+      "confidence": 85
+    },
+    {
+      "name": "rotini pasta",
+      "portion_estimate": "200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "potato",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll (bun)",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "mashed rice/casserole with broccoli",
+      "portion_estimate": "350 grams",
+      "confidence": 90
+    },
+    {
+      "name": "broccoli and cheese florets",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    }
+  ],
+  "note": "All portions are estimated based on visual assessment of typical serving sizes."
+}

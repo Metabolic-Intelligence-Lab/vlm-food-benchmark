@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    }
+  ],
+  "tablecloth": "white",
+  "cutlery": [
+    {
+      "item": "spoon",
+      "color": "silver",
+      "position": "on plate"
+    },
+    {
+      "item": "fork",
+      "color": "silver",
+artist

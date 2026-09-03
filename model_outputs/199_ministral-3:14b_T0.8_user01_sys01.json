@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "peas with small chunks of ham",
+      "portion_estimate": 120,
+      "confidence": 80
+    },
+    {
+      "name": "small tart or quiche with green pesto",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat or sourdough roll",
+      "portion_estimate": 100,
+      "confidence": 85
+    }
+  ]
+}

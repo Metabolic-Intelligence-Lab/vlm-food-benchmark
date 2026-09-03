@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with butter",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "250 g",
+      "confidence": 90
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "50 g",
+      "confidence": 85
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "100 g",
+      "confidence": 80
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "100 g",
+      "confidence": 85
+    }
+  ]
+}

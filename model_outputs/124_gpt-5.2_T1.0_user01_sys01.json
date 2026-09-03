@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "lentil/vegetable soup with grated cheese topping",
+      "portion_estimate": "420 g",
+      "confidence": "72"
+    },
+    {
+      "name": "breaded fried fish fillet",
+      "portion_estimate": "140 g",
+      "confidence": "70"
+    },
+    {
+      "name": "chopped cooked chicken with seasoning (on plate)",
+      "portion_estimate": "120 g",
+      "confidence": "62"
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "70 g",
+      "confidence": "78"
+    },
+    {
+      "name": "canned fruit cup (strawberry/fruit dessert, sealed)",
+      "portion_estimate": "125 g",
+      "confidence": "67"
+    },
+    {
+      "name": "cut fruit pieces in plastic cup (likely apple/pear)",
+      "portion_estimate": "90 g",
+      "confidence": "52"
+    }
+  ]
+}

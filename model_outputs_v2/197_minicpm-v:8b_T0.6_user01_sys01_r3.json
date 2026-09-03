@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti carbonara",
+      "portion_estimate": "uncertain, estimated at approx. 200g",
+      "confidence": "60"
+    },
+    {
+      "name": "broccoli and meatballs",
+      "portion_estimate": "uncertain, estimated at approx. 150g for broccoli, 4x30g=120g for meatballs",
+      "confidence": "70"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain, estimated at approx. 80-90g",
+      "confidence": "50"
+    }
+  ]
+}

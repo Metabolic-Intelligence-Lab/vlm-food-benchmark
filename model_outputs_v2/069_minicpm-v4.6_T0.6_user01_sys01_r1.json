@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "roasted green bell peppers",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "cooked sausage links",
+      "portion_estimate": "80 g",
+      "confidence": 90
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 ml",
+      "confidence": 85
+    }
+  ]
+}

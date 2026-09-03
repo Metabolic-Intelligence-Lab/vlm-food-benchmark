@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll with butter",
+      "portion_estimate": "50-60 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "fried chicken drumstick",
+      "portion_estimate": "120-140 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "serving of pasta with sauce",
+      "portion_estimate": "60-70 grams",
+      "confidence": "80"
+    }
+  ]
+}

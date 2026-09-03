@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain, approximate weight around 100-200 grams",
+      "confidence": "65"
+    },
+    {
+      "name": "green beans with tomato sauce",
+      "portion_estimate": "uncertain, approximately same size as broccoli",
+      "confidence": "70"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "approximately 120-160 grams",
+      "confidence": "95"
+    }
+  ]
+}

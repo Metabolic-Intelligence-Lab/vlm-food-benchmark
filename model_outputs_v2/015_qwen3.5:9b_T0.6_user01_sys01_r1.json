@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Scrambled eggs",
+      "portion_estimate": 85,
+      "confidence": 90
+    },
+    {
+      "name": "Cheese ball (possibly feta or cream cheese)",
+      "portion_estimate": 12,
+      "confidence": 80
+    },
+    {
+      "name": "Cabbage salad (possibly coleslaw)",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": 45,
+      "confidence": 85
+    },
+    {
+      "name": "Plum or similar fruit (in plastic wrap)",
+      "portion_estimate": 60,
+      "confidence": 75
+    }
+  ]
+}

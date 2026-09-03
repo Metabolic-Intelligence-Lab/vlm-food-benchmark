@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fresh green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "dark green kale",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "instant noodles (red and yellow packet)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

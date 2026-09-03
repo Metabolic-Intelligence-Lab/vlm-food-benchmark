@@ -1,0 +1,38 @@
+[
+  {
+    "name": "macaroni with cheese",
+    "type": "pasta",
+    "portion": 150,
+    "confidence": 80
+  },
+  {
+    "name": "bread roll",
+    "type": "bread",
+    "portion": 100,
+    "confidence": 70
+  },
+  {
+    "name": "mandarin oranges",
+    "type": "fruit",
+    "portion": 150,
+    "confidence": 80
+  },
+  {
+    "name": "stuffed pasta with spinach filling",
+    "type": "pasta",
+    "portion": 100,
+    "confidence": 75
+  },
+  {
+    "name": "cucumber and red cabbage salad",
+    "type": "salad",
+    "portion": 100,
+    "confidence": 80
+  },
+  {
+    "name": "water",
+    "type": "beverage",
+    "portion": 200,
+    "confidence": 90
+  }
+]

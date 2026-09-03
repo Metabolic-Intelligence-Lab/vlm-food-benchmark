@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed pickled vegetables",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

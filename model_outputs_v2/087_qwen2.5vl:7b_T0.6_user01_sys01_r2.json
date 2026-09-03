@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with a creamy sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "green beans with breadcrumbs",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "peach",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    }
+  ]
+}

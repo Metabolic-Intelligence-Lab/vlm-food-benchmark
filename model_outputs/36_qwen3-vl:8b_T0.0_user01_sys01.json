@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 95
+    },
+    {
+      "name": "Date",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Breaded items",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

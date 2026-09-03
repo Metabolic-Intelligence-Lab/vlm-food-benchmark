@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce and cherry tomatoes",
+      "portion_estimate": "180",
+      "confidence": 75
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "breaded stuffed meat/vegetable cutlet with tomato sauce",
+      "portion_estimate": "100",
+      "confidence": 55
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt cup (Yomo)",
+      "portion_estimate": "125",
+      "confidence": 85
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "200",
+      "confidence": 60
+    }
+  ]
+}

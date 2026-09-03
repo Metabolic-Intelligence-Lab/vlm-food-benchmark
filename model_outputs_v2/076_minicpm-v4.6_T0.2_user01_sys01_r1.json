@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with vegetables",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "Couscous salad",
+      "portion_estimate": "150 g",
+      "confidence": 80
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "100 g",
+      "confidence": 70
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60 g",
+      "confidence": 85
+    },
+    {
+      "name": "Oyster or seafood dish",
+      "portion_estimate": "200 g",
+      "confidence": 75
+    }
+  ]
+}

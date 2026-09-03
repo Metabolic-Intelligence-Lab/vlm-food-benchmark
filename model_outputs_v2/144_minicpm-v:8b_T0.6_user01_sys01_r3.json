@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain bread with butter",
+      "portion_estimate": "uncertain, approx. slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "Boiled pasta dish (penne) with cheese and herbs",
+      "portion_estimate": "approx. 200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": "uncertain, approx. medium size",
+      "confidence": "50"
+    }
+  ]
+}

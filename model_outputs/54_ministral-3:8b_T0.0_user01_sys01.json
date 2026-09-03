@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (likely fusilli or penne)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed salad (cucumber, lettuce, red cabbage)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes or potato salad",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt (Tandoori-flavored, in a small cup)",
+      "portion_estimate": "125 grams",
+      "confidence": 90
+    },
+    {
+      "name": "whole wheat or multigrain roll",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    }
+  ]
+}

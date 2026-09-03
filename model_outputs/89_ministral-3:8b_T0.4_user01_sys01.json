@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice with olive oil",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "chickpeas (garbanzo beans)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "baked potato (whole)",
+      "portion_estimate": "uncertain (size suggests ~200-250g)",
+      "confidence": 70
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "uncertain (size suggests ~150-180g)",
+      "confidence": 75
+    }
+  ]
+}

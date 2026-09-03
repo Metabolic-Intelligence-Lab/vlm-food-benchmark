@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fusilli pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "diced carrots and broccoli with cherry tomato",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread (bag)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "purple plum",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

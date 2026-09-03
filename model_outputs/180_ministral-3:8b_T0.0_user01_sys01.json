@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed chickpeas and diced carrots",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with grated cheese (penne)",
+      "portion_estimate": "180 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole roasted chicken breast with lettuce and sauce",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat roll or bread",
+      "portion_estimate": "60 grams",
+      "confidence": 75
+    },
+    {
+      "name": "yellow apple",
+      "portion_estimate": "180 grams",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "white rice",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "yellow sauce on white rice",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "40"
+    },
+    {
+      "name": "baked bun",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "mixed vegetables (carrots and pineapple)",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "stir-fried mixed vegetables",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    }
+  ]
+}

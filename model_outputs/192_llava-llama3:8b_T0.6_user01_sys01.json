@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fettuccine pasta with tomato sauce and parsley",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "breaded chicken cutlet",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "dark green kale salad with sliced lemon",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "empty glass",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

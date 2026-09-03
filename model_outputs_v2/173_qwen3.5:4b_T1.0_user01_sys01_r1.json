@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green beans, cooked",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "pasta penne, cooked",
+      "portion_estimate": "220",
+      "confidence": 95
+    },
+    {
+      "name": "whole grain bread, one slice",
+      "portion_estimate": "30",
+      "confidence": 85
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "140",
+      "confidence": 95
+    }
+  ]
+}

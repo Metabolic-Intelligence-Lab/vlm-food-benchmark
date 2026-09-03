@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "breaded and fried item (fish or vegetable)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "greens (spinach or kale)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange slices (mandarin oranges)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "golden brown pasta (spaghetti or macaroni with pesto or alfredo sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "scrambled eggs (with cheese or herbs)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "slice of bread (white or whole wheat)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "meat (ham or bacon)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green sauce (guacamole or pesto)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of farfalle pasta with pesto sauce",
+      "portion_estimate": "320 g",
+      "confidence": "78"
+    },
+    {
+      "name": "rectangular slice of savory baked dish (uncertain; possibly omelet/frittata or casserole)",
+      "portion_estimate": "180 g",
+      "confidence": "52"
+    },
+    {
+      "name": "brussels sprouts (cooked)",
+      "portion_estimate": "140 g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (small, in plastic bag)",
+      "portion_estimate": "55 g",
+      "confidence": "74"
+    },
+    {
+      "name": "banana (whole, with peel)",
+      "portion_estimate": "120 g",
+      "confidence": "82"
+    }
+  ]
+}

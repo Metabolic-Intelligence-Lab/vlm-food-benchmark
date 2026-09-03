@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cauliflower soup",
+      "portion_estimate": "200-300g",
+      "confidence": "95"
+    },
+    {
+      "name": "Roasted potatoes with gravy",
+      "portion_estimate": "150-200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll (white bread)",
+      "portion_estimate": "uncertain, approximately 70g",
+      "confidence": "60"
+    },
+    {
+      "name": "Drinking water in a clear glass",
+      "portion_estimate": "500ml",
+      "confidence": "100"
+    }
+  ]
+}

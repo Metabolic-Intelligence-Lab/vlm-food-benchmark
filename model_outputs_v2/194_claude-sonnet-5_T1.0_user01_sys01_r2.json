@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "minestrone vegetable soup",
+      "portion_estimate": "300",
+      "confidence": "80"
+    },
+    {
+      "name": "sautéed dark leafy greens (chicory or spinach)",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "vegetable patty/fritter with red cabbage and sauce",
+      "portion_estimate": "90",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "clementine/mandarin orange",
+      "portion_estimate": "80",
+      "confidence": "80"
+    },
+    {
+      "name": "sparkling water in cup",
+      "portion_estimate": "200",
+      "confidence": "70"
+    }
+  ]
+}

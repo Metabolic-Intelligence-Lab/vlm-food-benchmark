@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green vegetable soup (likely spinach or pea-based) with grated cheese",
+      "portion_estimate": 350,
+      "confidence": 92
+    },
+    {
+      "name": "Steamed bread roll (baguette style)",
+      "portion_estimate": 80,
+      "confidence": 95
+    },
+    {
+      "name": "Yoplait yogurt cup",
+      "portion_estimate": 125,
+      "confidence": 96
+    },
+    {
+      "name": "Steamed meat cutlet (dark green coating) with mushroom cap",
+      "portion_estimate": 180,
+      "confidence": 88
+    },
+    {
+      "name": "Stewed vegetables (zucchini and potatoes)",
+      "portion_estimate": 120,
+      "confidence": 90
+    }
+  ]
+}

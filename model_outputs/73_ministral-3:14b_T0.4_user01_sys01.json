@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato and vegetable sauce",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "roasted Brussels sprouts (or similar small roasted vegetables)",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "grilled or baked fish fillet (likely cod or similar white fish)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "baguette or dinner roll",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "unsalted butter (Tomo brand, partially used)",
+      "portion_estimate": "20",
+      "confidence": 75
+    },
+    {
+      "name": "water (in clear plastic cup)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce (rotini/penne)",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted Brussels sprouts",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed red cabbage",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "yellow rice or couscous",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "whole mandarins/oranges",
+      "portion_estimate": "300g (3 pieces)",
+      "confidence": 85
+    }
+  ]
+}

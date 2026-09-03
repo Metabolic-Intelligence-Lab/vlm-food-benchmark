@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Boiled egg",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Sauerkraut",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "120g (approx)",
+      "confidence": "95"
+    },
+    {
+      "name": "Mashed sweet potato or yam with butter",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

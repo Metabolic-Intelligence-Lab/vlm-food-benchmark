@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "rotini pasta",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "35",
+      "confidence": "80"
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "10",
+      "confidence": "80"
+    },
+    {
+      "name": "ground meat",
+      "portion_estimate": "55",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and cheese",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "125",
+      "confidence": "70"
+    },
+    {
+      "name": "stuffed baked potato with tomato sauce and cheese",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "vegetable mix (potatoes and leeks)",
+      "portion_estimate": "100",
+      "confidence": "65"
+    }
+  ]
+}

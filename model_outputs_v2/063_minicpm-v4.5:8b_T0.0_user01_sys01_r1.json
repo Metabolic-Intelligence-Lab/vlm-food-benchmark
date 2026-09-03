@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and cheese",
+      "portion_estimate": "200-250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed vegetable salad (cabbage, carrots, possibly radish)",
+      "portion_estimate": "150-200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "stuffed eggplant with zucchini and sauce",
+      "portion_estimate": "100-120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50-60 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "empty glass (likely for water or another beverage)",
+      "portion_estimate": "empty",
+      "confidence": "100"
+    }
+  ]
+}

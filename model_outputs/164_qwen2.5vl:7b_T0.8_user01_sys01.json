@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of green soup with a dollop of cream",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Fried food with potato chips",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Cabbage or sauerkraut",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50",
+      "confidence": 80
+    }
+  ]
+}

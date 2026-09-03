@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "beef (glazed or gravy-covered)",
+      "portion_estimate": "uncertain (estimated ~150g)",
+      "confidence": 65
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain (estimated ~200g)",
+      "confidence": 75
+    },
+    {
+      "name": "egg (scrambled or mixed in dish, visible as yellow clumps)",
+      "portion_estimate": "uncertain (estimated ~50g)",
+      "confidence": 60
+    }
+  ]
+}

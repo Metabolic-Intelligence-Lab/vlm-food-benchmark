@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "yogurt",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "cooked greens or vegetables (spinach)",
+      "portion_estimate": "150",
+      "confidence": 60
+    },
+    {
+      "name": "mashed potatoes or similar starchy side dish",
+      "portion_estimate": "200",
+      "confidence": 50
+    },
+    {
+      "name": "fish fillets (salmon)",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "100",
+      "confidence": 65
+    },
+    {
+      "name": "saut\u00e9ed vegetables or herbs",
+      "portion_estimate": "50",
+      "confidence": 40
+    },
+    {
+      "name": "bread or roll",
+      "portion_estimate": "60",
+      "confidence": 55
+    }
+  ]
+}

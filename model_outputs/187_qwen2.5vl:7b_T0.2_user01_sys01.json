@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with breadcrumbs",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "breaded meatballs",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

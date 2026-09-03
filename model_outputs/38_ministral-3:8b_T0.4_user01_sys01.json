@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "fried mushrooms (likely button mushrooms)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "mixed salad (cucumber, red cabbage, carrots, onion)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "banana (partially peeled)",
+      "portion_estimate": "130g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll (whole wheat, wrapped in plastic)",
+      "portion_estimate": "uncertain (likely 60-80g)",
+      "confidence": 60
+    },
+    {
+      "name": "water (in clear plastic cup)",
+      "portion_estimate": "uncertain (likely 250ml)",
+      "confidence": 55
+    }
+  ]
+}

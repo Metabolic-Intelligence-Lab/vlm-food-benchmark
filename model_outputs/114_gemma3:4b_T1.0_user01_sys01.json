@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "approx. 60g",
+      "confidence": 90
+    },
+    {
+      "name": "Bread Slice",
+      "portion_estimate": "approx. 30g",
+      "confidence": 70
+    },
+    {
+      "name": "French Fries",
+      "portion_estimate": "approx. 80g",
+      "confidence": 85
+    }
+  ]
+}

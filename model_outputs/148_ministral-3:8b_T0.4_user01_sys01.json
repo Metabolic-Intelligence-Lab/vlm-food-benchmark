@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with green pesto and grated cheese",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "chicken breast (thigh or breast meat, cut into pieces)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "quiche or savory tart with carrot and cheese filling",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole plums (3 visible)",
+      "portion_estimate": "100 grams (total for all three)",
+      "confidence": 85
+    },
+    {
+      "name": "packaged bread roll (or bun)",
+      "portion_estimate": "uncertain (likely 50-80 grams)",
+      "confidence": 55
+    }
+  ]
+}

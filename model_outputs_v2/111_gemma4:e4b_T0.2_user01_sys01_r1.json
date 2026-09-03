@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Prepared dish with red sauce and garnish",
+      "portion_estimate": "100 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread roll or baked good",
+      "portion_estimate": "120 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta dish (small pasta with light sauce)",
+      "portion_estimate": "180 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "Side dish (chunky salad or cooked mixture)",
+      "portion_estimate": "90 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "110 grams",
+      "confidence": "98"
+    }
+  ]
+}

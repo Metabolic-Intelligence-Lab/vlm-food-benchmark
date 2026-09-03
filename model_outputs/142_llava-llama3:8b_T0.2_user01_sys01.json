@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "rice or couscous",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fish fillet with green herbs and yellow corn kernels",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "purple grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

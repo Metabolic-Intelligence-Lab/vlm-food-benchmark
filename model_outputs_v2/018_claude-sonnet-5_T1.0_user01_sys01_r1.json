@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grilled white fish fillet",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "shredded carrot and red cabbage salad with vinaigrette",
+      "portion_estimate": "90",
+      "confidence": 75
+    },
+    {
+      "name": "plum (whole fruit)",
+      "portion_estimate": "60",
+      "confidence": 70
+    }
+  ]
+}

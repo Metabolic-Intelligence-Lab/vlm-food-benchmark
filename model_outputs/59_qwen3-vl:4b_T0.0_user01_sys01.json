@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed Vegetable Salad",
+      "portion_estimate": "180 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "160 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Kale",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Toast with Butter and Sauce",
+      "portion_estimate": "30 grams",
+      "confidence": 60
+    }
+  ]
+}

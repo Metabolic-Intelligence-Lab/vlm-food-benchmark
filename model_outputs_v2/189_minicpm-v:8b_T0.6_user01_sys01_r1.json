@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy mushroom soup",
+      "portion_estimate": "uncertain, approx 200g",
+      "confidence": "65"
+    },
+    {
+      "name": "Baked pasta with tomato sauce",
+      "portion_estimate": "uncertain, approx 130-150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Broccoli and cheese",
+      "portion_estimate": "uncertain, approx 200g",
+      "confidence": "68"
+    }
+  ]
+}

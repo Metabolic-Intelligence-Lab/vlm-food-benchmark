@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled fish with crispy topping",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Green olives or capers",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Roasted potatoes with herbs and spices",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Cereal or puffed snack mix",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Dark plums",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

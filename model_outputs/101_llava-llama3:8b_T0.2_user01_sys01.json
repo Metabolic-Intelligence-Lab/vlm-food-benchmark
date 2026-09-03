@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "yellow cake",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "garlic bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sugar packets",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

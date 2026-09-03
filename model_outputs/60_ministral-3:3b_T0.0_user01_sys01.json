@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and spinach",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "roasted potato wedges",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "plain chicken drumsticks (two pieces)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "plain yogurt (single serving container)",
+      "portion_estimate": "175",
+      "confidence": 90
+    }
+  ]
+}

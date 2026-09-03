@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "creamy mushroom soup with cheese topping",
+      "portion_estimate": "500",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll (baguette-style)",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "fried potato croquettes",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed or roasted Brussels sprouts with glaze",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "meatballs (uncertain type, possibly pork or beef)",
+      "portion_estimate": "80",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt or sour cream (partially visible in packaging)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "butter or margarine (partially visible in packaging)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

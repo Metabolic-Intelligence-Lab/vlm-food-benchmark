@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "220",
+      "confidence": 75
+    },
+    {
+      "name": "grilled fish fillet",
+      "portion_estimate": "120",
+      "confidence": 70
+    },
+    {
+      "name": "sauteed green beans with spices",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "peach",
+      "portion_estimate": "130",
+      "confidence": 75
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": 65
+    }
+  ]
+}

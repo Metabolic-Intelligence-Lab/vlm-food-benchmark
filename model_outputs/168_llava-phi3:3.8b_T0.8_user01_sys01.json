@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "40g",
+      "confidence": "70"
+    },
+    {
+      "name": "orzo pasta",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }
+  ]
+}

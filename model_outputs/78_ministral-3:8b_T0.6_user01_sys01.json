@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sweet potato cubes (diced)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "creamy soup (likely butternut squash or pumpkin soup)",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole roasted sweet potatoes (or similar orange flesh root vegetable)",
+      "portion_estimate": "150 grams (two medium-sized)",
+      "confidence": 80
+    },
+    {
+      "name": "dressing/sauce (likely olive oil-based with herbs or spices)",
+      "portion_estimate": "30 grams",
+      "confidence": 70
+    },
+    {
+      "name": "packaged meat patty (possibly chicken or turkey)",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    }
+  ]
+}

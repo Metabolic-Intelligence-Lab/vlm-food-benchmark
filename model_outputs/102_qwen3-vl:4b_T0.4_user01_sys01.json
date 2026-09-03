@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked pasta casserole",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Roasted potato cubes",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken breast",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Berry yogurt",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

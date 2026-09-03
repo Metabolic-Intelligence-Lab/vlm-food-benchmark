@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "red tomato slices",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "cucumber slices",
+      "portion_estimate": "60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "shredded red cabbage/beet",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "shredded green cabbage",
+      "portion_estimate": "40 grams",
+      "confidence": 90
+    },
+    {
+      "name": "orange carrot julienne",
+      "portion_estimate": "30 grams",
+      "confidence": 85
+    },
+    {
+      "name": "white onion/celery shreds",
+      "portion_estimate": "35 grams",
+      "confidence": 75
+    },
+    {
+      "name": "lettuce leaves",
+      "portion_estimate": "25 grams",
+      "confidence": 80
+    },
+    {
+      "name": "dressing (light, visible drizzle)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

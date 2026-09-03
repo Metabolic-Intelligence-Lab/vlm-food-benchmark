@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli soup",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "broccoli floret with cream",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "canned food (possibly beans)",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "baguette",
+      "portion_estimate": "100",
+      "confidence": 70
+    }
+  ]
+}

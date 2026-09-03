@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Rigatoni pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Spinach and cheese pizza",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

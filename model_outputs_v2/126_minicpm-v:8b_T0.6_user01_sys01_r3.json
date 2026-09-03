@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "2-3 slices (1 slice approx. 60g)",
+      "confidence": "90"
+    },
+    {
+      "name": "Cheese spread on a green round cracker with vegetables and potato chunks",
+      "portion_estimate": "uncertain, likely small portion of each component",
+      "confidence": "50"
+    }
+  ]
+}

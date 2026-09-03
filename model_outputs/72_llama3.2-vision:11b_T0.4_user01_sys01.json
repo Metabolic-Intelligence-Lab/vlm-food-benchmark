@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fish",
+      "portion_estimate": "300-400g",
+      "confidence": "80-90"
+    },
+    {
+      "name": "Vegetables",
+      "portion_estimate": "300-400g",
+      "confidence": "80-90"
+    },
+    {
+      "name": "Lentils",
+      "portion_estimate": "100-150g",
+      "confidence": "80-90"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200-250mL",
+      "confidence": "80-90"
+    }
+  ]
+}

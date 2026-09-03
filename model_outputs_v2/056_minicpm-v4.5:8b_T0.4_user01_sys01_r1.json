@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish fillet",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed vegetables (carrots, peas, potatoes, mushrooms)",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "pasta (shell pasta with tomato sauce)",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "whole wheat roll or bread",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 ml",
+      "confidence": "100"
+    }
+  ]
+}

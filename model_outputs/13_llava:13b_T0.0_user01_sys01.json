@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Watermelon",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Kale Salad",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Chicken Breast",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ]
+}

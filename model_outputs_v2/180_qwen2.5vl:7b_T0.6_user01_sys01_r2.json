@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with green pesto",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed vegetables (carrots and chickpeas)",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "Fish fillet with sauce",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked white fish fillets (2 pieces)",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "roasted diced potatoes with herbs",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "sauteed broccoli florets",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "whole grain bread slices, packaged (2 slices)",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "plain yogurt cup",
+      "portion_estimate": "125",
+      "confidence": 65
+    }
+  ]
+}

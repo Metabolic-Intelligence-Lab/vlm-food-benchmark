@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with grated parmesan cheese",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "baked broccoli and cheese casserole/torte",
+      "portion_estimate": "150",
+      "confidence": 65
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "80",
+      "confidence": 65
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "wedge of cheese (wrapped)",
+      "portion_estimate": "30",
+      "confidence": 55
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "120",
+      "confidence": 85
+    }
+  ]
+}

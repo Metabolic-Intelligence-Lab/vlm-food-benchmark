@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "banana (whole)",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed greens salad (lettuce, tomatoes, mozzarella balls, possibly grilled chicken strips)",
+      "portion_estimate": "300 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat or multigrain sandwich roll (wrapped in plastic)",
+      "portion_estimate": "60 grams",
+      "confidence": 75
+    }
+  ]
+}

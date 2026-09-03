@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese (likely penne or rigatoni)",
+      "portion_estimate": "200 grams (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "green beans (steamed or blanched)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mushroom (saut\u00e9ed or grilled)",
+      "portion_estimate": "50 grams",
+      "confidence": 75
+    },
+    {
+      "name": "banana (whole, partially peeled)",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "water in clear plastic cup (250ml measuring markings visible)",
+      "portion_estimate": "200 milliliters (uncertain as exact level unclear)",
+      "confidence": 65
+    }
+  ]
+}

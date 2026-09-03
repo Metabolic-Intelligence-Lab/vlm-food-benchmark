@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with seasoning (likely garlic/parmesan)",
+      "portion_estimate": "150g",
+      "confidence": "75"
+    },
+    {
+      "name": "pan-seared beef patty",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "potato fries (thin-cut)",
+      "portion_estimate": "180g",
+      "confidence": "75"
+    },
+    {
+      "name": "baked potato wedges",
+      "portion_estimate": "150g",
+      "confidence": "75"
+    },
+    {
+      "name": "whole wheat bread roll",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    },
+    {
+      "name": "cheese spread (e.g., cream cheese or similar) in packaging",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "uncertain (approximately 10-20g)",
+      "confidence": "50"
+    }
+  ]
+}

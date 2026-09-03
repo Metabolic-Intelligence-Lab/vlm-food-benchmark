@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Roast pork or ham cut",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Saut\u00e9ed green vegetables or stuffing",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Creamy soup or stew",
+      "portion_estimate": "320g",
+      "confidence": "95"
+    },
+    {
+      "name": "Baked roll or pastry",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    }
+  ]
+}

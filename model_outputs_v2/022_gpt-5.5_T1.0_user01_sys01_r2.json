@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with carrots and potatoes",
+      "portion_estimate": "160 g",
+      "confidence": "85"
+    },
+    {
+      "name": "orange cooked squash or pumpkin mash",
+      "portion_estimate": "140 g",
+      "confidence": "65"
+    },
+    {
+      "name": "couscous with small pieces of meat or fish and vegetables",
+      "portion_estimate": "220 g",
+      "confidence": "60"
+    },
+    {
+      "name": "packaged whole grain bread roll or slices",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "sealed yogurt or dairy dessert cup",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 g",
+      "confidence": "90"
+    }
+  ]
+}

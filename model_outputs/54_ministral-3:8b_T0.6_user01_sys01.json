@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne/fusilli)",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "mixed greens salad with cucumber and cherry tomatoes",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "mashed potatoes (or potato puree)",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "whole wheat or white bread roll",
+      "portion_estimate": "60g",
+      "confidence": 65
+    },
+    {
+      "name": "yogurt (Toro brand, blueberry flavor)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "water in clear cup (no visible measurement)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

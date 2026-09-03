@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "10 cups",
+      "confidence": 90
+    },
+    {
+      "name": "rice and curry",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

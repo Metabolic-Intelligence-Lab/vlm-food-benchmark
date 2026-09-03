@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pizza slice on white plate",
+      "portion_estimate": "20g",
+      "confidence": "90"
+    },
+    {
+      "name": "Noodles with red sauce in bowl",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Plate of salad with a mix of vegetables",
+      "portion_estimate": "40g",
+      "confidence": "80"
+    },
+    {
+      "name": "Soda in clear cup",
+      "portion_estimate": "150ml",
+      "confidence": "90"
+    }
+  ]
+}

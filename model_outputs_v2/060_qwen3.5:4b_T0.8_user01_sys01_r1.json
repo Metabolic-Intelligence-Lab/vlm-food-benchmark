@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with vegetables",
+      "portion_estimate": "250 g",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll (partially visible)",
+      "portion_estimate": "50 g",
+      "confidence": 60
+    },
+    {
+      "name": "potatoes with seasoning",
+      "portion_estimate": "150 g",
+      "confidence": 85
+    },
+    {
+      "name": "breaded chicken (or fish fillets)",
+      "portion_estimate": "120 g",
+      "confidence": 70
+    },
+    {
+      "name": "Yoplait yogurt (approx. 113g)",
+      "portion_estimate": "113 g",
+      "confidence": 95
+    }
+  ]
+}

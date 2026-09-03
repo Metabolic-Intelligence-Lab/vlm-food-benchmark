@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "baked potato wedges with cheese sauce",
+      "portion_estimate": "300 grams (estimate based on typical portion size of 4-6 oz / 120-170g for baked potato wedges)",
+      "confidence": "75"
+    },
+    {
+      "name": "cheese sauce (visible topping)",
+      "portion_estimate": "uncertain (approximately 30-50 grams, but hard to estimate without additional context)",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grapes",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 70
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 60
+    },
+    {
+      "name": "boiled vegetables (Brussels sprouts or baby bok choy)",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 50
+    },
+    {
+      "name": "fish fillet (cod or tilapia)",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 70
+    },
+    {
+      "name": "cooked greens (spinach or similar leafy vegetables)",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Chicken with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Frozen Meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    }
+  ]
+}

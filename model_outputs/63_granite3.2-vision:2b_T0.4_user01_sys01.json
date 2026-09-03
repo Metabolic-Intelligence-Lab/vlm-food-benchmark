@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread or pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "salad with shredded carrots and greens",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread wrapped in plastic wrap",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cake or pastry",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

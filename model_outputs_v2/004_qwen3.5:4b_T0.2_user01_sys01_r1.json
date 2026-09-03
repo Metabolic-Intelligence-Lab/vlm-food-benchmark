@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "banana",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "tuna salad with mozzarella, tomatoes, and lettuce",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll (in plastic wrap)",
+      "portion_estimate": "60",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken with sauce",
+      "portion_estimate": "uncertain, approx. 150g - 200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans and potatoes",
+      "portion_estimate": "uncertain, approx. 150g - 200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Macaroni & cheese",
+      "portion_estimate": "approx. 80g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. 50g - 60g",
+      "confidence": "70"
+    }
+  ]
+}

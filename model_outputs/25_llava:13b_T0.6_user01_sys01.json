@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce (possibly marinara)",
+      "portion_estimate": "approximately 200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Chickpeas (possibly hummus or similar spread)",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "approximately 80 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Cream cheese or sour cream (in a small container)",
+      "portion_estimate": "approximately 20 grams",
+      "confidence": "50"
+    }
+  ]
+}

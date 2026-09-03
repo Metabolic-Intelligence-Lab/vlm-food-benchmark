@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish fillet (likely tilapia or cod)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "roasted carrots",
+      "portion_estimate": "100-120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "lentils or black beans with carrots",
+      "portion_estimate": "100-130 grams",
+      "confidence": 85
+    },
+    {
+      "name": "water (in clear glass)",
+      "portion_estimate": "200-250 milliliters",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (in red container)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

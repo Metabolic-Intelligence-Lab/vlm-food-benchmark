@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "steamed green beans with sauce or seasoning",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "pasta salad with mayonnaise and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread roll in a plastic bag",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "glass of water with green leaf design on the lid",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    }
+  ]
+}

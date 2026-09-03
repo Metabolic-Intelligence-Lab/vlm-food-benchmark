@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Spinatay Yogurt",
+      "portion_estimate": "125g",
+      "confidence": 95
+    },
+    {
+      "name": "Ham Roll",
+      "portion_estimate": "60g",
+      "confidence": 85
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "250g",
+      "confidence": 70
+    }
+  ]
+}

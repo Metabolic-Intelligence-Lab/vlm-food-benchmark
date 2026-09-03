@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "breaded baked fish fillet",
+      "portion_estimate": "90",
+      "confidence": 90
+    },
+    {
+      "name": "cooked brussels sprouts",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "baked vegetable casserole (carrots and potatoes with cheese)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "60",
+      "confidence": 95
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "60",
+      "confidence": 95
+    },
+    {
+      "name": "water (in cup)",
+      "portion_estimate": "200",
+      "confidence": 95
+    }
+  ]
+}

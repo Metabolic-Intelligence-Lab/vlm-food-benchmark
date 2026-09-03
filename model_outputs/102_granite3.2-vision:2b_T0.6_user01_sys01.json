@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "baked potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "meatloaf",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "baked potato cubes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

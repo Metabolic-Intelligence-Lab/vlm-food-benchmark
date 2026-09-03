@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bowtie pasta with cheese",
+      "portion_estimate": "180 g",
+      "confidence": 80
+    },
+    {
+      "name": "Quiche",
+      "portion_estimate": "150 g",
+      "confidence": 70
+    },
+    {
+      "name": "Roasted potato wedges",
+      "portion_estimate": "100 g",
+      "confidence": 85
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120 g",
+      "confidence": 95
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200 g",
+      "confidence": 95
+    }
+  ]
+}

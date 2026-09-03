@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup",
+      "portion_estimate": "uncertain, approximately half a bowl",
+      "confidence": "50"
+    },
+    {
+      "name": "bread roll (white)",
+      "portion_estimate": "uncertain, approximately one-fourth of the tray's height in diameter",
+      "confidence": "60"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125g",
+      "confidence": "90"
+    }
+  ]
+}

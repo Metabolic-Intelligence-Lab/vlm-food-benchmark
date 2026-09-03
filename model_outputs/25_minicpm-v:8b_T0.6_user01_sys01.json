@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with red sauce",
+      "portion_estimate": "uncertain, approximate weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "bread roll (hamburger bun)",
+      "portion_estimate": "uncertain, approximately 60-120g",
+      "confidence": "40"
+    },
+    {
+      "name": "chickpea dish with red sauce on top",
+      "portion_estimate": "uncertain, approximate weight in grams",
+      "confidence": "50"
+    }
+  ]
+}

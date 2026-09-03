@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roasted herb chicken slices",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "mixed roasted vegetables (potatoes, green beans, carrots)",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "pasta with meat sauce",
+      "portion_estimate": "250",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "sparkling water",
+      "portion_estimate": "250",
+      "confidence": 95
+    }
+  ]
+}

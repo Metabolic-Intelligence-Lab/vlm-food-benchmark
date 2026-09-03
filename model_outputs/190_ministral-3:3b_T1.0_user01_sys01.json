@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried bread roll (crispy piece)",
+      "portion_estimate": 45,
+      "confidence": 85
+    },
+    {
+      "name": "spinach or kale salad with likely olive oil/lemon dressing",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta in tomato sauce",
+      "portion_estimate": 180,
+      "confidence": 90
+    }
+  ]
+}

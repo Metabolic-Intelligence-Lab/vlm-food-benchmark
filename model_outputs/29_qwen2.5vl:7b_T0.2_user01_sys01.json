@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce and grated cheese",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Zucchini and yellow squash stir-fry",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Pizza slice",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

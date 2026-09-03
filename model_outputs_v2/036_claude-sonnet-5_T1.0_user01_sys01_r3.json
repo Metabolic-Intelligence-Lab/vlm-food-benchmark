@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce and diced ham",
+      "portion_estimate": "180",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "sauce/gravy in small bowl (possibly meat or dumpling in brown sauce)",
+      "portion_estimate": "80",
+      "confidence": "40"
+    },
+    {
+      "name": "breaded green vegetable patties (spinach or herb croquettes)",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "red cabbage and cucumber salad with orange segments",
+      "portion_estimate": "120",
+      "confidence": "70"
+    }
+  ]
+}

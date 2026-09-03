@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken breast",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted carrots",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "lentil and vegetable stew",
+      "portion_estimate": "300g",
+      "confidence": "90"
+    }
+  ]
+}

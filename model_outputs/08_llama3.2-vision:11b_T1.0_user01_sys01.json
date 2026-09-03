@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Side Salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Fried Food",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Dessert",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

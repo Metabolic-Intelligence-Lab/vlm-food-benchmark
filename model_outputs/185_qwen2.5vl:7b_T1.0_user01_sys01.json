@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with tomato sauce",
+      "portion_estimate": "250 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Grilled potatoes",
+      "portion_estimate": "150 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Grilled or fried food with zucchini and tomato",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    }
+  ]
+}

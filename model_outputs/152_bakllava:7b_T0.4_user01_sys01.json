@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni and cheese with purple grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Two purple grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Sandwich wrapped in plastic",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Muffin wrapped in plastic",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Pasta in a white bowl",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Mixed vegetables on a white plate",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

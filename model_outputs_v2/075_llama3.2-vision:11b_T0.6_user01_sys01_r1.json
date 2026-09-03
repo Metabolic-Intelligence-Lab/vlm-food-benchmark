@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "potatoes",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "zucchini",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "chicken",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "baked beans",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50g",
+      "confidence": "uncertain"
+    }
+  ]
+}

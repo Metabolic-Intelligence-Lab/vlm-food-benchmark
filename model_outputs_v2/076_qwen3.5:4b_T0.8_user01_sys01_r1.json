@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with shell noodles, likely in a tomato-based sauce",
+      "portion_estimate": "250",
+      "confidence": "90"
+    },
+    {
+      "name": "Couscous mixed with vegetables (looks like cauliflower, peas)",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll (in plastic wrap)",
+      "portion_estimate": "60",
+      "confidence": "90"
+    },
+    {
+      "name": "Two plums or similar small stone fruit",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Oyster on the half shell with a sauce",
+      "portion_estimate": "60",
+      "confidence": "90"
+    }
+  ]
+}

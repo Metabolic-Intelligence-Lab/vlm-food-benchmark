@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "lettuce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread or cracker",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "cheese or sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

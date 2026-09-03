@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green apple",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pea and carrot mix",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mushroom, pepper, and tomato medley on a potato cake",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Spaghetti with sauce",
+      "portion_estimate": "120g-140g",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with green sauce and parmesan",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted vegetables",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "green salad",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "apples",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "fruit",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "bread and grates",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

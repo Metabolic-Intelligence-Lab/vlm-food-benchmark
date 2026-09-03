@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Chicken",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Dark Leafy Greens (Kale/Spinach)",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250ml",
+      "confidence": 90
+    }
+  ]
+}

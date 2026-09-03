@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad leaves",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "grilled chicken pieces",
+      "portion_estimate": "30 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "carrot shreds",
+      "portion_estimate": "10 grams",
+      "confidence": "75"
+    }
+  ]
+}

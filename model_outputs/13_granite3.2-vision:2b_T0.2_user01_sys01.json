@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "fried chicken piece",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

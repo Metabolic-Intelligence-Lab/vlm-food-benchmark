@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "lentil or bean soup/stew",
+      "portion_estimate": "420 g",
+      "confidence": "70"
+    },
+    {
+      "name": "grated cheese topping on soup (likely parmesan)",
+      "portion_estimate": "15 g",
+      "confidence": "65"
+    },
+    {
+      "name": "vegetable patty (falafel-style) with tomato slice and white cheese on top",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    },
+    {
+      "name": "string cheese or cheese stick (packaged)",
+      "portion_estimate": "28 g",
+      "confidence": "75"
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "35 g",
+      "confidence": "75"
+    },
+    {
+      "name": "pasta salad (short pasta with a few black olives)",
+      "portion_estimate": "240 g",
+      "confidence": "70"
+    }
+  ]
+}

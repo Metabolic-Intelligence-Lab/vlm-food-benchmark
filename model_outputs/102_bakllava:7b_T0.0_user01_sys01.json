@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta and meat sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes with gravy",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich and a cup of yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

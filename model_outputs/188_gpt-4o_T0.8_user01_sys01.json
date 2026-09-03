@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of vegetable soup",
+      "portion_estimate": "300 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "slice of pie or pastry",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked green leafy vegetables",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+Here is the food image:
+
+**Food Image Description**
+
+*   **Pasta**
+    *   Type: Farfalle
+    *   Sauce: White sauce
+    *   Topping: Parmesan cheese
+    *   Portion Estimate: 150g
+    *   Confidence: 80
+*   **Omelette**
+    *   Fillings: Carrots, peas
+    *   Portion Estimate: 100g
+    *   Confidence: 70
+*   **Bread**
+    *   Type: White bread
+    *   Portion Estimate: 50g
+    *   Confidence: 90
+*   **Banana**
+    *   Portion Estimate: 100g
+    *   Confidence: 90
+*   **Carrots**
+    *   Portion Estimate: 50g
+    *   Confidence: 80
+*   **Peas**
+    *   Portion Estimate: 50g
+    *   Confidence: 80
+
+**Food Items**
+
+*   Pasta
+*   Omelette
+*   Bread
+*   Banana
+*   Carrots
+*   Peas
+
+**Total Portion Estimate**: 550g
+
+**Confidence**: 80
+
+**Note**: The confidence score is based on the model's ability to accurately identify and estimate the portion size of each food item. A higher score indicates greater confidence in the accuracy of the estimates.

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pork chop with pineapple/chutney sauce and julienned cucumber",
+      "portion_estimate": "250 grams",
+      "confidence": 75
+    },
+    {
+      "name": "small bottle of orange condiment (possibly BBQ or fruit-based sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bowl of penne pasta",
+      "portion_estimate": "250 grams (cooked)",
+      "confidence": 80
+    },
+    {
+      "name": "small bowl of shredded chicken",
+      "portion_estimate": "120 grams",
+      "confidence": 70
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    }
+  ]
+}

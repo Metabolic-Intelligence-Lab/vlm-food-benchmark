@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed green salad",
+      "portion_estimate": "80",
+      "confidence": "90"
+    },
+    {
+      "name": "milkshake",
+      "portion_estimate": "250",
+      "confidence": "95"
+    },
+    {
+      "name": "hamburger patty",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "kombucha",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "seaweed",
+      "portion_estimate": "30",
+      "confidence": "80"
+    }
+  ]
+}

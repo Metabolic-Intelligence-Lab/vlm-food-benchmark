@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot and cucumber salad with shredded carrots, cucumber slices, and mixed greens",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "wrapped bread roll (possibly a sandwich bun or dinner roll)",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "steamed or saut\u00e9ed kale (or similar green leafy vegetable)",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "baked quiche or savory pie slice with visible egg and cheese filling, topped with jam or jelly",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "red potatoes or beets (small, whole)",
+      "portion_estimate": "150",
+      "confidence": 75
+    }
+  ]
+}

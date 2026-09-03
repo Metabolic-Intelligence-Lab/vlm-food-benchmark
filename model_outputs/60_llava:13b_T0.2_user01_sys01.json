@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Baked potato",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Meatballs",
+      "portion_estimate": "80g",
+      "confidence": "60"
+    }
+  ]
+}

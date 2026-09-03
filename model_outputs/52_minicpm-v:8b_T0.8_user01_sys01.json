@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken fillet",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Roasted red cabbage and carrot salad",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain toast with a topping that appears to be cheese or pesto",
+      "portion_estimate": "uncertain, possibly around 15g-30g for one slice",
+      "confidence": "60"
+    },
+    {
+      "name": "Macaroni and vegetable pasta (possibly green beans)",
+      "portion_estimate": "approximately 2 servings of pasta based on plate size; individual serving could be roughly 70g-140g",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed salad greens (red and green lettuce)",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Shredded carrots",
+      "portion_estimate": 30,
+      "confidence": 85
+    },
+    {
+      "name": "Grilled chicken breast (sliced)",
+      "portion_estimate": 120,
+      "confidence": 70
+    },
+    {
+      "name": "Dressing or oil residue",
+      "portion_estimate": 15,
+      "confidence": 60
+    }
+  ]
+}

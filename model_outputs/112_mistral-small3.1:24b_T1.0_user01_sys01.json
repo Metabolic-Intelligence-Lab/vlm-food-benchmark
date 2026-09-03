@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with parmesan",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "Cheese portion",
+      "portion_estimate": "30",
+      "confidence": 70
+    },
+    {
+      "name": "Polarte with tomato",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "watermelon slice (cubed)",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "orange carrot noodles (shredded)",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "spinach salad with meat patty",
+      "portion_estimate": "150 grams (salad + patty)",
+      "confidence": 85
+    },
+    {
+      "name": "water (in clear plastic cup)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

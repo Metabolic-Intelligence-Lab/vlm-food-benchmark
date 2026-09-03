@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "6",
+      "confidence": 90
+    },
+    {
+      "name": "fish and greens",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

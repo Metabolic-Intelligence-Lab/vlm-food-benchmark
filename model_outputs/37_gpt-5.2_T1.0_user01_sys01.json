@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad (radicchio and shredded carrot)",
+      "portion_estimate": "90 g",
+      "confidence": "78"
+    },
+    {
+      "name": "apple (whole, medium)",
+      "portion_estimate": "170 g",
+      "confidence": "86"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "74"
+    },
+    {
+      "name": "spaghetti/pasta with grated cheese",
+      "portion_estimate": "200 g",
+      "confidence": "76"
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "55 g",
+      "confidence": "84"
+    },
+    {
+      "name": "slice of bread with cooked spinach and shaved cheese",
+      "portion_estimate": "110 g",
+      "confidence": "72"
+    },
+    {
+      "name": "small yogurt drink (bottle, likely sweetened)",
+      "portion_estimate": "180 g",
+      "confidence": "63"
+    }
+  ]
+}

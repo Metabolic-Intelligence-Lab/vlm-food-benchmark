@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "soup with grated cheese topping",
+      "portion_estimate": "400",
+      "confidence": "85"
+    },
+    {
+      "name": "yellow mashed potato or puree with tomato sauce drizzle",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "shredded or chopped meat (possibly chicken or pork)",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "whole wheat or crusty bread (unopened, wrapped)",
+      "portion_estimate": "200",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt or dairy product (partially visible in container)",
+      "portion_estimate": "150",
+      "confidence": "65"
+    },
+    {
+      "name": "sweetened condensed milk or similar canned beverage (partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "sugar packet (visible near bread)",
+      "portion_estimate": "10",
+      "confidence": "90"
+    },
+    {
+      "name": "plastic spoon (non-food item, excluded)",
+      "portion_estimate": "N/A",
+      "confidence": "N/A"
+    }
+  ]
+}

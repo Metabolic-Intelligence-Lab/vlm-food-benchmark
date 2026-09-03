@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange chunks (likely diced carrots or sweet potatoes)",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "pasta with sauce (tomato-based or meat sauce)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "green beans (fresh or frozen)",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "sliced baguette (or similar bread)",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "plain water (from clear plastic cup)",
+      "portion_estimate": "200 milliliters",
+      "confidence": 85
+    }
+  ]
+}

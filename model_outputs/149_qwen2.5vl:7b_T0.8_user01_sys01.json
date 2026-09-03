@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with sauce and garnish",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Sandwich with leafy greens",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Zucccheri Aggiungi",
+      "portion_estimate": "200ml carton",
+      "confidence": "95"
+    },
+    {
+      "name": "Granola Bar (first bar on the left)",
+      "portion_estimate": "uncertain, approx. 30-40g each",
+      "confidence": "70"
+    },
+    {
+      "name": "Granola Bar (second bar on the right)",
+      "portion_estimate": "uncertain, approx. 30-40g each",
+      "confidence": "65"
+    }
+  ]
+}

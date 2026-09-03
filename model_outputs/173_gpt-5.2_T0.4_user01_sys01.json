@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans (seasoned)",
+      "portion_estimate": "130 g",
+      "confidence": "78"
+    },
+    {
+      "name": "hard-boiled eggs (2 halves / 1 egg)",
+      "portion_estimate": "55 g",
+      "confidence": "72"
+    },
+    {
+      "name": "penne pasta (cooked, lightly sauced)",
+      "portion_estimate": "170 g",
+      "confidence": "80"
+    },
+    {
+      "name": "slice of whole wheat bread",
+      "portion_estimate": "35 g",
+      "confidence": "70"
+    },
+    {
+      "name": "orange (whole)",
+      "portion_estimate": "140 g",
+      "confidence": "82"
+    }
+  ]
+}

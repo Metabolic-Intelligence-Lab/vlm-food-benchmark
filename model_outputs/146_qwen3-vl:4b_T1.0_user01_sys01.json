@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Sliced bread",
+      "portion_estimate": "50 g",
+      "confidence": 80
+    },
+    {
+      "name": "Cheesy penne pasta",
+      "portion_estimate": "200 g",
+      "confidence": 75
+    },
+    {
+      "name": "Boiled potato chunks",
+      "portion_estimate": "150 g",
+      "confidence": 70
+    },
+    {
+      "name": "Whole grain cracker",
+      "portion_estimate": "25 g",
+      "confidence": 80
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "160 g",
+      "confidence": 80
+    },
+    {
+      "name": "Butter packet (or similar small packaging)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

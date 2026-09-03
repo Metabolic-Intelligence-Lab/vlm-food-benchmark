@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni pasta (cooked)",
+      "portion_estimate": "220g",
+      "confidence": "95"
+    },
+    {
+      "name": "Savory quiche or tart",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mixed green salad with cucumber",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll or small loaf",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Small orange vegetable/fruit pieces",
+      "portion_estimate": "50g",
+      "confidence": "75"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+The sum of the arithmetic sequence **5, 15, 25, 35, 45** is calculated as follows:
+
+- **Number of terms (n)**: 5  
+- **First term (a₁)**: 5  
+- **Last term (aₙ)**: 45  
+
+Using the formula for the sum of an arithmetic sequence:  
+$$
+S_n = \frac{n}{2} \times (a_1 + a_n)
+$$
+
+Substitute the values:  
+$$
+S_5 = \frac{5}{2} \times (5 + 45) = \frac{5}{2} \times 50 = 5 \times 25 = 125
+$$
+
+**Answer:** $ \boxed{125} $

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chickpea salad",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "breaded fried cutlet (vegetable or cheese patty) with grated parmesan",
+      "portion_estimate": "90",
+      "confidence": "55"
+    },
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "220",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (panino)",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "packaged cheese portion (spreadable/soft cheese cup)",
+      "portion_estimate": "20",
+      "confidence": "65"
+    }
+  ]
+}

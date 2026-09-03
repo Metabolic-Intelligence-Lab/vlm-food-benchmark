@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "brussels sprouts with carrots",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "orange omelette or egg dish",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "penne pasta with mushrooms",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "purple grapes (approximately 3-4 grapes)",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "sliced bread",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "yellow cheese packet (unclear if opened or sealed)",
+      "portion_estimate": "20 grams",
+      "confidence": "60"
+    }
+  ]
+}

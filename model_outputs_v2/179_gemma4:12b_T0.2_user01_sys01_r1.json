@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "lemon",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "cooked rice",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "stuffed vegetable ball (falafel-style)",
+      "portion_estimate": "90g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70g",
+      "confidence": 95
+    }
+  ]
+}

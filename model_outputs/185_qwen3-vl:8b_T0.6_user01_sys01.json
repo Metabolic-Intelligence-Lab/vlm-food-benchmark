@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Diced potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Shredded cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 95
+    },
+    {
+      "name": "Burger patty",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    }
+  ]
+}

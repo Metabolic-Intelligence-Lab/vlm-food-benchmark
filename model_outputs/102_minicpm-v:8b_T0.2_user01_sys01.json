@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain, approx. slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta with parmesan cheese and garnish",
+      "portion_estimate": "uncertain, plate size",
+      "confidence": "60"
+    },
+    {
+      "name": "chicken or pork cutlet with sauce and garnish",
+      "portion_estimate": "uncertain, plate size",
+      "confidence": "50"
+    },
+    {
+      "name": "potato wedges",
+      "portion_estimate": "uncertain, plate size",
+      "confidence": "60"
+    }
+  ]
+}

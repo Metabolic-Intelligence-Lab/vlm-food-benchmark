@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "Penne Pasta",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "Omelette",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "Mushroom",
+      "portion_estimate": "5",
+      "confidence": "80"
+    },
+    {
+      "name": "Sprite",
+      "portion_estimate": "300",
+      "confidence": "90"
+    }
+  ]
+}

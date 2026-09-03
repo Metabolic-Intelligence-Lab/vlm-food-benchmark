@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pan-seared white fish fillet (approx. 150-180g)",
+      "portion_estimate": "160",
+      "confidence": "75"
+    },
+    {
+      "name": "steamed or saut\u00e9ed mixed vegetables (e.g., zucchini, bell peppers, and broccoli)",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "mashed or diced sweet potato or carrot-based side dish",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "whole wheat or white bread roll",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "whole milk (approx. 200ml)",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "condiment packet (e.g., salt, sugar, or seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    }
+  ]
+}

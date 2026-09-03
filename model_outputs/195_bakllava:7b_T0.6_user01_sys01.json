@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "brown rice",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 90
+    },
+    {
+      "name": "sausage",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 80
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "canned tuna",
+      "portion_estimate": "80",
+      "confidence": "90"
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "mozzarella cheese",
+      "portion_estimate": "30",
+      "confidence": "90"
+    },
+    {
+      "name": "rigatoni pasta",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "20",
+      "confidence": "90"
+    }
+  ]
+}

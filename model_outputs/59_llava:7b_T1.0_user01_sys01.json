@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "mixed greens with carrot slices",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "whole grain roll",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked leafy green vegetables",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    }
+  ]
+}

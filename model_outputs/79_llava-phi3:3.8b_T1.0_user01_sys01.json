@@ -1,0 +1,84 @@
+{
+  "plate1": {
+    "type": "rectangle",
+    "shape": "square",
+    "color": "white",
+    "contents": [
+      {
+        "item": "breaded meat cutlet",
+        "count": 3,
+        "position": "top left"
+      },
+      {
+        "item": "rice with butter and cheese",
+        "count": 1,
+        "position": "top center"
+      }
+    ]
+  },
+  "plate2": {
+    "type": "rectangle",
+    "shape": "square",
+    "color": "white",
+    "contents": [
+      {
+        "item": "baked beans with onion",
+        "count": 1,
+        "position": "bottom center"
+      },
+      {
+        "item": "cabbage roll with cheese",
+        "count": 3,
+        "position": "top right"
+      }
+    ]
+  },
+  "plate3": {
+    "type": "rectangle",
+    "shape": "square",
+    "color": "white",
+    "contents": [
+      {
+        "item": "yellow squash with green stuff on top",
+        "count": 1,
+        "position": "bottom left"
+      },
+      {
+        "item": "grapes and other fruit in clear plastic bag",
+        "count": 5,
+        "position": "bottom right"
+      }
+    ]
+  },
+  "condiments": [
+    {
+      "type": "rectangle",
+      "shape": "square",
+      "color": "white",
+      "contents": [
+        {
+          "item": "ketchup",
+          "count": 1,
+          "position": "top left"
+        },
+        {
+          "item": "mustard",
+          "count": 1,
+          "position": "bottom left"
+        }
+      ]
+    }
+  ],
+  "plates": [
+    {
+      "type": "square",
+      "material": "paper",
+      "position": "top center"
+    },
+    {
+      "type": "square",
+      "material": "paper",
+      "position": "bottom left"
+    }
+  ]
+}

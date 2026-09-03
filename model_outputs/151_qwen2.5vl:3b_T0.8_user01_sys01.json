@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "frozen vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "unidentified dessert or snack",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

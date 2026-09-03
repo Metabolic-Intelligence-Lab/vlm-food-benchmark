@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato-based sauce and grated cheese",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "spinach and cheese-stuffed pasta (manicotti)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed salad (cabbage, cucumber, and possibly other vegetables)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "oranges (whole)",
+      "portion_estimate": "300 grams (two medium oranges)",
+      "confidence": 90
+    },
+    {
+      "name": "butter or margarine packet",
+      "portion_estimate": "uncertain (small packet, ~10-20g)",
+      "confidence": 50
+    },
+    {
+      "name": "salt packet (for seasoning)",
+      "portion_estimate": "uncertain (small packet, negligible weight)",
+      "confidence": 50
+    }
+  ]
+}

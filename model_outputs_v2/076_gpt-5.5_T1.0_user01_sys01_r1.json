@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta shells with tomato and vegetable sauce",
+      "portion_estimate": "approximately 250 g",
+      "confidence": "85"
+    },
+    {
+      "name": "couscous salad with vegetables",
+      "portion_estimate": "approximately 170 g",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "approximately 70 g",
+      "confidence": "90"
+    },
+    {
+      "name": "two small stone fruits, likely plums",
+      "portion_estimate": "approximately 150 g",
+      "confidence": "55"
+    },
+    {
+      "name": "uncertain stuffed eggplant or vegetable roll with cheese and vegetables",
+      "portion_estimate": "approximately 90 g",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "food_items": [
+    {
+      "name": "Green peas",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed salad greens",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Orange fruit",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ],
+  "missing_items": true
+}

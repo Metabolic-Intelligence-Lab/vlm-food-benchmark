@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Cheese Pizza",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with Meat Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Mandarin Oranges",
+      "portion_estimate": "uncertain",
+      "confidence": "65"
+    },
+    {
+      "name": "Bread Packaged in Plastic Bag",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

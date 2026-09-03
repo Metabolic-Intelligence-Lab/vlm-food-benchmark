@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "grapes, purple",
+      "portion_estimate": "3",
+      "confidence": 90
+    },
+    {
+      "name": "salad (lettuce and orange carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "loaf of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "chips",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

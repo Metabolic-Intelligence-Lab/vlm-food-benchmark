@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta Frittata",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    }
+  ]
+}

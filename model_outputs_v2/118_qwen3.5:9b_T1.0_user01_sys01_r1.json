@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with red sauce (likely marinara or arrabbiata) and grated parmesan cheese",
+      "portion_estimate": 160,
+      "confidence": 95
+    },
+    {
+      "name": "Diced potatoes (roasted or boiled, seasoned with herbs like thyme or oregano)",
+      "portion_estimate": 90,
+      "confidence": 92
+    },
+    {
+      "name": "Baked potato wedge or slice topped with ketchup and melted cheese",
+      "portion_estimate": 65,
+      "confidence": 88
+    },
+    {
+      "name": "Single-serve Yogurt (Fragola/Strawberry flavor, brand Kokoro visible)",
+      "portion_estimate": 100,
+      "confidence": 97
+    },
+    {
+      "name": "Dried noodles in vacuum-sealed packet (likely fettuccine or spaghetti for stir-fry)",
+      "portion_estimate": 200,
+      "confidence": 85
+    }
+  ]
+}

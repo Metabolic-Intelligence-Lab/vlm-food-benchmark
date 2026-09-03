@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Brown Object",
+      "portion_estimate": "3-4 inches diameter",
+      "confidence": 80
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "1-2 inches length",
+      "confidence": 90
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "1-2 inches length",
+      "confidence": 70
+    }
+  ]
+}

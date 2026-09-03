@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fried fish (cod or haddock)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

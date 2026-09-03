@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed potatoes with gravy",
+      "portion_estimate": "approximate weight in grams, as it is difficult to estimate portion size without a clear reference",
+      "confidence": "60"
+    },
+    {
+      "name": "Steamed carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Rolled up meat with sauce",
+      "portion_estimate": "approximate weight in grams, as it is difficult to estimate portion size without a clear reference",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    },
+    {
+      "name": "Sliced tomato salad",
+      "portion_estimate": "approximate weight in grams, as it is difficult to estimate portion size without a clear reference",
+      "confidence": "60"
+    },
+    {
+      "name": "Fresh carrot sticks",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

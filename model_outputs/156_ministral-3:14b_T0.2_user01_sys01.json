@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked fish fillet with lemon butter sauce",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "roasted Brussels sprouts",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "baked or grilled potato wedges (or home fries)",
+      "portion_estimate": "180",
+      "confidence": 75
+    },
+    {
+      "name": "whole wheat or multigrain sandwich roll",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "partially peeled banana",
+      "portion_estimate": "120",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and parmesan cheese",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Cheese stick",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    },
+    {
+      "name": "Spinach and potato side dish",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Focaccia bread with spinach and cheese filling",
+      "portion_estimate": "80g",
+      "confidence": "95"
+    }
+  ]
+}

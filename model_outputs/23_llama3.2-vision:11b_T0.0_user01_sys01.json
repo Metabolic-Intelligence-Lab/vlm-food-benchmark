@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Yellowish-brown food item with red sauce",
+      "portion_estimate": "100-150g",
+      "confidence": "80-90"
+    },
+    {
+      "name": "White food",
+      "portion_estimate": "50-75g",
+      "confidence": "70-80"
+    },
+    {
+      "name": "Lemon wedge",
+      "portion_estimate": "10-15g",
+      "confidence": "90-100"
+    },
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "200-250g",
+      "confidence": "90-100"
+    },
+    {
+      "name": "Yogurt or cheese",
+      "portion_estimate": "50-75g",
+      "confidence": "80-90"
+    }
+  ]
+}

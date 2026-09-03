@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt parfait",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    }
+  ]
+}

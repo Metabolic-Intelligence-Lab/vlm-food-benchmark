@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "about 150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "meatball sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "cheese-covered lasagna or casserole",
+      "portion_estimate": "about 200 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "bruschetta or toasted bread with something on top",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "roasted vegetables including broccoli and cauliflower",
+      "portion_estimate": "about 125 grams",
+      "confidence": "60"
+    }
+  ]
+}

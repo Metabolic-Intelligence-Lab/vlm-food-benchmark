@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain, approximately 100g per slice",
+      "confidence": "50"
+    },
+    {
+      "name": "Soup with Cheese Grating",
+      "portion_estimate": "uncertain, approximately 200-300g",
+      "confidence": "60"
+    },
+    {
+      "name": "Brussel Sprouts and Carrots",
+      "portion_estimate": "uncertain, approximately 150g for each vegetable mix",
+      "confidence": "70"
+    },
+    {
+      "name": "Roast Meat (likely ham)",
+      "portion_estimate": "uncertain, possibly around 200-300g based on size and thickness",
+      "confidence": "60"
+    }
+  ]
+}

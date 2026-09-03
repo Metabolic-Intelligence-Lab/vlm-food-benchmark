@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Orange soup (likely pumpkin or butternut squash)",
+      "portion_estimate": 350,
+      "confidence": 92
+    },
+    {
+      "name": "Crab and spinach omelette",
+      "portion_estimate": 180,
+      "confidence": 94
+    },
+    {
+      "name": "Seasoned roasted potatoes (diced)",
+      "portion_estimate": 250,
+      "confidence": 96
+    },
+    {
+      "name": "Brioche bun",
+      "portion_estimate": 85,
+      "confidence": 93
+    },
+    {
+      "name": "Small yogurt cup (individual portion)",
+      "portion_estimate": 125,
+      "confidence": 90
+    }
+  ]
+}

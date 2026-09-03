@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed green beans",
+      "portion_estimate": "180",
+      "confidence": "95"
+    },
+    {
+      "name": "Vegetable or meat patty",
+      "portion_estimate": "90",
+      "confidence": "85"
+    },
+    {
+      "name": "Slice of watermelon",
+      "portion_estimate": "220",
+      "confidence": "95"
+    },
+    {
+      "name": "Pasta with cheese topping",
+      "portion_estimate": "300",
+      "confidence": "95"
+    }
+  ]
+}

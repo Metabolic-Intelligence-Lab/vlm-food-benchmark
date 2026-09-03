@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (with tomato-basil sauce)",
+      "portion_estimate": "300g",
+      "confidence": 90
+    },
+    {
+      "name": "baked or stuffed potato (potato croquettes or hash brown-like)",
+      "portion_estimate": "80g each",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potato wedges (saut\u00e9ed or pan-fried)",
+      "portion_estimate": "180g",
+      "confidence": 88
+    },
+    {
+      "name": "plastic-wrapped butter or cheese portion (likely from Talvi brand)",
+      "portion_estimate": "25g",
+      "confidence": 70
+    },
+    {
+      "name": "white wine glass (partially visible, no beverage in view)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

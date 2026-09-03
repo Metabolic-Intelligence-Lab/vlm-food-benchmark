@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (likely penne or rigatoni)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "chicken breast chunks",
+      "portion_estimate": "80 grams",
+      "confidence": 80
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "black grapes",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "diced red onion or bell pepper",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "white sauce or yogurt-based dressing",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

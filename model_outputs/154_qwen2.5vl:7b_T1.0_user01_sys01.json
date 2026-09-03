@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Carrots",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Tomatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Falafel",
+      "portion_estimate": "100 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Pasta with pesto",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    }
+  ]
+}

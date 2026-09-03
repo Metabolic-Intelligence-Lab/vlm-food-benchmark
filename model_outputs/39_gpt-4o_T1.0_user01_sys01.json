@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "boiled spinach",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "grilled fish with lemon zest",
+      "portion_estimate": "120 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "90 grams",
+      "confidence": "85"
+    }
+  ]
+}

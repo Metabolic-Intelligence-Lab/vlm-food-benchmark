@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup (likely tomato-based or broth-based)",
+      "portion_estimate": "300-400g",
+      "confidence": 75
+    },
+    {
+      "name": "small bowl of sauce (possibly salsa or chutney)",
+      "portion_estimate": "50-80g",
+      "confidence": 70
+    },
+    {
+      "name": "mixed greens with dressing (salad-like)",
+      "portion_estimate": "100-150g",
+      "confidence": 75
+    },
+    {
+      "name": "packaged butter or margarine (unopened)",
+      "portion_estimate": "uncertain (likely 25-50g per serving)",
+      "confidence": 55
+    },
+    {
+      "name": "condiment packet (likely salt or seasoning)",
+      "portion_estimate": "uncertain (typically 1-2g per packet)",
+      "confidence": 50
+    }
+  ]
+}

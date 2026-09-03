@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with sauce",
+      "portion_estimate": "200-250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "brussels sprouts with seasoning",
+      "portion_estimate": "50-75 grams",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50-60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "yellow pear",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    }
+  ]
+}

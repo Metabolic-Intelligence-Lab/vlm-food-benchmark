@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi (potato pasta)",
+      "portion_estimate": 250,
+      "confidence": 85
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": 100,
+      "confidence": 90
+    },
+    {
+      "name": "grated parmesan cheese",
+      "portion_estimate": 30,
+      "confidence": 80
+    }
+  ]
+}

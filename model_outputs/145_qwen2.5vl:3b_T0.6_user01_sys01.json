@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Frittata",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Beans",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Butter",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "Cupcake",
+      "portion_estimate": "uncertain",
+      "confidence": "10"
+    }
+  ]
+}

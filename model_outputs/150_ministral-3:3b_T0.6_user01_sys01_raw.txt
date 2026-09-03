@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "packaged baguette (loaf, sliced)",
+      "portion_estimate": 200,  // ~2 slices (each ~100g)
+      "confidence": 90
+    },
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": 150,  // ~1/2 cup cooked pasta
+      "confidence": 95
+    },
+    {
+      "name": "mixed roasted vegetables (carrots, Brussels sprouts, zucchini)",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "black plums",
+      "portion_estimate": 50,  // ~6-7 plums
+      "confidence": 90
+    }
+  ]
+}

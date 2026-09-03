@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "a serving",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "a small",
+      "confidence": 80
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "a bowl",
+      "confidence": 70
+    },
+    {
+      "name": "stuffed eggplant with cheese",
+      "portion_estimate": "a portion",
+      "confidence": 60
+    },
+    {
+      "name": "strawberry yogurt",
+      "portion_estimate": "a glass",
+      "confidence": 90
+    }
+  ]
+}

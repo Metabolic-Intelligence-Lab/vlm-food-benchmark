@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet with skin",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked rigatoni pasta with light sauce and grated cheese",
+      "portion_estimate": "180 g",
+      "confidence": "90"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "150 g",
+      "confidence": "95"
+    },
+    {
+      "name": "chopped cooked cauliflower or cabbage",
+      "portion_estimate": "120 g",
+      "confidence": "50"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    }
+  ]
+}

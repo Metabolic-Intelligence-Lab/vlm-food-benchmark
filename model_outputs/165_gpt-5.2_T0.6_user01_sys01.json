@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "thick vegetable soup/puree (green-brown), topped with grated cheese",
+      "portion_estimate": "320 g",
+      "confidence": "70"
+    },
+    {
+      "name": "grated cheese topping (on soup)",
+      "portion_estimate": "8 g",
+      "confidence": "60"
+    },
+    {
+      "name": "hamburger patty with shredded zucchini/vegetable topping",
+      "portion_estimate": "110 g",
+      "confidence": "65"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "170 g",
+      "confidence": "75"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "70"
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    },
+    {
+      "name": "string cheese (individually wrapped)",
+      "portion_estimate": "25 g",
+      "confidence": "65"
+    }
+  ]
+}

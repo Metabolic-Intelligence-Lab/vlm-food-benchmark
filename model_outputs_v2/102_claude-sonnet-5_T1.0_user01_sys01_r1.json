@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta bake with bow-tie pasta and parmesan crust",
+      "portion_estimate": "200",
+      "confidence": "70"
+    },
+    {
+      "name": "roasted diced potatoes with eggplant",
+      "portion_estimate": "180",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded chicken cutlet with shredded cucumber garnish",
+      "portion_estimate": "120",
+      "confidence": "65"
+    },
+    {
+      "name": "whole wheat bread roll",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "fruit yogurt cup (Sprint Day mela e frutti di bosco)",
+      "portion_estimate": "125",
+      "confidence": "75"
+    }
+  ]
+}

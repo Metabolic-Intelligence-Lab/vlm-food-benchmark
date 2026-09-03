@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "apple slice",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "fried rice or noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

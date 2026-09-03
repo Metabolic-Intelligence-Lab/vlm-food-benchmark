@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "20g",
+      "confidence": "75%"
+    },
+    {
+      "name": "Oatmeal",
+      "portion_estimate": "184g",
+      "confidence": "65%"
+    },
+    {
+      "name": "Pecans",
+      "portion_estimate": "50g",
+      "confidence": "72%"
+    },
+    {
+      "name": "Bread and butter",
+      "portion_estimate": "84g",
+      "confidence": "65%"
+    },
+    {
+      "name": "Sliced banana",
+      "portion_estimate": "100g",
+      "confidence": "92%"
+    }
+  ]
+}

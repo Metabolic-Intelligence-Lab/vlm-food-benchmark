@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole baked potato",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed greens salad with shredded cabbage and avocado chunks",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "sliced carrot",
+      "portion_estimate": "30 grams",
+      "confidence": 75
+    },
+    {
+      "name": "spinach leaves",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "wrapped food item (possibly a tortilla or bread roll with filling)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

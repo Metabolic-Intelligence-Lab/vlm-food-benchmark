@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot slices",
+      "portion_estimate": "75g",
+      "confidence": 95
+    },
+    {
+      "name": "Pasta with parmesan cheese",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "85g",
+      "confidence": 70
+    }
+  ]
+}

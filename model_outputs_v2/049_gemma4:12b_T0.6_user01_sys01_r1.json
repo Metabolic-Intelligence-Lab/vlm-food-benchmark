@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "tubular pasta (rigatoni/ziti)",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "80",
+      "confidence": 95
+    },
+    {
+      "name": "diced tomatoes",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "feta cheese chunks",
+      "portion_estimate": "40",
+      "confidence": 90
+    }
+  ]
+}

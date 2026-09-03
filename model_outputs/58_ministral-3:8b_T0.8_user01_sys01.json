@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with yellow sauce (likely Alfredo or similar)",
+      "portion_estimate": "300 grams (uncertain, based on typical portion size)",
+      "confidence": 65
+    },
+    {
+      "name": "roasted carrot slices and baby carrots",
+      "portion_estimate": "150 grams (estimated)",
+      "confidence": 75
+    },
+    {
+      "name": "chicken (shredded) mixed with sauce (possibly gravy or cream-based)",
+      "portion_estimate": "120 grams (uncertain, based on typical portion size)",
+      "confidence": 65
+    },
+    {
+      "name": "whole peach",
+      "portion_estimate": "150 grams (average medium-sized peach)",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat bread (loaf)",
+      "portion_estimate": "uncertain (portion size unclear, ~150g for one slice assumed)",
+      "confidence": 45
+    },
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "uncertain (size unclear, likely 200-250ml)",
+      "confidence": 50
+    }
+  ]
+}

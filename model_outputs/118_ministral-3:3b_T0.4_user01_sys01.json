@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "small baked potato topped with cheese sauce and herbs",
+      "portion_estimate": "120 grams (potato portion)",
+      "confidence": 85
+    },
+    {
+      "name": "red sauce on top of potato",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "small container of yogurt (Yoplait brand)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "celery sticks",
+      "portion_estimate": "uncertain (small bunch, ~50 grams)",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+The image shows a dish that appears to be fried eggs, possibly with some spices or seasoning on top. It looks like it could be a breakfast or brunch item. There are two images for comparison, one showing the full plate and another zoomed in to show the texture of the food.
+
+Based on your request, here is the JSON output:
+
+```json
+{
+  "food_items": [
+    {
+      "name": "Fried eggs with seasoning",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    }
+  ]
+}
+```
+
+Please note that the portion estimate is an approximation and actual serving sizes may vary. The confidence level is set to 90 because the image provides a clear view of the food, allowing for a high degree of certainty in identification.

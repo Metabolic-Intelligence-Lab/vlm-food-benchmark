@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded pasta casserole",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Mixed vegetables with tomato and corn",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Grated carrots",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt cup",
+      "portion_estimate": "100",
+      "confidence": 60
+    }
+  ]
+}

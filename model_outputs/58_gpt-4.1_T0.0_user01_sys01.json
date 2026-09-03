@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "plain gemelli pasta",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "peach",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "sliced cooked carrots",
+      "portion_estimate": "90",
+      "confidence": 90
+    },
+    {
+      "name": "omelette with cooked cabbage",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "water (in cup)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

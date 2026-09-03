@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with sauce",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "pie with fruit topping",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "sliced cheese, uncertain type",
+      "portion_estimate": "100 g",
+      "confidence": "50"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

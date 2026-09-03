@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with meat sauce and shredded cheese",
+      "portion_estimate": "450 grams (including pasta, meat, and cheese)",
+      "confidence": 85
+    },
+    {
+      "name": "crushed red pepper flakes (visible on the container rim)",
+      "portion_estimate": "uncertain (likely <5 grams)",
+      "confidence": 50
+    }
+  ]
+}

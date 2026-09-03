@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot slices",
+      "portion_estimate": "35",
+      "confidence": 95
+    },
+    {
+      "name": "Bread balls (or \"brioche balls\")",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "Green soup (e.g., leafy green soup or vegetable soup)",
+      "portion_estimate": "250",
+      "confidence": 95
+    },
+    {
+      "name": "Gelato (or ice cream)",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "TORINESI bread (or TORINESI product)",
+      "portion_estimate": "100",
+      "confidence": 95
+    }
+  ]
+}

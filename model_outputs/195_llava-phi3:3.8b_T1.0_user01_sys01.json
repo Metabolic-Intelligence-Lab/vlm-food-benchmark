@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Chili",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "Tater tots",
+      "portion_estimate": "130g",
+      "confidence": "85"
+    },
+    {
+      "name": "Baked beans in sauce",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    }
+  ]
+}

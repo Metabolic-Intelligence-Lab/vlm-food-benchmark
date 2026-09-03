@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta/casserole dish with cheese topping (portion)",
+      "portion_estimate": "180-200g",
+      "confidence": 75
+    },
+    {
+      "name": "plain white roll or bun",
+      "portion_estimate": "50-60g",
+      "confidence": 70
+    },
+    {
+      "name": "creamy vegetable soup",
+      "portion_estimate": "350-400g",
+      "confidence": 80
+    },
+    {
+      "name": "buttered/pickled brussels sprouts",
+      "portion_estimate": "120-150g",
+      "confidence": 75
+    },
+    {
+      "name": "apple (whole)",
+      "portion_estimate": "150-180g",
+      "confidence": 85
+    },
+    {
+      "name": "butter/pickled vegetable spread packet",
+      "portion_estimate": "uncertain (partially used, but full weight ~10g)",
+      "confidence": 55
+    }
+  ]
+}

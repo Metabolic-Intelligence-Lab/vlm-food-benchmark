@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "potato-based croquette (two pieces)",
+      "portion_estimate": "150g (estimated combined weight)",
+      "confidence": 85
+    },
+    {
+      "name": "creamy soup with cheese topping (likely spinach or lentil-based)",
+      "portion_estimate": "300g",
+      "confidence": 85
+    },
+    {
+      "name": "raw potato (wrapped in plastic)",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "mixed green salad (lettuce, cabbage, and possibly other greens)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "single-serving yogurt (Vomo Foodservice, 125g)",
+      "portion_estimate": "125g",
+      "confidence": 100
+    }
+  ]
+}

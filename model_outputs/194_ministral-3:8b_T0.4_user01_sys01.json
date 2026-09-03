@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup in bowl (likely tomato-based or broth)",
+      "portion_estimate": "250g",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or saut\u00e9ed greens (likely kale or collard greens)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "small bread roll or bun (plain or slightly sweetened)",
+      "portion_estimate": "60g",
+      "confidence": 80
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

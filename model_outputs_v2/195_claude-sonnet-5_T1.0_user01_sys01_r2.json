@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (gomiti) with tomato sauce and beans",
+      "portion_estimate": "220",
+      "confidence": 70
+    },
+    {
+      "name": "roasted potato cubes",
+      "portion_estimate": "180",
+      "confidence": 75
+    },
+    {
+      "name": "ground meat ragu with beans in tomato sauce",
+      "portion_estimate": "160",
+      "confidence": 65
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150",
+      "confidence": 60
+    }
+  ]
+}

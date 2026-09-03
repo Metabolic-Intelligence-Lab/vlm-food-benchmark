@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (white, packaged)",
+      "portion_estimate": "70 g",
+      "confidence": "78"
+    },
+    {
+      "name": "strawberry yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "82"
+    },
+    {
+      "name": "breaded fried cutlet/croquette (oval, likely chicken or ham)",
+      "portion_estimate": "120 g",
+      "confidence": "62"
+    },
+    {
+      "name": "chickpea stew/soup with grated cheese on top",
+      "portion_estimate": "350 g",
+      "confidence": "74"
+    },
+    {
+      "name": "side salad (lettuce with shredded carrot, no visible dressing)",
+      "portion_estimate": "90 g",
+      "confidence": "80"
+    }
+  ]
+}

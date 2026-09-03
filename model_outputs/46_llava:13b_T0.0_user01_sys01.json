@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "chickpea soup",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "salad with mixed greens and berries",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "crispy breaded vegetable patties",
+      "portion_estimate": "120g",
+      "confidence": "60"
+    }
+  ]
+}

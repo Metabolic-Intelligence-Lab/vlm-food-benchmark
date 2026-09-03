@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot and cucumber salad",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "sweet potato with cheese and chutney",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "100",
+      "confidence": "90"
+    }
+  ]
+}

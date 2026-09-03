@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "125g",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "85g",
+      "confidence": "90"
+    },
+    {
+      "name": "grilled chicken breast",
+      "portion_estimate": "115g",
+      "confidence": "95"
+    },
+    {
+      "name": "steamed carrots",
+      "portion_estimate": "65g",
+      "confidence": "85"
+    },
+    {
+      "name": "white rice",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

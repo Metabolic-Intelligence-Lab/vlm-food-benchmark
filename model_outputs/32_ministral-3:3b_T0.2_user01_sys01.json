@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "small pasta shells (e.g., farfalle) with tomato chunks",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "grated cheese (parmesan or similar) sprinkled on top",
+      "portion_estimate": "20",
+      "confidence": 85
+    },
+    {
+      "name": "small pieces of fresh basil",
+      "portion_estimate": "5",
+      "confidence": 70
+    }
+  ]
+}

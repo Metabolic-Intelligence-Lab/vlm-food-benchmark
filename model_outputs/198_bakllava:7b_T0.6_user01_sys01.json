@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fish",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "coffee creamer",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

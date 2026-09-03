@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked Chicken Nuggets",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bag of Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

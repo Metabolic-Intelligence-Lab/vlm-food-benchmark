@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken on avocado slice",
+      "portion_estimate": "150 g",
+      "confidence": 90
+    },
+    {
+      "name": "roasted potato cubes",
+      "portion_estimate": "120 g",
+      "confidence": 90
+    },
+    {
+      "name": "rice with spinach and chickpeas",
+      "portion_estimate": "150 g",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "90 g",
+      "confidence": 95
+    },
+    {
+      "name": "small rolls (bread)",
+      "portion_estimate": "70 g",
+      "confidence": 85
+    }
+  ]
+}

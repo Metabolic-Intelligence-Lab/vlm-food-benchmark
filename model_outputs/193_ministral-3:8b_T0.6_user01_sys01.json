@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange slices",
+      "portion_estimate": "150g (two medium slices)",
+      "confidence": 80
+    },
+    {
+      "name": "fried rice or mixed rice dish",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "miso soup or broth-based soup",
+      "portion_estimate": "300g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll or bun (partially visible at bottom left)",
+      "portion_estimate": "uncertain (likely ~50-70g)",
+      "confidence": 60
+    },
+    {
+      "name": "water in clear plastic cups",
+      "portion_estimate": "uncertain (likely ~250ml per cup, two cups visible)",
+      "confidence": 65
+    }
+  ]
+}

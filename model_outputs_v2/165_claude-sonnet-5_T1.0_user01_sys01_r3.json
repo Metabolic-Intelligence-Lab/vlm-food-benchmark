@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup (minestrone-style) with grated cheese topping",
+      "portion_estimate": "350",
+      "confidence": "75"
+    },
+    {
+      "name": "breaded fried meat cutlet/burger",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "mashed potatoes/pureed vegetable side",
+      "portion_estimate": "150",
+      "confidence": "65"
+    },
+    {
+      "name": "shredded raw zucchini/apple salad garnish",
+      "portion_estimate": "30",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit yogurt cup (Yomo brand)",
+      "portion_estimate": "125",
+      "confidence": "85"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "200",
+      "confidence": "60"
+    },
+    {
+      "name": "wrapped bread stick (grissino)",
+      "portion_estimate": "20",
+      "confidence": "60"
+    }
+  ]
+}

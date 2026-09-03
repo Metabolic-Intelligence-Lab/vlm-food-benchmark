@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked small pasta shells with tomato/cream sauce",
+      "portion_estimate": "260 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated cheese (likely parmesan) on pasta",
+      "portion_estimate": "8 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked lentils",
+      "portion_estimate": "180 g",
+      "confidence": "82"
+    },
+    {
+      "name": "breaded fish portions (2 pieces)",
+      "portion_estimate": "140 g",
+      "confidence": "68"
+    },
+    {
+      "name": "grilled eggplant slice",
+      "portion_estimate": "20 g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "55 g",
+      "confidence": "74"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "170 g",
+      "confidence": "86"
+    }
+  ]
+}

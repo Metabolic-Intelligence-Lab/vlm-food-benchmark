@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Lemon wedge",
+      "portion_estimate": "1",
+      "confidence": "90"
+    },
+    {
+      "name": "Sauce packet",
+      "portion_estimate": "1",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain, possibly around 150g-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrots (sliced)",
+      "portion_estimate": "uncertain, approximately 80g-100g for a medium carrot slice",
+      "confidence": "70"
+    },
+    {
+      "name": "Whole grain bread roll",
+      "portion_estimate": "approximately 95g per standard size whole grain bread roll",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrot cake balls (3)",
+      "portion_estimate": "uncertain, possibly around 12-18g each ball based on average portion size for carrot cakes",
+      "confidence": "50"
+    },
+    {
+      "name": "Macaroni and cheese with tortellini shells",
+      "portion_estimate": "uncertain, approximately 94g per standard serving of macaroni and cheese (1 cup), including pasta and sauce. Assuming portion size is typical for this type of dish.",
+      "confidence": "60"
+    },
+    {
+      "name": "A glass with water",
+      "portion_estimate": "uncertain, possibly around 250ml or more depending on the context; typically a standard drinking glass contains approximately 8 fl oz (about 237 ml) of liquid.",
+      "confidence": "60"
+    }
+  ]
+}

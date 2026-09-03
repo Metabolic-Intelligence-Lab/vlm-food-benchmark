@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried egg",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "65"
+    },
+    {
+      "name": "home fries",
+      "portion_estimate": "approximately 75 grams",
+      "confidence": "45"
+    },
+    {
+      "name": "sausage in a bun",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "fresh spinach salad",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": "30"
+    },
+    {
+      "name": "fruits or vegetables in a cup",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "70"
+    }
+  ]
+}

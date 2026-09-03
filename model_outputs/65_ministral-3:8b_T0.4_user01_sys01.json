@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "yogurt (Yomo, ~150ml container)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "mixed greens salad (lettuce, herbs, and possibly cucumber/chopped veggies)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "fried egg (sunny-side-up)",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "potato hash or diced fried potatoes",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "brioche or buttery roll (packaged)",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "water (in clear glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

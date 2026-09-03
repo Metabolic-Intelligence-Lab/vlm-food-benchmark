@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "flour tortilla or flatbread wrap",
+      "portion_estimate": "90 g",
+      "confidence": "85"
+    },
+    {
+      "name": "egg filling",
+      "portion_estimate": "60 g",
+      "confidence": "55"
+    },
+    {
+      "name": "tomato or salsa filling",
+      "portion_estimate": "25 g",
+      "confidence": "65"
+    },
+    {
+      "name": "melted cheese filling",
+      "portion_estimate": "25 g",
+      "confidence": "55"
+    }
+  ]
+}

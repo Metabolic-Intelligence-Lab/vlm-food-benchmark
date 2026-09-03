@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "rice and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "meat or chicken alongside vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "rice, an apple, and broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

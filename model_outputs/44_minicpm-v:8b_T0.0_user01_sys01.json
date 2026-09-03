@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "tomato mozzarella salad",
+      "portion_estimate": "uncertain, approx. weight of plate content",
+      "confidence": "60"
+    },
+    {
+      "name": "potato wedges",
+      "portion_estimate": "uncertain, approx. weight of plate content",
+      "confidence": "50"
+    },
+    {
+      "name": "muffin",
+      "portion_estimate": "uncertain, approx. 60g-80g",
+      "confidence": "70"
+    },
+    {
+      "name": "water bottle",
+      "portion_estimate": "uncertain, approx. weight of entire container",
+      "confidence": "50"
+    }
+  ]
+}

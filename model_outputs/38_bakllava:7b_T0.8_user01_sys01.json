@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "veggies",
+      "portion_estimate": "1 bowl",
+      "confidence": 85
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "2 plate full",
+      "confidence": 70
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "1",
+      "confidence": 90
+    }
+  ]
+}

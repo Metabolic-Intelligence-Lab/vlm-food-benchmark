@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Farfalle pasta with butter",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "40"
+    },
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain, approx 90-120g",
+      "confidence": "30"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain, approx 85g",
+      "confidence": "40"
+    },
+    {
+      "name": "Omelette with vegetables and chickpeas",
+      "portion_estimate": "uncertain, approx 120-150g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi with tomato sauce and parmesan",
+      "portion_estimate": "300",
+      "confidence": "80"
+    },
+    {
+      "name": "lentil stew",
+      "portion_estimate": "300",
+      "confidence": "80"
+    },
+    {
+      "name": "bun in plastic",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "spoon",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "yogurt container",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce and meat/vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "potatoes or pasta salad with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "casserole or baked dish with chicken and pasta/noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "yogurt or sour cream",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

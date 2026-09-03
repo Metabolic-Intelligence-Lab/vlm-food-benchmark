@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "Pasta with Sauce",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "Carrot Pieces",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pan-fried or grilled piece of meat",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "pan-fried or grilled vegetable",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "pan-fried or grilled bread",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and grated parmesan",
+      "portion_estimate": "100 grams (approx. 1/2 cup dry weight, ~200g cooked)",
+      "confidence": 95
+    },
+    {
+      "name": "boiled potatoes with butter and herbs (top portion of the plate)",
+      "portion_estimate": "100 grams (approx. 1 medium potato)",
+      "confidence": 92
+    },
+    {
+      "name": "potato hash with sauce (bottom portion of the plate)",
+      "portion_estimate": "60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "potato wedges with sauce (smaller pile)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "small canned tomato-based dip (side container)",
+      "portion_estimate": "uncertain (approx. 120-150 grams)",
+      "confidence": 70
+    },
+    {
+      "name": "green vegetable sticks (celery or similar) in plastic wrap",
+      "portion_estimate": "uncertain (approx. 30-50 grams)",
+      "confidence": 68
+    }
+  ]
+}

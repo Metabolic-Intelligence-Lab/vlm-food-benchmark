@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Fruits",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Grilled Chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

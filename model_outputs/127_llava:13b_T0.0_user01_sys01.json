@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "salad with mixed greens, sliced vegetables, and protein (chicken or tofu)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "breadsticks or similar baked items",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "condiments or seasonings",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed broccoli and mixed vegetables",
+      "portion_estimate": "120 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Small round bread roll or bun",
+      "portion_estimate": "60 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Vegetable and meat stew or soup",
+      "portion_estimate": "320 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Toasted bread topped with cubed ingredients (e.g., cheese/egg)",
+      "portion_estimate": "180 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked potato side piece",
+      "portion_estimate": "60 grams",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "greenish-yellow soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich with coleslaw",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "clear plastic bottle",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "red cup",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

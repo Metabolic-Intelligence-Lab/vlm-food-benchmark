@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "potato cubes (diced potatoes)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "spicy ground meat stir-fry (or spicy minced meat)",
+      "portion_estimate": "100-120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pasta in red sauce (tomato-based pasta)",
+      "portion_estimate": "150-180 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baked beans or minced meat with sauce (possibly chili beans)",
+      "portion_estimate": "80-100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "water",
+      "portion_estimate": "150-200 grams",
+      "confidence": 90
+    }
+  ]
+}

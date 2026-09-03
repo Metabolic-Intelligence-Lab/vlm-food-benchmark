@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Chicken Breast with Herb Sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed Vegetables",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked Beans",
+      "portion_estimate": "120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Whole Bread",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250 milliliters",
+      "confidence": "80"
+    }
+  ]
+}

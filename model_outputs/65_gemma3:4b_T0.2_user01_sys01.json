@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Egg",
+      "portion_estimate": "60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Salad (Mixed Greens)",
+      "portion_estimate": "80 grams",
+      "confidence": 75
+    },
+    {
+      "name": "Bread Croutons",
+      "portion_estimate": "40 grams",
+      "confidence": 60
+    }
+  ]
+}

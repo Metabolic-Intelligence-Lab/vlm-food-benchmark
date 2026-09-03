@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "75 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Chicken breast",
+      "portion_estimate": "120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "White bread roll",
+      "portion_estimate": "35 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Banana with sauce packet",
+      "portion_estimate": "100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Chicken nuggets",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "White rice with a sauce packet",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    }
+  ]
+}

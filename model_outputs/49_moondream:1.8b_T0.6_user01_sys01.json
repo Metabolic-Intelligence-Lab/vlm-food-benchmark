@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta salad with macaroni and black olives",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "white cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pasta noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

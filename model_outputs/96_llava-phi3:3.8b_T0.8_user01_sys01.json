@@ -1,0 +1,15 @@
+{
+  "food_items": [
+    {
+      "name": "Peanut Butter & Jelly Sandwich",
+      "portion_estimate": "2 slices of bread, small amount of peanut butter and jelly filling visible on the bread",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "8 oz plastic container of yogurt with a spoon inside, partially full",
+      "confidence": 65
+    }
+  ],
+  "note": "The image contains two items that can be eaten for breakfast: peanut butter & jelly sandwich and yogurt."
+}

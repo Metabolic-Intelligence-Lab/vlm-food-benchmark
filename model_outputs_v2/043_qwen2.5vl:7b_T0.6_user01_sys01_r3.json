@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and parmesan cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baked potato with tomato sauce and parmesan cheese",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetable salad",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "40 grams",
+      "confidence": 60
+    },
+    {
+      "name": "unidentifiable wrapped food",
+      "portion_estimate": "100 grams",
+      "confidence": 60
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200 milliliters",
+      "confidence": 100
+    }
+  ]
+}

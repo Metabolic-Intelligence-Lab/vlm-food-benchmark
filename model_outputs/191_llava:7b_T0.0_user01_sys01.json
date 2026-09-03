@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "250 ml",
+      "confidence": "70"
+    },
+    {
+      "name": "Balls (possibly meatballs)",
+      "portion_estimate": "100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrot",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    }
+  ]
+}

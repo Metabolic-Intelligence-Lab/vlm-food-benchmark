@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "baked potato",
+      "portion_estimate": "100 g",
+      "confidence": "85"
+    },
+    {
+      "name": "meatloaf",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cauliflower and potato casserole",
+      "portion_estimate": "150 g",
+      "confidence": "65"
+    }
+  ]
+}

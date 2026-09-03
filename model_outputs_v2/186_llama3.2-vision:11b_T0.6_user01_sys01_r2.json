@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Roasted Chicken",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Steamed Broccoli",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "White Bread",
+      "portion_estimate": "40g",
+      "confidence": "60"
+    },
+    {
+      "name": "Butter",
+      "portion_estimate": "10g",
+      "confidence": "70"
+    }
+  ]
+}

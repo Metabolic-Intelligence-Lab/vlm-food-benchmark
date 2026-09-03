@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "baked potato wedges with seasoned coating",
+      "portion_estimate": "250g (estimated by volume and typical serving size)",
+      "confidence": 75
+    },
+    {
+      "name": "green beans with herb-based sauce",
+      "portion_estimate": "180g (based on visible quantity and standard serving size)",
+      "confidence": 80
+    },
+    {
+      "name": "small whole roasted chicken drumstick (or cutlet)",
+      "portion_estimate": "100g (approximate estimated by size)",
+      "confidence": 70
+    },
+    {
+      "name": "peeled, whole baked or roasted potato (cut in slices)",
+      "portion_estimate": "uncertain (sliced and wrapped but unclear size, approx. 100-150g)",
+      "confidence": 55
+    },
+    {
+      "name": "whole peeled apple (small, red or mixed variety)",
+      "portion_estimate": "180g (estimated based on standard small apple size)",
+      "confidence": 85
+    },
+    {
+      "name": "couscous or whole wheat rotini pasta (or similar)",
+      "portion_estimate": "uncertain (rough estimate of 250g for the bowl's contents)",
+      "confidence": 65
+    },
+    {
+      "name": "packaged butter (side portion)",
+      "portion_estimate": "uncertain (20g or smaller)",
+      "confidence": 60
+    }
+  ]
+}

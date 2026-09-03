@@ -1,0 +1,41 @@
+{
+  "trays": [
+    {
+      "fruit": {
+        "plate": {
+          "type": "round",
+          "color": "white",
+          "items": {
+            "apple": 1,
+            "oranges": 4,
+            "carrots": 8
+          }
+        },
+        "description": "A plate of apples and oranges next to a yellow squash."
+      },
+      "meats": {
+        "plate": {
+          "type": "round",
+          "color": "white",
+          "items": {
+            "chicken wings": 2,
+            "soy sauce": 1
+          }
+        },
+        "description": "A plate of chicken wings and soy sauce."
+      },
+      "vegetables": {
+        "plate": {
+          "type": "round",
+          "color": "white",
+          "items": {
+            "brussel sprouts": 8,
+            "water": 1
+          }
+        },
+        "description": "A plate of brussel sprouts and water."
+      }
+    }
+  ],
+  "description": "Four white plates are arranged on a tray with foods in them. The closest plate has apples and oranges next to a squash. A plate of chicken wings is beside that one, with soy sauce on it. Next to the chicken wing plate there is a plate of brussel sprouts, and some water."
+}

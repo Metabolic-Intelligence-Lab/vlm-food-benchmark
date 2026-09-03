@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "white plate with food",
+      "portion_estimate": "medium size",
+      "confidence": "90"
+    },
+    {
+      "name": "plate of vegetables on tray",
+      "portion_estimate": "smaller portion",
+      "confidence": "85"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "single piece",
+      "confidence": "90"
+    }
+  ]
+}

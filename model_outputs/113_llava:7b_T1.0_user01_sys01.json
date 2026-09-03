@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Soup (possibly with croutons on top)",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Bread or bun, possibly with a pat of butter",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Meat and/or poultry dish with gravy and vegetable topping",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Side of mashed potatoes (or possibly another type of potato dish)",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Green beans or a similar leafy green vegetable, possibly with garlic bread topping",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Fruit (possibly pears)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Dessert or pastry item, possibly filled with a sweet filling",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Carrots or another similar orange root vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

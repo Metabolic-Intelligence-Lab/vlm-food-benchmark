@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans (steamed)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "frittata or quiche with cheese, tomato, and greens",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with herbs/sauce and grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole green pear",
+      "portion_estimate": "180 grams",
+      "confidence": 85
+    },
+    {
+      "name": "garlic bread or focaccia roll (packaged)",
+      "portion_estimate": "80 grams",
+      "confidence": 80
+    }
+  ]
+}

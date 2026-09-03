@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli and cheese pasta",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "grilled chicken breast",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "margarite",
+      "portion_estimate": "100g",
+      "confidence": "50"
+    }
+  ]
+}

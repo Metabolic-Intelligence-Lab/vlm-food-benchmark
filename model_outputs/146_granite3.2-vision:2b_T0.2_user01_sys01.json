@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread or pastry",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "diced vegetables (carrots or potatoes)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "purple fruit (plum or fig)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

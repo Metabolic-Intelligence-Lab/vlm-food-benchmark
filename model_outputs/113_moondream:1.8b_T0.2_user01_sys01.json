@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pizza slice",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "cake",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

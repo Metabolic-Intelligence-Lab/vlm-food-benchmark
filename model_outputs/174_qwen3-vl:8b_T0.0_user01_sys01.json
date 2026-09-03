@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked fish fillet",
+      "portion_estimate": 120,
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": 120,
+      "confidence": 80
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": 90,
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": 60,
+      "confidence": 80
+    },
+    {
+      "name": "orange",
+      "portion_estimate": 140,
+      "confidence": 80
+    }
+  ]
+}

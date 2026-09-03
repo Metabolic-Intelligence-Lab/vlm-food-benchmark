@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta dish (lasagna or similar)",
+      "portion_estimate": "200-250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50-70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "potato and meat dish (likely chicken or pork with potatoes)",
+      "portion_estimate": "200-250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small container of tomato sauce or ketchup",
+      "portion_estimate": "30-40 grams",
+      "confidence": 90
+    },
+    {
+      "name": "empty glass (water or clear beverage)",
+      "portion_estimate": "200-250 ml (weight depends on liquid)",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta dish (spaghetti Bolognese or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sauce or condiment (raspberry yogurt)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "beans (chili beans or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread (sliced white or whole wheat)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

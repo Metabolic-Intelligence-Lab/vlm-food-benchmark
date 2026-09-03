@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "quiche",
+      "portion_estimate": "20g",
+      "confidence": "60"
+    },
+    {
+      "name": "pasta salad",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "80g",
+      "confidence": "60"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "120g",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "legume soup (green split pea or lentil) with grated cheese topping",
+      "portion_estimate": "300",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll (panino)",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed salad with fennel, radicchio, and corn",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded and fried vegetable patties (spinach or broccoli croquettes)",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "85"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "200",
+      "confidence": "70"
+    }
+  ]
+}

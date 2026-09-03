@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce and protein",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Side salad of mixed greens with citrus vinaigrette",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Roasted or grilled chicken or fish",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Crispy fried calamari with marinara sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Garlic bread or focaccia",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Lemon or key lime pie with meringue or whipped cream",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Fresh berries (strawberries or blueberries)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Iced tea with mint",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "White wine (Chardonnay or Pinot Grigio)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

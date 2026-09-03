@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pan-seared or baked chicken breast with creamy sauce",
+      "portion_estimate": "150-180g",
+      "confidence": 85
+    },
+    {
+      "name": "green beans with garlic butter or olive oil sauce",
+      "portion_estimate": "150-180g",
+      "confidence": 85
+    },
+    {
+      "name": "spinach or green leafy vegetable with butter or garlic",
+      "portion_estimate": "100-120g",
+      "confidence": 80
+    },
+    {
+      "name": "mushrooms or another sliced vegetable in sauce",
+      "portion_estimate": "50-70g",
+      "confidence": 75
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "140-180g",
+      "confidence": 95
+    },
+    {
+      "name": "yellow napkin with logo",
+      "portion_estimate": "uncertain",
+      "confidence": 0
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fish and broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "donut",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

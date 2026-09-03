@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sliced baguette or bread roll",
+      "portion_estimate": "30\u201350 grams",
+      "confidence": 90
+    },
+    {
+      "name": "dairy spread or cream cheese (Ocean's Way brand)",
+      "portion_estimate": "100\u2013120 grams (container)",
+      "confidence": 85
+    },
+    {
+      "name": "broccoli and green pea stir-fry (raw, chopped)",
+      "portion_estimate": "100\u2013150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "roasted or baked potatoes, diced",
+      "portion_estimate": "200\u2013250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "baked fish or white meat (likely cod/tuna), seasoned",
+      "portion_estimate": "150\u2013200 grams",
+      "confidence": 90
+    }
+  ]
+}

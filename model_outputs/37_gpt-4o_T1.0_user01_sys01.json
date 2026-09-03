@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "radicchio and carrot salad",
+      "portion_estimate": "80 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "spaghetti with cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "toast with spinach, cheese, and fried egg",
+      "portion_estimate": "120 grams",
+      "confidence": "90"
+    }
+  ]
+}

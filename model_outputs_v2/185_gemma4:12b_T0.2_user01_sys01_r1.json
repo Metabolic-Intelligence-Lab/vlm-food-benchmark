@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "300",
+      "confidence": "95"
+    },
+    {
+      "name": "roasted potato cubes",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "grain and herb salad",
+      "portion_estimate": "130",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": "90"
+    },
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "80",
+      "confidence": "70"
+    }
+  ]
+}

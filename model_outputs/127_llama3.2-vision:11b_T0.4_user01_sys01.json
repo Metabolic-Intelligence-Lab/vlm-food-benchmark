@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Gnocchi in tomato sauce with parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Salad with mixed greens, tomatoes, and onions",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    }
+  ]
+}

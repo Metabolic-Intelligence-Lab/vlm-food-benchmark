@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked rice, possibly mixed with grains or vegetables",
+      "portion_estimate": 180,
+      "confidence": 85
+    },
+    {
+      "name": "Sliced cooked ham or turkey on bread slices",
+      "portion_estimate": 60,
+      "confidence": 75
+    },
+    {
+      "name": "Mashed potatoes with butter",
+      "portion_estimate": 85,
+      "confidence": 90
+    },
+    {
+      "name": "Bread rolls in plastic packaging",
+      "portion_estimate": 60,
+      "confidence": 70
+    },
+    {
+      "name": "Still water in a clear cup",
+      "portion_estimate": 150,
+      "confidence": 95
+    }
+  ]
+}

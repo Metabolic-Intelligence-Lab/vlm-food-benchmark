@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "rectangular savory pastry slice with green filling",
+      "portion_estimate": "140 g",
+      "confidence": "65"
+    },
+    {
+      "name": "orange lentil or vegetable soup",
+      "portion_estimate": "320 g",
+      "confidence": "70"
+    },
+    {
+      "name": "grated cheese garnish on soup",
+      "portion_estimate": "5 g",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked Brussels sprouts",
+      "portion_estimate": "90 g",
+      "confidence": "85"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "170 g",
+      "confidence": "90"
+    }
+  ]
+}

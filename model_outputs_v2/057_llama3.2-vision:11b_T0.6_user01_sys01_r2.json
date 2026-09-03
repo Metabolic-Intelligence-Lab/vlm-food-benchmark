@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Egg omelette",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Tomato sauce pasta",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "60g",
+      "confidence": "95"
+    }
+  ]
+}

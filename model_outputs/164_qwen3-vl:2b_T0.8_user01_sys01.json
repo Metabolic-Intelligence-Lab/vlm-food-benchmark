@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "YOMO yogurt",
+      "portion_estimate": "125g",
+      "confidence": "95"
+    },
+    {
+      "name": "Fried item",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Pickled vegetables",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Baked Fish",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

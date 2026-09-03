@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "approximately 50g",
+      "confidence": "40"
+    },
+    {
+      "name": "potato wedge side dish",
+      "portion_estimate": "approximately 50g",
+      "confidence": "60"
+    },
+    {
+      "name": "grilled chicken breast",
+      "portion_estimate": "approximately 100g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll or bun",
+      "portion_estimate": "approximately 50g",
+      "confidence": "40"
+    },
+    {
+      "name": "yogurt with berry topping",
+      "portion_estimate": "approximately 100g",
+      "confidence": "70"
+    }
+  ]
+}

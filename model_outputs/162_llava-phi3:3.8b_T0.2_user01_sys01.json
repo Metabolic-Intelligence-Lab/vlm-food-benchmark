@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "80g",
+      "confidence": "92"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "350g",
+      "confidence": "87"
+    },
+    {
+      "name": "Pie",
+      "portion_estimate": "120g",
+      "confidence": "94"
+    },
+    {
+      "name": "Lemon",
+      "portion_estimate": "50g",
+      "confidence": "86"
+    }
+  ]
+}

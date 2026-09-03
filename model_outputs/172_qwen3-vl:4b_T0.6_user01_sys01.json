@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green peas",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked fusilli pasta",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed vegetable salad",
+      "portion_estimate": "85",
+      "confidence": "70"
+    },
+    {
+      "name": "fresh orange",
+      "portion_estimate": "120",
+      "confidence": "90"
+    }
+  ]
+}

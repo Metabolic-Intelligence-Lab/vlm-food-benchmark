@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "broth or soup with grated cheese (parmesan)",
+      "portion_estimate": "uncertain (~400ml broth, 10g grated cheese)",
+      "confidence": 70
+    },
+    {
+      "name": "yellow rice patty or flour dish with filling (possibly chicken or seasoned flour)",
+      "portion_estimate": "uncertain (~150g)",
+      "confidence": 65
+    },
+    {
+      "name": "mixed shredded meat pieces (likely chicken)",
+      "portion_estimate": "uncertain (~100g)",
+      "confidence": 60
+    },
+    {
+      "name": "whole unpeeled plantain or sweet potato",
+      "portion_estimate": "uncertain (~250g)",
+      "confidence": 75
+    },
+    {
+      "name": "package of salted snacks or crackers (only visible in bag, not served)",
+      "portion_estimate": "uncertain (no visible portion)",
+      "confidence": 30
+    },
+    {
+      "name": "yogurt with blueberries",
+      "portion_estimate": "uncertain (~150g)",
+      "confidence": 85
+    },
+    {
+      "name": "iced drink (visible cup)",
+      "portion_estimate": "uncertain (~350ml)",
+      "confidence": 65
+    }
+  ]
+}

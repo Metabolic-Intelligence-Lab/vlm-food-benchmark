@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "chili con carne",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pasta with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta with creamy sauce (penne alla vodka)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

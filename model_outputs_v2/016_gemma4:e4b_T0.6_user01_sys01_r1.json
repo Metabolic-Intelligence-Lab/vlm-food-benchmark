@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed snack mix (shredded carrots and dark dried items)",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "Small breakfast patties and cubed pieces (scrambled egg/potato)",
+      "portion_estimate": "120g",
+      "confidence": "75"
+    },
+    {
+      "name": "Thick sauce or dip",
+      "portion_estimate": "90g",
+      "confidence": "70"
+    },
+    {
+      "name": "Small whole egg or tomato",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    }
+  ]
+}

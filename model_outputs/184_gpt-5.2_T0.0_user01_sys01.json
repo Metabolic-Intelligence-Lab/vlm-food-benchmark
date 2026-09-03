@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (plain, packaged)",
+      "portion_estimate": "75 g",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed salad (lettuce mix with shredded carrot and dressing)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "baked chicken pieces (mixed cuts, cooked)",
+      "portion_estimate": "140 g",
+      "confidence": "65"
+    },
+    {
+      "name": "small portion of cauliflower/crumb-like side (uncertain)",
+      "portion_estimate": "50 g",
+      "confidence": "45"
+    },
+    {
+      "name": "stuffed vegetable slices (likely zucchini/eggplant with herb-tomato filling, 2 pieces)",
+      "portion_estimate": "90 g",
+      "confidence": "55"
+    },
+    {
+      "name": "dark red fruit (plum or similar)",
+      "portion_estimate": "70 g",
+      "confidence": "60"
+    }
+  ]
+}

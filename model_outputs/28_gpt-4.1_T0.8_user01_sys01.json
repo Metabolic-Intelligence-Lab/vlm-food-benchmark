@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce and vegetables",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "steamed leafy greens (likely spinach or chard)",
+      "portion_estimate": "70",
+      "confidence": 90
+    },
+    {
+      "name": "stuffed pasta with spinach and cheese (possibly ravioli or tortelloni)",
+      "portion_estimate": "90",
+      "confidence": 85
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "small mixed salad (cabbage, lettuce, possibly carrots)",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "plain water",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "fruit-flavored yogurt cup",
+      "portion_estimate": "125",
+      "confidence": 90
+    }
+  ]
+}

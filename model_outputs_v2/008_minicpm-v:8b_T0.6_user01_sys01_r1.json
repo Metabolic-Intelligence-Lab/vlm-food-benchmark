@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of soup",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Small plate with two pieces of breaded item (possibly fish or chicken fritters)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Bowl of salad greens and slices, possibly cabbage-based",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Round container with green sauce or spread (possibly horseradish)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Small white bowl of brown gravy-like substance, possibly mushroom soup",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

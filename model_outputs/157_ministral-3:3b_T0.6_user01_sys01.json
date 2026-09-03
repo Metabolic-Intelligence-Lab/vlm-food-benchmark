@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (rotini) with grated cheese",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "lentil or bean stew",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "potato or mashed dumplings (potato balls)",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "baked sweet potato or roasted vegetable",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "plain green apple",
+      "portion_estimate": "150",
+      "confidence": 80
+    }
+  ]
+}

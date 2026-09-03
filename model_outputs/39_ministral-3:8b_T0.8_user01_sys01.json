@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (yellow, appears to be Alfredo or cream-based)",
+      "portion_estimate": "300 grams (approximate)",
+      "confidence": 75
+    },
+    {
+      "name": "spinach (saut\u00e9ed)",
+      "portion_estimate": "100 grams (approximate)",
+      "confidence": 70
+    },
+    {
+      "name": "grilled or baked fish fillet (appears to be cod or similar white fish)",
+      "portion_estimate": "150 grams (approximate)",
+      "confidence": 70
+    },
+    {
+      "name": "tomatoes (whole, cherry or similar small variety)",
+      "portion_estimate": "100 grams (2-3 tomatoes)",
+      "confidence": 80
+    },
+    {
+      "name": "white or wheat bread roll (packaged, appears soft)",
+      "portion_estimate": "50 grams (approximate)",
+      "confidence": 60
+    }
+  ]
+}

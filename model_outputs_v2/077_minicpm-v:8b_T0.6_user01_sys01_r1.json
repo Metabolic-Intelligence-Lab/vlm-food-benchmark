@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Green beans with garlic and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Peanuts mixed with green vegetable (likely broccoli or bell pepper)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Sliced red potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Whole grain bread with a visible brand name 'LOVE' on the wrapper",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Cooked chicken fillet pieces",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

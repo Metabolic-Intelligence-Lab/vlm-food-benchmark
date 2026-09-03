@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "shell pasta with cheese",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "quiche with spinach and cheese",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "potato salad",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit (pear or apple)",
+      "portion_estimate": "180",
+      "confidence": "75"
+    },
+    {
+      "name": "sliced cheese",
+      "portion_estimate": "30",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "80"
+    }
+  ]
+}

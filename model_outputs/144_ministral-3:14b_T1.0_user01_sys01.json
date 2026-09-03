@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with butter and grated Parmesan cheese",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "boiled white beans in tomato sauce with creamy egg slice (boiled or fried)",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "whole wheat sandwich bread slice",
+      "portion_estimate": "70g",
+      "confidence": 95
+    },
+    {
+      "name": "small green vegetable (likely broccoli) partially covered by napkin",
+      "portion_estimate": "30g",
+      "confidence": 80
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "180g",
+      "confidence": 90
+    }
+  ]
+}

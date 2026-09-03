@@ -1,0 +1,33 @@
+{
+  "food_items": [
+    {
+      "name": "Chili cereal mix on rice",
+      "portion_estimate": "500g",
+      "confidence": 90,
+      "color": "red",
+      "texture": "smooth",
+      "origin": "Chili cereal mix",
+      "ingredients": [
+        "tomatoes",
+        "onions",
+        "garlic"
+      ],
+      "flavor": "sweet and sour",
+      "calories": 300,
+      "serving_size": "1/2 cup",
+      "nutrition_facts": {
+        "total_fat": "4g",
+        "cholesterol": "5mg",
+        "sodium": "500mg",
+        "total_carbohydrate": "38g",
+        "protein": "6g"
+      },
+      "cooking_method": "microwave",
+      "country_of_origin": "USA",
+      "dietary_restriction": "vegetarian",
+      "food_rating": 4,
+      "image_reference": "#FoodRatings2015#07021518230901",
+      "nutrition_facts_source": "usda.gov"
+    }
+  ]
+}

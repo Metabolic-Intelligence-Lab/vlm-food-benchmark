@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roasted chickpeas",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "grain and vegetable mix with seeds",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70g",
+      "confidence": 90
+    },
+    {
+      "name": "salsa dip",
+      "portion_estimate": "60g",
+      "confidence": 90
+    }
+  ]
+}

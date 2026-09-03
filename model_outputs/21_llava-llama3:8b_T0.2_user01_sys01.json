@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

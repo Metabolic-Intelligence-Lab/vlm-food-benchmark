@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta with tomato sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "grilled vegetable slice with rolled salad",
+      "portion_estimate": "70 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed salad with carrots and cabbage",
+      "portion_estimate": "80 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "empty water bottle",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "uncertain, approximately 250-300g",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt cup",
+      "portion_estimate": "uncertain, approximately 140-170g",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread slice",
+      "portion_estimate": "uncertain, approximately 30-60g",
+      "confidence": "50"
+    },
+    {
+      "name": "Cauliflower with chickpeas and cracker",
+      "portion_estimate": "uncertain, approximately 120-180g",
+      "confidence": "70"
+    }
+  ]
+}

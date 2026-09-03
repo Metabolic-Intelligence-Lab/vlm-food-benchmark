@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Salad with red cabbage and orange carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "Bread in plastic wrap",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "250g-350g, approx.",
+      "confidence": ">80"
+    },
+    {
+      "name": "Fried egg with green leafy vegetable on toast",
+      "portion_estimate": "1.5oz (42g), approx.",
+      "confidence": "<60"
+    },
+    {
+      "name": "Spaghetti with parmesan cheese and fried egg",
+      "portion_estimate": "3 oz spaghetti, 70g cheese, approx. total portion size = 80-105g",
+      "confidence": ">90"
+    }
+  ]
+}

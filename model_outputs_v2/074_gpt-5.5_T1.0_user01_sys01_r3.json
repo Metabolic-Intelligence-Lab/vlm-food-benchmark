@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with tomato sauce",
+      "portion_estimate": "approximately 220 g",
+      "confidence": "85"
+    },
+    {
+      "name": "diced orange fruit, likely cantaloupe or peach",
+      "portion_estimate": "approximately 150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "approximately 130 g",
+      "confidence": "90"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "approximately 60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "uncertain dairy drink or yogurt cup",
+      "portion_estimate": "approximately 100 g",
+      "confidence": "45"
+    },
+    {
+      "name": "uncertain water or clear beverage in cup",
+      "portion_estimate": "approximately 150 g",
+      "confidence": "40"
+    }
+  ]
+}

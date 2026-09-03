@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "sliced watermelon",
+      "portion_estimate": 120,
+      "confidence": 85
+    },
+    {
+      "name": "cooked orange-hued noodles (e.g., udon, glass noodles)",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "steamed or saut\u00e9ed dark green leafy vegetable (e.g., bok choy, gai lan)",
+      "portion_estimate": 100,
+      "confidence": 75
+    },
+    {
+      "name": "grilled or pan-fried fish or tofu (orange-brown texture, rectangular)",
+      "portion_estimate": 80,
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "creamy side (potatoes or mashed cauliflower)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "cooked mixed vegetables (carrots and peas)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread or roll (possibly for dipping)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

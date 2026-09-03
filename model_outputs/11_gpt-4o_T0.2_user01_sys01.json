@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "cabbage salad with red and green cabbage",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "peach",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked spinach",
+      "portion_estimate": "80 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "filled crepe",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    }
+  ]
+}

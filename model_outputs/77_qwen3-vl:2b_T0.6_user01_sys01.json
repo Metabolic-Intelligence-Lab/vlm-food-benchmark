@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bean Salad",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "Fish Fillet",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "Mixed Vegetables",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "45",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50",
+      "confidence": "90"
+    }
+  ]
+}

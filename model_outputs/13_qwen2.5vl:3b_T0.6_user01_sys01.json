@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "slice of watermelon",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "steamed greens",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "crispy rice cake",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Peanuts with green vegetable (possibly celery or cucumber)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Red plum-like fruit (possibly a plum or cherry)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "White fish with herbs and spices",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Green vegetable (possibly broccoli or spinach) on a plate",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

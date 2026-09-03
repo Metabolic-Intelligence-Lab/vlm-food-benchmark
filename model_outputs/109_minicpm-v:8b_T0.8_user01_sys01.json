@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "Apple bread bun",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "Rice with egg whites",
+      "portion_estimate": "approx. 150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Apple chunks",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy vegetable (pumpkin/squash) soup with grated cheese topping",
+      "portion_estimate": "300",
+      "confidence": 75
+    },
+    {
+      "name": "breaded fried chicken/fish cutlets",
+      "portion_estimate": "120",
+      "confidence": 60
+    },
+    {
+      "name": "roasted diced potatoes with herbs",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "fruit yogurt cup (Yomo)",
+      "portion_estimate": "125",
+      "confidence": 80
+    }
+  ]
+}

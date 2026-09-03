@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas",
+      "portion_estimate": "about 100g",
+      "confidence": 95
+    },
+    {
+      "name": "bread patty",
+      "portion_estimate": "around 100g",
+      "confidence": 90
+    },
+    {
+      "name": "rotini pasta with tomato sauce",
+      "portion_estimate": "approximately 250g",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "about 100g",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "around 50g",
+      "confidence": 75
+    }
+  ]
+}

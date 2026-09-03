@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Pesto and Parmesan",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "Brussels Sprouts",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Square of Pizza",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "Two Plums",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "Round Cheese",
+      "portion_estimate": "200",
+      "confidence": 70
+    }
+  ]
+}

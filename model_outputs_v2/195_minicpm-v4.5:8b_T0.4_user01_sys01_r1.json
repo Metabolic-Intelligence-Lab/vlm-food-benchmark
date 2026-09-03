@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "stir-fried meat and vegetables (likely pork with beans and peppers)",
+      "portion_estimate": "200-250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "roasted or fried diced potatoes",
+      "portion_estimate": "150-200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "minced meat with sauce (likely spicy minced beef)",
+      "portion_estimate": "100-120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "water with ice",
+      "portion_estimate": "200-250 ml (about 200 grams)",
+      "confidence": 90
+    }
+  ]
+}

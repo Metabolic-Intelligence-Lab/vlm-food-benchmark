@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100 g",
+      "confidence": 70
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "30 g",
+      "confidence": 80
+    },
+    {
+      "name": "Mixed greens salad",
+      "portion_estimate": "150 g",
+      "confidence": 85
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200 mL",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "small plastic-wrapped roll or sandwich bread",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "single-serving yogurt or smoothie container (unsure exact contents)",
+      "portion_estimate": "200",
+      "confidence": 70
+    },
+    {
+      "name": "chicken tikka masala (deep-fried bread roll or patties)",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "whole lettuce salad with mixed greens, carrots, and dressing (approx. 50% salad, ~50g visible greens)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "lentil or chickpea soup with vegetables",
+      "portion_estimate": "350",
+      "confidence": 80
+    }
+  ]
+}

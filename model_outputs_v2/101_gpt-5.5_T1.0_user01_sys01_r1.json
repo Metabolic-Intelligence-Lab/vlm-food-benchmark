@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "cooked penne pasta with light sauce",
+      "portion_estimate": "180 g",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked diced chicken pieces",
+      "portion_estimate": "90 g",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked white rice",
+      "portion_estimate": "60 g",
+      "confidence": "70"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "50 g",
+      "confidence": "90"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "85"
+    },
+    {
+      "name": "savory vegetable pie or quiche square",
+      "portion_estimate": "120 g",
+      "confidence": "65"
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "20 g",
+      "confidence": "95"
+    },
+    {
+      "name": "packaged breadsticks or crackers",
+      "portion_estimate": "25 g",
+      "confidence": "55"
+    }
+  ]
+}

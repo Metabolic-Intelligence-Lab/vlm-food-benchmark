@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "meatball (likely beef or veal)",
+      "portion_estimate": "80 grams",
+      "confidence": 80
+    },
+    {
+      "name": "broth or soup in bowl",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "packaged cheese (Torinese cheese, e.g., Toma Piemontese or similar)",
+      "portion_estimate": "uncertain (package size not fully visible)",
+      "confidence": 60
+    },
+    {
+      "name": "spoon",
+      "portion_estimate": "uncertain (not food)",
+      "confidence": 0
+    }
+  ]
+}

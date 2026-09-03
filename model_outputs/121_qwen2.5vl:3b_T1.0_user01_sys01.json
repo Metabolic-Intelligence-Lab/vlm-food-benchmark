@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread with a flaky pattern, possibly with some filling inside",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Small portion of pasta with a smooth surface",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Banana, fresh and yellow",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad in a small bowl with visible lettuce and shredded carrots",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "90"
+    }
+  ]
+}

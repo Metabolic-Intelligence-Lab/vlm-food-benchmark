@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetable salad (carrots, possibly with coleslaw or shredded cabbage)",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "meatball with visible crumbs (possibly breaded)",
+      "portion_estimate": "80 grams",
+      "confidence": 75
+    },
+    {
+      "name": "diced potatoes or sweet potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "single red cherry tomato",
+      "portion_estimate": "25 grams",
+      "confidence": 85
+    },
+    {
+      "name": "orange fruit (unidentified variety, wrapped in plastic)",
+      "portion_estimate": "uncertain (likely 120-150 grams)",
+      "confidence": 50
+    },
+    {
+      "name": "small bowl of shredded carrots or shredded cheese (condiment)",
+      "portion_estimate": "uncertain (30-50 grams)",
+      "confidence": 60
+    },
+    {
+      "name": "salt container (not consumed)",
+      "portion_estimate": "uncertain (not a food item)",
+      "confidence": 0
+    }
+  ]
+}

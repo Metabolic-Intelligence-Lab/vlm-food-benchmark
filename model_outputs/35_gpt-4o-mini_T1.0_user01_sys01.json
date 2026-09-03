@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "vegetable patty",
+      "portion_estimate": "80",
+      "confidence": "70"
+    },
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "pasta with sauce and cheese",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "75"
+    }
+  ]
+}

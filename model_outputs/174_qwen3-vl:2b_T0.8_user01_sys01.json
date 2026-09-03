@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fish fillet",
+      "portion_estimate": "100",
+      "confidence": "100"
+    },
+    {
+      "name": "vegetable mix",
+      "portion_estimate": "50",
+      "confidence": "100"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": "100"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100",
+      "confidence": "100"
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "50",
+      "confidence": "100"
+    }
+  ]
+}

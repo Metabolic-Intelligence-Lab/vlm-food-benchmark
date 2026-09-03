@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pea and Carrot Salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Broccoli Cheese Soup",
+      "portion_estimate": "180g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Yogurt with Raisins",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    }
+  ]
+}

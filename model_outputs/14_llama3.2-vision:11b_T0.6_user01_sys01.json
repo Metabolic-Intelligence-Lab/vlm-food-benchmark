@@ -1,0 +1,36 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200g",
+      "confidence": "100"
+    }
+  ],
+  "total_portion_estimate": "600g",
+  "total_confidence": "520"
+}

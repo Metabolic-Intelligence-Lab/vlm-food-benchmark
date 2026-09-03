@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Fusilli pasta with tomato and vegetable sauce",
+      "portion_estimate": "300",
+      "confidence": 90
+    },
+    {
+      "name": "Grilled fish fillet with lemon and herbs",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Saut\u00e9ed kale with garlic",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Mixed salad greens with cucumber and cherry tomatoes",
+      "portion_estimate": "80",
+      "confidence": 75
+    },
+    {
+      "name": "Fresh cucumber",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "Yogurt container with red top",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Bread roll in plastic wrap",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Empty tray",
+      "portion_estimate": "0",
+      "confidence": 100
+    }
+  ]
+}

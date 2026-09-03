@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bread roll (sliced)",
+      "portion_estimate": 100,
+      "confidence": 90
+    },
+    {
+      "name": "plain yogurt (single-serve container)",
+      "portion_estimate": 170,
+      "confidence": 95
+    },
+    {
+      "name": "roasted broccoli and green beans mix",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "baked potatoes with skin, cubed",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "grilled fish fillet (with herbs)",
+      "portion_estimate": 150,
+      "confidence": 85
+    }
+  ]
+}

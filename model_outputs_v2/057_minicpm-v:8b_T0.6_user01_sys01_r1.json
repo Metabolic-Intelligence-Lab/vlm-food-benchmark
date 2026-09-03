@@ -1,0 +1,23 @@
+{
+  "food_items": [
+    {
+      "name": "Green Beans",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Omelet with Mushroom",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Penne Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 60,
+      "ingredients": [
+        "Tomatoes (visible in sauce)",
+        "Spinach leaves"
+      ]
+    }
+  ]
+}

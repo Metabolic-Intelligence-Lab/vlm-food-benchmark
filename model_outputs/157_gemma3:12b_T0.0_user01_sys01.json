@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Maccaroni with grated cheese",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "Lentils with vegetables",
+      "portion_estimate": "120",
+      "confidence": "75"
+    },
+    {
+      "name": "Potato dumpling",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "180",
+      "confidence": "90"
+    }
+  ]
+}

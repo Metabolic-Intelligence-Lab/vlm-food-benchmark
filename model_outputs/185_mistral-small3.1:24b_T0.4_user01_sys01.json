@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sweet potato noodles",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "potato wedges",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "meatball",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "coleslaw",
+      "portion_estimate": "50",
+      "confidence": 75
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": 90
+    }
+  ]
+}

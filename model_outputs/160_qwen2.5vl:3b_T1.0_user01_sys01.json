@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mashed potatoes with broth",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Crouton with butter",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole pear",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Wrapped sandwich or bun",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

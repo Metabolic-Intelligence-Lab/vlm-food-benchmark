@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "plate of twisted pasta with sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked leafy greens",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "grilled fish fillet with garnish",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "round bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "two peaches",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    }
+  ]
+}

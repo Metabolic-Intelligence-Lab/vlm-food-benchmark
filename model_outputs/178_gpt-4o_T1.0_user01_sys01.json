@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with herbs",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "slice of vegetable frittata",
+      "portion_estimate": "200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80 grams",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Water",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "Bagel",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "Roasted Potatoes",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "Tomatoes",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "30 g",
+      "confidence": 95
+    },
+    {
+      "name": "Lettuce",
+      "portion_estimate": "50 g",
+      "confidence": 95
+    },
+    {
+      "name": "Cabbage",
+      "portion_estimate": "20 g",
+      "confidence": 95
+    }
+  ]
+}

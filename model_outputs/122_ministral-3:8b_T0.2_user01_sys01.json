@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat roll (bun)",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "chickpea/veggie meatballs (2 pieces)",
+      "portion_estimate": "120 grams total (60 grams each)",
+      "confidence": 80
+    },
+    {
+      "name": "carrot slices (approx. 10 slices)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pasta (penne or similar) with cheese",
+      "portion_estimate": "150 grams (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "banana (partially visible)",
+      "portion_estimate": "uncertain (likely ~100 grams for a typical medium banana)",
+      "confidence": 55
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "uncertain (likely ~250 milliliters)",
+      "confidence": 60
+    }
+  ]
+}

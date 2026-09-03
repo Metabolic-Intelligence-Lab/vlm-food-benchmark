@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed green beans",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "saut\u00e9ed egg yolks (or scrambled eggs)",
+      "portion_estimate": "30 grams",
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "sliced whole wheat bread",
+      "portion_estimate": "30 grams",
+      "confidence": 80
+    },
+    {
+      "name": "orange slice",
+      "portion_estimate": "50 grams",
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bun",
+      "portion_estimate": "70g",
+      "confidence": 70
+    },
+    {
+      "name": "shredded cabbage salad",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "apricot",
+      "portion_estimate": "60g",
+      "confidence": 80
+    },
+    {
+      "name": "cooked spinach",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "spring roll",
+      "portion_estimate": "80g",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Tomato soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Roast beef sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

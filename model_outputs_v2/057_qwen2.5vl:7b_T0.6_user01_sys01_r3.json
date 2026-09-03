@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "omelette",
+      "portion_estimate": "75",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": 80
+    }
+  ]
+}

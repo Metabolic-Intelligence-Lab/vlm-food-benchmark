@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pork chop with mushroom and garlic sauce",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "broccoli florets",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "pasta (fusilli/penne) with tomato sauce",
+      "portion_estimate": "150g (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat roll or bread",
+      "portion_estimate": "60g",
+      "confidence": 80
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "uncertain (no clear measurement)",
+      "confidence": 30
+    }
+  ]
+}

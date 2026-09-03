@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta with red sauce",
+      "portion_estimate": "100-150g",
+      "confidence": "85"
+    },
+    {
+      "name": "boiled potato",
+      "portion_estimate": "100-150g",
+      "confidence": "80"
+    },
+    {
+      "name": "bun (brioche or similar)",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed cauliflower or potato",
+      "portion_estimate": "100-150g",
+      "confidence": "75"
+    },
+    {
+      "name": "two spinach and cheese stuffed items (possibly spinach rolls or cannelloni with cheese topping)",
+      "portion_estimate": "80g (each item ~40g)",
+      "confidence": "70"
+    }
+  ]
+}

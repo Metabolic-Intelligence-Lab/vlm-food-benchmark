@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white beans with lemon and herbs",
+      "portion_estimate": "180g",
+      "confidence": "75"
+    },
+    {
+      "name": "grilled or baked white fish fillet",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed or chopped white potato (likely boiled and seasoned)",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "whole grain bread (slice, possibly rye or multigrain)",
+      "portion_estimate": "40g",
+      "confidence": "65"
+    },
+    {
+      "name": "figs or dried plums (two visible units)",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    }
+  ]
+}

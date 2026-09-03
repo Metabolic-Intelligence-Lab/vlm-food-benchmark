@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "yellow noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt or sour cream",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

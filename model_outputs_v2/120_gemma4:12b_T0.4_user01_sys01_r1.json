@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded and fried meat cutlet",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "Macaroni pasta",
+      "portion_estimate": "130g",
+      "confidence": 90
+    },
+    {
+      "name": "Vegetable soup with cheese topping",
+      "portion_estimate": "350g",
+      "confidence": 90
+    },
+    {
+      "name": "Slice of bread",
+      "portion_estimate": "60g",
+      "confidence": 90
+    }
+  ]
+}

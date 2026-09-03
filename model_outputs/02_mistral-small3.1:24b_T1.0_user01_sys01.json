@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "sliced tomato",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "cucumber",
+      "portion_estimate": "30",
+      "confidence": "85"
+    },
+    {
+      "name": "red cabbage",
+      "portion_estimate": "40",
+      "confidence": "90"
+    },
+    {
+      "name": "white cabbage",
+      "portion_estimate": "35",
+      "confidence": "80"
+    },
+    {
+      "name": "red onion",
+      "portion_estimate": "5",
+      "confidence": "75"
+    },
+    {
+      "name": "lettuce",
+      "portion_estimate": "15",
+      "confidence": "80"
+    },
+    {
+      "name": "carrot",
+      "portion_estimate": "10",
+      "confidence": "70"
+    },
+    {
+      "name": "sesame seeds",
+      "portion_estimate": "5",
+      "confidence": "70"
+    },
+    {
+      "name": "orange zest",
+      "portion_estimate": "1",
+      "confidence": "70"
+    }
+  ]
+}

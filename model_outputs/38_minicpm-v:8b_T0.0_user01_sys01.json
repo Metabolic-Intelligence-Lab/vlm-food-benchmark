@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Brussel sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with cheese and mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Salad with cucumbers, carrots and red cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

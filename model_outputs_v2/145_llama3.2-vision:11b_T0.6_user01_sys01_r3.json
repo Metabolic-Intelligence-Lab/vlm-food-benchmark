@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Cannellini Beans in Broth",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    },
+    {
+      "name": "Steamed Cauliflower",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Spinach and Feta Omelette",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Polypine Yogurt",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    }
+  ]
+}

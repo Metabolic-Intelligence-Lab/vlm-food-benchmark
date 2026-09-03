@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Tomato (sliced)",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "Cucumber (sliced)",
+      "portion_estimate": "30g",
+      "confidence": 70
+    },
+    {
+      "name": "Lettuce (green)",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "Red Cabbage (sliced)",
+      "portion_estimate": "30g",
+      "confidence": 70
+    },
+    {
+      "name": "Carrot (shredded)",
+      "portion_estimate": "20g",
+      "confidence": 70
+    },
+    {
+      "name": "Onion (sliced)",
+      "portion_estimate": "20g",
+      "confidence": 70
+    },
+    {
+      "name": "Radish (sliced)",
+      "portion_estimate": "10g",
+      "confidence": 70
+    },
+    {
+      "name": "Seed Crumble (garnish)",
+      "portion_estimate": "10g",
+      "confidence": 70
+    }
+  ]
+}

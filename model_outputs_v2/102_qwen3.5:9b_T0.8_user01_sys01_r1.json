@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken breast fillet with sauce and shredded garnish",
+      "portion_estimate": 180,
+      "confidence": 85
+    },
+    {
+      "name": "Roasted diced potatoes with herbs (brown and yellow skin)",
+      "portion_estimate": 130,
+      "confidence": 90
+    },
+    {
+      "name": "Pasta bake portion (bowtie pasta, cheese crust)",
+      "portion_estimate": 250,
+      "confidence": 88
+    },
+    {
+      "name": "Fresh baked bread roll in plastic bag",
+      "portion_estimate": 60,
+      "confidence": 90
+    },
+    {
+      "name": "Yoplait Strawberry & Blueberry yogurt pot",
+      "portion_estimate": 125,
+      "confidence": 95
+    }
+  ]
+}

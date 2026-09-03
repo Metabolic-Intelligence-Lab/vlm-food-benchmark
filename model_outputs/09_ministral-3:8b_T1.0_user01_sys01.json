@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "baked potato wedges with seasoning",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "pork or chicken dish with herbs and possibly cheese, served with breadcrumbs",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "diced potatoes (likely boiled and seasoned with herbs/spices)",
+      "portion_estimate": "180g",
+      "confidence": 80
+    },
+    {
+      "name": "single-serving packaged bread (appearance consistent with white bread)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "plastic wrapper/container from single-serving yogurt or condiment",
+      "portion_estimate": "uncertain (non-edible)",
+      "confidence": 70
+    },
+    {
+      "name": "glass of water in a plastic cup",
+      "portion_estimate": "uncertain (flUID)",
+      "confidence": 65
+    }
+  ]
+}

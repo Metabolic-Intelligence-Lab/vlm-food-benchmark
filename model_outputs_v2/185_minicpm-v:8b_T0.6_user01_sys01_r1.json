@@ -1,0 +1,20 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    },
+    {
+      "name": "Raita (yogurt-based condiment)",
+      "portion_estimate": "uncertain",
+      "confidence": 60,
+      "description": "white and green yogurt-based sauce"
+    }
+  ]
+}

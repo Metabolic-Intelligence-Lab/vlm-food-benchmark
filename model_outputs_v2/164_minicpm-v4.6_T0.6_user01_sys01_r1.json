@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "300 g",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "120 g",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": 95
+    },
+    {
+      "name": "fried cutlet with chips",
+      "portion_estimate": "180 g",
+      "confidence": 88
+    },
+    {
+      "name": "sauerkraut or cabbage side",
+      "portion_estimate": "170 g",
+      "confidence": 90
+    }
+  ]
+}

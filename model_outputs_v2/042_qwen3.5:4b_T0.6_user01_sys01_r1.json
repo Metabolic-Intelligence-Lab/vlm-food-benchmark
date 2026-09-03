@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fusilli pasta with vegetables and dressing",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "Roasted Brussels sprouts or similar vegetable",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Yellow corn fritters with purple garnish",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "Apricots (3)",
+      "portion_estimate": "240g",
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll or bun in plastic packaging",
+      "portion_estimate": "100g",
+      "confidence": 80
+    }
+  ]
+}

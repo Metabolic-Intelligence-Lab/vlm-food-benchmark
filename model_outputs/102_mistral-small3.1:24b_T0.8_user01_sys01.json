@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "mac and cheese",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "chicken with gravy",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": 85
+    }
+  ]
+}

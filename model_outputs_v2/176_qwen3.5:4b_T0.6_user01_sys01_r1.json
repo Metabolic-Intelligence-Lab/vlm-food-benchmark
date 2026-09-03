@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Lentil soup with parmesan",
+      "portion_estimate": "350",
+      "confidence": 90
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "Celery sticks (in wrapper)",
+      "portion_estimate": "40",
+      "confidence": 85
+    },
+    {
+      "name": "Open-faced sandwich (focaccia base, tomato, mozzarella)",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "Cauliflower rice with blueberries and nuts",
+      "portion_estimate": "150",
+      "confidence": 95
+    }
+  ]
+}

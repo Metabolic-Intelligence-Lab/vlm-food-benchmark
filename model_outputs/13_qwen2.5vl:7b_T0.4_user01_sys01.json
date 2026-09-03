@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Watermelon",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Grilled chicken",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "Cooked spinach",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": "200",
+      "confidence": 60
+    }
+  ]
+}

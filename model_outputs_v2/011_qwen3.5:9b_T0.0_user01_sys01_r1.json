@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole wheat wrap with filling",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Steamed dark leafy greens (spinach or kale)",
+      "portion_estimate": 80,
+      "confidence": 95
+    },
+    {
+      "name": "Whole wheat bun",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Mixed salad (purple cabbage and lettuce)",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Fresh peach",
+      "portion_estimate": 130,
+      "confidence": 95
+    }
+  ]
+}

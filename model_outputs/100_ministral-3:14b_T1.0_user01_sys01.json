@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "baked/air-fried potato wedges with breadcrumb and tomato sauce",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed green beans with olive oil and garlic",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Italian bread (small roll, partially visible)",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "water or beverage in plastic cup (outside frame, partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

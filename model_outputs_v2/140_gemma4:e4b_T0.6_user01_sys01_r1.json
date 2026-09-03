@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Plums",
+      "portion_estimate": "80g",
+      "confidence": "85"
+    },
+    {
+      "name": "Small green grapes",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried item (e.g., tofu or fish)",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Saut\u00e9ed leafy greens",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pea soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "crackers and bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "milk",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

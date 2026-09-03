@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi in tomato sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "mini rolls (possibly garlic bread)",
+      "portion_estimate": "30 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "burrata cheese",
+      "portion_estimate": "60 grams",
+      "confidence": "90"
+    }
+  ]
+}

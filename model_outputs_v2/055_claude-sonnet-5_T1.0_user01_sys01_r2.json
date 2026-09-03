@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried veal/pork cutlet (cotoletta)",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed diced vegetables (carrot, potato, peas)",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "sautéed mushrooms",
+      "portion_estimate": "40g",
+      "confidence": "65"
+    },
+    {
+      "name": "sautéed spinach",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125g",
+      "confidence": "70"
+    },
+    {
+      "name": "water in plastic cup",
+      "portion_estimate": "150ml",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll (wrapped, mostly obscured)",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain, likely around 100-200g (approximate weight)",
+      "confidence": "50"
+    },
+    {
+      "name": "salad bowl with tuna",
+      "portion_estimate": "uncertain, approx. half a large salad bowl or about 300-400g of mixed greens and toppings",
+      "confidence": "60"
+    },
+    {
+      "name": "bread in plastic bag",
+      "portion_estimate": "uncertain, likely around 150-200g (approximate weight)",
+      "confidence": "70"
+    }
+  ]
+}

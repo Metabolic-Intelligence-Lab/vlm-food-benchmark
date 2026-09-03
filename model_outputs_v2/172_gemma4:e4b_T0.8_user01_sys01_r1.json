@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "steamed green peas",
+      "portion_estimate": "140 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "mixed greens salad (lettuce, cherry tomatoes, etc.)",
+      "portion_estimate": "180 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked spaghetti pasta",
+      "portion_estimate": "160 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "sauce or dressing (under pasta)",
+      "portion_estimate": "40 grams",
+      "confidence": "85"
+    }
+  ]
+}

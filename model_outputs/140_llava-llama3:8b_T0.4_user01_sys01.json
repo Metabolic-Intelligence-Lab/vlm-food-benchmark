@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "dark greens",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "small green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

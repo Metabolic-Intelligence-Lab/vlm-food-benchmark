@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "fried hash",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "water (each glass)",
+      "portion_estimate": "70g",
+      "confidence": 95
+    }
+  ]
+}

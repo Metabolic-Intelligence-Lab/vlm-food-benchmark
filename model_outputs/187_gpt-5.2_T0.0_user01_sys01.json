@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (short pasta) with tomato-based sauce, baked/gratin style",
+      "portion_estimate": "230 g",
+      "confidence": "70"
+    },
+    {
+      "name": "green beans with breadcrumb topping (or seasoned crumbs)",
+      "portion_estimate": "150 g",
+      "confidence": "65"
+    },
+    {
+      "name": "breaded round croquettes/cutlets (2 pieces)",
+      "portion_estimate": "140 g",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked red cabbage (small portion)",
+      "portion_estimate": "40 g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll (small bun) in plastic wrap",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "string cheese/mozzarella stick (packaged)",
+      "portion_estimate": "80 g",
+      "confidence": "65"
+    },
+    {
+      "name": "tomato juice (single-serve cup)",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    }
+  ]
+}

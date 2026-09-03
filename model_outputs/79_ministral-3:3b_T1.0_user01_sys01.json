@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "roasted cornmeal mixture (with likely cheese sprinkles)",
+      "portion_estimate": 250,
+      "confidence": 95
+    },
+    {
+      "name": "green pepper relish/pasta sauce on a roll or breadstick",
+      "portion_estimate": 60,
+      "confidence": 80
+    },
+    {
+      "name": "lightly-cooked chickpeas",
+      "portion_estimate": 90,
+      "confidence": 95
+    },
+    {
+      "name": "tinned tomato-based dip/pasta sauce (inside the can with orange label)",
+      "portion_estimate": 150,
+      "confidence": 70
+    },
+    {
+      "name": "plastic-wrapped fried chicken patty or breaded meat item",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "raisins/plumbs",
+      "portion_estimate": 30,
+      "confidence": 95
+    }
+  ]
+}

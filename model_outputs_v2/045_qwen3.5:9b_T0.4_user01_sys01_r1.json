@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Yoplait yogurt cup (mixed berry flavor)",
+      "portion_estimate": 125,
+      "confidence": 98
+    },
+    {
+      "name": "Breaded and fried cutlet (likely chicken or fish)",
+      "portion_estimate": 140,
+      "confidence": 95
+    },
+    {
+      "name": "Mixed salad with shredded carrots and cabbage",
+      "portion_estimate": 180,
+      "confidence": 92
+    },
+    {
+      "name": "Steamed green beans with corn and diced tomatoes",
+      "portion_estimate": 130,
+      "confidence": 94
+    }
+  ]
+}

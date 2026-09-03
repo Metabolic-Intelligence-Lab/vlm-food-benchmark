@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole wheat sandwich, partially wrapped",
+      "portion_estimate": 85,
+      "confidence": 90
+    },
+    {
+      "name": "Green beans with a light sauce or seasoning",
+      "portion_estimate": 160,
+      "confidence": 92
+    },
+    {
+      "name": "Round rolls, possibly breaded or coated",
+      "portion_estimate": 50,
+      "confidence": 85
+    },
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": 170,
+      "confidence": 94
+    },
+    {
+      "name": "Whole orange",
+      "portion_estimate": 125,
+      "confidence": 98
+    }
+  ]
+}

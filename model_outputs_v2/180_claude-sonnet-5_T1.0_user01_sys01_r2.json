@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "chickpea and pumpkin/carrot salad",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "pesto penne pasta with grated cheese",
+      "portion_estimate": "220",
+      "confidence": "75"
+    },
+    {
+      "name": "eggplant parmigiana with mozzarella",
+      "portion_estimate": "120",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "130",
+      "confidence": "80"
+    },
+    {
+      "name": "sliced cheese (packaged)",
+      "portion_estimate": "40",
+      "confidence": "55"
+    }
+  ]
+}

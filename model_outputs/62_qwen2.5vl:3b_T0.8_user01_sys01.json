@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bow tie pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Mozzarella cheese ball with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Spinach leaves",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bagel or similar bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt or similar dairy product",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

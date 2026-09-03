@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Egg with Spinach",
+      "portion_estimate": "1 egg, approximately 50-60g",
+      "confidence": 95
+    },
+    {
+      "name": "Slice of Bread with Spinach and Cheese",
+      "portion_estimate": "1 slice of bread, approximately 30-40g; 1/4 cup spinach, approximately 10-15g; 1/4 cup cheese, approximately 20-30g",
+      "confidence": 95
+    },
+    {
+      "name": "Pasta with Light Sauce",
+      "portion_estimate": "1/2 cup cooked pasta, approximately 100-120g",
+      "confidence": 95
+    },
+    {
+      "name": "Salad with Mixed Greens and Vegetables",
+      "portion_estimate": "1/2 cup mixed greens, approximately 20-30g; 1/4 cup vegetables, approximately 10-15g",
+      "confidence": 95
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "1 medium apple, approximately 150-200g",
+      "confidence": 95
+    },
+    {
+      "name": "Pastry or Bread Roll",
+      "portion_estimate": "1 pastry or bread roll, approximately 50-60g",
+      "confidence": 95
+    }
+  ]
+}

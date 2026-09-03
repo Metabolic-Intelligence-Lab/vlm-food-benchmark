@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "50 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Peas",
+      "portion_estimate": "10 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Sauce",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    }
+  ]
+}

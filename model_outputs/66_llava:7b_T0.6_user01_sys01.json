@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Beans",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Meat with sauce or chili",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Nuts (possibly peanuts)",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    }
+  ]
+}

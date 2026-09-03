@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed broccoli florets with potato chunks",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "Sliced rye bread in plastic wrap",
+      "portion_estimate": 60,
+      "confidence": 92
+    },
+    {
+      "name": "Small tub of spread (likely butter or margarine)",
+      "portion_estimate": 35,
+      "confidence": 88
+    },
+    {
+      "name": "Vegetable stew with diced carrots, peas, corn and mushrooms",
+      "portion_estimate": 120,
+      "confidence": 78
+    },
+    {
+      "name": "Grain roll or bread slice (bun base) topped with red sauce/meat",
+      "portion_estimate": 85,
+      "confidence": 65
+    }
+  ]
+}

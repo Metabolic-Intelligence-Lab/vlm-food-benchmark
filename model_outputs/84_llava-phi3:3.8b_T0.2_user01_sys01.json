@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Plate of broccoli and carrots",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll with butter",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Plate of meat and vegetables",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    }
+  ]
+}

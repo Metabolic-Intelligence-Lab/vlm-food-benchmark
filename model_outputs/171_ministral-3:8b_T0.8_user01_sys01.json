@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "boiled or steamed green beans (whole)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "steamed green leafy vegetables (e.g., kale or collard greens)",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "grilled or roasted chicken breast with butter",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "butter or margarine packet (unspecified type)",
+      "portion_estimate": "10 grams",
+      "confidence": 80
+    },
+    {
+      "name": "toasted or whole-grain bread (or sandwich roll)",
+      "portion_estimate": "60 grams",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt or sour cream (red container)",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    },
+    {
+      "name": "condiment packet (yellow, possibly salt or seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

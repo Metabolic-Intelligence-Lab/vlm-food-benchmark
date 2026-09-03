@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken with spices",
+      "portion_estimate": "uncertain, approx. weight of plate content",
+      "confidence": "50"
+    },
+    {
+      "name": "Fried chicken leg",
+      "portion_estimate": "uncertain, approx. weight of plate content",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "approx. 125g",
+      "confidence": "90"
+    },
+    {
+      "name": "Milk tea with creamer",
+      "portion_estimate": "uncertain, approx. cup content",
+      "confidence": "60"
+    }
+  ]
+}

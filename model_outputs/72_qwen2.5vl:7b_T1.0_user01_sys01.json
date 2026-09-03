@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish fillet",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "lentil stew",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "clear glass of water",
+      "portion_estimate": "200",
+      "confidence": "90"
+    }
+  ]
+}

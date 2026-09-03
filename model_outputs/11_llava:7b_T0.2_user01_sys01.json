@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green salad with various greens",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked dish, possibly a casserole or lasagna",
+      "portion_estimate": "250 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Fruit salad with orange slices and other fruits",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole wheat roll or bread",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    }
+  ]
+}

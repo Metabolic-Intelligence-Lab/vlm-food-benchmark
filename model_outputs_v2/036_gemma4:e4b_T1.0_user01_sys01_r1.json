@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll or bun",
+      "portion_estimate": "90",
+      "confidence": "90"
+    },
+    {
+      "name": "Crispy fried shredded topping (e.g., fried floss or crispy bits)",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "Dipping sauce and stewed accompaniment",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "Sliced purple cabbage and cucumber garnish",
+      "portion_estimate": "130",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried croquettes or fritters (2 pieces)",
+      "portion_estimate": "140",
+      "confidence": "90"
+    }
+  ]
+}

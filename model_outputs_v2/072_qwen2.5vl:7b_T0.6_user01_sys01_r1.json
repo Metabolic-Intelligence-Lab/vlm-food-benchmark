@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked fish fillet",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Sliced carrots",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "Lentil stew",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "40",
+      "confidence": "60"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200",
+      "confidence": "80"
+    }
+  ]
+}

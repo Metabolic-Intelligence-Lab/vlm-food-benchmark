@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "60g",
+      "confidence": 70
+    },
+    {
+      "name": "Spinach Salad",
+      "portion_estimate": "80g",
+      "confidence": 65
+    }
+  ]
+}

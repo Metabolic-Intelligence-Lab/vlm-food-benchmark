@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "whole baked potato",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "microwaveable rice (uncooked)",
+      "portion_estimate": "150g",
+      "confidence": 70
+    },
+    {
+      "name": "mushrooms with butter sauce",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "grilled or pan-seared chicken breast",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "small package of seasoned butter or herb butter",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "sliced garlic (visible on the package)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "soft white cheese (e.g., cream cheese or similar)",
+      "portion_estimate": "70g",
+      "confidence": 65
+    }
+  ]
+}

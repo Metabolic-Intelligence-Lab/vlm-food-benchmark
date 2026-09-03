@@ -1,0 +1,33 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Egg fried rice with cheese on top",
+      "portion_estimate": "375 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Cheese omelet",
+      "portion_estimate": "125 grams",
+      "confidence": "90"
+    }
+  ],
+  "tablecloth": "white and green patterned cloth with leaf designs",
+  "dishware": "white plates",
+  "condiments": [
+    {
+      "name": "Sour cream container",
+      "portion_estimate": "250 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Pepper shaker",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    }
+  ]
+}

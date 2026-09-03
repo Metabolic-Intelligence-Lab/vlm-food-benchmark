@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese (likely penne rigate) with visible grated cheese",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "green peas",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mushroom (seared or baked) with garnish",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "baguette or French bread roll",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    }
+  ]
+}

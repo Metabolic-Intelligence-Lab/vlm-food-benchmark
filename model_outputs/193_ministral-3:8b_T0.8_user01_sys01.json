@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "broth or soup (bowl)",
+      "portion_estimate": "400-450g",
+      "confidence": 75
+    },
+    {
+      "name": "mixed grain or vegetable rice-like dish (side plate)",
+      "portion_estimate": "100-150g",
+      "confidence": 70
+    },
+    {
+      "name": "fried or crispy battered item (side plate)",
+      "portion_estimate": "50-80g",
+      "confidence": 65
+    },
+    {
+      "name": "orange halves",
+      "portion_estimate": "180-200g",
+      "confidence": 80
+    },
+    {
+      "name": "bun or bread roll (partially visible at bottom left)",
+      "portion_estimate": "50-70g",
+      "confidence": 70
+    },
+    {
+      "name": "water (two glasses)",
+      "portion_estimate": "uncertain (glasses appear to contain ~200ml each)",
+      "confidence": 50
+    }
+  ]
+}

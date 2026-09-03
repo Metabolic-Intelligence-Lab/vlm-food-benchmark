@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Grilled chicken breast and vegetables",
+      "portion_estimate": "160 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed potatoes with butter and herbs",
+      "portion_estimate": "120 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "80 grams",
+      "confidence": "50"
+    }
+  ]
+}

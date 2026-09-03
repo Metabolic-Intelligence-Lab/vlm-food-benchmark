@@ -1,0 +1,37 @@
+Based on the provided image, I'll attempt to identify the food and beverage items, and estimate their portion sizes in grams. Here's the output in the required format:
+
+{
+  "food_items": [
+    {
+      "name": "Vegetable soup",
+      "portion_estimate": "300-400g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sausage",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "80-100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100-120g",
+      "confidence": "75"
+    }
+  ]
+}
+
+Please note that the estimated portion sizes are based on visual analysis and may not be precise. The "confidence" scores are based on my training data and may not reflect
+ the actual
+  of the images. 
+
+Let me know if you have any further questions or need any additional help.

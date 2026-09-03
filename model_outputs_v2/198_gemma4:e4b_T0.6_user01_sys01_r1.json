@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll or bun",
+      "portion_estimate": "90g",
+      "confidence": "90"
+    },
+    {
+      "name": "rice or couscous (in bowl)",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "fried vegetable or meat balls (croquettes)",
+      "portion_estimate": "120g",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked white protein (e.g., chicken or fish)",
+      "portion_estimate": "110g",
+      "confidence": "85"
+    },
+    {
+      "name": "side portion of rice or grains (on plate)",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    }
+  ]
+}

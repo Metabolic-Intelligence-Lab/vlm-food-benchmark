@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based soup (possibly tomato/vegetable) with grated cheese",
+      "portion_estimate": "350 g",
+      "confidence": "70"
+    },
+    {
+      "name": "diced cooked carrots",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    },
+    {
+      "name": "small patty/fritter (possibly vegetable) with melted cheese on top",
+      "portion_estimate": "110 g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll/bun (packaged)",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "apricots (whole, fresh)",
+      "portion_estimate": "110 g",
+      "confidence": "85"
+    }
+  ]
+}

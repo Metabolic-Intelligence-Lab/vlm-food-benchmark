@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole wheat bread",
+      "portion_estimate": "uncertain, approx 100g",
+      "confidence": "50"
+    },
+    {
+      "name": "Penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "uncertain, approx 200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Stuffed zucchini boat topped with marinara sauce and grated cheese",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cucumber salad on the side",
+      "portion_estimate": "uncertain, approx 125g",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt with fruit pieces (possibly peaches)",
+      "portion_estimate": "uncertain, approx 170g",
+      "confidence": "50"
+    }
+  ]
+}

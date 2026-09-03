@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "150 grams",
+      "confidence": "65"
+    },
+    {
+      "name": "Garlic Bread",
+      "portion_estimate": "75 grams",
+      "confidence": "30"
+    },
+    {
+      "name": "Green Salad",
+      "portion_estimate": "125 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Vegetables and Pasta Salad",
+      "portion_estimate": "170 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Dessert Pastry",
+      "portion_estimate": "60 grams",
+      "confidence": "25"
+    }
+  ]
+}

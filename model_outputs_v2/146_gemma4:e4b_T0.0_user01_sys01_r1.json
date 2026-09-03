@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "slice of white bread",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    },
+    {
+      "name": "baked casserole or strata mixture",
+      "portion_estimate": "220g",
+      "confidence": "85"
+    },
+    {
+      "name": "crumbly breakfast mixture (e.g., bread pudding or stuffing)",
+      "portion_estimate": "280g",
+      "confidence": "80"
+    },
+    {
+      "name": "crumbled stuffing or bread crumbs",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "110g",
+      "confidence": "90"
+    }
+  ]
+}

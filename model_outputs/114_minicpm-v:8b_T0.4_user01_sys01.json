@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fettuccine with tomato sauce and Parmesan cheese",
+      "portion_estimate": "uncertain, approx. weight in grams based on typical serving size of pasta",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain, approx. weight in grams based on standard slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "yogurt with fruit and nuts",
+      "portion_estimate": "uncertain, approx. weight in grams based on typical serving of yogurt",
+      "confidence": "60"
+    },
+    {
+      "name": "chicken burger or cutlet with potato wedges",
+      "portion_estimate": "uncertain, approx. weight in grams for the chicken and potatoes combined",
+      "confidence": "50"
+    }
+  ]
+}

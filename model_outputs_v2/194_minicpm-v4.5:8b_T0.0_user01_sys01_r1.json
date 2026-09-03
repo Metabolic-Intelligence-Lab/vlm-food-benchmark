@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "orange soup (likely tomato-based with vegetables)",
+      "portion_estimate": "300-400 grams",
+      "confidence": 85
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "steamed greens (possibly spinach or chard)",
+      "portion_estimate": "50-75 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small burger patty (with purple cabbage garnish)",
+      "portion_estimate": "50-75 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small orange (mandarin or tangerine)",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "bun (partially visible, wrapped)",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    }
+  ]
+}

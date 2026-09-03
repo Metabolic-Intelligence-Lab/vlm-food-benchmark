@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta with vegetables and tomatoes",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "grilled fish",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "green beans in sauce",
+      "portion_estimate": "50",
+      "confidence": "95"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250",
+      "confidence": "80"
+    },
+    {
+      "name": "unopened bread",
+      "portion_estimate": "200",
+      "confidence": "85"
+    }
+  ]
+}

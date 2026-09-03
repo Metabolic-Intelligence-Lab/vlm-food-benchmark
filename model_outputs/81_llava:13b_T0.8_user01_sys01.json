@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Gnocchi",
+      "portion_estimate": "80 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "60 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Eggplant",
+      "portion_estimate": "100 grams",
+      "confidence": "40"
+    }
+  ]
+}

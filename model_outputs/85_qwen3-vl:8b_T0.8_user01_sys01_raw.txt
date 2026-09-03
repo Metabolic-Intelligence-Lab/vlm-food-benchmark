@@ -1,0 +1,46 @@
+Here is the list of items in the image with their estimated quantities (in grams) and confidence levels (on a scale from 0 to 100), based on visual analysis:
+
+1. **Tomato soup with cheese**  
+   Quantity: 250g  
+   Confidence: 80  
+   *Rationale: A standard bowl of soup (approx. 250ml) is visually identifiable, and the creamy texture suggests cheese inclusion. Confidence is high due to clear visibility.*
+
+2. **Sautéed spinach**  
+   Quantity: 150g  
+   Confidence: 70  
+   *Rationale: The green, cooked vegetable on the plate appears to be spinach. Quantity is estimated based on typical serving sizes, but exact measurement is less precise due to visual ambiguity.*
+
+3. **Stuffed tomatoes**  
+   Quantity: 100g (2 items × 50g each)  
+   Confidence: 60  
+   *Rationale: Two round, filled items resemble stuffed tomatoes. Confidence is moderate due to potential confusion with other stuffed vegetables (e.g., peppers), but the shape and context support this.*
+
+4. **Green apple**  
+   Quantity: 150g  
+   Confidence: 90  
+   *Rationale: A whole green apple is clearly visible. Weight is estimated based on standard apple size, with high confidence due to distinct shape and color.*
+
+5. **Packaged pastry**  
+   Quantity: 80g  
+   Confidence: 70  
+   *Rationale: A small, sealed item (likely a pastry) is visible. Quantity is estimated from typical packaging, but exact weight is less certain due to packaging constraints.*
+
+6. **Butter stick**  
+   Quantity: 50g  
+   Confidence: 80  
+   *Rationale: A rectangular, solid block (consistent with butter) is visible. Confidence is high due to clear visual characteristics (e.g., color, shape) and common use cases.*
+
+---
+
+### Notes:
+- **Confidence scale explanation**:  
+  - **90–100**: High confidence (item is clearly identifiable with minimal ambiguity).  
+  - **70–89**: Moderate confidence (item is plausible, but context or appearance may require minor assumptions).  
+  - **60–69**: Low confidence (item is plausible but subject to significant interpretation).  
+  - **<60**: Very low confidence (item is highly speculative).  
+
+- **Excluded items**:  
+  - Plates, bowls, and utensils are not included as they are not food items.  
+  - Any background elements (e.g., table, decor) are irrelevant to the task.  
+
+This list reflects a balanced approach between visual evidence and reasonable assumptions for the given context.

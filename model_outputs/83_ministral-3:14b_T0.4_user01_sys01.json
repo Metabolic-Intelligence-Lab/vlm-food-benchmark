@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "quinoa and mixed vegetable medley (kale, corn, peas, and possibly carrots)",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "grilled salmon fillet with avocado topping",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "roasted sweet potatoes or butternut squash cubes",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "single-serving Greek yogurt (e.g., Fage, 150g container)",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "whole wheat or multigrain bread roll",
+      "portion_estimate": "60",
+      "confidence": 80
+    }
+  ]
+}

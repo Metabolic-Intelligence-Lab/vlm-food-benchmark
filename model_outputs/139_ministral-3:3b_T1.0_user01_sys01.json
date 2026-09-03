@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken with golden crust",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "carrot and onion mix, diced",
+      "portion_estimate": "60g",
+      "confidence": 85
+    },
+    {
+      "name": "coated quesadilla or stuffed tortilla filling (likely seasoned cheese or rice mix)",
+      "portion_estimate": "35g",
+      "confidence": 70
+    },
+    {
+      "name": "brown roll/naan with sesame seed pattern, plain",
+      "portion_estimate": "50g",
+      "confidence": 75
+    },
+    {
+      "name": "sugar-corn syrup liquid drink in pouch (appears to be 'Star-Kist' branded canister)",
+      "portion_estimate": "uncertain, ~50g",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Crispy peas",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Lettuce and carrot salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

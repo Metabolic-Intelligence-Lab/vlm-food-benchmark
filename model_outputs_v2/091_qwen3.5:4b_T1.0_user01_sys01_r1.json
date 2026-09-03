@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup (thick, orange-based with visible vegetables), topped with grated cheese",
+      "portion_estimate": "250g",
+      "confidence": 70
+    },
+    {
+      "name": "Sliced chicken breast in a creamy sauce",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Steamed dark leafy greens (likely spinach or chard)",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "Baked potato",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Yakult drink (125ml)",
+      "portion_estimate": "125g",
+      "confidence": 85
+    }
+  ]
+}

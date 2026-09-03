@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spring roll",
+      "portion_estimate": "80",
+      "confidence": "80"
+    },
+    {
+      "name": "kale",
+      "portion_estimate": "30",
+      "confidence": "70"
+    },
+    {
+      "name": "red cabbage slaw",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "baguette",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "carrot",
+      "portion_estimate": "30",
+      "confidence": "80"
+    }
+  ]
+}

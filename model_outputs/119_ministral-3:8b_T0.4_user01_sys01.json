@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried potato croquettes with grated cheese topping",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "lentil soup with vegetables",
+      "portion_estimate": "220g",
+      "confidence": 85
+    },
+    {
+      "name": "small bread roll or biscuit (packaged)",
+      "portion_estimate": "30g",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt or sour cream (in small tub)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "uncertain (likely ~200-250ml)",
+      "confidence": 50
+    }
+  ]
+}

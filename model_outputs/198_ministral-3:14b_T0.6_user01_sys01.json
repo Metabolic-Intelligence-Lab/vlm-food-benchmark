@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "baked bread roll (possibly a baguette or similar)",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked white rice",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "saut\u00e9ed mushrooms with sauce",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "sliced grilled chicken breast",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "cheese (sliced, likely cheddar or similar)",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "cream cheese or butter (soft spread)",
+      "portion_estimate": "30",
+      "confidence": "70"
+    },
+    {
+      "name": "salt and pepper shakers (non-food)",
+      "portion_estimate": "N/A",
+      "confidence": "N/A"
+    }
+  ]
+}

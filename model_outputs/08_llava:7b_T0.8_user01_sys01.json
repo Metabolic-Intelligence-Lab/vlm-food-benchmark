@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soupe",
+      "portion_estimate": "300 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "150 g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll with butter",
+      "portion_estimate": "100 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Vegetable medley on white plate",
+      "portion_estimate": "50 g",
+      "confidence": "70"
+    }
+  ]
+}

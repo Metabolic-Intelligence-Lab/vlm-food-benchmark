@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "stir-fried meat and vegetables (likely pork and bean sprouts)",
+      "portion_estimate": "200-250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "diced potatoes (possibly fried or roasted)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "spiced ground meat (likely spicy pork or beef)",
+      "portion_estimate": "100-150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "water with ice",
+      "portion_estimate": "200-250 ml (ice weight included)",
+      "confidence": 90
+    }
+  ]
+}

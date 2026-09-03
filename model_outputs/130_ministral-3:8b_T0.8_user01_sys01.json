@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "white rice with pieces of fried or baked tofu/garnish",
+      "portion_estimate": "150 grams (rice) + 30 grams (tofu/garnish)",
+      "confidence": 85
+    },
+    {
+      "name": "curried chickpea or lentil stew with vegetables (potentially containing tomatoes, carrots, or peppers)",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    }
+  ]
+}

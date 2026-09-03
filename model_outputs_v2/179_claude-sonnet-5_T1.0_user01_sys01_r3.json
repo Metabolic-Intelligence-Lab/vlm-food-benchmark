@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato and meat sauce",
+      "portion_estimate": "220",
+      "confidence": 80
+    },
+    {
+      "name": "yellow apple",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "70",
+      "confidence": 85
+    },
+    {
+      "name": "mashed rice or grain side dish (uncertain type)",
+      "portion_estimate": "150",
+      "confidence": 45
+    },
+    {
+      "name": "spinach balls with grated cheese topping",
+      "portion_estimate": "100",
+      "confidence": 65
+    }
+  ]
+}

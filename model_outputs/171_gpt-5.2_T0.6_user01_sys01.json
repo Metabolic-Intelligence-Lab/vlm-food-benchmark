@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked leafy greens (spinach/chard-like)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "170 g",
+      "confidence": "80"
+    },
+    {
+      "name": "boiled chicken breast pieces",
+      "portion_estimate": "110 g",
+      "confidence": "65"
+    },
+    {
+      "name": "mixed grain bread slices",
+      "portion_estimate": "60 g",
+      "confidence": "70"
+    },
+    {
+      "name": "fruit yogurt cup (strawberry flavor, Yomo-like)",
+      "portion_estimate": "125 g",
+      "confidence": "75"
+    },
+    {
+      "name": "wrapped bread roll/sandwich bun (in packaging)",
+      "portion_estimate": "90 g",
+      "confidence": "55"
+    }
+  ]
+}

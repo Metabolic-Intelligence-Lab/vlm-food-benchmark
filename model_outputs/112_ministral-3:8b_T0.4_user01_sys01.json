@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated parmesan",
+      "portion_estimate": "200 grams (uncertain)",
+      "confidence": 65
+    },
+    {
+      "name": "whole plum (dried or fresh, appears dried)",
+      "portion_estimate": "30 grams",
+      "confidence": 85
+    },
+    {
+      "name": "cheese slice (appears to be provolone or similar)",
+      "portion_estimate": "60 grams",
+      "confidence": 70
+    },
+    {
+      "name": "cheese spread or fondue (yellow, on plastic wrap)",
+      "portion_estimate": "100 grams (uncertain)",
+      "confidence": 75
+    },
+    {
+      "name": "brussels sprouts (roasted or steamed)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    }
+  ]
+}

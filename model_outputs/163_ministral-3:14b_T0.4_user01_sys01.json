@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy mushroom soup (with breadcrumbs or cheese topping)",
+      "portion_estimate": "450",
+      "confidence": "85"
+    },
+    {
+      "name": "grilled or baked fish fillet (possibly cod or similar white fish)",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "saut\u00e9ed mixed vegetables (carrots, zucchini, and possibly bell peppers or onions)",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "whole-grain or wheat roll/bun",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "spreadable cheese or butter (partially visible in container)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

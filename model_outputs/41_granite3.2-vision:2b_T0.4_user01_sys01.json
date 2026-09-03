@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with creamy sauce and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "salad with leafy greens, cherry tomatoes, and cucumbers",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "green sauce with vegetables and nuts/seeds",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

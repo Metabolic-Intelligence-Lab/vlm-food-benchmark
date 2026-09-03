@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain, approx. bowl size",
+      "confidence": "50"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain, approx. fist-sized portion",
+      "confidence": "60"
+    },
+    {
+      "name": "potato salad with red cabbage and dressing",
+      "portion_estimate": "uncertain, approx. plate size",
+      "confidence": "50"
+    }
+  ]
+}

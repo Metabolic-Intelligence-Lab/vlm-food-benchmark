@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled salmon with avocado",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted sweet potatoes",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "couscous with kale and chickpeas",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "pretzel",
+      "portion_estimate": "25",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bun",
+      "portion_estimate": "50-70 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "spiral pasta with fried topping",
+      "portion_estimate": "150-200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "dark brown sauce (possibly plum or date sauce)",
+      "portion_estimate": "50-60 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "purple cabbage salad with cucumber and dressing",
+      "portion_estimate": "100-120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "two green crusted patties (possibly falafel or vegetable patties)",
+      "portion_estimate": "100-120 grams",
+      "confidence": "75"
+    }
+  ]
+}

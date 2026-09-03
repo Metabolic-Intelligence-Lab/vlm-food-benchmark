@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "ground meat, cooked",
+      "portion_estimate": "100",
+      "confidence": "75"
+    }
+  ]
+}

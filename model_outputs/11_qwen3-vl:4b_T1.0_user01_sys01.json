@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "60 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Cabbage Salad",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Apricot",
+      "portion_estimate": "45 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Tortilla",
+      "portion_estimate": "70 grams",
+      "confidence": 75
+    }
+  ]
+}

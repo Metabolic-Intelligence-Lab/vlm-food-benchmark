@@ -1,0 +1,28 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "approximate weight in grams"
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "approximate weight in grams"
+    },
+    {
+      "name": "Stew with Vegetables and Meat",
+      "portion_estimate": "approximate weight in grams"
+    },
+    {
+      "name": "Yogurt or Cream Cheese (uncertain)",
+      "portion_estimate": "uncertain portion estimate, confidence 40-60"
+    },
+    {
+      "name": "Rolls/Bread",
+      "portion_estimate": "approximate weight in grams"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "approximate total estimated mass of fruit (uncertain portion estimate, confidence 40-60)"
+    }
+  ]
+}

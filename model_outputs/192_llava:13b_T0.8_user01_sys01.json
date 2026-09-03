@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "vegetable side with greens",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and seasonings",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "bread or rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "savory pastry, such as lasagna",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "side salad with greens",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

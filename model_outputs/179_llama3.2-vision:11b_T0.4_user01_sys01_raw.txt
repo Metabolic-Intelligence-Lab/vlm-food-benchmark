@@ -1,0 +1,65 @@
+Here is the food image with a description:
+
+**Food Image**
+
+* A tray of food with two plates of pasta, a potato, and a bread roll.
+* The top plate has a red sauce pasta dish with a side of potato.
+* The bottom plate has a white sauce pasta dish with a side of broccoli.
+* A bread roll is placed on the tray between the two plates.
+* The tray is covered with a paper towel and has a green logo in the top-right corner.
+
+**Description**
+
+* The food appears to be a meal consisting of two pasta dishes, a potato, and a bread roll.
+* The pasta dishes are served on separate plates, with the red sauce pasta dish on top and the white sauce pasta dish on the bottom.
+* The potato is placed on the tray between the two plates.
+* The bread roll is placed on the tray below the plates.
+* The tray is covered with a paper towel and has a green logo in the top-right corner.
+
+**Food Items**
+
+* Red sauce pasta dish
+* White sauce pasta dish
+* Potato
+* Bread roll
+
+**Portion Sizes**
+
+* Red sauce pasta dish: approximately 200-250g
+* White sauce pasta dish: approximately 200-250g
+* Potato: approximately 100-150g
+* Bread roll: approximately 50-100g
+
+**Confidence**
+
+* Red sauce pasta dish: 80-90%
+* White sauce pasta dish: 80-90%
+* Potato: 70-80%
+* Bread roll: 60-70%
+
+**Food Recognition Output**
+
+* {
+  "food_items": [
+    {
+      "name": "Red sauce pasta dish",
+      "portion_estimate": "200-250g",
+      "confidence": "80-90%"
+    },
+    {
+      "name": "White sauce pasta dish",
+      "portion_estimate": "200-250g",
+      "confidence": "80-90%"
+    },
+    {
+      "name": "Potato",
+      "portion_estimate": "100-150g",
+      "confidence": "70-80%"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50-100g",
+      "confidence": "60-70%"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup (likely minestrone or similar)",
+      "portion_estimate": "450 grams",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll (whole wheat or similar)",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetable and meat dish (likely meatballs with cabbage/broccoli)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "butter or margarine (in small container)",
+      "portion_estimate": "uncertain (likely 10-20 grams)",
+      "confidence": 50
+    },
+    {
+      "name": "plastic wrap (non-edible)",
+      "portion_estimate": "uncertain",
+      "confidence": 0
+    }
+  ]
+}

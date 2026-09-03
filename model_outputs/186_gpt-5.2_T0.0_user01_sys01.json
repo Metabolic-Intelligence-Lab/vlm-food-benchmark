@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "buttered bread roll (small bun)",
+      "portion_estimate": "70 g",
+      "confidence": "65"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "180 g",
+      "confidence": "75"
+    },
+    {
+      "name": "sliced ham/pork (2 slices)",
+      "portion_estimate": "90 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked cauliflower pieces (possibly with breadcrumbs/butter)",
+      "portion_estimate": "170 g",
+      "confidence": "55"
+    },
+    {
+      "name": "clear carbonated beverage (possibly sparkling water) in plastic cup",
+      "portion_estimate": "200 g",
+      "confidence": "55"
+    }
+  ]
+}

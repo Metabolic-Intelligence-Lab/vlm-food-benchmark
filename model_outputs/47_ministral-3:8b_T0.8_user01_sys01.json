@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne) with tomato sauce",
+      "portion_estimate": "300 grams (uncertain due to no scale reference)",
+      "confidence": 70
+    },
+    {
+      "name": "baked potato frittata or quiche with herbs",
+      "portion_estimate": "200 grams (uncertain due to no scale reference)",
+      "confidence": 70
+    },
+    {
+      "name": "green beans (steamed or boiled)",
+      "portion_estimate": "150 grams (uncertain due to no scale reference)",
+      "confidence": 75
+    },
+    {
+      "name": "white or wheat bread roll",
+      "portion_estimate": "80 grams (uncertain due to no scale reference)",
+      "confidence": 65
+    }
+  ]
+}

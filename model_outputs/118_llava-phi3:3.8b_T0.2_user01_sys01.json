@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Tater Tots",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Macaroni and Cheese",
+      "portion_estimate": "125g",
+      "confidence": "70"
+    }
+  ]
+}

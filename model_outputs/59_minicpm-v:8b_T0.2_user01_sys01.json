@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed greens with carrot shreds and cucumber slices",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll in plastic wrap",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Purple grapes",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Green leafy vegetable on a plate with mashed potatoes and sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

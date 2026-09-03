@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green salad with dressing",
+      "portion_estimate": "uncertain, approx. bowl size",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. medium-sized bread roll",
+      "confidence": "60"
+    },
+    {
+      "name": "Mashed potatoes with gravy and cheese on top of a biscuit",
+      "portion_estimate": "uncertain, approx. plate size",
+      "confidence": "50"
+    },
+    {
+      "name": "Roasted potato wedges",
+      "portion_estimate": "uncertain, approx. medium-sized portion",
+      "confidence": "60"
+    }
+  ]
+}

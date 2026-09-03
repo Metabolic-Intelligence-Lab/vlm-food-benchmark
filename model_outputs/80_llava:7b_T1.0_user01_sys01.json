@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Caesar salad",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Sliced baguette or loaf of bread with butter and jam",
+      "portion_estimate": "approx. 100g each",
+      "confidence": 80
+    },
+    {
+      "name": "Fried potatoes or hash browns",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Eggs with tomatoes, onions, and other vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

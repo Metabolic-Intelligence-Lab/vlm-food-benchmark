@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "diced carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "whole wheat muffin",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "oranges",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pecan",
+      "portion_estimate": "uncertain",
+      "confidence": 88
+    }
+  ]
+}

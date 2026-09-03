@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "thick vegetable/legume soup (pea/lentil-like) with grated cheese on top",
+      "portion_estimate": "420 g",
+      "confidence": "72"
+    },
+    {
+      "name": "grated cheese topping (parmesan-like)",
+      "portion_estimate": "12 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "65 g",
+      "confidence": "78"
+    },
+    {
+      "name": "square slice of savory baked casserole/pie (vegetable quiche/lasagna-like)",
+      "portion_estimate": "130 g",
+      "confidence": "62"
+    },
+    {
+      "name": "cooked peas and sliced carrots",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    },
+    {
+      "name": "plums (whole)",
+      "portion_estimate": "120 g",
+      "confidence": "82"
+    },
+    {
+      "name": "packaged sliced cheese (single portion)",
+      "portion_estimate": "25 g",
+      "confidence": "66"
+    }
+  ]
+}

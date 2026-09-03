@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "baked meat with vegetables",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "pita bread",
+      "portion_estimate": "30",
+      "confidence": "70"
+    }
+  ]
+}

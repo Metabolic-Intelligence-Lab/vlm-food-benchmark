@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta with sauce",
+      "portion_estimate": "200-250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "steamed or cooked leafy greens (spinach/kale)",
+      "portion_estimate": "100-150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "baked or grilled fish fillet with yellow topping (likely corn or cheese)",
+      "portion_estimate": "100-150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small bread roll (in plastic bag)",
+      "portion_estimate": "50-70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "two apricots",
+      "portion_estimate": "100 grams (total for two apricots)",
+      "confidence": 90
+    }
+  ]
+}

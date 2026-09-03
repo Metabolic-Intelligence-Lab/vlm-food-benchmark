@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot salad",
+      "portion_estimate": "uncertain, approx 200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed greens with carrot shreds and cucumbers",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll in plastic wrap",
+      "portion_estimate": "uncertain, approx 80g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green leafy vegetables on a plate",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Apple with cream and sauce on top of bread slice",
+      "portion_estimate": "uncertain, approx 80g",
+      "confidence": "70"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "60"
+    }
+  ]
+}

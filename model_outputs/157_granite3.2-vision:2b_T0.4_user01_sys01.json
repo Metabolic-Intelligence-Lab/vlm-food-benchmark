@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "breaded and fried item (likely chicken or fish)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "toast or bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "condiment (possible sauce or dip)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

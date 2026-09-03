@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato-based sauce",
+      "portion_estimate": "250g (approximate, full bowl)",
+      "confidence": 75
+    },
+    {
+      "name": "pan-fried fish fillet (likely sea bass or similar)",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed kale",
+      "portion_estimate": "90g",
+      "confidence": 70
+    },
+    {
+      "name": "garlic fries or roasted potato wedges",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "mixed green salad with cucumber",
+      "portion_estimate": "100g (leafy greens)",
+      "confidence": 70
+    },
+    {
+      "name": "water (drink)",
+      "portion_estimate": "200ml",
+      "confidence": 90
+    }
+  ]
+}

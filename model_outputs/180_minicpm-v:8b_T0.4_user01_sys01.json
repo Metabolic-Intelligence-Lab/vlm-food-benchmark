@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with pesto",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "chickpeas and pumpkin seeds",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "apple with skin on",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "hamburger bun",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mushroom and cheese dish",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

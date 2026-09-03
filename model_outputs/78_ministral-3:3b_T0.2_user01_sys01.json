@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot soup with grated topping",
+      "portion_estimate": "300",
+      "confidence": 95
+    },
+    {
+      "name": "cubed carrots",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "whole carrots (dried or fresh)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "olive oil or similar drizzle",
+      "portion_estimate": "10",
+      "confidence": 70
+    },
+    {
+      "name": "baked sweet potato or hash brown",
+      "portion_estimate": "100",
+      "confidence": 80
+    }
+  ]
+}

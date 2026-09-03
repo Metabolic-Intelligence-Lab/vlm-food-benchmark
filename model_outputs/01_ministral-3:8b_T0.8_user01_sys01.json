@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup (likely creamy or cheese soup)",
+      "portion_estimate": "300 grams",
+      "confidence": 80
+    },
+    {
+      "name": "grated cheese on soup",
+      "portion_estimate": "15 grams",
+      "confidence": 65
+    },
+    {
+      "name": "stuffed baked corn patty (possibly cheese-stuffed masa) with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "shredded chicken or white meat pieces (seasoned)",
+      "portion_estimate": "120 grams",
+      "confidence": 70
+    },
+    {
+      "name": "packaged tortilla (partially visible)",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "single-serve yogurt with fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "plastic wrap packaging (non-food)",
+      "portion_estimate": "uncertain",
+      "confidence": 0
+    },
+    {
+      "name": "plastic packet (e.g., condiment packet)",
+      "portion_estimate": "uncertain",
+      "confidence": 0
+    },
+    {
+      "name": "disposable cup with lid",
+      "portion_estimate": "uncertain",
+      "confidence": 0
+    }
+  ]
+}

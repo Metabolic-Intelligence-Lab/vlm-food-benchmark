@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (with tomato-based sauce and grated cheese topping)",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "roast beef or chicken schnitzel",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potato wedges (seasoned)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "whole wheat sandwich roll or bun (partially wrapped in plastic)",
+      "portion_estimate": "60g",
+      "confidence": 80
+    },
+    {
+      "name": "raw green onion",
+      "portion_estimate": "20g",
+      "confidence": 85
+    },
+    {
+      "name": "small container of garlic butter or spread (partially visible)",
+      "portion_estimate": "30g",
+      "confidence": 70
+    }
+  ]
+}

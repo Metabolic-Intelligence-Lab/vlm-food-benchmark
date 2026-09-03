@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup (likely chicken or vegetable) with grated cheese",
+      "portion_estimate": "300 grams",
+      "confidence": 75
+    },
+    {
+      "name": "fried potato croquettes (multiple pieces)",
+      "portion_estimate": "120 grams",
+      "confidence": 70
+    },
+    {
+      "name": "baked or boiled cubed potatoes with herbs",
+      "portion_estimate": "150 grams",
+      "confidence": 70
+    },
+    {
+      "name": "packaged seasoning (e.g., salt or herb mix)",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "packaged sweetened yogurt (small container)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    }
+  ]
+}

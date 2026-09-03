@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "approximately 200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "crisp",
+      "portion_estimate": "approximately 40 grams",
+      "confidence": "80"
+    }
+  ]
+}

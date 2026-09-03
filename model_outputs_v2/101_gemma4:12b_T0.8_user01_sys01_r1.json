@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with creamy sauce",
+      "portion_estimate": "250",
+      "confidence": 95
+    },
+    {
+      "name": "cooked chicken pieces",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "slice of sponge cake",
+      "portion_estimate": "130",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80",
+      "confidence": 95
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "20",
+      "confidence": 95
+    }
+  ]
+}

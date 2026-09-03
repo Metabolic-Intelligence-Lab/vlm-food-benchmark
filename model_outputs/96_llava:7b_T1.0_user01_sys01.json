@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cake, possibly muffin",
+      "portion_estimate": "2 slices",
+      "confidence": "70"
+    },
+    {
+      "name": "snack cake",
+      "portion_estimate": "1 serving",
+      "confidence": "60"
+    },
+    {
+      "name": "a biscuit or cookie with icing, possibly muffin",
+      "portion_estimate": "1 piece",
+      "confidence": "70"
+    }
+  ]
+}

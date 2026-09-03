@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "fruit (apple or pear)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "grain-based side dish (rice or couscous)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

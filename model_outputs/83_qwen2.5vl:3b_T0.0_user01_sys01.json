@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled salmon",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "grilled sweet potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

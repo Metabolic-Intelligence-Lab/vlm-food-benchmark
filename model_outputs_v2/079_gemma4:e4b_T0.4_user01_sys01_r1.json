@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Baked grain or casserole dish (pilaf style)",
+      "portion_estimate": "280",
+      "confidence": "85"
+    },
+    {
+      "name": "Thick slice of toasted bread",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "Bag of bread rolls or bread",
+      "portion_estimate": "180",
+      "confidence": "70"
+    },
+    {
+      "name": "Cooked soybeans or beans",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "Slice of yellow cheese",
+      "portion_estimate": "60",
+      "confidence": "85"
+    },
+    {
+      "name": "Grapes",
+      "portion_estimate": "180",
+      "confidence": "90"
+    }
+  ]
+}

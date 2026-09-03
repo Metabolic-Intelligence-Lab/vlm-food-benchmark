@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Tomato Soup",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Baked Beans",
+      "portion_estimate": "120g",
+      "confidence": "40"
+    },
+    {
+      "name": "Carrot Cake (or Carrot Bread), served in a small portion",
+      "portion_estimate": "35g",
+      "confidence": "60"
+    },
+    {
+      "name": "A pear or apple, with seeds",
+      "portion_estimate": "120g",
+      "confidence": "50"
+    },
+    {
+      "name": "Ghee or Butter for cooking",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    }
+  ]
+}

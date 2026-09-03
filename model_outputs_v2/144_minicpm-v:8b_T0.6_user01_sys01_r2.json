@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain, approx. slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "Macaroni and cheese with broccoli pesto sauce",
+      "portion_estimate": "approx. 260g per serving for macaroni, assuming standard portion of pasta.",
+      "confidence": "90"
+    },
+    {
+      "name": "White beans with garlic sauce on a baked potato",
+      "portion_estimate": "uncertain, approx. half to three-quarters of the plate depending on potatos size; 25-37g per serving for white beans (assuming standard portion).",
+      "confidence": "60"
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": "approx. medium-sized green apple, weight approximately ranges from 140 to 280 grams.",
+      "confidence": "95"
+    }
+  ]
+}

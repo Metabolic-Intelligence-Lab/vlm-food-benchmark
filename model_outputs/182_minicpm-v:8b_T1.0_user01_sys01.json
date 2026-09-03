@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain, approx. a quarter plate worth",
+      "confidence": "50"
+    },
+    {
+      "name": "mushroom-topped pizza slice",
+      "portion_estimate": "approx. 1/6th of the whole dish on a separate plate",
+      "confidence": "70"
+    },
+    {
+      "name": "spaghetti carbonara with mushrooms and pancetta or bacon",
+      "portion_estimate": "a full bowl, possibly about half served",
+      "confidence": "95"
+    }
+  ]
+}

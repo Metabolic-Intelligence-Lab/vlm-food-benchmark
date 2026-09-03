@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rigatoni pasta",
+      "portion_estimate": "220 g",
+      "confidence": "82"
+    },
+    {
+      "name": "grated parmesan cheese (on pasta)",
+      "portion_estimate": "12 g",
+      "confidence": "70"
+    },
+    {
+      "name": "baked fish fillet with herb/green sauce or crust",
+      "portion_estimate": "180 g",
+      "confidence": "62"
+    },
+    {
+      "name": "boiled potatoes (chunked)",
+      "portion_estimate": "130 g",
+      "confidence": "68"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "72"
+    },
+    {
+      "name": "sliced cheese (packaged)",
+      "portion_estimate": "25 g",
+      "confidence": "67"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "160 g",
+      "confidence": "76"
+    }
+  ]
+}

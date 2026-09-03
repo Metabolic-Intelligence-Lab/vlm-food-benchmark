@@ -1,0 +1,16 @@
+| Item | Name | Portion Size (g) | Confidence |
+|------|------|------------------|------------|
+| 1 | Bread roll | 100 | 90 |
+| 2 | Soup | 200 | 90 |
+| 3 | Baked dish | 150 | 90 |
+| 4 | Brussels sprouts | 50 | 85 |
+| 5 | Carrots | 100 | 85 |
+| 6 | Apples | 200 | 90 |
+
+**Explanation of each item:**
+- **Bread roll**: Identified as a bun in a plastic bag. Estimated weight is 100g (standard size for a bun). Confidence is 90 because it is clearly visible and identifiable.
+- **Soup**: Identified as a thick soup in a bowl. Estimated weight is 200g (based on the bowl size and typical soup volume). Confidence is 90 because it is clearly visible and identifiable.
+- **Baked dish**: Identified as a rectangular piece of food. Estimated weight is 150g (based on the appearance and typical portion size for a baked dish). Confidence is 90 because it is clearly visible and identifiable.
+- **Brussels sprouts**: Identified as a group of vegetables in the plate. Estimated weight is 50g (based on the number of sprouts and their typical weight). Confidence is 85 because it is visible but the portion size is estimated based on the plate.
+- **Carrots**: Identified as a group of carrots in the plate. Estimated weight is 100g (based on the number of carrots and their typical weight). Confidence is 85 because it is visible but the portion size is estimated based on the plate.
+- **Apples**: Identified as two whole apples. Estimated weight is 200g (based on the size of the apples). Confidence is 90 because it is clearly visible and identifiable.

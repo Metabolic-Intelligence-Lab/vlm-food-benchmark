@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "tomato halves with white sauce (possibly sour cream) and sprinkled with herbs",
+      "portion_estimate": "200 grams (each half ~100g)",
+      "confidence": 75
+    },
+    {
+      "name": "potato hash or diced potatoes",
+      "portion_estimate": "150 grams",
+      "confidence": 70
+    },
+    {
+      "name": "lettuce or mixed greens",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "baguette or dinner roll (wrapped in plastic)",
+      "portion_estimate": "80 grams (standard small roll)",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (small cup, plain or vanilla)",
+      "portion_estimate": "120 grams",
+      "confidence": 70
+    },
+    {
+      "name": "water (in clear glass)",
+      "portion_estimate": "uncertain (glass appears ~250ml)",
+      "confidence": 50
+    }
+  ]
+}

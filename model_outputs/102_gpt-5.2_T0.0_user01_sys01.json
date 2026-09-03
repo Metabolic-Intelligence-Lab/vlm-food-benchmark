@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (plain)",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "baked pasta casserole (cheesy, bow-tie pasta)",
+      "portion_estimate": "260 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked pork cutlet/chop with brown gravy and shredded garnish",
+      "portion_estimate": "160 g",
+      "confidence": "65"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "170 g",
+      "confidence": "75"
+    },
+    {
+      "name": "yogurt cup (strawberry/berry flavor)",
+      "portion_estimate": "150 g",
+      "confidence": "75"
+    },
+    {
+      "name": "string cheese stick",
+      "portion_estimate": "28 g",
+      "confidence": "85"
+    }
+  ]
+}

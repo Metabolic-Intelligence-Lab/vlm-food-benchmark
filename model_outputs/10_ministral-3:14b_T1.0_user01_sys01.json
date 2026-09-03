@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "creamy tomato-based soup with grated cheese topping",
+      "portion_estimate": "350",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potato wedges (fries)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "beef or meat croquette (small cylindrical shape, golden-brown)",
+      "portion_estimate": "30",
+      "confidence": 70
+    },
+    {
+      "name": "deviled eggs (half-sphere shape, pale green/yellow filling)",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "white roll or bread (partially wrapped in plastic)",
+      "portion_estimate": "80",
+      "confidence": 75
+    },
+    {
+      "name": "can of carbonated soda (partially visible, can only)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

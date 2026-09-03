@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Farfalle with pesto and parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "A broccoli burger",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "A sliced bun, possibly part of a sandwich or hamburger",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

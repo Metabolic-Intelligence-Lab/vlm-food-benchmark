@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese and meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "grapes or raisins",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "salad greens",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

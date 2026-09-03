@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "apple crisp",
+      "portion_estimate": "uncertain, approx. bowl size (250-350g)",
+      "confidence": "60"
+    },
+    {
+      "name": "mashed potatoes and gravy",
+      "portion_estimate": "approx. 180g mashed potato + unclear amount of gravy",
+      "confidence": "75"
+    },
+    {
+      "name": "roast chicken breast with berry sauce",
+      "portion_estimate": "uncertain, approx. plate size (200-300g)",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with lentils or beans in brown broth",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Fried meat patties with sauce and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Cooked greens (spinach or leafy vegetable) with red pepper flakes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Plastic packets (condiments or spices)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

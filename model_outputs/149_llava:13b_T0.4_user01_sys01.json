@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich and salad",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "pasta (macaroni or penne)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "200-300g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "25-50g",
+      "confidence": "70"
+    },
+    {
+      "name": "green vegetables",
+      "portion_estimate": "50-100g",
+      "confidence": "60"
+    }
+  ]
+}

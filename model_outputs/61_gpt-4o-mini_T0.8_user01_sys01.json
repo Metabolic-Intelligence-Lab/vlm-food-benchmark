@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pumpkin soup with cheese",
+      "portion_estimate": "250",
+      "confidence": "70"
+    },
+    {
+      "name": "potato cubes, roasted",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "omelette with vegetables",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "90"
+    }
+  ]
+}

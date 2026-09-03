@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "Baked fish fillet with herbs",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "Mixed green salad",
+      "portion_estimate": "80",
+      "confidence": "70"
+    },
+    {
+      "name": "Sliced bread (white)",
+      "portion_estimate": "50",
+      "confidence": "65"
+    }
+  ]
+}

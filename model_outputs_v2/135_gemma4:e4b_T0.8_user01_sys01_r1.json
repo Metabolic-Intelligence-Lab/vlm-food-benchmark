@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Mashed or cooked potatoes (base layer)",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "Savory ground mixture or casserole filling (reddish/orange)",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Thick, dark gravy or rich sauce topping",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    }
+  ]
+}

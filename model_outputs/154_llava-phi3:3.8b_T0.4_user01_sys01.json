@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "20g",
+      "confidence": "90"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "brussel sprouts",
+      "portion_estimate": "30g",
+      "confidence": "75"
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "purple grapes",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    }
+  ]
+}

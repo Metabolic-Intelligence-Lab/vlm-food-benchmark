@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Meatball",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Dessert",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

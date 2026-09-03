@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of tomato-based soup (vegetable soup)",
+      "portion_estimate": "300 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "clear glass of water",
+      "portion_estimate": "250 ml (250 grams)",
+      "confidence": "90"
+    },
+    {
+      "name": "bun or bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "mashed potatoes or creamy vegetable patty",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "braised greens (collard greens or spinach)",
+      "portion_estimate": "50 grams",
+      "confidence": "75"
+    }
+  ]
+}

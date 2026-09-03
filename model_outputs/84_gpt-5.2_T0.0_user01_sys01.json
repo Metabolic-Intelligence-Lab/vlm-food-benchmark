@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli with diced potatoes (cooked vegetable mix)",
+      "portion_estimate": "230 g",
+      "confidence": "75"
+    },
+    {
+      "name": "couscous (cooked)",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "tomato-based sauce (on top of couscous)",
+      "portion_estimate": "45 g",
+      "confidence": "60"
+    },
+    {
+      "name": "mixed vegetables (peas, carrots, potatoes, mushrooms)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "sliced bread/roll (brown, 1 slice)",
+      "portion_estimate": "40 g",
+      "confidence": "65"
+    },
+    {
+      "name": "butter portion (wrapped stick)",
+      "portion_estimate": "10 g",
+      "confidence": "55"
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "80"
+    }
+  ]
+}

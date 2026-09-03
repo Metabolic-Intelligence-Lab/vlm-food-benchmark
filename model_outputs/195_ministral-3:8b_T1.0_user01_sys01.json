@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with meat sauce (likely beef)",
+      "portion_estimate": "220-250g",
+      "confidence": 85
+    },
+    {
+      "name": "potato cubes/fries",
+      "portion_estimate": "150-180g",
+      "confidence": 85
+    },
+    {
+      "name": "ground meat patty (beef/turkey mix)",
+      "portion_estimate": "140-170g",
+      "confidence": 80
+    },
+    {
+      "name": "unsalted butter or oil (in small ramekin)",
+      "portion_estimate": "30g (approximate)",
+      "confidence": 60
+    },
+    {
+      "name": "water/clear liquid in glass",
+      "portion_estimate": "uncertain (small serving, ~150ml but unclear)",
+      "confidence": 50
+    }
+  ]
+}

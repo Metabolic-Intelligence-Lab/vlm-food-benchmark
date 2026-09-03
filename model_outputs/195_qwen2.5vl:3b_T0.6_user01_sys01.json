@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "ground beef",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "unspecified pasta dish",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

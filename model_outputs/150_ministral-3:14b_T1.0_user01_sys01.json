@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "plain baked bread loaf (whole)",
+      "portion_estimate": 250,
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta with olive oil, garlic, and grated cheese (serving)",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "diced mixed vegetables (potatoes, carrots, brussels sprouts)",
+      "portion_estimate": 180,
+      "confidence": 78
+    },
+    {
+      "name": "quiche or cheese-stuffed tart with saut\u00e9ed greens (serving)",
+      "portion_estimate": 130,
+      "confidence": 75
+    },
+    {
+      "name": "plum (whole, European-style)",
+      "portion_estimate": 50,
+      "confidence": 90
+    }
+  ]
+}

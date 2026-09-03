@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with green sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "meat",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "baked item (casserole or stuffed vegetable)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "fruit salad or mixed vegetable salad",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

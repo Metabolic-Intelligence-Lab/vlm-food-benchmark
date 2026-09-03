@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with pesto sauce and grated cheese",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Round yellow fruit with orange pieces on top (possibly a mango or papaya)",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Two dark-colored fruits (plums)",
+      "portion_estimate": "uncertain, very small",
+      "confidence": "40"
+    },
+    {
+      "name": "Sliced bread in a plastic bag",
+      "portion_estimate": "uncertain, approx. 150g per slice",
+      "confidence": "60"
+    }
+  ]
+}

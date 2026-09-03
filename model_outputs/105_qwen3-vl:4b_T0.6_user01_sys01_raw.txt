@@ -1,0 +1,24 @@
+The image contains the following distinct, visible food and beverage items:
+
+- **Radicchio**: Approximately 30 grams. Confidence in identification: 80%.  
+  *Radicchio is a specific type of leafy green, easily recognizable by its dark green color and slightly bitter taste. Its portion size is estimated based on typical serving sizes for salads.*
+
+- **Lettuce**: Approximately 40 grams. Confidence in identification: 80%.  
+  *Lettuce is a common leafy vegetable used in salads, identifiable by its crisp texture and light green color. The portion size is estimated from the visible amount in the dish.*
+
+- **Carrot**: Approximately 20 grams. Confidence in identification: 90%.  
+  *Carrot slices are easily distinguishable by their orange color and cylindrical shape. The portion size is estimated from the visible quantity in the salad.*
+
+- **Grilled Chicken**: Approximately 40 grams. Confidence in identification: 70%.  
+  *Grilled chicken is identifiable by its cooked appearance, texture, and the presence of char marks. The portion size is estimated based on the visible size of the chicken piece.*
+
+These items represent the primary components of the dish shown in the image, with portions and confidence levels reflecting typical observations in such contexts.
+
+\boxed{
+\begin{array}{c}
+\text{Radicchio: } 30\, \text{g} \quad (80\% \text{ confidence}) \\
+\text{Lettuce: } 40\, \text{g} \quad (80\% \text{ confidence}) \\
+\text{Carrot: } 20\, \text{g} \quad (90\% \text{ confidence}) \\
+\text{Grilled Chicken: } 40\, \text{g} \quad (70\% \text{ confidence})
+\end{array}
+}

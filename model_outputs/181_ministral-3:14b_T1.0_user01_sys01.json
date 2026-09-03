@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "plain spaghetti (dry, uncooked)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "cheese or potato croquette with pineapple chunks",
+      "portion_estimate": "90g",
+      "confidence": 85
+    },
+    {
+      "name": "grilled or breaded cheese and potato slice with pineapple toppings",
+      "portion_estimate": "110g",
+      "confidence": 80
+    },
+    {
+      "name": "shredded cheese",
+      "portion_estimate": "15g",
+      "confidence": 85
+    },
+    {
+      "name": "pan-fried potato slices or hash browns",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "pizza or sandwich-style bread bun (partially visible)",
+      "portion_estimate": "80g",
+      "confidence": 75
+    }
+  ]
+}

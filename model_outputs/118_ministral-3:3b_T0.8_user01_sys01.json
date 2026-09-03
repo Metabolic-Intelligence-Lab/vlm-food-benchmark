@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "parmesan fettuccine pasta",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "garlic-butter roasted potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small patty with tomato sauce (topping)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "frozen yogurt or ice cream cup (partially visible)",
+      "portion_estimate": "150 grams (estimated container size)",
+      "confidence": 70
+    },
+    {
+      "name": "pickle",
+      "portion_estimate": "25 grams (half a pickle)",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked pasta (short/flat pieces) with light sauce/oil",
+      "portion_estimate": "180 g",
+      "confidence": "62"
+    },
+    {
+      "name": "scrambled eggs or egg-based scramble (possibly with vegetables/meat)",
+      "portion_estimate": "140 g",
+      "confidence": "58"
+    },
+    {
+      "name": "round scoops of mashed potato or potato salad (2 pieces)",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll (small bun)",
+      "portion_estimate": "55 g",
+      "confidence": "78"
+    },
+    {
+      "name": "nectarine or peach (whole)",
+      "portion_estimate": "150 g",
+      "confidence": "63"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    }
+  ]
+}

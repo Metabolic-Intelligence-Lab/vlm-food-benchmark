@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "square savory pastry with greens filling",
+      "portion_estimate": "110 grams",
+      "confidence": "78"
+    },
+    {
+      "name": "vegetable or lentil soup with grated cheese topping",
+      "portion_estimate": "320 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "65 grams",
+      "confidence": "88"
+    },
+    {
+      "name": "cooked Brussels sprouts",
+      "portion_estimate": "115 grams",
+      "confidence": "92"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "155 grams",
+      "confidence": "95"
+    }
+  ]
+}

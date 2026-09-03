@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "plain bread roll (bun)",
+      "portion_estimate": "65 g",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed cabbage slaw (green and red cabbage, no visible dressing)",
+      "portion_estimate": "60 g",
+      "confidence": "75"
+    },
+    {
+      "name": "orange/mandarin (whole)",
+      "portion_estimate": "120 g",
+      "confidence": "65"
+    },
+    {
+      "name": "cooked leafy greens (spinach or similar)",
+      "portion_estimate": "70 g",
+      "confidence": "60"
+    },
+    {
+      "name": "crepe/pancake wrap filled with chocolate/hazelnut spread (folded)",
+      "portion_estimate": "95 g",
+      "confidence": "60"
+    }
+  ]
+}

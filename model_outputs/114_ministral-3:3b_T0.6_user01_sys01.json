@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "parboiled and fried penne pasta with grated cheese",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "baked potato wedges",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "sliced whole wheat bread",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "baby carrots (partially visible, in plastic packaging)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "grilled chicken breast (on the plate with potato wedges)",
+      "portion_estimate": "100",
+      "confidence": 85
+    }
+  ]
+}

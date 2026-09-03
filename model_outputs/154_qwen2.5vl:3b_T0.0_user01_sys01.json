@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "tomato",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green curry or stew in bowl",
+      "portion_estimate": "480 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "110 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "seasoned cubed croutons or polenta",
+      "portion_estimate": "90 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "dark purple/black relish or cooked cabbage",
+      "portion_estimate": "55 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted or breaded cubes",
+      "portion_estimate": "80 grams",
+      "confidence": "85"
+    }
+  ]
+}

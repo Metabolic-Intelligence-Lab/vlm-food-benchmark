@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "banana",
+      "portion_estimate": "118",
+      "confidence": "95"
+    },
+    {
+      "name": "roll/bun",
+      "portion_estimate": "80",
+      "confidence": "85"
+    },
+    {
+      "name": "romaine lettuce",
+      "portion_estimate": "80",
+      "confidence": "90"
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "50",
+      "confidence": "95"
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "30",
+      "confidence": "90"
+    },
+    {
+      "name": "mozzarella balls",
+      "portion_estimate": "25",
+      "confidence": "90"
+    },
+    {
+      "name": "tuna salad",
+      "portion_estimate": "85",
+      "confidence": "75"
+    }
+  ]
+}

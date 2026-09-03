@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "mixed pasta with cheese (macaroni with grated cheese)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "white bread roll or sandwich (whole wheat or similar)",
+      "portion_estimate": "70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "canned chickpeas (whole)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "packaged butter or margarine",
+      "portion_estimate": "uncertain (portion not visible)",
+      "confidence": 40
+    },
+    {
+      "name": "packaged cheese (sliced or block, partially visible)",
+      "portion_estimate": "uncertain (portion not clearly visible)",
+      "confidence": 50
+    },
+    {
+      "name": "fresh green pesto (on bread)",
+      "portion_estimate": "uncertain (small amount)",
+      "confidence": 55
+    },
+    {
+      "name": "plums (three whole)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    }
+  ]
+}

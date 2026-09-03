@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed vegetable salad with carrots, cucumber, and leafy greens",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Whole wheat roll",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "Steamed greens",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "Sweet potato with creamy topping",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "100",
+      "confidence": "70"
+    }
+  ]
+}

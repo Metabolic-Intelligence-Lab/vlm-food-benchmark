@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mixed cooked vegetables with green beans, carrots, and potatoes",
+      "portion_estimate": "90 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked diced orange vegetable, uncertain",
+      "portion_estimate": "120 grams",
+      "confidence": "55"
+    },
+    {
+      "name": "yellow couscous or grain pilaf with small vegetables and white chunks",
+      "portion_estimate": "170 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "packaged whole grain bread",
+      "portion_estimate": "60 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged yogurt cup",
+      "portion_estimate": "125 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "flatbread or tortilla wrap with cheese and chili/tomato filling",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "cheese, shredded or sliced (visible in wrap)",
+      "portion_estimate": "25",
+      "confidence": 75
+    },
+    {
+      "name": "red chili or tomato-based sauce/filling (visible)",
+      "portion_estimate": "15",
+      "confidence": 70
+    }
+  ]
+}

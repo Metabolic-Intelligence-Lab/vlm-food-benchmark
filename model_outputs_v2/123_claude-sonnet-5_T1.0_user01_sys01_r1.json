@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with grated parmesan cheese",
+      "portion_estimate": "180",
+      "confidence": 75
+    },
+    {
+      "name": "baked/fried potato wedges",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "savory frittata/omelette square (with vegetables)",
+      "portion_estimate": "100",
+      "confidence": 65
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150",
+      "confidence": 60
+    }
+  ]
+}

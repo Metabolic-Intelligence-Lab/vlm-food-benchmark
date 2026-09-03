@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken pieces (likely thigh or drumstick)",
+      "portion_estimate": "150 grams (left plate) + 100 grams (right plate) = 250 grams total",
+      "confidence": 85
+    },
+    {
+      "name": "broth-based soup with shredded chicken and vegetables (likely carrots, onions, and possibly potatoes)",
+      "portion_estimate": "300 grams",
+      "confidence": 80
+    },
+    {
+      "name": "raw potato (whole)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "sliced lemon (small portion)",
+      "portion_estimate": "30 grams",
+      "confidence": 75
+    },
+    {
+      "name": "condiment packet (likely soy sauce or similar)",
+      "portion_estimate": "uncertain (not consumed)",
+      "confidence": 50
+    }
+  ]
+}

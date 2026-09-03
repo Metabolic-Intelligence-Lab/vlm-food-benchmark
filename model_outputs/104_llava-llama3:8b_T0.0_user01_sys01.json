@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup with croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "peas and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Nesquik cup",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

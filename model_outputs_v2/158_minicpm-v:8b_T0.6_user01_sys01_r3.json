@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Small brown spherical sausage balls",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Sausage ball on plate with bread and tofu",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta salad with tomato sauce",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread roll in plastic wrap",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Yellow fruit on tray, possibly a lemon or pear",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    }
+  ]
+}

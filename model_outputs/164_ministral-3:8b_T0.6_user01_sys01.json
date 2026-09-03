@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup in bowl (likely split pea or similar thick soup with grated cheese)",
+      "portion_estimate": "350 grams",
+      "confidence": 85
+    },
+    {
+      "name": "fried plantain or banana chips",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll or baguette",
+      "portion_estimate": "70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt (YOMO, 125g container)",
+      "portion_estimate": "125 grams",
+      "confidence": 100
+    },
+    {
+      "name": "unclear shredded vegetable or cabbage salad (adjacent to fried plantain)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish (wide noodles with cheese topping)",
+      "portion_estimate": "180",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "110",
+      "confidence": "95"
+    },
+    {
+      "name": "Savory rolled pastry or quiche slice",
+      "portion_estimate": "90",
+      "confidence": "85"
+    },
+    {
+      "name": "Garden peas (cooked)",
+      "portion_estimate": "150",
+      "confidence": "90"
+    }
+  ]
+}

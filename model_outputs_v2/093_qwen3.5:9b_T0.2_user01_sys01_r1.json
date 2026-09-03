@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed white fish fillets (likely cod or hake)",
+      "portion_estimate": 150,
+      "confidence": 92
+    },
+    {
+      "name": "Cooked chickpeas",
+      "portion_estimate": 130,
+      "confidence": 95
+    },
+    {
+      "name": "Lemon wedge",
+      "portion_estimate": 10,
+      "confidence": 98
+    },
+    {
+      "name": "Whole wheat roll in plastic packaging",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Yoghurt pot (Sprintz brand)",
+      "portion_estimate": 125,
+      "confidence": 98
+    },
+    {
+      "name": "Bow-tie pasta with tomato and vegetable sauce",
+      "portion_estimate": 200,
+      "confidence": 94
+    },
+    {
+      "name": "Butter stick in wrapper",
+      "portion_estimate": 15,
+      "confidence": 85
+    }
+  ]
+}

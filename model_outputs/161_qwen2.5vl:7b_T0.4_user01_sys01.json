@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with tomato sauce and parmesan",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "Vegetable stir-fry",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "Spinach and cheese omelette",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50",
+      "confidence": "60"
+    }
+  ]
+}

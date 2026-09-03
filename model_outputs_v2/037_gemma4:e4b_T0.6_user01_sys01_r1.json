@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Marinated shredded vegetables (e.g., beets/cabbage)",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "Shredded red cabbage or salad mix",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Red apple",
+      "portion_estimate": "180g",
+      "confidence": "100"
+    },
+    {
+      "name": "Bread roll or small pastry",
+      "portion_estimate": "90g",
+      "confidence": "90"
+    },
+    {
+      "name": "Toasted bread with spinach/greens",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried egg",
+      "portion_estimate": "70g",
+      "confidence": "100"
+    },
+    {
+      "name": "Spaghetti or pasta",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    }
+  ]
+}

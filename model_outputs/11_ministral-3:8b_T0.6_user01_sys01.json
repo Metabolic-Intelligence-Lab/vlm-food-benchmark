@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "whole orange (peeled, partially visible)",
+      "portion_estimate": "120-150g",
+      "confidence": 85
+    },
+    {
+      "name": "sliced carrot",
+      "portion_estimate": "30-50g",
+      "confidence": 75
+    },
+    {
+      "name": "sliced raw cabbage with dressing",
+      "portion_estimate": "100-150g",
+      "confidence": 80
+    },
+    {
+      "name": "wrapped item resembling a baked potato or sweet potato",
+      "portion_estimate": "uncertain (likely 150-200g)",
+      "confidence": 60
+    },
+    {
+      "name": "kale or spinach leaves",
+      "portion_estimate": "50-80g",
+      "confidence": 85
+    },
+    {
+      "name": "piece of bread or flatbread with toppings",
+      "portion_estimate": "50-70g",
+      "confidence": 80
+    }
+  ]
+}

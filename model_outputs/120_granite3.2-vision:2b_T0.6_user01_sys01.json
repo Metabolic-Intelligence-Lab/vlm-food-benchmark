@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Borscht",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Whole Grain Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Sour Cream (condiment)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

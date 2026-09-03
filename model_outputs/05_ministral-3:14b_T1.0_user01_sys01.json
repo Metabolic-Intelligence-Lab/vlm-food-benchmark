@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "potato-leek soup",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "breaded and baked potato croquettes",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed potatoes (or diced potato pieces)",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt drink (orange-flavored)",
+      "portion_estimate": "150",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "portion_estimate": "75",
+      "confidence": "70"
+    },
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "Ham",
+      "portion_estimate": "25",
+      "confidence": "65"
+    },
+    {
+      "name": "Carrot Slices",
+      "portion_estimate": "15",
+      "confidence": "60"
+    },
+    {
+      "name": "Herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

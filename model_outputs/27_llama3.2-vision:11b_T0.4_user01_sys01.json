@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "meat with brown sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "cooked spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "penne pasta in tomato sauce with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red yogurt-like substance",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "cookie or biscuit",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

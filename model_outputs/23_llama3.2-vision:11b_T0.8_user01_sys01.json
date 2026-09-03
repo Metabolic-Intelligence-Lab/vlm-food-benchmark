@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Fish with Breaded Crust",
+      "portion_estimate": "approximately 120 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "approximately 250 milliliters",
+      "confidence": "95"
+    }
+  ]
+}

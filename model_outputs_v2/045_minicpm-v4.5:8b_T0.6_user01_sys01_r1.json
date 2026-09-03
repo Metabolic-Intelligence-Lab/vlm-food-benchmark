@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "shredded carrot salad",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "fried food (likely eggplant parmesan or similar)",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "white plate with burrata, green beans, corn, and tomato",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small cup of yogurt (Komo brand)",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "small bread roll (possibly a dinner roll)",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    }
+  ]
+}

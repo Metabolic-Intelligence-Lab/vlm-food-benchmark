@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cheesy pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Sausage balls",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Egg fritters",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Pretzel bun",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Apple with yogurt sauce",
+      "portion_estimate": "120g (apple), 40g (yogurt)",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Soupy dish with vegetables and possibly bread or a roll",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Circular food item with sauce",
+      "portion_estimate": "20 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Beverage",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    }
+  ]
+}

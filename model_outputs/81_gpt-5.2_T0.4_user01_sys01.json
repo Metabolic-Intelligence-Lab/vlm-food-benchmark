@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked spinach/leafy greens",
+      "portion_estimate": "150 g",
+      "confidence": "75"
+    },
+    {
+      "name": "breaded fried balls (likely arancini/croquettes), 2 pieces",
+      "portion_estimate": "140 g",
+      "confidence": "65"
+    },
+    {
+      "name": "plain flatbread/pancake-like bread (uncertain type)",
+      "portion_estimate": "90 g",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "70"
+    },
+    {
+      "name": "small fried snack pieces in plastic bag (uncertain)",
+      "portion_estimate": "70 g",
+      "confidence": "45"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "slice of pizza",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bowl of macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich wrapped in plastic",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "cup of water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

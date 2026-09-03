@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "breaded cutlet (likely chicken or fish)",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "saut\u00e9ed greens (such as spinach or kale)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    }
+  ]
+}

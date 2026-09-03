@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Rigatoni with red sauce and grated cheese",
+      "portion_estimate": "approximately 150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried chicken with seasoning",
+      "portion_estimate": "2 medium pieces",
+      "confidence": "70"
+    },
+    {
+      "name": "Brown basmati rice",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Sliced mango",
+      "portion_estimate": "approximately 2 slices",
+      "confidence": "70"
+    },
+    {
+      "name": "Rolls (possibly burger buns)",
+      "portion_estimate": "1 roll",
+      "confidence": "60"
+    },
+    {
+      "name": "Cooked chickpeas",
+      "portion_estimate": "approximately 150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken curry with sauce and rice",
+      "portion_estimate": "not visible",
+      "confidence": "0"
+    },
+    {
+      "name": "Mango slices on a plate",
+      "portion_estimate": "approximately 2 slices",
+      "confidence": "70"
+    }
+  ]
+}

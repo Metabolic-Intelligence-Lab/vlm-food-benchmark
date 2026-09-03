@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli florets with cheese sauce (small portion)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "diced potatoes (roasted or mashed-style)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "chicken breast (skinless, sliced)",
+      "portion_estimate": "180 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or multigrain bread (single slice, wrapped)",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (plain or vanilla, unsweetened)",
+      "portion_estimate": "uncertain (container size unclear, but likely ~150-170g)",
+      "confidence": 50
+    }
+  ]
+}

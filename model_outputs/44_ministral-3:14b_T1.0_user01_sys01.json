@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cucumber dill yogurt or tzatziki spread (3 round dollops with olives on top)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "sliced fresh tomato (3 slices)",
+      "portion_estimate": "80g",
+      "confidence": 90
+    },
+    {
+      "name": "fresh lettuce or mixed greens (small portion, ~10% of plate)",
+      "portion_estimate": "20g",
+      "confidence": 80
+    },
+    {
+      "name": "fried potato wedges or crisps (hearty serving)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "plain or garlic bread roll (wrapped in plastic)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "yogurt container (unopened, ~125g)",
+      "portion_estimate": "125g",
+      "confidence": 95
+    },
+    {
+      "name": "water (filled glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

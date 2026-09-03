@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with tomato sauce and grated cheese",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "plain white bread roll",
+      "portion_estimate": "40",
+      "confidence": 95
+    },
+    {
+      "name": "strawberry yogurt",
+      "portion_estimate": "125",
+      "confidence": 90
+    },
+    {
+      "name": "spinach and cheese savory pie (likely torta salata or quiche)",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "boiled or sauteed leafy greens with potato cubes",
+      "portion_estimate": "70",
+      "confidence": 85
+    }
+  ]
+}

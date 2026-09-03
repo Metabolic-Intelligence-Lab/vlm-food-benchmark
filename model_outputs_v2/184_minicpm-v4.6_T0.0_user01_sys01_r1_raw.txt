@@ -1,0 +1,26 @@
+{
+    "food_items": [
+        {
+            "name": "Bun (bread roll)",
+            "portion_estimate": "100 g",
+            "confidence": 80
+        },
+        {
+            "name": "Side salad",
+            "portion_estimate": "200 g",
+            "confidence": 70
+        },
+        {
+            "name": "Main course (baked dish with grains)",
+            "portion_estimate": "250 g",
+            "confidence": 60
+        },
+        {
+            "name": "Small bread or croissant with toppings",
+            "portion_estimate": "50 g",
+            "confidence": 90
+        },
+        {
+            "name": "Small fruit (plum)",
+            "portion_estimate": "10 g",
+            "confidence":

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli with potatoes",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "vegetable medley with carrots, peas, and potatoes",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded chicken cutlet with tomato sauce",
+      "portion_estimate": "120",
+      "confidence": "75"
+    },
+    {
+      "name": "whole grain bread slice",
+      "portion_estimate": "30",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Whole Wheat Bun or Bread Roll",
+      "portion_estimate": "110g",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried Protein Cutlet (e.g., fish or chicken)",
+      "portion_estimate": "130g",
+      "confidence": "85"
+    },
+    {
+      "name": "Rice or Grain Base",
+      "portion_estimate": "90g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed Green Salad",
+      "portion_estimate": "70g",
+      "confidence": "90"
+    }
+  ]
+}

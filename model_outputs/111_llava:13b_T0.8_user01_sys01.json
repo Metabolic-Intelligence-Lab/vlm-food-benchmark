@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta or noodle-based meal, possibly macaroni",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "saucy meatball or kofta dish",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cooked vegetables, salad, or bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "two slices of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

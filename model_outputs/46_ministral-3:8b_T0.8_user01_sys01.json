@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole roasted or baked potato (with skin)",
+      "portion_estimate": "uncertain (size reference only: ~180\u2013200g)",
+      "confidence": 60
+    },
+    {
+      "name": "baked or fried potato croquettes (2 pieces)",
+      "portion_estimate": "uncertain (~50g total)",
+      "confidence": 65
+    },
+    {
+      "name": "cream-based vegetable soup with grated cheese topping",
+      "portion_estimate": "200g (approximate bowl size)",
+      "confidence": 80
+    },
+    {
+      "name": "single-serving yogurt (Yomo brand, 125g)",
+      "portion_estimate": "125g",
+      "confidence": 100
+    },
+    {
+      "name": "raw shredded lettuce or coleslaw mix",
+      "portion_estimate": "100\u2013120g",
+      "confidence": 75
+    }
+  ]
+}

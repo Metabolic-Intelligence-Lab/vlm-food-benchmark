@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "baked falafel",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "spinach salad",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    }
+  ]
+}

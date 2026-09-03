@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed side salad/relish (red cabbage, carrots, sauce)",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "pasta dish (spaghetti with sauce)",
+      "portion_estimate": "300g",
+      "confidence": "95"
+    },
+    {
+      "name": "bruschetta or open-faced bread with tomato topping",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "small bread roll or side bread",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "water or clear beverage",
+      "portion_estimate": "300g",
+      "confidence": "95"
+    }
+  ]
+}

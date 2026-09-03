@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "Bun roll (half)",
+      "portion_estimate": "40",
+      "confidence": 90
+    },
+    {
+      "name": "Stir-fried rice and mixed vegetables",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "130",
+      "confidence": 95
+    },
+    {
+      "name": "Water (two glasses)",
+      "portion_estimate": "600",
+      "confidence": 95
+    }
+  ]
+}

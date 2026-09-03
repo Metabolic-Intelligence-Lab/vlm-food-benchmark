@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "300",
+      "confidence": "85"
+    },
+    {
+      "name": "parmesan cheese",
+      "portion_estimate": "10",
+      "confidence": "80"
+    },
+    {
+      "name": "corn cake with tomato",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "cream cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "sugar packets",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup (pureed, possibly pea/lentil) with grated cheese topping",
+      "portion_estimate": "320 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked beef/pork patty (hamburger-style) topped with shredded zucchini/vegetables",
+      "portion_estimate": "110 g",
+      "confidence": "65"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "180 g",
+      "confidence": "78"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "75"
+    },
+    {
+      "name": "ice pop / frozen juice bar (packaged, likely fruit-flavored)",
+      "portion_estimate": "70 g",
+      "confidence": "55"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "Rice and vegetable dish",
+      "portion_estimate": "200 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Rice and vegetable mixture",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

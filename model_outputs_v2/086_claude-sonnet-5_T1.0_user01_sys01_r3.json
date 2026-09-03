@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet (mackerel)",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "rigatoni pasta with parmesan and herbs",
+      "portion_estimate": "180",
+      "confidence": 70
+    },
+    {
+      "name": "black plums",
+      "portion_estimate": "80",
+      "confidence": 70
+    },
+    {
+      "name": "grated or shredded cheese (uncertain type)",
+      "portion_estimate": "60",
+      "confidence": 45
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": 65
+    },
+    {
+      "name": "butter portion (packaged)",
+      "portion_estimate": "10",
+      "confidence": 55
+    }
+  ]
+}

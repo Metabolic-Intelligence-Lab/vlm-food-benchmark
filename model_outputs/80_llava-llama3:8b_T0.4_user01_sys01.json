@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "scrambled eggs and sausage",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "slice of pizza topped with cheese and spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "hash browns and meat",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "instant noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

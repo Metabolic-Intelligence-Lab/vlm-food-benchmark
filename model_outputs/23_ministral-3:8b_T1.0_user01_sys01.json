@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "yellow fish portion (e.g., cod or tilapia) with sauce",
+      "portion_estimate": "120-150g",
+      "confidence": 80
+    },
+    {
+      "name": "mixed shredded vegetables (possibly cabbage/potatoes)",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "whole lemon slice (possibly garnish)",
+      "portion_estimate": "30g",
+      "confidence": 60
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "150-180g (cooked)",
+      "confidence": 75
+    },
+    {
+      "name": "small tub of yogurt (unspecified flavor)",
+      "portion_estimate": "100-120g",
+      "confidence": 70
+    },
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

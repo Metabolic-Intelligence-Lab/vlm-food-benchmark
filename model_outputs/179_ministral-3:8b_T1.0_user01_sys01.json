@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce (appears to be penne or similar short pasta)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "broccoli florets",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "ground meat or minced chicken/turkey (possibly chicken, pinkish)",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "whole orange (or similarly-sized citrus fruit)",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "whole white bread roll or bun",
+      "portion_estimate": "uncertain (likely 70-100 grams)",
+      "confidence": 50
+    }
+  ]
+}

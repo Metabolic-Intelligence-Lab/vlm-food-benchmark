@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain, approx. weight estimated at <100g",
+      "confidence": "65"
+    },
+    {
+      "name": "Mozzarella cheese slice",
+      "portion_estimate": "uncertain, approx. weight estimated at 30-40g",
+      "confidence": "70"
+    },
+    {
+      "name": "Whole grain brown bread roll (in plastic bag)",
+      "portion_estimate": "uncertain, approx. weight estimated at <150g",
+      "confidence": "65"
+    },
+    {
+      "name": "Dairy yogurt pot",
+      "portion_estimate": "uncertain, approx. weight estimated at 240-300g",
+      "confidence": "75"
+    },
+    {
+      "name": "Penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "approximate portion size for a serving of penne is about half the plate, approx. weight estimated at 180-240g",
+      "confidence": "95"
+    },
+    {
+      "name": "Garlic bread with tomato sauce and grated cheese",
+      "portion_estimate": "approximate portion size for a serving of garlic toast is about half the plate, approx. weight estimated at 180-240g",
+      "confidence": "95"
+    },
+    {
+      "name": "Mixed vegetables (green zucchini and yellow peppers)",
+      "portion_estimate": "approximate portion size for a serving of mixed vegetables is about half the plate, approx. weight estimated at 180-240g",
+      "confidence": "95"
+    }
+  ]
+}

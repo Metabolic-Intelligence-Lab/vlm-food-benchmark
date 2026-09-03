@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "plate of food",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "sliced watermelon",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "macaroni and cheese with chicken",
+      "portion_estimate": "120g",
+      "confidence": "93"
+    }
+  ]
+}

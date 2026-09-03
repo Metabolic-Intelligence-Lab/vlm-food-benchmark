@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce (likely penne)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "broccoli florets",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "tuna salad or mixed seafood",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "whole lemon",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll or bun (wrapped in plastic)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

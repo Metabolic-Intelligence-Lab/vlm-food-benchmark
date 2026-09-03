@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken Broth Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Burger with Lettuce, Tomato, Cheese, and Fries",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Muffin with Orange Frosting",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Salad (Lettuce and Greens)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Yoplait Yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

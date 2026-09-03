@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green vegetable soup (e.g., spinach or broccoli chowder) with grated cheese topping",
+      "portion_estimate": 450,
+      "confidence": 90
+    },
+    {
+      "name": "Dried bread roll in plastic wrapper",
+      "portion_estimate": 85,
+      "confidence": 92
+    },
+    {
+      "name": "Small fruit yogurt cup (red lid)",
+      "portion_estimate": 140,
+      "confidence": 85
+    },
+    {
+      "name": "Mushroom-based dumpling with green sauce and white cream filling",
+      "portion_estimate": 130,
+      "confidence": 70
+    },
+    {
+      "name": "Saut\u00e9ed diced vegetables (peppers/zucchini) in tomato sauce",
+      "portion_estimate": 120,
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Farfalle pasta with parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Scrambled eggs with vegetables (carrots, peas)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

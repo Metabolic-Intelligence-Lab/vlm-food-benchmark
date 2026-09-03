@@ -1,0 +1,15 @@
+{
+  "food_items": [
+    {
+      "name": "pavlova with topping",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "vanilla cake or sponge cake slice",
+      "portion_estimate": "113–150 grams" /* ~1 slice of standard 125–150g cake based on visual reference to typical proportions on a plate */
+      ,
+      "confidence": 85
+    }
+  ]
+}

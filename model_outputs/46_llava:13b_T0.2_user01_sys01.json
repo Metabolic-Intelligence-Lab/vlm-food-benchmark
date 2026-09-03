@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chickpea soup",
+      "portion_estimate": "200g",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "salad with greens and berries",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "crispy breaded cakes",
+      "portion_estimate": "150g",
+      "confidence": "40"
+    }
+  ]
+}

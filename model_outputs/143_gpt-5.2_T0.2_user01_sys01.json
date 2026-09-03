@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed/boiled broccoli (possibly with herbs/seasoning)",
+      "portion_estimate": "160 g",
+      "confidence": "68"
+    },
+    {
+      "name": "diced cooked potatoes (seasoned)",
+      "portion_estimate": "170 g",
+      "confidence": "75"
+    },
+    {
+      "name": "white fish fillet (cooked, plain/with light sauce)",
+      "portion_estimate": "140 g",
+      "confidence": "66"
+    },
+    {
+      "name": "whole grain bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "72"
+    },
+    {
+      "name": "strawberry/fruit yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "80"
+    }
+  ]
+}

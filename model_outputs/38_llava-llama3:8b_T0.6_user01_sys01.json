@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "breakfast potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 95
+    },
+    {
+      "name": "cup of coffee",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    }
+  ]
+}

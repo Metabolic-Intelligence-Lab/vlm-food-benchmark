@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed rice",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "baked fish",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "shell pasta (e.g., shell macaroni) with tomato-based sauce and cheese",
+      "portion_estimate": "300",
+      "confidence": 90
+    },
+    {
+      "name": "tomato sauce (visible mixed with pasta)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "shredded cheese (e.g., mozzarella or cheddar)",
+      "portion_estimate": "30",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad (lettuce, shredded carrot, cucumber slices, likely dressing)",
+      "portion_estimate": "150 g",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked leafy greens (spinach or similar)",
+      "portion_estimate": "140 g",
+      "confidence": "72"
+    },
+    {
+      "name": "small open-faced sandwich on bun with pale spread (butter/cream cheese) and brown sauce",
+      "portion_estimate": "85 g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll (in plastic)",
+      "portion_estimate": "55 g",
+      "confidence": "88"
+    },
+    {
+      "name": "red plums (3 whole)",
+      "portion_estimate": "180 g",
+      "confidence": "86"
+    }
+  ]
+}

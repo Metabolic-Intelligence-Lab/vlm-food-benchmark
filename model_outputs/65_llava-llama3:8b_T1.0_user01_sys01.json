@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "burger",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "candy",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

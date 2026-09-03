@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "uncertain, approx. several florets",
+      "confidence": "50"
+    },
+    {
+      "name": "Biscuit with Seeds",
+      "portion_estimate": "1 biscuit (approx 40g)",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta with Cheese and Nuts",
+      "portion_estimate": "uncertain, approx. half a plate",
+      "confidence": "50"
+    },
+    {
+      "name": "White Bread (Sliced)",
+      "portion_estimate": "uncertain, several slices on the tray",
+      "confidence": "50"
+    }
+  ]
+}

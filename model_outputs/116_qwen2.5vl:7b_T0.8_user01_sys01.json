@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable Soup",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Feta Cheese",
+      "portion_estimate": "20g",
+      "confidence": 80
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "Flatbread",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "120g",
+      "confidence": 60
+    }
+  ]
+}

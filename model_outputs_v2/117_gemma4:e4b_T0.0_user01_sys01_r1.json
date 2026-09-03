@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Assorted bread rolls in plastic bag",
+      "portion_estimate": "180",
+      "confidence": "95"
+    },
+    {
+      "name": "Greenish-brown curry or stew with yellow topping",
+      "portion_estimate": "320",
+      "confidence": "90"
+    },
+    {
+      "name": "Shredded light-colored protein (e.g., chicken or fish)",
+      "portion_estimate": "90",
+      "confidence": "75"
+    },
+    {
+      "name": "Dark red sauce or relish",
+      "portion_estimate": "35",
+      "confidence": "85"
+    },
+    {
+      "name": "Greenish-brown croquette or patty",
+      "portion_estimate": "80",
+      "confidence": "70"
+    }
+  ]
+}

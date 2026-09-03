@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes (with gravy)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "shredded chicken (likely in gravy)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or boiled cabbage/coleslaw",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "small whole roasted carrot",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "small bread roll or dinner roll (packaged)",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "small clear glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

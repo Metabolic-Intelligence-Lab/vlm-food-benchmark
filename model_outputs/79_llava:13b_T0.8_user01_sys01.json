@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice",
+      "portion_estimate": "100g to 200g",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "Pasta dish with a sauce and what appears to be chunks of meat or vegetables",
+      "portion_estimate": "150g to 250g",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "Sandwich",
+      "portion_estimate": "100g to 200g",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "Nuts (possibly almonds)",
+      "portion_estimate": "30g",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "Fruit (pomegranate or similar type of fruit)",
+      "portion_estimate": "150g to 200g",
+      "confidence": "uncertain"
+    }
+  ]
+}

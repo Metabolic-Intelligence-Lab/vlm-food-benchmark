@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta in sauce",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "steamed green leafy vegetables (likely spinach or kale)",
+      "portion_estimate": 100,
+      "confidence": 90
+    },
+    {
+      "name": "garlic-cornish chutney topping on a piece of cornish hen",
+      "portion_estimate": 40,
+      "confidence": 85
+    },
+    {
+      "name": "plastic-wrapped sandwich or bread product",
+      "portion_estimate": 100,
+      "confidence": 75
+    },
+    {
+      "name": "orange cherry tomatoes",
+      "portion_estimate": 40,
+      "confidence": 80
+    }
+  ]
+}

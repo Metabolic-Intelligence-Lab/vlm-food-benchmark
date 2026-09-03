@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Onion Slice",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "Rice with Sauce",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "Strawberry Yogurt",
+      "portion_estimate": "125",
+      "confidence": 90
+    }
+  ]
+}

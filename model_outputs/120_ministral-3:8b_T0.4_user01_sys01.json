@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried cauliflower florets (approx. 150g)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "fried cutlet (likely chicken or fish, approx. 120g)",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "creamy soup with cheese topping (approx. 300g)",
+      "portion_estimate": "300",
+      "confidence": 75
+    },
+    {
+      "name": "single-serving yogurt with honey (Yoplait, approx. 150g)",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "packaged crackers or breadsticks (approx. 50g)",
+      "portion_estimate": "50",
+      "confidence": 70
+    }
+  ]
+}

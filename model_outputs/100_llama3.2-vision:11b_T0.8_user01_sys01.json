@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100-150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "20-30g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cucumber",
+      "portion_estimate": "50-70g",
+      "confidence": "90"
+    }
+  ]
+}

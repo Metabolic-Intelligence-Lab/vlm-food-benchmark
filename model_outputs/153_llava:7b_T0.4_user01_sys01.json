@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta with cheese and sauce",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "Breaded chicken breast",
+      "portion_estimate": "150g",
+      "confidence": "75"
+    },
+    {
+      "name": "Green salad with dressing",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sliced pear",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ]
+}

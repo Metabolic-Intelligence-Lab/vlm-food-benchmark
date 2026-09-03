@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Beans in sauce",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Egg with vegetables",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    }
+  ]
+}

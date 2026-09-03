@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "gnappi dish (pasta with beans and cheese)",
+      "portion_estimate": "150 g",
+      "confidence": 80
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "250 g",
+      "confidence": 70
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "150 g",
+      "confidence": 80
+    },
+    {
+      "name": "bread rolls",
+      "portion_estimate": "50 g",
+      "confidence": 70
+    },
+    {
+      "name": "small container of butter or cheese",
+      "portion_estimate": "20 g",
+      "confidence": 60
+    }
+  ]
+}

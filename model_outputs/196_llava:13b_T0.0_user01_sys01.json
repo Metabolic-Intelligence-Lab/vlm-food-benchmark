@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "dark-colored sauce or soup (possibly curry)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "small packet (condiment or seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "cooked meat (possibly chicken or pork)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "nuts (possibly cashews)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "bean (possibly kidney beans)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

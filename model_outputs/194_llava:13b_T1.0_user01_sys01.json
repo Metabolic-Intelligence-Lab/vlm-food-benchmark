@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Stew or Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Cooked Greens or Spinach with Protein",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Wrapped Portion (Main Course or Dessert)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Water with Ice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

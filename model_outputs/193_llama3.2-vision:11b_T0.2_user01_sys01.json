@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "300-400g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50-100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Hash Browns",
+      "portion_estimate": "100-200g",
+      "confidence": "70"
+    }
+  ]
+}

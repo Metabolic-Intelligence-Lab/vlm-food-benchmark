@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "slice of watermelon",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "cooked leafy greens (possibly spinach)",
+      "portion_estimate": "70",
+      "confidence": 85
+    },
+    {
+      "name": "breaded cutlet (possible chicken or veal)",
+      "portion_estimate": "90",
+      "confidence": 85
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250",
+      "confidence": 95
+    }
+  ]
+}

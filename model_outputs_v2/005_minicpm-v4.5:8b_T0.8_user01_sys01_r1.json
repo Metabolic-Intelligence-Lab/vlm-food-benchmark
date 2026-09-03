@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "yellow soup (possibly pumpkin or squash soup)",
+      "portion_estimate": "250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "cheese crumbles on soup",
+      "portion_estimate": "10 grams",
+      "confidence": 80
+    },
+    {
+      "name": "hasselback potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "fried potato nuggets (likely hash browns or similar)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small container of yogurt or pudding (red cap)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "single slice of bread (possibly whole grain or multigrain)",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    }
+  ]
+}

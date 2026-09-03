@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potato",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "vegetable medley (carrots, peas, zucchini, mushrooms)",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "243.7g",
+      "confidence": "80"
+    }
+  ]
+}

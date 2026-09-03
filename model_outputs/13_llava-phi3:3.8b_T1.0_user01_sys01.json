@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Spinach and cheese ravioli",
+      "portion_estimate": "65g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta with pesto sauce",
+      "portion_estimate": "72g",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried fish patty",
+      "portion_estimate": "45g",
+      "confidence": "65"
+    },
+    {
+      "name": "Spinach with cheese and pasta sauce",
+      "portion_estimate": "80g",
+      "confidence": "75"
+    }
+  ]
+}

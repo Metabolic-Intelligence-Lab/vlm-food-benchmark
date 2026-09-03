@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (Macaroni)",
+      "portion_estimate": "200-300g",
+      "confidence": "95"
+    },
+    {
+      "name": "Grated Cheese",
+      "portion_estimate": "uncertain, estimate 1 small handful or ~60g",
+      "confidence": "75"
+    },
+    {
+      "name": "Bread (Unsliced)",
+      "portion_estimate": "2-3 slices of typical sandwich bread, approximately 80g each",
+      "confidence": "90"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "uncertain but likely a medium-sized pear weighing about 150g",
+      "confidence": "70"
+    }
+  ]
+}

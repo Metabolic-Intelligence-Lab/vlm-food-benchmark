@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spicy soup",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "50"
+    },
+    {
+      "name": "steamed greens with sauce",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "40"
+    }
+  ]
+}

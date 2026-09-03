@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and parmesan",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baked sweet potato with tomato sauce and parmesan",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed vegetables (possibly potatoes and zucchini)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "unidentified bread",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    }
+  ]
+}

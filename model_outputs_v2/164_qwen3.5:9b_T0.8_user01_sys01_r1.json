@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli soup (creamy, green) with grated cheese and croutons",
+      "portion_estimate": 350,
+      "confidence": 95
+    },
+    {
+      "name": "Rolli bread roll / bun in plastic packaging",
+      "portion_estimate": 140,
+      "confidence": 90
+    },
+    {
+      "name": "YOMO brand fruit dessert cup (looks like apricot or peach with yogurt/cream)",
+      "portion_estimate": 125,
+      "confidence": 98
+    },
+    {
+      "name": "Breaded meat cutlet (schnitzel or kotelet) served on a plate",
+      "portion_estimate": 200,
+      "confidence": 90
+    },
+    {
+      "name": "Fried potato slices / chips placed on the meat cutlet",
+      "portion_estimate": 35,
+      "confidence": 85
+    },
+    {
+      "name": "Cauliflower gratin or baked vegetable dish (light yellow/brown)",
+      "portion_estimate": 180,
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "prosciutto-wrapped melon slice",
+      "portion_estimate": "80",
+      "confidence": "65"
+    },
+    {
+      "name": "roasted broccoli florets",
+      "portion_estimate": "90",
+      "confidence": "80"
+    },
+    {
+      "name": "vegetable and legume soup with grated cheese",
+      "portion_estimate": "300",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "70"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150",
+      "confidence": "60"
+    }
+  ]
+}

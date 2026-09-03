@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green leaf salad (lettuce) with vinaigrette/seasoning",
+      "portion_estimate": "110 g",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked diced potatoes (roasted/fried cubes)",
+      "portion_estimate": "170 g",
+      "confidence": "80"
+    },
+    {
+      "name": "vegetable patty/burger with yellow cheese sauce",
+      "portion_estimate": "140 g",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll (white bun)",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "strawberry-flavored yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    }
+  ]
+}

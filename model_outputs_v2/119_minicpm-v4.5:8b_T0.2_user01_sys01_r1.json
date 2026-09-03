@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi with tomato sauce and grated cheese",
+      "portion_estimate": "200-250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "lentil soup",
+      "portion_estimate": "200-250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Yomo yogurt (125 ml)",
+      "portion_estimate": "125 grams",
+      "confidence": "100"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200-250 ml",
+      "confidence": "100"
+    }
+  ]
+}

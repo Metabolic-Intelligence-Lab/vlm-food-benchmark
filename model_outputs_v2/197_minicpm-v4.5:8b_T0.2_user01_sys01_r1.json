@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta dish (likely chicken and pasta in tomato sauce)",
+      "portion_estimate": "200-250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "100-120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "meatballs in sauce",
+      "portion_estimate": "50-70 grams",
+      "confidence": 85
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "120 grams",
+      "confidence": 95
+    },
+    {
+      "name": "bun or roll (possibly a bread roll or small loaf)",
+      "portion_estimate": "50-70 grams",
+      "confidence": 80
+    }
+  ]
+}

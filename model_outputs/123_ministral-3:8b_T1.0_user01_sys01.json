@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese (pappardelle or fettuccine)",
+      "portion_estimate": "180 grams",
+      "confidence": 75
+    },
+    {
+      "name": "french fries or potato wedges",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "omelette or baked egg dish with potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "uncertain (no visible scale reference)",
+      "confidence": 0
+    },
+    {
+      "name": "ripe banana",
+      "portion_estimate": "uncertain (whole banana, likely ~130\u2013150 grams based on average length but not verifiable)",
+      "confidence": 70
+    },
+    {
+      "name": "melted butter or butter sachet",
+      "portion_estimate": "uncertain (less than 30 grams, partial sachet visible)",
+      "confidence": 65
+    },
+    {
+      "name": "mayo packet",
+      "portion_estimate": "uncertain (standard packet ~10\u201315g, less than full)",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried chicken pieces in spicy sauce",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried broccoli",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried meatballs",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Tangerine",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60g",
+      "confidence": "90"
+    }
+  ]
+}

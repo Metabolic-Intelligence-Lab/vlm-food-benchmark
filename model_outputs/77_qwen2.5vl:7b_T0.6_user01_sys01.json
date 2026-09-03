@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Fish Fillet",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Broccoli and Potato Stir-Fry",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Red Kidney Beans",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    }
+  ]
+}

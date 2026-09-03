@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green Brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Dark leafy greens, possibly spinach or kale",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Fried fish fillet with sesame seeds",
+      "portion_estimate": "120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Two purple plums or grapes, unpeeled",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

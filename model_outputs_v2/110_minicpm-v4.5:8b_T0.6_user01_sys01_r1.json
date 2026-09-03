@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup (likely lentil or vegetable soup with grated cheese)",
+      "portion_estimate": "300-400 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small loaf of bread (in plastic bag)",
+      "portion_estimate": "50-100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "vegetable quiche or savory pastry (square)",
+      "portion_estimate": "100-150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetables (green peas and sliced carrots)",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "plum (or similar dark fruit)",
+      "portion_estimate": "70 grams",
+      "confidence": 90
+    }
+  ]
+}

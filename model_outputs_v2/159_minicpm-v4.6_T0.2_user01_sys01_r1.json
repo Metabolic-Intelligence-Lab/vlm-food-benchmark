@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pignoli pasta with grated cheese",
+      "portion_estimate": "200 g",
+      "confidence": 95
+    },
+    {
+      "name": "vegetable and potato mixture",
+      "portion_estimate": "150 g (crust) + 50 g (potatoes)",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100 g",
+      "confidence": 80
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "50 g",
+      "confidence": 90
+    }
+  ]
+}

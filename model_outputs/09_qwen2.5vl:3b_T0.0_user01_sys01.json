@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "crispy fried vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "crispy breaded meat",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "potato cubes",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Shredded meat in sauce",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Mashed potatoes with a bit of gravy on top",
+      "portion_estimate": "200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Fried rice with seasoning",
+      "portion_estimate": "150g",
+      "confidence": "40"
+    }
+  ]
+}

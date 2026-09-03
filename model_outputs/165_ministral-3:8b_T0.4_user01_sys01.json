@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "creamy soup (likely lentil or split pea) in bowl",
+      "portion_estimate": "400 grams",
+      "confidence": 85
+    },
+    {
+      "name": "bun or roll (plain)",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "grilled or pan-fried meat patty (likely beef or chicken) with coleslaw",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potato or sweet potato",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "butter or margarine packet (unopened)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "condiment packet (likely salt or pepper)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "condiment packet (likely sweetener or sugar)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

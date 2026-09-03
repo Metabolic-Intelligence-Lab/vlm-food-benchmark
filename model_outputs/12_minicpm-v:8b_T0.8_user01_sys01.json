@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green leafy vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Cooked egg on a plate with French fries",
+      "portion_estimate": "150g fried potatoes and 2-3 slices of potato, approx. an average size egg",
+      "confidence": "80"
+    },
+    {
+      "name": "Whole wheat English muffin (bagel)",
+      "portion_estimate": "uncertain but typically around 60-90 grams for a standard bagel",
+      "confidence": "50"
+    },
+    {
+      "name": "White cup with unclear contents, possibly milk or water",
+      "portion_estimate": "uncertain - could be approx. 240ml (standard glass) of liquid",
+      "confidence": "60"
+    },
+    {
+      "name": "Red yogurt container",
+      "portion_estimate": "15g cup size standard for most brands, typically contains around half a serving per container depending on brand and type.",
+      "confidence": "80"
+    }
+  ]
+}

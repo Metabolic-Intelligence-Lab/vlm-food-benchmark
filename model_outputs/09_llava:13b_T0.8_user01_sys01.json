@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fish and Chips",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Baked Macaroni and Cheese",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green Salad with Dressing",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }
+  ]
+}

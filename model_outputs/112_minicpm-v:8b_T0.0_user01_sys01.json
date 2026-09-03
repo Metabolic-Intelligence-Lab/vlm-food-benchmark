@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with pesto",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Brussel sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Cheese on a plate (possibly cheddar)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "A slice of cheese with holes, possibly Swiss or Gruyere",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Cheesecake (or a similar dessert)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "White bread roll",
+      "portion_estimate": "uncertain, approx. weight of a standard white bread roll (100g)",
+      "confidence": "50"
+    },
+    {
+      "name": "Salad with red cabbage and carrots",
+      "portion_estimate": "uncertain, approx. 200-300g",
+      "confidence": "60"
+    },
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": "uncertain, approx. weight of a standard serving (150g)",
+      "confidence": "70"
+    },
+    {
+      "name": "Grilled chicken breast topped with tomatoes and basil",
+      "portion_estimate": "uncertain, approx. 80-90g",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt (Spartizy)",
+      "portion_estimate": "uncertain, approx. weight of a standard yogurt container (150g)",
+      "confidence": "50"
+    }
+  ]
+}

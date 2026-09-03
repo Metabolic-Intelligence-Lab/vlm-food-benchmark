@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "slice of yellow cake",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "spaghetti and meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "cornflakes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

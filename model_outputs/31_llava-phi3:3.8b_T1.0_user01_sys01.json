@@ -1,0 +1,40 @@
+{
+  "tray": [
+    {
+      "food_items": [
+        {
+          "name": "plate of pasta with pesto sauce",
+          "portion_estimate": "120 grams"
+        },
+        {
+          "name": "white bowl filled with a mixture of chicken and broccoli",
+          "portion_estimate": "80 grams"
+        },
+        {
+          "name": "yellow banana"
+        },
+        {
+          "name": "plates containing green beans",
+          "portion_estimate": "160 grams"
+        }
+      ],
+      "location": [
+        "top left corner",
+        "bottom left corner",
+        "bottom right corner",
+        "top center"
+      ]
+    },
+    {
+      "food_items": [
+        {
+          "name": "a clear cup with a straw in it",
+          "portion_estimate": "60 ml"
+        }
+      ],
+      "location": [
+        "top right corner"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish with herb butter",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed sweet potatoes",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "steamed green beans with herbs",
+      "portion_estimate": "30g",
+      "confidence": "80"
+    },
+    {
+      "name": "grilled vegetable skewer",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "baked chicken salad",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    }
+  ]
+}

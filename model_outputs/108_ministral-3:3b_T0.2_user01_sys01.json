@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "ground beef or meat sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pasta shells",
+      "portion_estimate": "150 grams (approximate based on visual density)",
+      "confidence": 85
+    },
+    {
+      "name": "shredded cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

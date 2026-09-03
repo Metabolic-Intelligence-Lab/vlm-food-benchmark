@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken",
+      "portion_estimate": "80-100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "pasta salad",
+      "portion_estimate": "200-250 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "fried potatoes",
+      "portion_estimate": "150-200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "30-40 grams",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Orange",
+      "portion_estimate": "120 g",
+      "confidence": 100
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 g",
+      "confidence": 100
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "150 g",
+      "confidence": 100
+    },
+    {
+      "name": "Meatballs",
+      "portion_estimate": "100 g",
+      "confidence": 100
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "Penne pasta",
+      "portion_estimate": "180g",
+      "confidence": 80
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "30g",
+      "confidence": 70
+    },
+    {
+      "name": "Zucchini",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "20g",
+      "confidence": 70
+    },
+    {
+      "name": "Grapes",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "100g",
+      "confidence": 80
+    }
+  ]
+}

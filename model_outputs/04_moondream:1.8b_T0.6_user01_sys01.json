@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "lettuce",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

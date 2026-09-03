@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "meat patty with sauce and shredded vegetables",
+      "portion_estimate": "100-150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "bowtie pasta (fusilli)",
+      "portion_estimate": "200-250 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "small portion of pasta (possibly gnocchi or small pasta)",
+      "portion_estimate": "50-100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50-70 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": "90"
+    }
+  ]
+}

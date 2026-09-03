@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green soup or vegetable broth",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "slices of light-colored meat, possibly chicken or pork",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread or pastry pieces",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "small plate with additional green sauce or dressing",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "wrapped piece of what appears to be fruit or vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

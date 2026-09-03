@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "French fries",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Grilled chicken breast with potato wedges and sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain bread slice",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt with fruit pieces and granola",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

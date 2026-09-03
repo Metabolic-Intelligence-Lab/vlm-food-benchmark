@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Green soup (likely lentil or pea) with grated cheese",
+      "portion_estimate": 350,
+      "confidence": 90
+    },
+    {
+      "name": "Yellow corn-based fritter or cake topped with tomato slice",
+      "portion_estimate": 120,
+      "confidence": 85
+    },
+    {
+      "name": "Side dish of pasta (penne) with sauce and vegetables",
+      "portion_estimate": 130,
+      "confidence": 90
+    },
+    {
+      "name": "Whole wheat bread roll in plastic packaging",
+      "portion_estimate": 60,
+      "confidence": 85
+    },
+    {
+      "name": "Yogurt cup (brand 'Kimo') with fruit topping",
+      "portion_estimate": 125,
+      "confidence": 95
+    },
+    {
+      "name": "Water in clear plastic cup",
+      "portion_estimate": 200,
+      "confidence": 80
+    }
+  ]
+}

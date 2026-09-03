@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with yellow sauce and parmesan",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "Two slices of white bread (painted)",
+      "portion_estimate": "70g",
+      "confidence": 90
+    },
+    {
+      "name": "White beans with shrimp",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "Cauliflower steak with white sauce (approx.)",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "180g",
+      "confidence": 95
+    }
+  ]
+}

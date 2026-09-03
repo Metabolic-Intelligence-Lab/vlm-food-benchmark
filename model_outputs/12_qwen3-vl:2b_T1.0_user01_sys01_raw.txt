@@ -1,0 +1,32 @@
+The JSON should list all distinct visible food and beverage items. Each item has a name and portion. For the fried egg, the portion is estimated as 50g. For fries, 100g. Cooked greens, 150g. Bun, 100g. Yogurt, 100g. Water, 200g.
+
+The structure should be an object with keys for each item.
+</think>
+```json
+{
+  "fried egg": {
+    "name": "fried egg",
+    "portion": 50
+  },
+  "fries": {
+    "name": "fries",
+    "portion": 100
+  },
+  "cooked greens": {
+    "name": "cooked greens",
+    "portion": 150
+  },
+  "bun": {
+    "name": "bun",
+    "portion": 100
+  },
+  "yogurt": {
+    "name": "yogurt",
+    "portion": 100
+  },
+  "water": {
+    "name": "water",
+    "portion": 200
+  }
+}
+```

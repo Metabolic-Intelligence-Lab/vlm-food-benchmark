@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked kale greens",
+      "portion_estimate": "uncertain, approximate weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Breaded and fried chicken breast with gravy or sauce over top",
+      "portion_estimate": "uncertain, approximately 143-286g (food item's total size estimated based on standard portion sizes)",
+      "confidence": "70"
+    },
+    {
+      "name": "Cooked rigatoni pasta in tomato-based sauce with visible herbs or spices",
+      "portion_estimate": "uncertain, approximately 143-286g (food item's total size estimated based on standard portion sizes)",
+      "confidence": "50"
+    },
+    {
+      "name": "Whole lemon and some celery sticks placed beside the pasta bowl",
+      "portion_estimate": "uncertain, approximate weight in grams of whole fruit or vegetable segment is too small to estimate accurately.",
+      "confidence": "20"
+    }
+  ]
+}

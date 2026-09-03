@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat penne pasta with pesto and grated cheese",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "farro and green pea salad",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "vegetable and cheese frittata slice",
+      "portion_estimate": "120",
+      "confidence": "65"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "uncertain packaged item (possibly cheese wedge or dairy dessert)",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

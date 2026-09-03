@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "100 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded meat, possibly chicken or fish",
+      "portion_estimate": "150 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "1",
+      "confidence": "90"
+    },
+    {
+      "name": "Sliced bread with spread, possibly butter or cream cheese",
+      "portion_estimate": "50 g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "ground beef (meat) with tomato-based sauce",
+      "portion_estimate": "uncertain (estimate: ~150g)",
+      "confidence": 55
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain (estimate: ~100g)",
+      "confidence": 65
+    },
+    {
+      "name": "tomato-based sauce",
+      "portion_estimate": "uncertain (estimate: ~50g)",
+      "confidence": 60
+    }
+  ]
+}

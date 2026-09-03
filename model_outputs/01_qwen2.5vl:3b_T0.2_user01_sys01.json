@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green soup",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Crumbled cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Tomato-based dish",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Rice or pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

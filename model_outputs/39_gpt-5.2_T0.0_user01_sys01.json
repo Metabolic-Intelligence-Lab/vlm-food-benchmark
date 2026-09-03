@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato-based sauce",
+      "portion_estimate": "320 g",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked leafy greens (spinach/chicory-like), saut\u00e9ed/boiled",
+      "portion_estimate": "160 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll (small, packaged)",
+      "portion_estimate": "70 g",
+      "confidence": "67"
+    },
+    {
+      "name": "apricots (3 whole)",
+      "portion_estimate": "105 g",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked white fish fillet with yellow crumb/egg topping",
+      "portion_estimate": "170 g",
+      "confidence": "60"
+    }
+  ]
+}

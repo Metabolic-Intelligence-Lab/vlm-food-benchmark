@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "egg salad with green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

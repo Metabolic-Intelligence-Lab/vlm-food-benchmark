@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese (penne rigate)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "grilled or baked stuffed potato (likely with meat or cheese filling)",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "diced cucumber salad",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt (single-serve cup)",
+      "portion_estimate": "uncertain (likely 120-150 grams)",
+      "confidence": 60
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain (likely 50-70 grams)",
+      "confidence": 65
+    },
+    {
+      "name": "water in plastic bottle",
+      "portion_estimate": "uncertain (likely 500 ml)",
+      "confidence": 70
+    }
+  ]
+}

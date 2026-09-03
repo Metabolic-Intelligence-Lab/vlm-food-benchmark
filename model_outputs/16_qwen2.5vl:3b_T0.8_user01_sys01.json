@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Muffin",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Potato cubes",
+      "portion_estimate": "25g",
+      "confidence": "70"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Milk",
+      "portion_estimate": "500ml",
+      "confidence": "90"
+    }
+  ]
+}

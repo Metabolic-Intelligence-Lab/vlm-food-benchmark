@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pea soup with grated cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "grilled vegetable sandwich",
+      "portion_estimate": "120 grams",
+      "confidence": 70
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100 grams",
+      "confidence": 60
+    },
+    {
+      "name": "peas and carrots",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    }
+  ]
+}

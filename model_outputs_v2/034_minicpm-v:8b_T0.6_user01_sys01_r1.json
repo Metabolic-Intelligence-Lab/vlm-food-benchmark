@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried egg",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Green leafy vegetable with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Muffin or biscuit",
+      "portion_estimate": "uncertain",
+      "confidence": "35"
+    },
+    {
+      "name": "Penne pasta with tomato sauce and parmesan cheese",
+      "portion_estimate": "180g (approx)",
+      "confidence": "90"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

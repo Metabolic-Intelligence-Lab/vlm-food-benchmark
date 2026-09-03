@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked vegetables with meat/fish and sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta or noodles (possibly macaroni)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "yellow fruit (lemon or orange)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

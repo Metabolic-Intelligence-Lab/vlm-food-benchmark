@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "quiche",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "scrambled eggs and sausage",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "oatmeal",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

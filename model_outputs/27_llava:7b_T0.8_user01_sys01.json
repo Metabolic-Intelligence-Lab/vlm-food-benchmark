@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Tenderloin",
+      "portion_estimate": "70g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Garlic Bread",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Spaghetti with marinara sauce and meatballs",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green salad",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }
+  ]
+}

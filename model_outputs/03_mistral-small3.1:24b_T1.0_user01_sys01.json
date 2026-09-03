@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "baby eggplant",
+      "portion_estimate": "75",
+      "confidence": "80"
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "80",
+      "confidence": "80"
+    },
+    {
+      "name": "bread bun",
+      "portion_estimate": "80",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "90"
+    }
+  ]
+}

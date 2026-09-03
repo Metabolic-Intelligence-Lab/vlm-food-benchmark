@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chopped cooked rice (white, plain)",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "cooked shrimp (peeled, tail-on)",
+      "portion_estimate": "40",
+      "confidence": 90
+    },
+    {
+      "name": "diced carrot (cooked)",
+      "portion_estimate": "20",
+      "confidence": 85
+    },
+    {
+      "name": "cooked scrambled egg (crumbled pieces)",
+      "portion_estimate": "60",
+      "confidence": 85
+    }
+  ]
+}

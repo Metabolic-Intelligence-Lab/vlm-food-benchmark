@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green leafy vegetables",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Steamed green beans",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "White fish with butter",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    },
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "2 slices (approx. 60-90g)",
+      "confidence": "80"
+    },
+    {
+      "name": "Dairy product in a packet",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

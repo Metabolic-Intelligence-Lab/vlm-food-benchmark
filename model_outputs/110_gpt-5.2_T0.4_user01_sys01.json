@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup/stew (pea-based with diced carrots and vegetables) topped with grated cheese",
+      "portion_estimate": "330 g",
+      "confidence": "72"
+    },
+    {
+      "name": "grated cheese topping (likely parmesan) on soup",
+      "portion_estimate": "15 g",
+      "confidence": "63"
+    },
+    {
+      "name": "bread roll (small, packaged)",
+      "portion_estimate": "60 g",
+      "confidence": "78"
+    },
+    {
+      "name": "savory baked slice (vegetable quiche/frittata-like piece)",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    },
+    {
+      "name": "cooked peas and sliced carrots",
+      "portion_estimate": "180 g",
+      "confidence": "85"
+    },
+    {
+      "name": "plums (2 whole)",
+      "portion_estimate": "140 g",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged cheese portion (string cheese or cheese stick)",
+      "portion_estimate": "25 g",
+      "confidence": "58"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "food_items": [
+    {
+      "name": "Scrambled eggs on toast",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta with tomato sauce and basil",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    }
+  ],
+  "tablecloth": {
+    "color": "white",
+    "pattern": "green leaves"
+  },
+  "bread": {
+    "type": "sourdough",
+    "quantity": 2,
+    "location": "top left corner"
+  },
+  "banana": {
+    "quantity": 1,
+    "location": "right side of tray"
+  }
+}

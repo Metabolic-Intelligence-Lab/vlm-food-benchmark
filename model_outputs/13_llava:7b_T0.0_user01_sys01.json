@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Watermelon slice",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried chicken breast",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green salad with greens and dressing",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    }
+  ]
+}

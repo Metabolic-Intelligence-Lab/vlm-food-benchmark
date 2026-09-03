@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white rice with grated cheese and oil",
+      "portion_estimate": "250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed vegetable stir-fry (carrots, cauliflower, spinach, pineapple)",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "sliced carrots and pineapple",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with green sauce and grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Fried zucchini flowers with cheese filling",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Carrots in orange sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Apple slices with peanut butter",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Chocolate cake with chocolate frosting",
+      "portion_estimate": "uncertain",
+      "confidence": 78
+    }
+  ]
+}

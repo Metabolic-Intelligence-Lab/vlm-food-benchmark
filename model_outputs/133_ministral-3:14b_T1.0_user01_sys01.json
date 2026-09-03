@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "dumpling wrappers (raw, likely wheat-based)",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "shredded cabbage filling",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "uncertain solid filling (could be cheese or mashed tofu)",
+      "portion_estimate": "30",
+      "confidence": 55
+    }
+  ]
+}

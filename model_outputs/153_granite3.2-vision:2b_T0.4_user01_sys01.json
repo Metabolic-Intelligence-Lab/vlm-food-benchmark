@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne or fusilli)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "garlic bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "whole apple",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

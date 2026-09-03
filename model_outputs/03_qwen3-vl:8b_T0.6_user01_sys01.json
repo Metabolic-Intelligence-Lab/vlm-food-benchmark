@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Water",
+      "portion_estimate": "250g",
+      "confidence": "100"
+    },
+    {
+      "name": "Pasta (e.g., Pesto or Tomato Sauce)",
+      "portion_estimate": "150g",
+      "confidence": "100"
+    },
+    {
+      "name": "Avocado Slice",
+      "portion_estimate": "50g",
+      "confidence": "100"
+    },
+    {
+      "name": "Broccoli Florets",
+      "portion_estimate": "100g",
+      "confidence": "100"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50g",
+      "confidence": "100"
+    }
+  ]
+}

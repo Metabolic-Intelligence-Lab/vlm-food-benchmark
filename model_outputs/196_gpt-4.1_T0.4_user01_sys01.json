@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "sliced roasted turkey breast with gravy",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "cooked chickpeas",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "130",
+      "confidence": 95
+    },
+    {
+      "name": "plain crackers (packaged)",
+      "portion_estimate": "20",
+      "confidence": 95
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "200",
+      "confidence": 90
+    }
+  ]
+}

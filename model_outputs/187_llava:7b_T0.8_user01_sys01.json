@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "40"
+    },
+    {
+      "name": "Vegetable mix with a fried egg and fried potato topping",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Lentil and vegetable soup with grated cheese",
+      "portion_estimate": 340,
+      "confidence": 92
+    },
+    {
+      "name": "Steamed white rice",
+      "portion_estimate": 125,
+      "confidence": 95
+    },
+    {
+      "name": "Meat-stuffed broccoli florets with sauce",
+      "portion_estimate": 140,
+      "confidence": 88
+    },
+    {
+      "name": "Sliced bread roll (whole wheat)",
+      "portion_estimate": 60,
+      "confidence": 90
+    },
+    {
+      "name": "Fruit yogurt cup (raspberry flavor)",
+      "portion_estimate": 128,
+      "confidence": 85
+    }
+  ]
+}

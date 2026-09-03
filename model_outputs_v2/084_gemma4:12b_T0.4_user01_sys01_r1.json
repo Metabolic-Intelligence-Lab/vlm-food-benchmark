@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli with tofu or paneer",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    },
+    {
+      "name": "Whole grain bread slice",
+      "portion_estimate": "50g",
+      "confidence": "95"
+    },
+    {
+      "name": "Small yogurt or snack cup",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Rice with red sauce",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Saut\u00e9ed mixed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup (brothy, mixed vegetables)",
+      "portion_estimate": "350 g",
+      "confidence": "75"
+    },
+    {
+      "name": "grated cheese sprinkled on soup (likely parmesan)",
+      "portion_estimate": "10 g",
+      "confidence": "65"
+    },
+    {
+      "name": "cooked broccoli/cauliflower mix",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "slice of ham (cured pork)",
+      "portion_estimate": "35 g",
+      "confidence": "70"
+    },
+    {
+      "name": "soft bread roll",
+      "portion_estimate": "65 g",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "70"
+    }
+  ]
+}

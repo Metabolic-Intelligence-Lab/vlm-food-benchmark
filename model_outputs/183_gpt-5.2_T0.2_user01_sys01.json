@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled panini-style sandwich (pressed bread with filling, cut piece)",
+      "portion_estimate": "150 g",
+      "confidence": "72"
+    },
+    {
+      "name": "round bread roll (in plastic wrapper)",
+      "portion_estimate": "60 g",
+      "confidence": "78"
+    },
+    {
+      "name": "lentil/vegetable soup with grated cheese topping",
+      "portion_estimate": "320 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Brussels sprouts (cooked)",
+      "portion_estimate": "120 g",
+      "confidence": "82"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "170 g",
+      "confidence": "90"
+    }
+  ]
+}

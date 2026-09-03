@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of Lentil Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Spinach and Cheese Omelette",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

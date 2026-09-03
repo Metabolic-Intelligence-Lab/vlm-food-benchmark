@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll with butter and jam",
+      "portion_estimate": "2 pieces",
+      "confidence": "80"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Biscuit with jam and cream",
+      "portion_estimate": "2 pieces",
+      "confidence": "80"
+    }
+  ]
+}

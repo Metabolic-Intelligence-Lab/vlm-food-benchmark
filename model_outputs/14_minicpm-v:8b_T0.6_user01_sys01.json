@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": "uncertain, approx. 100g",
+      "confidence": "50"
+    },
+    {
+      "name": "Sliced bread roll",
+      "portion_estimate": "uncertain, approx. 80g",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed salad with red cabbage and carrots",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried breaded chicken or fish fillet",
+      "portion_estimate": "uncertain, approx. 80g",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt with red berry flavor",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "70"
+    }
+  ]
+}

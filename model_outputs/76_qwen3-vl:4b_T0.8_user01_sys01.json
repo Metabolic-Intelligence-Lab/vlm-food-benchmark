@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with vegetables",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "couscous with vegetables",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80g",
+      "confidence": 95
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "140g",
+      "confidence": 95
+    },
+    {
+      "name": "mushroom with rice",
+      "portion_estimate": "100g",
+      "confidence": 95
+    }
+  ]
+}

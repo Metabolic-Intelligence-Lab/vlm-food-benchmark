@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "green apples",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "yellow squash",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

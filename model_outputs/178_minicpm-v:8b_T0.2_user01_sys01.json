@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "quiche",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "70"
+    },
+    {
+      "name": "potato wedges",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain, approx. 70g",
+      "confidence": "60"
+    },
+    {
+      "name": "cheese slice",
+      "portion_estimate": "uncertain, approx. 50g",
+      "confidence": "60"
+    }
+  ]
+}

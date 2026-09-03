@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded and fried meat or fish (cutlet)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Cooked greens (spinach or leafy vegetable)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Pasta in tomato-based sauce (spaghetti with marinara)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

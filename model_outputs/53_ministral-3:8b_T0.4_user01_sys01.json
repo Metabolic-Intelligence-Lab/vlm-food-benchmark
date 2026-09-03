@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato-based sauce (approx. 150g dry pasta)",
+      "portion_estimate": "250-300g (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "grilled chicken breast (with seasoning)",
+      "portion_estimate": "150-180g",
+      "confidence": 80
+    },
+    {
+      "name": "green beans (steamed or saut\u00e9ed)",
+      "portion_estimate": "100-120g",
+      "confidence": 75
+    },
+    {
+      "name": "whole wheat or multigrain roll/bun",
+      "portion_estimate": "60-80g",
+      "confidence": 70
+    },
+    {
+      "name": "whole plum/tart cherry",
+      "portion_estimate": "100-120g",
+      "confidence": 75
+    },
+    {
+      "name": "water (in clear glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

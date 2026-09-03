@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based or creamy carrot soup",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "salad with dark green leaves and chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cooked meat",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "coffee, tea, or other hot beverage",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

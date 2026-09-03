@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked base (e.g., polenta or thick toast)",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    },
+    {
+      "name": "Mixed chopped vegetables and protein (e.g., diced vegetables, egg, chicken)",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Saut\u00e9ed dark leafy greens (e.g., spinach or kale)",
+      "portion_estimate": "140g",
+      "confidence": "95"
+    }
+  ]
+}

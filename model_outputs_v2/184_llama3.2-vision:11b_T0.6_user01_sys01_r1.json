@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mixed Greens",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Grilled Chicken",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Tomato",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    }
+  ]
+}

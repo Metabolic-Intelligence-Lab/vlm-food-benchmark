@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded meat patty",
+      "portion_estimate": "approximate weight in grams: 100-150",
+      "confidence": "80"
+    },
+    {
+      "name": "Cooked eggs",
+      "portion_estimate": "approximate weight in grams: 50-70",
+      "confidence": "80"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "approximate weight in grams: 100-150",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta salad",
+      "portion_estimate": "approximate weight in grams: 100-150",
+      "confidence": "80"
+    },
+    {
+      "name": "Yogurt with fruit topping",
+      "portion_estimate": "approximate weight in grams: 100-150",
+      "confidence": "90"
+    }
+  ]
+}

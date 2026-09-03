@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": "200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "garlic bread roll",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "ground meat (likely beef or pork)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "soup mix (Sprudny brand)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "sauce or stew (yellow liquid)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "fried or baked dish (potato/carrot mix, possibly with cheese)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "5 grams",
+      "confidence": 95
+    }
+  ]
+}

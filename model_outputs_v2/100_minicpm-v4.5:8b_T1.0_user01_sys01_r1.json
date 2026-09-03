@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti bolognese (tomato-based meat sauce with pasta)",
+      "portion_estimate": "250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "stuffed zucchini",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "bun (small bread roll)",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Apple",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Eggs Benedict with English muffin",
+      "portion_estimate": "240 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Italian Sausage Pasta Alfredo",
+      "portion_estimate": "360 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried Egg with cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Green vegetables (likely spinach)",
+      "portion_estimate": "80 grams",
+      "confidence": "60"
+    }
+  ]
+}

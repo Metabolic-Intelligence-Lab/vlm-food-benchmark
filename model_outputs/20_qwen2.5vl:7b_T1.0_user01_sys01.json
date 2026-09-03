@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Carrots",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Cooked Chicken with Sauce",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Brussels Sprouts",
+      "portion_estimate": "80 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200 milliliters",
+      "confidence": 90
+    }
+  ]
+}

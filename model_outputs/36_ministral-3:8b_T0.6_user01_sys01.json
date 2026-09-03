@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried fries (thick-cut)",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "red cabbage salad with cucumber slices",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "green bean or pea fritters (2 pieces)",
+      "portion_estimate": "80g",
+      "confidence": "75"
+    },
+    {
+      "name": "sauce in small bowl (appears to be sweet chili or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll or small pastry (wrapped in plastic)",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    }
+  ]
+}

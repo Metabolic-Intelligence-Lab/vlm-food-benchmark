@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "grilled or baked white fish fillet (likely cod or tilapia)",
+      "portion_estimate": 150,
+      "confidence": 75
+    },
+    {
+      "name": "wedge of lemon",
+      "portion_estimate": 20,
+      "confidence": 70
+    },
+    {
+      "name": "pasta with red sauce (e.g., pomodoro or meat sauce)",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "garlic bread or soft bread roll",
+      "portion_estimate": 80,
+      "confidence": 80
+    },
+    {
+      "name": "sour cream or yogurt dip (container, partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

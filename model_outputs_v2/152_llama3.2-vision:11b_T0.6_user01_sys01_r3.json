@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spinach and Feta Strata",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Roasted Vegetables",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with Mushroom Sauce",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    },
+    {
+      "name": "Fresh Plums",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese (penne)",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted stuffed baked potato (potato with filling)",
+      "portion_estimate": "300g",
+      "confidence": 80
+    },
+    {
+      "name": "chopped cucumber (side salad)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll (ciabatta-style)",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt (single-serve cup)",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "water in clear plastic cup",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+The food in the image appears to be a dish of penne pasta and peas, along with some herbs or spices that might be garnish or sauce ingredients. The image is split into two parts, each showing different views of the same dish.
+
+The top half shows a close-up of the pasta and peas, highlighting the texture and details of the dish. There's a good amount of penne pasta visible with green peas mixed in. It looks like a simple Italian-style meal that could be made at home or ordered from an Italian restaurant.
+
+The bottom half presents a wider view of the same dish, with additional context provided by a measuring spoon, suggesting portion size for calorie tracking purposes. This perspective allows for a better understanding of the ratio of pasta to peas and provides a sense of the serving size for each component.
+
+For a JSON output based on this image, it could be:
+
+```json
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta with Peas",
+      "portion_estimate": "approx. 100g of pasta and 50g of peas",
+      "confidence": 60
+    }
+  ]
+}
+```
+
+Please note that without more detailed information, the portion sizes are an estimate based on the visible food and the measuring spoon for reference. Actual serving size may vary from this estimation.

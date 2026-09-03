@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed broccoli with potatoes",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll (whole wheat or multigrain)",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "Yogurt cup",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "Fried chicken breast with tomato sauce",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "Mixed vegetable medley (carrots, peas, potatoes)",
+      "portion_estimate": "150",
+      "confidence": 90
+    }
+  ]
+}

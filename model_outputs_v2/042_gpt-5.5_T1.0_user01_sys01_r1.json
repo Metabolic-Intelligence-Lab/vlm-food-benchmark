@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato-based sauce",
+      "portion_estimate": "approximately 300 g",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked Brussels sprouts",
+      "portion_estimate": "approximately 160 g",
+      "confidence": "80"
+    },
+    {
+      "name": "two cornmeal or polenta cakes",
+      "portion_estimate": "approximately 120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "braised red cabbage",
+      "portion_estimate": "approximately 25 g",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "approximately 60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "approximately 105 g",
+      "confidence": "90"
+    }
+  ]
+}

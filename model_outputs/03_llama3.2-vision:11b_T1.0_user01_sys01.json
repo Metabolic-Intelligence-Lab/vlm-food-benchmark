@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and parmesan",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "roasted eggplant and broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pastry with sweet filling",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

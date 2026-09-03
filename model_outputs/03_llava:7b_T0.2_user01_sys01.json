@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Burger with lettuce and tomato",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta salad with broccoli",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta salad with broccoli and carrots",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

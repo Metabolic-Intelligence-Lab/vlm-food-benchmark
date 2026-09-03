@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": "150g (uncertain, based on visual approximation)",
+      "confidence": 65
+    },
+    {
+      "name": "grated white cheese (likely mozzarella or ricotta)",
+      "portion_estimate": "80g (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "diced tomatoes (tomato chunks)",
+      "portion_estimate": "75g (uncertain)",
+      "confidence": 75
+    },
+    {
+      "name": "tuna chunks",
+      "portion_estimate": "100g (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "black grapes",
+      "portion_estimate": "50g (uncertain)",
+      "confidence": 65
+    },
+    {
+      "name": "cream or salad dressing (on tomatoes)",
+      "portion_estimate": "uncertain (trace amounts, excluded or negligible)",
+      "confidence": 45
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+"food_items": [
+{
+"name": "Red stuff on top of rice",
+"portion_estimate": "500g",
+"color": "red",
+"texture": "smooth",
+"origin": "Chili cereal mix",
+"ingredients": ["tomatoes", "onions", "garlic"],
+"flavor": "sweet and sour",
+"calories": 300,
+"serving_size": 1/2,
+"nutrition_facts": {
+"total\_fat": "4g",
+"cholesterol": "5mg",
+"sodium": "500mg",
+"total\_carbohydrate": "38g",
+"protein": "6g"
+},
+"cooking_method": "microwave",
+"country_of_origin": "USA",
+"dietary\_restriction": "vegetarian",
+"food_rating": 4,
+"image_reference": "#FoodRatings2015#07021518230901",
+"nutrition\_facts_source": "usda.gov",
+"serving\_size": "1/2 cup"
+}
+],
+"portion_estimate": "about 2 cups of cooked rice"
+}

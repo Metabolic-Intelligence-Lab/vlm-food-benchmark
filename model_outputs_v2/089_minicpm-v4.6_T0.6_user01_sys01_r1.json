@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice with butter",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "approximately 70 grams",
+      "confidence": 90
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "approximately 180 grams",
+      "confidence": 95
+    },
+    {
+      "name": "cooked chicken or fish",
+      "portion_estimate": "approximately 110 grams",
+      "confidence": 95
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "approximately 130 grams",
+      "confidence": 90
+    }
+  ]
+}

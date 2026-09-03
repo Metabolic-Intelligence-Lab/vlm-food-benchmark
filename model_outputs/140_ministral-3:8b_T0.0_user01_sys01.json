@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "plums (whole, ~2)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "brussels sprouts (small, ~10 pieces)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "breaded fish fillet (whole)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed greens (likely spinach or bok choy)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    }
+  ]
+}

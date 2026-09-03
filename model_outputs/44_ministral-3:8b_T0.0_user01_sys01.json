@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "tomato halves with white sauce (e.g., b\u00e9chamel or cheese sauce)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "potato hash or diced potatoes (fried or roasted)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "lettuce or mixed greens",
+      "portion_estimate": "30 grams",
+      "confidence": 75
+    },
+    {
+      "name": "baguette or bread roll (whole, wrapped in plastic)",
+      "portion_estimate": "70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (in small container)",
+      "portion_estimate": "125 grams",
+      "confidence": 85
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "uncertain (no visible measurement)",
+      "confidence": 30
+    },
+    {
+      "name": "condiment packet (likely salt or seasoning)",
+      "portion_estimate": "uncertain (too small to estimate)",
+      "confidence": 20
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with creamy sauce (possibly macaroni and cheese)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "breaded chicken pieces or nuggets",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "condiment or side dish (such as sour cream or yogurt)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "fried fish fillets",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "vegetable side dish (possibly green beans or similar cooked greens)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "lemon wedges (for seasoning or garnish)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

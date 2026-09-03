@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese sauce",
+      "portion_estimate": "250g",
+      "confidence": "95"
+    },
+    {
+      "name": "lentils",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "breaded croquettes",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    },
+    {
+      "name": "quince",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "vegetable soup with grated cheese",
+      "portion_estimate": "300 grams",
+      "confidence": 90
+    },
+    {
+      "name": "cabbage salad",
+      "portion_estimate": "200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "fried patty or cakes",
+      "portion_estimate": "100 grams each",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    }
+  ]
+}

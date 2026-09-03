@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich with chicken or fish filling",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "chips",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "soup with butter",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta and broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "yellow soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "whole wheat sandwich roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fresh raspberries",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "orange biscuit with tomato",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "cream",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

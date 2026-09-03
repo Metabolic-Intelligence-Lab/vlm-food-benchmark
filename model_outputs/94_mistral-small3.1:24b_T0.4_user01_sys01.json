@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "tortilla wrap",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": "30",
+      "confidence": "85"
+    },
+    {
+      "name": "salsa",
+      "portion_estimate": "15",
+      "confidence": "80"
+    }
+  ]
+}

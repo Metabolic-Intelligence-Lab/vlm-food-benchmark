@@ -1,0 +1,36 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain, approx 100g",
+      "confidence": "50"
+    },
+    {
+      "name": "sour cream",
+      "portion_estimate": "uncertain, approx 30g",
+      "confidence": "40"
+    },
+    {
+      "name": "biscuit or roll",
+      "portion_estimate": "uncertain, approx 50g",
+      "confidence": "60"
+    },
+    {
+      "name": "salad with dressing",
+      "portion_estimate": "uncertain, approx 120g",
+      "confidence": "70"
+    },
+    {
+      "name": "sauerkraut or pickled cabbage",
+      "portion_estimate": "uncertain, approx 50g",
+      "confidence": "60"
+    }
+  ],
+  "beverages": [
+    {
+      "name": "milk yogurt (YOMO)",
+      "portion_estimate": "125g",
+      "confidence": "90"
+    }
+  ]
+}

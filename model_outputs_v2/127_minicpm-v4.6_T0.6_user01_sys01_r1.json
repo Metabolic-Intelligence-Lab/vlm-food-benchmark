@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Nigueli pasta (gnudi)",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Packaged bread buns",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "Butter or cheese",
+      "portion_estimate": "10g",
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "salad with purple cabbage and cucumber",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "crumbed vegetable patties",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "bowl of sauce",
+      "portion_estimate": "50",
+      "confidence": "80"
+    }
+  ]
+}

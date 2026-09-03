@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta with red sauce",
+      "portion_estimate": "uncertain, approximately 100g per portion",
+      "confidence": "65"
+    },
+    {
+      "name": "potato",
+      "portion_estimate": "uncertain, possibly around 75-80g",
+      "confidence": "45"
+    },
+    {
+      "name": "bun with label",
+      "portion_estimate": "uncertain, approximately 120g per bun",
+      "confidence": "65"
+    },
+    {
+      "name": "mashed potatoes and broccoli",
+      "portion_estimate": "uncertain, possibly around 75-80g each for mashed potato and broccoli",
+      "confidence": "45"
+    }
+  ]
+}

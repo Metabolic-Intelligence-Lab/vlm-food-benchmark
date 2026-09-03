@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta (with grated Parmesan)",
+      "portion_estimate": "300 grams (with ~10g grated Parmesan)",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll or dinner roll (wrapped in plastic)",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "cucumber slices (in a plate)",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "potato and potato salad (or mixed vegetables) with seasoning",
+      "portion_estimate": "150 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt (in a small cup, red packaging, likely strawberry or similar flavor)",
+      "portion_estimate": "120 grams",
+      "confidence": 70
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "uncertain (no clear measurement)",
+      "confidence": 30
+    },
+    {
+      "name": "green leafy vegetable (possibly lettuce or spinach, wrapped in plastic)",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    }
+  ]
+}

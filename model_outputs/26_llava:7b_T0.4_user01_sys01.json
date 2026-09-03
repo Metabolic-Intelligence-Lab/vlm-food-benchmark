@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fish fillet",
+      "portion_estimate": "125g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed potatoes with herbs",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Steamed vegetables (broccoli, carrots)",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fruit salad",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Rolled oats with milk and sugar",
+      "portion_estimate": "200g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomatoes and herbs",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Grilled chicken fillet",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans with sauce",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "40"
+    },
+    {
+      "name": "Pomegranate fruit",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. 80g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto sauce and grated cheese",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "chickpea and diced carrot salad",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "eggplant parmigiana slice with melted cheese",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll (panino), packaged",
+      "portion_estimate": "70",
+      "confidence": "75"
+    },
+    {
+      "name": "sliced cheese, packaged",
+      "portion_estimate": "30",
+      "confidence": "55"
+    }
+  ]
+}

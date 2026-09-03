@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato-based sauce (with small sausage pieces)",
+      "portion_estimate": "260 g",
+      "confidence": "75"
+    },
+    {
+      "name": "roasted Brussels sprouts",
+      "portion_estimate": "110 g",
+      "confidence": "70"
+    },
+    {
+      "name": "roasted potato pieces",
+      "portion_estimate": "80 g",
+      "confidence": "65"
+    },
+    {
+      "name": "sliced white fish fillet (cooked)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked leafy greens (spinach or similar)",
+      "portion_estimate": "25 g",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll (white)",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "packaged berry yogurt (Yomo, 125 g cup)",
+      "portion_estimate": "125 g",
+      "confidence": "90"
+    },
+    {
+      "name": "water (in cup)",
+      "portion_estimate": "250 g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "100g",
+      "confidence": "100"
+    },
+    {
+      "name": "Scrambled eggs",
+      "portion_estimate": "100g",
+      "confidence": "100"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "100g",
+      "confidence": "100"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "100"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "100g",
+      "confidence": "100"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "200g",
+      "confidence": "100"
+    }
+  ]
+}

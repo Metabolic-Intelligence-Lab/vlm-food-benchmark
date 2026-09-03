@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with pesto",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "baked dish with peas and bacon",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "hamburger bun",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

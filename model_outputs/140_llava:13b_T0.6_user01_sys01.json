@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked fish (likely cod or whitefish)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "diced vegetables (possibly brussels sprouts, carrots, turnips)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "red grapefruit",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pomegranate",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "bread or pastry",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

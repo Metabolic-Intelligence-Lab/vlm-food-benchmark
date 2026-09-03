@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetables and potatoes",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "creamed dish (likely meat or pasta)",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "cooked beans",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250g",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillets",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed salad (red cabbage, carrots)",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "whole grain bread",
+      "portion_estimate": "40",
+      "confidence": "70"
+    },
+    {
+      "name": "fruit cup",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": "90"
+    }
+  ]
+}

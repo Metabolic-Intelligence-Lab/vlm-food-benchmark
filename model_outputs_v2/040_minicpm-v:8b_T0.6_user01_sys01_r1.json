@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Apricots (2)",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried rice",
+      "portion_estimate": "185g",
+      "confidence": "90"
+    },
+    {
+      "name": "Omelette with mushrooms and onions",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Roasted carrots (2)",
+      "portion_estimate": "15g each",
+      "confidence": "90"
+    },
+    {
+      "name": "Roasted potatoes with onions and mushrooms",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    }
+  ]
+}

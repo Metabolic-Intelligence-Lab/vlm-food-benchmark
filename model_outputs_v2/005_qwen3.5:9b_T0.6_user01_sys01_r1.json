@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy yellow soup with grated cheese on top",
+      "portion_estimate": 280,
+      "confidence": 95
+    },
+    {
+      "name": "Crispy potato wedges or hash browns with diced potatoes",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Golden-brown breaded and fried food item (possibly a nugget or fish cake)",
+      "portion_estimate": 60,
+      "confidence": 90
+    },
+    {
+      "name": "Dried fruit roll-up snack in plastic packaging",
+      "portion_estimate": 30,
+      "confidence": 85
+    },
+    {
+      "name": "Small yogurt cup (brand visible: 'Oikos') with mixed berry flavoring",
+      "portion_estimate": 120,
+      "confidence": 90
+    }
+  ]
+}

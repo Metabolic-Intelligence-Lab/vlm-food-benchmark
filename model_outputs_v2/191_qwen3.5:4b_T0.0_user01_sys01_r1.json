@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Green soup (likely pea or spinach)",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "Carrot slices",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "Bread rolls (likely focaccia or similar)",
+      "portion_estimate": "140",
+      "confidence": 80
+    }
+  ]
+}

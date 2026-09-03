@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "ham with herbs and lemon zest",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "soup (possibly broccoli cheddar)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "strawberry yogurt with granola",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

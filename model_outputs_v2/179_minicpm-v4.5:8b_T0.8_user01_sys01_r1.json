@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "baked potato",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "baked cauliflower",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "spinach and cheese roll",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    }
+  ]
+}

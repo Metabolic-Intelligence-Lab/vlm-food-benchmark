@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bun",
+      "portion_estimate": "10",
+      "confidence": "90"
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "sliced eggplant with cheese",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "tomato sauce jar",
+      "portion_estimate": "10",
+      "confidence": "70"
+    }
+  ]
+}

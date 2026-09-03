@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed potatoes with gravy",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "steamed vegetables",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "green salad with cucumber and tomato",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    }
+  ]
+}

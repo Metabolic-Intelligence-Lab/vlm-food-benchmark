@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "crispy crab cake",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "shredded cauliflower",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "creamy tomato soup with cheese topping",
+      "portion_estimate": 250,
+      "confidence": 85
+    },
+    {
+      "name": "potato salad in individual container (Yogurt dressing)",
+      "portion_estimate": 50,
+      "confidence": 70
+    },
+    {
+      "name": "plain crackers or breadsticks in wrapper",
+      "portion_estimate": 30,
+      "confidence": 55
+    }
+  ]
+}

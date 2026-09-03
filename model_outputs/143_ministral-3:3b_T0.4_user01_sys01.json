@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bread (sliced)",
+      "portion_estimate": 50,
+      "confidence": 90
+    },
+    {
+      "name": "plain yogurt (container, likely 150g)",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "roasted broccoli with carrots",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "grilled fish fillet (with seasoning)",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "boiled or roasted potatoes (with herbs)",
+      "portion_estimate": 150,
+      "confidence": 85
+    }
+  ]
+}

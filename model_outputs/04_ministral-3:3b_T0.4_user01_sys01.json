@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "whole banana",
+      "portion_estimate": "180 grams",
+      "confidence": 95
+    },
+    {
+      "name": "mixed salad with grilled chicken, tomatoes, black olives, white cheese cubes, and lettuce",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "wrapped sandwich bun (plain)",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    }
+  ]
+}

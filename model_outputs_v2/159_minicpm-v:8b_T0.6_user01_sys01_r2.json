@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Broccoli dish (possibly quiche or frittata)",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Cheese wedge",
+      "portion_estimate": "uncertain, approx. 125g-175g",
+      "confidence": "30"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "40"
+    }
+  ]
+}

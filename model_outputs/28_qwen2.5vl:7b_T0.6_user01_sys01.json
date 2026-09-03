@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and vegetables",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Grilled or roasted vegetable",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200 milliliters",
+      "confidence": 80
+    }
+  ]
+}

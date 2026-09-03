@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole cooked chicken or turkey (partially visible)",
+      "portion_estimate": "180-220g",
+      "confidence": 85
+    },
+    {
+      "name": "packaged scrambled eggs wrapped in plastic",
+      "portion_estimate": "60-70g (3-4 eggs)",
+      "confidence": 75
+    },
+    {
+      "name": "small mixed coleslaw (cabbage and carrots, white bowl)",
+      "portion_estimate": "80-100g",
+      "confidence": 85
+    },
+    {
+      "name": "orange carrot (single slice or half)",
+      "portion_estimate": "10-15g",
+      "confidence": 80
+    },
+    {
+      "name": "plain saut\u00e9ed spinach/kale or greens (white plate)",
+      "portion_estimate": "80-90g",
+      "confidence": 85
+    }
+  ]
+}

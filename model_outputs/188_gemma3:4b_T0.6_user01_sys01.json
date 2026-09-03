@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable Soup",
+      "portion_estimate": "uncertain",
+      "confidence": "65"
+    },
+    {
+      "name": "Meat Pie",
+      "portion_estimate": "80g",
+      "confidence": "75"
+    },
+    {
+      "name": "Green Leafy Vegetables",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    }
+  ]
+}

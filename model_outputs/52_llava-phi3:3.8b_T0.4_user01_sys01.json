@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken",
+      "portion_estimate": "2 oz",
+      "confidence": "90"
+    },
+    {
+      "name": "red cabbage and onion salad",
+      "portion_estimate": "1/2 cup",
+      "confidence": "85"
+    },
+    {
+      "name": "bread rolls",
+      "portion_estimate": "3 pieces",
+      "confidence": "90"
+    },
+    {
+      "name": "noodles with sauce",
+      "portion_estimate": "1/2 cup",
+      "confidence": "85"
+    }
+  ]
+}

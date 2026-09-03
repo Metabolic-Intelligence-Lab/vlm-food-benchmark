@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Vegetables",
+      "portion_estimate": "100-150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Slice of Pizza",
+      "portion_estimate": "100-150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Glass of Water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Red Apple",
+      "portion_estimate": "150-200 grams",
+      "confidence": 90
+    }
+  ]
+}

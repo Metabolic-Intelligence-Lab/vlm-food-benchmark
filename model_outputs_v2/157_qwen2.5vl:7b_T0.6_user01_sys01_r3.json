@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "lentils",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "two dumplings",
+      "portion_estimate": "75",
+      "confidence": 60
+    },
+    {
+      "name": "peeled pear",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "caesar dressing packet",
+      "portion_estimate": "10",
+      "confidence": 60
+    }
+  ]
+}

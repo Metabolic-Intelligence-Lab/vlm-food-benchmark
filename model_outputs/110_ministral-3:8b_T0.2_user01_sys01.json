@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy vegetable soup with grated cheese",
+      "portion_estimate": "450",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "spinach and cheese quiche slice",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "mixed peas and diced carrots (steamed)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "dried plums (prunes)",
+      "portion_estimate": "30",
+      "confidence": 70
+    }
+  ]
+}

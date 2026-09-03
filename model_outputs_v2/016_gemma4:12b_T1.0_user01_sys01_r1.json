@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot and mixed vegetable salad",
+      "portion_estimate": "200g",
+      "confidence": "95"
+    },
+    {
+      "name": "Roasted meat patty with glaze",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Roasted potato cubes",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "70g",
+      "confidence": "90"
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    }
+  ]
+}

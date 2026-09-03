@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded white fish fillet (likely cod or similar)",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted butternut squash chunks",
+      "portion_estimate": "150g",
+      "confidence": "75"
+    },
+    {
+      "name": "lentil and vegetable stew (mixed lentils, carrots, and vegetables)",
+      "portion_estimate": "180g",
+      "confidence": "70"
+    },
+    {
+      "name": "water (glass)",
+      "portion_estimate": "uncertain (estimated ~250ml)",
+      "confidence": "60"
+    },
+    {
+      "name": "yogurt drink (carton, likely dairy or plant-based)",
+      "portion_estimate": "uncertain (estimated ~150ml)",
+      "confidence": "65"
+    }
+  ]
+}

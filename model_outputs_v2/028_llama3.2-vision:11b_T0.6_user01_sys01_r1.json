@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomatoes and Green Peas",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Spinach and Cheese Pastry",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green Salad",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

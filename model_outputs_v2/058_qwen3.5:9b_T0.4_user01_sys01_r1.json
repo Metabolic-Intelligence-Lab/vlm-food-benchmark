@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Twisted pasta (rotelle) with butter and herbs",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Sliced carrots cooked in a sauce",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "Omelet or frittata with vegetables and cheese filling",
+      "portion_estimate": 80,
+      "confidence": 85
+    },
+    {
+      "name": "Fresh peach",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Packaged bun or roll (partially visible)",
+      "portion_estimate": 60,
+      "confidence": 80
+    },
+    {
+      "name": "Water",
+      "portion_estimate": 200,
+      "confidence": 95
+    }
+  ]
+}

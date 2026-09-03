@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "chicken with herbs or spices",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mixed vegetables or stew with carrots and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fruit preserve or jam",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "butter or margarine",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "ketchup or similar red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mustard or mayonnaise",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

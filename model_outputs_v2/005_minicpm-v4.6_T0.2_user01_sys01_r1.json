@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pumpkin soup",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll (bun)",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "fried cutlets (nuggets)",
+      "portion_estimate": "30g",
+      "confidence": 90
+    },
+    {
+      "name": "diced potatoes (home fries)",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "yogurt or dairy cup",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "condiment packet (sauce)",
+      "portion_estimate": "10g",
+      "confidence": 60
+    }
+  ]
+}

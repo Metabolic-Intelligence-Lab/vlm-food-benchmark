@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with vegetables",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "Green leafy vegetable",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "60g",
+      "confidence": 85
+    }
+  ]
+}

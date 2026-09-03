@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roasted carrot (whole, peeled)",
+      "portion_estimate": "85",
+      "confidence": 90
+    },
+    {
+      "name": "sliced sourdough or whole-grain bread roll with visible seeds/herbs",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed kale (cooked, salted)",
+      "portion_estimate": "40",
+      "confidence": 80
+    },
+    {
+      "name": "red cabbage and carrot salad (raw, shredded, mixed with lemon dressing)",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "peeled orange (whole, uncut)",
+      "portion_estimate": "150",
+      "confidence": 70
+    }
+  ]
+}

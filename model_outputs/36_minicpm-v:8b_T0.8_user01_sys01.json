@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole wheat bread",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Burger bun with burger contents",
+      "portion_estimate": "uncertain, approx. 120g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried chicken pieces",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Dark brown sauce",
+      "portion_estimate": "uncertain, approx. 1 oz",
+      "confidence": "60"
+    },
+    {
+      "name": "Purple cabbage salad with cucumber slices",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    }
+  ]
+}

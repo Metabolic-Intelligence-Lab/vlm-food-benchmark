@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "1 piece",
+      "confidence": "90"
+    },
+    {
+      "name": "Tomato slices and cheese on bread",
+      "portion_estimate": "3 pieces of tomato, 2 slices of cheese",
+      "confidence": "80"
+    },
+    {
+      "name": "Fries",
+      "portion_estimate": "1/4 cup",
+      "confidence": "70"
+    },
+    {
+      "name": "Water glass",
+      "portion_estimate": "1/2 cup",
+      "confidence": "80"
+    }
+  ]
+}

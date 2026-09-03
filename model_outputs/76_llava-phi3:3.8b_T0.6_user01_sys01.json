@@ -1,0 +1,35 @@
+{
+  "food_items": [
+    {
+      "name": "rice",
+      "portion_estimate": "100g",
+      "color": "yellow"
+    },
+    {
+      "name": "pasta with red sauce",
+      "portion_estimate": "150g",
+      "color": "brown"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "color": "white"
+    },
+    {
+      "name": "salad with dressing",
+      "portion_estimate": "80g",
+      "color": "green and yellow"
+    }
+  ],
+  "plate_positions": [
+    {
+      "position": "top left"
+    },
+    {
+      "position": "bottom right"
+    },
+    {
+      "position": "bottom center"
+    }
+  ]
+}

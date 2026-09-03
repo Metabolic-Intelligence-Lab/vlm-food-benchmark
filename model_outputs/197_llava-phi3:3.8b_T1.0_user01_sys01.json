@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted chicken",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Tater tot salad",
+      "portion_estimate": "75 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Sweet potato mash",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked brussel sprouts",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Tater tot salad with sweet potatoes and broccoli",
+      "portion_estimate": "350 grams",
+      "confidence": "90"
+    }
+  ]
+}

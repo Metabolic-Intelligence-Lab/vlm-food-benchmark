@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Mushroom soup",
+      "portion_estimate": "300g",
+      "confidence": "80"
+    },
+    {
+      "name": "Peas and carrots",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    }
+  ]
+}

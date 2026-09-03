@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "80g",
+      "confidence": 95
+    },
+    {
+      "name": "cooked rice",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "baked fish fillet",
+      "portion_estimate": "130g",
+      "confidence": 90
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "200g",
+      "confidence": 90
+    }
+  ]
+}

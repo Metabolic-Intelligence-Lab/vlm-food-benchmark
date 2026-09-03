@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta salad with diced potatoes and dressing",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "minced meat (possibly beef or pork)",
+      "portion_estimate": "2-3 tablespoons",
+      "confidence": "95"
+    },
+    {
+      "name": "white yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

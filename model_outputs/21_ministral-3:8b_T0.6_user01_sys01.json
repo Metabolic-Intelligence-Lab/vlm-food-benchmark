@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded and fried fish fillet (portion)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed green beans (with sauce)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetable hash with potatoes and carrots (possibly topped with breadcrumbs)",
+      "portion_estimate": "180g",
+      "confidence": 80
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "whole plum (or similar dark purple fruit)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "rice and legumes",
+      "portion_estimate": "400 g",
+      "confidence": 95
+    },
+    {
+      "name": "white beans or lentils",
+      "portion_estimate": "150 g",
+      "confidence": 85
+    },
+    {
+      "name": "leafy vegetables (such as spinach or wilted herbs)",
+      "portion_estimate": "50 g",
+      "confidence": 70
+    }
+  ]
+}

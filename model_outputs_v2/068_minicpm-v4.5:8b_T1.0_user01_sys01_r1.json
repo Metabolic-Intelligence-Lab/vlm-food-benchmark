@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cavatappi pasta",
+      "portion_estimate": "200-250g",
+      "confidence": 90
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "50g",
+      "confidence": 75
+    },
+    {
+      "name": "hard-boiled egg pieces",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "diced ham",
+      "portion_estimate": "50g",
+      "confidence": 75
+    },
+    {
+      "name": "chopped carrots",
+      "portion_estimate": "10g",
+      "confidence": 80
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "10g",
+      "confidence": 80
+    }
+  ]
+}

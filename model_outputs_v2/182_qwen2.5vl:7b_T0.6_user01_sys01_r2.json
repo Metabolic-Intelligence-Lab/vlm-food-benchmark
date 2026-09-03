@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Farfalle pasta with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Lasagna",
+      "portion_estimate": "100 grams",
+      "confidence": 65
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": 75
+    },
+    {
+      "name": "Tangerines",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    }
+  ]
+}

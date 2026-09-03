@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with pesto and cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Grilled eggplant with sauce",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    }
+  ]
+}

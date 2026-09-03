@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "zucchini fritters",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "potato salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "25g",
+      "confidence": "70"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

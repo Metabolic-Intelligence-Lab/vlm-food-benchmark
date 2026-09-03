@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange lentil or vegetable soup",
+      "portion_estimate": "350 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "crumbled cooked egg or breaded mixture",
+      "portion_estimate": "250 grams",
+      "confidence": "45"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "130 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "sparkling water in two cups",
+      "portion_estimate": "400 grams",
+      "confidence": "95"
+    }
+  ]
+}

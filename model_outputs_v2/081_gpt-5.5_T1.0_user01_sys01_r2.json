@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked dark leafy greens, likely spinach",
+      "portion_estimate": "120 g",
+      "confidence": "75"
+    },
+    {
+      "name": "two breaded fried croquettes or balls",
+      "portion_estimate": "100 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mashed potatoes or thick puree",
+      "portion_estimate": "180 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread rolls in plastic packaging",
+      "portion_estimate": "110 g",
+      "confidence": "80"
+    },
+    {
+      "name": "sealed red-lidded dessert or yogurt cup",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150 g",
+      "confidence": "85"
+    }
+  ]
+}

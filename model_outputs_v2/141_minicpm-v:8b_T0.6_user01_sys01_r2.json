@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "broccoli with garlic sauce and chicken",
+      "portion_estimate": "120g broccoli, approx. 60g chicken, total ~80g",
+      "confidence": "70-90"
+    },
+    {
+      "name": "chickpeas or chickpea salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "string cheese (cheese snack)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

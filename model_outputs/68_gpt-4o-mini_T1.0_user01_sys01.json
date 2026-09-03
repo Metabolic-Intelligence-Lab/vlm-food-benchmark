@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with mixed vegetables and chicken",
+      "portion_estimate": "250",
+      "confidence": "70"
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "corn",
+      "portion_estimate": "30",
+      "confidence": "60"
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "15",
+      "confidence": "50"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "20",
+      "confidence": "50"
+    }
+  ]
+}

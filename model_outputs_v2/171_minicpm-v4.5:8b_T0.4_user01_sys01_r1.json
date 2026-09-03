@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "braised leafy greens (possibly spinach or chard)",
+      "portion_estimate": "150-200g",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or boiled green beans",
+      "portion_estimate": "150-200g",
+      "confidence": 80
+    },
+    {
+      "name": "white bread with butter",
+      "portion_estimate": "50-75g",
+      "confidence": 80
+    },
+    {
+      "name": "small piece of food (possibly meat or fish with fat)",
+      "portion_estimate": "30-50g",
+      "confidence": 70
+    },
+    {
+      "name": "multigrain or whole grain bread (in plastic bag)",
+      "portion_estimate": "50-75g",
+      "confidence": 70
+    },
+    {
+      "name": "small container of yogurt (brand 'FONDO')",
+      "portion_estimate": "100-120g",
+      "confidence": 90
+    }
+  ]
+}

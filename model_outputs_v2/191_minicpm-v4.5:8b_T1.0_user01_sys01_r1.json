@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "80 grams",
+      "confidence": 90
+    },
+    {
+      "name": "sesame balls (likely a type of bread or bun)",
+      "portion_estimate": "60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "green soup (possibly a vegetable or herbal soup)",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "kombucha or fermented drink (red cap)",
+      "portion_estimate": "120 grams",
+      "confidence": 70
+    },
+    {
+      "name": "steamed vegetables (possibly spinach or seaweed, partially visible at bottom)",
+      "portion_estimate": "100 grams",
+      "confidence": 65
+    },
+    {
+      "name": "plastic-wrapped vegetable sticks (likely celery or a similar vegetable)",
+      "portion_estimate": "50 grams",
+      "confidence": 75
+    },
+    {
+      "name": "packaged chopsticks (TORINESI brand)",
+      "portion_estimate": "0 grams",
+      "confidence": 95
+    }
+  ]
+}

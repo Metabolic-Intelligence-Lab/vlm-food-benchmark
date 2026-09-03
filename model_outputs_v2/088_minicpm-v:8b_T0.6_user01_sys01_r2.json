@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce and parmesan cheese",
+      "portion_estimate": "uncertain, approx 150g per serving",
+      "confidence": "60"
+    },
+    {
+      "name": "Mushroom risotto (partially eaten)",
+      "portion_estimate": "uncertain, approx 80-120g per serving based on size and plate depth",
+      "confidence": "50"
+    },
+    {
+      "name": "Rice with peas",
+      "portion_estimate": "uncertain, approx 70g for rice portion and additional weight from peas in a ratio of pea to rice volume is uncertain but could be around another 20-30g based on visible amount",
+      "confidence": "50"
+    },
+    {
+      "name": "Sliced banana (uncut)",
+      "portion_estimate": "approx. 169g for whole medium size banana, portion not specified here",
+      "confidence": "70"
+    }
+  ]
+}

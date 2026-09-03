@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "170 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked white rice (with grated cheese on top)",
+      "portion_estimate": "180 g",
+      "confidence": "75"
+    },
+    {
+      "name": "grated hard cheese (on rice, likely parmesan)",
+      "portion_estimate": "8 g",
+      "confidence": "60"
+    },
+    {
+      "name": "cooked diced potatoes",
+      "portion_estimate": "220 g",
+      "confidence": "75"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "160 g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (in plastic wrap)",
+      "portion_estimate": "60 g",
+      "confidence": "70"
+    },
+    {
+      "name": "sealed cheese wedge/slice (type uncertain)",
+      "portion_estimate": "25 g",
+      "confidence": "55"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pea soup with mixed vegetables (thick green soup)",
+      "portion_estimate": "320 g",
+      "confidence": "82"
+    },
+    {
+      "name": "grated cheese topping (likely parmesan) on soup",
+      "portion_estimate": "12 g",
+      "confidence": "68"
+    },
+    {
+      "name": "bread roll (in plastic wrap)",
+      "portion_estimate": "65 g",
+      "confidence": "78"
+    },
+    {
+      "name": "baked savory slice (spinach/cheese pie or lasagna-style piece)",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    },
+    {
+      "name": "cooked peas and sliced carrots",
+      "portion_estimate": "180 g",
+      "confidence": "85"
+    },
+    {
+      "name": "plums (whole, raw)",
+      "portion_estimate": "140 g",
+      "confidence": "80"
+    },
+    {
+      "name": "wrapped cheese portion (string/processed cheese stick)",
+      "portion_estimate": "25 g",
+      "confidence": "62"
+    }
+  ]
+}

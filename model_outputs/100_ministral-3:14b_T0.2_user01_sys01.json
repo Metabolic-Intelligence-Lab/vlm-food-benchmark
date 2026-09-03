@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (partially visible, wrapped in plastic)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "fried chicken pieces with breadcrumbs",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "fries (thick-cut, partially covered in sauce)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetable medley (cucumber, zucchini, olives, and possibly black olives)",
+      "portion_estimate": "180g",
+      "confidence": 88
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "food_items": [
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "25g",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried Chicken",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed Potatoes with Gravy",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Red Sauce Dish",
+      "portion_estimate": "30g",
+      "confidence": "60"
+    }
+  ],
+  "drink": {
+    "type": "Water",
+    "quantity": "500ml",
+    "confidence": "80"
+  },
+  "tray": {
+    "material": "Plastic",
+    "dimensions": {
+      "length": "30cm",
+      "width": "40cm"
+    },
+    "location": "Table"
+  }
+}

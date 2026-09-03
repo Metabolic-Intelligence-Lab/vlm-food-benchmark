@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with a red sauce",
+      "portion_estimate": "uncertain, approx. 100-200g",
+      "confidence": "50"
+    },
+    {
+      "name": "crispy fried chicken on bread bun",
+      "portion_estimate": "uncertain, approx. 75-150g",
+      "confidence": "60"
+    },
+    {
+      "name": "chili con carne or spicy stew with beans",
+      "portion_estimate": "uncertain, approx. 120-240g",
+      "confidence": "50"
+    },
+    {
+      "name": "red cabbage salad with cucumber and yellow dressing",
+      "portion_estimate": "uncertain, approx. 75-150g",
+      "confidence": "60"
+    }
+  ]
+}

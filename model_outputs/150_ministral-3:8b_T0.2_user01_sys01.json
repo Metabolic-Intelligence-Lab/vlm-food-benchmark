@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "packaged bread (loaf, ~6 slices)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with grated cheese (penne/pappardelle)",
+      "portion_estimate": "250",
+      "confidence": 80
+    },
+    {
+      "name": "roasted vegetables (carrots, cauliflower, and potatoes)",
+      "portion_estimate": "300",
+      "confidence": 75
+    },
+    {
+      "name": "stuffed vegetable (likely zucchini or bell pepper with filling)",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "150",
+      "confidence": 85
+    }
+  ]
+}

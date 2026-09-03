@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with cheese",
+      "portion_estimate": "approximately 200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "approximately 30 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mixed farl and peas",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "quiche slice",
+      "portion_estimate": "approximately 120 grams",
+      "confidence": 90
+    }
+  ]
+}

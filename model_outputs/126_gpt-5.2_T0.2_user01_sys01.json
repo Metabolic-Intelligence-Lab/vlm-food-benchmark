@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with tomato sauce and grated cheese",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "spinach patty (vegetable cake) topped with melted cheese and shredded zucchini",
+      "portion_estimate": "140 g",
+      "confidence": "68"
+    },
+    {
+      "name": "white fish with diced potatoes (fish and potato portion)",
+      "portion_estimate": "160 g",
+      "confidence": "62"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "72"
+    },
+    {
+      "name": "strawberry yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "86"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "80"
+    }
+  ]
+}

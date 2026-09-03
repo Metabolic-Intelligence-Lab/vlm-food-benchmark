@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "creamy soup with grated cheese topping",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potato wedges (with skin)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potato or potato-based dip with green herbs",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "roasted meat chunks (possibly bacon or ham)",
+      "portion_estimate": "30",
+      "confidence": 70
+    },
+    {
+      "name": "sliced bread roll (partially wrapped in plastic)",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "carbonated beverage in can (partially visible, brand unclear)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "salt and pepper shakers (non-food)",
+      "portion_estimate": "0",
+      "confidence": 0
+    }
+  ]
+}

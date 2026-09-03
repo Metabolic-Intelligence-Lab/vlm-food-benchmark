@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes or cauliflower",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "white fish fillet",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "cooked white beans (cannellini)",
+      "portion_estimate": 140,
+      "confidence": 93
+    },
+    {
+      "name": "whole wheat bread slice",
+      "portion_estimate": 45,
+      "confidence": 96
+    },
+    {
+      "name": "plums (2)",
+      "portion_estimate": 100,
+      "confidence": 97
+    }
+  ]
+}

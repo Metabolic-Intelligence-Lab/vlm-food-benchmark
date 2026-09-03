@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "thick vegetable soup (pea/lentil style) with mixed vegetables",
+      "portion_estimate": "360 g",
+      "confidence": "72"
+    },
+    {
+      "name": "grated parmesan cheese topping (on soup)",
+      "portion_estimate": "12 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll (white, small)",
+      "portion_estimate": "60 g",
+      "confidence": "76"
+    },
+    {
+      "name": "baked savory slice (spinach/vegetable pie or casserole square)",
+      "portion_estimate": "110 g",
+      "confidence": "60"
+    },
+    {
+      "name": "cooked peas and sliced carrots",
+      "portion_estimate": "170 g",
+      "confidence": "78"
+    },
+    {
+      "name": "plums (whole)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cheese portion (wrapped, likely soft cheese)",
+      "portion_estimate": "25 g",
+      "confidence": "67"
+    }
+  ]
+}

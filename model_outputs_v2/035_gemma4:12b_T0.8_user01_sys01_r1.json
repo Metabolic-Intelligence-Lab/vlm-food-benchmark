@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "patty (veggie or meat)",
+      "portion_estimate": "110",
+      "confidence": "85"
+    },
+    {
+      "name": "watermelon wedge",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "pasta with cheese",
+      "portion_estimate": "250",
+      "confidence": "90"
+    },
+    {
+      "name": "croissant",
+      "portion_estimate": "80",
+      "confidence": "85"
+    }
+  ]
+}

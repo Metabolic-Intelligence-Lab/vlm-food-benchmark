@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice (white)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

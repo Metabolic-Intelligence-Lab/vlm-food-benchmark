@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "150 g",
+      "confidence": "75"
+    },
+    {
+      "name": "vegetable patty (likely lentil/bean burger)",
+      "portion_estimate": "90 g",
+      "confidence": "65"
+    },
+    {
+      "name": "pasta (rigatoni/short tube) with tomato sauce and grated cheese",
+      "portion_estimate": "260 g",
+      "confidence": "80"
+    },
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "70"
+    }
+  ]
+}

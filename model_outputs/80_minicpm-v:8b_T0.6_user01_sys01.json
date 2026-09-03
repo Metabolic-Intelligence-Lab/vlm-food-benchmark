@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with mixed vegetables",
+      "portion_estimate": "uncertain, approx. 300g",
+      "confidence": "65"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried egg with spinach and mushrooms on a frittata",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Boiled chicken breast",
+      "portion_estimate": "364g",
+      "confidence": "95"
+    }
+  ]
+}

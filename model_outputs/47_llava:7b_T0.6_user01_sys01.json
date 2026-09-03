@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "70 g",
+      "confidence": "90"
+    },
+    {
+      "name": "Egg and vegetable omelette",
+      "portion_estimate": "180 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sliced bread (2 slices)",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    }
+  ]
+}

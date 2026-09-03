@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed Vegetable Salad",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Custard",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrot",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Cucumber",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

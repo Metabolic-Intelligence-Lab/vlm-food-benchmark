@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted Vegetables",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 60
+    },
+    {
+      "name": "Squash Casserole",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 70
+    },
+    {
+      "name": "Pasta with Pesto Sauce, Olives and Cheese",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 80
+    },
+    {
+      "name": "Bread Roll (slice), likely wheat",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 50
+    },
+    {
+      "name": "Mixed Vegetable Salad with Olives, Pine Nuts and Cheese",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 80
+    }
+  ]
+}

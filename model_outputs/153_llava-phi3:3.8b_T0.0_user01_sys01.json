@@ -1,0 +1,23 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Sauce",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Green Beans and Rice",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    }
+  ],
+  "tablecloth": {
+    "color": "white",
+    "pattern": "green and white stripes"
+  }
+}

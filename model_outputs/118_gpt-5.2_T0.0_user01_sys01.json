@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and grated parmesan",
+      "portion_estimate": "320 g",
+      "confidence": "78"
+    },
+    {
+      "name": "diced cooked potatoes with herbs",
+      "portion_estimate": "180 g",
+      "confidence": "74"
+    },
+    {
+      "name": "breaded/pan-fried patty topped with tomato sauce and melted cheese (parmigiana-style, exact protein uncertain)",
+      "portion_estimate": "150 g",
+      "confidence": "55"
+    },
+    {
+      "name": "single-serve fruit yogurt cup (strawberry/cherry flavor, exact type uncertain)",
+      "portion_estimate": "125 g",
+      "confidence": "60"
+    },
+    {
+      "name": "breadstick (packaged)",
+      "portion_estimate": "25 g",
+      "confidence": "62"
+    }
+  ]
+}

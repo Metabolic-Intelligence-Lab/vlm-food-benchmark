@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "lemon",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "yellow substance",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "small, irregular pieces of food",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

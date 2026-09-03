@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange soup with cheese",
+      "portion_estimate": "250-300 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "green leafy vegetable (likely spinach) with sauce",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "two small cheese-covered patties (possibly stuffed cabbage or meatballs)",
+      "portion_estimate": "50 grams each",
+      "confidence": "85"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "small bread roll or bun (wrapped in plastic)",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    }
+  ]
+}

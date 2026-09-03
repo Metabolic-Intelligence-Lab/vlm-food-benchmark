@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted nuts (e.g., peanuts or similar seeds)",
+      "portion_estimate": "120",
+      "confidence": "95"
+    },
+    {
+      "name": "Saut\u00e9ed green vegetable and nut mixture",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried stuffed bread or pastry pieces",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "Fried bread or puff pastry piece",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "Peach or Nectarine",
+      "portion_estimate": "150",
+      "confidence": "95"
+    }
+  ]
+}

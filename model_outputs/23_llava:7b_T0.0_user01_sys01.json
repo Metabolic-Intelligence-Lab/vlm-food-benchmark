@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fish fillet with sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Rice pilaf",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed vegetables with sauce",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta salad with tomatoes and peppers",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded chicken breast",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

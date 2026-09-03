@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pesto Pasta",
+      "portion_estimate": 350,
+      "confidence": 85
+    },
+    {
+      "name": "Brussels Sprouts",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "Focaccia or Pizza Bread",
+      "portion_estimate": 250,
+      "confidence": 80
+    },
+    {
+      "name": "Yellow Cheese Cake / Frittata Slice",
+      "portion_estimate": 150,
+      "confidence": 75
+    },
+    {
+      "name": "Fresh Plums",
+      "portion_estimate": 100,
+      "confidence": 80
+    }
+  ]
+}

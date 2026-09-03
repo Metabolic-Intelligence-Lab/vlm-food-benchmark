@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cabbage salad",
+      "portion_estimate": "100",
+      "confidence": "100"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "100"
+    },
+    {
+      "name": "stuffed meatballs",
+      "portion_estimate": "30",
+      "confidence": "100"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "100"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "10",
+      "confidence": "100"
+    }
+  ]
+}

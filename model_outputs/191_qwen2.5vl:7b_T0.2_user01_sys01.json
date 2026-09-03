@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded balls",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "green soup",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "leeks",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

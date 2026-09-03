@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Boiled eggs on a white plate",
+      "portion_estimate": "uncertain, likely around several pieces per egg",
+      "confidence": "50"
+    },
+    {
+      "name": "Garlic bread with sauce and butter",
+      "portion_estimate": "uncertain; approximately 12-16g each slice based on visual estimation",
+      "confidence": "70"
+    },
+    {
+      "name": "Green pesto, possibly on a sandwich or wrap component not fully visible in the image",
+      "portion_estimate": "uncertain, likely around half an avocado per part; approximately 25-35g each part based on visual estimation",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole yellow pear with stem attached to plate for presentation purposes only (not edible)",
+      "portion_estimate": "uncertain, likely around a medium-sized fruit of that type; approximately 150-200g based on visual estimation",
+      "confidence": "80"
+    }
+  ]
+}

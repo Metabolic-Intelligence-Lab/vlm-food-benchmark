@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Crispy breaded fish fillets (or nuggets)",
+      "portion_estimate": 140,
+      "confidence": 95
+    },
+    {
+      "name": "Roasted diced potatoes with seasoning",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Steamed or saut\u00e9ed dark green leafy vegetables (kale or spinach)",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Fresh apricots",
+      "portion_estimate": 40,
+      "confidence": 98
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": 240,
+      "confidence": 95
+    },
+    {
+      "name": "Baguette roll or bread roll (in plastic wrapper)",
+      "portion_estimate": 60,
+      "confidence": 98
+    }
+  ]
+}

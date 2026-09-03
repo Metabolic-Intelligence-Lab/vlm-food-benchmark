@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Quinoa Balls (2)",
+      "portion_estimate": "160g each",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta with Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread (Whole Grain)",
+      "portion_estimate": "186g",
+      "confidence": "90"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

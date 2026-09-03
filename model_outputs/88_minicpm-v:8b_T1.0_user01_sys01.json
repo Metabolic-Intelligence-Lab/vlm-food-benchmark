@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with brown sauce",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "green beans or snap peas",
+      "portion_estimate": "uncertain, estimate at best",
+      "confidence": 60
+    },
+    {
+      "name": "whole grain rice mixed with green peas and other vegetables",
+      "portion_estimate": "150g",
+      "confidence": 70
+    },
+    {
+      "name": "quiche or frittata, possibly mushroom-olive based",
+      "portion_estimate": "uncertain, estimate at best",
+      "confidence": 65
+    },
+    {
+      "name": "bananas",
+      "portion_estimate": "20g each (total for all visible bananas)",
+      "confidence": 95
+    }
+  ]
+}

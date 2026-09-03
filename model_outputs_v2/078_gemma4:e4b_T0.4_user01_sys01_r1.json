@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Diced orange vegetables (carrots or squash)",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    },
+    {
+      "name": "Curry or thick sauce with solids",
+      "portion_estimate": "320g",
+      "confidence": "90"
+    },
+    {
+      "name": "Yellow/green dip or spread",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "110g",
+      "confidence": "95"
+    }
+  ]
+}

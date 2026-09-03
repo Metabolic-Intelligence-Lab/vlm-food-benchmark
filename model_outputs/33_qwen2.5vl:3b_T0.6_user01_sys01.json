@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "vegetable medley",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken and Rice",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Creamy Soup or Stew with Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Condiment or Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

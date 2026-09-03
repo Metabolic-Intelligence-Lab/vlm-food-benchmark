@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pizza slice",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Fruit (sliced apples and grapes)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

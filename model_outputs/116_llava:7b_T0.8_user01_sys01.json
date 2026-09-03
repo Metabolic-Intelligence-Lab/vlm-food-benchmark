@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy Broccoli Soup",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mac and Cheese",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sliced Bread with Butter",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Cubes of Parmesan Cheese",
+      "portion_estimate": "30g",
+      "confidence": "90"
+    }
+  ]
+}

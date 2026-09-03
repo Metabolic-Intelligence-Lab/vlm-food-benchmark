@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "tomato and cheese-stuffed bread with basil leaves",
+      "portion_estimate": "60 grams",
+      "confidence": 75
+    },
+    {
+      "name": "broth-based soup with meat pieces (possibly beef or chicken)",
+      "portion_estimate": "350 grams (entire bowl contents)",
+      "confidence": 80
+    },
+    {
+      "name": "whole-wheat bread slice (with plastic wrap)",
+      "portion_estimate": "40 grams",
+      "confidence": 85
+    },
+    {
+      "name": "buttered corn kernels (packaged)",
+      "portion_estimate": "uncertain (likely 100\u2013150 grams; packaging size unknown)",
+      "confidence": 55
+    },
+    {
+      "name": "canned sardines or similar fish in sauce",
+      "portion_estimate": "150 grams (entire bowl contents, including sauce)",
+      "confidence": 80
+    }
+  ]
+}

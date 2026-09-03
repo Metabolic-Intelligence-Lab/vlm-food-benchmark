@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "breaded and fried fish or fish fillet",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "shredded cheese (e.g., cheddar) in a single-serve cup",
+      "portion_estimate": "30g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed green beans with corn kernels",
+      "portion_estimate": "100g",
+      "confidence": 88
+    },
+    {
+      "name": "shredded cheese in a bowl",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "boiled baby potatoes or dumplings in plastic bag",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "glass of water (empty plastic bottle visible, likely accompanying)",
+      "portion_estimate": "250ml",
+      "confidence": 70
+    }
+  ]
+}

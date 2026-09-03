@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potatoes (diced)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "small portion of meatball (or similar) in tomato sauce",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "condiment packet (likely containing seasoning or sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "small container of butter or margarine",
+      "portion_estimate": "uncertain (likely ~20g)",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of cereal",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Milk in cup",
+      "portion_estimate": "75g",
+      "confidence": "63"
+    },
+    {
+      "name": "Plain yogurt",
+      "portion_estimate": "40g",
+      "confidence": "58"
+    },
+    {
+      "name": "Fruits and veggies on plate",
+      "portion_estimate": "90g",
+      "confidence": "76"
+    }
+  ]
+}

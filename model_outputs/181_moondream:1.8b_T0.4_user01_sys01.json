@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti and macaroni",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "slice of pizza topped with yellow cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "piece of fruit (likely an apple or pear)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "vegetables (like broccoli)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

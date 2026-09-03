@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "slice of watermelon",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "plate of spaghetti with tomato sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked greens",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded cutlet",
+      "portion_estimate": "120 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250 grams",
+      "confidence": "90"
+    }
+  ]
+}

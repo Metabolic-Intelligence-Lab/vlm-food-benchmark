@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Steak",
+      "portion_estimate": "100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Mashed potatoes with gravy",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Broccoli casserole",
+      "portion_estimate": "120 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "80 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Roasted carrots",
+      "portion_estimate": "100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Rolling cut steak with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    }
+  ]
+}

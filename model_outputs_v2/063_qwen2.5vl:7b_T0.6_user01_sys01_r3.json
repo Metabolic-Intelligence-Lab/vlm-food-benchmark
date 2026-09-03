@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed vegetables",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "sliced bread",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    }
+  ]
+}

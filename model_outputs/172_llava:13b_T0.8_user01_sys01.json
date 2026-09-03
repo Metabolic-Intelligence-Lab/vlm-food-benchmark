@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green peas",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 90
+    },
+    {
+      "name": "pasta salad or similar noodle-based dish",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fresh salad with lettuce and other leafy greens and vegetables like carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with olive oil and grated Parmesan",
+      "portion_estimate": "200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "small slice of baked cheese (potentially a cheese gratin or cheese puff)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "small round cheese on plastic wrap (possibly a feta or similar)",
+      "portion_estimate": "10 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small portion of grilled eggplant",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "brussels sprouts, roasted",
+      "portion_estimate": "50 grams",
+      "confidence": 95
+    },
+    {
+      "name": "black eggplant (eggplant slice)",
+      "portion_estimate": "uncertain (small slice)",
+      "confidence": 65
+    }
+  ]
+}

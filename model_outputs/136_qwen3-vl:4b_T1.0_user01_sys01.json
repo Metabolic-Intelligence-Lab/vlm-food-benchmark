@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (Cooked)",
+      "portion_estimate": "250 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Peas",
+      "portion_estimate": "30 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "20 grams",
+      "confidence": 85
+    }
+  ]
+}

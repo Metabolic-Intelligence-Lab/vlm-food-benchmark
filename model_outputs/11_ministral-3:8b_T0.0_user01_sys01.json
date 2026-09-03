@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole baked potato (with skin)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed greens salad (kale and cabbage)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "sliced orange segments (2-3 pieces)",
+      "portion_estimate": "50 grams",
+      "confidence": 75
+    },
+    {
+      "name": "sliced avocado mixed with shredded purple cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "small piece of bread or toast with toppings",
+      "portion_estimate": "30 grams",
+      "confidence": 70
+    }
+  ]
+}

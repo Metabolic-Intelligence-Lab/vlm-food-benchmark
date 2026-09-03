@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "chickpea soup with croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "salad (lettuce, carrots, vegetables)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sandwich (white bread)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

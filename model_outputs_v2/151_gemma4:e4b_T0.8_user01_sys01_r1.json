@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted Brussels sprouts",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Roasted carrot and vegetable mix",
+      "portion_estimate": "90g",
+      "confidence": "90"
+    },
+    {
+      "name": "Baked or scrambled egg",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread cubes or thick toast pieces",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread crumbs or croutons (topping)",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "Sliced bread",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    }
+  ]
+}

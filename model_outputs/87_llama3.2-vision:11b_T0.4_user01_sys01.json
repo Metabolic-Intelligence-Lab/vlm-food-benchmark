@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "green beans with breadcrumbs or crumbled cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "meat or fish (possibly chicken or salmon)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "peach",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "cheese or crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

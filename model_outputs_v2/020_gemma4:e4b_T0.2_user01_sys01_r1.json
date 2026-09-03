@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cut carrots",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "cooked chicken or protein",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "green olives",
+      "portion_estimate": "70g",
+      "confidence": "95"
+    }
+  ]
+}

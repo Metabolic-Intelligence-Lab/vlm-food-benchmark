@@ -1,0 +1,26 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "95"
+    },
+    {
+      "name": "Broccoli and rice",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    }
+  ],
+  "tablecloth": "white",
+  "fruit": [
+    {
+      "type": "lemon",
+      "portion_estimate": "60g"
+    }
+  ]
+}

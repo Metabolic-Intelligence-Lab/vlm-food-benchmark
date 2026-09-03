@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked cabbage (lightly sauced/boiled)",
+      "portion_estimate": "150 g",
+      "confidence": "65"
+    },
+    {
+      "name": "scrambled egg with small pieces of meat/vegetable (uncertain)",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "herb-coated soft cheese balls (likely ricotta/quark), 2 pieces",
+      "portion_estimate": "80 g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll (bun) in plastic",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "160 g",
+      "confidence": "80"
+    },
+    {
+      "name": "water in plastic cup",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    }
+  ]
+}

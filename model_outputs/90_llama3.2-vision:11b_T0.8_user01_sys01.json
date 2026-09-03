@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice",
+      "portion_estimate": "1/2 cup",
+      "confidence": 95
+    },
+    {
+      "name": "Vegetables",
+      "portion_estimate": "1/2 cup",
+      "confidence": 95
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "1 roll",
+      "confidence": 95
+    },
+    {
+      "name": "Fruit",
+      "portion_estimate": "1 apple",
+      "confidence": 95
+    },
+    {
+      "name": "Other",
+      "portion_estimate": "1/2 cup",
+      "confidence": 60
+    }
+  ]
+}

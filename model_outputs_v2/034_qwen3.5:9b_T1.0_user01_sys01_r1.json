@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Fried egg, sunny-side up",
+      "portion_estimate": 60,
+      "confidence": 98
+    },
+    {
+      "name": "Spinach salad or saut\u00e9ed spinach with cheese",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Corn muffin",
+      "portion_estimate": 85,
+      "confidence": 97
+    },
+    {
+      "name": "Penne pasta in red sauce with grated parmesan cheese",
+      "portion_estimate": 220,
+      "confidence": 96
+    },
+    {
+      "name": "Green apple (Granny Smith or similar)",
+      "portion_estimate": 180,
+      "confidence": 99
+    },
+    {
+      "name": "Baked bread roll in plastic wrapper",
+      "portion_estimate": 65,
+      "confidence": 92
+    }
+  ]
+}

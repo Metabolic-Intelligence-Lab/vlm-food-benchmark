@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Twisted pasta (fusilli) with tomato and vegetable sauce",
+      "portion_estimate": 200,
+      "confidence": 95
+    },
+    {
+      "name": "Whole wheat roll or bun",
+      "portion_estimate": 60,
+      "confidence": 90
+    },
+    {
+      "name": "Steamed spinach",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Rolled dish (possibly cannelloni or ravioli) with spinach filling and cheese",
+      "portion_estimate": 180,
+      "confidence": 90
+    },
+    {
+      "name": "Cucumber salad with shredded cabbage/lettuce",
+      "portion_estimate": 150,
+      "confidence": 92
+    },
+    {
+      "name": "Yogurt drink in a plastic cup with red cap",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "Water in a clear glass",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Glass of soda or sparkling water with ice",
+      "portion_estimate": 250,
+      "confidence": 90
+    }
+  ]
+}

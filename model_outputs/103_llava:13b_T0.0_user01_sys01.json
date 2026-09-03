@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Sliced meat and vegetables (ham and broccoli)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Soup or stew (tomato-based)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Vegetables (broccoli and cauliflower)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Roll or bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

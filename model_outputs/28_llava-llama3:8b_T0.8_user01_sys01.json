@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta and vegetables in red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "green broccoli and fish in yellow sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "salad with greens and reds",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

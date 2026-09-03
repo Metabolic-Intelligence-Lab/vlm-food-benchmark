@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Quiche",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed vegetables (potatoes and carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    },
+    {
+      "name": "Pasta with raisins (possibly a dessert)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    }
+  ]
+}

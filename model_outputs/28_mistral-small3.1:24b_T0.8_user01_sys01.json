@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce and vegetables",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "spinach and ricotta filled pasta",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "saut\u00e9ed kale",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed salad greens",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "bottled water",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

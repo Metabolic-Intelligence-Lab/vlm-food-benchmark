@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried noodles (or rice noodles)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "purple cabbage salad with pickled cucumber slices",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "green patties (likely falafel or spinach meatballs)",
+      "portion_estimate": "120 grams (two patties)",
+      "confidence": 80
+    },
+    {
+      "name": "sauce in small bowl (likely a sweet chili or tomato-based sauce)",
+      "portion_estimate": "uncertain (small bowl, ~50-80 grams)",
+      "confidence": 60
+    },
+    {
+      "name": "bread roll or pastry",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    }
+  ]
+}

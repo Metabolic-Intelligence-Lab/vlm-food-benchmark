@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain, approx. slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt with fruit pieces",
+      "portion_estimate": "uncertain, cup size",
+      "confidence": "60"
+    },
+    {
+      "name": "Penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "uncertain, plate size",
+      "confidence": "50"
+    },
+    {
+      "name": "Stuffed baked zucchini slice with tomato sauce and grated cheese",
+      "portion_estimate": "uncertain, half of a medium-sized piece",
+      "confidence": "60"
+    },
+    {
+      "name": "Cucumber salad",
+      "portion_estimate": "uncertain, plate size",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+The estimated portion sizes in grams for each item are as follows:
+
+- **Salad**: 100 g (confidence: 80%)
+- **Patty**: 20 g (confidence: 70%)
+- **Potatoes**: 100 g (confidence: 80%)
+- **Water**: 250 g (confidence: 70%)
+- **Yogurt**: 100 g (confidence: 60%)
+- **Bun**: 20 g (confidence: 70%)
+
+These values are based on the visual estimation of the portion sizes in the given image.
+
+\boxed{100,20,100,250,100,20}

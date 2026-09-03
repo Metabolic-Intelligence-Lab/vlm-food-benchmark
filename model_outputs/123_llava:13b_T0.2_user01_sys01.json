@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Breaded and fried food with potatoes and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Salad or mixed greens",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Sliced bananas",
+      "portion_estimate": "uncertain",
+      "confidence": 95
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

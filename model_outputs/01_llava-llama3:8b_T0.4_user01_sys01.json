@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable-based soup with sour cream",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "freshly baked bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange cake",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "strawberry or raspberry ice cream",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water and plain yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

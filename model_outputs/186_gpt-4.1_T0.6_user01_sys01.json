@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "40",
+      "confidence": 95
+    },
+    {
+      "name": "scrambled eggs or egg casserole",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "sliced roast turkey or chicken breast with peppercorn sauce",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "90",
+      "confidence": 85
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200",
+      "confidence": 95
+    }
+  ]
+}

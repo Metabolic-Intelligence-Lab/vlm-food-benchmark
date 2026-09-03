@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "watermelon slice with pasta salad",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "meat dish",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pasta salad (no watermelon)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich wrapped in plastic paper",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

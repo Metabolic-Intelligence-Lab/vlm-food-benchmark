@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken and vegetable soup with carrots and beans",
+      "portion_estimate": "450",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed collard greens",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "roasted or baked potato wedge (skin-on)",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt (partially visible, likely Greek-style or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

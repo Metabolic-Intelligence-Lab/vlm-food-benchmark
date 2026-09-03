@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "orange carrots",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "carrot sticks",
+      "portion_estimate": "120g",
+      "confidence": "60"
+    }
+  ]
+}

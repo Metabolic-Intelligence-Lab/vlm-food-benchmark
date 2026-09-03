@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "240g",
+      "confidence": 100
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "40g",
+      "confidence": 100
+    },
+    {
+      "name": "Meatballs",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "240g",
+      "confidence": 100
+    },
+    {
+      "name": "Bread rolls",
+      "portion_estimate": "200g",
+      "confidence": 100
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "240g",
+      "confidence": 100
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Glazed chicken breast",
+      "portion_estimate": "75 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Roasted vegetables (beets, carrots)",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    }
+  ]
+}

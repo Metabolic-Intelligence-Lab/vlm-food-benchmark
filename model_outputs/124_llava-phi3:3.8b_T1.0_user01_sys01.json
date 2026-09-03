@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "light brown soup with chunks",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "golden-brown fried rice with meat and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "white bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red sauce with fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

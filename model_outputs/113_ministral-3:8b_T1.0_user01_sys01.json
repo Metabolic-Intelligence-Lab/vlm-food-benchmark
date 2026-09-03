@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "beef steak",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed Brussels sprouts mixed with baby carrots",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "whole-grain roll or biscuit (in plastic packaging)",
+      "portion_estimate": "50g",
+      "confidence": 75
+    },
+    {
+      "name": "beef stew with grated cheese on top",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100g (2 medium plums)",
+      "confidence": 70
+    }
+  ]
+}

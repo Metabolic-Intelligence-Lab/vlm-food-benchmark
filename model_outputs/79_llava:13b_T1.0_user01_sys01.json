@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta dish with tomato sauce and cheese",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "meat sandwich (possibly turkey)",
+      "portion_estimate": "approximately 70-80 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "nut mixture containing almonds and cashews",
+      "portion_estimate": "approximately 30 grams",
+      "confidence": "70"
+    }
+  ]
+}

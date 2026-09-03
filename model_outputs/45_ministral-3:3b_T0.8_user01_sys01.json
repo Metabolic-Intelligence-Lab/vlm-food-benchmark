@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried fish or breaded fish cutlet",
+      "portion_estimate": "180 grams",
+      "confidence": 95
+    },
+    {
+      "name": "beaten eggs with corn and tomato on green beans",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "shredded carrots (likely zucchini or yellow squash)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "margarine or butter pack (container)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "plain yogurt cup (unspecified flavor)",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    }
+  ]
+}

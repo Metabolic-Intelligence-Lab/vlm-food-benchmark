@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mixed chickpeas and diced carrots",
+      "portion_estimate": "180g (uncertain, visual estimate from bowl size and contents)",
+      "confidence": 70
+    },
+    {
+      "name": "whole roasted penne pasta with grated cheese",
+      "portion_estimate": "250g (uncertain, visual estimate from bowl size and pasta quantity)",
+      "confidence": 75
+    },
+    {
+      "name": "whole apple",
+      "portion_estimate": "180g (uncertain, visual estimate based on average apple size)",
+      "confidence": 85
+    },
+    {
+      "name": "packaged cheese slice or spread in plastic",
+      "portion_estimate": "uncertain (cannot estimate weight due to unclear visibility)",
+      "confidence": 55
+    },
+    {
+      "name": "small whole wheat or multigrain roll",
+      "portion_estimate": "100g (uncertain, visual estimate from roll size)",
+      "confidence": 70
+    },
+    {
+      "name": "seafood/vegetable salad on lettuce wrap",
+      "portion_estimate": "120g (uncertain, visual estimate from plate size and contents)",
+      "confidence": 70
+    }
+  ]
+}

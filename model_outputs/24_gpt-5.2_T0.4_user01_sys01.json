@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish patties with lemon wedge (2 pieces)",
+      "portion_estimate": "180 g",
+      "confidence": "70"
+    },
+    {
+      "name": "lemon wedges (on fish patties)",
+      "portion_estimate": "15 g",
+      "confidence": "65"
+    },
+    {
+      "name": "sliced cooked carrots",
+      "portion_estimate": "120 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked pasta (small shell/gnocchetti style) with grated cheese",
+      "portion_estimate": "230 g",
+      "confidence": "72"
+    },
+    {
+      "name": "grated cheese (on pasta)",
+      "portion_estimate": "15 g",
+      "confidence": "70"
+    },
+    {
+      "name": "apple (whole, medium)",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll/bun (in plastic wrap, 1 piece)",
+      "portion_estimate": "60 g",
+      "confidence": "75"
+    },
+    {
+      "name": "yogurt cup (fruit yogurt, single-serve)",
+      "portion_estimate": "125 g",
+      "confidence": "78"
+    }
+  ]
+}

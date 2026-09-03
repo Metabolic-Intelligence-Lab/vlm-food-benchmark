@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "radicchio",
+      "portion_estimate": "100-150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "romaine lettuce",
+      "portion_estimate": "50-100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "carrot",
+      "portion_estimate": "20-30 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "chicken breast (grilled)",
+      "portion_estimate": "50-100 grams",
+      "confidence": "75"
+    }
+  ]
+}

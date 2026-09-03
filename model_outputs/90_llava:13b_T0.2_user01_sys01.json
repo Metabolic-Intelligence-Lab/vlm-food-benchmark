@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Vegetable Stir-fry",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Mixed Vegetable Salad",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Apple and Orange Fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Roll or Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

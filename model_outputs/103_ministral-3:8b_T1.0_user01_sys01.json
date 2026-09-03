@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "grilled pork/chop (approx. 1/4 of a typical serving)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "broccoli florets",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "creamy soup (likely cheese-based, served in a bowl)",
+      "portion_estimate": "350 grams",
+      "confidence": 85
+    },
+    {
+      "name": "grated cheese sprinkled on soup",
+      "portion_estimate": "15 grams",
+      "confidence": 60
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "50 grams (small roll)",
+      "confidence": 70
+    },
+    {
+      "name": "butter/spread packet (likely for the bread roll)",
+      "portion_estimate": "uncertain (item is small packaging, not fully visible)",
+      "confidence": 40
+    },
+    {
+      "name": "condiment packet (red and white, likely salt/spicy seasoning)",
+      "portion_estimate": "uncertain (small and not clear enough to estimate portion)",
+      "confidence": 40
+    },
+    {
+      "name": "water in transparent glass",
+      "portion_estimate": "250 grams (approximate standard glass size)",
+      "confidence": 75
+    }
+  ]
+}

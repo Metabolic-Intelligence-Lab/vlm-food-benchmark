@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Farfalle pasta with parmesan cheese",
+      "portion_estimate": "uncertain, approx. 150-200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Banana (visible but not eaten)",
+      "portion_estimate": "uncertain, approx. 80-100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain, approx. 50-70g",
+      "confidence": "70"
+    },
+    {
+      "name": "Scrambled eggs with vegetables (peas and carrots)",
+      "portion_estimate": "uncertain, approx. 100-120g for the egg portion, additional weight from peas and carrots.",
+      "confidence": "65"
+    }
+  ]
+}

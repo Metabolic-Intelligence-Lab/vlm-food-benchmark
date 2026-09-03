@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cavatappi pasta with beans and cheese",
+      "portion_estimate": "250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "sliced bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "zucchini and potato stir-fry",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "quiche or frittata slice",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "empty plastic cup",
+      "portion_estimate": "0 grams",
+      "confidence": 100
+    }
+  ]
+}

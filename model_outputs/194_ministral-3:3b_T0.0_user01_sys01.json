@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "soup in a bowl (likely tomato-based)",
+      "portion_estimate": "200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "small baked sweet potato or sweet potato pie",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed greens (likely spinach or kale)",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "purple cabbage or similar cooked vegetable",
+      "portion_estimate": "30 grams",
+      "confidence": 75
+    },
+    {
+      "name": "plain water in a glass",
+      "portion_estimate": "200 ml (\u2248150 grams)",
+      "confidence": 95
+    },
+    {
+      "name": "small glazed doughnut or pastry",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "orange (whole fruit)",
+      "portion_estimate": "180 grams",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (yellow, likely with oil or seasoning)",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "spinach (saut\u00e9ed or steamed)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "corn on the cob (grilled, with butter)",
+      "portion_estimate": "120 grams (including husk)",
+      "confidence": 80
+    },
+    {
+      "name": "tomatoes (whole, cherry or small)",
+      "portion_estimate": "100 grams (two tomatoes)",
+      "confidence": 85
+    },
+    {
+      "name": "bagel or roll (plain, wrapped in plastic)",
+      "portion_estimate": "uncertain (likely 50-70 grams)",
+      "confidence": 55
+    }
+  ]
+}

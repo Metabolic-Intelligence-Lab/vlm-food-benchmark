@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni and Cheese",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "Wheat Bread",
+      "portion_estimate": "30g",
+      "confidence": 70
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "30g",
+      "confidence": 65
+    }
+  ]
+}

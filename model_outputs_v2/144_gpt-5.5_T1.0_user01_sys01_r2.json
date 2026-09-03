@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "240 g",
+      "confidence": "85"
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "45 g",
+      "confidence": "80"
+    },
+    {
+      "name": "baked beans",
+      "portion_estimate": "120 g",
+      "confidence": "80"
+    },
+    {
+      "name": "small egg frittata or omelette with cheese topping",
+      "portion_estimate": "90 g",
+      "confidence": "65"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "170 g",
+      "confidence": "90"
+    }
+  ]
+}

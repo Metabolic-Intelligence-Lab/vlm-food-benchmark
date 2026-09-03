@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "250",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "nectarines",
+      "portion_estimate": "300",
+      "confidence": 90
+    },
+    {
+      "name": "saut\u00e9ed greens",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "fish with topping",
+      "portion_estimate": "180",
+      "confidence": 90
+    }
+  ]
+}

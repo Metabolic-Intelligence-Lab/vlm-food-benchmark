@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetable medley with chunks of potato and carrots (likely including peas and corn)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed or roasted mushrooms",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "fried or baked potato wedge",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "green leafy vegetable (collard greens or similar)",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "water in a clear plastic cup",
+      "portion_estimate": "uncertain (likely 200-250 ml)",
+      "confidence": 60
+    }
+  ]
+}

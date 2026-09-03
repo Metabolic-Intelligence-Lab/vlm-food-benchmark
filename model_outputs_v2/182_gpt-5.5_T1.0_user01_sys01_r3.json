@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with tomato sauce and mushrooms/meat",
+      "portion_estimate": "250 g",
+      "confidence": "78"
+    },
+    {
+      "name": "baked lasagna or pasta casserole with melted cheese and tomato sauce",
+      "portion_estimate": "180 g",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked broccoli",
+      "portion_estimate": "150 g",
+      "confidence": "85"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "88"
+    },
+    {
+      "name": "mandarins/clementines",
+      "portion_estimate": "160 g total",
+      "confidence": "90"
+    }
+  ]
+}

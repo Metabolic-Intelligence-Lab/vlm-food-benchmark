@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "baked apple with pineapple chunks",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "cheddar cheese block",
+      "portion_estimate": "20-30 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "baked apple with pineapple chunks on a plate",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "baked apple with pineapple chunks in a bowl",
+      "portion_estimate": "2-3 pieces (approx. 15 grams each)",
+      "confidence": "75"
+    }
+  ]
+}

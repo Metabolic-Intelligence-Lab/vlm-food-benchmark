@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable pie (spinach and onion) with pastry",
+      "portion_estimate": "250-300g",
+      "confidence": "90"
+    },
+    {
+      "name": "Roasted vegetables (carrots, potatoes, and onions)",
+      "portion_estimate": "150-200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "20-30g",
+      "confidence": "85"
+    },
+    {
+      "name": "Pasta with mushroom and olive sauce",
+      "portion_estimate": "100-150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Fruit (apple)",
+      "portion_estimate": "100-150g",
+      "confidence": "80"
+    }
+  ]
+}

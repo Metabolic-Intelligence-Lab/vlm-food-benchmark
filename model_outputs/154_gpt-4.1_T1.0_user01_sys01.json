@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bowtie pasta with grated cheese",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "sliced cooked carrots",
+      "portion_estimate": "90",
+      "confidence": 95
+    },
+    {
+      "name": "vegetable patties with tomato slice topping",
+      "portion_estimate": "70",
+      "confidence": 85
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "whole plums",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "butter portion (packaged)",
+      "portion_estimate": "10",
+      "confidence": 90
+    }
+  ]
+}

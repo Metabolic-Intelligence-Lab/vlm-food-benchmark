@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Roll",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "Cabbage",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrot",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    }
+  ]
+}

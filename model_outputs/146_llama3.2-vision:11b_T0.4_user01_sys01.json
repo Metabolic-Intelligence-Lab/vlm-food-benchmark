@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with creamy orange sauce and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "scrambled eggs with cracker",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "slice of bread wrapped in plastic wrap",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

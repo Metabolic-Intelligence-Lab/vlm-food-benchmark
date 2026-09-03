@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable salad",
+      "portion_estimate": "200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "spaghetti with pasta",
+      "portion_estimate": "250 grams",
+      "confidence": 95
+    },
+    {
+      "name": "fried egg with toppings",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "bun or bread roll",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    }
+  ]
+}

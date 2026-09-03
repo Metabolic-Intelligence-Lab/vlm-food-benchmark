@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "unrecognizable bread",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "unrecognizable spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "unrecognizable pizza",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "unrecognizable salad",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "unrecognizable butter",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

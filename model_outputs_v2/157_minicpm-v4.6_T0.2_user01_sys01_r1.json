@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked macaroni with grated cheese",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "lentils",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "round food items (likely fish cakes or potatoes)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "mushroom slice",
+      "portion_estimate": "20g",
+      "confidence": 90
+    }
+  ]
+}

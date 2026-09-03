@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green apple",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Bottle of water",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Packaged pasta noodles",
+      "portion_estimate": "120g-140g (approximate portion size)",
+      "confidence": "90"
+    },
+    {
+      "name": "Baked bun with a slice of tomato on top",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed vegetable stir-fry (carrots, peas, green beans)",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    }
+  ]
+}

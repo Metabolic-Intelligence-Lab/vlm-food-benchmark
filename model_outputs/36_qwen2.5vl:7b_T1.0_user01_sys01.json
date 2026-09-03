@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried pasta",
+      "portion_estimate": "300",
+      "confidence": 80
+    },
+    {
+      "name": "Purple cabbage and cucumber",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "Falafel",
+      "portion_estimate": "200",
+      "confidence": 75
+    },
+    {
+      "name": "Spiced sauce",
+      "portion_estimate": "100",
+      "confidence": 65
+    },
+    {
+      "name": "Bun",
+      "portion_estimate": "100",
+      "confidence": 70
+    }
+  ]
+}

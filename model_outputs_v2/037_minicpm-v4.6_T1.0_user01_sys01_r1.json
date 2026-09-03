@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetable salad",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "spaghetti with cheese",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "50g",
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "quesadilla with orange and yellow",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

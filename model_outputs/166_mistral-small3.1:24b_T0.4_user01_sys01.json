@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "calzone with vegetables and greens",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "80",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "20",
+      "confidence": "85"
+    }
+  ]
+}

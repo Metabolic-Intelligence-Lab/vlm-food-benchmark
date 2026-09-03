@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup with grated cheese",
+      "portion_estimate": "300 grams",
+      "confidence": 75
+    },
+    {
+      "name": "peas (fresh)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed baby carrots",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (plain, in cup)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat roll or baguette",
+      "portion_estimate": "uncertain (likely 50-70 grams per slice, 1-2 slices visible)",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup with chunks (likely meat or tofu) and grated cheese",
+      "portion_estimate": "400 grams",
+      "confidence": 85
+    },
+    {
+      "name": "fried or baked egg roll with purple cabbage filling",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "sauce or dip (yellowish, possibly sweet or creamy)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "hard-boiled egg (sliced)",
+      "portion_estimate": "60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "condiment packet (likely soy sauce or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "yogurt or dairy drink (in small plastic cup)",
+      "portion_estimate": "uncertain (likely ~100-150ml)",
+      "confidence": 70
+    },
+    {
+      "name": "small plastic container with red label (likely condiment or sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

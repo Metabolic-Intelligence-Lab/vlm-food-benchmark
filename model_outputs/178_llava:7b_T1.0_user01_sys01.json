@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish with bread",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried fish portion",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Spaghetti with sauce",
+      "portion_estimate": "250 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bottle of water",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spinach and ricotta savory pie (torta salata)",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "roasted diced pumpkin and potato mix",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "wrapped bread roll (panino)",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "gemelli pasta with radicchio and grated cheese",
+      "portion_estimate": "180",
+      "confidence": 75
+    },
+    {
+      "name": "fresh plums",
+      "portion_estimate": "100",
+      "confidence": 80
+    }
+  ]
+}

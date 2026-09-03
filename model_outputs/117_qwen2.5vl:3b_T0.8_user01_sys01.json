@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green bean soup with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Sesame seeds",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "Pasta with pesto and meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Fondant yogurt",
+      "portion_estimate": "12g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

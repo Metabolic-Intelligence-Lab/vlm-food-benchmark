@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup with cheese sprinkle (likely cheese soup or potato soup)",
+      "portion_estimate": "300g",
+      "confidence": 85
+    },
+    {
+      "name": "potato croquettes or fried potato chunks",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "potato dumplings or small potato balls with cheese topping",
+      "portion_estimate": "100g (two small pieces)",
+      "confidence": 80
+    },
+    {
+      "name": "sliced bread roll (likely for dipping or side)",
+      "portion_estimate": "60g",
+      "confidence": 85
+    },
+    {
+      "name": "buttered or flavored spread (in small container with spoon)",
+      "portion_estimate": "uncertain (likely 20-30g)",
+      "confidence": 50
+    }
+  ]
+}

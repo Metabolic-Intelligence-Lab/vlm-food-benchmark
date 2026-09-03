@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta and meatballs with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pizza slice",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

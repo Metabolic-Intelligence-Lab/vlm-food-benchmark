@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese and meat toppings",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with no toppings or cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread wrapped in plastic",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "raisins",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "dried plums",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

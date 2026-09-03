@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pizza",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "75g",
+      "confidence": "60"
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "125g",
+      "confidence": "70"
+    },
+    {
+      "name": "Peas",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    }
+  ]
+}

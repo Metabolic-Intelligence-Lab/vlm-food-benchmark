@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 85
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 80
+    },
+    {
+      "name": "condiment or sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "seasoning or spice mix",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pear or similar fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

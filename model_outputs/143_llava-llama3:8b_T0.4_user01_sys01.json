@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fish and potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

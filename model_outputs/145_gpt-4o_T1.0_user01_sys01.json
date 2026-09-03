@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup with grated cheese",
+      "portion_estimate": "250",
+      "confidence": "90"
+    },
+    {
+      "name": "steamed cauliflower",
+      "portion_estimate": "80",
+      "confidence": "85"
+    },
+    {
+      "name": "slice of vegetable quiche",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "packaged cheese portion",
+      "portion_estimate": "20",
+      "confidence": "85"
+    }
+  ]
+}

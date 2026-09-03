@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken fillet",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta with tomato sauce and green herbs",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed salad (lettuce, shredded carrots, purple cabbage)",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread slice with olive oil and herbs",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt cup (red label)",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta dish with meatballs and grated cheese",
+      "portion_estimate": "350 grams",
+      "confidence": 85
+    },
+    {
+      "name": "roasted cauliflower florets",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "quiche or savory tart with spinach and cheese",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "packaged butter or margarine (de Polphie)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "packaged crackers or biscuits",
+      "portion_estimate": "uncertain (likely 50-70 grams)",
+      "confidence": 60
+    }
+  ]
+}

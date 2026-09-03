@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bowtie pasta (farfalle) with white cheese crumble",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Potato wedges or home fries",
+      "portion_estimate": 140,
+      "confidence": 92
+    },
+    {
+      "name": "Egg omelet with visible green filling (spinach or herbs)",
+      "portion_estimate": 85,
+      "confidence": 93
+    },
+    {
+      "name": "Fresh whole banana",
+      "portion_estimate": 120,
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta with tomato sauce",
+      "portion_estimate": "uncertain, approx. 100g",
+      "confidence": "50"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain, approx. 75g",
+      "confidence": "60"
+    },
+    {
+      "name": "broccoli with cheese",
+      "portion_estimate": "uncertain, approx. 80g",
+      "confidence": "40"
+    },
+    {
+      "name": "muffin or roll",
+      "portion_estimate": "uncertain, approx. 65g",
+      "confidence": "70"
+    }
+  ]
+}

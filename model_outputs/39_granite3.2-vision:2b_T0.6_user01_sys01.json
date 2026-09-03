@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "green salad (lettuce with herbs)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "smoked fish (anchovy)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed vegetable and grain salad on plate",
+      "portion_estimate": "300",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread or pastry wedge",
+      "portion_estimate": "80",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed chopped vegetables/relish (on bottom plate)",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "Toasted bread with red spread (on bottom plate)",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "dal (lentil dish)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "cauliflower and potatoes (vegetable curry/side dish)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "coconut chutney (condiment/sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sweet item (dessert/snack)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

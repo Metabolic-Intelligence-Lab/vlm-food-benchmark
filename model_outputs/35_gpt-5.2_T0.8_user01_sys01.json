@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "120 g",
+      "confidence": "78"
+    },
+    {
+      "name": "vegetable patty (likely lentil/bean burger)",
+      "portion_estimate": "90 g",
+      "confidence": "65"
+    },
+    {
+      "name": "rigatoni pasta with tomato sauce",
+      "portion_estimate": "230 g",
+      "confidence": "80"
+    },
+    {
+      "name": "grated hard cheese on pasta (parmesan-like)",
+      "portion_estimate": "15 g",
+      "confidence": "70"
+    },
+    {
+      "name": "crumbled white cheese on pasta (feta-like)",
+      "portion_estimate": "12 g",
+      "confidence": "62"
+    },
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "140 g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "74"
+    }
+  ]
+}

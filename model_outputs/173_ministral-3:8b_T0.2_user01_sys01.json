@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans (steamed)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "buttered egg (halved)",
+      "portion_estimate": "70g per half (140g total)",
+      "confidence": 80
+    },
+    {
+      "name": "penne pasta (plain, cooked)",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat bread (sliced, wrapped)",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "navel orange (whole)",
+      "portion_estimate": "130g",
+      "confidence": 90
+    }
+  ]
+}

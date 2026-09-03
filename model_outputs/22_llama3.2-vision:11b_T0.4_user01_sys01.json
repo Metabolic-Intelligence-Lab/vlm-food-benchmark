@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans, carrots, and potatoes",
+      "portion_estimate": "1/2 cup",
+      "confidence": "80-100"
+    },
+    {
+      "name": "Yellow rice, white rice, and green peas",
+      "portion_estimate": "1/2 cup",
+      "confidence": "80-100"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "1 slice",
+      "confidence": "80-100"
+    },
+    {
+      "name": "Vegetables",
+      "portion_estimate": "1/2 cup",
+      "confidence": "80-100"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "8-10 ounces",
+      "confidence": "100"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "1/2 cup",
+      "confidence": "80-100"
+    },
+    {
+      "name": "Fruit",
+      "portion_estimate": "1/2 cup",
+      "confidence": "80-100"
+    }
+  ]
+}

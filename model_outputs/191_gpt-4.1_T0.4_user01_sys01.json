@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "sliced boiled carrots",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "breaded croquettes or arancini",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "breadsticks (packaged)",
+      "portion_estimate": "25",
+      "confidence": 90
+    }
+  ]
+}

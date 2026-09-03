@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Crab Cakes",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Lemon Wedge",
+      "portion_estimate": "30 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Lentil Soup",
+      "portion_estimate": "300 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Baked Fish",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    }
+  ]
+}

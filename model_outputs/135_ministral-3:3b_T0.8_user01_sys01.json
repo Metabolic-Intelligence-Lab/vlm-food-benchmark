@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "roasted or baked potato wedges",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "ground beef or sausage topped with brown sauce",
+      "portion_estimate": "200",
+      "confidence": 70
+    },
+    {
+      "name": "crispy breaded meat patty (potato or meat-based)",
+      "portion_estimate": "120",
+      "confidence": 65
+    }
+  ]
+}

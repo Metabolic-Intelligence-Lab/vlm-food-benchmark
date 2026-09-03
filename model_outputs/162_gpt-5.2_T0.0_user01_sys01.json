@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked broccoli and potato pieces",
+      "portion_estimate": "180 g",
+      "confidence": "78"
+    },
+    {
+      "name": "bread roll (plain, packaged)",
+      "portion_estimate": "65 g",
+      "confidence": "74"
+    },
+    {
+      "name": "vegetable soup with grated cheese on top",
+      "portion_estimate": "400 g",
+      "confidence": "72"
+    },
+    {
+      "name": "slice of toast/bread with diced potatoes (potato-topped toast)",
+      "portion_estimate": "210 g",
+      "confidence": "66"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "160 g",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with tomato-based sauce",
+      "portion_estimate": "260 g",
+      "confidence": "72"
+    },
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "140 g",
+      "confidence": "80"
+    },
+    {
+      "name": "diced peaches/fruit salad (orange-colored fruit pieces)",
+      "portion_estimate": "120 g",
+      "confidence": "58"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "78"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt drink or dairy beverage (in small cup, unopened)",
+      "portion_estimate": "125 g",
+      "confidence": "55"
+    }
+  ]
+}

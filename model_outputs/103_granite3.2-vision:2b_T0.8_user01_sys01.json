@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy chicken or vegetable broth with herbs and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Slice of toasted bread (white or whole grain)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Green leafy vegetable (spinach or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

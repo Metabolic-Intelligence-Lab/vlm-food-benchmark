@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": 70
+    },
+    {
+      "name": "cooked chickpeas",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "cooked chicken breast",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150g",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "180g (estimated based on average serving size of medium bowl)",
+      "confidence": 85
+    },
+    {
+      "name": "chicken breast pieces (raw or cooked)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "egg in fried rice or omelet-like form with vegetables (likely egg and carrot)",
+      "portion_estimate": "120g (egg portion only)",
+      "confidence": 75
+    },
+    {
+      "name": "carrot slices",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "plums (whole, 3 visible)",
+      "portion_estimate": "90g (assuming each plum ~30g)",
+      "confidence": 70
+    },
+    {
+      "name": "baked bun or bread roll",
+      "portion_estimate": "70g (standard size)",
+      "confidence": 80
+    },
+    {
+      "name": "lemon wedge (or similar)",
+      "portion_estimate": "uncertain (too small to confidently estimate)",
+      "confidence": 35
+    }
+  ]
+}

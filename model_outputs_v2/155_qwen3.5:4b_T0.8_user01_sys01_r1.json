@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowtie pasta with melted butter and parmesan cheese",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "sliced bread roll",
+      "portion_estimate": "60g",
+      "confidence": "90"
+    },
+    {
+      "name": "omelet",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed vegetables (peas, carrots)",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    }
+  ]
+}

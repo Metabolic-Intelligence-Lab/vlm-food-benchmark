@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with mushrooms and cheese",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "Baked potato slice (frittata or omelet)",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "Mixed vegetable medley",
+      "portion_estimate": "140",
+      "confidence": 80
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "Bun (baked)",
+      "portion_estimate": "45",
+      "confidence": 80
+    }
+  ]
+}

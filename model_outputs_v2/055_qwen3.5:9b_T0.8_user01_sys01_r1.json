@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Baked potato topped with diced carrots, peas, and mushrooms",
+      "portion_estimate": 280,
+      "confidence": 93
+    },
+    {
+      "name": "Steamed dark leafy greens (chard or spinach)",
+      "portion_estimate": 145,
+      "confidence": 95
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": 250,
+      "confidence": 97
+    },
+    {
+      "name": "Yoplait yogurt cup (approx. 125g)",
+      "portion_estimate": 125,
+      "confidence": 88
+    }
+  ]
+}

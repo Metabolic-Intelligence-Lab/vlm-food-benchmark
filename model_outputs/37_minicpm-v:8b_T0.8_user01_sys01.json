@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "lettuce, shredded carrots and chicken salad",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "hard-boiled egg on whole wheat toast with greens",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "spaghetti carbonara (noodles, parmesan cheese)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "frittata with egg and greens on whole wheat toast",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

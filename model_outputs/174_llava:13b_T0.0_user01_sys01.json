@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fish with Sauce and Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Cooked Spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Bean Salad or Mixed Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

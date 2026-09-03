@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (rotini with tomato sauce)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "Leafy greens (spinach/kale)",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "Stuffed vegetable (courgette/zucchini)",
+      "portion_estimate": "50g",
+      "confidence": 60
+    },
+    {
+      "name": "Salad (cucumber, cabbage, red onion)",
+      "portion_estimate": "50g",
+      "confidence": 60
+    },
+    {
+      "name": "Bread (roll)",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "400g (400ml)",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": 70
+    }
+  ]
+}

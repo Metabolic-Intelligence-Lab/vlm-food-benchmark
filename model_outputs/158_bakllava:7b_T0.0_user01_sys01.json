@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta and meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "slice of cake",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bowl of beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "wrapped sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "piece of fruit, possibly a banana or an apple",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

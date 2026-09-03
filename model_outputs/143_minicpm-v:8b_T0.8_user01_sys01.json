@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Yoplait Greek yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Broccoli with some yellow seasoning or oil",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Grilled chicken fillets with herbs and spices",
+      "portion_estimate": "28g per piece, around 140 grams total",
+      "confidence": "90"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

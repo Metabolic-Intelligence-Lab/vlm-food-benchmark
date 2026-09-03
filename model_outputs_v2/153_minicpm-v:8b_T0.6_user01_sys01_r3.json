@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "omelette with green vegetables and red bell pepper",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "penne pasta with cheese topping",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    }
+  ]
+}

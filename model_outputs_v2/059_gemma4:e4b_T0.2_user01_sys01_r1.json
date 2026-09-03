@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed salad (shredded carrots, cucumber, and greens)",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread roll/Bun (wrapped)",
+      "portion_estimate": "90g",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked leafy greens (e.g., spinach)",
+      "portion_estimate": "130g",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread/Carb base with sauce",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "Cherry tomatoes or small red vegetable pieces",
+      "portion_estimate": "60g",
+      "confidence": "75"
+    }
+  ]
+}

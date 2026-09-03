@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "chicken salad",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "spinach or kale",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

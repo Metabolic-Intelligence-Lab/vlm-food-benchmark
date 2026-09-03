@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried or baked potato wedges with cheese topping",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "diced potatoes with sauce (possibly gravy or butter-based)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll or dinner roll",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "sauce or gravy in small container (likely for dipping or serving)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "soda or carbonated beverage in can (Sprite)",
+      "portion_estimate": "uncertain (likely 355ml)",
+      "confidence": 70
+    }
+  ]
+}

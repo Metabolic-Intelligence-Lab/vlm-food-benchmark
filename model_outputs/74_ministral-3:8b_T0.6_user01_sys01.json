@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "diced butternut squash or sweet potato",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with tomato sauce and meat (likely ground beef or chicken)",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "green beans (steamed)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or white bread roll",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "water or clear beverage in small cup",
+      "portion_estimate": "uncertain (no visible measurement)",
+      "confidence": 30
+    }
+  ]
+}

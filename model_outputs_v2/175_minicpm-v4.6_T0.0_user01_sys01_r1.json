@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "stuffed green beans with meat",
+      "portion_estimate": "180 g",
+      "confidence": 95
+    },
+    {
+      "name": "creamy meat and herb dish",
+      "portion_estimate": "120 g",
+      "confidence": 85
+    },
+    {
+      "name": "cooked leafy vegetable with diced yellow (e.g., potatoes)",
+      "portion_estimate": "70 g",
+      "confidence": 80
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "50 g",
+      "confidence": 90
+    }
+  ]
+}

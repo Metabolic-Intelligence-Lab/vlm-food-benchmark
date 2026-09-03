@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "rice",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "meat and cheese sandwich",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    }
+  ]
+}

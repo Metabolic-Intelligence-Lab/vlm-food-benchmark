@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans (steamed or saut\u00e9ed)",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "quiche or frittata with cheese and vegetables (spinach and tomato visible)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta with sage or herbed butter sauce",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "whole pear (firm, greenish-yellow skin)",
+      "portion_estimate": "165",
+      "confidence": 88
+    },
+    {
+      "name": "rolled or plain croissant (partially visible, inside sealed bag)",
+      "portion_estimate": "40",
+      "confidence": 80
+    }
+  ]
+}

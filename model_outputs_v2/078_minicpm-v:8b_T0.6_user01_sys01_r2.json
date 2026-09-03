@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Sweet potato cubes",
+      "portion_estimate": "uncertain, approx. weight in grams based on visual estimation of portion size and typical serving sizes for sweet potatoes.",
+      "confidence": "60"
+    },
+    {
+      "name": "Egg muffin with yellow filling (possibly cheese)",
+      "portion_estimate": "uncertain, approx. weight in grams based on visual estimation of portion size and typical servings for egg muffins",
+      "confidence": "50"
+    },
+    {
+      "name": "Sourdough bread",
+      "portion_estimate": "uncertain, approx. weight in grams based on visual estimation of portion size and typical serving sizes for sourdough bread.",
+      "confidence": "60"
+    },
+    {
+      "name": "Apricots or peaches (uncertain due to lack of clarity)",
+      "portion_estimate": "uncertain, approx. weight in grams based on visual estimation of portion size",
+      "confidence": "50"
+    }
+  ]
+}

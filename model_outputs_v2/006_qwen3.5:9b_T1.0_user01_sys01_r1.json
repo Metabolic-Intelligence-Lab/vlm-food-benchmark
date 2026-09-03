@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (penne) in a light green pesto-style sauce",
+      "portion_estimate": 250,
+      "confidence": 92
+    },
+    {
+      "name": "Sliced zucchini with a lemon wedge",
+      "portion_estimate": 80,
+      "confidence": 94
+    },
+    {
+      "name": "Fried egg on top of a round food item (hash brown or patty)",
+      "portion_estimate": 160,
+      "confidence": 93
+    },
+    {
+      "name": "Rolled pastry in plastic wrapper",
+      "portion_estimate": 65,
+      "confidence": 88
+    },
+    {
+      "name": "Yogurt cup",
+      "portion_estimate": 100,
+      "confidence": 95
+    },
+    {
+      "name": "Bottle of condiment or sauce (e.g., ketchup or mayo)",
+      "portion_estimate": 35,
+      "confidence": 86
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": 200,
+      "confidence": 96
+    }
+  ]
+}

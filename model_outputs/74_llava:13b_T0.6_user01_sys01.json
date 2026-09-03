@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Yellow peppers",
+      "portion_estimate": "75g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "75g",
+      "confidence": "60"
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": "150ml",
+      "confidence": "90"
+    }
+  ]
+}

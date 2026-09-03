@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "bread (plain white)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread (with jam)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "berries (strawberries and blueberries)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "scrambled egg",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "baked savory pie or tart (e.g., spinach and cheese quiche)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "creamy tomato-based soup with grated cheese topping",
+      "portion_estimate": "350",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or roasted brussels sprouts",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "whole apple (medium size)",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "plastic-wrapped bread roll (e.g., dinner roll or baguette slice)",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "salt and pepper packets (non-edible, excluded)",
+      "portion_estimate": "0",
+      "confidence": 0
+    },
+    {
+      "name": "plastic-wrapped butter packet (non-edible, excluded)",
+      "portion_estimate": "0",
+      "confidence": 0
+    }
+  ]
+}

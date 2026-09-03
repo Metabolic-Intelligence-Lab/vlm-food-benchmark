@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (partially visible, wrapped in plastic)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "fried chicken pieces with breadcrumbs",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "fries (thick-cut, seasoned)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "mixed saut\u00e9ed vegetables (zucchini, olives, possibly bell peppers)",
+      "portion_estimate": "180g",
+      "confidence": 85
+    }
+  ]
+}

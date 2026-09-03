@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "rice with vegetables (broccoli and carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "condiment or seasoning",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "butter or spreadable item",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni with mushrooms and parmesan",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "zucchini and garlic salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pizza with various toppings",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "baguette",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

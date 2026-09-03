@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "200-250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potato cubes",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "meat patty with shredded vegetable garnish",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "water",
+      "portion_estimate": "150 ml",
+      "confidence": 95
+    },
+    {
+      "name": "packaged bread",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    }
+  ]
+}

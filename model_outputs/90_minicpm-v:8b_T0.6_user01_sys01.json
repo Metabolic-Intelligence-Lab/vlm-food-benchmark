@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "white rice with butter",
+      "portion_estimate": "uncertain, approx. portion size for white rice meal",
+      "confidence": "60"
+    },
+    {
+      "name": "apple and bread",
+      "portion_estimate": "uncertain, whole apple and piece of bread each likely about 150g or more",
+      "confidence": "40-60"
+    },
+    {
+      "name": "mixed vegetables (carrots, peas, corn, spinach)",
+      "portion_estimate": "approx. portion size for mixed vegetable dish",
+      "confidence": "70"
+    }
+  ]
+}

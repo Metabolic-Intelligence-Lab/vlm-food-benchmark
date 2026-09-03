@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked or fried fish fillet with cheese topping",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or roasted brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "cheese and herb pasta (e.g., parmesan risotto or similar)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or seeded sandwich bread roll",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "ripe banana (partially peeled)",
+      "portion_estimate": "120",
+      "confidence": 90
+    }
+  ]
+}

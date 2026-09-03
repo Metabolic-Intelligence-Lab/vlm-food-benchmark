@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Grilled Chicken Breast",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    }
+  ]
+}

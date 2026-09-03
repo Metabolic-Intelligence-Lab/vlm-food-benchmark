@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked leafy greens (spinach/kale)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Fish",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Butter",
+      "portion_estimate": "10g",
+      "confidence": 70
+    },
+    {
+      "name": "Sandwich",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "Milk Kit",
+      "portion_estimate": "50g",
+      "confidence": 60
+    }
+  ]
+}

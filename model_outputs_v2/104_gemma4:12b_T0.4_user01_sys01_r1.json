@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of lentil-style soup",
+      "portion_estimate": "400g",
+      "confidence": 95
+    },
+    {
+      "name": "peas and carrots",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": 95
+    },
+    {
+      "name": "small container of spread",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "small white container of food",
+      "portion_estimate": "40g",
+      "confidence": 60
+    }
+  ]
+}

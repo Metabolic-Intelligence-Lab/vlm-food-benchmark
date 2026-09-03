@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup (thick, brown)",
+      "portion_estimate": "420 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated cheese topping on soup",
+      "portion_estimate": "12 g",
+      "confidence": "72"
+    },
+    {
+      "name": "vegetable patty/cake (likely zucchini or spinach) with tomato slices and melted mozzarella",
+      "portion_estimate": "150 g",
+      "confidence": "62"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "170 g",
+      "confidence": "75"
+    },
+    {
+      "name": "bread slice (white/rye style)",
+      "portion_estimate": "45 g",
+      "confidence": "74"
+    },
+    {
+      "name": "pasta salad (small pasta with a few black olives, lightly dressed)",
+      "portion_estimate": "220 g",
+      "confidence": "66"
+    },
+    {
+      "name": "cheese stick/string cheese (wrapped)",
+      "portion_estimate": "25 g",
+      "confidence": "70"
+    }
+  ]
+}

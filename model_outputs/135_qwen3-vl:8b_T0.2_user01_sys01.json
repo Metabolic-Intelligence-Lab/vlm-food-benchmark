@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "name": "bread slice",
+      "portion": 60,
+      "confidence": 70
+    },
+    {
+      "name": "barbecue sauce",
+      "portion": 80,
+      "confidence": 70
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "portion": 100,
+      "confidence": 60
+    },
+    {
+      "name": "roasted potato pieces",
+      "portion": 50,
+      "confidence": 70
+    }
+  ]
+}

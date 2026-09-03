@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Banana",
+      "portion_estimate": "60g",
+      "confidence": "95"
+    },
+    {
+      "name": "Soup with meat, black beans, and lettuce",
+      "portion_estimate": "145g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll in plastic wrap",
+      "portion_estimate": "100g",
+      "confidence": "93"
+    }
+  ]
+}

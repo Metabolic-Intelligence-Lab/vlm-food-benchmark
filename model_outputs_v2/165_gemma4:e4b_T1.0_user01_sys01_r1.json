@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Curry or thick soup",
+      "portion_estimate": "350",
+      "confidence": "95"
+    },
+    {
+      "name": "Plain bread roll",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "Shredded vegetable salad",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "Mashed vegetable or dip",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Bottled beverage",
+      "portion_estimate": "300",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish fillet (likely cod or similar)",
+      "portion_estimate": "120-150g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or boiled green vegetables (likely brussels sprouts or broccolini)",
+      "portion_estimate": "100-120g",
+      "confidence": 80
+    },
+    {
+      "name": "roasted or mashed potato and carrot mix (potatoes and carrots)",
+      "portion_estimate": "150-180g",
+      "confidence": 85
+    },
+    {
+      "name": "whole plum (or similar dark purple fruit)",
+      "portion_estimate": "120-150g",
+      "confidence": 70
+    },
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

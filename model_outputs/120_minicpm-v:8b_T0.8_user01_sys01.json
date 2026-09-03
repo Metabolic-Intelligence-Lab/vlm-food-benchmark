@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "crispy fried item (likely potato or vegetable)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "white cauliflower chunks",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "soup with vegetables and cheese topping",
+      "portion_estimate": "180g (approx)",
+      "confidence": "60"
+    }
+  ]
+}

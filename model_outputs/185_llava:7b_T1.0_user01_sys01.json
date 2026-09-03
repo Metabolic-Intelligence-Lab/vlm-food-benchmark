@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Sausage or hot dog",
+      "portion_estimate": "150-200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "100-150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Sauce on plate",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

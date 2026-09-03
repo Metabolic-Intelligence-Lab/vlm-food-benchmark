@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled/baked white fish fillet (two pieces)",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "whole wheat penne pasta with tomato and vegetables",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed salad with radicchio and shredded carrot",
+      "portion_estimate": "70",
+      "confidence": "70"
+    },
+    {
+      "name": "slice of whole grain bread",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "packaged fruit jelly/dessert cup",
+      "portion_estimate": "30",
+      "confidence": "55"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "200",
+      "confidence": "60"
+    }
+  ]
+}

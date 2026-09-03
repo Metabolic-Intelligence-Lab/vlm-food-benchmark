@@ -1,0 +1,36 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Eggs",
+      "portion_estimate": "1 egg",
+      "confidence": "70"
+    }
+  ],
+  "drink": {
+    "type": "Water",
+    "container": "Glass",
+    "quantity": "1 cup"
+  },
+  "condiments": [
+    {
+      "name": "Ketchup",
+      "container": "Plastic bottle",
+      "quantity": "1 bottle"
+    }
+  ],
+  "tablecloth": {
+    "color": "White",
+    "pattern": "Checkered"
+  },
+  "location": "Table"
+}

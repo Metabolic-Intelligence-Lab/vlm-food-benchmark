@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup with carrots, herbs, and possibly meatballs",
+      "portion_estimate": "180\u2013220g (bowl size, approx.)",
+      "confidence": 85
+    },
+    {
+      "name": "roast beef or pork tenderloin (likely cut from a panini)",
+      "portion_estimate": "100\u2013120g (single slice)",
+      "confidence": 85
+    },
+    {
+      "name": "kale or spinach salad",
+      "portion_estimate": "50\u201360g (fresh greens)",
+      "confidence": 75
+    },
+    {
+      "name": "soup side can with red label (possibly a yogurt-based soup or protein pudding)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

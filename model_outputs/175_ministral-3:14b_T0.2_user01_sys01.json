@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked or roasted chicken breast with white sauce (possibly cream or cheese-based)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "green beans saut\u00e9ed in butter or oil",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed kale or collard greens with garlic and butter",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "sliced potatoes (possibly roasted or saut\u00e9ed)",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "150g",
+      "confidence": 90
+    }
+  ]
+}

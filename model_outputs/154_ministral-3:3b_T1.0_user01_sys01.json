@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "diced carrots",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "pesto-stuffed mushroom (or similar green patty)",
+      "portion_estimate": "30 grams",
+      "confidence": 85
+    },
+    {
+      "name": "fettucine pasta",
+      "portion_estimate": "150 grams (cooked weight)",
+      "confidence": 95
+    },
+    {
+      "name": "blueberries",
+      "portion_estimate": "80 grams (6-7 medium blueberries)",
+      "confidence": 80
+    },
+    {
+      "name": "plain wrapped roll (whole wheat, approx. partially unrolled)",
+      "portion_estimate": "50 grams (uncertain portion in plastic bag)",
+      "confidence": 70
+    }
+  ]
+}

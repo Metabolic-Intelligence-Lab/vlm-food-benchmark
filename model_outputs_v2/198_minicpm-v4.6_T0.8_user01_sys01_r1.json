@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "cooked rice",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "cooked meat and roasted vegetables",
+      "portion_estimate": "225g",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt or spread",
+      "portion_estimate": "100g",
+      "confidence": 75
+    }
+  ]
+}

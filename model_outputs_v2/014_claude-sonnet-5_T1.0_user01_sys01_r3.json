@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "breaded chicken cutlet with fresh tomato and basil topping",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "radicchio and carrot salad with dressing",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "strawberry yogurt (Sprinday, closed cup)",
+      "portion_estimate": "125",
+      "confidence": 75
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "200",
+      "confidence": 70
+    }
+  ]
+}

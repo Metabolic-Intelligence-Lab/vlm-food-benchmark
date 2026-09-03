@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pumpkin soup",
+      "portion_estimate": "300",
+      "confidence": "85"
+    },
+    {
+      "name": "roquefort cheese",
+      "portion_estimate": "30",
+      "confidence": "75"
+    },
+    {
+      "name": "pasta with chicken and spinach",
+      "portion_estimate": "250",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "bread bun",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

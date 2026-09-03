@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "pasta with pesto sauce",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "vegetable patties with orange slice",
+      "portion_estimate": "120",
+      "confidence": "60"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "150",
+      "confidence": "65"
+    }
+  ]
+}

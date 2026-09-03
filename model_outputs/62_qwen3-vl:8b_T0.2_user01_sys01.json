@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and peppers",
+      "portion_estimate": "180g",
+      "confidence": 80
+    },
+    {
+      "name": "Cooked leafy green (spinach/kale)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Round food item with sauce (e.g., potato or patty)",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "Bread roll (panini)",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "YOMO sauce container",
+      "portion_estimate": "30g",
+      "confidence": 70
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "150g",
+      "confidence": 90
+    }
+  ]
+}

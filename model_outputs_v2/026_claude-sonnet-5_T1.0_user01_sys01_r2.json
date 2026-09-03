@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried chicken cutlets/nuggets",
+      "portion_estimate": "130",
+      "confidence": 80
+    },
+    {
+      "name": "roasted diced potatoes with herbs",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "sauteed spinach",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "fresh apricots",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll (panino)",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "chicken cutlet",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "instant rice",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "bread slice",
+      "portion_estimate": "30",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "80"
+    }
+  ]
+}

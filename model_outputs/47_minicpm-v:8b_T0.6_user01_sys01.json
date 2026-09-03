@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Omelet with mushrooms and green onions",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Whole grain bread bun",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

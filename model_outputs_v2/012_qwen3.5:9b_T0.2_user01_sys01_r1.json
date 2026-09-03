@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Fried egg on a bun",
+      "portion_estimate": 150,
+      "confidence": 92
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Steamed spinach or kale",
+      "portion_estimate": 120,
+      "confidence": 90
+    },
+    {
+      "name": "Yogurt cup (strawberry flavor)",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "Bread roll in plastic wrapper",
+      "portion_estimate": 60,
+      "confidence": 90
+    },
+    {
+      "name": "Water",
+      "portion_estimate": 250,
+      "confidence": 80
+    }
+  ]
+}

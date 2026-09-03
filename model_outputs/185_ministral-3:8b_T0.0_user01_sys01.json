@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spiralized sweet potato noodles",
+      "portion_estimate": "250g",
+      "confidence": 75
+    },
+    {
+      "name": "roasted potatoes with herbs",
+      "portion_estimate": "150g",
+      "confidence": 70
+    },
+    {
+      "name": "pan-seared meat (likely pork or chicken) with herbs",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "green garnish (likely chopped parsley or cilantro)",
+      "portion_estimate": "10g",
+      "confidence": 65
+    }
+  ]
+}

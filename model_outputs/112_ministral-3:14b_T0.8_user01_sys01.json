@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (uncooked, with sauce)",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "grated parmesan cheese",
+      "portion_estimate": "15g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potato or polenta slice",
+      "portion_estimate": "80g",
+      "confidence": 90
+    },
+    {
+      "name": "fresh brussels sprouts (raw, whole)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "eggplant (partially visible, whole)",
+      "portion_estimate": "250g",
+      "confidence": 80
+    },
+    {
+      "name": "egg (partially visible, whole, possibly boiled)",
+      "portion_estimate": "uncertain (visible but partially obscured)",
+      "confidence": 40
+    },
+    {
+      "name": "whole fig (or plum)",
+      "portion_estimate": "30g",
+      "confidence": 80
+    }
+  ]
+}

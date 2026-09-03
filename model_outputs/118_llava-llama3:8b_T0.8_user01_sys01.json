@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pink macaroni and cheese with white parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "green broccoli with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "crispy fried onions",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange juice",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "tomato ketchup",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

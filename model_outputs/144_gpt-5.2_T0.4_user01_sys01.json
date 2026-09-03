@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with creamy sauce (possibly pesto/cheese) topped with grated parmesan",
+      "portion_estimate": "280 g",
+      "confidence": "74"
+    },
+    {
+      "name": "white beans in tomato sauce (baked-beans style)",
+      "portion_estimate": "160 g",
+      "confidence": "78"
+    },
+    {
+      "name": "savory vegetable patty/fritter (possibly zucchini or potato) with creamy white sauce on top",
+      "portion_estimate": "110 g",
+      "confidence": "55"
+    },
+    {
+      "name": "sliced white bread (2 slices)",
+      "portion_estimate": "70 g",
+      "confidence": "72"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "170 g",
+      "confidence": "86"
+    }
+  ]
+}

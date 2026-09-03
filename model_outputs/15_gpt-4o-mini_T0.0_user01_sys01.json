@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked cabbage",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "fried vegetables",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "two small balls with sauce",
+      "portion_estimate": "80",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "95"
+    }
+  ]
+}

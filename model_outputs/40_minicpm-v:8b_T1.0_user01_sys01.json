@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Apricots",
+      "portion_estimate": "uncertain, approx. 5-10 pieces",
+      "confidence": "40"
+    },
+    {
+      "name": "Fried rice",
+      "portion_estimate": "200g - uncertain due to non-visible packaging or serving size marker.",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrots and Potatoes with Mushrooms",
+      "portion_estimate": "approx. 150-200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Quiche or Frittata",
+      "portion_estimate": "uncertain, approx. slice size based on typical serving portions.",
+      "confidence": "40"
+    },
+    {
+      "name": "Garlic Bread",
+      "portion_estimate": "uncertain due to non-visible packaging or individual serving marker, approx 15-20 slices per package.",
+      "confidence": "30"
+    }
+  ]
+}

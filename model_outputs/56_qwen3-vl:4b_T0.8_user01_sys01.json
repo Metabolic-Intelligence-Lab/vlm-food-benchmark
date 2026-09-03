@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded Cutlet (likely chicken or fish)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Mushroom and vegetable mix (peas, carrots, corn)",
+      "portion_estimate": "85 grams",
+      "confidence": 75
+    },
+    {
+      "name": "Pasta with tomato sauce (macaroni)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Wrapped Bread Roll (e.g., a small sandwich or muffin-style roll)",
+      "portion_estimate": "60 grams",
+      "confidence": 65
+    },
+    {
+      "name": "Water (from a glass)",
+      "portion_estimate": "250 grams",
+      "confidence": 95
+    }
+  ]
+}

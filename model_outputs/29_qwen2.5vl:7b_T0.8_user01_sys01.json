@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "zucchini and onion stir-fry",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "slice of omelette with zucchini",
+      "portion_estimate": "75 grams",
+      "confidence": 70
+    },
+    {
+      "name": "bowl of pasta with tomato sauce and grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": 75
+    },
+    {
+      "name": "baguette",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "plastic water cup",
+      "portion_estimate": "150 milliliters",
+      "confidence": 60
+    }
+  ]
+}

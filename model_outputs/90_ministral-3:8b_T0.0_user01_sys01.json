@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice with butter/oil",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted carrots with onions",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "mixed greens with cooked shrimp or chicken",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "whole lemon",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "condiment (likely olive oil or similar in small bottle)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

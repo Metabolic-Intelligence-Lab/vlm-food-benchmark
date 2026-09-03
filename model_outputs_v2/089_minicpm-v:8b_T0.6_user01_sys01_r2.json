@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "White rice with butter",
+      "portion_estimate": "uncertain, approx. half a cup",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "1 small bread roll",
+      "confidence": "75"
+    },
+    {
+      "name": "Chickpeas on plate with butter",
+      "portion_estimate": "uncertain, approx. 30 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "uncertain, approx. half a serving (125-175g)",
+      "confidence": "60"
+    },
+    {
+      "name": "Yellow pear",
+      "portion_estimate": "uncertain, approx. 1 medium-sized",
+      "confidence": "60"
+    }
+  ]
+}

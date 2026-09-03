@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "flatbread with green filling",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "soup in a bowl",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "steamed Brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80",
+      "confidence": 75
+    }
+  ]
+}

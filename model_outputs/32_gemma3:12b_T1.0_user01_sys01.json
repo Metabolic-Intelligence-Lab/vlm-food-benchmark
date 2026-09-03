@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi, tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "portion_estimate": "10",
+      "confidence": "75"
+    },
+    {
+      "name": "fresh basil, chopped",
+      "portion_estimate": "2",
+      "confidence": "60"
+    }
+  ]
+}

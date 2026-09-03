@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked couscous with olive oil",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "chickpeas (garbanzo beans)",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "feta cheese (cubed)",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole roasted onion",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "180 grams",
+      "confidence": 85
+    }
+  ]
+}

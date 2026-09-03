@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried fish",
+      "portion_estimate": "150 g",
+      "confidence": "60"
+    },
+    {
+      "name": "mashed potatoes with vegetables",
+      "portion_estimate": "200 g",
+      "confidence": "40"
+    },
+    {
+      "name": "green salad",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "fruit salad",
+      "portion_estimate": "200 g",
+      "confidence": "30"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    }
+  ]
+}

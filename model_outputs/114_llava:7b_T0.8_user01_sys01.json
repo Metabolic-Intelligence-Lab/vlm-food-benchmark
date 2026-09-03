@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Chicken breast",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Toasted bread with butter",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    },
+    {
+      "name": "Parmesan cheese sprinkled on pasta",
+      "portion_estimate": "10g",
+      "confidence": "60"
+    },
+    {
+      "name": "Sliced vegetables on the side of chicken breast",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    }
+  ]
+}

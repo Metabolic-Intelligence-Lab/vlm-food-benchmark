@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fish",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Rolled up meat",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Sauce",
+      "portion_estimate": "50ml",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed Broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Breaded Pork Cutlet with Tomato Sauce on Toast",
+      "portion_estimate": "25 grams (assuming a standard cutlet size)",
+      "confidence": "70"
+    },
+    {
+      "name": "Carrot and Broccoli Stir-Fry",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Sliced Cheese on Plate",
+      "portion_estimate": "uncertain, but likely around 1-2 slices",
+      "confidence": "60"
+    },
+    {
+      "name": "Baked Bean Dip or Sauce with Vegetable Pieces",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ],
+  "beverage_items": [
+    {
+      "name": "Butter (partially visible)",
+      "portion_estimate": "uncertain, but likely around half a stick",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt Cup with Fruit and Nuts on Top",
+      "portion_estimate": "15-20 grams of yogurt and topping (assuming standard size)",
+      "confidence": "70"
+    }
+  ]
+}

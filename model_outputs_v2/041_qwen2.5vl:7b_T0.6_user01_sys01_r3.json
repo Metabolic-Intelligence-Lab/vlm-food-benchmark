@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with orange sauce and grated cheese",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "pancake or crepe with spinach and cheese",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed salad with cabbage and cucumbers",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "oranges",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "unidentified bread",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "plastic water bottle",
+      "portion_estimate": "300",
+      "confidence": "70"
+    }
+  ]
+}

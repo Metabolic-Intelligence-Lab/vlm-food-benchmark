@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fried potato wedges (parmesan-topped)",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "baked pasta (likely fettuccine)",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "small baguette roll (baguette from plastic bag)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "steamed/carroty-green vegetable medley (e.g., zucchini/peppers/carrots)",
+      "portion_estimate": "100",
+      "confidence": 90
+    }
+  ]
+}

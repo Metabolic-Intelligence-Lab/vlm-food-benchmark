@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "packaged bread (loaf)",
+      "portion_estimate": "uncertain (likely ~400-500g)",
+      "confidence": 55
+    },
+    {
+      "name": "pasta with grated cheese (bowl)",
+      "portion_estimate": "300g (dry weight, estimated)",
+      "confidence": 80
+    },
+    {
+      "name": "roasted vegetables (carrots, cauliflower, potatoes, and spinach)",
+      "portion_estimate": "350g (total mixed vegetables)",
+      "confidence": 75
+    },
+    {
+      "name": "whole roasted vegetable ring (likely squash or sweet potato)",
+      "portion_estimate": "150g",
+      "confidence": 70
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100g (3-4 plums)",
+      "confidence": 85
+    }
+  ]
+}

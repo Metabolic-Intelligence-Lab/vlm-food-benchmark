@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "chicken noodle soup",
+      "portion_estimate": "450",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "110",
+      "confidence": "85"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "85",
+      "confidence": "85"
+    },
+    {
+      "name": "meatball",
+      "portion_estimate": "50",
+      "confidence": "85"
+    }
+  ]
+}

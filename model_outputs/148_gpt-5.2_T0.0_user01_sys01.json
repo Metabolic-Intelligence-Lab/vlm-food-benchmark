@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with pesto sauce (penne)",
+      "portion_estimate": "220 g",
+      "confidence": "72"
+    },
+    {
+      "name": "grated parmesan cheese (topping on pasta)",
+      "portion_estimate": "12 g",
+      "confidence": "60"
+    },
+    {
+      "name": "steamed/boiled cauliflower florets",
+      "portion_estimate": "180 g",
+      "confidence": "78"
+    },
+    {
+      "name": "vegetable patty or mini quiche (round) topped with diced carrots",
+      "portion_estimate": "90 g",
+      "confidence": "55"
+    },
+    {
+      "name": "plums (whole)",
+      "portion_estimate": "180 g",
+      "confidence": "70"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "66"
+    }
+  ]
+}

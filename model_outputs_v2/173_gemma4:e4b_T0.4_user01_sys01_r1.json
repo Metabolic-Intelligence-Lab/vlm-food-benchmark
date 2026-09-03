@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked leafy greens (saut\u00e9ed)",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Croquette or fritter (crumbly)",
+      "portion_estimate": "30 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Potato cake or fritter (smooth)",
+      "portion_estimate": "40 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Cooked pasta (short tube)",
+      "portion_estimate": "180 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "Orange or mandarin",
+      "portion_estimate": "80 grams",
+      "confidence": "95"
+    }
+  ]
+}

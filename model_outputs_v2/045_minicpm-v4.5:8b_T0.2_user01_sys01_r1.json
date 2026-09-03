@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked or fried vegetable dish (possibly eggplant or zucchini parmesan)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetable salad with shredded carrots",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small serving of mozzarella with green beans, corn, and diced tomato",
+      "portion_estimate": "50-75 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small bun or roll",
+      "portion_estimate": "50-75 grams",
+      "confidence": 70
+    },
+    {
+      "name": "small cup of yogurt (Kono brand)",
+      "portion_estimate": "100-120 grams",
+      "confidence": 90
+    }
+  ]
+}

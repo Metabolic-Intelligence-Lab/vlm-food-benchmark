@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Rigatoni pasta with red sauce and grated cheese",
+      "portion_estimate": 250,
+      "confidence": 94
+    },
+    {
+      "name": "Sliced spinach and potato pie (potato quiche)",
+      "portion_estimate": 280,
+      "confidence": 93
+    },
+    {
+      "name": "Steamed spinach",
+      "portion_estimate": 150,
+      "confidence": 94
+    },
+    {
+      "name": "Sliced potatoes (steamed or baked)",
+      "portion_estimate": 120,
+      "confidence": 91
+    },
+    {
+      "name": "Whole grain dinner roll in wrapper",
+      "portion_estimate": 65,
+      "confidence": 93
+    },
+    {
+      "name": "Yoplait fruit yogurt (strawberry/berry flavor)",
+      "portion_estimate": 100,
+      "confidence": 92
+    },
+    {
+      "name": "Cheese straws (pita chips with cheese coating)",
+      "portion_estimate": 45,
+      "confidence": 85
+    }
+  ]
+}

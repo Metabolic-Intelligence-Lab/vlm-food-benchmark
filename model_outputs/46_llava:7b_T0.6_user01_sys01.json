@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Minestrone soup",
+      "portion_estimate": "approx. 500g",
+      "confidence": "80"
+    },
+    {
+      "name": "Cooked green vegetables",
+      "portion_estimate": "approx. 100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "approx. 200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Salad with lettuce and croutons",
+      "portion_estimate": "approx. 150g",
+      "confidence": "90"
+    }
+  ]
+}

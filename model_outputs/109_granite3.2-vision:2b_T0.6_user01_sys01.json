@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich with lettuce and tomato",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

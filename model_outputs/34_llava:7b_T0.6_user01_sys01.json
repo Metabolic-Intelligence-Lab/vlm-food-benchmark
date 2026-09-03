@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Eggs",
+      "portion_estimate": "2",
+      "confidence": "90"
+    },
+    {
+      "name": "Breakfast sandwich on a bagel",
+      "portion_estimate": "1",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "1",
+      "confidence": "80"
+    },
+    {
+      "name": "Eggs in a cup with a white handle",
+      "portion_estimate": "2",
+      "confidence": "90"
+    },
+    {
+      "name": "Baked pasta dish, possibly lasagna, topped with cheese and herbs",
+      "portion_estimate": "1",
+      "confidence": "85"
+    },
+    {
+      "name": "Slices of bread with butter on the side",
+      "portion_estimate": "2",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried eggs with a yellow yolk",
+      "portion_estimate": "1",
+      "confidence": "90"
+    },
+    {
+      "name": "Slices of bread with butter on the side and cheese sprinkled on top",
+      "portion_estimate": "2",
+      "confidence": "75"
+    }
+  ]
+}

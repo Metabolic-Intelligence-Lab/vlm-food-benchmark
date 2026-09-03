@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll on a white plate",
+      "portion_estimate": "80g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta salad with olives and mushrooms",
+      "portion_estimate": "250g",
+      "confidence": "60"
+    },
+    {
+      "name": "Cream cheese on a white plate",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    }
+  ]
+}

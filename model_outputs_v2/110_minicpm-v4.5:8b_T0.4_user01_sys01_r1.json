@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked vegetable pie",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "green vegetable soup (likely pea or lentil with carrots)",
+      "portion_estimate": "300 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "small round bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed vegetables (peas and baby carrots)",
+      "portion_estimate": "120 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "two plums",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    }
+  ]
+}

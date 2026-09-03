@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with green pesto",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated parmesan cheese (on pasta)",
+      "portion_estimate": "10 g",
+      "confidence": "72"
+    },
+    {
+      "name": "cooked green peas with small pieces of bacon/ham",
+      "portion_estimate": "180 g",
+      "confidence": "74"
+    },
+    {
+      "name": "bacon-wrapped white fish medallion (uncertain type)",
+      "portion_estimate": "110 g",
+      "confidence": "58"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "86"
+    }
+  ]
+}

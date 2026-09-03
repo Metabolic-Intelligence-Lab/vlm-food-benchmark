@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "orange penne pasta with grated cheese",
+      "portion_estimate": "350g",
+      "confidence": 70
+    },
+    {
+      "name": "stuffed baked zucchini (spinach-based filling)",
+      "portion_estimate": "250g",
+      "confidence": 70
+    },
+    {
+      "name": "mixed salad (cabbage and cucumber)",
+      "portion_estimate": "100g",
+      "confidence": 65
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "150g (per fruit)",
+      "confidence": 85
+    },
+    {
+      "name": "cream-based sauce (likely from small container)",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    },
+    {
+      "name": "water (in clear cup)",
+      "portion_estimate": "250ml",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain muffin with jam",
+      "portion_estimate": "uncertain, approx. 50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Potato wedges",
+      "portion_estimate": "uncertain, approx. 125g",
+      "confidence": "70"
+    },
+    {
+      "name": "Boiled egg with brown sauce on top",
+      "portion_estimate": "uncertain, approx. 60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Red plum or cherry tomato",
+      "portion_estimate": "uncertain, approx. 25g",
+      "confidence": "90"
+    },
+    {
+      "name": "Dark purple sweet potato or beetroot slice",
+      "portion_estimate": "uncertain, approx. 30g",
+      "confidence": "70"
+    }
+  ]
+}

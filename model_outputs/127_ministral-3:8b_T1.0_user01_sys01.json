@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cured meat roll or pastry (packaged)",
+      "portion_estimate": "50-60 grams",
+      "confidence": 70
+    },
+    {
+      "name": "fried gnocchi with grated cheese and tomato-based sauce",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed green salad with tomatoes, lettuce, cucumber, and croutons (possibly)",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    }
+  ]
+}

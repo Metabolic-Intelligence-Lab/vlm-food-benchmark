@@ -1,0 +1,44 @@
+The problem requires estimating the portion sizes of each item in a meal consisting of:
+
+- A **portion of chickpeas** on a plate,
+- A **fried item** (likely a chicken breast or similar protein) on the same plate,
+- A **bowl of pasta**,
+- A **container of yogurt**,
+- A **bread roll**.
+
+---
+
+### **Estimated Portion Sizes (with Confidence)**
+
+1. **Chickpeas**:  
+   - A standard portion of chickpeas is typically **100–150g**, and based on a typical serving size for a meal, **120g** is a reasonable estimate.  
+   - **Confidence**: 80%  
+   - **Estimated size**: **120g**
+
+2. **Fried item (e.g., chicken breast)**:  
+   - A standard grilled or fried chicken breast portion is around **150g**.  
+   - **Confidence**: 75%  
+   - **Estimated size**: **150g**
+
+3. **Pasta**:  
+   - A typical serving of pasta (e.g., spaghetti or penne) is **100–120g** when cooked.  
+   - **Confidence**: 90%  
+   - **Estimated size**: **120g**
+
+4. **Yogurt**:  
+   - A standard container of yogurt (e.g., 200ml or 160g) is **150g** for a full serving.  
+   - **Confidence**: 90%  
+   - **Estimated size**: **150g**
+
+5. **Bread roll**:  
+   - A typical small bread roll weighs approximately **50g**.  
+   - **Confidence**: 90%  
+   - **Estimated size**: **50g**
+
+---
+
+### **Final Answer**
+
+$$
+\boxed{120 \text{g for chickpeas}, 150 \text{g for fried item}, 120 \text{g for pasta}, 150 \text{g for yogurt}, 50 \text{g for bread roll}}
+$$

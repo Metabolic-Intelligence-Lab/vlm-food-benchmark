@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato-based sauce and breaded topping",
+      "portion_estimate": "250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed vegetable salad with cabbage, carrots, and possibly radish",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "stuffed zucchini with a creamy filling and shredded topping",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "small bun or roll",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "empty glass (likely for water or a beverage)",
+      "portion_estimate": "empty",
+      "confidence": "100"
+    }
+  ]
+}

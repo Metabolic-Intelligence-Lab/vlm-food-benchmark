@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "crispy chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "mixed green salad",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "potato (possibly mashed)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

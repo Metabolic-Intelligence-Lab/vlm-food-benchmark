@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "yellow noodles",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "blueberries",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "100",
+      "confidence": 60
+    }
+  ]
+}

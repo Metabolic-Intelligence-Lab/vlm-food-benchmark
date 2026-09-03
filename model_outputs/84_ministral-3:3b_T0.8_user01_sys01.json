@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "saut\u00e9ed broccoli and potato mixture",
+      "portion_estimate": 250,
+      "confidence": 85
+    },
+    {
+      "name": "roasted vegetable medley (carrots, peppers, onions, herbs)",
+      "portion_estimate": 180,
+      "confidence": 80
+    },
+    {
+      "name": "cooked white rice portion with red sauce (over chicken drumstick)",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "fried chicken drumstick with breading",
+      "portion_estimate": 120,
+      "confidence": 85
+    },
+    {
+      "name": "ketchup cup (sauce topping)",
+      "portion_estimate": 50,
+      "confidence": 70
+    },
+    {
+      "name": "cheese wrapped in breadstick (top right corner)",
+      "portion_estimate": 30,
+      "confidence": 75
+    }
+  ]
+}

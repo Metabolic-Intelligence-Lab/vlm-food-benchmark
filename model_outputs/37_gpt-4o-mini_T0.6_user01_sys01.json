@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad (greens, carrots, red cabbage)",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "spaghetti with cheese",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "toast with spinach and feta cheese, topped with fried egg",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "75"
+    }
+  ]
+}

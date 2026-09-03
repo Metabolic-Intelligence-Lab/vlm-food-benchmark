@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Beans",
+      "portion_estimate": "250 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Meat (possibly ground beef)",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Cheese (likely cheddar)",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    }
+  ]
+}

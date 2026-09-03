@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "meatballs and sauce",
+      "portion_estimate": "80g",
+      "confidence": "92"
+    },
+    {
+      "name": "green beans on a white plate",
+      "portion_estimate": "150g",
+      "confidence": "67"
+    }
+  ]
+}

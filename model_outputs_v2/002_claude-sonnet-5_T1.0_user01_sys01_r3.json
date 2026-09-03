@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mixed green salad (lettuce, radicchio, endive)",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "tomato slices/wedges",
+      "portion_estimate": "70",
+      "confidence": "75"
+    },
+    {
+      "name": "cucumber slices",
+      "portion_estimate": "20",
+      "confidence": "70"
+    },
+    {
+      "name": "shredded carrot",
+      "portion_estimate": "10",
+      "confidence": "60"
+    },
+    {
+      "name": "olive oil dressing",
+      "portion_estimate": "10",
+      "confidence": "50"
+    },
+    {
+      "name": "uncertain fried/breaded item, partially visible",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

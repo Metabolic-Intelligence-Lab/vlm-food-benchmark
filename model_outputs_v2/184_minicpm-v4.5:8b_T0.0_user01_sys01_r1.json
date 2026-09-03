@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bun",
+      "portion_estimate": "50-70g",
+      "confidence": "85"
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "100-150g",
+      "confidence": "80"
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "50-75g",
+      "confidence": "80"
+    },
+    {
+      "name": "scallops",
+      "portion_estimate": "50-75g",
+      "confidence": "80"
+    },
+    {
+      "name": "tomato and herb garnish",
+      "portion_estimate": "10-15g",
+      "confidence": "70"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "50-60g",
+      "confidence": "80"
+    }
+  ]
+}

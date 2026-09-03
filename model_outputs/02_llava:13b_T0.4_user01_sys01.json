@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad",
+      "portion_estimate": "50-100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "tomato slices",
+      "portion_estimate": "20-30 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "cucumber slices",
+      "portion_estimate": "15-20 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "lettuce leaves",
+      "portion_estimate": "30-40 grams",
+      "confidence": "80"
+    }
+  ]
+}

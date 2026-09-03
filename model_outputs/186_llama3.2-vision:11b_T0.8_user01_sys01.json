@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Hashed Browned Rice",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Roasted Chicken Breast",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread Rolls",
+      "portion_estimate": "30g",
+      "confidence": "75"
+    }
+  ]
+}

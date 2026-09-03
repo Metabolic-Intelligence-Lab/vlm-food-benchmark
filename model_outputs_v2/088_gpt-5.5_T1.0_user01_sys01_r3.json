@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto and grated cheese",
+      "portion_estimate": "approximately 220 g",
+      "confidence": "85"
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "approximately 70 g",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked grains with green peas",
+      "portion_estimate": "approximately 170 g",
+      "confidence": "75"
+    },
+    {
+      "name": "savory quiche or frittata slice",
+      "portion_estimate": "approximately 170 g",
+      "confidence": "55"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "approximately 120 g",
+      "confidence": "95"
+    }
+  ]
+}

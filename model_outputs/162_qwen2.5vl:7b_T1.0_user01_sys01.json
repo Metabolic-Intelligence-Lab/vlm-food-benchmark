@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "saut\u00e9ed broccoli and potatoes",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "soup with grains and vegetables",
+      "portion_estimate": "200",
+      "confidence": 70
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": 60
+    },
+    {
+      "name": "bread with potato topping",
+      "portion_estimate": "100",
+      "confidence": 65
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled or baked fish fillet (e.g., cod or similar)",
+      "portion_estimate": "150-180g",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed mixed vegetables (zucchini, tomatoes, onions, etc.)",
+      "portion_estimate": "150-180g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or roasted broccoli",
+      "portion_estimate": "120-150g",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat roll or bread",
+      "portion_estimate": "60-80g",
+      "confidence": 80
+    },
+    {
+      "name": "orange (whole)",
+      "portion_estimate": "130-150g",
+      "confidence": 90
+    }
+  ]
+}

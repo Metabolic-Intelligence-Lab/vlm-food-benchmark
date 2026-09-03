@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "dal (lentil curry)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "coconut chutney (condiment)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cooked meat with spicy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "boiled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roasted peanuts or cashews",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pickle (condiment)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

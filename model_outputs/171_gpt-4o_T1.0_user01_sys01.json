@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sauteed spinach",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "steamed green beans",
+      "portion_estimate": "120 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "boiled fish with sauce",
+      "portion_estimate": "120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "whole wheat bread",
+      "portion_estimate": "40 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    }
+  ]
+}

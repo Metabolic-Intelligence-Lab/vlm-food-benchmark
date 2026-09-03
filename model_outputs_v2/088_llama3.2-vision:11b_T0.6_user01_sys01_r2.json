@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Omelette",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mushroom and Peas",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

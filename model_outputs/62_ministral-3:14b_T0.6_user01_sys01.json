@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato and vegetable sauce",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "steamed kale (or similar leafy green vegetable)",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "fried eggplant (or zucchini fritter) with tomato sauce topping",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "bread roll (possibly Italian-style)",
+      "portion_estimate": 70,
+      "confidence": 80
+    },
+    {
+      "name": "red wine (in a glass, partially visible)",
+      "portion_estimate": 100,
+      "confidence": 70
+    }
+  ]
+}

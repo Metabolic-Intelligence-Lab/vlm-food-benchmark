@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "lettuce and shredded carrots salad with chicken pieces",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "whole grain bread in plastic bag",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "spaghetti with grated cheese and spinach on toast",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "scrambled eggs with white sauce on bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

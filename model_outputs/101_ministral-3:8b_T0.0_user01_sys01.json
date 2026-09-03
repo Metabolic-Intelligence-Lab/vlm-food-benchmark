@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (penne or rigatoni)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "shredded chicken breast",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll (whole wheat)",
+      "portion_estimate": "60g",
+      "confidence": 85
+    },
+    {
+      "name": "yellow cheese sauce (in container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "yellow cheese spread (in plastic container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "cheese spread or dip (on plate)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "30g",
+      "confidence": 80
+    }
+  ]
+}

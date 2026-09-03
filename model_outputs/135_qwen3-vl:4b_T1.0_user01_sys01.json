@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Braised meat",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Cooked potatoes",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Shredded carrots",
+      "portion_estimate": "50g",
+      "confidence": 95
+    }
+  ]
+}

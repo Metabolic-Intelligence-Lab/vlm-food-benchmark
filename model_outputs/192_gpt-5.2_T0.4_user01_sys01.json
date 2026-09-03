@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried chicken cutlet (schnitzel-style)",
+      "portion_estimate": "150 g",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked leafy greens (spinach/chard)",
+      "portion_estimate": "120 g",
+      "confidence": "65"
+    },
+    {
+      "name": "rigatoni pasta with tomato sauce",
+      "portion_estimate": "230 g",
+      "confidence": "82"
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "160 g",
+      "confidence": "88"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "250 g",
+      "confidence": "60"
+    }
+  ]
+}

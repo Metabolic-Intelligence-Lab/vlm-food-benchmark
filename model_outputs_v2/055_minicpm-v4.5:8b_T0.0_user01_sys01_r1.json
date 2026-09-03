@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mushroom and mixed vegetable stir-fry (carrots, peas, potatoes, possibly corn)",
+      "portion_estimate": "200-250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "mashed or pureed food (possibly sweet potato or squash)",
+      "portion_estimate": "100-150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked leafy greens (possibly spinach or kale)",
+      "portion_estimate": "100-150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200-250 ml",
+      "confidence": "95"
+    },
+    {
+      "name": "yogurt (Sprayday brand)",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    }
+  ]
+}

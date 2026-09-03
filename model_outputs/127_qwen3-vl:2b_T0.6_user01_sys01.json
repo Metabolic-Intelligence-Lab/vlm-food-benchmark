@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "100",
+      "confidence": "95"
+    }
+  ]
+}

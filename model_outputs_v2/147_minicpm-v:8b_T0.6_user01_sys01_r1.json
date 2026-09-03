@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Alfredo Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Plums and Prunes",
+      "portion_estimate": "uncertain",
+      "confidence": 35
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Braised Meat with Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

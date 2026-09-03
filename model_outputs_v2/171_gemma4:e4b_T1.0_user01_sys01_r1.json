@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked dark leafy greens (spinach/bok choy)",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "steamed green beans",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "small yellow side dish (possible scrambled egg or rice)",
+      "portion_estimate": "30g",
+      "confidence": "75"
+    },
+    {
+      "name": "white protein block (tofu or fish cake)",
+      "portion_estimate": "80g",
+      "confidence": "85"
+    },
+    {
+      "name": "sliced bread or crackers",
+      "portion_estimate": "90g",
+      "confidence": "90"
+    }
+  ]
+}

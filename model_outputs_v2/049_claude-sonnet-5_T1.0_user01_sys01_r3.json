@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta salad with tuna, mozzarella, tomato, and black olives",
+      "portion_estimate": "300",
+      "confidence": 65
+    },
+    {
+      "name": "canned tuna chunks",
+      "portion_estimate": "50",
+      "confidence": 55
+    },
+    {
+      "name": "fresh mozzarella cubes",
+      "portion_estimate": "60",
+      "confidence": 55
+    },
+    {
+      "name": "diced tomato",
+      "portion_estimate": "50",
+      "confidence": 55
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "20",
+      "confidence": 60
+    }
+  ]
+}

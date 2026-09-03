@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken with parsley",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "roasted vegetables and meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "roll in clear packaging",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cup of water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

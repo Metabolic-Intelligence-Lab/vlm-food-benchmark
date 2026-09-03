@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad (shredded carrots, cucumber slices, leafy greens)",
+      "portion_estimate": "150 g",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked leafy greens (spinach or similar)",
+      "portion_estimate": "140 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "three red plums",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    },
+    {
+      "name": "small savory patty/cake topped with creamy sauce and brown gravy",
+      "portion_estimate": "90 g",
+      "confidence": "55"
+    }
+  ]
+}

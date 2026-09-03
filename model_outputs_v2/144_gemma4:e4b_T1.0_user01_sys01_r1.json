@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked pasta with sauce and cheese",
+      "portion_estimate": "220g",
+      "confidence": "95"
+    },
+    {
+      "name": "Slice of plain white bread",
+      "portion_estimate": "60g",
+      "confidence": "95"
+    },
+    {
+      "name": "Peanuts and egg/dip side dish",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "Whole green apple",
+      "portion_estimate": "180g",
+      "confidence": "100"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomatoes and herbs",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "couscous or quinoa salad",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "grilled scallop with garnish",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "nectarine or plum",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80g",
+      "confidence": "90"
+    }
+  ]
+}

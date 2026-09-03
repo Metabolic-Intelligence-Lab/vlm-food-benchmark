@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta, plain with light oil/butter sauce",
+      "portion_estimate": "180",
+      "confidence": 75
+    },
+    {
+      "name": "boiled cauliflower florets",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "baked vegetable and cheese pie/lasagna slice (torta salata)",
+      "portion_estimate": "150",
+      "confidence": 55
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "15",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll (panino)",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "mixed berry yogurt (Sprintday brand, single-serve cup)",
+      "portion_estimate": "125",
+      "confidence": 85
+    },
+    {
+      "name": "wrapped cutlery/napkin set (non-food, packaged utensils)",
+      "portion_estimate": "0",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken and vegetable soup with carrots, celery, and potatoes",
+      "portion_estimate": "450",
+      "confidence": "85"
+    },
+    {
+      "name": "steamed or saut\u00e9ed kale (or collard greens)",
+      "portion_estimate": "80",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted or baked potato wedge with skin",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt drink (partially visible, likely dairy-based)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

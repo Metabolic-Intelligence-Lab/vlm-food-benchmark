@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "230 g",
+      "confidence": "85"
+    },
+    {
+      "name": "grated hard cheese on pasta",
+      "portion_estimate": "10 g",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted diced potatoes with herbs",
+      "portion_estimate": "160 g",
+      "confidence": "85"
+    },
+    {
+      "name": "vegetable patty or fritter topped with tomato sauce and melted cheese",
+      "portion_estimate": "130 g",
+      "confidence": "55"
+    },
+    {
+      "name": "single-serve yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged cheese stick",
+      "portion_estimate": "20 g",
+      "confidence": "70"
+    }
+  ]
+}

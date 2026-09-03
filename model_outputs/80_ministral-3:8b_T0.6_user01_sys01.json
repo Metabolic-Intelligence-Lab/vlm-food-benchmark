@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetable fried rice (with peas, carrots, corn, and possibly green beans)",
+      "portion_estimate": "350 grams",
+      "confidence": 85
+    },
+    {
+      "name": "buttered egg (whole, peeled)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt (unsweetened, in carton)",
+      "portion_estimate": "125 grams",
+      "confidence": 80
+    },
+    {
+      "name": "buttered mashed potatoes with gravy and saut\u00e9ed broccoli",
+      "portion_estimate": "400 grams",
+      "confidence": 85
+    },
+    {
+      "name": "butter packets (2 small packets, likely for the egg and potatoes)",
+      "portion_estimate": "uncertain (total ~10 grams)",
+      "confidence": 55
+    }
+  ]
+}

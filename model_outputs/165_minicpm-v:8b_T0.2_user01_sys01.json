@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Indian curry",
+      "portion_estimate": "uncertain, approx. 200-300g",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. 100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Sour cream",
+      "portion_estimate": "uncertain, approx. 30-50g",
+      "confidence": "40"
+    },
+    {
+      "name": "Mashed potatoes with gravy",
+      "portion_estimate": "uncertain, approx. 150-200g",
+      "confidence": "60"
+    }
+  ]
+}

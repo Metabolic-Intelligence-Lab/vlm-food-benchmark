@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup with herbs and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "crumbled cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "green vegetable balls",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "YOMO yogurt",
+      "portion_estimate": "12 grams",
+      "confidence": "60"
+    }
+  ]
+}

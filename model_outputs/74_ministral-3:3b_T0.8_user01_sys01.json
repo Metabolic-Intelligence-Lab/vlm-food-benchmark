@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "water from transparent plastic cup",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "small cubes of orange carrots",
+      "portion_estimate": 30,
+      "confidence": 70
+    },
+    {
+      "name": "rotini pasta with tomato sauce",
+      "portion_estimate": 150,
+      "confidence": 75
+    },
+    {
+      "name": "green beans (greenyard brand)",
+      "portion_estimate": 50,
+      "confidence": 75
+    },
+    {
+      "name": "crusty baguette slice (in plastic wrap)",
+      "portion_estimate": 30,
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "White bread roll",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Penne pasta with tomato sauce and green herbs",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Salad mix (lettuce, shredded carrots, red cabbage)",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "White plate with breaded chicken cutlet topped with tomato sauce and green herbs",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt container (likely plain)",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    }
+  ]
+}

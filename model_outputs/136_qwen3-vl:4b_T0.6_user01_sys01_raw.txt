@@ -1,0 +1,41 @@
+The dish contains **three distinct visible food items**:
+
+1. **Penne Pasta**  
+   - **Portion Estimate**: ~200g  
+   - **Confidence**: 80%  
+   - *Reasoning*: The pasta fills the container to the brim, and cooked penne typically weighs ~150–250g per serving. The volume and density of the pasta suggest a generous portion (~200g).
+
+2. **Green Peas**  
+   - **Portion Estimate**: ~15g  
+   - **Confidence**: 70%  
+   - *Reasoning*: Small, round green peas are clearly visible but not abundant. A typical serving of peas is ~10–20g, so this estimate aligns with the visual evidence.
+
+3. **Carrot Pieces**  
+   - **Portion Estimate**: ~20g  
+   - **Confidence**: 70%  
+   - *Reasoning*: Small, orange carrot chunks are scattered throughout. Carrots in a dish like this are usually ~15–30g per serving, so this estimate is reasonable.
+
+---
+
+### Final Answer:
+```json
+{
+  "items": [
+    {
+      "name": "Penne Pasta",
+      "weight": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "Green Peas",
+      "weight": "15g",
+      "confidence": 70
+    },
+    {
+      "name": "Carrot Pieces",
+      "weight": "20g",
+      "confidence": 70
+    }
+  ]
+}
+```

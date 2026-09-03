@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chopped mixed vegetables and herbs",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "creamy white dip or yogurt",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "fried or roasted nuts/fritters",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll or bun",
+      "portion_estimate": "120",
+      "confidence": "95"
+    }
+  ]
+}

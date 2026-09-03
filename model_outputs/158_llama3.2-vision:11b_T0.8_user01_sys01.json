@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "approximately 120g",
+      "confidence": 90
+    },
+    {
+      "name": "Mango",
+      "portion_estimate": "approximately 160g",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "approximately 80g",
+      "confidence": 70
+    },
+    {
+      "name": "Breaded Meatballs",
+      "portion_estimate": "approximately 100g",
+      "confidence": 80
+    },
+    {
+      "name": "Mushroom",
+      "portion_estimate": "approximately 20g",
+      "confidence": 60
+    },
+    {
+      "name": "Breaded Vegetable",
+      "portion_estimate": "approximately 50g",
+      "confidence": 70
+    },
+    {
+      "name": "Breaded Meatballs",
+      "portion_estimate": "approximately 100g",
+      "confidence": 80
+    }
+  ]
+}

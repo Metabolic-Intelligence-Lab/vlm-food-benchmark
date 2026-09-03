@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice",
+      "portion_estimate": "uncertain, approx 100-200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain, approx 100g",
+      "confidence": "40"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain, approx 200-300g",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed vegetables (carrots and pineapple)",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Steamed broccoli with mixed vegetables",
+      "portion_estimate": "uncertain, approx 200-300g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish (penne/rotini) in tomato sauce with a piece of meat",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "Bowl containing shredded chicken, carrots, and saut\u00e9ed cabbage or onions",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "Eggplant slice stuffed with rice salad or grains",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll in a plastic wrapper",
+      "portion_estimate": "75",
+      "confidence": 80
+    }
+  ]
+}

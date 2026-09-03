@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Salad or steamed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Small packaged snack or dessert",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Fruit or dried fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "baked beans",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with parmesan and green onions",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried egg with a runny yolk",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Steamed spinach",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Small yogurt cup",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Small bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    }
+  ]
+}

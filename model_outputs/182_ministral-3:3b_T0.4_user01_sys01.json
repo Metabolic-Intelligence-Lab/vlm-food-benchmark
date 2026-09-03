@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with meat sauce (rotini or similar shape)",
+      "portion_estimate": 200,
+      "confidence": 90
+    },
+    {
+      "name": "spinach or broccoli mixed with cheese (as part of a baked dish)",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "baked chicken breast topped with cheese",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "orange slices (halved)",
+      "portion_estimate": 100,
+      "confidence": 95
+    },
+    {
+      "name": "potato or similar starchy food in plastic bag (likely boiled or roasted)",
+      "portion_estimate": 100,
+      "confidence": 70
+    }
+  ]
+}

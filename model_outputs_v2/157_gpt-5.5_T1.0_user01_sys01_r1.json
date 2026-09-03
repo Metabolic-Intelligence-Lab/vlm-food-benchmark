@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked shell pasta with tomato sauce",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "grated hard cheese on pasta",
+      "portion_estimate": "10 grams",
+      "confidence": 80
+    },
+    {
+      "name": "cooked brown lentils",
+      "portion_estimate": "190 grams",
+      "confidence": 90
+    },
+    {
+      "name": "uncertain starchy dumplings or boiled potatoes",
+      "portion_estimate": "130 grams",
+      "confidence": 45
+    },
+    {
+      "name": "small slice of grilled eggplant",
+      "portion_estimate": "20 grams",
+      "confidence": 70
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "70 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "170 grams",
+      "confidence": 90
+    }
+  ]
+}

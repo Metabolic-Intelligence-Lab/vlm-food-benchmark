@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta (possibly rigatoni or penne)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "breaded meat (such as chicken or beef)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fruit (which could be bananas)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

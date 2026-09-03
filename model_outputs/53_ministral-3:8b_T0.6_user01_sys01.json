@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato-based sauce (approximately 1 cup)",
+      "portion_estimate": "200",
+      "confidence": 75
+    },
+    {
+      "name": "grilled or pan-seared chicken breast portion (thin slice)",
+      "portion_estimate": "120",
+      "confidence": 70
+    },
+    {
+      "name": "whole roasted or steamed artichoke heart (bottom portion)",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "whole cooked green bean (several pieces, possibly ~1 cup)",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "small bread roll (brioche or similar)",
+      "portion_estimate": "80",
+      "confidence": 65
+    },
+    {
+      "name": "apple slice (small portion, ~1/4 of a medium apple)",
+      "portion_estimate": "50",
+      "confidence": 60
+    },
+    {
+      "name": "water in clear glass (empty glass, no visible beverage)",
+      "portion_estimate": "uncertain",
+      "confidence": 0
+    }
+  ]
+}

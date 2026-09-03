@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with meat sauce and Parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fries and bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "chicken, potatoes, and sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

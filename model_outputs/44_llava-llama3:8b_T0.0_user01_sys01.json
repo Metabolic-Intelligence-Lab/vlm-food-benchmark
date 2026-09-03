@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "red potatoes with creamy sauce and purple onions",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sugar packets",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

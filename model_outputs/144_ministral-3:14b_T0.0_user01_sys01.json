@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "whole wheat bread slice",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "scrambled eggs with white sauce",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "white beans (canned or cooked)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "green leafy vegetable (likely spinach or kale)",
+      "portion_estimate": "30g",
+      "confidence": 75
+    },
+    {
+      "name": "apple (whole, with skin)",
+      "portion_estimate": "180g",
+      "confidence": 95
+    }
+  ]
+}

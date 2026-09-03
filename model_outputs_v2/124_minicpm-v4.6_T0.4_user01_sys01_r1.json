@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken and breadcrumb meal",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "350 g",
+      "confidence": 90
+    },
+    {
+      "name": "Bun",
+      "portion_estimate": "50 g",
+      "confidence": 85
+    },
+    {
+      "name": "Fried dish (breaded meat or fish)",
+      "portion_estimate": "120 g",
+      "confidence": 95
+    },
+    {
+      "name": "Rice product (VOMO goldserve)",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    }
+  ]
+}

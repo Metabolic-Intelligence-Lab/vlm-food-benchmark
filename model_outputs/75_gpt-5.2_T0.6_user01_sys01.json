@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked diced potatoes and zucchini",
+      "portion_estimate": "160 g",
+      "confidence": "70"
+    },
+    {
+      "name": "sliced chicken breast with creamy herb sauce",
+      "portion_estimate": "150 g",
+      "confidence": "72"
+    },
+    {
+      "name": "white beans in tomato sauce",
+      "portion_estimate": "170 g",
+      "confidence": "78"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "80"
+    },
+    {
+      "name": "string cheese (packaged cheese stick)",
+      "portion_estimate": "25 g",
+      "confidence": "78"
+    },
+    {
+      "name": "plain yogurt drink (small bottle)",
+      "portion_estimate": "100 g",
+      "confidence": "60"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "75"
+    }
+  ]
+}

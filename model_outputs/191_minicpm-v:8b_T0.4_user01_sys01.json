@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "hummus",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "pita chips",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "cheese sticks",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "green soup",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

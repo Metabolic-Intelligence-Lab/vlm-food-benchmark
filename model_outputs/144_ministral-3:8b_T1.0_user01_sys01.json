@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bread slice (individual portion)",
+      "portion_estimate": "50-70g",
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "150-180g (cooked)",
+      "confidence": 80
+    },
+    {
+      "name": "white beans (kidney beans or similar) with sauce",
+      "portion_estimate": "80-100g (cooked)",
+      "confidence": 75
+    },
+    {
+      "name": "fried or soft egg (e.g., scrambled or omelette piece)",
+      "portion_estimate": "50-60g",
+      "confidence": 75
+    },
+    {
+      "name": "green lettuce or salad leaves",
+      "portion_estimate": "20-40g",
+      "confidence": 65
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150-180g",
+      "confidence": 90
+    }
+  ]
+}

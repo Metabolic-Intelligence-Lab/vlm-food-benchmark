@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "grilled sausage",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked green peppers",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "sauce or marinade",
+      "portion_estimate": "20",
+      "confidence": "60"
+    }
+  ]
+}

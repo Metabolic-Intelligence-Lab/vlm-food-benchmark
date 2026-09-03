@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sauteed spinach (cooked leafy greens)",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded fried meatball/cutlet (polpetta)",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "sliced peaches in syrup (canned fruit)",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "single-serve yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "55"
+    }
+  ]
+}

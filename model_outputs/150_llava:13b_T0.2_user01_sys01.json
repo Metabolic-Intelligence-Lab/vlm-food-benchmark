@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich wrapped in paper with bread and salad",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta (macaroni or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "vegetables (broccoli and carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

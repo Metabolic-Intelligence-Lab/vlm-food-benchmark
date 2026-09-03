@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Egg",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "Kale Salad",
+      "portion_estimate": "75",
+      "confidence": 60
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "30",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fried fish or breaded cutlet (appears to be panko-coated)",
+      "portion_estimate": "150-180g",
+      "confidence": 85
+    },
+    {
+      "name": "scrambled eggs with corn kernels and tomato",
+      "portion_estimate": "100-120g (eggs only, excluding garnish)",
+      "confidence": 80
+    },
+    {
+      "name": "green beans with corn kernels",
+      "portion_estimate": "100-120g",
+      "confidence": 85
+    },
+    {
+      "name": "shredded orange sweet potato or carrot salad",
+      "portion_estimate": "120-150g",
+      "confidence": 85
+    },
+    {
+      "name": "condiment packet (likely soy sauce or similar)",
+      "portion_estimate": "uncertain (not edible portion)",
+      "confidence": 50
+    },
+    {
+      "name": "yogurt or sour cream cup (Kefir)",
+      "portion_estimate": "150-180g",
+      "confidence": 85
+    },
+    {
+      "name": "bottled water",
+      "portion_estimate": "uncertain (container size not clear)",
+      "confidence": 50
+    }
+  ]
+}

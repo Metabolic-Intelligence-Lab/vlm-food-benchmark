@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked chicken breast (boneless) with herbs/sauce",
+      "portion_estimate": "120 g",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed cooked vegetables (diced zucchini/greens, possibly potato)",
+      "portion_estimate": "130 g",
+      "confidence": "65"
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "80 g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (small, packaged)",
+      "portion_estimate": "55 g",
+      "confidence": "80"
+    },
+    {
+      "name": "orange (whole)",
+      "portion_estimate": "160 g",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Yogurt",
+      "portion_estimate": "150 g",
+      "confidence": 100
+    },
+    {
+      "name": "Baked pasta",
+      "portion_estimate": "200 g",
+      "confidence": 100
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "150 g",
+      "confidence": 100
+    },
+    {
+      "name": "Breaded balls",
+      "portion_estimate": "50 g",
+      "confidence": 100
+    },
+    {
+      "name": "Mushrooms",
+      "portion_estimate": "50 g",
+      "confidence": 100
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "80 g",
+      "confidence": 100
+    },
+    {
+      "name": "Butter stick",
+      "portion_estimate": "50 g",
+      "confidence": 100
+    }
+  ]
+}

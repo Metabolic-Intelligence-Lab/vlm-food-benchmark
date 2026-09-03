@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta with tomato sauce and cheese",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "steamed or saut\u00e9ed zucchini and potatoes",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "50",
+      "confidence": 95
+    }
+  ]
+}

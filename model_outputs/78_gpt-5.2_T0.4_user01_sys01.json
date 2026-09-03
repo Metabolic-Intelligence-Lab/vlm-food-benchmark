@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based soup with grated cheese/crouton topping",
+      "portion_estimate": "350 g",
+      "confidence": "72"
+    },
+    {
+      "name": "diced cooked carrots",
+      "portion_estimate": "120 g",
+      "confidence": "78"
+    },
+    {
+      "name": "breaded patty/cutlet (uncertain type) with melted cheese",
+      "portion_estimate": "140 g",
+      "confidence": "58"
+    },
+    {
+      "name": "bread roll/bun",
+      "portion_estimate": "65 g",
+      "confidence": "80"
+    },
+    {
+      "name": "apricots (3 pieces)",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    }
+  ]
+}

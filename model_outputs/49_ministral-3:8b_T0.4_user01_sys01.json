@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (likely penne or rigatoni)",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "chunked tuna or canned fish",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "diced tomatoes",
+      "portion_estimate": "70 grams",
+      "confidence": 75
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "30 grams",
+      "confidence": 70
+    },
+    {
+      "name": "cream-based sauce (e.g., mayonnaise or yogurt sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

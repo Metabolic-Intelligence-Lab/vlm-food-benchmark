@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sautéed green beans with tomato/spice sauce",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "breaded fried mozzarella/rice balls (arancini-like)",
+      "portion_estimate": "100",
+      "confidence": 55
+    },
+    {
+      "name": "penne pasta with light sauce",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "sliced whole grain bread roll, packaged",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "130",
+      "confidence": 85
+    }
+  ]
+}

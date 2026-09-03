@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "creamy green soup with croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "sandwich with lettuce and chicken/turkey",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried potato cubes (home fries)",
+      "portion_estimate": "160 g",
+      "confidence": "78"
+    },
+    {
+      "name": "breaded meat patty/croquette with gravy or sauce and shredded white cheese",
+      "portion_estimate": "130 g",
+      "confidence": "62"
+    },
+    {
+      "name": "shredded carrot and beet salad (with cabbage/seaweed pieces)",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll/bun (wrapped)",
+      "portion_estimate": "60 g",
+      "confidence": "84"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "70 g",
+      "confidence": "86"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "250 g",
+      "confidence": "75"
+    }
+  ]
+}

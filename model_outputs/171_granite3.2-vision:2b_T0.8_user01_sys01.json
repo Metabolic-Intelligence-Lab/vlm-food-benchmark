@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange-colored fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "white substance",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed Green Salad",
+      "portion_estimate": "150g",
+      "confidence": "100"
+    },
+    {
+      "name": "Tomato",
+      "portion_estimate": "80g",
+      "confidence": "100"
+    },
+    {
+      "name": "Cucumber",
+      "portion_estimate": "60g",
+      "confidence": "100"
+    },
+    {
+      "name": "Carrot",
+      "portion_estimate": "40g",
+      "confidence": "100"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with creamy sauce",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Cannellini beans",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Egg",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    }
+  ]
+}

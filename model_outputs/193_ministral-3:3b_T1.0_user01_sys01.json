@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grains/cracked rice mixture",
+      "portion_estimate": "60\u2013120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "soup with vegetables (potentially root vegetables, meat scraps?)",
+      "portion_estimate": "300\u2013400 grams",
+      "confidence": 90
+    },
+    {
+      "name": "halohedo (small fried dumpling) on the left side, cut off in image",
+      "portion_estimate": "1\u20132 grams",
+      "confidence": 65
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "orange (sliced on plate)",
+      "portion_estimate": "150\u2013200 grams (whole)",
+      "confidence": 70
+    }
+  ]
+}

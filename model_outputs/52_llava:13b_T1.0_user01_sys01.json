@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "chicken with sauce",
+      "portion_estimate": "250 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "pasta dish with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "mixed salad with shredded vegetables",
+      "portion_estimate": "75 grams",
+      "confidence": "40"
+    }
+  ]
+}

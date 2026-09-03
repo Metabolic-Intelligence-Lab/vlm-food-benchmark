@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetables (green beans, red carrots, yellow squash)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "baguette roll",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "ripe pear",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

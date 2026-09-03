@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy green soup with grated cheese on top",
+      "portion_estimate": "300",
+      "confidence": 90
+    },
+    {
+      "name": "sweet potato wedges with seasoning",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "baked cabbage rolls (stuffed sauerkraut rolls)",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "cubed cheese or stuffed mushroom-like balls",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "small baked or fried bread roll in plastic wrap",
+      "portion_estimate": "100",
+      "confidence": 75
+    }
+  ]
+}

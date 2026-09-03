@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy Vegetable Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Green Beans and Lentils/Chickpeas in Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Sandwich with Bread, Meat/Cheese, Lemon Wedge, and Pickle Spear",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Cream Cheese or Similar Spread",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Mustard or Other Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

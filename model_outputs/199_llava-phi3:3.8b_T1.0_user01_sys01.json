@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta salad",
+      "portion_estimate": "about 200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "mussels in white sauce with parsley on top",
+      "portion_estimate": "about 100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "pea salad with pink garnish",
+      "portion_estimate": "about 200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "sourdough roll or bread on tray next to a dish of green beans with pink garnish",
+      "portion_estimate": "about 50 grams",
+      "confidence": "80"
+    }
+  ]
+}

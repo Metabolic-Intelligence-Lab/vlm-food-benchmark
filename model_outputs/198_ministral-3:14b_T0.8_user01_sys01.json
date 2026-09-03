@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat or sourdough bread bun",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "cooked white rice",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "grilled or baked chicken breast",
+      "portion_estimate": "90",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or roasted Brussels sprouts",
+      "portion_estimate": "85",
+      "confidence": 85
+    },
+    {
+      "name": "diced potatoes or sweet potato chunks",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "sauce with herbs (likely white or b\u00e9chamel)",
+      "portion_estimate": "30",
+      "confidence": 75
+    },
+    {
+      "name": "cubed cheese (cheddar or similar)",
+      "portion_estimate": "25",
+      "confidence": 70
+    },
+    {
+      "name": "melted butter or margarine (in plastic container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

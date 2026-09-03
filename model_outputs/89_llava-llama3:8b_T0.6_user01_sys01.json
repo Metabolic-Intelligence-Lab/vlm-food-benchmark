@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Brown Rice with Yellow Curry",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Chickpeas with Green Herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Bread Loaf",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

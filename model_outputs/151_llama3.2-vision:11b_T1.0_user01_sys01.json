@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken breast",
+      "portion_estimate": "140g",
+      "confidence": "80"
+    },
+    {
+      "name": "roast vegetables",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    },
+    {
+      "name": "grain",
+      "portion_estimate": "80g",
+      "confidence": "75"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

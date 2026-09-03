@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Green pesto pasta (penne) with grated cheese",
+      "portion_estimate": 280,
+      "confidence": 95
+    },
+    {
+      "name": "Chickpeas mixed with diced carrots",
+      "portion_estimate": 160,
+      "confidence": 95
+    },
+    {
+      "name": "Green apple (whole)",
+      "portion_estimate": 180,
+      "confidence": 98
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Cheese stick (in wrapper)",
+      "portion_estimate": 30,
+      "confidence": 85
+    },
+    {
+      "name": "Grilled eggplant slice topped with cheese and avocado",
+      "portion_estimate": 120,
+      "confidence": 80
+    }
+  ]
+}

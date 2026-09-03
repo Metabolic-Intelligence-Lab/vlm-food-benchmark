@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli with herbs",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Rice with tomato sauce",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "Condiment",
+      "portion_estimate": "10",
+      "confidence": 70
+    }
+  ]
+}

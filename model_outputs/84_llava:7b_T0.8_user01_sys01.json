@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green vegetables on plate",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "White rice in bowl",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken on plate",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Mashed potatoes in bowl",
+      "portion_estimate": "250 grams",
+      "confidence": "90"
+    }
+  ]
+}

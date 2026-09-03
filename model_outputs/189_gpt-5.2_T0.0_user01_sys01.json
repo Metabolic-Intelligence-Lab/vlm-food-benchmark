@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "dark green vegetable soup (pureed, possibly spinach/mallow)",
+      "portion_estimate": "450 g",
+      "confidence": "70"
+    },
+    {
+      "name": "round bulgur patty/cake with tomato-based sauce on top",
+      "portion_estimate": "120 g",
+      "confidence": "62"
+    },
+    {
+      "name": "cooked leafy greens (stewed, possibly spinach/collards)",
+      "portion_estimate": "90 g",
+      "confidence": "65"
+    },
+    {
+      "name": "packaged breadsticks (grissini)",
+      "portion_estimate": "50 g",
+      "confidence": "55"
+    },
+    {
+      "name": "strawberry yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "60"
+    }
+  ]
+}

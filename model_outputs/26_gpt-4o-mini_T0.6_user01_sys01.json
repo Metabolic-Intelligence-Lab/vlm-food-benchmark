@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "breaded chicken nuggets",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "cooked kale",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "water",
+      "portion_estimate": "240",
+      "confidence": 90
+    }
+  ]
+}

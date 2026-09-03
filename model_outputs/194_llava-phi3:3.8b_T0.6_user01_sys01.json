@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of soup",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "Plate with food",
+      "portion_estimate": "200g",
+      "confidence": "94"
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": "350ml",
+      "confidence": "87"
+    },
+    {
+      "name": "Bread roll with filling",
+      "portion_estimate": "120g",
+      "confidence": "92"
+    },
+    {
+      "name": "Orange in a bag",
+      "portion_estimate": "150g",
+      "confidence": "87"
+    }
+  ]
+}

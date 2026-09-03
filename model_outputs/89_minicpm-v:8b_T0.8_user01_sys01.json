@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with butter",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Chickpeas (chana)",
+      "portion_estimate": "approx. 1/2 cup",
+      "confidence": "80"
+    },
+    {
+      "name": "Fish with garnish and juice droplets",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Apple pear fruit (likely a variety of Eureka)",
+      "portion_estimate": "approx. 1/2 piece",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "white plate with scrambled egg",
+      "portion_estimate": "uncertain, approximately 100g per portion",
+      "confidence": "50"
+    },
+    {
+      "name": "bowl of soup or stew",
+      "portion_estimate": "uncertain, approximately 300-400g for the bowl full",
+      "confidence": "60"
+    },
+    {
+      "name": "orange fruit on napkin",
+      "portion_estimate": "uncertain, possibly around a quarter of an orange based on size",
+      "confidence": "70"
+    }
+  ]
+}

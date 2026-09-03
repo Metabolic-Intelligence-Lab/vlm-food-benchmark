@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "meatballs and potatoes with sauce/gravy",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "casserole or baked pasta dish",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "rolls (bread or dinner rolls)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "mashed potatoes or vegetable side dish",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "condiment or seasoning (salt or pepper)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

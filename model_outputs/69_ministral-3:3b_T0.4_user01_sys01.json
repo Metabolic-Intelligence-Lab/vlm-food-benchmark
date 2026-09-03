@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "sausage pieces (likely bratwurst or similar)",
+      "portion_estimate": "30 grams (approximate, based on visible chunks)",
+      "confidence": 85
+    },
+    {
+      "name": "green bell peppers (sliced or chopped)",
+      "portion_estimate": "100 grams (approximate, based on visible pieces)",
+      "confidence": 85
+    },
+    {
+      "name": "mushrooms (likely button or cremini, saut\u00e9ed)",
+      "portion_estimate": "50 grams (approximate, based on visible chunks)",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed onions or garlic (in sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

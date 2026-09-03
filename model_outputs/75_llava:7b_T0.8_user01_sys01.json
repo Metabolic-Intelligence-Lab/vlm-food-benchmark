@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fish fillets, likely seasoned and possibly baked or grilled",
+      "portion_estimate": "150g (about 5 oz)",
+      "confidence": "60"
+    },
+    {
+      "name": "mashed vegetable, possibly cauliflower",
+      "portion_estimate": "100g (about 3.5 oz)",
+      "confidence": "60"
+    },
+    {
+      "name": "potatoes with herbs",
+      "portion_estimate": "100g (about 3.5 oz)",
+      "confidence": "60"
+    },
+    {
+      "name": "salad, containing vegetables such as tomatoes and cucumbers",
+      "portion_estimate": "200g (about 7 oz)",
+      "confidence": "60"
+    },
+    {
+      "name": "small bowl that could contain a sauce or condiment",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "two items labeled 'uncertain'",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Buffalo chicken salad",
+      "portion_estimate": "180g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans with broccoli",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Tuna salad with lettuce, tomato and cucumber",
+      "portion_estimate": "90g",
+      "confidence": "60"
+    },
+    {
+      "name": "Garlic bread",
+      "portion_estimate": "45g",
+      "confidence": "70"
+    },
+    {
+      "name": "Caesar salad, with dressing on the side",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    }
+  ]
+}

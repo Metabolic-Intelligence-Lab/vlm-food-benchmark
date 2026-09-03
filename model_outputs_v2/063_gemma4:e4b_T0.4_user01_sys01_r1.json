@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried snacks or thick french fries (top plate)",
+      "portion_estimate": "180 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Sauced shredded filling (e.g., chicken or vegetable mixture, top plate)",
+      "portion_estimate": "120 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Stuffed wrap or savory pastry (bottom left plate)",
+      "portion_estimate": "140 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Sliced chicken and mixed vegetable side (bottom right bowl)",
+      "portion_estimate": "180 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Packaged bread roll or bun (bottom right)",
+      "portion_estimate": "120 grams",
+      "confidence": "85"
+    }
+  ]
+}

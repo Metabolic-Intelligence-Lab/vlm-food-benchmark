@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Tahini toast with tomato and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Plain whole grain bread",
+      "portion_estimate": "1 slice (approx. 35g)",
+      "confidence": "90"
+    },
+    {
+      "name": "Cauliflower with blueberries and nuts",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

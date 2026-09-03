@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roasted or baked rigatoni pasta (with grated cheese)",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "spinach and cheese stuffed flatbread or quesadilla",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat or multigrain roll/bun",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "sliced butter (packaged)",
+      "portion_estimate": "uncertain (portion not clearly visible)",
+      "confidence": 40
+    },
+    {
+      "name": "condiment packet (likely sweet chili or similar)",
+      "portion_estimate": "uncertain (small packet, ~5g)",
+      "confidence": 60
+    }
+  ]
+}

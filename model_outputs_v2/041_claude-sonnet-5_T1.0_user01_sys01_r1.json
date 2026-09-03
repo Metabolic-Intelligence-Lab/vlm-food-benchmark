@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "conchiglie pasta with tomato sauce and grated parmesan",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "crespelle (savory crepe) with spinach filling and béchamel/cheese topping, baked",
+      "portion_estimate": "180",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed cabbage and cucumber salad (red cabbage, white cabbage, sliced cucumber)",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "whole apricots",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "water in plastic cup",
+      "portion_estimate": "200",
+      "confidence": "60"
+    }
+  ]
+}

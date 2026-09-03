@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup (pureed, e.g., pea/vegetable) with grated cheese topping",
+      "portion_estimate": "350 g",
+      "confidence": "70"
+    },
+    {
+      "name": "grated cheese (on soup)",
+      "portion_estimate": "8 g",
+      "confidence": "65"
+    },
+    {
+      "name": "pan-fried diced potatoes",
+      "portion_estimate": "180 g",
+      "confidence": "80"
+    },
+    {
+      "name": "herb cream cheese/soft cheese rounds (2 pieces)",
+      "portion_estimate": "50 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll (bun)",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "sprinkled dairy dessert/yogurt cup (likely fruit yogurt)",
+      "portion_estimate": "150 g",
+      "confidence": "60"
+    }
+  ]
+}

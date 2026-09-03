@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Brown bread with green pesto",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "White bowl with broccoli and fish in creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Brown chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

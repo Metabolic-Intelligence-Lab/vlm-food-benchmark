@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and ground meat",
+      "portion_estimate": "approximately 300 grams",
+      "confidence": 95
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "ground meat (like ground beef or similar)",
+      "portion_estimate": "approximately 75 grams",
+      "confidence": 85
+    },
+    {
+      "name": "shredded cheese",
+      "portion_estimate": "approximately 20 grams",
+      "confidence": 90
+    }
+  ]
+}

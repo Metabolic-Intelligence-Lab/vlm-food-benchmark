@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Green Beans",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Spinach and Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Egg",
+      "portion_estimate": "uncertain",
+      "confidence": 95
+    },
+    {
+      "name": "Bread or Cracker",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Meat or Chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Sauce or Gravy",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Herb or Seasoning",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

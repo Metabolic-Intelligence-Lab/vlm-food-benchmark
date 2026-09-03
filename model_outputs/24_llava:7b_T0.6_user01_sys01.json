@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Vegetables with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta salad",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Carrot and broccoli",
+      "portion_estimate": "350 grams",
+      "confidence": "80"
+    }
+  ]
+}

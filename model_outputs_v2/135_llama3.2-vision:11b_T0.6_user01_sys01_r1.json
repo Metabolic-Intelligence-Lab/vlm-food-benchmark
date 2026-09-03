@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted Chicken Breast",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "Baked Potato",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Steamed Broccoli",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    }
+  ]
+}

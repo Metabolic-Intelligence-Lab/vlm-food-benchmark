@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white rice with butter/oil",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetables (carrots and potatoes, boiled)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "cooked spinach or similar leafy green with shrimp/chicken",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yellow fruit (likely lemon or similar)",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "sliced carrots (raw)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    }
+  ]
+}

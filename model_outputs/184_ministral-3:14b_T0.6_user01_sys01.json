@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baguette or sandwich roll (whole, wrapped)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "stuffed sandwich or croque made with breaded chicken cutlet, cheese, and herbs",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "mixed green salad with shredded lettuce, cherry tomatoes, and dried cranberries",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "single purple plum or prune",
+      "portion_estimate": "40",
+      "confidence": 85
+    },
+    {
+      "name": "crisps (potato chips) in a small packet (partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

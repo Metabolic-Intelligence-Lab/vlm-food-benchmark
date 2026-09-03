@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with olive oil and herbs",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "breaded and fried fish fillet (possibly cod or similar)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "fried potato croquettes or fritters",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "whole lemon (for garnish)",
+      "portion_estimate": "80g",
+      "confidence": 95
+    },
+    {
+      "name": "buttered roll or bread",
+      "portion_estimate": "70g",
+      "confidence": 85
+    }
+  ]
+}

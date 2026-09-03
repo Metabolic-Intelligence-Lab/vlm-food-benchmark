@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta shells (likely shell pasta with sauce)",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "Green beans with croutons or breadcrumbs",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "Bread rolls (2 pieces)",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "Peach",
+      "portion_estimate": "150",
+      "confidence": 95
+    }
+  ]
+}

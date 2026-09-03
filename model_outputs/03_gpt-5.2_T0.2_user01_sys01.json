@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rotini pasta with tomato sauce",
+      "portion_estimate": "230 g",
+      "confidence": "82"
+    },
+    {
+      "name": "cooked broccoli (with small amount of herbs/oil/seasoning)",
+      "portion_estimate": "170 g",
+      "confidence": "78"
+    },
+    {
+      "name": "eggplant slice with a scoop of hummus (or similar chickpea spread) and sprouts",
+      "portion_estimate": "110 g",
+      "confidence": "66"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "86"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "80"
+    }
+  ]
+}

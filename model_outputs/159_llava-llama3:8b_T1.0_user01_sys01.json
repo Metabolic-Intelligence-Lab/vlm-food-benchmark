@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cake with nuts",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "saut\u00e9ed vegetables (spinach and mushrooms)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "noodles (egg or fettuccine)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

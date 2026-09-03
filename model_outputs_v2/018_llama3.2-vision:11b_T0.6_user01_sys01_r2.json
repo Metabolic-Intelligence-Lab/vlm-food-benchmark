@@ -1,0 +1,18 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Fish",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mixed Salad",
+      "portion_estimate": "100g"
+    }
+  ]
+}

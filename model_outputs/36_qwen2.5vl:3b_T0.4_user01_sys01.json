@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "crispy fried noodles",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "cucumber slices",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "purple cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "dip",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "green and brown rice cakes",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

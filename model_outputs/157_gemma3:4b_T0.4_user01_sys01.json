@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Lentil Sauce",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Meatball",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "120g",
+      "confidence": 90
+    }
+  ]
+}

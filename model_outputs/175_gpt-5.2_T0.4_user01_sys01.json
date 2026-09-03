@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green beans in tomato-based sauce",
+      "portion_estimate": "180 g",
+      "confidence": "78"
+    },
+    {
+      "name": "white fish pieces in creamy/white sauce (with herbs, possible onion/bacon bits)",
+      "portion_estimate": "120 g",
+      "confidence": "66"
+    },
+    {
+      "name": "cooked leafy greens (spinach/chard) with potato chunks",
+      "portion_estimate": "150 g",
+      "confidence": "74"
+    },
+    {
+      "name": "orange (whole)",
+      "portion_estimate": "160 g",
+      "confidence": "90"
+    }
+  ]
+}

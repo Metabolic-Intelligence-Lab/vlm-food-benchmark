@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "15 grams",
+      "confidence": "100"
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "50 grams",
+      "confidence": "100"
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "20 grams",
+      "confidence": "100"
+    },
+    {
+      "name": "Cracker",
+      "portion_estimate": "5 grams",
+      "confidence": "100"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "15 grams",
+      "confidence": "100"
+    }
+  ]
+}

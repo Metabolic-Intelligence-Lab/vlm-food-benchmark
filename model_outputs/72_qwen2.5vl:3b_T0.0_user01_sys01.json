@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "crispy chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "carrot slices",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "lentils",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

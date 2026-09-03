@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked white rice",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "cooked chicken (diced)",
+      "portion_estimate": "40g",
+      "confidence": 80
+    },
+    {
+      "name": "diced carrot",
+      "portion_estimate": "10g",
+      "confidence": 75
+    },
+    {
+      "name": "mixed vegetables (uncertain type, possibly peas or corn kernels)",
+      "portion_estimate": "25g",
+      "confidence": 65
+    },
+    {
+      "name": "possible butter or oil (visible as small yellowish dots)",
+      "portion_estimate": "5g",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup with grits",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "plate of vegetables and carbs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread in a bag",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

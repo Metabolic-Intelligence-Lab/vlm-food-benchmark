@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "fish",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "small bowl, uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "container, uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread (plastic bag)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

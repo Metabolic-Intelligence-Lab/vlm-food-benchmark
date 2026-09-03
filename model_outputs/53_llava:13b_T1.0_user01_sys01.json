@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "approximately 60-100 grams",
+      "confidence": "40"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "approximately 50-70 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread rolls",
+      "portion_estimate": "approximately 50-70 grams",
+      "confidence": "30"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Garlic bread",
+      "portion_estimate": "2 pieces",
+      "confidence": "85"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "1 piece",
+      "confidence": "90"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "6 pieces",
+      "confidence": "85"
+    },
+    {
+      "name": "Pasta with sauce and cheese",
+      "portion_estimate": "3/4 cup",
+      "confidence": "70"
+    }
+  ]
+}

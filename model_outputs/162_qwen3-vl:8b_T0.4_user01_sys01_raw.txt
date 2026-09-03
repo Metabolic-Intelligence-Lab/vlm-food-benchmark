@@ -1,0 +1,44 @@
+### Distinct Food Items in the Meal
+
+1. **Broccoli**  
+   - **Quantity**: 1 serving (approximately 100g)  
+   - **Confidence Level**: 90%  
+   *Rationale: Explicitly described as "a serving of broccoli," indicating a standard portion size. Confidence is high due to direct mention.*
+
+2. **Potatoes (whole/boiled)**  
+   - **Quantity**: 1 portion (approximately 50g)  
+   - **Confidence Level**: 90%  
+   *Rationale: Described as "a portion of potatoes," implying a cooked form (e.g., boiled or mashed). Confidence is high as it is distinct from diced potatoes.*
+
+3. **Sandwich (wrapped)**  
+   - **Quantity**: 1 wrapped sandwich (approximately 80g)  
+   - **Confidence Level**: 80%  
+   *Rationale: Explicitly stated as "a wrapped sandwich," but the wrapping is not a food item itself. Confidence is slightly lower due to ambiguity in exact contents (e.g., fillings), though the sandwich is clearly identified.*
+
+4. **Soup**  
+   - **Quantity**: 1 bowl (approximately 200g)  
+   - **Confidence Level**: 90%  
+   *Rationale: Directly described as "a bowl of soup," with no ambiguity about the item. Confidence is high as it is a standalone food.*
+
+5. **Bread (slice)**  
+   - **Quantity**: 1 slice (approximately 50g)  
+   - **Confidence Level**: 90%  
+   *Rationale: Explicitly stated as "a slice of bread," indicating a single, standard slice. Confidence is high due to clear description.*
+
+6. **Diced Potatoes**  
+   - **Quantity**: 1 small portion (approximately 50g)  
+   - **Confidence Level**: 90%  
+   *Rationale: Explicitly described as "a small portion of diced potatoes," distinguishing it from whole potatoes. Confidence is high as the preparation method (diced) is specified.*
+
+7. **Lemon**  
+   - **Quantity**: 1 lemon (approximately 100g)  
+   - **Confidence Level**: 90%  
+   *Rationale: Directly stated as "a lemon," with no ambiguity. Confidence is high as it is a single, identifiable item.*
+
+---
+
+### Notes on Confidence Levels
+- **High confidence (90%)**: Items with explicit descriptions (e.g., "a serving of broccoli," "a bowl of soup") where the quantity and form are unambiguous.
+- **Moderate confidence (80%)**: Items where context or preparation method introduces minor uncertainty (e.g., "wrapped sandwich" may vary in fillings, but the sandwich itself is clearly present).
+
+This list reflects all distinct food items based on the provided description, with quantities estimated for clarity (using typical serving sizes) and confidence levels derived from the specificity of the description.

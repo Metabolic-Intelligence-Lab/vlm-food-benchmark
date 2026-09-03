@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bean soup with grated cheese topping",
+      "portion_estimate": "250g",
+      "confidence": 75
+    },
+    {
+      "name": "savory bread pudding/strata square (egg and bread bake)",
+      "portion_estimate": "150g",
+      "confidence": 55
+    },
+    {
+      "name": "roasted brussels sprouts and carrots",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "dinner rolls (bagged, 3 pieces)",
+      "portion_estimate": "90g",
+      "confidence": 80
+    },
+    {
+      "name": "plums (red, 2 pieces)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    }
+  ]
+}

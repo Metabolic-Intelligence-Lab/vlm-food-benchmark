@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "meatballs and carrots",
+      "portion_estimate": "85g",
+      "confidence": 95
+    },
+    {
+      "name": "noodles with sauce",
+      "portion_estimate": "207g",
+      "confidence": 90
+    },
+    {
+      "name": "water",
+      "portion_estimate": "245ml",
+      "confidence": 90
+    }
+  ]
+}

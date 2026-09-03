@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "white plate with pasta",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "yellow bowl of vegetables",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll in plastic bag",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    }
+  ]
+}

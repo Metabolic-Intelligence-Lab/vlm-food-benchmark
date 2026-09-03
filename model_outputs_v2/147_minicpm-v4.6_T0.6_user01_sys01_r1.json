@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rotini pasta with grated cheese",
+      "portion_estimate": "200 g",
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll (bun)",
+      "portion_estimate": "50 g",
+      "confidence": 90
+    },
+    {
+      "name": "Stew or baked casserole",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "100 g",
+      "confidence": 85
+    }
+  ]
+}

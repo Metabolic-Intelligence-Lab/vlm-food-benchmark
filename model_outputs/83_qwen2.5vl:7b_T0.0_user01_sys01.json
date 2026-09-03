@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Baked fish with garnish",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Quinoa with chickpeas and greens",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50",
+      "confidence": 70
+    }
+  ]
+}

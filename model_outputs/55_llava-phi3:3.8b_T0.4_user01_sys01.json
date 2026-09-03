@@ -1,0 +1,26 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded Chicken",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed Vegetables",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Kale Chips",
+      "portion_estimate": "90g",
+      "confidence": "60"
+    }
+  ],
+  "drinks": [
+    {
+      "type": "Water",
+      "container": "Glass",
+      "quantity": "1 cup"
+    }
+  ]
+}

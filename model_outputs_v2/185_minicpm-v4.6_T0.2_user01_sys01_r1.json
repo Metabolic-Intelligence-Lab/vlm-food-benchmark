@@ -1,0 +1,30 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "diced potatoes",
+      "portion_estimate": "200 g",
+      "confidence": 85
+    },
+    {
+      "name": "patty",
+      "portion_estimate": "50 g",
+      "confidence": 75
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "20 g",
+      "confidence": 70
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 mL (\u2248200 g)",
+      "confidence": 80
+    }
+  ],
+  "note": "Portion estimates are based on visual assessment of typical serving sizes."
+}

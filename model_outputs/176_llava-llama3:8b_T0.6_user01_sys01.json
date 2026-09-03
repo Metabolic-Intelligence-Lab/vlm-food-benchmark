@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "brown soup with croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "sandwich with toasted bread and filling",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "rice with black olives",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

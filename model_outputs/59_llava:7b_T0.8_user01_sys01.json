@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Greek salad",
+      "portion_estimate": "about 150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pie",
+      "portion_estimate": "about 50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Broccoli and spinach",
+      "portion_estimate": "about 100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Purple grapes",
+      "portion_estimate": "approx. 75g",
+      "confidence": "60"
+    }
+  ]
+}

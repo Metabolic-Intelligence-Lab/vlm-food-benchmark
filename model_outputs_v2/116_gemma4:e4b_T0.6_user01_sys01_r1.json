@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable soup or stew with cheese topping",
+      "portion_estimate": "400",
+      "confidence": "95"
+    },
+    {
+      "name": "Toasted bread slice",
+      "portion_estimate": "90",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked cauliflower florets or similar vegetable mix",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Cracker or savory bread piece",
+      "portion_estimate": "90",
+      "confidence": "90"
+    }
+  ]
+}

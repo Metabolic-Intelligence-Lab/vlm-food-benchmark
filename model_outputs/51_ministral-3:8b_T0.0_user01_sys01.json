@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "baked potato with caramelized onions and cheese",
+      "portion_estimate": "uncertain (likely ~200-250g, assuming a medium-sized baked potato)",
+      "confidence": 55
+    },
+    {
+      "name": "caramelized onions",
+      "portion_estimate": "uncertain (likely ~50-70g)",
+      "confidence": 50
+    },
+    {
+      "name": "shredded cheese topping",
+      "portion_estimate": "uncertain (likely ~30-40g)",
+      "confidence": 55
+    }
+  ]
+}

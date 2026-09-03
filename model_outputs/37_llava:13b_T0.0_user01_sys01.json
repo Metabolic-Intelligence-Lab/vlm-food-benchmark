@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "eggs benedict",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "vegetable salad",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "pasta with cheese",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    }
+  ]
+}

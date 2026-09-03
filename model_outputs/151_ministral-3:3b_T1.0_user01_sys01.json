@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roasted Brussels sprouts",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "orange/yellow roasted vegetable mixture (squash/carrots)",
+      "portion_estimate": 100,
+      "confidence": 95
+    },
+    {
+      "name": "breadstick/pasta with tomato sauce or meat rag\u00f9",
+      "portion_estimate": 180,
+      "confidence": 92
+    },
+    {
+      "name": "whole-grain bread with olive oil smear",
+      "portion_estimate": 40,
+      "confidence": 75
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": 30,
+      "confidence": 80
+    }
+  ]
+}

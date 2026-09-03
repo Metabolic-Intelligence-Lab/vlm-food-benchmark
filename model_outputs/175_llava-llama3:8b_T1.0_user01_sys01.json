@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pink meat",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "black rice",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "red cherry tomato",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

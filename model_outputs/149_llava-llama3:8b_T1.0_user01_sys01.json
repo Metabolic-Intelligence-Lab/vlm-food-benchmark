@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "scrambled eggs and mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "slice of toast and mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "fresh blueberries",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pasta salad with shredded cheese and green leaves",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta salad (similar to first plate)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

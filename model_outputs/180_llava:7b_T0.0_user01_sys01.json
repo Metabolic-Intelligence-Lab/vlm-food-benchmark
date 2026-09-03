@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrot sticks",
+      "portion_estimate": "70 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "1 medium apple",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrot salad",
+      "portion_estimate": "70 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Burger with cheese and lettuce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    }
+  ]
+}

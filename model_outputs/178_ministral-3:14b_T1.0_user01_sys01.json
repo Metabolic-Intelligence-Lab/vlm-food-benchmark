@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat spaghetti with herbs and olive oil (al dente)",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "baked or grilled fish fillet with herb crust",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "fried potato or zucchini fritters (mozzarella croquettes)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "fresh lemon (whole)",
+      "portion_estimate": "70g",
+      "confidence": 90
+    },
+    {
+      "name": "whole wheat dinner roll or bread bun",
+      "portion_estimate": "80g",
+      "confidence": 80
+    }
+  ]
+}

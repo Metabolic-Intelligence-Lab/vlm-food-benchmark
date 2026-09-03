@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce (penne or similar)",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "pesto sauce with possible white cheese or ricotta dollop",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "roasted broccoli florets",
+      "portion_estimate": "80g",
+      "confidence": 78
+    },
+    {
+      "name": "garlic bread (toasted bun with garlic and butter coating)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "yellow lemon or limes with skin (whole)",
+      "portion_estimate": "120g",
+      "confidence": 75
+    }
+  ]
+}

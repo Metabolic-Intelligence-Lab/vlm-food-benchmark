@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "water",
+      "portion_estimate": "240",
+      "confidence": "80"
+    },
+    {
+      "name": "tomato slices with cheese and anchovy",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "potato cubes",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "salad (lettuce and radicchio)",
+      "portion_estimate": "30",
+      "confidence": "60"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "150",
+      "confidence": "70"
+    }
+  ]
+}

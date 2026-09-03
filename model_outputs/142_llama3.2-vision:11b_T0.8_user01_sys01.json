@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fish",
+      "portion_estimate": "100-150g",
+      "confidence": 80
+    },
+    {
+      "name": "Canned White Beans",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

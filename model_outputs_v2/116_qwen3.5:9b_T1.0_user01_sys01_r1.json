@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable soup with grated cheese",
+      "portion_estimate": 350,
+      "confidence": 95
+    },
+    {
+      "name": "White sliced bread roll",
+      "portion_estimate": 80,
+      "confidence": 92
+    },
+    {
+      "name": "Yogurt cup (Vomov brand)",
+      "portion_estimate": 130,
+      "confidence": 90
+    },
+    {
+      "name": "Steamed cauliflower florets",
+      "portion_estimate": 140,
+      "confidence": 85
+    },
+    {
+      "name": "Flatbread cracker or pastry square",
+      "portion_estimate": 45,
+      "confidence": 92
+    }
+  ]
+}

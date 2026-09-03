@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed salad greens (red leaf lettuce, green lettuce)",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "Shredded carrot",
+      "portion_estimate": 20,
+      "confidence": 85
+    },
+    {
+      "name": "Grilled bread or croutons (with char marks)",
+      "portion_estimate": 60,
+      "confidence": 80
+    }
+  ]
+}

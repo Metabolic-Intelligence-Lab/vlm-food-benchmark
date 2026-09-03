@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "30g",
+      "confidence": "50"
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "curry with rice and vegetables",
+      "portion_estimate": "200g",
+      "confidence": "40"
+    },
+    {
+      "name": "custard in a small bowl",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed vegetables side dish in the small bowl",
+      "portion_estimate": "50g",
+      "confidence": "30"
+    },
+    {
+      "name": "packet of butter wrapped in paper",
+      "portion_estimate": "20g",
+      "confidence": "80"
+    }
+  ]
+}

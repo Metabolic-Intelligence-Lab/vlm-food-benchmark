@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked basmati or jasmine rice with olive oil drizzle",
+      "portion_estimate": "180 grams",
+      "confidence": 90
+    },
+    {
+      "name": "plain doughnut (or brioche bun)",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "hummus (chickpea dip) with garlic or herb seasoning",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "chickpea halves",
+      "portion_estimate": "40 grams",
+      "confidence": 70
+    },
+    {
+      "name": "whole lemon (peeled and possibly used as garnish)",
+      "portion_estimate": "120 grams (fruit portion)",
+      "confidence": 75
+    }
+  ]
+}

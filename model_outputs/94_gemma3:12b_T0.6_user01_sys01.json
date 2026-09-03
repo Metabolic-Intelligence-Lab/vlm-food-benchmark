@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "flour tortilla",
+      "portion_estimate": "60",
+      "confidence": "95"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "portion_estimate": "25",
+      "confidence": "85"
+    },
+    {
+      "name": "tomato salsa",
+      "portion_estimate": "30",
+      "confidence": "75"
+    }
+  ]
+}

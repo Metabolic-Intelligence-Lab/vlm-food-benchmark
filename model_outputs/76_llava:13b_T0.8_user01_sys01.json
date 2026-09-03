@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish with vegetables",
+      "portion_estimate": "approximately 250 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Rice pilaf with veggies",
+      "portion_estimate": "100-200 grams",
+      "confidence": "40"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed vegetable salad",
+      "portion_estimate": "100-150 grams",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green pasta (penne)",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "baked stuffed mushroom",
+      "portion_estimate": "70",
+      "confidence": "75"
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "ham",
+      "portion_estimate": "25",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "85"
+    }
+  ]
+}

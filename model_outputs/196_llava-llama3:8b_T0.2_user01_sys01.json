@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "brownish soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "grilled chicken and brown beans",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "seasoning packets",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

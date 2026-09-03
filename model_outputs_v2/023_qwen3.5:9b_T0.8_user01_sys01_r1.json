@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta in tomato-based sauce with vegetables",
+      "portion_estimate": 240,
+      "confidence": 95
+    },
+    {
+      "name": "golden-brown fried item topped with red sauce and sprinkles",
+      "portion_estimate": 180,
+      "confidence": 90
+    },
+    {
+      "name": "scrambled eggs or egg mixture",
+      "portion_estimate": 130,
+      "confidence": 92
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": 15,
+      "confidence": 98
+    },
+    {
+      "name": "water in clear plastic cup",
+      "portion_estimate": 250,
+      "confidence": 97
+    },
+    {
+      "name": "Yoplait yogurt cup (chocolate berry flavor)",
+      "portion_estimate": 135,
+      "confidence": 96
+    },
+    {
+      "name": "packaged pastry or bread roll",
+      "portion_estimate": 60,
+      "confidence": 85
+    }
+  ]
+}

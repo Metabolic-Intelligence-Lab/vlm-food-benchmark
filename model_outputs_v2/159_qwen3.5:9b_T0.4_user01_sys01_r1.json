@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (ditalini or similar small tubes) with grated cheese",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Lasagna slice with green spinach/basil filling and grated cheese",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Side salad or vegetables (potatoes, cabbage/sauerkraut)",
+      "portion_estimate": 80,
+      "confidence": 85
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll (wrapped)",
+      "portion_estimate": 60,
+      "confidence": 85
+    }
+  ]
+}

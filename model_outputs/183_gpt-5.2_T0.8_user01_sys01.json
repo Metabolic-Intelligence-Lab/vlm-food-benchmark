@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "baked savory pastry slice (possibly stuffed with greens/cheese)",
+      "portion_estimate": "160 g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll (white bun)",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "lentil/vegetable soup (pureed or thick soup) with grated cheese on top",
+      "portion_estimate": "320 g",
+      "confidence": "70"
+    },
+    {
+      "name": "grated cheese topping (on soup)",
+      "portion_estimate": "8 g",
+      "confidence": "65"
+    },
+    {
+      "name": "Brussels sprouts (cooked)",
+      "portion_estimate": "110 g",
+      "confidence": "75"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    }
+  ]
+}

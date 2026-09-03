@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with mushrooms and sauce",
+      "portion_estimate": "uncertain, approximately 200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain, approximately 100-150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Orange slices",
+      "portion_estimate": "uncertain, approximately 30-40g each",
+      "confidence": "50"
+    }
+  ]
+}

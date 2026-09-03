@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "broth or creamy soup (likely chicken or vegetable-based) in bowl",
+      "portion_estimate": "200g",
+      "confidence": 75
+    },
+    {
+      "name": "grated cheese sprinkled on top of soup",
+      "portion_estimate": "10g",
+      "confidence": 65
+    },
+    {
+      "name": "fried potato croquettes (small to medium size)",
+      "portion_estimate": "120g (approx. 6 pieces)",
+      "confidence": 70
+    },
+    {
+      "name": "potato hash or diced potatoes (side dish)",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "packaged butter or margarine",
+      "portion_estimate": "uncertain (visible wrapper size unclear)",
+      "confidence": 40
+    },
+    {
+      "name": "container of yogurt or creamy dessert",
+      "portion_estimate": "uncertain (container size unclear, likely ~150g)",
+      "confidence": 50
+    },
+    {
+      "name": "salt packets",
+      "portion_estimate": "uncertain (likely <5g per packet)",
+      "confidence": 30
+    }
+  ]
+}

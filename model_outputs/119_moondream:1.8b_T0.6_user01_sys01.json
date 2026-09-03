@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bowl containing meat",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "bowl filled with noodles or beans",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "small cup that could be a yogurt container",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sandwiches",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

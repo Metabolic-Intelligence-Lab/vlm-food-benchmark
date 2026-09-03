@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with butter",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Cottage cheese",
+      "portion_estimate": "125g",
+      "confidence": 80
+    },
+    {
+      "name": "White rice or cauliflower mash",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Seaweed-wrapped meatballs with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

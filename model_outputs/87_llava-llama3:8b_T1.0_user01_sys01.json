@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "oats",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "fruits and vegetables (blueberries, raspberries, green beans, broccoli)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pomegranate",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "white paper bag with green label",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

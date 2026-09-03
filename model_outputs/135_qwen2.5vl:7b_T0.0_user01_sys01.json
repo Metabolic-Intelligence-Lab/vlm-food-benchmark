@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Braised Meat with Gravy",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrot Puree",
+      "portion_estimate": "50",
+      "confidence": "80"
+    }
+  ]
+}

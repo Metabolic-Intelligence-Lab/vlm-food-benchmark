@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "grilled white fish fillets",
+      "portion_estimate": "140 g",
+      "confidence": "85"
+    },
+    {
+      "name": "whole wheat penne pasta with light tomato sauce",
+      "portion_estimate": "190 g",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed salad with shredded carrot and radicchio",
+      "portion_estimate": "80 g",
+      "confidence": "80"
+    },
+    {
+      "name": "slice of rustic bread",
+      "portion_estimate": "35 g",
+      "confidence": "80"
+    },
+    {
+      "name": "single-serve yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "75"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "200 g",
+      "confidence": "90"
+    },
+    {
+      "name": "small pat of butter",
+      "portion_estimate": "10 g",
+      "confidence": "65"
+    },
+    {
+      "name": "partially visible bread roll",
+      "portion_estimate": "50 g",
+      "confidence": "60"
+    }
+  ]
+}

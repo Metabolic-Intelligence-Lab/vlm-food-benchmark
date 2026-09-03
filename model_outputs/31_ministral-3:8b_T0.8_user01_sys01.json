@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce and grated cheese (likely penne or rigatoni)",
+      "portion_estimate": "200 grams (uncertain, visual estimate)",
+      "confidence": 75
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "100 grams (uncertain, visual estimate)",
+      "confidence": 70
+    },
+    {
+      "name": "mushroom (saut\u00e9ed or grilled)",
+      "portion_estimate": "50 grams (uncertain, visual estimate)",
+      "confidence": 65
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams (uncertain, visual estimate)",
+      "confidence": 85
+    },
+    {
+      "name": "plastic-wrapped unidentified food item (likely a single-serve cheese or meat portion)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "water in clear plastic cup with green label (likely 250-300ml)",
+      "portion_estimate": "300 grams (uncertain, visual estimate)",
+      "confidence": 60
+    }
+  ]
+}

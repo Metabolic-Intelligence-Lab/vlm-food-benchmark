@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "plain water",
+      "portion_estimate": "250 g",
+      "confidence": "75"
+    },
+    {
+      "name": "omelet (egg-based, folded)",
+      "portion_estimate": "90 g",
+      "confidence": "70"
+    },
+    {
+      "name": "diced zucchini/cucumber salad (mixed vegetables)",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "scrambled eggs or egg-white scramble (crumbly cooked eggs)",
+      "portion_estimate": "100 g",
+      "confidence": "60"
+    },
+    {
+      "name": "slice of rye bread",
+      "portion_estimate": "35 g",
+      "confidence": "80"
+    },
+    {
+      "name": "orange (whole)",
+      "portion_estimate": "150 g",
+      "confidence": "85"
+    }
+  ]
+}

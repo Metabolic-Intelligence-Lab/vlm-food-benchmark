@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta shells with tomato sauce (with grated parmesan)",
+      "portion_estimate": "270 g",
+      "confidence": "75"
+    },
+    {
+      "name": "stuffed pasta/crepe with spinach and cheese (baked, with white sauce)",
+      "portion_estimate": "200 g",
+      "confidence": "65"
+    },
+    {
+      "name": "side salad (cucumber, cabbage, lettuce; light/no dressing visible)",
+      "portion_estimate": "90 g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "70 g",
+      "confidence": "70"
+    },
+    {
+      "name": "fresh apricots (3 pieces)",
+      "portion_estimate": "105 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water (in plastic cup/bottle)",
+      "portion_estimate": "250 g",
+      "confidence": "60"
+    }
+  ]
+}

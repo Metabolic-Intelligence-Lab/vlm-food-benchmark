@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable or lentil soup",
+      "portion_estimate": "300 g",
+      "confidence": "75"
+    },
+    {
+      "name": "savory puff pastry or pie slice",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked spinach or leafy greens",
+      "portion_estimate": "80 g",
+      "confidence": "85"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "160 g",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 g",
+      "confidence": "80"
+    }
+  ]
+}

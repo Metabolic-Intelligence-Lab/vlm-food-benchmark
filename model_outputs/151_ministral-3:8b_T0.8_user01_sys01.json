@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cheese omelette with saut\u00e9ed vegetables (carrots, brussels sprouts)",
+      "portion_estimate": "250 grams (estimated total for plate)",
+      "confidence": 75
+    },
+    {
+      "name": "baked pasta (penne or similar with cheese topping)",
+      "portion_estimate": "300 grams (estimated total for plate)",
+      "confidence": 70
+    },
+    {
+      "name": "whole wheat bread (one slice)",
+      "portion_estimate": "40 grams",
+      "confidence": 75
+    },
+    {
+      "name": "whole black olives",
+      "portion_estimate": "uncertain (estimated ~30 grams)",
+      "confidence": 60
+    }
+  ]
+}

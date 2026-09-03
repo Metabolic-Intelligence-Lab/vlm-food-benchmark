@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Butterfly pasta (farfalle) with cheese",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Fried potato wedges",
+      "portion_estimate": 140,
+      "confidence": 92
+    },
+    {
+      "name": "Omelette or frittata slice",
+      "portion_estimate": 85,
+      "confidence": 93
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": 100,
+      "confidence": 98
+    },
+    {
+      "name": "Water",
+      "portion_estimate": 250,
+      "confidence": 90
+    }
+  ]
+}

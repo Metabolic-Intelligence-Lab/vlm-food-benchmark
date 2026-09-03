@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "watermelon slice",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "carrot noodles (julienned)",
+      "portion_estimate": 120,
+      "confidence": 75
+    },
+    {
+      "name": "raw spinach leaves",
+      "portion_estimate": 50,
+      "confidence": 70
+    },
+    {
+      "name": "crispy baked or pan-fried cutlet/tender (likely chicken or turkey)",
+      "portion_estimate": 130,
+      "confidence": 80
+    },
+    {
+      "name": "disposable clear plastic cup (no visible beverage inside)",
+      "portion_estimate": "uncertain",
+      "confidence": 0
+    }
+  ]
+}

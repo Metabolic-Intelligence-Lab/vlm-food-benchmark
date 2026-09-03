@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "rice with seasoning",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "diced pineapple",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "packaged bread/pastry",
+      "portion_estimate": "100g",
+      "confidence": 80
+    }
+  ]
+}

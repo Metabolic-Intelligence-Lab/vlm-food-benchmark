@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "quiche or baked dish with spinach and cheese",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted diced potatoes and carrots mix",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat or multigrain roll",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with meat sauce (likely meatballs or chunks)",
+      "portion_estimate": "220g",
+      "confidence": 85
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "150g (3-4 plums)",
+      "confidence": 80
+    }
+  ]
+}

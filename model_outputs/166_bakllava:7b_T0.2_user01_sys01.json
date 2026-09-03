@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sandwich in a wrapper",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "slice of pizza",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bowl of vegetables, including broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

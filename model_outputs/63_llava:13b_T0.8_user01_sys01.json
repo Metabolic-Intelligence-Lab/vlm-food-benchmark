@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "200g",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta salad with chicken and vegetables",
+      "portion_estimate": "150g",
+      "confidence": "40"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    },
+    {
+      "name": "caesar salad in muffin cup",
+      "portion_estimate": "70g",
+      "confidence": "30"
+    }
+  ]
+}

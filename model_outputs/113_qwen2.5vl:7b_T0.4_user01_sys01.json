@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Vegetable stew",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "30",
+      "confidence": "90"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "100",
+      "confidence": "75"
+    }
+  ]
+}

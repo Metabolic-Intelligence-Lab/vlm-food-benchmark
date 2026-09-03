@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fettuccine",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "rigatoni",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

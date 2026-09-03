@@ -1,0 +1,74 @@
+To calculate the **confidence interval** for each item, we use the formula:  
+$$
+\text{Confidence Interval} = \text{Estimated Weight} \pm \left( z\text{-score} \times \frac{\text{Standard Deviation}}{\sqrt{n}} \right)
+$$  
+where:  
+- **Estimated Weight** = Mean value (e.g., 200g for red cabbage).  
+- **z-score** = Critical value based on the confidence level (e.g., 1.645 for 90% confidence).  
+- **Standard Deviation** = Assumed value (e.g., 10g for consistency).  
+- **Sample Size (n)** = Assumed value (e.g., 100 for simplicity, as it’s common in such problems).  
+
+---
+
+### **Assumptions**  
+- **Standard Deviation**: 10g (a reasonable estimate for food items).  
+- **Sample Size (n)**: 100 (to simplify calculations; if different, adjust accordingly).  
+- **z-scores** (for common confidence levels):  
+  - 90% → 1.645  
+  - 80% → 1.282  
+  - 95% → 1.960  
+
+---
+
+### **Example Calculations**  
+#### **1. Red Cabbage & Carrot Salad**  
+- **Estimated Weight**: 200g  
+- **Confidence Level**: 80%  
+- **z-score**: 1.282  
+- **Standard Deviation**: 10g  
+- **Sample Size**: 100  
+
+$$
+\text{CI} = 200 \pm \left( 1.282 \times \frac{10}{\sqrt{100}} \right) = 200 \pm (1.282 \times 1) = 200 \pm 1.282
+$$  
+**Confidence Interval**: **198.72g to 201.28g**  
+
+---
+
+#### **2. Apple**  
+- **Estimated Weight**: 150g  
+- **Confidence Level**: 90%  
+- **z-score**: 1.645  
+- **Standard Deviation**: 10g  
+- **Sample Size**: 100  
+
+$$
+\text{CI} = 150 \pm \left( 1.645 \times \frac{10}{\sqrt{100}} \right) = 150 \pm (1.645 \times 1) = 150 \pm 1.645
+$$  
+**Confidence Interval**: **148.36g to 151.65g**  
+
+---
+
+#### **3. Bread Roll**  
+- **Estimated Weight**: 30g  
+- **Confidence Level**: 70%  
+- **z-score**: 1.036 (for 70% confidence)  
+- **Standard Deviation**: 10g  
+- **Sample Size**: 100  
+
+$$
+\text{CI} = 30 \pm \left( 1.036 \times \frac{10}{\sqrt{100}} \right) = 30 \pm (1.036 \times 1) = 30 \pm 1.036
+$$  
+**Confidence Interval**: **28.96g to 31.04g**  
+
+---
+
+#### **4. Spaghetti**  
+- **Estimated Weight**: 100g  
+- **Confidence Level**: 95%  
+- **z-score**: 1.960  
+- **Standard Deviation**: 10g  
+- **Sample Size**: 100  
+
+$$
+\text{CI} = 100 \pm \left( 1.960 \

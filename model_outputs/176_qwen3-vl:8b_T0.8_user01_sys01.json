@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "name": "chili soup",
+      "description": "Bowl of brown, thick soup with visible seasoning (e.g., chili flakes or powder)",
+      "portion": 200,
+      "unit": "g",
+      "confidence": 75
+    },
+    {
+      "name": "quinoa cake with tomato and cheese",
+      "description": "Small serving on a green base (quinoa or similar grain) topped with a slice of tomato and a round white item (likely cheese)",
+      "portion": 50,
+      "unit": "g",
+      "confidence": 70
+    },
+    {
+      "name": "whole grain bread slice",
+      "description": "Single slice of bread in plastic wrap, appearing to be whole grain",
+      "portion": 50,
+      "unit": "g",
+      "confidence": 80
+    },
+    {
+      "name": "cauliflower with olives",
+      "description": "Bowl of cauliflower florets mixed with black olives",
+      "portion": 100,
+      "unit": "g",
+      "confidence": 80
+    },
+    {
+      "name": "pear",
+      "description": "Medium-sized yellow fruit, typically round",
+      "portion": 100,
+      "unit": "g",
+      "confidence": 80
+    },
+    {
+      "name": "banana",
+      "description": "Medium-sized yellow fruit, curved shape",
+      "portion": 100,
+      "unit": "g",
+      "confidence": 80
+    }
+  ]
+}

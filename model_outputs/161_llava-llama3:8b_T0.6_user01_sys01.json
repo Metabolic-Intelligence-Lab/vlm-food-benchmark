@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "quiche with feta cheese and fresh herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "spaghetti with tomato sauce and Parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sliced cucumbers, diced tomatoes, and chopped bell peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "long loaf roll (bread)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "yellow pear",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 95
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "sliced roast meat with peppercorns",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "cooked cauliflower or vegetable mix",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250 grams",
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (Rigatoni/Penne in Tomato Sauce)",
+      "portion_estimate": "120 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Chicken Cutlet (Breaded and Fried with Spinach)",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Spinach (Cooked Side Dish)",
+      "portion_estimate": "30 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Lemon (Wedges)",
+      "portion_estimate": "30 grams",
+      "confidence": 90
+    }
+  ]
+}

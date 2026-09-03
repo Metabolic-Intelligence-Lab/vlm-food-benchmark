@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spinach pasta (top bowl)",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "spaghetti or fusilli with tomato sauce (bottom bowl)",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "small bread roll (in plastic bag)",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed salad (cucumbers, lettuce)",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "clear plastic cup (water)",
+      "portion_estimate": "200 ml (approximately 200 grams)",
+      "confidence": "90"
+    },
+    {
+      "name": "small yogurt cup (top right)",
+      "portion_estimate": "60 grams",
+      "confidence": "70"
+    }
+  ]
+}

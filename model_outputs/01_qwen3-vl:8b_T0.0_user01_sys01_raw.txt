@@ -1,0 +1,45 @@
+The problem involves determining the number of ways to choose 3 items from a set of 10 items, where the order of selection does not matter. This is a classic **combination** problem, as combinations are used when the order of selection is irrelevant.
+
+---
+
+### Step 1: Understand the Problem
+
+We are selecting **3 items** from a total of **10 items**, and the **order does not matter**. This means that choosing item A, then B, then C is the same as choosing B, then A, then C — so we are counting **combinations**, not permutations.
+
+---
+
+### Step 2: Use the Combination Formula
+
+The formula for combinations is:
+
+$$
+\binom{n}{k} = \frac{n!}{k!(n-k)!}
+$$
+
+Where:
+- $ n $ is the total number of items (10),
+- $ k $ is the number of items to choose (3).
+
+Substitute the values:
+
+$$
+\binom{10}{3} = \frac{10!}{3!(10-3)!} = \frac{10!}{3! \cdot 7!}
+$$
+
+Simplify the factorials:
+
+$$
+\frac{10 \times 9 \times 8 \times 7!}{3! \times 7!} = \frac{10 \times 9 \times 8}{3!}
+$$
+
+$$
+= \frac{720}{6} = 120
+$$
+
+---
+
+### Final Answer
+
+$$
+\boxed{120}
+$$

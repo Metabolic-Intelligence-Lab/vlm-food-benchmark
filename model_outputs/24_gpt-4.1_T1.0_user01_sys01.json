@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "baked vegetable patties with cheese topping",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "sliced cooked carrots",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "green gnocchetti pasta with grated cheese",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "plain bread bun",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "strawberry or red fruit yogurt",
+      "portion_estimate": "125",
+      "confidence": 90
+    }
+  ]
+}

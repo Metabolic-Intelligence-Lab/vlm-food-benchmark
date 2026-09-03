@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "shells pasta with tomato sauce and grated cheese",
+      "portion_estimate": "200-250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "spinach and cheese stuffed pasta roll",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small salad with cucumber, cabbage, and shredded carrot",
+      "portion_estimate": "100-150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "three apricots",
+      "portion_estimate": "50-75 grams (total)",
+      "confidence": 80
+    },
+    {
+      "name": "small loaf of bread (in plastic bag)",
+      "portion_estimate": "100-150 grams",
+      "confidence": 70
+    },
+    {
+      "name": "water in a clear glass",
+      "portion_estimate": "200-250 ml (liquid)",
+      "confidence": 90
+    }
+  ]
+}

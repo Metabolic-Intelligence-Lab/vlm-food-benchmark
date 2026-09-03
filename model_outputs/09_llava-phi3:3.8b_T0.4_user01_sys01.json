@@ -1,0 +1,38 @@
+{
+  "food_items": [
+    {
+      "name": "Fried chicken",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "Potato salad",
+      "portion_estimate": "120g",
+      "confidence": 70
+    }
+  ],
+  "condiments": [
+    {
+      "name": "Ketchup",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "Mustard",
+      "portion_estimate": "30g",
+      "confidence": 70
+    }
+  ],
+  "drink": [
+    {
+      "name": "Water",
+      "portion_estimate": "200ml",
+      "confidence": 90
+    }
+  ]
+}

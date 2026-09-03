@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans with diced carrots (mixed vegetables)",
+      "portion_estimate": "160 g",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked orange vegetable pieces (likely sweet potato or pumpkin)",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    },
+    {
+      "name": "couscous with mixed vegetables (yellow couscous)",
+      "portion_estimate": "170 g",
+      "confidence": "72"
+    },
+    {
+      "name": "crumbled white cheese or curds mixed into couscous (uncertain type)",
+      "portion_estimate": "35 g",
+      "confidence": "55"
+    },
+    {
+      "name": "whole grain bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit yogurt cup (strawberry/cherry, uncertain flavor)",
+      "portion_estimate": "125 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "70"
+    }
+  ]
+}

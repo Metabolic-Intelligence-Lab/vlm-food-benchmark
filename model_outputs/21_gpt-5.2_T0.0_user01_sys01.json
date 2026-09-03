@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish fillet (fried or baked)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked Brussels sprouts",
+      "portion_estimate": "150 g",
+      "confidence": "78"
+    },
+    {
+      "name": "mixed vegetables (potatoes and carrots) with breadcrumbs/crumb topping",
+      "portion_estimate": "180 g",
+      "confidence": "72"
+    },
+    {
+      "name": "whole plums (fresh)",
+      "portion_estimate": "140 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water (in cup)",
+      "portion_estimate": "200 g",
+      "confidence": "80"
+    }
+  ]
+}

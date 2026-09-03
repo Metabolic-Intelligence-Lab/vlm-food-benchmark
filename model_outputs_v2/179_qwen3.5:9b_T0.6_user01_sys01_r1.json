@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spiral pasta (fusilli) with tomato and meat sauce",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": 200,
+      "confidence": 98
+    },
+    {
+      "name": "Whole wheat roll or bun",
+      "portion_estimate": 60,
+      "confidence": 90
+    },
+    {
+      "name": "Steamed white rice",
+      "portion_estimate": 150,
+      "confidence": 92
+    },
+    {
+      "name": "Broccoli florets with melted cheese",
+      "portion_estimate": 80,
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "cottage cheese with vegetables",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    }
+  ]
+}

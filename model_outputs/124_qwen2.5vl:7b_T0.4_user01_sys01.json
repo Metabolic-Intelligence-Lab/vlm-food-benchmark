@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "crispy fried chicken",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "baked fish",
+      "portion_estimate": "150",
+      "confidence": 75
+    }
+  ]
+}

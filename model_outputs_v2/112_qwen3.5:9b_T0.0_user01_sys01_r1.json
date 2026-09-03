@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with pesto sauce and grated cheese",
+      "portion_estimate": 250,
+      "confidence": 95
+    },
+    {
+      "name": "Whole plum (purple)",
+      "portion_estimate": 130,
+      "confidence": 98
+    },
+    {
+      "name": "Whole plum (purple)",
+      "portion_estimate": 120,
+      "confidence": 98
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": 150,
+      "confidence": 96
+    },
+    {
+      "name": "Cheese slice (likely cheddar or similar)",
+      "portion_estimate": 40,
+      "confidence": 85
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": 60,
+      "confidence": 92
+    },
+    {
+      "name": "Corn on the cob (in husk)",
+      "portion_estimate": 180,
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fried fish fillet, breaded",
+      "portion_estimate": "100-120 g",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed vegetable medley with mushrooms (potato, carrot, peas)",
+      "portion_estimate": "100-130 g",
+      "confidence": "90"
+    },
+    {
+      "name": "saut\u00e9ed spinach or similar green leafy vegetable",
+      "portion_estimate": "80-100 g",
+      "confidence": "95"
+    },
+    {
+      "name": "water in a glass",
+      "portion_estimate": "200 ml (approx. 200 g)",
+      "confidence": "80"
+    }
+  ]
+}

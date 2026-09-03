@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "110g",
+      "confidence": "95"
+    },
+    {
+      "name": "baked crumble or pastry square",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "pan-fried protein (e.g., chicken or fish)",
+      "portion_estimate": "140g",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted or saut\u00e9ed cubed potatoes/vegetables",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    }
+  ]
+}

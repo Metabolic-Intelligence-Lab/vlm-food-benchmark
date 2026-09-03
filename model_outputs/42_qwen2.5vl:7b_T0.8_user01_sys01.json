@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Twisted pasta with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Roasted Brussels sprouts",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Quinoa or couscous with purple vegetable",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Apricots",
+      "portion_estimate": "30 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Sliced cheese",
+      "portion_estimate": "20 grams",
+      "confidence": "90"
+    }
+  ]
+}

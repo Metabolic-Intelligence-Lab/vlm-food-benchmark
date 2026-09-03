@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish fillet",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "75",
+      "confidence": "70"
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

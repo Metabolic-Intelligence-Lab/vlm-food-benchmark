@@ -1,0 +1,17 @@
+Based on the image description provided ("A person is holding a plate with a slice of cake on it. The cake is white with pink icing. There is also a small bowl of strawberries next to the plate."), the items and their estimated portion sizes are as follows:
+
+1. **Slice of cake**:  
+   - **Portion size**: 150 grams  
+   - **Confidence**: 80  
+   *Reasoning*: A standard slice of cake typically weighs 100–200 grams, and this slice appears to be a typical portion (e.g., 1/8 to 1/6 of a standard cake). The visual context (a single slice on a plate) supports this estimate with high confidence.
+
+2. **Bowl of strawberries**:  
+   - **Portion size**: 75 grams  
+   - **Confidence**: 70  
+   *Reasoning*: A "small bowl" of strawberries is commonly around 50–100 grams. Given the description, 75 grams is a reasonable estimate, though the exact size may vary slightly (e.g., depending on the bowl's dimensions), leading to moderate confidence.
+
+**Note**: No portion size is marked as "uncertain" here, as both items can be reasonably estimated based on standard serving sizes and the context provided. Confidence levels reflect the certainty of the estimates (higher for the cake slice, slightly lower for the strawberries due to minor subjectivity in bowl size).  
+
+**Final Answer**:  
+- Slice of cake: 150 grams (confidence 80)  
+- Bowl of strawberries: 75 grams (confidence 70)

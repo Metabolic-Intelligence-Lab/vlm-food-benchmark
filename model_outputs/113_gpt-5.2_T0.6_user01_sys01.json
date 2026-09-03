@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "brown soup (likely lentil/bean) topped with grated cheese",
+      "portion_estimate": "320 g",
+      "confidence": "70"
+    },
+    {
+      "name": "grated cheese topping (parmesan or similar)",
+      "portion_estimate": "12 g",
+      "confidence": "65"
+    },
+    {
+      "name": "slice of savory baked item (quiche/frittata/omelet-like)",
+      "portion_estimate": "140 g",
+      "confidence": "60"
+    },
+    {
+      "name": "cooked Brussels sprouts",
+      "portion_estimate": "160 g",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked carrot slices",
+      "portion_estimate": "45 g",
+      "confidence": "75"
+    },
+    {
+      "name": "small bread roll (white)",
+      "portion_estimate": "55 g",
+      "confidence": "80"
+    },
+    {
+      "name": "plums (2 whole)",
+      "portion_estimate": "140 g",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Breadstick",
+      "portion_estimate": "approx. 60 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Canned Soup (Chicken Noodle)",
+      "portion_estimate": "400 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Condiment Packet (OMO Sauce)",
+      "portion_estimate": "30 grams",
+      "confidence": 90
+    }
+  ]
+}

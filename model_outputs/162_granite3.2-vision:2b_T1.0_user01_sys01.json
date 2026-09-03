@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "chunky soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fries",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sandwich or pastry",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

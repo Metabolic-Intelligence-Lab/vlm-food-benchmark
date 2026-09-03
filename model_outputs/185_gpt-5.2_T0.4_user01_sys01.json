@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato-based sauce",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "diced roasted potatoes",
+      "portion_estimate": "180 g",
+      "confidence": "72"
+    },
+    {
+      "name": "breaded fried cutlet/patty (uncertain type)",
+      "portion_estimate": "110 g",
+      "confidence": "58"
+    },
+    {
+      "name": "shredded cabbage salad (coleslaw-style, light dressing)",
+      "portion_estimate": "35 g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll/bun (in plastic wrap)",
+      "portion_estimate": "70 g",
+      "confidence": "67"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cheese stick/string cheese (wrapped)",
+      "portion_estimate": "25 g",
+      "confidence": "62"
+    }
+  ]
+}

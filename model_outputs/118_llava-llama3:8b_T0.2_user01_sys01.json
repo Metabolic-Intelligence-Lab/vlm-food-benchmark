@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "orange spaghetti with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potatoes and chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "breaded chicken with tomato and parsley",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "orange carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "red packet of sugar",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

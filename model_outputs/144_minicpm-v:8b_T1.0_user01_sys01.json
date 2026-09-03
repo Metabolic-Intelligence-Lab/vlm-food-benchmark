@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "White bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta (Penne) with white sauce and cheese",
+      "portion_estimate": "264g - 391g",
+      "confidence": "80"
+    },
+    {
+      "name": "Boiled egg on a slice of bread, topped with mayonnaise or similar spread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "White beans in tomato sauce",
+      "portion_estimate": "238g - 476g",
+      "confidence": "90"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

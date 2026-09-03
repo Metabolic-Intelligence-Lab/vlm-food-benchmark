@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soupy food with grated topping",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "chopped orange pieces",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "cheese bread",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    }
+  ]
+}

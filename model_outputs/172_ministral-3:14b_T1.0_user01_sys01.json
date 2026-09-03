@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "whole green peas (cooked)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "mixed green salad with shredded carrots and purple cabbage",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "couscous or small pasta shaped (uncooked/cooked weight unclear, approximated as cooked)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "whole lemon (halved)",
+      "portion_estimate": "100g",
+      "confidence": 90
+    }
+  ]
+}

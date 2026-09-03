@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice and vegetables (carrots and potatoes)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "empty plate",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

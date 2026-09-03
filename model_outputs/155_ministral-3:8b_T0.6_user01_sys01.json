@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese (fettuccine Alfredo or similar)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "whole wheat bread (single slice)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "scrambled eggs with cheese",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "steamed green peas and carrots mix",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    }
+  ]
+}

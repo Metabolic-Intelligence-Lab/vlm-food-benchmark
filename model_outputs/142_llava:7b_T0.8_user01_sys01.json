@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Beef stew",
+      "portion_estimate": "approx 125g",
+      "confidence": "60"
+    },
+    {
+      "name": "Garlic mashed potatoes",
+      "portion_estimate": "approx 100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "approx 85g",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded chicken breast",
+      "portion_estimate": "approx 125g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried potatoes",
+      "portion_estimate": "approx 75g",
+      "confidence": "70"
+    },
+    {
+      "name": "Garnish (parmesan cheese, red pepper flakes)",
+      "portion_estimate": "1 tsp",
+      "confidence": "60"
+    },
+    {
+      "name": "Dinner roll",
+      "portion_estimate": "approx 45g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green salad, likely mixed greens",
+      "portion_estimate": "approx 125g",
+      "confidence": "60"
+    }
+  ]
+}

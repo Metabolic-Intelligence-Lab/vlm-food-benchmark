@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "salad or vegetable dish",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sliced apples",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sliced pears",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

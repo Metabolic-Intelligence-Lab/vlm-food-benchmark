@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "buttered waffle",
+      "portion_estimate": 105,
+      "confidence": 92
+    },
+    {
+      "name": "bowtie pasta with creamy green sauce and grated cheese",
+      "portion_estimate": 185,
+      "confidence": 88
+    },
+    {
+      "name": "savory omelet with melted cheese",
+      "portion_estimate": 130,
+      "confidence": 85
+    },
+    {
+      "name": "roasted Brussels sprouts",
+      "portion_estimate": 95,
+      "confidence": 90
+    },
+    {
+      "name": "whole ripe banana",
+      "portion_estimate": 110,
+      "confidence": 94
+    }
+  ]
+}

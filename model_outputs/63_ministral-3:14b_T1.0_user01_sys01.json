@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "baked penne pasta with tomato-based sauce",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "crispy baked potato wedges",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "grilled stuffed mushroom with cream cheese and herbs",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "coleslaw mix with shredded carrots",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "toasted bun or roll (wrapped in plastic)",
+      "portion_estimate": "60g",
+      "confidence": 80
+    },
+    {
+      "name": "diet or sparkling water (empty glass)",
+      "portion_estimate": "0g",
+      "confidence": 90
+    }
+  ]
+}

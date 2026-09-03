@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried fish fillet",
+      "portion_estimate": "120",
+      "confidence": 65
+    },
+    {
+      "name": "sauteed zucchini and potato mix",
+      "portion_estimate": "150",
+      "confidence": 65
+    },
+    {
+      "name": "stewed cauliflower with herbs",
+      "portion_estimate": "130",
+      "confidence": 60
+    },
+    {
+      "name": "whole grain bread slice",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "130",
+      "confidence": 80
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150",
+      "confidence": 55
+    }
+  ]
+}

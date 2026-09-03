@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "bowl of vegetable soup with cheese",
+      "portion_estimate": "250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "packaged yogurt",
+      "portion_estimate": "125 grams",
+      "confidence": "100"
+    },
+    {
+      "name": "fried patties with caramelized onions",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "bowl of lettuce salad with dressing",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    }
+  ]
+}

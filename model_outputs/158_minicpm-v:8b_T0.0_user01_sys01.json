@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "puffed rice cake",
+      "portion_estimate": "uncertain, approx. 10-20g",
+      "confidence": "50"
+    },
+    {
+      "name": "chicken nuggets",
+      "portion_estimate": "uncertain, approx. 30-40g",
+      "confidence": "60"
+    },
+    {
+      "name": "pasta with tomato sauce and cheese",
+      "portion_estimate": "approx. 150g",
+      "confidence": "90"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "uncertain, approx. 60-80g",
+      "confidence": "70"
+    },
+    {
+      "name": "yellow fruit (possibly mango)",
+      "portion_estimate": "approx. 150g",
+      "confidence": "90"
+    }
+  ]
+}

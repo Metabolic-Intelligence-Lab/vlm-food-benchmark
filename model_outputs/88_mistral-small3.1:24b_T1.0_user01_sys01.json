@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with parmesan",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "brown rice with green peas",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "sliced flatbread with tomato sauce",
+      "portion_estimate": "80",
+      "confidence": "85"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "burger",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

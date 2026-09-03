@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice with mixed vegetables and mushrooms",
+      "portion_estimate": "300",
+      "confidence": 90
+    },
+    {
+      "name": "potatoes, diced and roasted",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "omelet or frittata with eggplant",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "yogurt cup (brand appears to be Yoplait)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "bun or bread roll in plastic wrapper",
+      "portion_estimate": "60",
+      "confidence": 90
+    }
+  ]
+}

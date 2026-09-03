@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "25g",
+      "confidence": "100"
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "150g",
+      "confidence": "100"
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "50g",
+      "confidence": "100"
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "100g",
+      "confidence": "100"
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "100g",
+      "confidence": "100"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": "100"
+    },
+    {
+      "name": "Sauce",
+      "portion_estimate": "50g",
+      "confidence": "100"
+    }
+  ]
+}

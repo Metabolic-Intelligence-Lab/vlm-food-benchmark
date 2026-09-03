@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Potato wedges",
+      "portion_estimate": "approx. 150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain, but likely approx. half a medium banana",
+      "confidence": "60"
+    },
+    {
+      "name": "Omelette with potato wedges",
+      "portion_estimate": "uncertain, possibly 150g",
+      "confidence": "70"
+    }
+  ]
+}

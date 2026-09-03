@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with tomato sauce and grated cheese",
+      "portion_estimate": 250,
+      "confidence": 95
+    },
+    {
+      "name": "Steamed mixed vegetables (carrots, peas, green beans)",
+      "portion_estimate": 180,
+      "confidence": 90
+    },
+    {
+      "name": "Savory vegetable frittata slice",
+      "portion_estimate": 65,
+      "confidence": 85
+    },
+    {
+      "name": "Peach or Nectarine",
+      "portion_estimate": 150,
+      "confidence": 92
+    },
+    {
+      "name": "Baguette roll (wrapped in plastic)",
+      "portion_estimate": 60,
+      "confidence": 88
+    }
+  ]
+}

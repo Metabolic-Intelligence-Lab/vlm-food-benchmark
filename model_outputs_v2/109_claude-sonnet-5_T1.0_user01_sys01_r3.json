@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "boiled green beans",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "white bread roll (wrapped)",
+      "portion_estimate": "70",
+      "confidence": "70"
+    },
+    {
+      "name": "white rice with olive oil and grated cheese",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "boiled diced potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "130",
+      "confidence": "85"
+    },
+    {
+      "name": "sliced cheese (wrapped, partially visible)",
+      "portion_estimate": "30",
+      "confidence": "45"
+    }
+  ]
+}

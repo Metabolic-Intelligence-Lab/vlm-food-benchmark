@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed rice with peas, carrots, and mixed vegetables",
+      "portion_estimate": "320g",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked, oval protein item (e.g., steamed egg or fish cake)",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Omelet or cooked patty",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried potato or vegetable cubes",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    }
+  ]
+}

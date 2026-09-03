@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain, approximately 100g",
+      "confidence": "50"
+    },
+    {
+      "name": "Cheese omelette with spinach filling",
+      "portion_estimate": "uncertain, approximately 120g",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed salad (cucumber and purple cabbage)",
+      "portion_estimate": "uncertain, approximately 80g",
+      "confidence": "50"
+    },
+    {
+      "name": "Fresh oranges",
+      "portion_estimate": "uncertain, approximately 120g total weight for all fruits",
+      "confidence": "40"
+    }
+  ]
+}

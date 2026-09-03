@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "apples",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "green vegetables like broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

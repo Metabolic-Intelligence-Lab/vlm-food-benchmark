@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with tomatoes",
+      "portion_estimate": "80-100 grams per serving",
+      "confidence": "95"
+    },
+    {
+      "name": "Crisp cracker",
+      "portion_estimate": "20-30 grams per cracker",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta salad with tomatoes and spinach",
+      "portion_estimate": "60-80 grams per serving",
+      "confidence": "75"
+    },
+    {
+      "name": "Green leafy vegetable salad",
+      "portion_estimate": "120-150 grams per serving",
+      "confidence": "90"
+    },
+    {
+      "name": "Crisp roll",
+      "portion_estimate": "40-60 grams per slice",
+      "confidence": "85"
+    },
+    {
+      "name": "Spinach quiche with sauce on top",
+      "portion_estimate": "120-150 grams per serving",
+      "confidence": "90"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "0 grams per glass",
+      "confidence": "95"
+    }
+  ]
+}

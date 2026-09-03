@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with green pesto sauce",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated parmesan cheese (on pasta)",
+      "portion_estimate": "8 g",
+      "confidence": "65"
+    },
+    {
+      "name": "green peas with small pieces of bacon/ham",
+      "portion_estimate": "170 g",
+      "confidence": "72"
+    },
+    {
+      "name": "stuffed chicken roulade (chicken breast with filling)",
+      "portion_estimate": "130 g",
+      "confidence": "62"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "85"
+    }
+  ]
+}

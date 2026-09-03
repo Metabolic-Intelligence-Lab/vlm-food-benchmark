@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fish",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Potatoes with gravy",
+      "portion_estimate": "200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Steak Fries",
+      "portion_estimate": "200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Chicken Tenders",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ]
+}

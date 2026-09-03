@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "serving of cooked fish with sauce",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "serving of mashed potatoes with herbs",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "serving of steamed vegetables",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "serving of chickpea salad",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }
+  ]
+}

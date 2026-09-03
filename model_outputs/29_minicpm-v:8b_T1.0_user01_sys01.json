@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain, approx. 150-200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Red apple",
+      "portion_estimate": "uncertain, approx. 180-230 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Whole wheat penne pasta with mushrooms and cheese",
+      "portion_estimate": "uncertain, approx. 50g x (penne quantity) + 40g -60g per mushroom scoop",
+      "confidence": "80-90"
+    },
+    {
+      "name": "Chopped cucumbers tossed in dressing with grated cheese and a slice of pizza on the side.",
+      "portion_estimate": "uncertain, approx. 150g for whole dish including salad, plus (cheese estimated at) +30",
+      "confidence": "60"
+    },
+    {
+      "name": "White cup possibly containing yogurt or a similar beverage.",
+      "portion_estimate": "uncertain, approx. 240-275 grams",
+      "confidence": "90"
+    }
+  ]
+}

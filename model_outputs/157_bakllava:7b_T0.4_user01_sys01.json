@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with white sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "beans, rice, and bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

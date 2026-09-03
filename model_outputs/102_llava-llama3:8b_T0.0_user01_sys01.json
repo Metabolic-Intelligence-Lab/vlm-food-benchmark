@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "slice of bread with crumb topping",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "vibrant red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "piece of meat with green onions",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "ice cream",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

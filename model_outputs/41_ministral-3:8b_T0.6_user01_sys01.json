@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "arugula or spinach-based quiche (whole, baked)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "orange and red pepper pasta with grated cheese topping",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed greens salad (cabbage, cucumber, possibly lettuce)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "packaged cheese (block or wedge)",
+      "portion_estimate": "uncertain (likely ~100-150 grams)",
+      "confidence": 70
+    },
+    {
+      "name": "water or clear liquid in cup",
+      "portion_estimate": "uncertain (likely ~250 ml)",
+      "confidence": 60
+    }
+  ]
+}

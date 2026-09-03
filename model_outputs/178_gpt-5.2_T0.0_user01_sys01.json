@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with herb/garlic oil (light sauce)",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "baked fish fillet with herb crust (likely salmon or similar)",
+      "portion_estimate": "140 g",
+      "confidence": "68"
+    },
+    {
+      "name": "cooked potatoes (sliced/served in pieces)",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "82"
+    },
+    {
+      "name": "cheese slices (packed, likely 2 slices)",
+      "portion_estimate": "40 g",
+      "confidence": "62"
+    }
+  ]
+}

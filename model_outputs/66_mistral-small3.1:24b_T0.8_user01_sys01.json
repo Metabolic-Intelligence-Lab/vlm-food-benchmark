@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "edamame",
+      "portion_estimate": "200",
+      "confidence": "95"
+    },
+    {
+      "name": "uncertain meat",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

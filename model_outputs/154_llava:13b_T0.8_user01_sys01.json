@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce (lasagna-like)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "cooked vegetables (carrots, root vegetables)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "salad (leafy greens, vegetables, carrot)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "bread or rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "orange (whole, unpeeled)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "plums (whole, unpeeled)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "items wrapped in napkin",
+      "portion_estimate": "uncertain",
+      "confidence": 10
+    }
+  ]
+}

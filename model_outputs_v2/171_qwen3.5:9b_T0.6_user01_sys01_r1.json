@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked dark leafy greens (spinach/kale)",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Fish fillet with butter sauce",
+      "portion_estimate": 140,
+      "confidence": 90
+    },
+    {
+      "name": "Dried yeast bread roll (half)",
+      "portion_estimate": 60,
+      "confidence": 90
+    },
+    {
+      "name": "Yoplait yogurt cup",
+      "portion_estimate": 135,
+      "confidence": 98
+    },
+    {
+      "name": "Butter packet",
+      "portion_estimate": 25,
+      "confidence": 90
+    }
+  ]
+}

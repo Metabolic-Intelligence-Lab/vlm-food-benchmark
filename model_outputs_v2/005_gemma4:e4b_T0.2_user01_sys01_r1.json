@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy yellow soup with grated cheese topping",
+      "portion_estimate": "300",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried croquettes or breaded cheese pieces",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "Chopped mixed vegetables and relish",
+      "portion_estimate": "100",
+      "confidence": "75"
+    }
+  ]
+}

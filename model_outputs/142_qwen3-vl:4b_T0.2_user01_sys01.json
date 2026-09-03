@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "120 g",
+      "confidence": 90
+    },
+    {
+      "name": "Cannellini beans",
+      "portion_estimate": "100 g",
+      "confidence": 90
+    },
+    {
+      "name": "Cod",
+      "portion_estimate": "130 g",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "25 g",
+      "confidence": 90
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "200 g",
+      "confidence": 80
+    }
+  ]
+}

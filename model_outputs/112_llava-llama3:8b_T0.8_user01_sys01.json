@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "fettuccine alfredo with parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "dark green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "white bun with bite",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "salmon",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "yellow cornbread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

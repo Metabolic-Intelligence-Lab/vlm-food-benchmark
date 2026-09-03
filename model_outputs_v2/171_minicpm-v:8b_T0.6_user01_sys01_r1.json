@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green vegetables",
+      "portion_estimate": "uncertain, approx 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Grilled chicken with butter",
+      "portion_estimate": "uncertain, approx 130-180g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cauliflower with a piece of yellow cheese on top",
+      "portion_estimate": "uncertain, approx 50-90g",
+      "confidence": "60"
+    },
+    {
+      "name": "White bread or roll with butter and an unidentified topping",
+      "portion_estimate": "uncertain, approx 40-80g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain, approx 150-200g",
+      "confidence": "60"
+    }
+  ]
+}

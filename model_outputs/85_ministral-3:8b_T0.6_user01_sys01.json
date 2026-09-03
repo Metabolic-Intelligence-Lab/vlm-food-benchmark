@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "creamy tomato-based soup with grated cheese topping",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed leafy green vegetables (kale or similar)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "two small baked potatoes or potato croquettes",
+      "portion_estimate": "150 grams (combined weight)",
+      "confidence": 80
+    },
+    {
+      "name": "whole lemon",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    }
+  ]
+}

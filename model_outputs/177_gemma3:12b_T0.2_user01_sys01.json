@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked penne pasta",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed green vegetable (likely kale/collard)",
+      "portion_estimate": "75",
+      "confidence": "70"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "dinner roll",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "roasted potato (small)",
+      "portion_estimate": "30",
+      "confidence": "65"
+    }
+  ]
+}

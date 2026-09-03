@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bread slice (wrapped)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "broiled or baked chicken breast (skinless)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mashed or diced potatoes (likely with butter/herbs)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed broccoli",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "single-serve yogurt (plain or flavored, ~150g container)",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    }
+  ]
+}

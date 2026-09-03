@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "mixed lettuce and cabbage salad greens",
+      "portion_estimate": "90 g",
+      "confidence": "90"
+    },
+    {
+      "name": "tomato slices",
+      "portion_estimate": "50 g",
+      "confidence": "90"
+    },
+    {
+      "name": "cucumber slices",
+      "portion_estimate": "15 g",
+      "confidence": "85"
+    },
+    {
+      "name": "red onion slices",
+      "portion_estimate": "10 g",
+      "confidence": "80"
+    },
+    {
+      "name": "shredded carrot",
+      "portion_estimate": "5 g",
+      "confidence": "80"
+    },
+    {
+      "name": "light salad dressing coating",
+      "portion_estimate": "15 g",
+      "confidence": "65"
+    },
+    {
+      "name": "partially visible breaded or herb-coated ball",
+      "portion_estimate": "35 g",
+      "confidence": "45"
+    }
+  ]
+}

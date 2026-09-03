@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "green apple",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "cheese or creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "vegetable (broccoli or spinach)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

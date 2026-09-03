@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Spiced soup or stew",
+      "portion_estimate": "320",
+      "confidence": "95"
+    },
+    {
+      "name": "Cubed roasted potatoes",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Savory fritter or omelet",
+      "portion_estimate": "130",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "90",
+      "confidence": "90"
+    }
+  ]
+}

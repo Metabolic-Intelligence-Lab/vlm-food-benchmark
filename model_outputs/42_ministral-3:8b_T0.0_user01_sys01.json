@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce (rotini/farfalle)",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted Brussels sprouts",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "yellow squash or zucchini fritters",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "saut\u00e9ed red cabbage or red onions",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "whole mandarins or clementines",
+      "portion_estimate": "200g (3 pieces)",
+      "confidence": 85
+    },
+    {
+      "name": "packaged butter or margarine",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

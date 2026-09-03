@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "orange soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "red soup",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

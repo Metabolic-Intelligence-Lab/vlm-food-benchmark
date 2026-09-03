@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked leafy greens (spinach/kale-like)",
+      "portion_estimate": "120 g",
+      "confidence": "65"
+    },
+    {
+      "name": "breaded fried balls (likely arancini/croquettes), 2 pieces",
+      "portion_estimate": "140 g",
+      "confidence": "60"
+    },
+    {
+      "name": "mashed potatoes (or similar potato pur\u00e9e)",
+      "portion_estimate": "230 g",
+      "confidence": "55"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "70"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "200 g",
+      "confidence": "75"
+    }
+  ]
+}

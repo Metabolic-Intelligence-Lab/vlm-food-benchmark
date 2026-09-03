@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with sauce and grated cheese",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "yellow polenta cake",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "baked bread",
+      "portion_estimate": "50",
+      "confidence": "80"
+    }
+  ]
+}

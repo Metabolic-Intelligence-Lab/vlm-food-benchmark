@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup (broth-based, with mixed vegetables)",
+      "portion_estimate": "350 g",
+      "confidence": "70"
+    },
+    {
+      "name": "grated cheese topping (likely parmesan) on soup",
+      "portion_estimate": "12 g",
+      "confidence": "65"
+    },
+    {
+      "name": "cooked broccoli florets",
+      "portion_estimate": "120 g",
+      "confidence": "75"
+    },
+    {
+      "name": "slice of ham (with herb garnish)",
+      "portion_estimate": "45 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged dessert cup (uncertain type, possibly semolina pudding/yogurt)",
+      "portion_estimate": "150 g",
+      "confidence": "55"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "80"
+    }
+  ]
+}

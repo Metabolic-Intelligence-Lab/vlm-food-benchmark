@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "80",
+      "confidence": "90"
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "60",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt, plain",
+      "portion_estimate": "170",
+      "confidence": "80"
+    }
+  ]
+}

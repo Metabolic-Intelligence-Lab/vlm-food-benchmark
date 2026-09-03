@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with carrots",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "sweet potatoes",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "quinoa with mixed vegetables and possibly chicken",
+      "portion_estimate": "200",
+      "confidence": 75
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": 95
+    },
+    {
+      "name": "whole grain bread",
+      "portion_estimate": "50",
+      "confidence": 80
+    }
+  ]
+}

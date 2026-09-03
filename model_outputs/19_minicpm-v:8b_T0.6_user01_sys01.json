@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green salad with cucumbers",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Omelette or frittata",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Rye bread slice in a clear plastic wrapper",
+      "portion_estimate": "15-20 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Bowl of scrambled eggs with peas or beans",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole orange fruit",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    }
+  ]
+}

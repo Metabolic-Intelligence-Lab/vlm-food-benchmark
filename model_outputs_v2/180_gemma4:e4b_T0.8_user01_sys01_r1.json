@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roasted chickpeas (or mixed roasted vegetables)",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "green spinach-infused pasta",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "small savory quiche or tart slice",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "110g",
+      "confidence": "95"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "160g",
+      "confidence": "95"
+    }
+  ]
+}

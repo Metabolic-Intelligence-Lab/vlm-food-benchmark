@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain, approx. 250g",
+      "confidence": "60"
+    },
+    {
+      "name": "cheese ravioli or tortellini",
+      "portion_estimate": "uncertain, approx. 100-150g",
+      "confidence": "50"
+    },
+    {
+      "name": "quiche with spinach and other vegetables",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "70"
+    },
+    {
+      "name": "potato wedges or chips",
+      "portion_estimate": "uncertain, approx. 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "baked potato with butter and cheese",
+      "portion_estimate": "uncertain, approx. 300g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain, approx. 50-100g",
+      "confidence": "60"
+    }
+  ]
+}

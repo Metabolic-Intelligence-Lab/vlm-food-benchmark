@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread with greens",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "greens in bowl with water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

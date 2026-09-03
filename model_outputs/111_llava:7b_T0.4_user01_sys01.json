@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Indian meal with rice and curry",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta dish with sauce",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Banana and some kind of grain or cereal",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Rolled bread with sauce on the side",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    }
+  ]
+}

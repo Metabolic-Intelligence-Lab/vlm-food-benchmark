@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with white sauce and parmesan",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Empanadas or pastries sprinkled with powdered sugar",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Grilled chicken salad on mixed greens",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "75"
+    },
+    {
+      "name": "Crepes or pancakes with butter and syrup",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain bread slice",
+      "portion_estimate": "uncertain, approx. 50-120 grams",
+      "confidence": "80"
+    }
+  ]
+}

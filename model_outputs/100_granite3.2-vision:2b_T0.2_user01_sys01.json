@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "green onions",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "cucumber or pickled vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "assorted greens (lettuce or spinach)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

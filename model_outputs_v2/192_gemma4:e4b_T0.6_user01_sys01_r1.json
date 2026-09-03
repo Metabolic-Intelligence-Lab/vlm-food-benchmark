@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded fried protein (chicken or fish)",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Cooked dark leafy greens (spinach or kale)",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "Crispy fried noodle pieces or snacks",
+      "portion_estimate": "130g",
+      "confidence": "75"
+    },
+    {
+      "name": "Lemon or yellow fruit slice",
+      "portion_estimate": "70g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pickled ginger or light pickled vegetable",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    }
+  ]
+}

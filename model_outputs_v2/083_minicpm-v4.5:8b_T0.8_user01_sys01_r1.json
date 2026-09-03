@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet on eggplant",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "potato cubes",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed vegetables (likely rice with chickpeas and greens)",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "small rolls",
+      "portion_estimate": "30",
+      "confidence": "70"
+    },
+    {
+      "name": "yoplait yogurt",
+      "portion_estimate": "100",
+      "confidence": "90"
+    }
+  ]
+}

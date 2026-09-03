@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Indian curry",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Soup with croutons",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Cauliflower with broccoli and cheese",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed or steamed greens (likely kale or collard greens)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "fried or baked meatballs (likely beef or chicken)",
+      "portion_estimate": "120g (two meatballs)",
+      "confidence": 85
+    },
+    {
+      "name": "sauce or gravy in plastic container (likely tomato-based or meat sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "condiment packet (likely salt or seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

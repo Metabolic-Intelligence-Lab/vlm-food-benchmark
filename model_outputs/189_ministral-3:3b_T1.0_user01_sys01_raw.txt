@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "dark coffee or tea with milk foam",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "brown, granular soup or sauce",
+      "portion_estimate": "30",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or stir-fried greens (likely bok choy)",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "red container likely containing yogurt or yogurt alternative",
+      "portion_estimate": "40",
+      "confidence": 85
+    },
+    {
+      "name": "dairy product packaging with 'BIO' and 'LEUR' (potentially a pouch of muesli, granola or yogurt snack)",
+      "portion_estimate": "uncertain"
+      "confidence": 70
+    },
+    {
+      "name": "long strip of rice or granola-like item",
+      "portion_estimate": "30",
+      "confidence": 75
+    }
+  ]
+}

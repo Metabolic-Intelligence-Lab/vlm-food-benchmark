@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Baked mushroom",
+      "portion_estimate": "80g",
+      "confidence": "60"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Baked potato",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    }
+  ]
+}

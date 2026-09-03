@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fruit yogurt (strawberry, single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked broccoli (possibly with herbs/oil)",
+      "portion_estimate": "160 g",
+      "confidence": "65"
+    },
+    {
+      "name": "whole grain bread roll (small)",
+      "portion_estimate": "55 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked white fish fillet (two pieces)",
+      "portion_estimate": "140 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked diced potatoes (seasoned)",
+      "portion_estimate": "170 g",
+      "confidence": "70"
+    }
+  ]
+}

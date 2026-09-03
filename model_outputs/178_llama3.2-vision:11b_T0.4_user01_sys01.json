@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Fish",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "80g",
+      "confidence": 90
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "60g",
+      "confidence": 80
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "120g",
+      "confidence": 90
+    }
+  ]
+}

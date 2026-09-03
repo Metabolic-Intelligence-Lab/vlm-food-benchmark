@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "steamed chicken with sauce and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "green beans (stir-fried)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

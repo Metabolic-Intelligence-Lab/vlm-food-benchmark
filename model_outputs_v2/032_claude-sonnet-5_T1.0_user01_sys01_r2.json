@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi with tomato sauce and grated parmesan",
+      "portion_estimate": "280",
+      "confidence": "70"
+    },
+    {
+      "name": "cherry tomato pieces",
+      "portion_estimate": "60",
+      "confidence": "65"
+    },
+    {
+      "name": "grated parmesan cheese topping",
+      "portion_estimate": "20",
+      "confidence": "55"
+    },
+    {
+      "name": "basil leaf garnish",
+      "portion_estimate": "2",
+      "confidence": "50"
+    }
+  ]
+}

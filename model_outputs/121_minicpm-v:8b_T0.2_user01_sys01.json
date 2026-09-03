@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain bread with peanut butter",
+      "portion_estimate": "uncertain, approx. slice of whole grain bread and a small portion of peanut butter on top",
+      "confidence": "50"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain, approx. medium-sized banana",
+      "confidence": "60"
+    },
+    {
+      "name": "Salad with carrots and lettuce",
+      "portion_estimate": "uncertain, approx. 1/2 cup of salad mix",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta dish with grated cheese on top",
+      "portion_estimate": "uncertain, approx. medium-sized serving plate full of pasta and cheese",
+      "confidence": "60"
+    }
+  ]
+}

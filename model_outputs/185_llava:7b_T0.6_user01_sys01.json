@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sliced sausage link",
+      "portion_estimate": "25g",
+      "confidence": "60"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Sauce on top of mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

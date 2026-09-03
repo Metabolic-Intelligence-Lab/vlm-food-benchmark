@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "plate of pasta with tomato sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked leafy greens",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "fish fillet with yellow garnish",
+      "portion_estimate": "120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "three apricots",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    }
+  ]
+}

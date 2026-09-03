@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "diced potatoes and zucchini",
+      "portion_estimate": "180 g",
+      "confidence": "85"
+    },
+    {
+      "name": "uncertain white sauce-covered protein or egg",
+      "portion_estimate": "120 g",
+      "confidence": "45"
+    },
+    {
+      "name": "beans in tomato sauce",
+      "portion_estimate": "170 g",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "packaged cheese stick",
+      "portion_estimate": "25 g",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 g",
+      "confidence": "90"
+    },
+    {
+      "name": "uncertain small dairy drink or yogurt container",
+      "portion_estimate": "100 g",
+      "confidence": "45"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (Penne)",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "Egg and Cheese (Frittata)",
+      "portion_estimate": "100g",
+      "confidence": 70
+    }
+  ]
+}

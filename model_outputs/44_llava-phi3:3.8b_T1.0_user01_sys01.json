@@ -1,0 +1,36 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "2 cm diameter piece of bread in a clear plastic bag",
+      "confidence": "90"
+    },
+    {
+      "name": "sandwiches",
+      "portion_estimate": "whole sandwich on the plate",
+      "confidence": "80"
+    },
+    {
+      "name": "fries with cheese",
+      "portion_estimate": "small pile of food on a white plate",
+      "confidence": "90"
+    },
+    {
+      "name": "cheese fries",
+      "portion_estimate": "a bunch of potatoes on the plate with cheese melted over them",
+      "confidence": "80"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "water bottle",
+      "portion_estimate": "empty plastic water bottle on tray",
+      "confidence": "100"
+    },
+    {
+      "name": "cup of soda",
+      "portion_estimate": "plastic cup with straws in it",
+      "confidence": "85"
+    }
+  ]
+}

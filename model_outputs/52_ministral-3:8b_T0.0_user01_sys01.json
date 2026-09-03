@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled or baked chicken breast (two slices)",
+      "portion_estimate": "180-200g",
+      "confidence": 75
+    },
+    {
+      "name": "mixed salad with shredded carrots, red cabbage, and possibly lettuce or other greens",
+      "portion_estimate": "100-120g",
+      "confidence": 70
+    },
+    {
+      "name": "whole wheat bread (one slice)",
+      "portion_estimate": "50-60g",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with sauce (likely penne or similar shape, with visible herbs or vegetables)",
+      "portion_estimate": "150-180g (cooked)",
+      "confidence": 80
+    },
+    {
+      "name": "spreadable cheese or dip (in small container)",
+      "portion_estimate": "uncertain (likely 30-50g)",
+      "confidence": 55
+    },
+    {
+      "name": "water in clear plastic cup",
+      "portion_estimate": "uncertain (likely 200-250ml)",
+      "confidence": 60
+    }
+  ]
+}

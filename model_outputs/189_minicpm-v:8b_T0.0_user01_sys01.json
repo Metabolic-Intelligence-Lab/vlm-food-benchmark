@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "broth",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mashed potatoes with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "green vegetables (possibly broccoli)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "cheese slices",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

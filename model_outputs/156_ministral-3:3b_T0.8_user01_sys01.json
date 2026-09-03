@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with pesto sauce (small serving)",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "grilled fish fillet (top portion, breaded/crusted)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "brussels sprouts, roasted",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "wrapped sandwich roll (white bagged)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "plain banana, cut in half",
+      "portion_estimate": "150",
+      "confidence": 95
+    }
+  ]
+}

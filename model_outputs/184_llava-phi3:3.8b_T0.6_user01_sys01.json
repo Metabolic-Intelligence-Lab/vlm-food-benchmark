@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "a sandwich in a white plate",
+      "portion_estimate": "30g",
+      "confidence": "80"
+    },
+    {
+      "name": "rice and egg salad on a paper plate",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "a small white bowl with lettuce, tomato, cucumber, and dressing in it",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "a sandwich on a clear plastic bag",
+      "portion_estimate": "45g",
+      "confidence": "70"
+    },
+    {
+      "name": "a white plate with food on it",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    }
+  ]
+}

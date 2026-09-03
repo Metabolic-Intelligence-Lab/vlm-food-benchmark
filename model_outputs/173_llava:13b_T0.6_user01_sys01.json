@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "omelets or fried eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pasta with tomato-based sauce (possibly spaghetti bolognese)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "dinner roll",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "orange slices",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

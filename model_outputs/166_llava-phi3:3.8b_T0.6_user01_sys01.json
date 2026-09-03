@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 95
+    },
+    {
+      "name": "orange baby carrots",
+      "portion_estimate": "103 grams",
+      "confidence": 95
+    },
+    {
+      "name": "cheese pizza slice",
+      "portion_estimate": "2 slices",
+      "confidence": 90
+    },
+    {
+      "name": "green beans with onions",
+      "portion_estimate": "0.75 kilograms",
+      "confidence": 60
+    }
+  ]
+}

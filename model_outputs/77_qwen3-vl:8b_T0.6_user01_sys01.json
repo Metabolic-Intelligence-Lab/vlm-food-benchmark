@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Peanuts with green herbs",
+      "portion_estimate": "80g",
+      "confidence": "85"
+    },
+    {
+      "name": "Cookie",
+      "portion_estimate": "30g",
+      "confidence": "90"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "225g",
+      "confidence": "95"
+    },
+    {
+      "name": "Baked fish",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Pesto pasta",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

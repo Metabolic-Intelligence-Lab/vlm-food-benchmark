@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices (whole baby carrots)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "glazed pork chop (or similar meat with sauce)",
+      "portion_estimate": "180 grams",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or saut\u00e9ed green beans with small pods",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "apple (small to medium)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

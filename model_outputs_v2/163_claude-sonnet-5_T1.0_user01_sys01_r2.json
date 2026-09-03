@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable/legume puree soup with grated cheese",
+      "portion_estimate": "300",
+      "confidence": "75"
+    },
+    {
+      "name": "spinach and ricotta patty topped with fried egg",
+      "portion_estimate": "150",
+      "confidence": "65"
+    },
+    {
+      "name": "sautéed diced vegetables (peppers, zucchini, carrots)",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "70"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150",
+      "confidence": "50"
+    }
+  ]
+}

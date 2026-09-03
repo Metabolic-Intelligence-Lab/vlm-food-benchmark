@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with oil-based sauce and herbs",
+      "portion_estimate": 250,
+      "confidence": 92
+    },
+    {
+      "name": "Fruit pizza slice (peach or mango topping)",
+      "portion_estimate": 180,
+      "confidence": 85
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": 220,
+      "confidence": 90
+    },
+    {
+      "name": "Yellow fruit salad (likely pineapple)",
+      "portion_estimate": 180,
+      "confidence": 75
+    },
+    {
+      "name": "Wrapped pastry item",
+      "portion_estimate": 80,
+      "confidence": 65
+    }
+  ]
+}

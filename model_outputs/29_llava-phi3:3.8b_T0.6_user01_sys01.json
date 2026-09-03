@@ -1,0 +1,33 @@
+{
+  "food_items": [
+    {
+      "name": "Pizza slice",
+      "portion_estimate": "2 inches by 4 inches",
+      "confidence": "90"
+    },
+    {
+      "name": "Macaroni and cheese",
+      "portion_estimate": "6 inches by 3 inches",
+      "confidence": "85"
+    },
+    {
+      "name": "Broccoli salad",
+      "portion_estimate": "4 inches by 2 inches",
+      "confidence": "70"
+    }
+  ],
+  "bread": [
+    {
+      "name": "Sourdough bread",
+      "portion_estimate": "3 inches by 2 inches",
+      "confidence": "60"
+    }
+  ],
+  "fruits": [
+    {
+      "name": "Apple",
+      "portion_estimate": "4 inches in diameter",
+      "confidence": "50"
+    }
+  ]
+}

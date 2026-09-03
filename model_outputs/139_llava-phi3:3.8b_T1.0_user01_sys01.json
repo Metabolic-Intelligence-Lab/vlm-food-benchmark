@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Carrots",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Breaded Chicken",
+      "portion_estimate": "80g",
+      "confidence": "92"
+    },
+    {
+      "name": "Wontons",
+      "portion_estimate": "136g",
+      "confidence": "57"
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "40g",
+      "confidence": "28"
+    }
+  ]
+}

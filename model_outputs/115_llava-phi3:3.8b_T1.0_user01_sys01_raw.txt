@@ -1,0 +1,55 @@
+{
+"food_items": [
+    {
+        "name": "Spaghetti",
+        "portion_estimate": "4 oz",
+        "color": "white"
+    },
+    {
+        "name": "Grapes",
+        "portion_estimate": "1 cup",
+        "color": "purple"
+    },
+    {
+        "name": "Truffini balls",
+        "portion_estimate": "6 pieces",
+        "color": "orange"
+    },
+    {
+        "name": "Lettuce salad",
+        "portion_estimate": "1 cup",
+        "color": "green"
+    },
+    {
+        "name": "Bread rolls",
+        "portion_estimate": "2 pieces",
+        "color": "brown"
+    }
+],
+"location": [
+    {
+        "type": "food",
+        "image": "spaghetti",
+        "position": "0.1, 0.36, 0.43, 0.58"
+    },
+    {
+        "type": "food",
+        "image": "grapes",
+        "position": "0.29, 0.36, 0.51, 0.57"
+    },
+    {
+        "type": "food",
+        "image": "truffini balls",
+        "position": "0.43, 0.58, 0.62, 0.75"
+    },
+    {
+        "type": "food",
+        "image": "salad",
+        "position": "0.59, 0.28, 0.93, 0.57"
+    },
+    {
+        "type": "food",
+        "image": "bread rolls",
+        "position": "0.11, 0.64, 0.28, 0.82"
+    }
+]

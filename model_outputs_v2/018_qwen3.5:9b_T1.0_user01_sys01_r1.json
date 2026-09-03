@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled fish fillet (sea bass or similar), served with lemon and herbs",
+      "portion_estimate": 140,
+      "confidence": 92
+    },
+    {
+      "name": "Rotini pasta in a tomato-based sauce with visible vegetables like tomatoes and greens",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "Mixed shredded salad (carrots, purple cabbage, iceberg lettuce)",
+      "portion_estimate": 100,
+      "confidence": 90
+    }
+  ]
+}

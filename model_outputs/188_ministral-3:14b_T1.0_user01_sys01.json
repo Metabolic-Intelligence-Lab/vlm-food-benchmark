@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken and vegetable stew or soup (with carrots, celery, and potatoes)",
+      "portion_estimate": "500",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted pork or pulled pork (with spices/crust)",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed or saut\u00e9ed kale or collard greens",
+      "portion_estimate": "80",
+      "confidence": "85"
+    },
+    {
+      "name": "small container of yogurt or pudding (partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

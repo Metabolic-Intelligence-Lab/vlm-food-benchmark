@@ -1,0 +1,33 @@
+{
+"food_items": [
+{
+"name": "biscuit",
+"portion_estimate": "large piece near top center",
+"confidence": "90"
+},
+{
+"name": "meatballs with gravy and breadcrumb topping",
+"portion_estimate": "top left biscuit piece in the middle on the right side of the image, bottom left meatballs near center",
+"confidence": "80"
+},
+{
+"name": "meatballs with gravy and breadcrumb topping",
+"portion_estimate": "bottom right meatballs on edge",
+"confidence": "70"
+},
+{
+"name": "meatballs with gravy and breadcrumb topping",
+"portion_estimate": "middle of plate bottom center piece near red speck",
+"confidence": "50"
+},
+{
+"name": "meatballs with gravy and breadcrumb topping",
+"portion_estimate": "smaller meatball on the right top side",
+"confidence": "40"
+},
+{
+"name": "meatballs with gravy and breadcrumb topping",
+"portion_estimate": "big piece of food in middle bottom",
+"confidence": "30"
+}
+]

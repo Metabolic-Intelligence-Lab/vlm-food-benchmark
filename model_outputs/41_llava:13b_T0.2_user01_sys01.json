@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with sauce",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "70g",
+      "confidence": "40"
+    },
+    {
+      "name": "Oranges",
+      "portion_estimate": "2 oranges, approximately 150g each",
+      "confidence": "60"
+    },
+    {
+      "name": "Salad with vegetables",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Cream of mushroom soup",
+      "portion_estimate": "100-150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried chicken",
+      "portion_estimate": "200-250 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Green salad",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Fried potato wedges with sour cream and chives",
+      "portion_estimate": "75-100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Breaded fish fillet",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Crispy chicken skin",
+      "portion_estimate": "25-30 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Pickles",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

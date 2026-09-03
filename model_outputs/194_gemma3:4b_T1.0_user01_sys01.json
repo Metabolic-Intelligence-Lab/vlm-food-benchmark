@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup (tomato-based)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Seaweed",
+      "portion_estimate": "75g",
+      "confidence": 70
+    },
+    {
+      "name": "Rice cake",
+      "portion_estimate": "40g",
+      "confidence": 65
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "80g",
+      "confidence": 75
+    }
+  ]
+}

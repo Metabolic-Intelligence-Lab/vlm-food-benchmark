@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "meat and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "4 meatballs, approximately 60g each",
+      "confidence": 60
+    }
+  ]
+}

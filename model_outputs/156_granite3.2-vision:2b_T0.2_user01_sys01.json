@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "leafy greens",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

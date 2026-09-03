@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "carrot shreds",
+      "portion_estimate": "60g",
+      "confidence": 85
+    },
+    {
+      "name": "red cabbage or radicchio salad",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or seeded bun",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "breaded and baked cutlet (possibly chicken or fish)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "water (in clear plastic cup)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "tomato sauce packet (Sprintday brand)",
+      "portion_estimate": "20g",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked fish with breadcrumb topping",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "vegetable casserole with cheese",
+      "portion_estimate": "200",
+      "confidence": "65"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": "90"
+    }
+  ]
+}

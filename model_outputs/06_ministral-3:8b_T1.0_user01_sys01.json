@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (rigatoni/penne) with sauce",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "fried egg (sunny-side-up)",
+      "portion_estimate": "60g (whole egg)",
+      "confidence": 90
+    },
+    {
+      "name": "green beans/broccoli or cauliflower mix with garlic",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "fried or baked breaded cutlet/chicken or vegetable cutlet",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat bread",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt (sweetened or flavored, in cup)",
+      "portion_estimate": "uncertain (likely 100-150g)",
+      "confidence": 60
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "uncertain (likely 200-300ml)",
+      "confidence": 65
+    }
+  ]
+}

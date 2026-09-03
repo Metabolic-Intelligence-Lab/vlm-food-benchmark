@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "roasted vegetables (carrots and brussels sprouts)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "stuffing",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

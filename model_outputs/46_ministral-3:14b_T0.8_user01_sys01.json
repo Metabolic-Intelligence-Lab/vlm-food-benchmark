@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "potato leek soup (with grated cheese topping)",
+      "portion_estimate": "350g",
+      "confidence": 90
+    },
+    {
+      "name": "fried potato or potato croquette with jam or syrup",
+      "portion_estimate": "60g",
+      "confidence": 95
+    },
+    {
+      "name": "mixed leafy salad (with possible cucumber and dressing)",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "boiled potato (peeled, separate)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "vanilla flavored dessert yogurt (125g container)",
+      "portion_estimate": "125g",
+      "confidence": 95
+    }
+  ]
+}

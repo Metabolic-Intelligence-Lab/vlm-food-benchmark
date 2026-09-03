@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken breast with salad, cooked",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "Soup (vegetable/chicken)",
+      "portion_estimate": "240",
+      "confidence": 90
+    },
+    {
+      "name": "Bun or bread roll",
+      "portion_estimate": "60",
+      "confidence": 85
+    }
+  ]
+}

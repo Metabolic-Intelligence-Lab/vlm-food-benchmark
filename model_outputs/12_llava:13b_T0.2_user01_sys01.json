@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fried egg",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "french fries",
+      "portion_estimate": "approximately 70 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "dinner roll",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "green vegetable side dish",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (possibly macaroni and cheese)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "potato wedges",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "vegetable dish or meat (possibly chicken)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "bananas",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    }
+  ]
+}

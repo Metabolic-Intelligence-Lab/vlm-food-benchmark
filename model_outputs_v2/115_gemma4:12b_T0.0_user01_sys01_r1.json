@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "mixed green salad",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "meatballs in tomato sauce",
+      "portion_estimate": "200g",
+      "confidence": "95"
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "small piece of bread",
+      "portion_estimate": "30g",
+      "confidence": "90"
+    }
+  ]
+}

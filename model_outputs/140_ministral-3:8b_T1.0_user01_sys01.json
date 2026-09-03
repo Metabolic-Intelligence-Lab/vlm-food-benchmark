@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "whole plums",
+      "portion_estimate": "uncertain (~150g total for 2 plums, average estimate)",
+      "confidence": 55
+    },
+    {
+      "name": "battered and fried fillet (likely fish or chicken)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed green tea leaves (likely watercress or baby spinach)",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "baby brussels sprouts (halved)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    }
+  ]
+}

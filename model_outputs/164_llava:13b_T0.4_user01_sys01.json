@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chili soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread or roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fried potato wedges",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad or cooked vegetable dish",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "condiment or sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

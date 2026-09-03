@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sweet potato noodles (shredded)",
+      "portion_estimate": "200g",
+      "confidence": 75
+    },
+    {
+      "name": "fried potatoes (potato fries or diced potatoes)",
+      "portion_estimate": "150g",
+      "confidence": 70
+    },
+    {
+      "name": "breaded cutlet or meat patty (likely chicken or pork)",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "green onions or spring onions",
+      "portion_estimate": "15g",
+      "confidence": 65
+    },
+    {
+      "name": "sauce or dressing (visible drizzle)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

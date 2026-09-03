@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pear juice carton",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "rectangular pastry with decorative icing (left)",
+      "portion_estimate": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "rectangular pastry with decorative icing (right)",
+      "portion_estimate": "50g",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed green salad",
+      "portion_estimate": "100-200g",
+      "confidence": "70"
+    },
+    {
+      "name": "cucumber slices",
+      "portion_estimate": "50-100g",
+      "confidence": "60"
+    },
+    {
+      "name": "red bell pepper strips",
+      "portion_estimate": "50-100g",
+      "confidence": "60"
+    },
+    {
+      "name": "shredded tomatoes",
+      "portion_estimate": "50-100g",
+      "confidence": "60"
+    },
+    {
+      "name": "carrot slices",
+      "portion_estimate": "25-50g",
+      "confidence": "50"
+    }
+  ]
+}

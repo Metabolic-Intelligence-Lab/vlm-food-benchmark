@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Lentil Soup",
+      "portion_estimate": "250 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Spinach and Egg Frittata",
+      "portion_estimate": "80 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Sweet Potato Slice",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Pastry Roll",
+      "portion_estimate": "80 grams",
+      "confidence": 70
+    }
+  ]
+}

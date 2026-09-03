@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup with grated cheese",
+      "portion_estimate": "400 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed green peas",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed baby carrots",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt (plain, in a small cup)",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "packaged bread roll (whole grain or similar)",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    }
+  ]
+}

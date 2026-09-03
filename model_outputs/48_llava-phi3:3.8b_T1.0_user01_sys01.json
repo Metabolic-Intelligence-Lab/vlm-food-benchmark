@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "2.5cm",
+      "portion_estimate": "2.5cm",
+      "confidence": 90
+    },
+    {
+      "name": "4cm",
+      "portion_estimate": "4cm",
+      "confidence": 90
+    },
+    {
+      "name": "orange foods (3)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "brown food (5)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

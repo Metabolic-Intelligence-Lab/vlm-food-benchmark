@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce, red peppers, and possibly mushrooms",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "baked kale with garlic butter",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "bag of fried breadstick or bread rolls (packaged)",
+      "portion_estimate": 120,
+      "confidence": 70
+    },
+    {
+      "name": "Congo butter cream (condiment, likely used with the baked kale)",
+      "portion_estimate": "small packet, ~5g",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetables on rice",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "cheddar cheese",
+      "portion_estimate": "uncertain, approx 30g",
+      "confidence": "70"
+    },
+    {
+      "name": "potato chunks with herbs",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "mushroom and spinach omelette",
+      "portion_estimate": "uncertain, approx 200g",
+      "confidence": "70"
+    },
+    {
+      "name": "hard-boiled egg",
+      "portion_estimate": "uncertain, approx 50g",
+      "confidence": "60"
+    }
+  ]
+}

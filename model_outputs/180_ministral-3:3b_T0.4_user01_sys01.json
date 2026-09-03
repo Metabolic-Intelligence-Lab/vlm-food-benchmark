@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas and carrot medley",
+      "portion_estimate": 100,
+      "confidence": 95
+    },
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "sausage and cheese roll (or stuffed mushroom cap)",
+      "portion_estimate": 50,
+      "confidence": 85
+    },
+    {
+      "name": "baked bread (or baguette)",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "apple",
+      "portion_estimate": 150,
+      "confidence": 90
+    }
+  ]
+}

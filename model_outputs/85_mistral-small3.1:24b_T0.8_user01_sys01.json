@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta e fagioli",
+      "portion_estimate": "350",
+      "confidence": "85"
+    },
+    {
+      "name": "grilled artichoke",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "boiled kale",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "lemon",
+      "portion_estimate": "50",
+      "confidence": "95"
+    },
+    {
+      "name": "focaccia",
+      "portion_estimate": "100",
+      "confidence": "90"
+    }
+  ]
+}

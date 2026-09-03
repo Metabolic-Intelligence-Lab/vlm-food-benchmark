@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with sauce and cheese",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted Brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "salad with cucumber, carrot, and purple cabbage",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

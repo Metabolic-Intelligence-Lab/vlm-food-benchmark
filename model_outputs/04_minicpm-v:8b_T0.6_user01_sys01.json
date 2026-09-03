@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Salad with tuna, cherry tomatoes, mozzarella cheese and croutons",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

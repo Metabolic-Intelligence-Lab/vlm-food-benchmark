@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce and cheese",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    },
+    {
+      "name": "Baked potato",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Salad with mixed greens, cherry tomatoes, and balsamic vinaigrette",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "120g",
+      "confidence": "92"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "80g",
+      "confidence": "88"
+    }
+  ]
+}

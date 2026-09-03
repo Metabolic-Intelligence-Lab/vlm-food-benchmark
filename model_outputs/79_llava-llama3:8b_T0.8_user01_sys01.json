@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "oatmeal",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "muffin",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "plastic bag of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

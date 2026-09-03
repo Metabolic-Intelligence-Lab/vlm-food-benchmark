@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and parmesan",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "Yogurt with berries",
+      "portion_estimate": "125",
+      "confidence": "80"
+    },
+    {
+      "name": "Vegetable and cheese tart",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked potatoes",
+      "portion_estimate": "75",
+      "confidence": "80"
+    }
+  ]
+}

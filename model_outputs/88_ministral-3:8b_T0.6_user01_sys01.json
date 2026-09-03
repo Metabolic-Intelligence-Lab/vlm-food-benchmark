@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "200g",
+      "confidence": 75
+    },
+    {
+      "name": "packaged bread roll (e.g., brioche or similar)",
+      "portion_estimate": "60g",
+      "confidence": 65
+    },
+    {
+      "name": "rice pilaf with peas and possibly chunks of meat",
+      "portion_estimate": "180g",
+      "confidence": 70
+    },
+    {
+      "name": "fried or baked stuffed pastry (e.g., cheese-filled flatbread)",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "130g",
+      "confidence": 85
+    },
+    {
+      "name": "butter or margarine pat (included with meal)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

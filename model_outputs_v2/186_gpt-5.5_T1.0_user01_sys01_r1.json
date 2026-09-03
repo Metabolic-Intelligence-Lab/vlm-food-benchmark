@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll in plastic wrap",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "wrapped cheese or butter portion",
+      "portion_estimate": "25 g",
+      "confidence": "50"
+    },
+    {
+      "name": "uncertain crumbled potato or egg mixture",
+      "portion_estimate": "180 g",
+      "confidence": "45"
+    },
+    {
+      "name": "sliced ham with peppercorns",
+      "portion_estimate": "80 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "milk or yogurt drink in clear cup",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    }
+  ]
+}

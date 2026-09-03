@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with sauce",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "grilled or roasted meat with gravy",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "spinach or kale with onions or garlic",
+      "portion_estimate": "100",
+      "confidence": 92
+    },
+    {
+      "name": "plain orange",
+      "portion_estimate": "150",
+      "confidence": 95
+    }
+  ]
+}

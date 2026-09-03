@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked greens",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "cooked pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sauce or condiment",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread or roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

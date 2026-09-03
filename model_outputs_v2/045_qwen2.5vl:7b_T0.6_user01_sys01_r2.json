@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "baked macaroni and cheese",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "vegetable medley with corn, green beans, and tomato",
+      "portion_estimate": "120",
+      "confidence": 70
+    },
+    {
+      "name": "carrot and green bean salad",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt with mixed berries",
+      "portion_estimate": "50",
+      "confidence": 60
+    }
+  ]
+}

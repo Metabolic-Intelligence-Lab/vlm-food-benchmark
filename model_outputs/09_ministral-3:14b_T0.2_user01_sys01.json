@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (partially wrapped)",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "baked or fried fish fillet with herbs",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "mixed vegetable medley (potatoes, carrots, and possibly green beans)",
+      "portion_estimate": "150",
+      "confidence": 88
+    },
+    {
+      "name": "ground meat or meatball dish with tomato sauce",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt or dairy dessert (partially visible in container)",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "water in clear plastic cup",
+      "portion_estimate": "250",
+      "confidence": 95
+    }
+  ]
+}

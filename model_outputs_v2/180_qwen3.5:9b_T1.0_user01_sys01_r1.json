@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green pesto pasta with grated parmesan cheese",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Cooked chickpeas mixed with diced carrots",
+      "portion_estimate": 120,
+      "confidence": 93
+    },
+    {
+      "name": "Fresh green apple",
+      "portion_estimate": 150,
+      "confidence": 98
+    },
+    {
+      "name": "Bread roll wrapped in plastic packaging",
+      "portion_estimate": 45,
+      "confidence": 97
+    },
+    {
+      "name": "Single slice of lasagna or eggplant-based bake",
+      "portion_estimate": 60,
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with vegetables",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "bread bun",
+      "portion_estimate": "15g",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "10g",
+      "confidence": 85
+    },
+    {
+      "name": "chopped zucchini and other vegetables",
+      "portion_estimate": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "fried item (likely a cutlet or pastry)",
+      "portion_estimate": "50g",
+      "confidence": 95
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "10g",
+      "confidence": 80
+    }
+  ],
+  "other_items": [
+    {
+      "name": "biodegradable packet",
+      "portion_estimate": "unknown",
+      "confidence": 50
+    },
+    {
+      "name": "water glass",
+      "portion_estimate": "no gram estimate",
+      "confidence": 0
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti, possibly with pesto",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "Pizza slice with yellow topping (e.g., cheese or fruit)",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "Bun roll",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "Shredded vegetable or fruit, possibly saut\u00e9ed pumpkin",
+      "portion_estimate": "250",
+      "confidence": 70
+    }
+  ]
+}

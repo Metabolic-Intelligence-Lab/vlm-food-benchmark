@@ -1,0 +1,32 @@
+{
+  "food_items": [
+    {
+      "name": "Sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Beans (or legumes)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Dinner roll or similar bread item",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Pasta dish, potentially with vegetables like zucchini and carrot",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Coffee (if it has cream added or if the container is for cream)",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    }
+  ]
+}
+```
+
+Please note that due to the angle and resolution of the image, I am unable to accurately identify or estimate the portion sizes for each item. The provided estimates are based on the visible content in the photo and my visual perception. These values are meant to indicate the level of certainty about each food item's identification and quanti

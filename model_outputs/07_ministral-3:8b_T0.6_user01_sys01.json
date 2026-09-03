@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked or fried breadstick (single piece)",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "chickpea and vegetable soup (bowl)",
+      "portion_estimate": "400g",
+      "confidence": 80
+    },
+    {
+      "name": "garlic bread roll (single)",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "pre-packaged yogurt (single cup, ~125ml)",
+      "portion_estimate": "125g",
+      "confidence": 90
+    },
+    {
+      "name": "mixed greens salad with shredded carrots (bowl)",
+      "portion_estimate": "150g",
+      "confidence": 70
+    }
+  ]
+}

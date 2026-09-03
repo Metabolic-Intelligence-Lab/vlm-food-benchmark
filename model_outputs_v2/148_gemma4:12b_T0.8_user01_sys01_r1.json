@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pesto pasta with grated cheese",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "steamed white fish pieces",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "carrot and vegetable medallion",
+      "portion_estimate": "70g",
+      "confidence": 90
+    },
+    {
+      "name": "fresh plums",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80g",
+      "confidence": 90
+    }
+  ]
+}

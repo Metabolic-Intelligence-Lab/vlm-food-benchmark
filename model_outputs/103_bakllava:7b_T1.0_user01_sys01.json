@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli and meatloaf",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "soup with rice and melted cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "empty bowl",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

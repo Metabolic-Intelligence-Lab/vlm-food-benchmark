@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded and baked fish fillet",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "roasted carrots",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "lentil-based dish with carrots",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "packaged yogurt (likely plain Greek yogurt) with a red package",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "water in a glass",
+      "portion_estimate": "200 milliliters (approx. 20 grams water)",
+      "confidence": 85
+    }
+  ]
+}

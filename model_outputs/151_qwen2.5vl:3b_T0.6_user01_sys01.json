@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fried brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Fried carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Fried pasta with mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried bread",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

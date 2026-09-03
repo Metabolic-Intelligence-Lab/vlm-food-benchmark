@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "stir-fried rice with pieces of protein",
+      "portion_estimate": "280g",
+      "confidence": 90
+    },
+    {
+      "name": "penne pasta with meat sauce",
+      "portion_estimate": "350g",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "90g",
+      "confidence": 90
+    },
+    {
+      "name": "wrapped snack",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250g",
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta with tomato sauce (e.g., penne or fusilli)",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "roasted or saut\u00e9ed broccoli",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "cheese-stuffed chicken breast or chicken parmesan slice",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "mandarin orange segments (2 small oranges)",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "plastic-wrapped cheese or dessert item (e.g., cheese wedge or packaged snack)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

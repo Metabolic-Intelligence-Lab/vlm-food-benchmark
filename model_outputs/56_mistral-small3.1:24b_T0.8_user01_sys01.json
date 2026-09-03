@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta shell with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "fish cutlet",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

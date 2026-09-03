@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Salad with greens and croutons",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta dish with red sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded and fried item, possibly chicken or fish",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Green vegetables, likely broccoli",
+      "portion_estimate": "75 grams",
+      "confidence": "90"
+    }
+  ]
+}

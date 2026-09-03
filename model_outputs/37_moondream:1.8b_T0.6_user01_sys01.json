@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "egg and spinach omelet",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red cabbage salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

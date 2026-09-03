@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Sliced white bread with butter",
+      "portion_estimate": "uncertain, approx. weight of slice",
+      "confidence": "50"
+    },
+    {
+      "name": "Potato soup with cheese on top",
+      "portion_estimate": "uncertain, approx. cup size",
+      "confidence": "60"
+    },
+    {
+      "name": "Roast beef sandwich (partially eaten)",
+      "portion_estimate": "uncertain, approx. weight of half a slice",
+      "confidence": "50"
+    },
+    {
+      "name": "Carrots and brussel sprouts",
+      "portion_estimate": "uncertain, approx. portion size for mixed vegetables",
+      "confidence": "60"
+    },
+    {
+      "name": "Red potatoes (whole)",
+      "portion_estimate": "uncertain, estimated weight of single potato",
+      "confidence": "50"
+    }
+  ]
+}

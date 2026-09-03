@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with pesto",
+      "portion_estimate": "uncertain (approximate portion size based on common serving sizes)",
+      "confidence": "70"
+    },
+    {
+      "name": "Boiled egg and fried fish fillet",
+      "portion_estimate": "uncertain (approximate portion size based on common serving sizes)",
+      "confidence": "65"
+    },
+    {
+      "name": "Green salad with cucumber, dill pickle slices, and olive oil dressing",
+      "portion_estimate": "uncertain (approximate portion size based on common servings of salads)",
+      "confidence": "70"
+    },
+    {
+      "name": "Whole wheat bread roll",
+      "portion_estimate": "uncertain (approximate portion size based on the visible part of the food item)",
+      "confidence": "65"
+    },
+    {
+      "name": "Yogurt with berry compote and nuts",
+      "portion_estimate": "uncertain (approximate portion size based on common serving sizes)",
+      "confidence": "70"
+    },
+    {
+      "name": "Biodegradable compostable cupcake wrapper, partially visible",
+      "portion_estimate": "uncertain (approximate portion size not applicable for a food item) - 10g estimated weight of the wrapper based on common sizes.",
+      "confidence": "50"
+    }
+  ]
+}

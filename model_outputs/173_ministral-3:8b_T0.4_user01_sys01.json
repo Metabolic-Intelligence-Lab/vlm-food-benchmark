@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed green beans",
+      "portion_estimate": 150,
+      "confidence": 75
+    },
+    {
+      "name": "two pieces of breaded and fried cutlet (possibly chicken or fish)",
+      "portion_estimate": 180,
+      "confidence": 70
+    },
+    {
+      "name": "two halves of boiled egg",
+      "portion_estimate": 60,
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": 120,
+      "confidence": 75
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": 130,
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed vegetables with cucumber and carrot",
+      "portion_estimate": "250 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "quinoa salad with red onions and lettuce",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "whole wheat roll",
+      "portion_estimate": "200 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "sliced tomatoes with cucumber and red onions",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    }
+  ]
+}

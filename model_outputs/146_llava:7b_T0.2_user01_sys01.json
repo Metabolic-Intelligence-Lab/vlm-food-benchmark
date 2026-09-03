@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni and cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta salad with vegetables",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Crackers with cheese spread",
+      "portion_estimate": "30 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta salad with olives",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    }
+  ]
+}

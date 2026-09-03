@@ -1,0 +1,27 @@
+{
+  "food_items": [
+    {
+      "name": "Baked Spinach",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Cheese Pizza Slice",
+      "portion_estimate": "80g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread Roll in plastic wrap",
+      "portion_estimate": "125g",
+      "confidence": "60"
+    },
+    {
+      "name": "Oranges",
+      "portion_estimate": [
+        2,
+        2
+      ],
+      "confidence": "90"
+    }
+  ]
+}

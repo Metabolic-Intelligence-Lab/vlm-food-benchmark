@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Green beans and orange carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Yoplait container",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

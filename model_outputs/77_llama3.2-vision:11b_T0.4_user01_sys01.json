@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Beans",
+      "portion_estimate": "150g",
+      "confidence": 70
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "100g",
+      "confidence": 60
+    },
+    {
+      "name": "Fish",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "100g each",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "chicken fillet",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "mixed vegetables with mushrooms and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    },
+    {
+      "name": "pasta (penne) in tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

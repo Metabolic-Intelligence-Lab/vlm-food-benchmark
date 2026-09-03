@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce",
+      "portion_estimate": "approximate 100g serving",
+      "confidence": "70"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "approximate 50g serving",
+      "confidence": "80"
+    },
+    {
+      "name": "roll (possibly filled)",
+      "portion_estimate": "1 item",
+      "confidence": "60"
+    },
+    {
+      "name": "green vegetables",
+      "portion_estimate": "approximate 50g serving",
+      "confidence": "80"
+    },
+    {
+      "name": "chicken with sauce",
+      "portion_estimate": "approximate 100-150g serving",
+      "confidence": "70"
+    }
+  ]
+}

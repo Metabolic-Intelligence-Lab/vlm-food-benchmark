@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Eggs",
+      "portion_estimate": "2 eggs",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "1/4 cup",
+      "confidence": "70"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "1/4 cup",
+      "confidence": "60"
+    }
+  ]
+}

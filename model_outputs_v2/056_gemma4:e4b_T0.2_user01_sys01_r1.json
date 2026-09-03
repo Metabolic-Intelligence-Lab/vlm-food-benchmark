@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Toasted bread or crouton",
+      "portion_estimate": "60",
+      "confidence": "90"
+    },
+    {
+      "name": "Saut\u00e9ed mixed vegetables and mushrooms",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "Pasta with sauce and ingredients",
+      "portion_estimate": "220",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll or bun",
+      "portion_estimate": "90",
+      "confidence": "85"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "300",
+      "confidence": "95"
+    }
+  ]
+}

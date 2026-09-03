@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "french fries",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "broccoli pieces",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

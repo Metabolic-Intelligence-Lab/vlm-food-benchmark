@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti alla carbonara",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Fried fish fillet",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "Steamed broccoli",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Soda bread",
+      "portion_estimate": "100g",
+      "confidence": 80
+    }
+  ]
+}

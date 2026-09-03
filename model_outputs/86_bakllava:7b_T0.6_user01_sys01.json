@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fish",
+      "portion_estimate": "approximately 120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "side dish",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "cup containing mashed potatoes or rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich roll",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

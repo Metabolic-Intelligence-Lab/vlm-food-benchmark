@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Chickpea Curry",
+      "portion_estimate": "100-200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Plain Bread",
+      "portion_estimate": "50-100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Plain Yogurt",
+      "portion_estimate": "50-100 grams",
+      "confidence": "70"
+    }
+  ]
+}

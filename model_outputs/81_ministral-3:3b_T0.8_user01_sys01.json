@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce, likely chickpea-based or other legume",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "mashed potato or corn with butter",
+      "portion_estimate": 120,
+      "confidence": 85
+    },
+    {
+      "name": "baked meatballs or patties (potato-based or similar)",
+      "portion_estimate": 40,
+      "confidence": 85
+    },
+    {
+      "name": "wrapped green vegetables (potentially kale, spinach, or cabbage)",
+      "portion_estimate": 50,
+      "confidence": 75
+    },
+    {
+      "name": "dairy product in a container (likely yogurt or cheese sauce)",
+      "portion_estimate": 150,
+      "confidence": 70
+    },
+    {
+      "name": "condiment packet (potentially gravy or oil-based seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water or beverage in plastic bottle (not entirely clear)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Baked Potato",
+      "portion_estimate": "237g (approx.)",
+      "confidence": "80"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Canned Beans with Tomato",
+      "portion_estimate": "153g (approx.)",
+      "confidence": "70"
+    },
+    {
+      "name": "Crab Cakes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

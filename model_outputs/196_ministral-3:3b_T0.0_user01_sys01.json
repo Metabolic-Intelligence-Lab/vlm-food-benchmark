@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "chicken or meat patty (grilled)",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "chickpeas (roasted or boiled)",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "orange (whole)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "soup (brown gravy-based)",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "granola bar (packaged)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water (glass)",
+      "portion_estimate": "200 milliliters",
+      "confidence": 85
+    }
+  ]
+}

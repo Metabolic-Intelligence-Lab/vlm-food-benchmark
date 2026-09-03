@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "200-300 grams",
+      "confidence": "65"
+    },
+    {
+      "name": "grilled chicken breast",
+      "portion_estimate": "150-200 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "150-200 grams",
+      "confidence": "60"
+    }
+  ]
+}

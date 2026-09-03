@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "uncertain",
+      "confidence": "65"
+    },
+    {
+      "name": "dip or sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    }
+  ]
+}

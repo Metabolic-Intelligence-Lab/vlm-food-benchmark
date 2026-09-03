@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green Soup",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Fried Food",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Pickled Vegetables",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "125",
+      "confidence": 90
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50",
+      "confidence": 85
+    }
+  ]
+}

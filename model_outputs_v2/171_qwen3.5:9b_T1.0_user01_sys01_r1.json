@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed dark leafy greens, likely spinach or collard greens",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Steamed green beans",
+      "portion_estimate": 120,
+      "confidence": 96
+    },
+    {
+      "name": "Poached egg on a slice of bread or flatbread with a dollop of butter",
+      "portion_estimate": 130,
+      "confidence": 92
+    },
+    {
+      "name": "Piece of dark brown rye or whole grain bread, partially wrapped",
+      "portion_estimate": 85,
+      "confidence": 88
+    },
+    {
+      "name": "Yellow spread packet (likely butter or margarine), labeled 'Cheat Kit'",
+      "portion_estimate": 60,
+      "confidence": 80
+    },
+    {
+      "name": "Single-serve yogurt cup with fruit compote and chocolate topping",
+      "portion_estimate": 135,
+      "confidence": 90
+    }
+  ]
+}

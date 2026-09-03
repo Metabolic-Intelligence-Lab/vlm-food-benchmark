@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "sauteed spinach",
+      "portion_estimate": "120",
+      "confidence": "75"
+    },
+    {
+      "name": "boiled green beans",
+      "portion_estimate": "130",
+      "confidence": "80"
+    },
+    {
+      "name": "flaked white fish fillet with lemon wedge",
+      "portion_estimate": "100",
+      "confidence": "55"
+    },
+    {
+      "name": "sliced bread (wrapped)",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "individual cheese or dairy portion cup",
+      "portion_estimate": "30",
+      "confidence": "50"
+    },
+    {
+      "name": "uncertain wrapped snack item",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

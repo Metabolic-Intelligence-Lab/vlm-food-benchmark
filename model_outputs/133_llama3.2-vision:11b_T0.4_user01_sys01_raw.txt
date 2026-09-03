@@ -1,0 +1,9 @@
+Here is the food image in a structured format:
+
+{ "food_items": [
+  {
+    "name": "Steamed Dumplings",
+    "portion_estimate": "100-150g",
+    "confidence": "80"
+  }
+] }

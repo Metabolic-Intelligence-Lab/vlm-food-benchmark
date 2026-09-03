@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta dish (lasagna or similar)",
+      "portion_estimate": "200-250 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50-70 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "potato and vegetable medley (potatoes, spinach, tomatoes)",
+      "portion_estimate": "150-200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "breaded meat (likely chicken or pork cutlet)",
+      "portion_estimate": "100-120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "tomato-based dessert or fruit cup (small container)",
+      "portion_estimate": "50-70 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "200-250 ml",
+      "confidence": "90"
+    }
+  ]
+}

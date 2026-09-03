@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken with curry powder",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain, approx. 70-80g",
+      "confidence": "60"
+    },
+    {
+      "name": "baked chicken leg with breadcrumbs",
+      "portion_estimate": "uncertain, approx. 125g",
+      "confidence": "60"
+    },
+    {
+      "name": "soup (possibly lentil)",
+      "portion_estimate": "uncertain, approx. 300-400g",
+      "confidence": "60"
+    },
+    {
+      "name": "yogurt with honey",
+      "portion_estimate": "uncertain, approx. 125g",
+      "confidence": "60"
+    }
+  ]
+}

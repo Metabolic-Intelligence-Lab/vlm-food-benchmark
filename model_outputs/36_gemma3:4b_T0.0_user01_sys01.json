@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with Tomato Sauce",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "Sliced Red Cabbage",
+      "portion_estimate": "80",
+      "confidence": 70
+    },
+    {
+      "name": "Falafel",
+      "portion_estimate": "60",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rigatoni pasta",
+      "portion_estimate": "180 g",
+      "confidence": "90"
+    },
+    {
+      "name": "tomato pieces",
+      "portion_estimate": "90 g",
+      "confidence": "85"
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "35 g",
+      "confidence": "90"
+    },
+    {
+      "name": "flaked tuna",
+      "portion_estimate": "60 g",
+      "confidence": "75"
+    },
+    {
+      "name": "fresh mozzarella or white cheese pieces",
+      "portion_estimate": "70 g",
+      "confidence": "65"
+    },
+    {
+      "name": "water in cup",
+      "portion_estimate": "250 g",
+      "confidence": "70"
+    },
+    {
+      "name": "packaged sliced bread",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

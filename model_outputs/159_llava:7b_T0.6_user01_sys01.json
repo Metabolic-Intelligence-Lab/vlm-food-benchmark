@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Broccoli casserole",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Breaded meat with sauce",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed salad",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "Lemon wedge",
+      "portion_estimate": "1 slice",
+      "confidence": "85"
+    }
+  ]
+}

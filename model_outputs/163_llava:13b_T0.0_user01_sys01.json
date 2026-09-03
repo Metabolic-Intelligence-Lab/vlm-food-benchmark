@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup or chili",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "small container (condiment/ingredient)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "slices of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "dosa or flatbread",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "green chutney",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sambar or lentil-based dish",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Indian vegetable curry or mixed vegetables in a sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta shells with beans (pasta e fagioli style) topped with grated cheese",
+      "portion_estimate": "320 g",
+      "confidence": "72"
+    },
+    {
+      "name": "grated cheese topping (likely parmesan)",
+      "portion_estimate": "10 g",
+      "confidence": "60"
+    },
+    {
+      "name": "slice of cheese quiche or savory egg pie",
+      "portion_estimate": "140 g",
+      "confidence": "68"
+    },
+    {
+      "name": "diced cooked zucchini (and mixed vegetables)",
+      "portion_estimate": "160 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll (in plastic wrap)",
+      "portion_estimate": "60 g",
+      "confidence": "70"
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "170 g",
+      "confidence": "80"
+    },
+    {
+      "name": "water (in clear cup)",
+      "portion_estimate": "250 g",
+      "confidence": "75"
+    }
+  ]
+}

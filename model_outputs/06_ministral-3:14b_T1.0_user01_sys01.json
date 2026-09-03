@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with cheese sauce (likely buttered and/or cream-based)",
+      "portion_estimate": "350",
+      "confidence": "85"
+    },
+    {
+      "name": "fried egg (sunny-side up)",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded and pan-fried chicken cutlet (possibly schnitzel-style)",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed or saut\u00e9ed mixed vegetables (e.g., zucchini, green beans)",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "plastic container of whipped dairy product (e.g., whipped cream or yogurt-like dessert)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "baguette-style bread (partially wrapped in plastic)",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    },
+    {
+      "name": "compostable coffee pods wrapper (non-edible)",
+      "portion_estimate": "0",
+      "confidence": "0"
+    },
+    {
+      "name": "silverware (spoon, fork, knife)",
+      "portion_estimate": "0",
+      "confidence": "0"
+    }
+  ]
+}

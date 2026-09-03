@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Lentil soup with cheese",
+      "portion_estimate": 400,
+      "confidence": 95
+    },
+    {
+      "name": "Steamed peas and carrots",
+      "portion_estimate": 200,
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt cup (Somo brand)",
+      "portion_estimate": 130,
+      "confidence": 90
+    },
+    {
+      "name": "Bread rolls",
+      "portion_estimate": 150,
+      "confidence": 85
+    }
+  ]
+}

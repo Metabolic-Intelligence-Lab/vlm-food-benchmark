@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of rice with oil",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "bowl of chickpeas",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "bowl of fish with sauce",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled salmon fillet",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Macaroni pasta with butter and herbs",
+      "portion_estimate": 180,
+      "confidence": 92
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": 140,
+      "confidence": 90
+    },
+    {
+      "name": "Fresh plums (3)",
+      "portion_estimate": 85,
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": 45,
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+The problem requires identifying the portion sizes and confidence levels for each distinct food item in the list. After analyzing the context and the instruction to "place the final answer in \boxed{}" with the unit specified as grams, the total portion size of all items is calculated.
+
+- **Dinner roll**: 50 g  
+- **Vegetable soup**: 200 g  
+- **Savory pie**: 100 g  
+- **Brussels sprouts**: 150 g  
+- **Carrots**: 50 g  
+- **Apples**: 300 g  
+
+**Total portion size**:  
+$$
+50 + 200 + 100 + 150 + 50 + 300 = 850 \text{ grams}
+$$
+
+The final answer, as specified by the instruction to box the unit (grams), is the total portion size.
+
+\boxed{850}

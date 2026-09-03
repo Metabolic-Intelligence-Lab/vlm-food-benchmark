@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "30g - 100g",
+      "confidence": "60"
+    },
+    {
+      "name": "serving of carrots",
+      "portion_estimate": "20g - 40g",
+      "confidence": "50"
+    },
+    {
+      "name": "meat and vegetable patty with tomatoes and peppers",
+      "portion_estimate": "50g - 80g",
+      "confidence": "60"
+    }
+  ]
+}

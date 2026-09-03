@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "baked salmon",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "roasted carrots",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "garlic",
+      "portion_estimate": "10g",
+      "confidence": "75"
+    }
+  ]
+}

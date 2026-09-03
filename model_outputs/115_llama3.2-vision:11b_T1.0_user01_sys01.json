@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Parmesan",
+      "portion_estimate": "150-200g",
+      "confidence": 80
+    },
+    {
+      "name": "Meatballs in Tomato Sauce",
+      "portion_estimate": "100-120g (4-6 meatballs)",
+      "confidence": 85
+    },
+    {
+      "name": "Mixed Green Salad",
+      "portion_estimate": "100-120g",
+      "confidence": 80
+    },
+    {
+      "name": "Grapes",
+      "portion_estimate": "100-120g (10-12 grapes)",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "100-120g (one slice)",
+      "confidence": 85
+    }
+  ]
+}

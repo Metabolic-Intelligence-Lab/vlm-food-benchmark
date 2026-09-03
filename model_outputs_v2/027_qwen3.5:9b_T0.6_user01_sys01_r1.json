@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Sliced meatloaf or similar roast with brown gravy and parsley garnish",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "Penne pasta served in a red sauce (likely marinara) with grated parmesan cheese on top",
+      "portion_estimate": 200,
+      "confidence": 90
+    },
+    {
+      "name": "Steamed or saut\u00e9ed spinach leaves",
+      "portion_estimate": 60,
+      "confidence": 88
+    },
+    {
+      "name": "Plain drinking water in a clear plastic cup",
+      "portion_estimate": 240,
+      "confidence": 95
+    },
+    {
+      "name": "Whole wheat roll or bread bun in clear plastic packaging",
+      "portion_estimate": 60,
+      "confidence": 80
+    },
+    {
+      "name": "Yoplait yogurt cup (small single-serving container)",
+      "portion_estimate": 125,
+      "confidence": 92
+    }
+  ]
+}

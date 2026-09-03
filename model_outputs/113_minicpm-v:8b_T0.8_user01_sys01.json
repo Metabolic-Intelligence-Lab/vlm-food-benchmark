@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain - approx 100g per serving for sandwich bread",
+      "confidence": "50"
+    },
+    {
+      "name": "soup with crumbled cheese on top",
+      "portion_estimate": "uncertain, possibly a cup each",
+      "confidence": "60"
+    },
+    {
+      "name": "brussel sprouts and carrots in green sauce",
+      "portion_estimate": "uncertain - approx 150g per serving for veggies mix",
+      "confidence": "70"
+    },
+    {
+      "name": "red potatoes",
+      "portion_estimate": "uncertain, possibly a cup each",
+      "confidence": "60"
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "approx 150g",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green leafy salad",
+      "portion_estimate": "approximately 60g",
+      "confidence": "70"
+    },
+    {
+      "name": "grated carrots with dressing",
+      "portion_estimate": "approximately 50g",
+      "confidence": "80"
+    },
+    {
+      "name": "sandwich roll",
+      "portion_estimate": "approximately 70g",
+      "confidence": "50"
+    },
+    {
+      "name": "plate of vegetables (kale)",
+      "portion_estimate": "approximately 60g",
+      "confidence": "80"
+    }
+  ]
+}

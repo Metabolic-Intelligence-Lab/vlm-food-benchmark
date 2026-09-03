@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Dal (lentil-based curry)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Creamy soup or stew (chowder or curry)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Indian bread (roti or naan)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Mixed vegetable fritters",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Raita (yogurt-based condiment)",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

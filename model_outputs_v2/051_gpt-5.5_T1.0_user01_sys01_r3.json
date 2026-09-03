@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked white and yellow rice",
+      "portion_estimate": "220 g",
+      "confidence": "85"
+    },
+    {
+      "name": "brown curry or gravy sauce",
+      "portion_estimate": "50 g",
+      "confidence": "70"
+    },
+    {
+      "name": "uncertain cooked chunks, possibly potato or chicken",
+      "portion_estimate": "80 g",
+      "confidence": "50"
+    },
+    {
+      "name": "uncertain shredded cooked vegetables, possibly cabbage and carrot",
+      "portion_estimate": "40 g",
+      "confidence": "55"
+    }
+  ]
+}

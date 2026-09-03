@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "herbed chicken/fish slices",
+      "portion_estimate": "160g",
+      "confidence": "90"
+    },
+    {
+      "name": "potato and mixed vegetable salad",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "spiced meat or shrimp dish",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70g",
+      "confidence": "95"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250g",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "mashed potatoes with meat",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "grilled potatoes with chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cupcake",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

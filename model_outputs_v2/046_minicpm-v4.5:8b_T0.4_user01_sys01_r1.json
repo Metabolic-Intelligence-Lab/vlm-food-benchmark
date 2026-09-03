@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bun",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "green vegetable soup (likely spinach/vegetable soup with cheese garnish)",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    },
+    {
+      "name": "two cornmeal patties with small amount of saut\u00e9ed onions",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "shredded cabbage salad with sauce",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "frozen berry yogurt (Yomo brand, 125g)",
+      "portion_estimate": "125g",
+      "confidence": "95"
+    }
+  ]
+}

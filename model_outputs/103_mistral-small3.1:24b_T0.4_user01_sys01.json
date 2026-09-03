@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "roasted broccoli",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "roasted pork",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "pumpkin soup",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "grated cheese",
+      "portion_estimate": "10",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": 90
+    }
+  ]
+}

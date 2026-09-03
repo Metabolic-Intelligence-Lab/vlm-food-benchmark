@@ -1,0 +1,22 @@
+The image provided shows a bowl of pasta in a glass container with some herbs sprinkled on top, which appears to be a dish known as ravioli alla genovese or a similar pasta with basil leaves. In addition, there is a clear plastic container containing the same dish, along with another bowl with what seems like breaded chicken or fish fillets and some garnish.
+
+Based on the provided image and constraints, here is the JSON output:
+
+```json
+{
+  "food_items": [
+    {
+      "name": "Ravioli alla genovese (herbed pasta)",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Breaded fish or chicken fillets with herbs",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    }
+  ]
+}
+```
+
+The confidence levels are estimates and based on the clear visibility of the food items. The ravioli is clearly visible, which is why it has a higher confidence level, while the exact nature of the breaded item is uncertain, leading to a lower confidence level. Please note that for accurate nutrition information, more detailed visuals or descriptions would be necessary, especially regarding the fillings and coating of the breaded fillets.

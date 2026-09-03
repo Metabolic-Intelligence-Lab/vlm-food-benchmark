@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with Parmesan",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "lentil stew",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "small baked potato balls (mashed potato patties)",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "small grilled eggplant or mushroom topping",
+      "portion_estimate": "30",
+      "confidence": 85
+    },
+    {
+      "name": "plastic-wrapped orange-yellow fruit (likely a sweet potato or butternut squash)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "green fruit with brown stem (likely a pear)",
+      "portion_estimate": "150",
+      "confidence": 85
+    }
+  ]
+}

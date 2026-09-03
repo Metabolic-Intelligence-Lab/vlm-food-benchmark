@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "broccoli florets",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "vegetables combined",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

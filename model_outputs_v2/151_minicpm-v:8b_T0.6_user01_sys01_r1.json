@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Brussel sprouts with carrots",
+      "portion_estimate": "uncertain, approx 100g",
+      "confidence": "50"
+    },
+    {
+      "name": "Omelet with vegetables (likely bell pepper and carrot)",
+      "portion_estimate": "uncertain, approx 200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta dish with mushrooms and possibly cheese or cream sauce",
+      "portion_estimate": "uncertain, approx 150-200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Dark chocolate-covered pretzels",
+      "portion_estimate": "uncertain, approx 30g",
+      "confidence": "60"
+    },
+    {
+      "name": "White bread or baguette slice",
+      "portion_estimate": "uncertain, approx 50-100g",
+      "confidence": "70"
+    }
+  ]
+}

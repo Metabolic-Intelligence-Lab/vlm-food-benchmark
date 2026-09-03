@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "spinach/vegetable soup (minestrone-style) with grated cheese",
+      "portion_estimate": "420 g",
+      "confidence": "72"
+    },
+    {
+      "name": "grated Parmesan-style cheese (on soup)",
+      "portion_estimate": "15 g",
+      "confidence": "68"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "78"
+    },
+    {
+      "name": "breaded patties/cutlets (likely vegetable or meat), 2 pieces",
+      "portion_estimate": "180 g",
+      "confidence": "55"
+    },
+    {
+      "name": "cooked red cabbage (small serving)",
+      "portion_estimate": "30 g",
+      "confidence": "60"
+    },
+    {
+      "name": "shredded green salad (cabbage/lettuce) with light dressing",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "strawberry yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "90"
+    }
+  ]
+}

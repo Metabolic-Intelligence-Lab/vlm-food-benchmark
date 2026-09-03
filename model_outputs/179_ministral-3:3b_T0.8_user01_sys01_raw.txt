@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fried noodles with vegetables (likely carrots, celery)",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "whole lemon",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "tuna salad with bread (onion, possibly some mixed greens)",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "small baguette (or bread roll) wrapped in plastic",
+      "portion_estimate": 80,
+      "confidence": 70
+    },
+    {
+      "name": "broccoli florets",
+      "portion_estimate": 50,
+      "confidence": 80
+    },
+    {
+      "name": "plastic bag with unspecified contents (possibly leftovers or greens)",
+      "portion_estimate": uncertain,
+      "confidence": 60
+    },
+    {
+      "name": "yellow plastic bag (Starbucks branding, no contents visible)",
+      "portion_estimate": uncertain,
+      "confidence": 40
+    }
+  ]
+}

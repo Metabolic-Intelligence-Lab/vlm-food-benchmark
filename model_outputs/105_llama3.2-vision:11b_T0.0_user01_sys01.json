@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Lettuce",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Radicchio",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Cooked chicken or turkey",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

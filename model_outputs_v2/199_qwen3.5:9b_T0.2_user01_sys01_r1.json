@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green pesto pasta (penne) with grated cheese",
+      "portion_estimate": 250,
+      "confidence": 90
+    },
+    {
+      "name": "Baked potato or sweet potato topped with a creamy sauce and herbs",
+      "portion_estimate": 180,
+      "confidence": 85
+    },
+    {
+      "name": "Green peas mixed with ham or bacon bits",
+      "portion_estimate": 120,
+      "confidence": 90
+    },
+    {
+      "name": "Dinner roll or bread bun (in plastic packaging)",
+      "portion_estimate": 60,
+      "confidence": 85
+    },
+    {
+      "name": "Yogurt cup (brand visible: Polpina)",
+      "portion_estimate": 125,
+      "confidence": 75
+    }
+  ]
+}

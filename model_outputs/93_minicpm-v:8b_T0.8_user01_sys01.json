@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Chickpeas with a piece of garlic bread",
+      "portion_estimate": "uncertain, approx. 20g chickpeas and half slice of bread",
+      "confidence": "50"
+    },
+    {
+      "name": "Cooked chicken breast with lemon wedge",
+      "portion_estimate": "approx. 148g cooked chicken (unbaked)",
+      "confidence": "75"
+    },
+    {
+      "name": "Yogurt and a brown bread roll",
+      "portion_estimate": "uncertain, approx. 60-90g yogurt and half of the roll",
+      "confidence": "40"
+    },
+    {
+      "name": "Pasta with vegetables (likely carrot and possibly red bell pepper)",
+      "portion_estimate": "approx. 150g cooked pasta mix",
+      "confidence": "80"
+    }
+  ]
+}

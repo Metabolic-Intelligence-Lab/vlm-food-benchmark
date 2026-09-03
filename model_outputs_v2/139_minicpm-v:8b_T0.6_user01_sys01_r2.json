@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "potato croquettes",
+      "portion_estimate": "uncertain, approx. weight in grams based on size and portion shape",
+      "confidence": "50"
+    },
+    {
+      "name": "baked beans with carrots",
+      "portion_estimate": "uncertain, approx. weight in grams based on size and portion shape",
+      "confidence": "40"
+    },
+    {
+      "name": "garlic bread roll",
+      "portion_estimate": "uncertain, approx. weight in grams based on size and portion shape",
+      "confidence": "50"
+    },
+    {
+      "name": "hamburger bun with burger patty",
+      "portion_estimate": "uncertain, approx. weight in grams based on size and portion shape",
+      "confidence": "60"
+    },
+    {
+      "name": "peanut butter jar (not visible)",
+      "portion_estimate": "uncertain, approx. weight in grams based on size and portion shape",
+      "confidence": "45"
+    }
+  ]
+}

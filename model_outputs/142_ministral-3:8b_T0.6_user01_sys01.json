@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes or polenta-like dish",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "white beans with lemon and herbs",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "grilled fish fillet (likely cod or similar white fish)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole grain or sourdough bread slice",
+      "portion_estimate": "50 grams",
+      "confidence": 75
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

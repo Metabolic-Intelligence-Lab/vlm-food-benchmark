@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with red sauce",
+      "portion_estimate": 250,
+      "confidence": 90
+    },
+    {
+      "name": "Diced potatoes (possibly home fries)",
+      "portion_estimate": 180,
+      "confidence": 85
+    },
+    {
+      "name": "Burger patty with shredded toppings",
+      "portion_estimate": 200,
+      "confidence": 80
+    },
+    {
+      "name": "Bun wrapped in plastic (partially visible)",
+      "portion_estimate": 60,
+      "confidence": 75
+    },
+    {
+      "name": "Water (in glass)",
+      "portion_estimate": 180,
+      "confidence": 95
+    }
+  ]
+}

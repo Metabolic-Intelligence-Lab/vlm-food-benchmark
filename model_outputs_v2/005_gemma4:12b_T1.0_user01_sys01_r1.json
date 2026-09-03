@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy yellow soup with cheese topping",
+      "portion_estimate": "450g",
+      "confidence": 95
+    },
+    {
+      "name": "Fried chicken nuggets",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "Roasted seasoned potato cubes",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "Wrapped piece of bread or cracker",
+      "portion_estimate": "40g",
+      "confidence": 85
+    },
+    {
+      "name": "Small condiment packet",
+      "portion_estimate": "15g",
+      "confidence": 85
+    }
+  ]
+}

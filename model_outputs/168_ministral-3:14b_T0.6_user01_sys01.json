@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "shell pasta (e.g., shells or jumbo shells)",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "diced carrots",
+      "portion_estimate": "60g",
+      "confidence": 85
+    },
+    {
+      "name": "diced broccoli florets",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "ground beef or crumbled sausage",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "light cream or cheese sauce (uncertain specific type)",
+      "portion_estimate": "50g",
+      "confidence": 70
+    }
+  ]
+}

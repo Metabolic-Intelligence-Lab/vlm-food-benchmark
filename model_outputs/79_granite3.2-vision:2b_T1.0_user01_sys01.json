@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Lobster Roll",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Fruit Bowl (grapes and plums)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Croutons or Chips",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Vegetable Sticks",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Cheese Slice",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Meat Slices",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Sauce Droplets",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

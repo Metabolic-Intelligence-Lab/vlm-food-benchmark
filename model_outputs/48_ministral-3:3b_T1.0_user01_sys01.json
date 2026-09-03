@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "lightly fried or breaded penne pasta",
+      "portion_estimate": "130",
+      "confidence": 90
+    },
+    {
+      "name": "soup with chunks (possible chicken or vegetable-based)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "green chili or guacamole dip (with shredded chicken or tofu)",
+      "portion_estimate": "40",
+      "confidence": 90
+    },
+    {
+      "name": "potato wedges/fries (fried or roasted)",
+      "portion_estimate": "140",
+      "confidence": 95
+    },
+    {
+      "name": "cold beverage container (likely milk or drink mix) from the cup beside sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "brown soft bun, possibly bread roll or sandwich bun",
+      "portion_estimate": "50",
+      "confidence": 95
+    }
+  ]
+}

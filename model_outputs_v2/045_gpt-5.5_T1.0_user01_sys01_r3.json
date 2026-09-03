@@ -1,0 +1,54 @@
+{
+  "food_items": [
+    {
+      "name": "uncertain fried breaded cutlet or patty",
+      "portion_estimate": "approximately 120 grams",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll in packaging",
+      "portion_estimate": "approximately 60 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "approximately 125 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "shredded carrot salad",
+      "portion_estimate": "approximately 80 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed salad vegetables under carrots",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "approximately 60 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "uncertain white cheese or tofu slice",
+      "portion_estimate": "approximately 45 grams",
+      "confidence": "55"
+    },
+    {
+      "name": "sweet corn kernels",
+      "portion_estimate": "approximately 15 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "ketchup or tomato sauce",
+      "portion_estimate": "approximately 15 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "partial pasta dish with vegetables",
+      "portion_estimate": "approximately 80 grams visible",
+      "confidence": "65"
+    }
+  ]
+}

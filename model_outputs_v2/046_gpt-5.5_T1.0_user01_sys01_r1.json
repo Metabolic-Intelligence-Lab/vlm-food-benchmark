@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "leafy vegetable soup or stew",
+      "portion_estimate": "300 grams",
+      "confidence": "78"
+    },
+    {
+      "name": "grated hard cheese topping",
+      "portion_estimate": "10 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125 grams",
+      "confidence": "92"
+    },
+    {
+      "name": "lettuce salad with light dressing",
+      "portion_estimate": "80 grams",
+      "confidence": "88"
+    },
+    {
+      "name": "vegetable patties or croquettes",
+      "portion_estimate": "100 grams",
+      "confidence": "55"
+    },
+    {
+      "name": "cooked red cabbage garnish",
+      "portion_estimate": "15 grams",
+      "confidence": "70"
+    }
+  ]
+}

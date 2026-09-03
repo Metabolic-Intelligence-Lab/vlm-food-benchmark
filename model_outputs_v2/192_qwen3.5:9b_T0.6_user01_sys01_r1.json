@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (rigatoni) in red sauce",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Breaded meat cutlet (likely schnitzel or similar)",
+      "portion_estimate": 140,
+      "confidence": 90
+    },
+    {
+      "name": "Steamed cooked greens (spinach or kale)",
+      "portion_estimate": 80,
+      "confidence": 92
+    }
+  ]
+}

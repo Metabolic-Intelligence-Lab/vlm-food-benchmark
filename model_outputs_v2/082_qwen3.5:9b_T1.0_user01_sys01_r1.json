@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed green salad with radicchio in a white bowl",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "Rice-based casserole or pasta bake (likely macaroni) topped with sauce and cheese",
+      "portion_estimate": 350,
+      "confidence": 85
+    },
+    {
+      "name": "Seaweed snack (nori sheets)",
+      "portion_estimate": 45,
+      "confidence": 95
+    },
+    {
+      "name": "Baked bun or bread roll in clear packaging",
+      "portion_estimate": 80,
+      "confidence": 95
+    },
+    {
+      "name": "Drink in clear plastic cup (liquid contents obscured)",
+      "portion_estimate": 240,
+      "confidence": 60
+    },
+    {
+      "name": "Small yogurt container with red lid",
+      "portion_estimate": 150,
+      "confidence": 90
+    }
+  ]
+}

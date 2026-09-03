@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "rotini pasta",
+      "portion_estimate": "200 g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "75 g",
+      "confidence": 75
+    },
+    {
+      "name": "cooked spinach",
+      "portion_estimate": "120 g",
+      "confidence": 78
+    },
+    {
+      "name": "peaches",
+      "portion_estimate": "45 g",
+      "confidence": 80
+    }
+  ]
+}

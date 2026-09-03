@@ -1,0 +1,31 @@
+{
+  "food_items": [
+    {
+      "name": "Ravioli with tomato sauce",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "Breaded pork loin",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "Mashed potatoes with seasoning",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "Baked potato with chives",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "uncertain"
+    }
+  ]
+}
+```
+Please note that the image is a bit blurry, which affects the accuracy of the portion estimates and makes it difficult to provide exact weights. The "confidence" field has been set to "uncertain" as a resu

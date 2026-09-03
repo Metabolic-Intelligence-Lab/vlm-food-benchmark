@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Feta Cheese and Tomato Sandwich",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "Potato Chips",
+      "portion_estimate": "30",
+      "confidence": 80
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250",
+      "confidence": 95
+    }
+  ]
+}

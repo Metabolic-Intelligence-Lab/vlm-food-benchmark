@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "lentil or vegetable soup",
+      "portion_estimate": "400g",
+      "confidence": 90
+    },
+    {
+      "name": "diced cooked pumpkin",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "fresh apricots",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70g",
+      "confidence": 90
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "60g",
+      "confidence": 95
+    }
+  ]
+}

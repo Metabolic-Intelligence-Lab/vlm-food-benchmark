@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled white fish fillet (approx. 150g)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "mixed steamed vegetables (cucumber, broccoli, and potatoes)",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "mashed or roasted potatoes with sauce (likely sweet potato or butternut squash)",
+      "portion_estimate": "200",
+      "confidence": 75
+    },
+    {
+      "name": "whole wheat or multigrain roll",
+      "portion_estimate": "70",
+      "confidence": 70
+    },
+    {
+      "name": "unsweetened yogurt or dairy drink (in small carton)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "frittata with tomatoes, cheese, and egg",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "steamed green beans",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "penne pasta with grated cheese and herbs",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "whole pear",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "plain croissant (partially visible)",
+      "portion_estimate": "uncertain (approx. 30-50g)",
+      "confidence": 50
+    }
+  ]
+}

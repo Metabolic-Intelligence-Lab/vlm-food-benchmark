@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with tomato sauce and parmesan",
+      "portion_estimate": "180",
+      "confidence": "75"
+    },
+    {
+      "name": "small wrapped bread roll",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "YOHO brand yogurt",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "spinach-based dish with cheese and zucchini",
+      "portion_estimate": "80",
+      "confidence": "60"
+    },
+    {
+      "name": "boiled potatoes",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "80"
+    }
+  ]
+}

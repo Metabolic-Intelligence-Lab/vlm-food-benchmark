@@ -1,0 +1,28 @@
+{
+  "food_items": [
+    {
+      "name": "plate of meat",
+      "portion_estimate": "20g",
+      "confidence": "95"
+    },
+    {
+      "name": "plate of broccoli",
+      "portion_estimate": "40g",
+      "confidence": "95"
+    },
+    {
+      "name": "bowl of soup",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "plate of bread rolls",
+      "portion_estimate": "60g",
+      "confidence": "95"
+    }
+  ],
+  "tablecloth": {
+    "color": "beige",
+    "pattern": "green leaves"
+  }
+}

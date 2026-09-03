@@ -1,0 +1,20 @@
+{
+  "food_items": [
+    {
+      "name": "liquid in glass container (potentially green smoothie, broth, or sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "glass container (empty/partially filled, ~200 ml capacity estimated)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "soup spoon (metallic, likely stainless steel)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}
+*Note*: Only visible edible items were included, as the liquid is likely part of a recipe rather than a standalone food.

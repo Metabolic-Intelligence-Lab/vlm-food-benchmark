@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fusilli pasta with grated cheese (likely Parmesan) and a dollop of butter",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Whole grain slice of bread in plastic packaging",
+      "portion_estimate": 65,
+      "confidence": 90
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": 120,
+      "confidence": 92
+    },
+    {
+      "name": "Egg omelet (yellow/orange)",
+      "portion_estimate": 85,
+      "confidence": 85
+    },
+    {
+      "name": "Vegetable mix including broad beans (fava beans) and diced carrots",
+      "portion_estimate": 100,
+      "confidence": 80
+    }
+  ]
+}

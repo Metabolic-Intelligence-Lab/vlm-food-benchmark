@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta casserole",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed or saut\u00e9ed greens (e.g., spinach)",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "garden salad",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "dinner roll",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "fruit cup (yogurt)",
+      "portion_estimate": "120",
+      "confidence": "70"
+    }
+  ]
+}

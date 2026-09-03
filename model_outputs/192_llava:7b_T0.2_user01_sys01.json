@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken with green vegetables",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Green vegetables",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    }
+  ]
+}

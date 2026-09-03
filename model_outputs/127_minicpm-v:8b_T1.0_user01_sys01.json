@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Gnocchi",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Salad with mixed greens and tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "375-400 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "Peanut butter and jelly",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

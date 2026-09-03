@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "boiled white rice with grated cheese and olive oil",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "boiled carrots and potatoes mixture",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "vegetable medley (cauliflower, potatoes, carrots, spinach)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "50",
+      "confidence": 98
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "140",
+      "confidence": 98
+    }
+  ]
+}

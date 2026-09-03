@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green bell pepper pieces",
+      "portion_estimate": "90 g",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked brown mushrooms",
+      "portion_estimate": "70 g",
+      "confidence": "70"
+    },
+    {
+      "name": "uncertain brown sausage-like pieces",
+      "portion_estimate": "40 g",
+      "confidence": "45"
+    },
+    {
+      "name": "dark savory sauce or cooking liquid",
+      "portion_estimate": "20 g",
+      "confidence": "60"
+    }
+  ]
+}

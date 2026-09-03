@@ -1,0 +1,23 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "300g",
+      "confidence": "85%"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "200g",
+      "confidence": "70%"
+    },
+    {
+      "name": "potato salad",
+      "portion_estimate": "300g",
+      "confidence": "90%"
+    }
+  ],
+  "tray": {
+    "material": "metal",
+    "color": "white"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "red spaghetti noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "diced potatoes or mashed potatoes with sauce or seasoning",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "meat dish (possibly chicken or pork)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "whole chickpeas (hummus base)",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "chickpea-based hummus spread",
+      "portion_estimate": "40",
+      "confidence": 85
+    },
+    {
+      "name": "white grilled meat (likely chicken or fish)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "30",
+      "confidence": 70
+    },
+    {
+      "name": "whole wheat pita bread",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with meat sauce (likely bolognese or marinara)",
+      "portion_estimate": "150",
+      "confidence": 85
+    }
+  ]
+}

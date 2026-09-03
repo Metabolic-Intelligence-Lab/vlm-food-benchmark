@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked or grilled fish fillet (likely salmon or similar)",
+      "portion_estimate": "150-200g",
+      "confidence": 95
+    },
+    {
+      "name": "penne pasta with sauce (tomato or cream-based)",
+      "portion_estimate": "120g cooked",
+      "confidence": 92
+    },
+    {
+      "name": "mashed potatoes or cauliflower mash",
+      "portion_estimate": "100-120g",
+      "confidence": 85
+    },
+    {
+      "name": "packaged sausage or meatball (uncertain exact type, likely hot dog or meatball)",
+      "portion_estimate": "60-80g",
+      "confidence": 75
+    },
+    {
+      "name": "blueberries (blue plums)",
+      "portion_estimate": "50-60g (approx. 6-7 berries)",
+      "confidence": 80
+    }
+  ]
+}

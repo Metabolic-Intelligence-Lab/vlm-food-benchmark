@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "steamed spinach",
+      "portion_estimate": "uncertain, approximately green leafy vegetable",
+      "confidence": "50"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "approximate weight in grams not visible",
+      "confidence": "60"
+    },
+    {
+      "name": "scone or muffin with orange filling",
+      "portion_estimate": "uncertain, approximately 50g",
+      "confidence": "70"
+    },
+    {
+      "name": "additional scones/muffins in plastic bag",
+      "portion_estimate": "approximate weight not visible",
+      "confidence": "60"
+    }
+  ]
+}

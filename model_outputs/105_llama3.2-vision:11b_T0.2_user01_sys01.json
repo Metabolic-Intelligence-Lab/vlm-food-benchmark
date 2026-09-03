@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed Greens",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrot",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Red Cabbage",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Grilled Chicken",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

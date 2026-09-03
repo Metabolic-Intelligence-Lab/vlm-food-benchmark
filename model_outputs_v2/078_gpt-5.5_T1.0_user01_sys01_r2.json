@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "orange soup with grated cheese topping",
+      "portion_estimate": "approx 320 g",
+      "confidence": "75"
+    },
+    {
+      "name": "uncertain cooked orange vegetable cubes",
+      "portion_estimate": "approx 130 g",
+      "confidence": "55"
+    },
+    {
+      "name": "savory patty with melted yellow cheese",
+      "portion_estimate": "approx 120 g",
+      "confidence": "60"
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "approx 120 g",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "approx 80 g",
+      "confidence": "85"
+    },
+    {
+      "name": "butter packet",
+      "portion_estimate": "approx 10 g",
+      "confidence": "80"
+    }
+  ]
+}

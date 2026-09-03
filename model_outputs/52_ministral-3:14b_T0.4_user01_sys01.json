@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken breast (2 pieces)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta with tomato and vegetable sauce",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "shredded carrot salad",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "red cabbage salad",
+      "portion_estimate": "30g",
+      "confidence": 85
+    },
+    {
+      "name": "white cheese (e.g., mozzarella or similar)",
+      "portion_estimate": "30g",
+      "confidence": 75
+    },
+    {
+      "name": "whole grain bread (2 slices)",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "water (in clear plastic cup)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

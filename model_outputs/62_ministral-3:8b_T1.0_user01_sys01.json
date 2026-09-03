@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with tomato-based sauce",
+      "portion_estimate": "350g",
+      "confidence": 75
+    },
+    {
+      "name": "saut\u00e9ed kale with olive oil and likely garlic/onion sauce",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "small olive oil-infused polenta cake with honey/mustard glaze",
+      "portion_estimate": "70g",
+      "confidence": 65
+    },
+    {
+      "name": "packaged crackers (e.g., breadsticks)",
+      "portion_estimate": "100g",
+      "confidence": 60
+    },
+    {
+      "name": "unopened packet of soft cheese (e.g., cream cheese, spreadable)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "wine (white) in clear glass",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

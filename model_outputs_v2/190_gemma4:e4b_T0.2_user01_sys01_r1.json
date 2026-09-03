@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "breaded cutlet",
+      "portion_estimate": "120 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "cooked spinach",
+      "portion_estimate": "130 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "220 grams",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable-based soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "roasted or fried potatoes with meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

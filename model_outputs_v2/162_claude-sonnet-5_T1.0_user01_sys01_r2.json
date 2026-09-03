@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roasted broccoli and potato cubes",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "minestrone vegetable soup with grated cheese",
+      "portion_estimate": "350",
+      "confidence": "75"
+    },
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "70",
+      "confidence": "70"
+    },
+    {
+      "name": "focaccia with roasted potato topping",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "whole lemon",
+      "portion_estimate": "80",
+      "confidence": "65"
+    }
+  ]
+}

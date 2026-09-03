@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "Potato Pancake",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Butter",
+      "portion_estimate": "20g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    }
+  ]
+}

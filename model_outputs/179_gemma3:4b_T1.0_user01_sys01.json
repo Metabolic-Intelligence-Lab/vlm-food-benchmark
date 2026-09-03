@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Meat Sauce",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "Potato",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Green Vegetable",
+      "portion_estimate": "80",
+      "confidence": 60
+    }
+  ]
+}

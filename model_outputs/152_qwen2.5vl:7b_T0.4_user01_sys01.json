@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "omelette with vegetables",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "potato and carrot salad",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "pasta with mushrooms and cheese",
+      "portion_estimate": "120",
+      "confidence": "90"
+    }
+  ]
+}

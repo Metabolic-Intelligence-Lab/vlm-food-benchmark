@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60g",
+      "confidence": "90"
+    },
+    {
+      "name": "Tomato soup",
+      "portion_estimate": "220g",
+      "confidence": "90"
+    },
+    {
+      "name": "Omelette",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Diced potatoes",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Condiment",
+      "portion_estimate": "30g",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried potato wedges (chips) with sauce and grated cheese",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Breaded pork cutlet (schnitzel)",
+      "portion_estimate": 140,
+      "confidence": 92
+    },
+    {
+      "name": "Potato wedges",
+      "portion_estimate": 130,
+      "confidence": 95
+    },
+    {
+      "name": "White bread slice",
+      "portion_estimate": 40,
+      "confidence": 98
+    },
+    {
+      "name": "Yogurt (Omo brand)",
+      "portion_estimate": 125,
+      "confidence": 90
+    }
+  ]
+}

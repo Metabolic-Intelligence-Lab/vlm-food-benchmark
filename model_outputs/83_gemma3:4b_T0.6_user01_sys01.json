@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni Pasta",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Salad with Chicken",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "Yomo Yogurt",
+      "portion_estimate": "100g",
+      "confidence": 90
+    }
+  ]
+}

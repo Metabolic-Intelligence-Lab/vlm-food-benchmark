@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne with pesto",
+      "portion_estimate": "uncertain", 
+      "confidence": "40"
+    },
+    {
+      "name": "A piece of cheese on a baguette (possibly focaccia)",
+      "portion_estimate": "uncertain", 
+      "confidence": "50"
+    },
+    {
+      "name": "Brussel sprouts",
+      "portion_estimate": "uncertain", 
+      "confidence": "40"
+    },
+    {
+      "name": "Cheesecake or custard-like dessert on a plate",
+      "portion_estimate": "100g", 
+      "confidence": "95"
+    }
+  ],
+}

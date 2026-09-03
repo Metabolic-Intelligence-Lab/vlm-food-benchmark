@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "watermelon slice (with rind)",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "shredded carrots (or julienned carrots)",
+      "portion_estimate": "80 grams",
+      "confidence": 70
+    },
+    {
+      "name": "steamed or saut\u00e9ed spinach",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "tofu or breaded tofu piece",
+      "portion_estimate": "80 grams",
+      "confidence": 65
+    },
+    {
+      "name": "water (in transparent cup)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

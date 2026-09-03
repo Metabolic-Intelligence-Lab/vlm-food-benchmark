@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (likely fusilli or penne)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "mixed green salad with cucumber and red cabbage",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes or creamy potato dish",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt (Tandoori-flavored, in a small container)",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "plain roll or bun (wrapped in plastic)",
+      "portion_estimate": "60g",
+      "confidence": 80
+    }
+  ]
+}

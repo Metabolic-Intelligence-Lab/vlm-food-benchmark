@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked penne pasta (alfredo or butter sauce)",
+      "portion_estimate": "300g",
+      "confidence": 90
+    },
+    {
+      "name": "saut\u00e9ed green leafy vegetables (spinach or collard greens)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "breaded and fried fish fillet (likely cod or similar white fish)",
+      "portion_estimate": "120g",
+      "confidence": 88
+    },
+    {
+      "name": "whole wheat or crusty bread roll (partially wrapped in plastic)",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "cherry tomatoes (3 small)",
+      "portion_estimate": "60g",
+      "confidence": 95
+    }
+  ]
+}

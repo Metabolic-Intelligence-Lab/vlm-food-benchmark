@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "chicken meatball",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "mayonnaise",
+      "portion_estimate": "20",
+      "confidence": "65"
+    }
+  ]
+}

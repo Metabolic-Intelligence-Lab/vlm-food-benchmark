@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (raw, uncooked)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "tuna (canned, drained)",
+      "portion_estimate": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "red bell pepper slices",
+      "portion_estimate": "20g",
+      "confidence": 85
+    },
+    {
+      "name": "black olives (sliced)",
+      "portion_estimate": "30g",
+      "confidence": 90
+    },
+    {
+      "name": "white sauce or cheese topping (cream-based)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

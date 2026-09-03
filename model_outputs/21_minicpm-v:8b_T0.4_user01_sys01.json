@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled fish with crispy topping",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Green olives or capers",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Garlic green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried chicken nuggets or hash browns",
+      "portion_estimate": "15g-20g each piece, approximately 3 pieces in total",
+      "confidence": "80"
+    },
+    {
+      "name": "Macaroni and cheese with breadcrumbs",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Dark plums or prunes, approximately 2-3 pieces",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with peas and pesto",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "Fish pie with peas and bacon",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60",
+      "confidence": 80
+    }
+  ]
+}

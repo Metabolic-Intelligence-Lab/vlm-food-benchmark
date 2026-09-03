@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Baked Fish with Lemon Slices and Parsley",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt with Blueberry, Vanilla, and Chia Seeds",
+      "portion_estimate": "125g (approx)",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta Salad",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

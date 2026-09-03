@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "kale",
+      "portion_estimate": "30g",
+      "confidence": "85"
+    },
+    {
+      "name": "vegetable salad",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "raspberry",
+      "portion_estimate": "10g",
+      "confidence": "60"
+    }
+  ]
+}

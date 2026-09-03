@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "veggie patty with tomato and cheese",
+      "portion_estimate": "100 g",
+      "confidence": 80
+    },
+    {
+      "name": "cooked cauliflower or rice dish",
+      "portion_estimate": "170 g",
+      "confidence": 9
+    }
+  ]
+}

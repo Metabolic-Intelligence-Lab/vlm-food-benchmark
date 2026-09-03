@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "brown soup (lentils)",
+      "portion_estimate": "200 g",
+      "confidence": 95
+    },
+    {
+      "name": "vegetable patty with tomato and cheese",
+      "portion_estimate": "120 g",
+      "confidence": 80
+    },
+    {
+      "name": "cauliflower rice with black olives",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

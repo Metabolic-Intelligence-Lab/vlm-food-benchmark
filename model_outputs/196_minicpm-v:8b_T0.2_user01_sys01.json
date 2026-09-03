@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "meat slices with sauce",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "orange juice",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "sour cream",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "white bread roll (partially cut)",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "green vegetable soup with a slice of butter or cream",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "crispy fried potato or biscuit pieces",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "broccoli florets (on the plate)",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "meatballs or similar meat pieces (on the plate)",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "Olweus brand yogurt cup (150 ml serving)",
+      "portion_estimate": "150",
+      "confidence": 90
+    }
+  ]
+}

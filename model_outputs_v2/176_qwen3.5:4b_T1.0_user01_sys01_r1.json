@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Lentil soup with parmesan",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "Whole wheat toast",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "Pumpkin seed cracker with tomato and mozzarella",
+      "portion_estimate": "45",
+      "confidence": 85
+    },
+    {
+      "name": "Baked potato",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "90",
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried or baked potato wedges with seasoning",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "fried or breaded chicken cutlet with tartar sauce",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "diced potatoes (boiled or roasted)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll or dinner roll",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "sauce (likely tartar or similar) in small container",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "salt shaker (not food)",
+      "portion_estimate": "uncertain",
+      "confidence": 0
+    }
+  ]
+}

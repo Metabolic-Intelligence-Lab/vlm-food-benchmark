@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Potato Cubes Seasoned with Herbs and Garlic",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Breadstick (Top-right, partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Greek Yogurt with Red Berry",
+      "portion_estimate": "24g",
+      "confidence": "70"
+    }
+  ]
+}

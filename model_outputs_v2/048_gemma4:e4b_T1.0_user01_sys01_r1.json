@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Plain bread roll or bun",
+      "portion_estimate": "120 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "Fried crispy appetizers (e.g., crispy sticks or spring rolls)",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Seared or stuffed protein/starch dish with green garnish (Main plated item)",
+      "portion_estimate": "180 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Crispy fried potato chunks or croutons",
+      "portion_estimate": "130 grams",
+      "confidence": "90"
+    }
+  ]
+}

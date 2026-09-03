@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "shredded chicken",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "corn casserole",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "20",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit cup",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "pastries",
+      "portion_estimate": "30",
+      "confidence": "80"
+    }
+  ]
+}

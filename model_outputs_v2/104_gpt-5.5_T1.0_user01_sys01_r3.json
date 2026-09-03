@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "lentil or bean soup with grated cheese topping",
+      "portion_estimate": "approximately 350 g",
+      "confidence": "75"
+    },
+    {
+      "name": "green peas with sliced carrots",
+      "portion_estimate": "approximately 220 g",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "approximately 50 g",
+      "confidence": "85"
+    },
+    {
+      "name": "uncertain sealed yogurt or dessert cup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "uncertain packaged butter or spread",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

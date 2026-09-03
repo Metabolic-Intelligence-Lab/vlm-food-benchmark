@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with creamy sauce and grated cheese",
+      "portion_estimate": "120g",
+      "confidence": "100"
+    },
+    {
+      "name": "Sliced meat or fish (possibly chicken or salmon)",
+      "portion_estimate": "85g",
+      "confidence": "100"
+    },
+    {
+      "name": "Side salad with mixed greens, cherry tomatoes, and cucumber slices",
+      "portion_estimate": "30g",
+      "confidence": "100"
+    },
+    {
+      "name": "Slice of bread or a roll",
+      "portion_estimate": "30g",
+      "confidence": "100"
+    },
+    {
+      "name": "Fruit (possibly grapes or berries)",
+      "portion_estimate": "60g",
+      "confidence": "100"
+    }
+  ]
+}

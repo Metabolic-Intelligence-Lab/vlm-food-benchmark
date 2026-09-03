@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "flatbread with green topping",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "soup (likely tomato or vegetable)",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 80
+    }
+  ]
+}

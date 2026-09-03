@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked shell pasta (conchiglie) with grated cheese, likely Parmesan",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Side portion of cooked green lentils in sauce",
+      "portion_estimate": 160,
+      "confidence": 95
+    },
+    {
+      "name": "Two round dumplings (possibly rice flour or glutinous rice), possibly stuffed or topped with a mushroom slice",
+      "portion_estimate": 140,
+      "confidence": 85
+    },
+    {
+      "name": "Whole raw pear",
+      "portion_estimate": 180,
+      "confidence": 96
+    },
+    {
+      "name": "Wrapped bun or roll in plastic bag",
+      "portion_estimate": 100,
+      "confidence": 85
+    }
+  ]
+}

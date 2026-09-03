@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with creamy sauce",
+      "portion_estimate": "230 g",
+      "confidence": "68"
+    },
+    {
+      "name": "baked chicken breast (glazed/sauced)",
+      "portion_estimate": "160 g",
+      "confidence": "62"
+    },
+    {
+      "name": "diced cooked carrots",
+      "portion_estimate": "80 g",
+      "confidence": "70"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Spiridula dairy dessert cup (uncertain type, possibly yogurt/pudding)",
+      "portion_estimate": "100 g",
+      "confidence": "55"
+    }
+  ]
+}

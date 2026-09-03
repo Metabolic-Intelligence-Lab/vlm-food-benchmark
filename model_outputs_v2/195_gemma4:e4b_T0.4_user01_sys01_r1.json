@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Saut\u00e9ed brown chunks (e.g., caramelized meat or mushrooms)",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "Cubed yellow starch or vegetable (e.g., potato or squash cubes)",
+      "portion_estimate": "130g",
+      "confidence": "75"
+    },
+    {
+      "name": "Reddish-brown crumbs (e.g., spiced breadcrumbs or ground nuts)",
+      "portion_estimate": "90g",
+      "confidence": "80"
+    },
+    {
+      "name": "White seasoning powder (e.g., salt or spice blend)",
+      "portion_estimate": "20g",
+      "confidence": "90"
+    }
+  ]
+}

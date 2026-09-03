@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup (likely broth-based with solids)",
+      "portion_estimate": "uncertain (likely ~300-400g)",
+      "confidence": 55
+    },
+    {
+      "name": "sauce or condiment in small bowl (orange-red color)",
+      "portion_estimate": "uncertain (~50g)",
+      "confidence": 60
+    },
+    {
+      "name": "mixed saut\u00e9ed greens and vegetables (e.g., spinach, broccoli, or cabbage)",
+      "portion_estimate": "uncertain (~150g)",
+      "confidence": 65
+    },
+    {
+      "name": "condiment packet labeled 'Catchup' (likely ketchup)",
+      "portion_estimate": "uncertain (~15g)",
+      "confidence": 95
+    },
+    {
+      "name": "condiment packet labeled 'Bio Pro' (likely mustard or similar)",
+      "portion_estimate": "uncertain (~10g)",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried breaded cutlet (e.g., chicken or fish)",
+      "portion_estimate": "140",
+      "confidence": "95"
+    },
+    {
+      "name": "Shredded orange vegetable strands (e.g., carrots or noodles)",
+      "portion_estimate": "90",
+      "confidence": "90"
+    },
+    {
+      "name": "White base (rice or bread) on plate",
+      "portion_estimate": "80",
+      "confidence": "85"
+    },
+    {
+      "name": "Yellow and red relish/topping",
+      "portion_estimate": "30",
+      "confidence": "85"
+    },
+    {
+      "name": "Green beans or asparagus spears",
+      "portion_estimate": "50",
+      "confidence": "90"
+    }
+  ]
+}

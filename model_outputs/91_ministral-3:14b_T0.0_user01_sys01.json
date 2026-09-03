@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "chicken soup with vegetables and meatballs",
+      "portion_estimate": "500",
+      "confidence": 85
+    },
+    {
+      "name": "grilled or baked chicken breast strips",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or saut\u00e9ed leafy greens (e.g., kale or spinach)",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat or seeded roll/bun",
+      "portion_estimate": "80",
+      "confidence": 75
+    },
+    {
+      "name": "tomato-based sauce or condiment (e.g., ketchup or tomato sauce)",
+      "portion_estimate": "30",
+      "confidence": 70
+    },
+    {
+      "name": "water in a clear glass",
+      "portion_estimate": "250",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "breaded eggplant patty with onions",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "salad made from leafy greens",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "oranges (juice or zest)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

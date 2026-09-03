@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "pasta (fusilli)",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "braised beef with vegetables (carrots, green beans)",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "80",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "65"
+    }
+  ]
+}

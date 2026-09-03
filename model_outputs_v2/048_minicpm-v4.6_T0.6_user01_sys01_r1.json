@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole bun or bread roll",
+      "portion_estimate": "120-150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "penne pasta with red sauce",
+      "portion_estimate": "250-300 grams",
+      "confidence": 98
+    },
+    {
+      "name": "yogurt or spread",
+      "portion_estimate": "125 grams",
+      "confidence": 95
+    },
+    {
+      "name": "diced potatoes",
+      "portion_estimate": "180 grams",
+      "confidence": 95
+    },
+    {
+      "name": "baked eggplant or stuffed veggie with cheese",
+      "portion_estimate": "100-150 grams",
+      "confidence": 85
+    }
+  ]
+}

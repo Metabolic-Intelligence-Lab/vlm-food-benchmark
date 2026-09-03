@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "stewed cabbage or braised leek/onion mix",
+      "portion_estimate": "120",
+      "confidence": "55"
+    },
+    {
+      "name": "roasted or stewed pumpkin (zucca)",
+      "portion_estimate": "180",
+      "confidence": "65"
+    },
+    {
+      "name": "rice balls or savory dumplings with seed topping",
+      "portion_estimate": "80",
+      "confidence": "50"
+    },
+    {
+      "name": "dark round bread roll",
+      "portion_estimate": "60",
+      "confidence": "55"
+    },
+    {
+      "name": "plain white bread roll (wrapped)",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "drinking glass, uncertain if containing water",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

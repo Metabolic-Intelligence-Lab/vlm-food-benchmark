@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "thick vegetable soup (green/brown, possibly pea/lentil) with grated cheese on top",
+      "portion_estimate": "320 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll (small round bun)",
+      "portion_estimate": "60 g",
+      "confidence": "75"
+    },
+    {
+      "name": "beef or mixed-meat patty with shredded zucchini/vegetable topping",
+      "portion_estimate": "110 g",
+      "confidence": "65"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "180 g",
+      "confidence": "80"
+    },
+    {
+      "name": "vanilla dairy dessert cup/pudding (packaged)",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    },
+    {
+      "name": "string cheese stick (packaged)",
+      "portion_estimate": "28 g",
+      "confidence": "85"
+    }
+  ]
+}

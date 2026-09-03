@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fettuccine pasta with tomato-based sauce (likely arrabbiata or marinara)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "grilled or baked cheese-stuffed pasta roll (e.g., ravioli or tortellini) with spinach",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed kale or Swiss chard (green leafy vegetable)",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "fresh green salad (mixed greens, cucumber, and possibly radish or tomato)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "baked or grilled bread roll",
+      "portion_estimate": "70g",
+      "confidence": 70
+    },
+    {
+      "name": "water (in a glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "yogurt or dairy dessert container (partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mozzarella and tomato salad with anchovy and lettuce",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "150",
+      "confidence": 82
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": 78
+    },
+    {
+      "name": "yogurt cup (Yomo)",
+      "portion_estimate": "125",
+      "confidence": 85
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with green pesto sauce (penne)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "green peas (fresh)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "baked potato (whole)",
+      "portion_estimate": "uncertain (likely ~200-250 grams)",
+      "confidence": 70
+    },
+    {
+      "name": "cheese-topped baked potato (small portion)",
+      "portion_estimate": "uncertain (likely ~50-70 grams)",
+      "confidence": 65
+    }
+  ]
+}

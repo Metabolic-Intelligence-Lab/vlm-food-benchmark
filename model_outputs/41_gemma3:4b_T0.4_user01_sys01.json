@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni and Cheese",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "Egg with Cucumber",
+      "portion_estimate": "60g",
+      "confidence": 70
+    },
+    {
+      "name": "Hard-Boiled Egg",
+      "portion_estimate": "50g",
+      "confidence": 80
+    }
+  ]
+}

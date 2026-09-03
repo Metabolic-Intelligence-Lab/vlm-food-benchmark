@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with parmesan",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "green vegetable salad",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

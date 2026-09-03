@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Salad (lettuce and shredded carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Tzatziki dip with yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

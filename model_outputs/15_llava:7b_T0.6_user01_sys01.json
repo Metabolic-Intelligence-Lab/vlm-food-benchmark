@@ -1,0 +1,49 @@
+{
+  "food_items": [
+    {
+      "name": "rice pilaf or grain side dish",
+      "portion_estimate": "100-150 grams (3.5-5.2 oz)",
+      "confidence": 60
+    },
+    {
+      "name": "curry, possibly containing meat (possibly chicken) and vegetables",
+      "portion_estimate": "200-250 grams (7-8.4 oz)",
+      "confidence": 60
+    },
+    {
+      "name": "small roll or bread item",
+      "portion_estimate": "50-70 grams (1.8-2.5 oz)",
+      "confidence": 60
+    },
+    {
+      "name": "side salad with various ingredients",
+      "portion_estimate": "75-100 grams (2.6-3.5 oz)",
+      "confidence": 60
+    },
+    {
+      "name": "dessert that could be a sweet potato or similar vegetable mash",
+      "portion_estimate": "100-150 grams (3.5-5.2 oz)",
+      "confidence": 60
+    },
+    {
+      "name": "glass of water or another clear liquid",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "cup of coffee or tea",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "small portion of what might be a pastry or bread roll",
+      "portion_estimate": "50-70 grams (1.8-2.5 oz)",
+      "confidence": 60
+    },
+    {
+      "name": "sauce or spread on the side, which is not clearly identifiable but could be butter or margarine",
+      "portion_estimate": "10-20 grams (0.35-0.7 oz)",
+      "confidence": 60
+    }
+  ]
+}

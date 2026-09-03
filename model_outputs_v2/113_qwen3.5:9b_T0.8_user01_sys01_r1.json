@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Custard Apple Pie slice",
+      "portion_estimate": 130,
+      "confidence": 95
+    },
+    {
+      "name": "Stewed Vegetables (Brussels sprouts and Carrots)",
+      "portion_estimate": 140,
+      "confidence": 85
+    },
+    {
+      "name": "Brown Lentil or Bean Soup with Cheese Topping",
+      "portion_estimate": 300,
+      "confidence": 80
+    },
+    {
+      "name": "Bread Roll (Purchased)",
+      "portion_estimate": 65,
+      "confidence": 90
+    },
+    {
+      "name": "Fresh Nectarines",
+      "portion_estimate": 170,
+      "confidence": 95
+    }
+  ]
+}

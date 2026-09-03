@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll in wrapper",
+      "portion_estimate": "120",
+      "confidence": "95"
+    },
+    {
+      "name": "yogurt cup (strawberry flavor)",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "breaded cutlet or fritter (fried, possibly with vegetables)",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "cheese-based appetizer (e.g., feta and corn salad) on a plate",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "gravy or sauce in the bowl",
+      "portion_estimate": "50",
+      "confidence": "60"
+    }
+  ]
+}

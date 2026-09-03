@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked chickpeas",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "mixed greens with creamy sauce",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "whole wheat bread slice",
+      "portion_estimate": "30",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt snack cup",
+      "portion_estimate": "125",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged fruit puree",
+      "portion_estimate": "50",
+      "confidence": "75"
+    }
+  ]
+}

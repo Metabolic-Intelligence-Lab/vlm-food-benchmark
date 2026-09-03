@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fettuccine pasta with tomato and cheese sauce",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "grilled chicken breast fillet",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "hummus and pita bread",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "butter roll or bread bun",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "mixed salad with red cabbage, cucumber, and dressing",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "dip or sauce in small bowl",
+      "portion_estimate": "30",
+      "confidence": 70
+    }
+  ]
+}

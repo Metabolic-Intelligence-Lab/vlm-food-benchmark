@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried cauliflower florets",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "breaded and fried cutlet (e.g., chicken or fish)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "cheesy vegetable soup with chunks (e.g., broccoli, carrots)",
+      "portion_estimate": "350g",
+      "confidence": 88
+    },
+    {
+      "name": "yogurt (plain or flavored, with visible spoon)",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "biscuit or cracker (partially visible)",
+      "portion_estimate": "20g",
+      "confidence": 80
+    }
+  ]
+}

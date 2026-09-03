@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "breaded and fried fish fillet (e.g., cod)",
+      "portion_estimate": 140,
+      "confidence": 95
+    },
+    {
+      "name": "cooked dark leafy greens (e.g., spinach or kale)",
+      "portion_estimate": 80,
+      "confidence": 92
+    },
+    {
+      "name": "penne pasta with red tomato-based sauce",
+      "portion_estimate": 160,
+      "confidence": 94
+    }
+  ]
+}

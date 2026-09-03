@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried cutlet (likely chicken) with mushroom",
+      "portion_estimate": "200 grams (cutlet) + 80 grams (mushroom)",
+      "confidence": 85
+    },
+    {
+      "name": "pasta (penne) with tomato-based sauce and fried shallots",
+      "portion_estimate": "180 grams (dry weight)",
+      "confidence": 85
+    },
+    {
+      "name": "grilled eggplant stuffed with rice and vegetables",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetable salad (cucumber, carrot, onion, possibly shredded chicken)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baguette or roll",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    }
+  ]
+}

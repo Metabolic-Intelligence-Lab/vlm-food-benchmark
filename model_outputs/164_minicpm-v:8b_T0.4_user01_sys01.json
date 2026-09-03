@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup with butter",
+      "portion_estimate": "uncertain, approx. bowl size",
+      "confidence": "60"
+    },
+    {
+      "name": "baked bread roll",
+      "portion_estimate": "uncertain, slice of a typical small to medium-sized roll",
+      "confidence": "50"
+    },
+    {
+      "name": "YOMO foodservice yogurt with fruit pieces",
+      "portion_estimate": "125g as labeled on container",
+      "confidence": "90"
+    },
+    {
+      "name": "chicken nuggets or cutlets, possibly breaded and fried",
+      "portion_estimate": "uncertain, approx. plate size, likely 3-4 pieces",
+      "confidence": "75"
+    },
+    {
+      "name": "green vegetables, cooked with oil",
+      "portion_estimate": "uncertain, approx. portion of a typical side dish on a plate",
+      "confidence": "60"
+    }
+  ]
+}

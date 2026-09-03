@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish fillet (or similar fried item)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "shredded sweet potato or butternut squash salad",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "green beans with corn kernels and egg (possibly an egg salad or fried egg with toppings)",
+      "portion_estimate": "100g (total for plate)",
+      "confidence": 85
+    },
+    {
+      "name": "condiment packet (likely ketchup or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "plastic-wrapped bread roll or biscuit",
+      "portion_estimate": "uncertain (likely 50-70g)",
+      "confidence": 65
+    },
+    {
+      "name": "yogurt or sour cream cup (red packaging)",
+      "portion_estimate": "uncertain (likely 100-150g)",
+      "confidence": 75
+    }
+  ]
+}

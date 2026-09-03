@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Meatballs with Sesame Seeds",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 85
+    },
+    {
+      "name": "Carrot Sticks",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 70
+    },
+    {
+      "name": "Spaghetti with Grated Cheese",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 80
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 60
+    }
+  ]
+}

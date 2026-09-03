@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Egg omelette",
+      "portion_estimate": "150-200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "50-75g",
+      "confidence": "60"
+    },
+    {
+      "name": "Sandwich",
+      "portion_estimate": "100-150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta with pesto sauce",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Egg",
+      "portion_estimate": "150-200g",
+      "confidence": "70"
+    }
+  ]
+}

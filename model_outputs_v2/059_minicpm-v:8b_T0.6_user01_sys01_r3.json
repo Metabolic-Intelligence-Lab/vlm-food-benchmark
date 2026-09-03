@@ -1,0 +1,25 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "0-100"
+    },
+    {
+      "name": "carrot shreds with lettuce and cucumber",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "0-100"
+    },
+    {
+      "name": "muffin or pastry with apple filling, chocolate sauce on top",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "0-100"
+    },
+    {
+      "name": "grapes and plums",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    }
+  ],
+  "total_portion_estimate": "uncertain"
+}

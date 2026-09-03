@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "orange soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "dipping sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

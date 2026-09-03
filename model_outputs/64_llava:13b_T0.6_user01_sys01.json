@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "100-200 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "potatoes (likely mashed or fried)",
+      "portion_estimate": "100-200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "meat patty (possibly chicken, beef, or pork)",
+      "portion_estimate": "150-250 grams",
+      "confidence": "45"
+    }
+  ]
+}

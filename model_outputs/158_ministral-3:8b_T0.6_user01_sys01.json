@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried meatballs (approximately 10-12 pieces)",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "fried bread or flatbread (square piece)",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "pasta with seasoning (likely penne or rigatoni)",
+      "portion_estimate": "150 grams (cooked)",
+      "confidence": 80
+    },
+    {
+      "name": "cucumber slices (in clear plastic bag)",
+      "portion_estimate": "80 grams",
+      "confidence": 75
+    },
+    {
+      "name": "small lemon (whole)",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    }
+  ]
+}

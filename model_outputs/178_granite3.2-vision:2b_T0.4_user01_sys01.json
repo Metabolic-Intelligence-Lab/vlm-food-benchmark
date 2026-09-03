@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pizza or flatbread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "savory pastry or meat dish",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

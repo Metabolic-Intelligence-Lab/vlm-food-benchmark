@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Green Salad Dressing Packet",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Fried Chicken Breast with Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Roasted Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Fried Rice Dish with Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Red Currant Yogurt Cup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

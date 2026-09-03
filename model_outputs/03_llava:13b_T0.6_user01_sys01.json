@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "vegetable medley",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100g",
+      "confidence": "50"
+    }
+  ]
+}

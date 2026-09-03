@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "peanuts",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "wrapped food item",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

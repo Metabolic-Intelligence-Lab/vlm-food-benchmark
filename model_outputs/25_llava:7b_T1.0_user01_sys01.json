@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded and deep-fried item, likely calamari or a similar seafood dish",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with tomato sauce and cheese",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Chicken nuggets or similar protein source, covered in breadcrumbs",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread item, possibly a sandwich or pita, partially visible",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Yogurt with some fruit or toppings",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    }
+  ]
+}

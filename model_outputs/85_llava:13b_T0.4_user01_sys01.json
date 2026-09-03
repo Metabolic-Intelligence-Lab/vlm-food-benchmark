@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy Soup or Stew with Meat and Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Cooked Greens (Spinach or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread or Roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Meatballs or Stuffed Pasta in Tomato Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

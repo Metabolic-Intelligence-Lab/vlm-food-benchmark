@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Soup (green puree, possibly pea or vegetable)",
+      "portion_estimate": "300",
+      "confidence": "95"
+    },
+    {
+      "name": "Carrot slices",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread rolls or fritters",
+      "portion_estimate": "80",
+      "confidence": "70"
+    }
+  ]
+}

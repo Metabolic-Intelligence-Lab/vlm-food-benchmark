@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed rice with vegetables",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Potato wedges",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Omelette with mushrooms and spinach",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Boiled egg",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt with fruits and grains",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    }
+  ]
+}

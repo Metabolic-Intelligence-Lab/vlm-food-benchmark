@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with cheese (parmesan-style)",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "mixed berry salad (including grapes and lettuce)",
+      "portion_estimate": 120,
+      "confidence": 80
+    },
+    {
+      "name": "meatballs in tomato sauce (likely beef)",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "sliced bread with filling (unknown, possibly ham or cheese)",
+      "portion_estimate": 50,
+      "confidence": 75
+    },
+    {
+      "name": "grapes (cluster)",
+      "portion_estimate": 50,
+      "confidence": 70
+    }
+  ]
+}

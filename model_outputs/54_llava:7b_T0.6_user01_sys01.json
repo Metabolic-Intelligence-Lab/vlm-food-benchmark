@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bowl with pasta or salad",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "cup with a drink",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "sandwich-like item (burger)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

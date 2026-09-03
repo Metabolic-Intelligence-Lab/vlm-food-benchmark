@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with meat sauce",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "Baked eggplant parmesan (eggplant stuffed with mozzarella and covered in breadcrumbs)",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "Sandwich bun",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "Yoghurt (Kimo brand)",
+      "portion_estimate": "150",
+      "confidence": 95
+    }
+  ]
+}

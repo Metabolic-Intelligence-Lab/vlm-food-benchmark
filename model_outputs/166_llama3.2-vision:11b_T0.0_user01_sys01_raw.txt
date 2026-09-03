@@ -1,0 +1,49 @@
+Here is the food image:
+
+**Food Items:**
+
+* Pasta with tomato sauce and parmesan cheese
+* Bread roll
+* Cheese stick
+* Vegetable side dish (likely spinach or kale)
+
+**Portion Estimates:**
+
+* Pasta: 100g
+* Bread roll: 50g
+* Cheese stick: 30g
+* Vegetable side dish: 50g
+
+**Confidence Levels:**
+
+* Pasta: 80%
+* Bread roll: 70%
+* Cheese stick: 60%
+* Vegetable side dish: 50%
+
+**Food Items JSON Output:**
+
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and parmesan cheese",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cheese stick",
+      "portion_estimate": "30g",
+      "confidence": "60"
+    },
+    {
+      "name": "Vegetable side dish (likely spinach or kale)",
+      "portion_estimate": "50g",
+      "confidence": "50"
+    }
+  ]
+}

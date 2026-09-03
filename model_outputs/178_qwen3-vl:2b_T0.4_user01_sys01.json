@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "150",
+      "confidence": "100"
+    },
+    {
+      "name": "fish",
+      "portion_estimate": "150",
+      "confidence": "100"
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "100",
+      "confidence": "100"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "100",
+      "confidence": "100"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": "100"
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": "50",
+      "confidence": "100"
+    }
+  ]
+}

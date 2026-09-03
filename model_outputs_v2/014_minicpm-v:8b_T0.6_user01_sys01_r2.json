@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "White bread roll",
+      "portion_estimate": "uncertain, approx. weight in grams (20-150g)",
+      "confidence": "60"
+    },
+    {
+      "name": "Penne pasta with tomato sauce and cheese",
+      "portion_estimate": "approx. 80g for the portion on a plate",
+      "confidence": "70"
+    },
+    {
+      "name": "Salad (red cabbage, carrots)",
+      "portion_estimate": "uncertain weight in grams (50-120g)",
+      "confidence": "60"
+    },
+    {
+      "name": "Roasted red peppers and tomato on a slice of bread",
+      "portion_estimate": "approx. 70g for the whole piece, about half portion visible",
+      "confidence": "85"
+    },
+    {
+      "name": "Yogurt with fruit",
+      "portion_estimate": "uncertain weight in grams (120-300g)",
+      "confidence": "60"
+    }
+  ]
+}

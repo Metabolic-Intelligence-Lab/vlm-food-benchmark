@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based soup",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "grilled or baked potato wedges with meat mixture (e.g., chicken or mushroom filling)",
+      "portion_estimate": "180 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small container of flavored yogurt (possibly Greek yogurt with added flavors)",
+      "portion_estimate": "60 grams",
+      "confidence": 70
+    },
+    {
+      "name": "plastic cup of unsweetened tea or beverage with a straw",
+      "portion_estimate": "150 ml (\u224815 grams if liquid only, uncertain weight estimate)",
+      "confidence": 60
+    }
+  ]
+}

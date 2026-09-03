@@ -1,0 +1,37 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "200ml",
+      "confidence": "85"
+    },
+    {
+      "name": "Salad with dark dressing",
+      "portion_estimate": "140g",
+      "confidence": "90"
+    }
+  ],
+  "tableware": [
+    {
+      "item": "Glass",
+      "purpose": "Water",
+      "position": "Right side, second from bottom"
+    },
+    {
+      "item": "Plate",
+      "color": "White",
+      "description": "Bottom left corner of tray with food",
+      "purpose": "Serve pasta and sauce"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "conchiglie pasta with tomato sauce and grated cheese",
+      "portion_estimate": "220",
+      "confidence": "75"
+    },
+    {
+      "name": "brown lentil stew",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "grilled eggplant slice",
+      "portion_estimate": "20",
+      "confidence": "60"
+    },
+    {
+      "name": "breaded fried croquette (potato or rice)",
+      "portion_estimate": "60",
+      "confidence": "55"
+    },
+    {
+      "name": "breaded fried patty/meatball",
+      "portion_estimate": "70",
+      "confidence": "50"
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "tomato with mozzarella and anchovies on a plate",
+      "portion_estimate": "uncertain, approx. served as an entree size",
+      "confidence": "60"
+    },
+    {
+      "name": "boiled eggs",
+      "portion_estimate": "uncertain, approximately 2-3 medium-sized eggs",
+      "confidence": "50"
+    },
+    {
+      "name": "salad with green lettuce and red tomatoes on a plate",
+      "portion_estimate": "uncertain, served as an entree size",
+      "confidence": "60"
+    },
+    {
+      "name": "potato wedges",
+      "portion_estimate": "uncertain, approximately medium-sized serving of fries or wedges",
+      "confidence": "50"
+    }
+  ]
+}

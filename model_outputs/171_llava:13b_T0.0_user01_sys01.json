@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked spinach or greens",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green beans or similar vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "creamy sauce, possibly mashed potatoes or some other type of starch dish",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "small cup that might contain a condiment or dessert item",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "wrapped sandwich or wrap",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

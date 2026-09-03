@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "toast",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "quinoa",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and peppers",
+      "portion_estimate": "220",
+      "confidence": 80
+    },
+    {
+      "name": "breaded fried chicken/meat cutlets (2 pieces)",
+      "portion_estimate": "150",
+      "confidence": 65
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt cup (mixed berries flavor)",
+      "portion_estimate": "125",
+      "confidence": 75
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": 55
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "200",
+      "confidence": 50
+    }
+  ]
+}

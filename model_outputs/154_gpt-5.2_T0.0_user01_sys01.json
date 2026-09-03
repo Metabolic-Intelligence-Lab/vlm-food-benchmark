@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "bow-tie pasta (farfalle) with pesto sauce",
+      "portion_estimate": "220 g",
+      "confidence": "70"
+    },
+    {
+      "name": "grated parmesan cheese (on pasta)",
+      "portion_estimate": "15 g",
+      "confidence": "65"
+    },
+    {
+      "name": "sliced cooked carrots",
+      "portion_estimate": "120 g",
+      "confidence": "75"
+    },
+    {
+      "name": "stuffed tomato slice with herb/cheese topping",
+      "portion_estimate": "60 g",
+      "confidence": "60"
+    },
+    {
+      "name": "baked zucchini/eggplant slices (herb-crusted)",
+      "portion_estimate": "80 g",
+      "confidence": "55"
+    },
+    {
+      "name": "plums (whole, fresh)",
+      "portion_estimate": "210 g",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll/bun (packaged)",
+      "portion_estimate": "70 g",
+      "confidence": "70"
+    },
+    {
+      "name": "butter portions (wrapped)",
+      "portion_estimate": "20 g",
+      "confidence": "60"
+    }
+  ]
+}

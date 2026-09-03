@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl with mixed salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Plate of pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Sausage roll on plate with tomato sauce and greens",
+      "portion_estimate": "120g",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt container",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

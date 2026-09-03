@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot Soup",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "Frittata",
+      "portion_estimate": "100",
+      "confidence": "60"
+    }
+  ]
+}

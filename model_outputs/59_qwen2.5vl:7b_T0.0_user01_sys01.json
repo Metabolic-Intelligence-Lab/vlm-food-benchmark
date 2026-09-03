@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed salad with carrots, cucumbers, and leafy greens",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Steamed spinach",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked potato with butter and barbecue sauce",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    }
+  ]
+}

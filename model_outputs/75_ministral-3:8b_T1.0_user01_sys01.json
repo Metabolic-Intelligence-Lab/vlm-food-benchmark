@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet (likely cod or similar white fish)",
+      "portion_estimate": "150g",
+      "confidence": "75"
+    },
+    {
+      "name": "steamed or saut\u00e9ed mixed vegetables (e.g., broccoli, cauliflower, and diced carrots or zucchini)",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "cottage cheese (small scoop)",
+      "portion_estimate": "80g",
+      "confidence": "75"
+    },
+    {
+      "name": "baked or mashed potato-like beans (e.g., white beans or lentils)",
+      "portion_estimate": "200g",
+      "confidence": "75"
+    },
+    {
+      "name": "plain white bread roll",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "unsweetened milk (pouched)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "water (glass container)",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

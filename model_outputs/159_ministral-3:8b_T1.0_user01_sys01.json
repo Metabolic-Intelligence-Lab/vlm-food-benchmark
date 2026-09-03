@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta shells (likely rigatoni or penne) with cheese and herbs",
+      "portion_estimate": "250 grams",
+      "confidence": 75
+    },
+    {
+      "name": "stuffed vegetable filling (likely spinach or broccoli and cheese)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "shredded chicken or turkey (separate portion)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "buttered leafy vegetable (likely broccoli or cauliflower)",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "30 grams",
+      "confidence": 85
+    },
+    {
+      "name": "plain butter or oil in plastic wrapper (drizzle)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

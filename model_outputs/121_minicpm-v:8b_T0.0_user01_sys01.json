@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Salad (carrots and lettuce)",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "approx. 150-200g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread with butter and jam",
+      "portion_estimate": "uncertain, approx. 70g",
+      "confidence": "60"
+    },
+    {
+      "name": "Pastry (possibly meat)",
+      "portion_estimate": "approx. 50-100g",
+      "confidence": "80"
+    }
+  ]
+}

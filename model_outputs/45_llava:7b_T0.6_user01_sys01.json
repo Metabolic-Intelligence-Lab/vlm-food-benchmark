@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Crispy Chicken",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mixed Vegetables",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "Steamed Potatoes",
+      "portion_estimate": "150g",
+      "confidence": "75"
+    },
+    {
+      "name": "Corn on the cob",
+      "portion_estimate": "50g",
+      "confidence": "65"
+    },
+    {
+      "name": "Carrot Salad",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    }
+  ]
+}

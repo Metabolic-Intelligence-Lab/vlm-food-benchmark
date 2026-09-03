@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "baked or grilled fish fillet with white sauce",
+      "portion_estimate": "90",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or roasted Brussels sprouts",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "potato crumble or gratin",
+      "portion_estimate": "40",
+      "confidence": 70
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "180",
+      "confidence": 95
+    }
+  ]
+}

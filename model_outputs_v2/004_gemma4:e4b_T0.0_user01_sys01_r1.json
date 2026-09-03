@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "banana",
+      "portion_estimate": "125g",
+      "confidence": "100"
+    },
+    {
+      "name": "mixed salad (lettuce, crumbled protein, mozzarella, sliced tomatoes)",
+      "portion_estimate": "250g",
+      "confidence": "85"
+    },
+    {
+      "name": "wrapped dinner roll or bun",
+      "portion_estimate": "90g",
+      "confidence": "90"
+    }
+  ]
+}

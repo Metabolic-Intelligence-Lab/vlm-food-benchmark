@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "pizza",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread (type 1)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread (type 2)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken Breast",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Baked Beans",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "50",
+      "confidence": 65
+    }
+  ]
+}

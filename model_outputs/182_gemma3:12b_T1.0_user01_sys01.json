@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed Broccoli",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "Baked Pasta with Cheese",
+      "portion_estimate": "180",
+      "confidence": "92"
+    },
+    {
+      "name": "Mandarin Orange",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "Packaged Crackers",
+      "portion_estimate": "30",
+      "confidence": "75"
+    }
+  ]
+}

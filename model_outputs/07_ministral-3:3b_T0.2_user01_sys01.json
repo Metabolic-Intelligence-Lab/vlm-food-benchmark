@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bagel",
+      "portion_estimate": "150 grams (approximate, assuming half a bagel)",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt cup (plain or vanilla)",
+      "portion_estimate": "170 grams (standard serving size)",
+      "confidence": 80
+    },
+    {
+      "name": "salad with lettuce, carrots, and dressing",
+      "portion_estimate": "150 grams (approximate, based on bowl size)",
+      "confidence": 75
+    },
+    {
+      "name": "fried eggplant or potato (dumpling)",
+      "portion_estimate": "100 grams (approximate, based on visible size)",
+      "confidence": 70
+    },
+    {
+      "name": "chickpea soup with beans and broth",
+      "portion_estimate": "300 grams (approximate, based on bowl size)",
+      "confidence": 85
+    }
+  ]
+}

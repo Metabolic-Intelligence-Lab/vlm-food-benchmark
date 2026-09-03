@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Egg",
+      "portion_estimate": "1 large egg",
+      "confidence": "80"
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "1 serving of french fries",
+      "confidence": "70"
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "1 small portion of broccoli",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "1 bread roll",
+      "confidence": "50"
+    },
+    {
+      "name": "Ketchup and mayonnaise",
+      "portion_estimate": "2 small condiment containers",
+      "confidence": "40"
+    }
+  ]
+}

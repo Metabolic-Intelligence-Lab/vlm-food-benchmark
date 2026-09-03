@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Cream Cheese (Sprinday)",
+      "portion_estimate": "2.7 oz or 76g",
+      "confidence": "90"
+    },
+    {
+      "name": "Tofu",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Sesame Seeds",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Muffin (Bread)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

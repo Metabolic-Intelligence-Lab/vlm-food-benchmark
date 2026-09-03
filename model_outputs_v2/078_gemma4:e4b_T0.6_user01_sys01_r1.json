@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Stew or soup in bowl with granular topping",
+      "portion_estimate": "350",
+      "confidence": "85"
+    },
+    {
+      "name": "Diced orange vegetables (e.g., squash or carrot)",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Small baked patty or fritter with yellow topping",
+      "portion_estimate": "90",
+      "confidence": "75"
+    },
+    {
+      "name": "Small bread roll/bun",
+      "portion_estimate": "110",
+      "confidence": "95"
+    },
+    {
+      "name": "Two small round orange vegetables or fruit",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "dark green seaweed",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "light green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "yellow substance (corn or cheese)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "yellow sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

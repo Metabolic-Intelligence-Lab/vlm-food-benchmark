@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "pancakes",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "65"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "uncertain",
+      "confidence": "65"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

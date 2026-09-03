@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried penne pasta with tomato sauce",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "bun (likely a soft dinner roll)",
+      "portion_estimate": "40 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pasta shell filling with shredded cheese (potentially marinara or other sauce inside)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "potato wedges (baked or fried)",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "white sauce/yogurt in a cup (likely Greek yogurt or similar)",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    }
+  ]
+}

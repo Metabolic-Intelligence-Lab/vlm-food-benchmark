@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Soup",
+    "description": "A bowl of soup with a yellowish hue, filled to the brim.",
+    "portion_estimate": "350 grams",
+    "confidence": "100",
+    "image_url": ""
+  },
+  {
+    "name": "Bread",
+    "description": "Two rolls resting next to the soup, one of them appears to be stale.",
+    "portion_estimate": "50 grams each",
+    "confidence": "100",
+    "image_url": ""
+  },
+  {
+    "name": "Water Bottle",
+    "description": "A plastic water bottle with a green lid and label.",
+    "portion_estimate": "500 ml",
+    "confidence": "100",
+    "image_url": ""
+  },
+  {
+    "name": "Fish and Vegetable Plate",
+    "description": "A white plate filled with fish, vegetables, and a sauce.",
+    "portion_estimate": "450 grams of food in total",
+    "confidence": "100",
+    "image_url": ""
+  }
+]

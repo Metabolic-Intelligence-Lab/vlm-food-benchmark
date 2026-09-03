@@ -1,0 +1,48 @@
+{
+  "food_items": [
+    {
+      "name": "white plate",
+      "portion_estimate": "200g",
+      "contents": [
+        {
+          "type": "vegetable",
+          "name": "mashed potatoes"
+        },
+        {
+          "type": "meat",
+          "name": "chicken breast"
+        }
+      ]
+    },
+    {
+      "name": "white plate",
+      "portion_estimate": "150g",
+      "contents": [
+        {
+          "type": "vegetable",
+          "name": "baked beans"
+        }
+      ]
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250ml",
+      "contents": [
+        {
+          "type": "beverage",
+          "name": "water"
+        }
+      ]
+    },
+    {
+      "name": "white plate",
+      "portion_estimate": "100g",
+      "contents": [
+        {
+          "type": "bread",
+          "name": "roll"
+        }
+      ]
+    }
+  ]
+}

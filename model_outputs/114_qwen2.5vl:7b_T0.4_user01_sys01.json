@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and parmesan",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "150 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Fried potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "30 g",
+      "confidence": 80
+    },
+    {
+      "name": "Mixed Rice (with Peas and Corn)",
+      "portion_estimate": "180 g",
+      "confidence": 80
+    },
+    {
+      "name": "Egg Frittata Slice",
+      "portion_estimate": "120 g",
+      "confidence": 70
+    },
+    {
+      "name": "Cooked Carrots and Potatoes",
+      "portion_estimate": "70 g",
+      "confidence": 70
+    },
+    {
+      "name": "Oranges",
+      "portion_estimate": "120 g",
+      "confidence": 70
+    }
+  ]
+}

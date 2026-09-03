@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Item 1",
+      "portion_estimate": "150g",
+      "confidence": 100
+    },
+    {
+      "name": "Item 2",
+      "portion_estimate": "150g",
+      "confidence": 100
+    },
+    {
+      "name": "Item 3",
+      "portion_estimate": "50g",
+      "confidence": 100
+    },
+    {
+      "name": "Item 4",
+      "portion_estimate": "180g",
+      "confidence": 100
+    },
+    {
+      "name": "Item 5",
+      "portion_estimate": "300g",
+      "confidence": 100
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "roman-style beans with celery salad",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "baked white fish fillet",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "roasted broccoli with shaved cheese",
+      "portion_estimate": "120",
+      "confidence": "65"
+    },
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "apricot",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "uncertain packaged item (possibly cheese or condiment sachet)",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

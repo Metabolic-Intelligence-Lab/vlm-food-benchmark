@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bun roll",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "Salad with shredded cabbage",
+      "portion_estimate": "250 g",
+      "confidence": 90
+    },
+    {
+      "name": "Fruit (peach)",
+      "portion_estimate": "50 g",
+      "confidence": 85
+    },
+    {
+      "name": "Wrap/burrito",
+      "portion_estimate": "180 g",
+      "confidence": 95
+    },
+    {
+      "name": "Saut\u00e9ed greens",
+      "portion_estimate": "120 g",
+      "confidence": 90
+    }
+  ]
+}

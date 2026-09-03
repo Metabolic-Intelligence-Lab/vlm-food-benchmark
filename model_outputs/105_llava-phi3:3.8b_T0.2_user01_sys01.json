@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green lettuce",
+      "portion_estimate": "large amount",
+      "confidence": "90"
+    },
+    {
+      "name": "red cabbage",
+      "portion_estimate": "small amount",
+      "confidence": "80"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "medium size",
+      "confidence": "70"
+    },
+    {
+      "name": "chicken breast",
+      "portion_estimate": "small piece",
+      "confidence": "60"
+    },
+    {
+      "name": "cucumber slices",
+      "portion_estimate": "large amount",
+      "confidence": "80"
+    }
+  ]
+}

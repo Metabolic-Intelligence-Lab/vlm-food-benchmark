@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Lentil Soup",
+      "portion_estimate": "300g",
+      "confidence": 75
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "Sweet Potato",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "Spinach Frittata",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50g",
+      "confidence": 75
+    },
+    {
+      "name": "Butter",
+      "portion_estimate": "10g",
+      "confidence": 60
+    }
+  ]
+}

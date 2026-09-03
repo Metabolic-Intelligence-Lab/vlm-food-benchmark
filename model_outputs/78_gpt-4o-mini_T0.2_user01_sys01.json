@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup with cheese topping",
+      "portion_estimate": "250",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked diced pumpkin",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "yellow cheese on a patty",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80",
+      "confidence": "85"
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

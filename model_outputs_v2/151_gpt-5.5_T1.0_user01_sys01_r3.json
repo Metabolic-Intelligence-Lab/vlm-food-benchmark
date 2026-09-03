@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rigatoni pasta",
+      "portion_estimate": "180 g",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked mushrooms in pasta",
+      "portion_estimate": "45 g",
+      "confidence": "85"
+    },
+    {
+      "name": "grated hard cheese on pasta",
+      "portion_estimate": "8 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked Brussels sprouts",
+      "portion_estimate": "100 g",
+      "confidence": "90"
+    },
+    {
+      "name": "diced cooked carrots",
+      "portion_estimate": "50 g",
+      "confidence": "88"
+    },
+    {
+      "name": "orange omelette or frittata square",
+      "portion_estimate": "100 g",
+      "confidence": "55"
+    },
+    {
+      "name": "red grapes",
+      "portion_estimate": "45 g",
+      "confidence": "92"
+    },
+    {
+      "name": "piece of bread roll",
+      "portion_estimate": "50 g",
+      "confidence": "85"
+    }
+  ]
+}

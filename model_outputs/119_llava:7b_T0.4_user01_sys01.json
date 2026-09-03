@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish with red sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Creamy soup (possibly a cream of mushroom or similar)",
+      "portion_estimate": "300 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded and fried meatballs",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Cup of coffee with creamer",
+      "portion_estimate": "200 ml",
+      "confidence": "80"
+    }
+  ]
+}

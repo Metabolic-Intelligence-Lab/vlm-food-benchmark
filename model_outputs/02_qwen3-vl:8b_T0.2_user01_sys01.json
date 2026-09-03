@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Tomatoes",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "Cucumbers",
+      "portion_estimate": "50g",
+      "confidence": 100
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "30g",
+      "confidence": 100
+    },
+    {
+      "name": "Lettuce",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "Red onion",
+      "portion_estimate": "20g",
+      "confidence": 100
+    },
+    {
+      "name": "Crouton",
+      "portion_estimate": "10g",
+      "confidence": 100
+    }
+  ]
+}

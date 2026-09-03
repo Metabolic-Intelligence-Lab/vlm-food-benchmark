@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with pesto",
+      "portion_estimate": "250",
+      "confidence": "90"
+    },
+    {
+      "name": "chicken pieces",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "carrot and spinach quiche",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "bread rolls",
+      "portion_estimate": "100",
+      "confidence": "90"
+    }
+  ]
+}

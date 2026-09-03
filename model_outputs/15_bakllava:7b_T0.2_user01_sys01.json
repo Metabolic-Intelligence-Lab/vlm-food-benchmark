@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "yellow food on a white plate",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "muffin",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "glass of juice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

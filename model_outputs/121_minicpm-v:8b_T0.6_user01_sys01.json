@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with white sauce and grated cheese",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrot salad",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed green salad with carrots and dried cranberries",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain, approx. 1 medium banana",
+      "confidence": "80"
+    },
+    {
+      "name": "Rye crispbread with butter and jam",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    }
+  ]
+}

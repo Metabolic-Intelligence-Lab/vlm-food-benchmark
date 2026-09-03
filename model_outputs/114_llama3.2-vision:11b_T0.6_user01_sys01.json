@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken Patty",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Lettuce",
+      "portion_estimate": "20g",
+      "confidence": "80"
+    },
+    {
+      "name": "Tomato Sauce",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "portion_estimate": "10g",
+      "confidence": "80"
+    },
+    {
+      "name": "Olive Oil",
+      "portion_estimate": "5g",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with cheese topping",
+      "portion_estimate": "300",
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll in wrapper",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "Yoyo Foodservice yogurt cup (approx. 125g)",
+      "portion_estimate": "125",
+      "confidence": 95
+    },
+    {
+      "name": "Breaded cutlet with chips",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "Saut\u00e9ed cabbage or similar vegetable",
+      "portion_estimate": "150",
+      "confidence": 75
+    }
+  ]
+}

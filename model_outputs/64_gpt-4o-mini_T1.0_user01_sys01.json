@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "rotini pasta with tomato and peppers",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "potatoes (diced and roasted)",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "stuffed pastry",
+      "portion_estimate": 120,
+      "confidence": 70
+    },
+    {
+      "name": "yogurt with fruit flavor",
+      "portion_estimate": 150,
+      "confidence": 75
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": 50,
+      "confidence": 80
+    },
+    {
+      "name": "water",
+      "portion_estimate": 240,
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Crab Cake",
+      "portion_estimate": "80",
+      "confidence": 95
+    },
+    {
+      "name": "Eggplant",
+      "portion_estimate": "30",
+      "confidence": 85
+    },
+    {
+      "name": "Bun",
+      "portion_estimate": "40",
+      "confidence": 92
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "60",
+      "confidence": 98
+    }
+  ]
+}

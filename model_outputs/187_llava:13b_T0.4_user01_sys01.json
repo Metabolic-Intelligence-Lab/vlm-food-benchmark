@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (lasagna or spaghetti bolognese)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "small cup of condiment or sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "meatballs or meat-based dish",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "packet of seasoning or dipping sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "condiment or spread",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

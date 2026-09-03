@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "plums (whole)",
+      "portion_estimate": "150 grams (2 plums, average weight ~75g each)",
+      "confidence": 85
+    },
+    {
+      "name": "brussels sprouts (steamed)",
+      "portion_estimate": "150 grams (small cluster, ~10-12 sprouts)",
+      "confidence": 80
+    },
+    {
+      "name": "breaded fish fillet (likely cod or similar)",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "steamed greens (likely bok choy or spinach)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    }
+  ]
+}

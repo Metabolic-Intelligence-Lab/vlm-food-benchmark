@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "mixed greens salad (lettuce/cabbage)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "fried rice or rice dish with vegetables/meat",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "seaweed salad or dried seaweed",
+      "portion_estimate": "30g",
+      "confidence": 70
+    },
+    {
+      "name": "whole onion",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "packaged tortilla or flatbread",
+      "portion_estimate": "uncertain (likely ~30g per tortilla)",
+      "confidence": 55
+    },
+    {
+      "name": "yogurt or dairy product in plastic container",
+      "portion_estimate": "uncertain (likely ~150g)",
+      "confidence": 60
+    },
+    {
+      "name": "water in plastic cup",
+      "portion_estimate": "uncertain (likely ~250ml)",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fettuccine Alfredo",
+      "portion_estimate": "200 g",
+      "confidence": "90"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "1 banana",
+      "confidence": "85"
+    },
+    {
+      "name": "Vegetable and pasta salad with croutons",
+      "portion_estimate": "200 g",
+      "confidence": "90"
+    },
+    {
+      "name": "Sandwich, possibly grilled chicken",
+      "portion_estimate": "1 sandwich",
+      "confidence": "85"
+    },
+    {
+      "name": "Carrot sticks",
+      "portion_estimate": "50 g",
+      "confidence": "70"
+    }
+  ]
+}

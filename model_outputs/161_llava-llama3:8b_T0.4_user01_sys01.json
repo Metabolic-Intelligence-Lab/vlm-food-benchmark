@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "colorful medley of vegetables and salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "orange pasta with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potatoes and chicken with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "breaded chicken with tomato and parsley",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "green sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

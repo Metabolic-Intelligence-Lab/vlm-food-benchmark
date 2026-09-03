@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "White bean and corn soup",
+      "portion_estimate": "350 g",
+      "confidence": 92
+    },
+    {
+      "name": "Steamed green beans",
+      "portion_estimate": "140 g",
+      "confidence": 94
+    },
+    {
+      "name": "Savory baked patty (likely salmon or quinoa)",
+      "portion_estimate": "90 g",
+      "confidence": 85
+    },
+    {
+      "name": "Lemon wedge",
+      "portion_estimate": "15 g",
+      "confidence": 90
+    },
+    {
+      "name": "Whole fruit pear",
+      "portion_estimate": "200 g",
+      "confidence": 88
+    },
+    {
+      "name": "Butter packet (sealed)",
+      "portion_estimate": "15 g",
+      "confidence": 60
+    },
+    {
+      "name": "Split cross bun / hot cross bun",
+      "portion_estimate": "90 g",
+      "confidence": 88
+    }
+  ]
+}

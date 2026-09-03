@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "fish, possibly grilled or baked, garnished with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "side dish, possibly potatoes or starch-based food item",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cooked greens, possibly spinach or similar leafy vegetable, topped with sauce or butter",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

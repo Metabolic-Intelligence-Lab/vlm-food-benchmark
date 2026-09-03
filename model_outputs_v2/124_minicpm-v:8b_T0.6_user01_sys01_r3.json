@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "100g (uncertain)",
+      "confidence": "50"
+    },
+    {
+      "name": "Mashed Sweet Potatoes with Cinnamon and Butter",
+      "portion_estimate": "200g, possibly more if not fully consumed",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried Chicken Pieces",
+      "portion_estimate": "150-200g (uncertain)",
+      "confidence": "60"
+    },
+    {
+      "name": "Baked Potato with Butter and Sour Cream",
+      "portion_estimate": "300g, possibly more if not fully consumed",
+      "confidence": "70"
+    }
+  ]
+}

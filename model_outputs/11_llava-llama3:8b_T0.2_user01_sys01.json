@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "flatbread with black toppings",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "orange fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "purple cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green onions",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

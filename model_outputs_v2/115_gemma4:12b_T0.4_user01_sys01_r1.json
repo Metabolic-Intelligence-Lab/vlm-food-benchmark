@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with cheese",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "mixed green salad",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "meatballs in tomato sauce",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "multigrain bread roll",
+      "portion_estimate": "60g",
+      "confidence": 90
+    }
+  ]
+}

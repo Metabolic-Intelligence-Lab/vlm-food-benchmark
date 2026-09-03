@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Swedish meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "slice of cake or pastry (scone)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pasta salad with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread (roll or toast)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "mango or similar tropical fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

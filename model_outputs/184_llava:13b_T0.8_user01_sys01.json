@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich or burger",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "chips or snack",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "salad with leafy greens and vegetables/fruits",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta or rice dish with protein and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "vegetable-based side or topping",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "sushi (seaweed rolls with fillings)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

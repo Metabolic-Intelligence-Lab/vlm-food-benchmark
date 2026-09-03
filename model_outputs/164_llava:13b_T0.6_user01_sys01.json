@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup (chole)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bread or flatbread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "vegetables (potatoes or chickpeas)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

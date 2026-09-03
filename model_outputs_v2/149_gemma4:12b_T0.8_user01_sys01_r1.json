@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sponge cake slice with green filling",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "penne pasta with creamy sauce and cheese",
+      "portion_estimate": "250",
+      "confidence": 95
+    },
+    {
+      "name": "saut\u00e9ed mushrooms",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80",
+      "confidence": 95
+    },
+    {
+      "name": "small plums",
+      "portion_estimate": "100",
+      "confidence": 90
+    }
+  ]
+}

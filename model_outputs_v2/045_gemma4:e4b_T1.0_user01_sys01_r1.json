@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Deep-fried breaded protein (e.g., fish or chicken)",
+      "portion_estimate": "130g",
+      "confidence": "90"
+    },
+    {
+      "name": "Shredded carrots (garnish)",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    },
+    {
+      "name": "Rice or creamy base (composed dish)",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "Colorful diced topping (e.g., diced mango, red bell pepper)",
+      "portion_estimate": "20g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green vegetable garnish (stalks)",
+      "portion_estimate": "40g",
+      "confidence": "80"
+    }
+  ]
+}

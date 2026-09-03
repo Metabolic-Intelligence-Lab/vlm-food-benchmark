@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "dark green soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "brown rice",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "roasted vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Tropicana (red container)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked green beans with breadcrumbs",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "breaded meatballs",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "baked pasta in tomato sauce",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "tomato paste",
+      "portion_estimate": "25 grams",
+      "confidence": 70
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "50 grams",
+      "confidence": 75
+    }
+  ]
+}

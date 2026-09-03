@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup (likely lentil or vegetable-based with cheese topping)",
+      "portion_estimate": "300-350 grams",
+      "confidence": 85
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "two stuffed fish cakes (possibly cod or similar fish)",
+      "portion_estimate": "80-100 grams each",
+      "confidence": 80
+    },
+    {
+      "name": "sauteed spinach",
+      "portion_estimate": "100-120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small round bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    }
+  ]
+}

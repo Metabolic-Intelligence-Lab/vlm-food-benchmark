@@ -1,0 +1,35 @@
+To address the user's request, we have constructed a multiple-choice question based on a dataset that includes items with weights, prices, quantities, and descriptions. The question asks for the total weight of a specific combination of items purchased by a customer.
+
+---
+
+### **Question:**
+
+A customer purchases a combination of items from a store. The items have the following properties:
+
+- **Apple**: weight = 0.2 kg, price = $1.00, quantity = 5, description = "Fresh red apple"  
+- **Banana**: weight = 0.3 kg, price = $0.50, quantity = 3, description = "Yellow banana"  
+- **Carrot**: weight = 0.1 kg, price = $0.20, quantity = 10, description = "Orange carrot"  
+
+The customer buys **2 apples and 3 bananas**. What is the total weight of the purchased items?
+
+**Options:**  
+A) 1.2 kg  
+B) 1.3 kg  
+C) 1.4 kg  
+D) 1.5 kg  
+
+---
+
+### **Answer:**
+
+To calculate the total weight:
+
+- Weight of 2 apples = $ 2 \times 0.2 = 0.4 $ kg  
+- Weight of 3 bananas = $ 3 \times 0.3 = 0.9 $ kg  
+- Total weight = $ 0.4 + 0.9 = 1.3 $ kg  
+
+Thus, the correct answer is:
+
+$$
+\boxed{B}
+$$

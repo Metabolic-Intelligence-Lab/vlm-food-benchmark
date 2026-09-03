@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup with cheese gratin (e.g., potato or cheesy soup)",
+      "portion_estimate": "300g",
+      "confidence": 75
+    },
+    {
+      "name": "potatoes au gratin or roasted potato chunks",
+      "portion_estimate": "180g",
+      "confidence": 80
+    },
+    {
+      "name": "baked potato or potato croquette (round, gratinated)",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "white bread roll (ciabatta or similar)",
+      "portion_estimate": "60g",
+      "confidence": 65
+    },
+    {
+      "name": "sour cream or condiment (in small container)",
+      "portion_estimate": "uncertain (small scoop, ~20g)",
+      "confidence": 55
+    },
+    {
+      "name": "carbonated beverage (can)",
+      "portion_estimate": "uncertain (standard 330ml can)",
+      "confidence": 60
+    }
+  ]
+}

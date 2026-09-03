@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli and protein with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with vegetables (spaghetti bolognese or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cooked chickpeas (hummus or seasoned)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

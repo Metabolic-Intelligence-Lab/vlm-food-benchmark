@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "green vegetables (possibly spinach or kale)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "two muffins",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "a small container of yogurt with fruit pieces",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "two donuts or pastries in a plastic bag",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

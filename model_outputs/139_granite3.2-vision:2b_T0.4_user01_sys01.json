@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish fillet",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "meat or poultry dish (sandwich or wrap)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "dessert item (ice cream or pastry)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fish with olives and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "vegetables (green and yellow)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "beans",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roll (in plastic bag)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "small red balls (possibly fruit or candy)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

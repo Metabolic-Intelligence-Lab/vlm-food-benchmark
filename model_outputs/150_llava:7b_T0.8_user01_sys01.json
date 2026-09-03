@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Caesar salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Parmesan breadsticks",
+      "portion_estimate": "2 pieces",
+      "confidence": 70
+    },
+    {
+      "name": "Mixed vegetables with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Carrot and potato salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Grapes",
+      "portion_estimate": "1 cup",
+      "confidence": 70
+    },
+    {
+      "name": "Green salad with spinach and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Raspberry muffin",
+      "portion_estimate": "1",
+      "confidence": 70
+    }
+  ]
+}

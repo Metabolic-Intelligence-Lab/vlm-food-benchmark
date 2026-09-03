@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "lentil or bean soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "roti or naan",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "curry or chutney",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "yogurt or similar dairy product",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "mixed vegetables or salad",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

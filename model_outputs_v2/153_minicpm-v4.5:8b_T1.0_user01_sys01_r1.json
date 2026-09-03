@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "quiche with vegetables (cherry tomatoes, possibly mushrooms, and cheese)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole pear",
+      "portion_estimate": "150 grams",
+      "confidence": 100
+    },
+    {
+      "name": "small roll or bread",
+      "portion_estimate": "30 grams",
+      "confidence": 90
+    }
+  ]
+}

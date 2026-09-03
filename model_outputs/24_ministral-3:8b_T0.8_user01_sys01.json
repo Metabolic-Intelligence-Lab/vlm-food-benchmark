@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "baked egg with sesame seeds and lemon slice",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "canned yogurt (Tommie, strawberry-flavored)",
+      "portion_estimate": "125g",
+      "confidence": 80
+    },
+    {
+      "name": "baby carrots (steamed)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "barley or cooked grain with butter/oil",
+      "portion_estimate": "200g",
+      "confidence": 70
+    },
+    {
+      "name": "pumpkin seeds (pepitas)",
+      "portion_estimate": "50g",
+      "confidence": 75
+    },
+    {
+      "name": "apple (whole, unpeeled)",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "white bread roll (wrapped)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

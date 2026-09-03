@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato-based vegetable sauce (zucchini/eggplant and carrots visible)",
+      "portion_estimate": "300 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked leafy greens (spinach/chard-like)",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded fish fillet (likely spinach-stuffed)",
+      "portion_estimate": "130 g",
+      "confidence": "55"
+    },
+    {
+      "name": "mixed salad (cabbage, cucumber, radicchio)",
+      "portion_estimate": "90 g",
+      "confidence": "75"
+    },
+    {
+      "name": "plain bread roll/bun",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "strawberry yogurt drink (small bottle)",
+      "portion_estimate": "200 g",
+      "confidence": "65"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "200 g",
+      "confidence": "75"
+    }
+  ]
+}

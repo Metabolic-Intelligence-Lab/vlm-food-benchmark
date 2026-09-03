@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Biscuit with orange spread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Snack (possibly vegetables or cheese)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

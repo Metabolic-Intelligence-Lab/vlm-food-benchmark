@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "sauced green beans",
+      "portion_estimate": "160 g",
+      "confidence": "85"
+    },
+    {
+      "name": "creamy white-sauce meat or fish pieces",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "cooked leafy greens",
+      "portion_estimate": "100 g",
+      "confidence": "80"
+    },
+    {
+      "name": "boiled potato chunks mixed with greens",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "150 g",
+      "confidence": "95"
+    },
+    {
+      "name": "wrapped bread roll or bread portion",
+      "portion_estimate": "50 g",
+      "confidence": "55"
+    }
+  ]
+}

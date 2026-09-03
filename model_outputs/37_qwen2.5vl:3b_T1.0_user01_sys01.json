@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread with Spinach and Mozzarella",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Salad with Red Cabbage and Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    }
+  ]
+}

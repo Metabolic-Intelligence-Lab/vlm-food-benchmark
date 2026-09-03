@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable soup",
+      "portion_estimate": "250g",
+      "confidence": 80
+    },
+    {
+      "name": "Steamed cauliflower",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "Grilled cheese sandwich (half)",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "Bread (sliced)",
+      "portion_estimate": "40g",
+      "confidence": 80
+    },
+    {
+      "name": "Kool-Aid",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200g",
+      "confidence": 90
+    }
+  ]
+}

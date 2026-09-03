@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "french fries",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "grilled cheese sandwich",
+      "portion_estimate": "280",
+      "confidence": 95
+    },
+    {
+      "name": "poached egg on top of sandwich",
+      "portion_estimate": "30",
+      "confidence": 95
+    },
+    {
+      "name": "steamed spinach",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "110",
+      "confidence": 95
+    }
+  ]
+}

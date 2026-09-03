@@ -1,0 +1,16 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice",
+      "portion_estimate": "350 g",
+      "confidence": 95
+    },
+    {
+      "name": "shredded protein or vegetable mix",
+      "portion_estimate": "200 g",
+      "confidence": 85
+    }
+  ],
+  "total_estimated_weight": "550 g",
+  "notes": "The mixture appears to be a rice dish with added shredded ingredient."
+}

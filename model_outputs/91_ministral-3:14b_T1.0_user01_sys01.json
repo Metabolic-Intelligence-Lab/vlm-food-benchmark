@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "tomato soup with croutons and grated cheese",
+      "portion_estimate": "400",
+      "confidence": "85"
+    },
+    {
+      "name": "boiled or steamed spinach",
+      "portion_estimate": "80",
+      "confidence": "80"
+    },
+    {
+      "name": "grilled or fried chicken breast pieces",
+      "portion_estimate": "120",
+      "confidence": "78"
+    },
+    {
+      "name": "white bread roll (possibly whole wheat)",
+      "portion_estimate": "60",
+      "confidence": "82"
+    },
+    {
+      "name": "sour cream or yogurt dip",
+      "portion_estimate": "85",
+      "confidence": "75"
+    },
+    {
+      "name": "water in a clear plastic cup",
+      "portion_estimate": "250",
+      "confidence": "90"
+    }
+  ]
+}

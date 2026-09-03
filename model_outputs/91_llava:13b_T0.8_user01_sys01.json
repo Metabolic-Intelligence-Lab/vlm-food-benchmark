@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup with crumbled cheese and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "grilled chicken breast with steamed greens",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sugar packet",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

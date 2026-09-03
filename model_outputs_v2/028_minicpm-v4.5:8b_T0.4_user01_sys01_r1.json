@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "spinach pasta",
+      "portion_estimate": "200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "pumpkin ravioli",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed salad (cucumber, lettuce)",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 ml",
+      "confidence": "100"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    }
+  ]
+}

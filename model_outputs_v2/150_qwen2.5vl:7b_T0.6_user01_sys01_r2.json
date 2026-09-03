@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with grated cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Stuffed pumpkin",
+      "portion_estimate": "75 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "150 grams",
+      "confidence": 70
+    }
+  ]
+}

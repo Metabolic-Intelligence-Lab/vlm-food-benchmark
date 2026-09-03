@@ -1,0 +1,28 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken fillet",
+      "portion_estimate": "approximate weight in grams estimated based on typical portion size and plate dimensions, with a confidence score of approximately 80.",
+      "confidence": 80,
+      "uncertainty": ""
+    },
+    {
+      "name": "Pasta salad",
+      "portion_estimate": "approximate weight in grams estimated based on typical portion size and bowl dimensions, with a confidence score of approximately 75.",
+      "confidence": 75,
+      "uncertainty": "Uncertain due to potential variations"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "approximate weight in grams estimated based on typical portion size and plate dimensions, with a confidence score of approximately 90.",
+      "confidence": 90,
+      "uncertainty": ""
+    },
+    {
+      "name": "Blueberries",
+      "portion_estimate": "approximate weight in grams estimated as a set amount for convenience due to their small nature, with a confidence score of approximately 65.",
+      "confidence": 72.5,
+      "uncertainty": ""
+    }
+  ]
+}

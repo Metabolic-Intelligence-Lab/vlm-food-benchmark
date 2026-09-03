@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "100 grams (approx. 4-5 medium slices)",
+      "confidence": 95
+    },
+    {
+      "name": "carrot falafel balls",
+      "portion_estimate": "50 grams (approx. 2-3 balls)",
+      "confidence": 85
+    },
+    {
+      "name": "green vegetable soup (likely lentil or spinach-based)",
+      "portion_estimate": "200 grams (bowl size estimate)",
+      "confidence": 80
+    },
+    {
+      "name": "torinisi (fried eggplant balls)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "packaged tomato sauce (Torinese brand)",
+      "portion_estimate": "uncertain (small can, ~100-150g)",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato and vegetables",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "corn cakes",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "peaches",
+      "portion_estimate": "300",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "85"
+    }
+  ]
+}

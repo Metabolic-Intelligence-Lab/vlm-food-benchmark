@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad with mixed greens and carrots",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded fish fillet",
+      "portion_estimate": "125 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Coleslaw",
+      "portion_estimate": "75 grams",
+      "confidence": "90"
+    }
+  ]
+}

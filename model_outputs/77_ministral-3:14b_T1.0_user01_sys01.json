@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked brown kidney beans with green beans",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll (packaged, likely white)",
+      "portion_estimate": "70g",
+      "confidence": "85"
+    },
+    {
+      "name": "breaded baked chicken breast",
+      "portion_estimate": "120g",
+      "confidence": "88"
+    },
+    {
+      "name": "baked or steamed broccoli with cheese or herb seasoning",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "red potatoes (medium, 2 whole)",
+      "portion_estimate": "180g",
+      "confidence": "80"
+    }
+  ]
+}

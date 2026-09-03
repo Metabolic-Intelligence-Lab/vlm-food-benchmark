@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "Cheese and Spinach Quiche",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "Side Spinach Dish",
+      "portion_estimate": "80g",
+      "confidence": 60
+    }
+  ]
+}

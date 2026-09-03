@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "ground beef meatballs",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "fresh spinach",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "tomato paste",
+      "portion_estimate": "100",
+      "confidence": "65"
+    }
+  ]
+}

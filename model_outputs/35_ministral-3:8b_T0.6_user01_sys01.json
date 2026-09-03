@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans (steamed)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "chickpea or lentil patty",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat or multigrain roll (packaged)",
+      "portion_estimate": "60 grams",
+      "confidence": 75
+    },
+    {
+      "name": "pasta (penne) with cheese and herbs",
+      "portion_estimate": "200 grams (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    }
+  ]
+}

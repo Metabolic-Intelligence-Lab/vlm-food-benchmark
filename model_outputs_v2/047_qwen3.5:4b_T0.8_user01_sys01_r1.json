@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with red sauce",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "Omelet (scrambled eggs)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Steamed green beans",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "Burger bun (uncovered)",
+      "portion_estimate": "35",
+      "confidence": 80
+    },
+    {
+      "name": "Spirits of Spring water",
+      "portion_estimate": "250",
+      "confidence": 70
+    }
+  ]
+}

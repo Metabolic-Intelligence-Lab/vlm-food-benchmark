@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "boiled or steamed green beans (with pods)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed greens (e.g., broccoli or collard greens)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "grilled or baked chicken breast (with seasoning)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or rye bread roll (sliced)",
+      "portion_estimate": "60 grams",
+      "confidence": 75
+    },
+    {
+      "name": "butter or margarine (on chicken breast)",
+      "portion_estimate": "10 grams",
+      "confidence": 70
+    },
+    {
+      "name": "sour cream (in small container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "plastic wrap (not edible)",
+      "portion_estimate": "0 grams (not applicable)",
+      "confidence": 0
+    }
+  ]
+}

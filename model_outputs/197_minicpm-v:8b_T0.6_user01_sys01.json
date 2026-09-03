@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain, approx 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain, approx 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "meatballs in gravy",
+      "portion_estimate": "approx. 80g each for two meatballs",
+      "confidence": "70"
+    },
+    {
+      "name": "tomato sauce with pasta or rice",
+      "portion_estimate": "uncertain, approx 250-300g",
+      "confidence": "60"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "approx. 100g",
+      "confidence": "70"
+    }
+  ]
+}

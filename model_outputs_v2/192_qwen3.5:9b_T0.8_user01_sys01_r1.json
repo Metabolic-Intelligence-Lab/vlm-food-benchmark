@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Baked chicken schnitzel",
+      "portion_estimate": 140,
+      "confidence": 92
+    },
+    {
+      "name": "Saut\u00e9ed dark leafy greens (e.g., spinach or collards)",
+      "portion_estimate": 85,
+      "confidence": 94
+    },
+    {
+      "name": "Tomato sauce pasta with rigatoni",
+      "portion_estimate": 260,
+      "confidence": 93
+    },
+    {
+      "name": "Whole orange",
+      "portion_estimate": 150,
+      "confidence": 98
+    }
+  ]
+}

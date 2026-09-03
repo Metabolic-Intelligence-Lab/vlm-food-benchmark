@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup (pureed)",
+      "portion_estimate": "320 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated cheese topping on soup",
+      "portion_estimate": "8 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "72"
+    },
+    {
+      "name": "baked cornmeal/polenta patty with tomato slice (single piece)",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    },
+    {
+      "name": "cooked pasta (small serving, possibly with sauce)",
+      "portion_estimate": "130 g",
+      "confidence": "58"
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water (in cup)",
+      "portion_estimate": "200 g",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Eggs",
+      "portion_estimate": "40-50 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "30-40 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Sourdough bread",
+      "portion_estimate": "50-60 g",
+      "confidence": "50"
+    },
+    {
+      "name": "Oranges",
+      "portion_estimate": "200-250 g",
+      "confidence": "80"
+    }
+  ]
+}

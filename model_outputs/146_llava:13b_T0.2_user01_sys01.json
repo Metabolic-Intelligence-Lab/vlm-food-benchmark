@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Wrapped Sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Butter or Margarine Packet",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Macaroni Salad",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Small Bowl (Fruit or Yogurt)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Saltine Crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

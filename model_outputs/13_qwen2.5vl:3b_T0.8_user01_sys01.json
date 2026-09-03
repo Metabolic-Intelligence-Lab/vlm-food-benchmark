@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "slice of watermelon",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed greens",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "crispy fried item",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    }
+  ]
+}

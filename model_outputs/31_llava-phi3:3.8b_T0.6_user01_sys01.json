@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "2 inches in diameter",
+      "confidence": 90
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "6 inches long and 1.5 inches wide",
+      "confidence": 90
+    },
+    {
+      "name": "white plate with green beans",
+      "portion_estimate": "plate is approximately 8x6 inches, contains around 3/4 cup of cooked green beans and a small portion of meat or fish on top",
+      "confidence": 70
+    }
+  ]
+}

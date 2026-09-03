@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "seasoned patty with sauce and shredded topping",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "bowtie pasta",
+      "portion_estimate": "250g",
+      "confidence": 98
+    },
+    {
+      "name": "chopped meat or potatoes",
+      "portion_estimate": "70g",
+      "confidence": 85
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50g",
+      "confidence": 95
+    }
+  ]
+}

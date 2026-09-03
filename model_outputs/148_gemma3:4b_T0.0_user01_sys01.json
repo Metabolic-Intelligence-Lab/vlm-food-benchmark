@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Penne Pasta with Pesto",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "Small Cake",
+      "portion_estimate": "60g",
+      "confidence": 70
+    }
+  ]
+}

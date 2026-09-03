@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup with grated parmesan cheese",
+      "portion_estimate": "350",
+      "confidence": "75"
+    },
+    {
+      "name": "boiled peas and carrots side dish",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit puree cup (Zuegg)",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll, packaged",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "packaged cheese wedge",
+      "portion_estimate": "20",
+      "confidence": "55"
+    }
+  ]
+}

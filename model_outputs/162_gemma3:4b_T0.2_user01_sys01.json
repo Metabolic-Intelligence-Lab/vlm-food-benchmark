@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "80",
+      "confidence": 95
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "Potato Slice",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Potato",
+      "portion_estimate": "80",
+      "confidence": 70
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "250",
+      "confidence": 90
+    }
+  ]
+}

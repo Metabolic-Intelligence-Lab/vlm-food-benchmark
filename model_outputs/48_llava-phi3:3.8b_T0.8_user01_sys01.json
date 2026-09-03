@@ -1,0 +1,36 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "2 inches diameter",
+      "confidence": "90"
+    },
+    {
+      "name": "Sausage in bowl",
+      "portion_estimate": "1/4 cup",
+      "confidence": "80"
+    },
+    {
+      "name": "White plate with food",
+      "portion_estimate": {
+        "potato salad": "2/3 cup",
+        "egg salad": "1 small bowl",
+        "shredded cheese": "1 ounce",
+        "onions": "1 tablespoon"
+      },
+      "confidence": "80"
+    }
+  ],
+  "tray_contents": [
+    {
+      "name": "Tissue paper on tray",
+      "portion_estimate": "2 inches long",
+      "confidence": "90"
+    },
+    {
+      "name": "Red and white container of ice cream",
+      "portion_estimate": "1/4 cup",
+      "confidence": "70"
+    }
+  ]
+}

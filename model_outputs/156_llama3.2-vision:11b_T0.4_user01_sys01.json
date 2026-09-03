@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Brussels Sprouts",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Egg Omelette",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    }
+  ]
+}

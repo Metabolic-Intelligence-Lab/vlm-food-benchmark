@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup (likely vegetable or chicken noodle)",
+      "portion_estimate": "450 grams",
+      "confidence": 75
+    },
+    {
+      "name": "baked bread roll (plain)",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "grilled or baked fish fillet (appears to be cod or similar white fish)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed or roasted mixed vegetables (potatoes, carrots, and possibly onions)",
+      "portion_estimate": "120 grams",
+      "confidence": 70
+    },
+    {
+      "name": "condiment packet (likely containing butter or cheese)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "condiment packet (likely containing salt or seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "condiment packet (likely containing sugar or sweetener)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

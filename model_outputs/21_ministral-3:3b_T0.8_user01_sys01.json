@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried fish with breadcrumbs and green beans",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "mashed potatoes with carrot chunks and shredded cheese",
+      "portion_estimate": "130",
+      "confidence": 80
+    },
+    {
+      "name": "plain water in a glass",
+      "portion_estimate": "200",
+      "confidence": 70
+    },
+    {
+      "name": "plum or dark grape on napkin",
+      "portion_estimate": "20",
+      "confidence": 75
+    },
+    {
+      "name": "condiment packet (sauce or gravy) on napkin",
+      "portion_estimate": "5",
+      "confidence": 75
+    }
+  ]
+}

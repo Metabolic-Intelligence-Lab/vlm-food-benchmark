@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup",
+      "portion_estimate": "uncertain, approx 300g-500g",
+      "confidence": "60"
+    },
+    {
+      "name": "bowl with white powder on top (unidentified)",
+      "portion_estimate": "uncertain, approx 125g",
+      "confidence": "40"
+    },
+    {
+      "name": "small container of yogurt",
+      "portion_estimate": "uncertain, approx 3oz-4oz",
+      "confidence": "60"
+    },
+    {
+      "name": "glass with clear liquid (water)",
+      "portion_estimate": "uncertain, approx 250ml",
+      "confidence": "70"
+    },
+    {
+      "name": "plate of mixed greens and chicken strips",
+      "portion_estimate": "uncertain, approx 100g-300g",
+      "confidence": "60"
+    },
+    {
+      "name": "dark leafy vegetables (possibly kale or spinach)",
+      "portion_estimate": "uncertain, approx 50g-100g",
+      "confidence": "70"
+    },
+    {
+      "name": "baked bun on a tray",
+      "portion_estimate": "uncertain, approx 6oz-8oz",
+      "confidence": "40"
+    }
+  ]
+}

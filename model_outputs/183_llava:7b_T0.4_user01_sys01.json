@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pizza",
+      "portion_estimate": "1 slice",
+      "confidence": "60"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "1 serving",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "1 slice",
+      "confidence": "60"
+    },
+    {
+      "name": "Vegetables (Brussels sprouts)",
+      "portion_estimate": "1 serving",
+      "confidence": "80"
+    }
+  ]
+}

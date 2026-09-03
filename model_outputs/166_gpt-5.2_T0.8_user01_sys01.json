@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with tomato sauce",
+      "portion_estimate": "230 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated parmesan cheese (on pasta)",
+      "portion_estimate": "8 g",
+      "confidence": "68"
+    },
+    {
+      "name": "baked savory pie slice (likely spinach/cheese filled)",
+      "portion_estimate": "170 g",
+      "confidence": "62"
+    },
+    {
+      "name": "cooked leafy greens (spinach/chicory) with potato pieces",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "82"
+    },
+    {
+      "name": "sealed dessert cup (uncertain type)",
+      "portion_estimate": "100 g",
+      "confidence": "55"
+    }
+  ]
+}

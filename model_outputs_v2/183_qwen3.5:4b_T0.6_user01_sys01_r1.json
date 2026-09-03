@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "flatbread with green topping",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "grilled cheese sandwich half",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "soup with parmesan",
+      "portion_estimate": "300",
+      "confidence": 95
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "180",
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli and potato salad",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed vegetable medley",
+      "portion_estimate": "250",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded and fried fish fillet with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "30",
+      "confidence": "90"
+    },
+    {
+      "name": "packaged cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    }
+  ]
+}

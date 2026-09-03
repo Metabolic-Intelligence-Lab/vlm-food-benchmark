@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "sliced eggplant with onions and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "spiral pasta salad (rotini)",
+      "portion_estimate": "148g",
+      "confidence": "95"
+    },
+    {
+      "name": "broccoli and tomato stuffed eggplant",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

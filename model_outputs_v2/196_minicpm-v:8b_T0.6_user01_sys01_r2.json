@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "bowl of brown liquid (possibly soup or gravy)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "plate with sliced chicken and chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

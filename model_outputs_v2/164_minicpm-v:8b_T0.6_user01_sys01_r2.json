@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain, approximately a standard bread roll size",
+      "confidence": "50"
+    },
+    {
+      "name": "soup with butter on top",
+      "portion_estimate": "approx. 200g based on typical portion sizes for such dishes",
+      "confidence": "90"
+    },
+    {
+      "name": "yogurt pot",
+      "portion_estimate": "125g as labeled, typically a single serving size",
+      "confidence": "80"
+    },
+    {
+      "name": "chips on top of fried item",
+      "portion_estimate": "uncertain but likely approximately 30g based on typical snack sizes",
+      "confidence": "60"
+    },
+    {
+      "name": "cooked greens with red sauce",
+      "portion_estimate": "approx. 150-200g, common serving size for such dishes",
+      "confidence": "80"
+    }
+  ]
+}

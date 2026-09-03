@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "creamy vegetable soup (pureed, yellow; possibly pumpkin/squash) with grated cheese on top",
+      "portion_estimate": "320 g",
+      "confidence": "72"
+    },
+    {
+      "name": "grated cheese topping (likely parmesan) on soup",
+      "portion_estimate": "8 g",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll (small, packaged)",
+      "portion_estimate": "55 g",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded chicken nuggets/cutlets",
+      "portion_estimate": "120 g",
+      "confidence": "68"
+    },
+    {
+      "name": "diced potato salad (potatoes with herbs/oil dressing)",
+      "portion_estimate": "170 g",
+      "confidence": "62"
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "78"
+    },
+    {
+      "name": "ketchup packet",
+      "portion_estimate": "10 g",
+      "confidence": "60"
+    }
+  ]
+}

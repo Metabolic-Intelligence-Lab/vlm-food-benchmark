@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "brussels sprouts (raw, ~12 pieces)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "breaded fish fillet (fried or baked)",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or saut\u00e9ed leafy greens (e.g., kale or spinach)",
+      "portion_estimate": "80",
+      "confidence": 75
+    },
+    {
+      "name": "eggplant (whole, 2 medium)",
+      "portion_estimate": "300",
+      "confidence": 90
+    }
+  ]
+}

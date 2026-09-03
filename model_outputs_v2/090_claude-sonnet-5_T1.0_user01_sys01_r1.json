@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "boiled white rice with grated cheese and oil drizzle",
+      "portion_estimate": "220",
+      "confidence": "75"
+    },
+    {
+      "name": "boiled sliced carrots with diced potatoes",
+      "portion_estimate": "180",
+      "confidence": "78"
+    },
+    {
+      "name": "chicken and vegetable salad with spinach and diced potatoes",
+      "portion_estimate": "120",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll, wrapped",
+      "portion_estimate": "70",
+      "confidence": "75"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

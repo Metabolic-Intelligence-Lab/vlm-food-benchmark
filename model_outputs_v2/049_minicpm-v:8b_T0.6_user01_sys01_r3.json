@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta",
+      "portion_estimate": "200g",
+      "confidence": "95"
+    },
+    {
+      "name": "Black olives",
+      "portion_estimate": "uncertain weight, approx. several pieces",
+      "confidence": "60"
+    },
+    {
+      "name": "Sliced tomatoes",
+      "portion_estimate": "20g",
+      "confidence": "95"
+    },
+    {
+      "name": "Greek yogurt",
+      "portion_estimate": "uncertain weight, approx. several dollops",
+      "confidence": "60"
+    },
+    {
+      "name": "Chopped chicken breast",
+      "portion_estimate": "125g",
+      "confidence": "95"
+    }
+  ]
+}

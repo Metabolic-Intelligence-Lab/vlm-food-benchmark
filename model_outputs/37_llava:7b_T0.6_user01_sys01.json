@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Breakfast burger with fried egg, lettuce and tomato",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad with assorted vegetables",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Spaghetti with cheese and herbs",
+      "portion_estimate": "300g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fruit salad",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ]
+}

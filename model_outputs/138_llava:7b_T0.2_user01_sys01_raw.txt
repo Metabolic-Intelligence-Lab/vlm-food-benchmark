@@ -1,0 +1,17 @@
+The image shows a dish that appears to be a type of rice pilaf or mixed rice, possibly containing vegetables and some kind of protein. It's served in a clear plastic container with a lid. The dish has a golden-brown color, suggesting it might have been cooked with oil or butter, and there are visible pieces of what could be onions, herbs, and possibly nuts or seeds mixed in.
+
+Based on the image provided, here is the JSON output:
+
+```json
+{
+  "food_items": [
+    {
+      "name": "Rice pilaf with vegetables",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    }
+  ]
+}
+```
+
+The portion size is estimated to be approximately 150 grams, which is a common serving size for a dish like this. The confidence level is set at 70 because the image does not provide enough detail to determine the exact quantity of each ingredient or the precise cooking method, so there may be some uncertainty in the portion estimate.

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked broccoli florets",
+      "portion_estimate": "140 g",
+      "confidence": "75"
+    },
+    {
+      "name": "white fish fillet (cooked, likely cod/pollock)",
+      "portion_estimate": "140 g",
+      "confidence": "65"
+    },
+    {
+      "name": "chickpeas (cooked/canned, drained)",
+      "portion_estimate": "160 g",
+      "confidence": "80"
+    },
+    {
+      "name": "slice of whole-grain bread",
+      "portion_estimate": "45 g",
+      "confidence": "78"
+    },
+    {
+      "name": "single-serve dairy dessert/yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    }
+  ]
+}

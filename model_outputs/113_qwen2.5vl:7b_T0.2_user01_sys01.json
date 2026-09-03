@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Cornbread",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Brussels Sprouts",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "30",
+      "confidence": "60"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "200",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "canned food (possibly bread or a side dish)",
+      "portion_estimate": "125g",
+      "confidence": "60"
+    },
+    {
+      "name": "fried patty",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    }
+  ]
+}

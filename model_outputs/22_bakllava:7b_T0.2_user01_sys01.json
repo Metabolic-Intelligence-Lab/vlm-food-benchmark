@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice and curry",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bagel",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

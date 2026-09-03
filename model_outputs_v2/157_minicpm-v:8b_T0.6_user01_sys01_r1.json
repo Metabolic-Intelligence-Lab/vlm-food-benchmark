@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with parmesan cheese",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Baked potato",
+      "portion_estimate": "uncertain, approx 80-90g",
+      "confidence": "70"
+    },
+    {
+      "name": "Muffin or cake",
+      "portion_estimate": "uncertain, approx 60g",
+      "confidence": "50"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "uncertain, approx 120-140g",
+      "confidence": "70"
+    },
+    {
+      "name": "Chickpeas with mushroom and garlic bread",
+      "portion_estimate": "uncertain, approx 50g for chickpeas, 30g for mushrooms, combined ~80g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed broccoli and mixed vegetables",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Mixed vegetable and creamy soup",
+      "portion_estimate": "320g",
+      "confidence": "90"
+    },
+    {
+      "name": "Toasted bread with egg/cheese topping",
+      "portion_estimate": "110g",
+      "confidence": "90"
+    },
+    {
+      "name": "Boiled potato",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    },
+    {
+      "name": "Small cooked side starch/biscuit",
+      "portion_estimate": "30g",
+      "confidence": "75"
+    }
+  ]
+}

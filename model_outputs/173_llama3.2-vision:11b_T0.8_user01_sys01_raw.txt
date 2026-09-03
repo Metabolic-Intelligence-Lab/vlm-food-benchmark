@@ -1,0 +1,41 @@
+Based on the input image, I have identified the following food and beverage items:
+
+*   Green beans: 125g
+*   Hard-boiled eggs: 2 x 50g
+*   Macaroni and cheese: 150g
+*   Bread: 55g
+*   Orange: 70g
+
+Here is the output in the required JSON format:
+
+```json
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "125g",
+      "confidence": "100"
+    },
+    {
+      "name": "Hard-boiled eggs",
+      "portion_estimate": "100g",
+      "confidence": "100"
+    },
+    {
+      "name": "Macaroni and cheese",
+      "portion_estimate": "150g",
+     
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "55g",
+      "confidence": "100"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "70g",
+      "confidence": "100"
+    }
+  ]
+}
+```

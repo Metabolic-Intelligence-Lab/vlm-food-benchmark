@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed green vegetable and chickpea pilaf",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "baked salmon fillet with sauce and vegetables",
+      "portion_estimate": "220g",
+      "confidence": 88
+    },
+    {
+      "name": "roasted sweet potatoes (or similar root vegetables)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "pre-packaged whipped dessert (brand 'Knorr', likely fruit-flavored)",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "sliced cheese (appears semi-hard, such as cheddar)",
+      "portion_estimate": "50g",
+      "confidence": 75
+    }
+  ]
+}

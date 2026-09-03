@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta (farfalle) with creamy sauce",
+      "portion_estimate": "240 g",
+      "confidence": "68"
+    },
+    {
+      "name": "diced cooked carrots",
+      "portion_estimate": "90 g",
+      "confidence": "72"
+    },
+    {
+      "name": "roasted chicken thigh (with skin) with sauce/glaze",
+      "portion_estimate": "180 g",
+      "confidence": "70"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "78"
+    },
+    {
+      "name": "single-serve cream cheese spread (unopened cup)",
+      "portion_estimate": "25 g",
+      "confidence": "60"
+    }
+  ]
+}

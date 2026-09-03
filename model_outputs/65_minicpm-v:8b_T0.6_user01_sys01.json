@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Yellow sauce on a fried egg",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Roasted potatoes with seasoning",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Whole grain bun",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt container (Red Ono)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

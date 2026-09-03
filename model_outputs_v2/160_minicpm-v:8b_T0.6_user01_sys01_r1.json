@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Oatmeal with milk and toppings",
+      "portion_estimate": "uncertain, approx 100g-200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain, approx 300g-400g",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrot cake with cream cheese frosting",
+      "portion_estimate": "uncertain, approx 150g-200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx 60g-80g",
+      "confidence": "40"
+    }
+  ]
+}

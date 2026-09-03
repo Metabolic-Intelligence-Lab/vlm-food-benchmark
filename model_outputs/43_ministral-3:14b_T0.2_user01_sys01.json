@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "grilled stuffed potato (e.g., filled with meat and cheese)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "diced cucumber salad",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "baguette roll",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt or sour cream (in disposable container)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

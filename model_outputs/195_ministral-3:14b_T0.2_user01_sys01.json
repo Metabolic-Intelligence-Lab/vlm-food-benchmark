@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roasted or baked sweet potato cubes",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "pasta with tomato-based sauce (e.g., macaroni or penne)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "ground beef or meat crumbles (possibly seasoned or cooked)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "salt or seasoning granules (small bowl)",
+      "portion_estimate": "10",
+      "confidence": 70
+    }
+  ]
+}

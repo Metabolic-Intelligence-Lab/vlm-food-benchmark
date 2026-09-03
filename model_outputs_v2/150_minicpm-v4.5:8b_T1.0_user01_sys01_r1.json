@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mini bread roll",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed vegetables (potatoes, carrots, Brussels sprouts)",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "small quiche or frittata",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "120 grams",
+      "confidence": "90"
+    }
+  ]
+}

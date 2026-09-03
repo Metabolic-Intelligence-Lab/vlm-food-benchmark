@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "crispy fried breaded chicken patty",
+      "portion_estimate": "20 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "leaves",
+      "portion_estimate": "100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "orange carrot sticks",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "chickpeas in sauce",
+      "portion_estimate": "100 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "40 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "red label container",
+      "portion_estimate": "uncertain grams",
+      "confidence": "40"
+    }
+  ]
+}

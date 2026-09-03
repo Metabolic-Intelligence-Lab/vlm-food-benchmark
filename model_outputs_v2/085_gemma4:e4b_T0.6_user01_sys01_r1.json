@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Curry or creamy stew with cheese topping",
+      "portion_estimate": "320",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked dark leafy greens (e.g., spinach or kale)",
+      "portion_estimate": "110",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried or breaded croquettes (2 pieces)",
+      "portion_estimate": "160",
+      "confidence": "75"
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": "170",
+      "confidence": "95"
+    },
+    {
+      "name": "Packaged processed cheese or block cheese",
+      "portion_estimate": "60",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "sugar-added milk drink (200ml, brand: 'Vola Zuccheri Aggiunti')",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "baked good (plain, rectangular cookie-like item, possibly biscotti)",
+      "portion_estimate": "40",
+      "confidence": 85
+    },
+    {
+      "name": "baked good (sliced, browned sandwich cookie, Starbucks style)",
+      "portion_estimate": "20",
+      "confidence": 88
+    }
+  ]
+}

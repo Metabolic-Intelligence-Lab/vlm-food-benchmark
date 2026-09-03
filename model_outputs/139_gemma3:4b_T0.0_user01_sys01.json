@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fish fillet",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Rice with vegetables",
+      "portion_estimate": "200g",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "150g",
+      "confidence": 90
+    }
+  ]
+}

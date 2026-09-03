@@ -1,0 +1,20 @@
+{
+  "food_items": [
+    {
+      "name": "Mushrooms",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "Bell Peppers",
+      "portion_estimate": 50,
+      "confidence": 70
+    },
+    {
+      "name": "Green Onions",
+      "portion_estimate": 20,
+      "confidence": 60
+    }
+  ],
+  "total_portion_size": 170
+}

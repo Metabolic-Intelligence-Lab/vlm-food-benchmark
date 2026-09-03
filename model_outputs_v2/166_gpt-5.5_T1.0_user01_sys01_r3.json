@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with tomato sauce and grated cheese",
+      "portion_estimate": "180 g",
+      "confidence": "90"
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "88"
+    },
+    {
+      "name": "individual yogurt or dairy dessert cup",
+      "portion_estimate": "125 g",
+      "confidence": "78"
+    },
+    {
+      "name": "piece of focaccia or savory flatbread",
+      "portion_estimate": "90 g",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked leafy greens with potato pieces",
+      "portion_estimate": "120 g",
+      "confidence": "80"
+    }
+  ]
+}

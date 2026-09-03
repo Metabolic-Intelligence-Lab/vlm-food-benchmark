@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (whole wheat, if visible)",
+      "portion_estimate": "100-150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "chicken breast (in chunks)",
+      "portion_estimate": "50-80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "tomato slices",
+      "portion_estimate": "30-50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "black olives (in chunks)",
+      "portion_estimate": "20-30 grams",
+      "confidence": 75
+    },
+    {
+      "name": "white sauce (possibly ricotta or cream-based)",
+      "portion_estimate": "50-70 grams",
+      "confidence": 70
+    }
+  ]
+}

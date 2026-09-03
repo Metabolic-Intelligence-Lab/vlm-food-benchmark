@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Breaded chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Soup with beans and cheese sprinkles",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Chicken fillet",
+      "portion_estimate": "150-200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll with a spread inside (possibly butter or cream cheese)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrot sticks",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Soy sauce for dipping",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

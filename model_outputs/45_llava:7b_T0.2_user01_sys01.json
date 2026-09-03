@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken breast with seasoning",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrot salad",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "Corn on the cob",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Green salad with dressing",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Sliced carrots on a plate",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

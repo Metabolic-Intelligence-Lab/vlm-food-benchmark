@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed grain noodles and vegetables stir-fry",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Scrambled paneer or crumbled soft cheese",
+      "portion_estimate": "110g",
+      "confidence": "75"
+    },
+    {
+      "name": "Cucumber and mixed green salad",
+      "portion_estimate": "170g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll or small bun",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Beverage in glass cup",
+      "portion_estimate": "200g",
+      "confidence": "65"
+    }
+  ]
+}

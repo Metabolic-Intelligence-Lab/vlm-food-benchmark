@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked ground beef",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "cooked white rice",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "yogurt tube (strawberry)",
+      "portion_estimate": "62",
+      "confidence": "98"
+    },
+    {
+      "name": "package of frozen spinach",
+      "portion_estimate": "200",
+      "confidence": "75"
+    }
+  ]
+}

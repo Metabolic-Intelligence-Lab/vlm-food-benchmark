@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup with an empty spoon",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "plate with meatballs and sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bowl of vegetables, including broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

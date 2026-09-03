@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta",
+      "portion_estimate": "120 grams",
+      "confidence": 100
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": 100
+    },
+    {
+      "name": "bread slice",
+      "portion_estimate": "35 grams",
+      "confidence": 100
+    },
+    {
+      "name": "omelette",
+      "portion_estimate": "150 grams",
+      "confidence": 100
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "50 grams",
+      "confidence": 100
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "30 grams",
+      "confidence": 100
+    },
+    {
+      "name": "lima beans",
+      "portion_estimate": "30 grams",
+      "confidence": 100
+    }
+  ]
+}

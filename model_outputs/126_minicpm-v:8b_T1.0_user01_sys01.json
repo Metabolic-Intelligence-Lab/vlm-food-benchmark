@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Penne with tomato sauce",
+      "portion_estimate": "uncertain (approximate portion size)",
+      "confidence": "40"
+    },
+    {
+      "name": "Garlic bread",
+      "portion_estimate": "uncertain (approximate portion size)",
+      "confidence": "50"
+    },
+    {
+      "name": "Boiled egg sandwich",
+      "portion_estimate": "uncertain (approximate portion size)",
+      "confidence": "40"
+    },
+    {
+      "name": "Yo-Yo sweet dessert with milk",
+      "portion_estimate": "125g",
+      "confidence": "60"
+    },
+    {
+      "name": "Vegetable soup or puree on a plate (possibly avocado and cucumber)",
+      "portion_estimate": "uncertain (approximate portion size, 4-8oz possibly)",
+      "confidence": "30"
+    },
+    {
+      "name": "Potato chunks",
+      "portion_estimate": "15g each chunk",
+      "confidence": "60"
+    }
+  ]
+}

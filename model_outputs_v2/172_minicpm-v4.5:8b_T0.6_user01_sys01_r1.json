@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green peas",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    }
+  ]
+}

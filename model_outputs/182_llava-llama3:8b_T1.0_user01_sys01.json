@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "potato",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "pizza",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange slice",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "pasta with meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

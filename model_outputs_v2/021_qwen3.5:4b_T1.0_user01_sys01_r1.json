@@ -1,0 +1,28 @@
+{
+  "food_items": [
+    {
+      "name": "Baked potato topped with cheese, possibly sour cream or butter",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "Fish fillet breaded and baked (likely cod or hake)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Braised Brussels sprouts",
+      "portion_estimate": "80g",
+      "confidence": 90
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "300ml"
+    }
+  ]
+}

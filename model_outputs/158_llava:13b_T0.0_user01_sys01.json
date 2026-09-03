@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "meatballs and potatoes (k\u00f6ttbullar och spjulningar)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "pasta or noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread or roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "crackers or crisps",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "butter or margarine",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "slice of fruit (orange or similar citrus)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "condiment or sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

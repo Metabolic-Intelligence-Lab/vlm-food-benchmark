@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with olive oil and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Omelette or frittata with greens",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll (white)",
+      "portion_estimate": "1.2 oz / 34g",
+      "confidence": "90"
+    },
+    {
+      "name": "Cheese wedge",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

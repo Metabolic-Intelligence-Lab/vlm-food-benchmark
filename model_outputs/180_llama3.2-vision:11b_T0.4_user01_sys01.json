@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with pesto sauce and parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Grilled chicken breast with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Mixed greens salad with cherry tomatoes, cucumber, and balsamic vinaigrette",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Fresh fruit platter with strawberries, grapes, and pineapple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Breadsticks with marinara sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

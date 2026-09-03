@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "creamy soup or stew",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "roasted vegetables (carrots and peas)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad (mixed greens, cherry tomatoes, cucumbers)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

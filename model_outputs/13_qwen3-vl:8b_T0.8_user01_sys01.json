@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": 180,
+      "confidence": 80
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": 70,
+      "confidence": 70
+    },
+    {
+      "name": "chicken cutlet",
+      "portion_estimate": 90,
+      "confidence": 70
+    },
+    {
+      "name": "water",
+      "portion_estimate": 200,
+      "confidence": 80
+    }
+  ]
+}

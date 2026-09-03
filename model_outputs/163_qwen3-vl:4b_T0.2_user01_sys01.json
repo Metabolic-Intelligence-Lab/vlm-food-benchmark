@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable soup",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60g",
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Herb-topped fish",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Roasted squash",
+      "portion_estimate": "100g",
+      "confidence": 95
+    }
+  ]
+}

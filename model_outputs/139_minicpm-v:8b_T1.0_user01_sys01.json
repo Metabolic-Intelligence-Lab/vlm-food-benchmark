@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roast chicken",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "steamed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "172g (approximately)",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "approx. 63g, sliced in half",
+      "confidence": "85"
+    },
+    {
+      "name": "apple dessert",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

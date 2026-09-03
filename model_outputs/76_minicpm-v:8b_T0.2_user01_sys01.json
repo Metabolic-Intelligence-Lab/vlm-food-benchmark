@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with mushrooms and red peppers",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. 80-90g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed vegetables with couscous",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fruit (possibly plums)",
+      "portion_estimate": "uncertain, approx. 80-90g each",
+      "confidence": "70"
+    },
+    {
+      "name": "Oyster with garnish on a bed of sauce",
+      "portion_estimate": "uncertain, approx. 50g",
+      "confidence": "60"
+    }
+  ]
+}

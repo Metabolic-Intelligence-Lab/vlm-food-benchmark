@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of soup with grated cheese",
+      "portion_estimate": "uncertain, approx. bowl size",
+      "confidence": "50"
+    },
+    {
+      "name": "Green veggie patties on a plate",
+      "portion_estimate": "2 pieces per serving, approx. 75g each",
+      "confidence": "60"
+    },
+    {
+      "name": "Bowl of coleslaw salad with chicken",
+      "portion_estimate": "uncertain, bowl size",
+      "confidence": "40"
+    },
+    {
+      "name": "Round bread roll in plastic wrap",
+      "portion_estimate": "uncertain, approx. standard dinner roll size",
+      "confidence": "50"
+    },
+    {
+      "name": "Small container of yogurt with berries",
+      "portion_estimate": "125g per serving",
+      "confidence": "60"
+    }
+  ]
+}

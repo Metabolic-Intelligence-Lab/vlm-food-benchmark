@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "red onions",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green lettuce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "purple cabbage",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sesame seeds",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

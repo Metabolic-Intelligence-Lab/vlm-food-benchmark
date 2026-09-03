@@ -1,0 +1,82 @@
+{
+  "tray": [
+    {
+      "name": "Soup",
+      "quantity": 1,
+      "image": "https://i.stack.imgur.com/8y3nF.jpg"
+    },
+    {
+      "name": "Bread roll",
+      "quantity": 1,
+      "image": "https://i.stack.imgur.com/6X7Zg.jpg"
+    },
+    {
+      "name": "Salad",
+      "quantity": 1,
+      "image": "https://i.stack.imgur.com/2jQ9f.jpg"
+    },
+    {
+      "name": "Bread roll",
+      "quantity": 1,
+      "image": "https://i.stack.imgur.com/6X7Zg.jpg"
+    },
+    {
+      "name": "Fish cakes",
+      "quantity": 2,
+      "image": "https://i.stack.imgur.com/3z8jW.jpg"
+    },
+    {
+      "name": "Soup",
+      "quantity": 1,
+      "image": "https://i.stack.imgur.com/8y3nF.jpg"
+    }
+  ],
+  "plate_with_fishcakes": [
+    {
+      "name": "Fish cake left",
+      "quantity": 1,
+      "image": "https://i.stack.imgur.com/7J4X6.jpg"
+    },
+    {
+      "name": "Fish cake right",
+      "quantity": 1,
+      "image": "https://i.stack.imgur.com/3z8jW.jpg"
+    }
+  ],
+  "plate_with_salad": [
+    {
+      "name": "Salad left",
+      "quantity": 1,
+      "image": "https://i.stack.imgur.com/2jQ9f.jpg"
+    },
+    {
+      "name": "Salad right",
+      "quantity": 1,
+      "image": "https://i.stack.imgur.com/6X7Zg.jpg"
+    }
+  ],
+  "plate_with_breadrolls": [
+    {
+      "name": "Bread roll left",
+      "quantity": 1,
+      "image": "https://i.stack.imgur.com/6X7Zg.jpg"
+    },
+    {
+      "name": "Bread roll right",
+      "quantity": 1,
+      "image": "https://i.stack.imgur.com/8y3nF.jpg"
+    }
+  ],
+  "plate_with_soup": [
+    {
+      "name": "Soup left",
+      "quantity": 1,
+      "image": "https://i.stack.imgur.com/8y3nF.jpg"
+    },
+    {
+      "name": "Soup right",
+      "quantity": 1,
+      "image": "https://i.stack.imgur.com/7J4X6.jpg"
+    }
+  ]
+}

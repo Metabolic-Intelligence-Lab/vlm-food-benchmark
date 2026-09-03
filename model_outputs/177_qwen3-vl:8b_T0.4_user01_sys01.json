@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Pesto Bread",
+      "portion_estimate": "1 slice (approximately 1/2 cup or 50\u201360 g)",
+      "confidence": 95
+    },
+    {
+      "name": "White Sauce",
+      "portion_estimate": "1 tablespoon (approximately 15 ml or 15 g)",
+      "confidence": 95
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "1 ounce (approximately 28 g)",
+      "confidence": 95
+    },
+    {
+      "name": "Roasted Brussels Sprouts",
+      "portion_estimate": "5\u20136 pieces (approximately 1/4 cup or 60\u201370 g)",
+      "confidence": 95
+    },
+    {
+      "name": "Roasted Potatoes",
+      "portion_estimate": "1/4 cup (approximately 60 g)",
+      "confidence": 95
+    },
+    {
+      "name": "Penne Pasta with Tomato Sauce",
+      "portion_estimate": "1 cup (approximately 200 g)",
+      "confidence": 95
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "1 roll (approximately 50 g)",
+      "confidence": 95
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "1 medium (approximately 150 g)",
+      "confidence": 95
+    }
+  ]
+}

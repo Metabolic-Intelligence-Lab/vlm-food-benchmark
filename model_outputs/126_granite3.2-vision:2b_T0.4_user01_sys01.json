@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "sushi or rice dish",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "side salad with vegetables and protein (chicken or fish)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "condiments (soy sauce or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

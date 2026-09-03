@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried or breaded sweet potato cubes (croquettes)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed broccoli florets with olive oil",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "whole roasted potato (e.g., baked or roasted spud)",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "whole blood orange",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "olive or caper mixture (on plate with broccoli)",
+      "portion_estimate": "20g",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "food_items": [
+    {
+      "name": "peas",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "noodles",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    }
+  ],
+  "location": [
+    {
+      "x": 34.9,
+      "y": 35.1,
+      "w": 68.79,
+      "h": 8.68,
+      "relative_position": "below noodles and to the right of salad"
+    },
+    {
+      "x": 27.13,
+      "y": 34.99,
+      "w": 8.05,
+      "h": 27.65,
+      "relative_position": "on left side of table between peas and noodles"
+    }
+  ],
+  "tablecloth_colors": [
+    "white"
+  ]
+}

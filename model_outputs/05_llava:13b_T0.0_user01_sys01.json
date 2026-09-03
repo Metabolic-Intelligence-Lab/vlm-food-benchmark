@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Crisp",
+      "portion_estimate": "75g",
+      "confidence": "60"
+    },
+    {
+      "name": "Potato",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    }
+  ]
+}

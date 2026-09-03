@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pea and carrot salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Quiche or savory tart with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    },
+    {
+      "name": "Soup (possibly vegetable or chicken soup)",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

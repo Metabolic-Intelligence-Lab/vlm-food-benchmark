@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Brussels sprouts with carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Omelet with Brussels sprouts and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta dish with mushrooms, nuts, and powdered sugar",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Whole grain bread slice",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+Based on the provided context and the instruction to use "uncertain" if unsure about any field, here is the analysis for each item:
+
+1. **Chicken stir-fry**:  
+   - **Name**: Chicken stir-fry (assumed based on common dish descriptions; no ambiguity in the context).  
+   - **Portion**: Estimated at 200g (standard serving size for stir-fry dishes).  
+   - **Confidence**: 80% (reasonable assumption given typical meal portions).  
+
+2. **Roasted potatoes**:  
+   - **Name**: Roasted potatoes (clearly identifiable from the context).  
+   - **Portion**: Estimated at 150g (standard serving size for side dishes).  
+   - **Confidence**: 80% (typical portion for roasted vegetables).  
+
+3. **Ground meat**:  
+   - **Name**: Uncertain (the context does not specify the type of ground meat—e.g., beef, pork, or chorizo). Without explicit details, it cannot be confidently identified as "chorizo" or another specific type.  
+   - **Portion**: Not applicable (due to uncertainty about the name, the portion estimate is also uncertain).  
+   - **Confidence**: 30% (low confidence due to lack of specific information; general "ground meat" is too vague for accurate identification).  
+
+4. **Water**:  
+   - **Name**: Water (unambiguously identifiable).  
+   - **Portion**: Estimated at 150g (standard serving size for beverages).  
+   - **Confidence**: 90% (high confidence for a clear, common item).  
+
+### Summary:
+- **Chicken stir-fry**: 200g (confidence: 80%)  
+- **Roasted potatoes**: 150g (confidence: 80%)  
+- **Ground meat**: Uncertain (confidence: 30%)  
+- **Water**: 150g (confidence: 90%)  
+
+**Explanation**:  
+- The ground meat item is marked as "uncertain" because the context does not provide sufficient details to identify its specific type (e.g., chorizo, beef, etc.). Without this information, it is impossible to assign a precise name or portion with confidence.  
+- All other items are identifiable and portions are reasonably estimated based on standard serving sizes.  
+- Confidence levels reflect the degree of certainty derived from the given context (e.g., 90% for water due to its clear, universal nature).  
+
+This analysis adheres to the requirement to use "uncertain" when unsure about any field. If additional details about the ground meat were provided, the confidence level could be adjusted accordingly.

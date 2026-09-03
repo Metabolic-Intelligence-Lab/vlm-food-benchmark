@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "White bread bun",
+      "portion_estimate": "uncertain (approximate portion size)",
+      "confidence": "50"
+    },
+    {
+      "name": "Sliced tomatoes on salad plate with mozzarella cheese and leafy greens",
+      "portion_estimate": "1 medium tomato, 3-4 slices of white mozzarella cheese, lettuce estimated at a handful or two servings in total. This serves as an appetizer sized portion for the lunch.",
+      "confidence": "90"
+    },
+    {
+      "name": "Roasted potato wedges",
+      "portion_estimate": "uncertain (approximate portion size)",
+      "confidence": "50"
+    },
+    {
+      "name": "Water in a clear glass",
+      "portion_estimate": "uncertain (approximate portion size) - standard 8 fl oz. bottle of water equivalent.",
+      "confidence": "60"
+    },
+    {
+      "name": "Green tea bag and sachet packaging, likely unsweetened",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Kefir in a red-capped plastic cup with cap on tray next to glass of water. This kefir is unflavored.",
+      "portion_estimate": "1 serving (2 oz.) per container - typically 4 servings in total from the full bag, but not visible if there are multiple bags",
+      "confidence": "90"
+    },
+    {
+      "name": "Green leafy salad with lettuce, tomato slices, and mixed greens. Served on a plate.",
+      "portion_estimate": "uncertain (approximate portion size)",
+      "confidence": "50"
+    }
+  ]
+}

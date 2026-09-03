@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed salad greens (red and green lettuce)",
+      "portion_estimate": 150,
+      "confidence": 92
+    },
+    {
+      "name": "Shredded carrots",
+      "portion_estimate": 30,
+      "confidence": 88
+    },
+    {
+      "name": "Grilled chicken breast pieces",
+      "portion_estimate": 100,
+      "confidence": 75
+    }
+  ]
+}

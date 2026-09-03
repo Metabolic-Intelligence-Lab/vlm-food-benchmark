@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "steamed bun",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "mashed potatoes with curry sauce and chicken",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "crispy fried fish fillet",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "yellow curry with paneer and cream",
+      "portion_estimate": "120g - 150g (approx)",
+      "confidence": "80"
+    }
+  ]
+}

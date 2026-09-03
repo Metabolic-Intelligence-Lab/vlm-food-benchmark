@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed cauliflower florets",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "quinoa or rice-based grain with toppings (peppercorns, grated cheese)",
+      "portion_estimate": "180 grams",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed or baked vegetable mix (potentially spinach or kale)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "packaged snack (potentially a small baguette or crackers)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "small container of yogurt or dairy product (le Polym\u00e8re)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

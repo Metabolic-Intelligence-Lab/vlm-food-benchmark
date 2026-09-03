@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Salad with chicken, cheese, olives, tomatoes and lettuce",
+      "portion_estimate": "150-200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "100-150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Whole wheat bread in plastic wrap",
+      "portion_estimate": "40-60 grams",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Italian dish with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "1 cup (approximately 230 grams)",
+      "confidence": 70
+    },
+    {
+      "name": "Cooked chicken",
+      "portion_estimate": "1 piece (approximate weight: 100-150 grams)",
+      "confidence": 60
+    },
+    {
+      "name": "Brown bread roll",
+      "portion_estimate": "1 piece",
+      "confidence": 70
+    },
+    {
+      "name": "Dessert with red sauce on plate",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Side dish of fries and a piece of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Bowl of green vegetables with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked mashed/crumbled potatoes",
+      "portion_estimate": "220 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked white beans (cannellini/navy) with small amounts of vegetables",
+      "portion_estimate": "180 g",
+      "confidence": "72"
+    },
+    {
+      "name": "cooked fish fillet (likely mackerel) with herbs",
+      "portion_estimate": "110 g",
+      "confidence": "65"
+    },
+    {
+      "name": "slice of rustic bread",
+      "portion_estimate": "35 g",
+      "confidence": "78"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "130 g",
+      "confidence": "85"
+    }
+  ]
+}

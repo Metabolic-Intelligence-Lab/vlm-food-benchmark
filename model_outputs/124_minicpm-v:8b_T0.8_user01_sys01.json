@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken dish",
+      "portion_estimate": "uncertain, approx. a quarter plate",
+      "confidence": "60"
+    },
+    {
+      "name": "Fish fillet",
+      "portion_estimate": "uncertain, approx. half of the fishfillet on a white plate",
+      "confidence": "50"
+    },
+    {
+      "name": "Sauce dish with chicken and garnish",
+      "portion_estimate": "uncertain, about a quarter to half portion in a large bowl",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "1 medium-sized bread roll",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt cup",
+      "portion_estimate": "uncertain, approx. a standard single-serving yogurt container",
+      "confidence": "50"
+    }
+  ]
+}

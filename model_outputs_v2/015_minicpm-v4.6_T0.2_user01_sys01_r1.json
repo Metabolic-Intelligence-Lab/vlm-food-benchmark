@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chopped cabbage (vegetable)",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "fried food (e.g., fried onions)",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "meatball balls (with topping)",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "buns (pastries)",
+      "portion_estimate": "175g",
+      "confidence": 90
+    },
+    {
+      "name": "water (beverage)",
+      "portion_estimate": "200ml",
+      "confidence": 80
+    }
+  ]
+}

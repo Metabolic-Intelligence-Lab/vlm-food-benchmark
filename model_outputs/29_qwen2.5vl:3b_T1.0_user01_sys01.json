@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pizza",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "zucchini",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "unrecognizable bread",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

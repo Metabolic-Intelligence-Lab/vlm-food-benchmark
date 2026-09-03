@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "230 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated parmesan cheese (on pasta)",
+      "portion_estimate": "10 g",
+      "confidence": "70"
+    },
+    {
+      "name": "baked eggplant half with tomato sauce and shredded cheese",
+      "portion_estimate": "220 g",
+      "confidence": "68"
+    },
+    {
+      "name": "diced zucchini and potato cooked salad/side",
+      "portion_estimate": "140 g",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "75"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "72"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "70"
+    }
+  ]
+}

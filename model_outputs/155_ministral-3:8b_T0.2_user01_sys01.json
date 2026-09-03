@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with butter and grated cheese",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat bread slice",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetables (carrots, peas, and green beans)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "cheesy baked dish (likely macaroni or potato-based)",
+      "portion_estimate": "180 grams",
+      "confidence": 80
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    }
+  ]
+}

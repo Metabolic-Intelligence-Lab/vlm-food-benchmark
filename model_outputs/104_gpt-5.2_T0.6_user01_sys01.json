@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of lentil/bean soup (with grated cheese on top)",
+      "portion_estimate": "350 g",
+      "confidence": "62"
+    },
+    {
+      "name": "mixed vegetables (green peas and sliced carrots)",
+      "portion_estimate": "180 g",
+      "confidence": "85"
+    },
+    {
+      "name": "fruit yogurt cup (strawberry/peach, uncertain)",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll (small, packaged)",
+      "portion_estimate": "50 g",
+      "confidence": "78"
+    }
+  ]
+}

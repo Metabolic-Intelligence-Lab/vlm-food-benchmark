@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "pickled cucumbers",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "60",
+      "confidence": "70"
+    }
+  ]
+}

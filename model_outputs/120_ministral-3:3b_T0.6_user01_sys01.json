@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried cauliflower florets",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "fried breaded chicken cutlet",
+      "portion_estimate": "120 grams",
+      "confidence": 95
+    },
+    {
+      "name": "cauliflower rice (mixed with broth)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "tomato and vegetable soup with cheese topping",
+      "portion_estimate": "300 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Yogurt (Yoplait PotenciA)",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    }
+  ]
+}

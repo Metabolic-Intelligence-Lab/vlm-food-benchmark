@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (single, whole, plain)",
+      "portion_estimate": "45 grams",
+      "confidence": 85
+    },
+    {
+      "name": "beef (grilled, medium portion, sliced)",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "brussels sprouts (small portion, ~4-5 pieces)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "carrots (sliced, small portion)",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "cream sauce (on beef)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "plum/apricot (or similar fruit, whole)",
+      "portion_estimate": "80 grams",
+      "confidence": 80
+    },
+    {
+      "name": "lentil soup (in bowl)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "grated cheese on lentil soup",
+      "portion_estimate": "5 grams",
+      "confidence": 70
+    }
+  ]
+}

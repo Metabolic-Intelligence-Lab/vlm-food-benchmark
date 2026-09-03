@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish with sauce",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed vegetable stir-fry",
+      "portion_estimate": "80 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "40 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "130 grams",
+      "confidence": "90"
+    }
+  ]
+}

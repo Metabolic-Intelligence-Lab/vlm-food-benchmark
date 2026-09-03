@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Sunday dinner",
+      "portion_estimate": "120 grams of steak and vegetables, 450 ml sauce",
+      "confidence": "90"
+    },
+    {
+      "name": "Spaghetti with marinara sauce",
+      "portion_estimate": "300 grams of spaghetti, 175 grams of vegetables (broccoli, peppers), 350 ml of tomato-based sauce",
+      "confidence": "90"
+    },
+    {
+      "name": "Caesar salad with croutons",
+      "portion_estimate": "150 grams of romaine lettuce, 50 grams of croutons",
+      "confidence": "80"
+    }
+  ]
+}

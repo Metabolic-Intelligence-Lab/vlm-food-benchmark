@@ -1,0 +1,32 @@
+{
+  "food_items": [
+    {
+      "name": "whole grain bagel",
+      "portion_estimate": "55",
+      "confidence": "90"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "118",
+      "confidence": "95"
+    },
+    {
+      "name": "oatmeal energy balls",
+      "portion_estimate": "70",
+      "confidence": "85"
+    },
+    {
+      "name": "carrot slices",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "bowtie pasta",
+      "portion_estimate": "120",
+    {
+      "name": "water",
+      "portion_estimate": "100",
+      "confidence": "95"
+    }
+  ]
+}

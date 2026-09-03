@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato-based sauce and vegetables (likely including bell peppers and tomatoes)",
+      "portion_estimate": "300 grams",
+      "confidence": 75
+    },
+    {
+      "name": "saut\u00e9ed or roasted kale",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "grilled or baked fish fillet (appears to be cod or similar white fish)",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with green vegetables (likely a side salad or mixed greens with cucumber, bell pepper, and possibly cherry tomatoes)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "white wine (in glass)",
+      "portion_estimate": "uncertain (no visible measurement reference)",
+      "confidence": 40
+    },
+    {
+      "name": "whole wheat or artisanal bread roll (wrapped)",
+      "portion_estimate": "80 grams",
+      "confidence": 70
+    }
+  ]
+}

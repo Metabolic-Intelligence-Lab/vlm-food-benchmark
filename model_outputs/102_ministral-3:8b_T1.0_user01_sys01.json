@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "stuffed cheese-filled pastry (e.g., quiche or tart)",
+      "portion_estimate": "220 grams (single portion on plate)",
+      "confidence": 85
+    },
+    {
+      "name": "fried fish or chicken nugget",
+      "portion_estimate": "100 grams (approximate based on typical nugget size)",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed mixed vegetables (potatoes, onions, and possibly bell peppers)",
+      "portion_estimate": "200 grams (approx.)",
+      "confidence": 85
+    },
+    {
+      "name": "saltine crackers or similar dry crackers (in clear container)",
+      "portion_estimate": "uncertain (invisible portion amount)",
+      "confidence": 40
+    },
+    {
+      "name": "dressing or dip with a side container (e.g., Spry/Italian dressing)",
+      "portion_estimate": "uncertain (dressing amount not visible)",
+      "confidence": 50
+    },
+    {
+      "name": "water in a clear glass with a straw",
+      "portion_estimate": "uncertain (invisible volume)",
+      "confidence": 30
+    }
+  ]
+}

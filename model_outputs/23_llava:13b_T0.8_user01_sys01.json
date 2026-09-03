@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "200 g",
+      "confidence": "65"
+    },
+    {
+      "name": "Meat with sauce",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "200 g",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "meat (likely beef or pork) with barbecue sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "mashed potatoes (or potato-based dish)",
+      "portion_estimate": "120 grams",
+      "confidence": 70
+    },
+    {
+      "name": "barbecue sauce",
+      "portion_estimate": "uncertain (visible amount ~20-30g, but exact quantity hard to determine)",
+      "confidence": 60
+    }
+  ]
+}

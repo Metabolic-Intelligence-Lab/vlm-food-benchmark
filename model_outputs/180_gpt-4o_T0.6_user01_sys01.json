@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with pesto and cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "chickpeas and diced carrots",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "stuffed eggplant",
+      "portion_estimate": "80 grams",
+      "confidence": "80"
+    }
+  ]
+}

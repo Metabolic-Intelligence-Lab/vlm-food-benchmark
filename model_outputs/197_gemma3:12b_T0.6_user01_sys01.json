@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "braised beef with vegetables",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "mashed broccoli",
+      "portion_estimate": "80",
+      "confidence": "70"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100",
+      "confidence": "85"
+    }
+  ]
+}

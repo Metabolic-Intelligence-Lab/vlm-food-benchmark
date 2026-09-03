@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "lettuce and carrot salad with chicken",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "spaghetti carbonara",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "eggs on toast with spinach and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

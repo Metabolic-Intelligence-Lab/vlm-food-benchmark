@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "oranges",
+      "portion_estimate": "2 oranges, approximately 200 grams each",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "breaded cutlet",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "75 grams",
+      "confidence": "90"
+    }
+  ]
+}

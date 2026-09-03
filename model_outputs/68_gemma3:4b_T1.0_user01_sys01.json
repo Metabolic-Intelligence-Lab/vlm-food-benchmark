@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (Fusilli)",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Ham",
+      "portion_estimate": "40g",
+      "confidence": 85
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "60g",
+      "confidence": 75
+    }
+  ]
+}

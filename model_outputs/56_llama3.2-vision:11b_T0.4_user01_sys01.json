@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": 95
+    },
+    {
+      "name": "Vegetable Medley",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "Chicken Breast",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250ml",
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with sauce",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "vegetable mix (peas, carrots, potatoes, green peppers, eggplant)",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "baked item (bread roll)",
+      "portion_estimate": "40",
+      "confidence": "80"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": "80"
+    }
+  ]
+}

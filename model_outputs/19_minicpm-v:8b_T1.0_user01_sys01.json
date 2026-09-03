@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Boiled egg with chopped green salad",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    },
+    {
+      "name": "Fried bread (possibly omelette)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Sliced whole grain bread",
+      "portion_estimate": "1 slice estimated to be around 57g",
+      "confidence": 80
+    },
+    {
+      "name": "Whole orange fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup (likely spinach or pumpkin)",
+      "portion_estimate": "350 grams",
+      "confidence": 85
+    },
+    {
+      "name": "fried dough or plantain chips",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "fried shredded green plantains/cassava",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "whole wheat or white bread roll",
+      "portion_estimate": "70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (unspecified flavor, 125g pack)",
+      "portion_estimate": "125 grams",
+      "confidence": 100
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Savory pastry roll (likely spinach and cheese)",
+      "portion_estimate": 180,
+      "confidence": 92
+    },
+    {
+      "name": "Mixed fruit salad (cubed apples and peaches/nectarines)",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Whole wheat bun",
+      "portion_estimate": 60,
+      "confidence": 94
+    },
+    {
+      "name": "Pasta salad with beans and grated cheese",
+      "portion_estimate": 200,
+      "confidence": 93
+    },
+    {
+      "name": "Fresh plums (whole)",
+      "portion_estimate": 150,
+      "confidence": 96
+    }
+  ]
+}

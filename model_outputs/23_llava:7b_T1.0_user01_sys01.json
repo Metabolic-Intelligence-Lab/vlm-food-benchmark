@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce, possibly gnocchi",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "Rice or couscous dish with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Portion of French fries",
+      "portion_estimate": "approximate 100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta salad with dressing",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Whole grain bread with butter or margarine",
+      "portion_estimate": "approximate 30g",
+      "confidence": "50"
+    },
+    {
+      "name": "Tomato sauce and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with pesto sauce",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated parmesan cheese (on pasta)",
+      "portion_estimate": "12 g",
+      "confidence": "70"
+    },
+    {
+      "name": "sliced cooked carrots",
+      "portion_estimate": "130 g",
+      "confidence": "82"
+    },
+    {
+      "name": "breaded vegetable patty/croquette with tomato slice (2 pieces)",
+      "portion_estimate": "95 g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60 g",
+      "confidence": "76"
+    },
+    {
+      "name": "plums (3 whole)",
+      "portion_estimate": "210 g",
+      "confidence": "74"
+    },
+    {
+      "name": "butter packets (2)",
+      "portion_estimate": "20 g",
+      "confidence": "65"
+    }
+  ]
+}

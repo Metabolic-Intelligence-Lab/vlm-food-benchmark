@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable rice salad (rice with peas, corn, diced ham, mixed vegetables)",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "quiche slice (egg/cheese with mushrooms and ham/bacon)",
+      "portion_estimate": "140 g",
+      "confidence": "74"
+    },
+    {
+      "name": "cooked carrots and potatoes (sliced, lightly seasoned)",
+      "portion_estimate": "180 g",
+      "confidence": "72"
+    },
+    {
+      "name": "small white bread roll",
+      "portion_estimate": "50 g",
+      "confidence": "70"
+    },
+    {
+      "name": "fresh apricots (3 pieces)",
+      "portion_estimate": "105 g",
+      "confidence": "80"
+    }
+  ]
+}

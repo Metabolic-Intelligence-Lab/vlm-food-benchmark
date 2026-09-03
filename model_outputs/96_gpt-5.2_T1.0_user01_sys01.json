@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pear juice drink (packaged, with straw)",
+      "portion_estimate": "250 g",
+      "confidence": "92"
+    },
+    {
+      "name": "packaged sponge cake snack bar with cream filling (rectangular)",
+      "portion_estimate": "45 g",
+      "confidence": "70"
+    },
+    {
+      "name": "packaged sponge cake snack bar with cream filling (rectangular, broken piece)",
+      "portion_estimate": "35 g",
+      "confidence": "65"
+    }
+  ]
+}

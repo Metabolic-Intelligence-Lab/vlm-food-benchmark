@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked ground beef meatballs",
+      "portion_estimate": "70",
+      "confidence": "85"
+    },
+    {
+      "name": "baked custard slice",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked penne pasta",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "40",
+      "confidence": "70"
+    },
+    {
+      "name": "packaged cucumber",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

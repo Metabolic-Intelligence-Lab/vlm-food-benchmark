@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Butternut Squash",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "200 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Waffle",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250 milliliters",
+      "confidence": 90
+    }
+  ]
+}

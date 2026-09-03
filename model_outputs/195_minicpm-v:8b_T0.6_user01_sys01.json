@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "cubed potatoes in pan gravy",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "ground meat with spices (likely chili)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "sour cream on the side",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

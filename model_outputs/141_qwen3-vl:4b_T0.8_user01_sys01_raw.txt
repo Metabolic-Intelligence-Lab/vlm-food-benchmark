@@ -1,0 +1,26 @@
+To determine the total weight of the meal, we sum the weights of all its components:
+
+- **Whole wheat bread**: 30 g  
+- **Cooked broccoli**: 150 g  
+- **Cod fillet**: 100 g  
+- **Canned chickpeas**: 150 g  
+- **Yogurt**: 150 g  
+
+---
+
+### Step-by-Step Calculation:
+$$
+\begin{align*}
+\text{Total weight} &= 30 + 150 + 100 + 150 + 150 \\
+&= (30 + 150) + (100 + 150) + 150 \\
+&= 180 + 250 + 150 \\
+&= 580 \text{ g}
+\end{align*}
+$$
+
+---
+
+### Final Answer:
+$$
+\boxed{580}
+$$

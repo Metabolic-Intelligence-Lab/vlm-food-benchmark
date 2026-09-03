@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spicy penne pasta",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "grilled eggplant with cheese",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "unidentified sauce",
+      "portion_estimate": "30",
+      "confidence": 60
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": 75
+    }
+  ]
+}

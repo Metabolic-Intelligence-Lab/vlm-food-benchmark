@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "fish and potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "uncertain"
+    }
+  ]
+}

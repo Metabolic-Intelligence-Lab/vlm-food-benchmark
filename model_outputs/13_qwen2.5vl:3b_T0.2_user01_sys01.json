@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "slice of watermelon",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "baked or fried food",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    },
+    {
+      "name": "green leafy vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "75"
+    }
+  ]
+}

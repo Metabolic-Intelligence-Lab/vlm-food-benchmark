@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "garlic bread",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "pasta with parmesan cheese and bow-tie pasta garnish",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "roasted potatoes with caramelized onions",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    },
+    {
+      "name": "grilled chicken breast topped with coleslaw and sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "<60"
+    }
+  ]
+}

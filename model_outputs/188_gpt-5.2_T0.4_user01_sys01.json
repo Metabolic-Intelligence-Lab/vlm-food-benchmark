@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "thick vegetable/legume soup (stew-like, with visible carrots)",
+      "portion_estimate": "350 g",
+      "confidence": "70"
+    },
+    {
+      "name": "grilled salmon fillet",
+      "portion_estimate": "120 g",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked spinach (possibly creamed spinach)",
+      "portion_estimate": "80 g",
+      "confidence": "65"
+    },
+    {
+      "name": "fruit yogurt (single-serve cup)",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "water (in cup)",
+      "portion_estimate": "250 g",
+      "confidence": "60"
+    }
+  ]
+}

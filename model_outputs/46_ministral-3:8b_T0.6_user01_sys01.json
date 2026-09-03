@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli salad or coleslaw (chopped green leaves)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "potato croquettes or fried potato patties (two pieces)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "green soup with grated cheese topping (likely a vegetable-based soup)",
+      "portion_estimate": "350g",
+      "confidence": 85
+    },
+    {
+      "name": "whole baked potato (wrapped in plastic)",
+      "portion_estimate": "250g",
+      "confidence": 80
+    },
+    {
+      "name": "packaged yogurt (Vomo foodservice, 125g container)",
+      "portion_estimate": "125g",
+      "confidence": 100
+    }
+  ]
+}

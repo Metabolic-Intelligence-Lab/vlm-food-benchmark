@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white rice with olive oil",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "whole grain bun",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "mixed vegetables with potatoes and shrimp",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "carrots and potatoes",
+      "portion_estimate": "150",
+      "confidence": 90
+    }
+  ]
+}

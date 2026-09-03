@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "diced carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sliced peaches",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "quinoa",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

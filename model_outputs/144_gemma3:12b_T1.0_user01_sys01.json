@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bread slice",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    },
+    {
+      "name": "penne pasta with cream sauce",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "butter beans with butter",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "180",
+      "confidence": "90"
+    }
+  ]
+}

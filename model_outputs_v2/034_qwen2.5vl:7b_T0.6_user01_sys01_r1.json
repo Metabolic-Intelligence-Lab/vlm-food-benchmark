@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fried egg",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "cornbread",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "parmesan cheese",
+      "portion_estimate": "10 grams",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    }
+  ]
+}

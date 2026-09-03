@@ -1,0 +1,36 @@
+Here is the food list in strict JSON format:
+
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": 100g,
+      "confidence": 80
+    },
+    {
+      "name": "Omelette",
+      "portion_estimate": 100g,
+      "confidence": 90
+    },
+    {
+      "name": "Peas",
+      "portion_estimate": 50g,
+      "confidence": 70
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": 50g,
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": 50g,
+      "confidence": 90
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": 100g,
+      "confidence": 90
+    }
+  ]
+}

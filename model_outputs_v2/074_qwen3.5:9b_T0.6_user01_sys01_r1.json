@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted butternut squash cubes",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Fusilli pasta with tomato sauce and vegetables",
+      "portion_estimate": 280,
+      "confidence": 95
+    },
+    {
+      "name": "Steamed green beans",
+      "portion_estimate": 130,
+      "confidence": 95
+    },
+    {
+      "name": "Small dinner roll or bread bun",
+      "portion_estimate": 60,
+      "confidence": 90
+    },
+    {
+      "name": "Water in a plastic cup",
+      "portion_estimate": 250,
+      "confidence": 85
+    }
+  ]
+}

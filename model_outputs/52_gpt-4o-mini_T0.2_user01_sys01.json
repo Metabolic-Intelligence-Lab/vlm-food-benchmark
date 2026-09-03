@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed salad (cabbage and carrots)",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "whole wheat pasta with sauce",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "slice of whole grain bread",
+      "portion_estimate": "40",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit cup (peach)",
+      "portion_estimate": "100",
+      "confidence": "60"
+    }
+  ]
+}

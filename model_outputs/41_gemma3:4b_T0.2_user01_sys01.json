@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Greek Salad",
+      "portion_estimate": "80",
+      "confidence": 75
+    },
+    {
+      "name": "Hard-Boiled Egg",
+      "portion_estimate": "50",
+      "confidence": 70
+    }
+  ]
+}

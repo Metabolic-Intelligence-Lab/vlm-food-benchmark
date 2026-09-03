@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad with carrots and cucumbers",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked greens (possibly spinach or kale)",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "savory baked item with sauce",
+      "portion_estimate": "80",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

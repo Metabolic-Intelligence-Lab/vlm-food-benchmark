@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread or pastry",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "cheesy dish (macaroni and cheese or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "condiments or side items",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "roll or bread loaf",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

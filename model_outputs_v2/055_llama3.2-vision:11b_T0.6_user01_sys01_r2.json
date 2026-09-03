@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "chicken breast",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    }
+  ]
+}

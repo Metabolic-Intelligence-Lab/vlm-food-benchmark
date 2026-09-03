@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup with meat and vegetables (served in bowl)",
+      "portion_estimate": "450 grams (including broth, ingredients, and salt)",
+      "confidence": 75
+    },
+    {
+      "name": "green peas and baby carrots (mixed on plate)",
+      "portion_estimate": "250 grams (mixed vegetables)",
+      "confidence": 78
+    },
+    {
+      "name": "buttered bread roll or baguette slice (wrapped)",
+      "portion_estimate": "uncertain (100 grams estimated, but could vary)",
+      "confidence": 65
+    },
+    {
+      "name": "salt container (visible)",
+      "portion_estimate": "uncertain (not food, but present in context)",
+      "confidence": 0
+    },
+    {
+      "name": "condiment container (red label with white container, likely mustard or similar)",
+      "portion_estimate": "uncertain (not directly food, but accessory)",
+      "confidence": 0
+    },
+    {
+      "name": "wrapped spread or butter packet (red packet, possibly cheese spread)",
+      "portion_estimate": "uncertain (70 grams)",
+      "confidence": 60
+    }
+  ]
+}

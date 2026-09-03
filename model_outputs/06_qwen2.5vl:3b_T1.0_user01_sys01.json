@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with broccoli sauce",
+      "portion_estimate": "approx. 50g",
+      "confidence": "75"
+    },
+    {
+      "name": "Saut\u00e9ed zucchini and potatoes",
+      "portion_estimate": "approx. 100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried egg",
+      "portion_estimate": "approx. 10g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried bread",
+      "portion_estimate": "approx. 50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "approx. 100g",
+      "confidence": "75"
+    }
+  ]
+}

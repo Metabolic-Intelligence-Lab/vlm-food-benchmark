@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "250 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked spinach (dark leafy greens)",
+      "portion_estimate": "120 g",
+      "confidence": "65"
+    },
+    {
+      "name": "breaded fried croquettes/balls (likely meat or potato), 2 pieces",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50 g",
+      "confidence": "75"
+    },
+    {
+      "name": "packaged dessert/pudding cup (unopened)",
+      "portion_estimate": "125 g",
+      "confidence": "55"
+    }
+  ]
+}

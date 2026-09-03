@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "golden french fries with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "red cup of ketchup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

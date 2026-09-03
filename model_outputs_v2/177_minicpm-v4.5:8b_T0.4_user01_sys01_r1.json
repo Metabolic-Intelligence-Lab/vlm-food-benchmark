@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with sauce",
+      "portion_estimate": "200-250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "brussels sprouts with crumbs",
+      "portion_estimate": "50-75 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "mushroom and pesto dish",
+      "portion_estimate": "100-120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50-60 grams",
+      "confidence": "80"
+    }
+  ]
+}

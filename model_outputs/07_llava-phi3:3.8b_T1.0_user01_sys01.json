@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Baguette",
+      "quantity": 1,
+      "container": "Wrap",
+      "color": "brown",
+      "location": "top left"
+    },
+    {
+      "name": "Soup",
+      "quantity": 1,
+      "container": "bowl",
+      "color": "white and beige",
+      "location": "bottom right"
+    },
+    {
+      "name": "Salad",
+      "quantity": 1,
+      "container": "bowl",
+      "color": "white with green lettuce",
+      "location": "top right"
+    },
+    {
+      "name": "Yogurt",
+      "quantity": 1,
+      "container": "cup",
+      "color": "red and white",
+      "location": "top middle"
+    },
+    {
+      "name": "Chickpeas",
+      "quantity": 1,
+      "container": "bowl",
+      "color": "white with brown chickpeas",
+      "location": "bottom center"
+    }
+  ]
+}

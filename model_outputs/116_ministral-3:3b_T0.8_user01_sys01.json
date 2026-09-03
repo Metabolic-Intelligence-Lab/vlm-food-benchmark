@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable or meat soup",
+      "portion_estimate": "300\u2013350 g",
+      "confidence": 90
+    },
+    {
+      "name": "Packaged cheese cubes",
+      "portion_estimate": "100\u2013120 g",
+      "confidence": 80
+    },
+    {
+      "name": "Pita bread with grilled cheese",
+      "portion_estimate": "60\u201380 g",
+      "confidence": 80
+    },
+    {
+      "name": "Condiment packet (sauce/dressing)",
+      "portion_estimate": "10\u201315 g",
+      "confidence": 60
+    },
+    {
+      "name": "Containerized water",
+      "portion_estimate": "240 ml",
+      "confidence": 70
+    }
+  ]
+}

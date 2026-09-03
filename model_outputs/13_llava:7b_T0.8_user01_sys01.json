@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Watermelon wedges",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta dish with red sauce and white noodles",
+      "portion_estimate": "200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Breaded meat patty",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green leafy vegetables (broccoli)",
+      "portion_estimate": "60g",
+      "confidence": "90"
+    }
+  ]
+}

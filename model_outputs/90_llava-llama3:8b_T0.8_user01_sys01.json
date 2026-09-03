@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fluffy white rice with yellow sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "fresh green salad with carrots and cauliflower",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "shrimp with tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "golden crusty roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

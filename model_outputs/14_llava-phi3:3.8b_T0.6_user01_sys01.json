@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "red sauce on fish and chips",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll in plastic bag",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "green sauce on fish and chips",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "white plate with food on it",
+      "portion_estimate": "250g",
+      "confidence": "80"
+    },
+    {
+      "name": "fork next to plate",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

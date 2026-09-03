@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad",
+      "portion_estimate": "100-150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "cucumber slices",
+      "portion_estimate": "30 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "lettuce",
+      "portion_estimate": "30 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "round bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "steamed spinach",
+      "portion_estimate": "100-150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed potato with toppings",
+      "portion_estimate": "70 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "red plums",
+      "portion_estimate": "150 grams (3 plums)",
+      "confidence": "90"
+    }
+  ]
+}

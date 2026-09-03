@@ -1,0 +1,27 @@
+Based on the image, I will attempt to identify the food items and estimate their portion sizes. Please note that I'll do my best to provide accurate information, but I may not always be 100% correct.
+
+Here's the output in the specified format:
+
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta with Tomato Sauce",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    }
+  ]
+}
+
+I have identified three food items: Penne Pasta with Tomato Sauce, Green Beans, and Bread. I've estimated the portion sizes based on visual inspection, but please note that these estimates might not be 100% accurate.
+
+If you need further assistance or have any questions, please let me know!

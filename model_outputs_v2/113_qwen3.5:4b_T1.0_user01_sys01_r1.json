@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed Vegetables (Brussels Sprouts and Carrots)",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "Meat Pie or Baked Potato with Mash",
+      "portion_estimate": "250",
+      "confidence": 80
+    },
+    {
+      "name": "Split Hearty Buns (Pack of 4)",
+      "portion_estimate": "640",
+      "confidence": 90
+    },
+    {
+      "name": "Chili with Croutons",
+      "portion_estimate": "350",
+      "confidence": 85
+    },
+    {
+      "name": "Two Apples",
+      "portion_estimate": "140",
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "braised beef",
+      "portion": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "potatoes",
+      "portion": "150g",
+      "confidence": 70
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "portion": "50g",
+      "confidence": 60
+    }
+  ]
+}

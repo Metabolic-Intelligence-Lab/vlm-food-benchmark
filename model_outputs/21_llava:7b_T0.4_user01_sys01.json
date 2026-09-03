@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Pizza",
+      "portion_estimate": "1 slice",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "1 serving",
+      "confidence": "70"
+    },
+    {
+      "name": "Meat",
+      "portion_estimate": "1 serving",
+      "confidence": "60"
+    },
+    {
+      "name": "Vegetables",
+      "portion_estimate": "1 serving",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "1 serving",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "1 piece",
+      "confidence": "70"
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "1 serving",
+      "confidence": "60"
+    },
+    {
+      "name": "Sauce",
+      "portion_estimate": "1 serving",
+      "confidence": "70"
+    }
+  ]
+}

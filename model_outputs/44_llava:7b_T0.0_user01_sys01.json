@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Salad with tomatoes and cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Hamburger patty",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    }
+  ]
+}

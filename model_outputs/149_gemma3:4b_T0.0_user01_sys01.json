@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Pesto",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Small Slice of Bread",
+      "portion_estimate": "60g",
+      "confidence": 70
+    },
+    {
+      "name": "Grape",
+      "portion_estimate": "15g",
+      "confidence": 85
+    }
+  ]
+}

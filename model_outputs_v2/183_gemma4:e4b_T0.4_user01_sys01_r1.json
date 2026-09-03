@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked pastry slice",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Packaged bread roll/bun",
+      "portion_estimate": "90g",
+      "confidence": "90"
+    },
+    {
+      "name": "Creamy soup",
+      "portion_estimate": "320g",
+      "confidence": "95"
+    },
+    {
+      "name": "Green olives",
+      "portion_estimate": "60g",
+      "confidence": "95"
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    }
+  ]
+}

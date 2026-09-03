@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "100 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded item (possibly chicken)",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fruit salad with banana and possibly other fruits",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "100 g",
+      "confidence": "80"
+    }
+  ]
+}

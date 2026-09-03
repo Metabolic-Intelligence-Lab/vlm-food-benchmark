@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "greens, possibly spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "breaded meat (?), possibly penne pasta with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Tomatoes",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Crisp",
+      "portion_estimate": "uncertain",
+      "confidence": "uncertain"
+    }
+  ]
+}

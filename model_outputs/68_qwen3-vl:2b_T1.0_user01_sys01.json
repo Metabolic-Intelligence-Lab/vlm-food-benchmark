@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Rotini pasta",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Cherry tomatoes",
+      "portion_estimate": "50 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "50 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Ham",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    }
+  ]
+}

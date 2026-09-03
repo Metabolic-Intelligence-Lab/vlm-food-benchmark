@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "whole pear fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "loaf bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "grilled or fried item, possibly a piece of chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

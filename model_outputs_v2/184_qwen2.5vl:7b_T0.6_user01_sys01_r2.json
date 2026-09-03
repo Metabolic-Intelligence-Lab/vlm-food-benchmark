@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "mushroom cap with topping",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "100",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "zucchini and onions",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "crispy fish fillet",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "slice of whole grain bread",
+      "portion_estimate": "30 grams",
+      "confidence": 80
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    }
+  ]
+}

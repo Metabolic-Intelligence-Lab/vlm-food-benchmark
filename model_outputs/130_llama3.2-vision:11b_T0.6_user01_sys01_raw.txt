@@ -1,0 +1,16 @@
+Here is the description of the food in the image:
+
+**Food Image Description**
+
+* **Food Items**
+	+ Rice: white, long-grain, steamed
+	+ Curry: brown, thick, chunky, with visible vegetables and meat or chicken
+* **Portion Size**
+	+ Rice: approximately 1/2 cup (100g)
+	+ Curry: approximately 1/4 cup (50g)
+* **Visual Characteristics**
+	+ Rice: fluffy, separate grains
+	+ Curry: chunky, with visible vegetables and meat or chicken
+
+**Answer:** 
+*Answer*: {"food_items": [{"name": "Rice", "portion_estimate": "100g", "confidence": "80"}, {"name": "Curry", "portion_estimate": "50g", "confidence": "70"}]}

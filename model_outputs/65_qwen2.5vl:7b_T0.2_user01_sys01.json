@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Cheese Sandwich",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Bowl of Mixed Greens Salad",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked Potato Cubes",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Glass of Water",
+      "portion_estimate": "200",
+      "confidence": "80"
+    }
+  ]
+}

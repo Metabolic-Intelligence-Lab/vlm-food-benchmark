@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Watermelon",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Bowl of pasta with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Plate of green beans and bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked leafy greens",
+      "portion_estimate": "uncertain",
+      "confidence": "10"
+    }
+  ]
+}

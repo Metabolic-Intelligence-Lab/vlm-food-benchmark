@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fusilli Pasta with Tomato Sauce",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "Butter Packet",
+      "portion_estimate": "14",
+      "confidence": "90"
+    }
+  ]
+}

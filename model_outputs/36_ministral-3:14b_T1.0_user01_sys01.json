@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried wonton or potsticker (single serving)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "chili or peanut sauce (in bowl)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "cabbage slaw with pickle (1 pickle + mixed shredded cabbage)",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "vegetable dumpling (type uncertain, e.g., green leaf-based)",
+      "portion_estimate": "120",
+      "confidence": 88
+    },
+    {
+      "name": "packaged baked biscuit (single)",
+      "portion_estimate": "50",
+      "confidence": 95
+    }
+  ]
+}

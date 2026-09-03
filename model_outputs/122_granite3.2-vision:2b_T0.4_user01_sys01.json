@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with red sauce and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "dark colored pieces (ground meat or tofu)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

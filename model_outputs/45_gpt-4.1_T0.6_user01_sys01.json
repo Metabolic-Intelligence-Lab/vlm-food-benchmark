@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "berry yogurt cup",
+      "portion_estimate": "125",
+      "confidence": 95
+    },
+    {
+      "name": "baked pasta with breadcrumb topping",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "green bean and mozzarella salad with corn and tomato",
+      "portion_estimate": "70",
+      "confidence": 80
+    },
+    {
+      "name": "mixed salad with shredded carrots and lettuce",
+      "portion_estimate": "60",
+      "confidence": 80
+    }
+  ]
+}

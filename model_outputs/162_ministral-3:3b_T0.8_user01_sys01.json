@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roasted broccoli and potatoes",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "whole fried egg",
+      "portion_estimate": 50,
+      "confidence": 90
+    },
+    {
+      "name": "broth-based soup with carrots",
+      "portion_estimate": 300,
+      "confidence": 80
+    },
+    {
+      "name": "potato-based casserole or tart",
+      "portion_estimate": 150,
+      "confidence": 82
+    },
+    {
+      "name": "sliced lemon",
+      "portion_estimate": 85,
+      "confidence": 88
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrots, sliced",
+      "portion_estimate": "80",
+      "confidence": "90"
+    },
+    {
+      "name": "meatballs, likely beef or chicken",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "green soup, likely pureed vegetables",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "sheet nori seaweed",
+      "portion_estimate": "10",
+      "confidence": "85"
+    },
+    {
+      "name": "processed cheese snack, likely string cheese",
+      "portion_estimate": "20",
+      "confidence": "80"
+    }
+  ]
+}

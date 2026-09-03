@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "coffee (in cup)",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "dipping sauce (small bowl)",
+      "portion_estimate": "30",
+      "confidence": 80
+    },
+    {
+      "name": "steamed greens (white bowl)",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "smoothie or yogurt (red cup)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "granola bar (white packet)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

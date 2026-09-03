@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Green leafy vegetables (possibly kale or spinach)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll with '220g' printed on it",
+      "portion_estimate": "168-347 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Potato with ketchup and mustard sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt container (Yo-mo brand)",
+      "portion_estimate": "125g",
+      "confidence": "90"
+    }
+  ]
+}

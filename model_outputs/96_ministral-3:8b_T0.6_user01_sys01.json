@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "sugar-free chocolate bar (2 pieces)",
+      "portion_estimate": "30 grams each (total 60g)",
+      "confidence": 85
+    },
+    {
+      "name": "carton of sugar-free flavored syrup (peach flavor)",
+      "portion_estimate": "uncertain (estimated 200g based on typical carton size)",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "egg muffin with greens",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "spinach or kale leaves",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "scone (labeled as 'muffin') with date stamp 24/10/18",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

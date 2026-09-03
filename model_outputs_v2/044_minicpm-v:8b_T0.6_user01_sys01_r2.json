@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain, approx. weight around 50g to 100g.",
+      "confidence": "60"
+    },
+    {
+      "name": "Water with aloe vera",
+      "portion_estimate": "uncertain, approx. volume between 250ml and 300ml",
+      "confidence": "70"
+    },
+    {
+      "name": "Greek yogurt cup (Red seal)",
+      "portion_estimate": "approx. weight around 160g to 200g.",
+      "confidence": "80"
+    },
+    {
+      "name": "Green tea bag",
+      "portion_estimate": "uncertain, approx. loose leaf portion or slightly more than a teaspoon.",
+      "confidence": "50"
+    },
+    {
+      "name": "Water in clear cup (with green seal)",
+      "portion_estimate": "approx. volume between 250ml and 300ml",
+      "confidence": "70"
+    },
+    {
+      "name": "Salad on a white plate with red tomatoes, white cheese, olive oil, and greens.",
+      "portion_estimate": "uncertain, approx. weight around 160g to 250g.",
+      "confidence": "90"
+    }
+  ]
+}

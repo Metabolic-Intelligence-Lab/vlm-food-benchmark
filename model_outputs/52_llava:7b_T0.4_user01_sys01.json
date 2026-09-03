@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded meat (possibly chicken)",
+      "portion_estimate": "125g",
+      "confidence": "60"
+    },
+    {
+      "name": "Coleslaw",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta salad",
+      "portion_estimate": "200g",
+      "confidence": "50"
+    }
+  ]
+}

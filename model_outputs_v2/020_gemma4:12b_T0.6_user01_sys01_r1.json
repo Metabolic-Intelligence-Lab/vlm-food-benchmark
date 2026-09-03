@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "roasted chicken pieces with sauce",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "steamed dumplings",
+      "portion_estimate": "300",
+      "confidence": 95
+    },
+    {
+      "name": "whole green apple",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "water",
+      "portion_estimate": "150",
+      "confidence": 85
+    }
+  ]
+}

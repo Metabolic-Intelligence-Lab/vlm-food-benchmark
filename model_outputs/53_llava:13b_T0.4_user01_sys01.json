@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with tomato sauce and vegetables",
+      "portion_estimate": "100-200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "50-75 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Grilled fish with herbs",
+      "portion_estimate": "150-200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50-75 grams",
+      "confidence": "60"
+    }
+  ]
+}

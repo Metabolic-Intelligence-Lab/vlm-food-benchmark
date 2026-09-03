@@ -1,0 +1,25 @@
+The image contains the following food and beverage items. Each item is identified, its portion size is estimated in grams, and the confidence percentage for the estimate is provided based on visual assessment and typical portion sizes.
+
+- **Pasta with tomato sauce**: This appears as a portion in a bowl. Estimating the volume of the pasta and sauce together, the portion size is approximately 150 g. Confidence: 80% (since the bowl is visible and the amount is typical for a serving).
+- **Roasted vegetables (Brussels sprouts and potatoes)**: This is a mixed serving of roasted vegetables. Given the size of the dish and common portion sizes, the estimate is 100 g. Confidence: 70% (as the vegetables are a mix, making precise measurement challenging).
+- **Baked cod**: A single piece of fish is visible. This size corresponds to a standard portion, estimated at 100 g. Confidence: 80% (the solid shape and size are clear).
+- **Broccoli**: A small portion of florets is shown. The estimated weight is 30 g, which is consistent with a typical serving size. Confidence: 70% (the portion is small and visually distinct but harder to quantify precisely).
+- **Bread roll**: A single roll, likely a baguette slice, is present. This is estimated to weigh 100 g. Confidence: 80% (the roll's size is easily recognizable).
+- **Yogurt (Yomol power)**: The container is labeled, indicating a standard size. The portion size is 150 g. Confidence: 90% (the container is clearly marked, providing an exact reference).
+- **Sparkling water**: A full glass is visible. Assuming a standard glass size (200 ml), the weight is 200 g. Confidence: 70% (the glass is full, but the exact volume is standard and thus reliable).
+
+The final answer is presented in a table for clarity.
+
+\boxed{
+\begin{array}{c|c|c}
+\text{Item} & \text{Portion Size (g)} & \text{Confidence (\%)} \\
+\hline
+\text{Pasta with tomato sauce} & 150 & 80 \\
+\text{Roasted vegetables (Brussels sprouts and potatoes)} & 100 & 70 \\
+\text{Baked cod} & 100 & 80 \\
+\text{Broccoli} & 30 & 70 \\
+\text{Bread roll} & 100 & 80 \\
+\text{Yogurt (Yomol power)} & 150 & 90 \\
+\text{Sparkling water} & 200 & 70 \\
+\end{array}
+}

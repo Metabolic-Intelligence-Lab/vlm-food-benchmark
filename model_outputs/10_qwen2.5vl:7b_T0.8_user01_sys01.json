@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "baked potatoes",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "yogurt with fruit",
+      "portion_estimate": "60",
+      "confidence": "70"
+    }
+  ]
+}

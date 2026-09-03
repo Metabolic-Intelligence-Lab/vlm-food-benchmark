@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked Chicken Breast",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Roasted Potatoes",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Steamed Broccoli",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Carrot and Beet Salad",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    }
+  ]
+}

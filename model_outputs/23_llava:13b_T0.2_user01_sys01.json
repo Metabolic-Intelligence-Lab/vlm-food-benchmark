@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    },
+    {
+      "name": "Grilled fish with rice and vegetables",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Lemon wedge",
+      "portion_estimate": "1 lemon wedge",
+      "confidence": "90"
+    }
+  ]
+}

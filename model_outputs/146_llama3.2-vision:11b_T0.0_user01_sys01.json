@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 95
+    },
+    {
+      "name": "Egg",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Pasta sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

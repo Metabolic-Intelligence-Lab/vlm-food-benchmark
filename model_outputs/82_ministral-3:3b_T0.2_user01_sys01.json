@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "salad mix (lettuce, possibly other greens)",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "plain yogurt (white, possibly Greek)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "onion (whole)",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "baked dish (potato or pasta-based, topped with cheese)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "green leafy vegetable (possibly spinach or kale)",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "plain bread roll (whole)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water (blue plastic cup)",
+      "portion_estimate": "200",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti pasta dish with sauce",
+      "portion_estimate": "300g",
+      "confidence": "95"
+    },
+    {
+      "name": "Grilled or fried eggplant slice",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried protein or vegetable pieces",
+      "portion_estimate": "180g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Yellow folded bread or pastry piece",
+      "portion_estimate": "50g",
+      "confidence": "75"
+    },
+    {
+      "name": "Small yellow snack or fruit piece",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    }
+  ]
+}

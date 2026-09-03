@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Salad with spinach and broccoli",
+      "portion_estimate": "approximately 100g",
+      "confidence": 70
+    },
+    {
+      "name": "Vegetable stir fry (possibly containing other green vegetables)",
+      "portion_estimate": "125-150g",
+      "confidence": 60
+    },
+    {
+      "name": "Egg roll or similar spring roll item",
+      "portion_estimate": "approximately 80g",
+      "confidence": 60
+    },
+    {
+      "name": "Bread roll with a filling, possibly chicken, beef, or tuna",
+      "portion_estimate": "75-90g",
+      "confidence": 60
+    },
+    {
+      "name": "Green bean casserole",
+      "portion_estimate": "approximately 100g",
+      "confidence": 50
+    }
+  ]
+}

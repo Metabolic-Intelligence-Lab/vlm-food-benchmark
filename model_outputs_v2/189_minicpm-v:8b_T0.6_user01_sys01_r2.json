@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broth",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mushroom soup or gravy",
+      "portion_estimate": "180g-240g",
+      "confidence": "70"
+    },
+    {
+      "name": "grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "cheese spread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "bread or cracker with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

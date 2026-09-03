@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot sticks",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "95"
+    },
+    {
+      "name": "falafel balls",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "85"
+    },
+    {
+      "name": "green soup",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "70"
+    },
+    {
+      "name": "tomato slice",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "90"
+    },
+    {
+      "name": "sugar packet",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "65"
+    }
+  ]
+}

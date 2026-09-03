@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "0-100"
+    },
+    {
+      "name": "green leafy vegetables (possibly spinach or kale)",
+      "portion_estimate": "uncertain, approximately 250g",
+      "confidence": "60"
+    },
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "90-100"
+    }
+  ]
+}

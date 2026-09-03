@@ -1,0 +1,111 @@
+{
+  "tray": [
+    {
+      "item": "plate",
+      "contents": [
+        {
+          "type": "egg",
+          "details": {
+            "shape": "round",
+            "color": "yellow"
+          }
+        },
+        {
+          "type": "fries",
+          "details": {
+            "quantity": 12,
+            "color": "brown"
+          }
+        }
+      ]
+    },
+    {
+      "item": "plate",
+      "contents": [
+        {
+          "type": "bread roll",
+          "details": {
+            "quantity": 1,
+            "color": "brown"
+          }
+        },
+        {
+          "type": "burger",
+          "details": {
+            "quantity": 1,
+            "color": "red"
+          }
+        }
+      ]
+    },
+    {
+      "item": "plate",
+      "contents": [
+        {
+          "type": "fries",
+          "details": {
+            "quantity": 6,
+            "color": "yellow"
+          }
+        }
+      ]
+    },
+    {
+      "item": "cup",
+      "contents": [
+        {
+          "type": "coffee",
+          "details": {
+            "quantity": 1,
+            "color": "brown"
+          }
+        },
+        {
+          "type": "tea",
+          "details": {
+            "quantity": 1,
+            "color": "green"
+          }
+        }
+      ]
+    },
+    {
+      "item": "cup",
+      "contents": [
+        {
+          "type": "coffee",
+          "details": {
+            "quantity": 1,
+            "color": "brown"
+          }
+        },
+        {
+          "type": "tea",
+          "details": {
+            "quantity": 1,
+            "color": "green"
+          }
+        }
+      ]
+    },
+    {
+      "item": "cup",
+      "contents": [
+        {
+          "type": "coffee",
+          "details": {
+            "quantity": 1,
+            "color": "brown"
+          }
+        },
+        {
+          "type": "tea",
+          "details": {
+            "quantity": 1,
+            "color": "green"
+          }
+        }
+      ]
+    }
+  ]
+}

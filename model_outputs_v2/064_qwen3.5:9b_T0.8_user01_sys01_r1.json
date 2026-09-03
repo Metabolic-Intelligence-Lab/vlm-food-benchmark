@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spinach and mushroom stuffed pastry",
+      "portion_estimate": 130,
+      "confidence": 95
+    },
+    {
+      "name": "Cubed roasted potatoes with seasoning",
+      "portion_estimate": 170,
+      "confidence": 95
+    },
+    {
+      "name": "Tomato pasta sauce over fusilli pasta",
+      "portion_estimate": 240,
+      "confidence": 92
+    },
+    {
+      "name": "Bread rolls or baguette pieces",
+      "portion_estimate": 60,
+      "confidence": 85
+    },
+    {
+      "name": "Water in glass",
+      "portion_estimate": 300,
+      "confidence": 95
+    }
+  ]
+}

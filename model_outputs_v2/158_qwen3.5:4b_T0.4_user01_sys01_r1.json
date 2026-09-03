@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Meatballs (approximate)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Pasta with sauce and cheese",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll or bun",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "Cheese stick (approximate)",
+      "portion_estimate": "30",
+      "confidence": 75
+    }
+  ]
+}

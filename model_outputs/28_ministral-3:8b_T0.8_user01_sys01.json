@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked kale",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "whole roasted cod fillet with lemon",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "fettuccine pasta with tomato sauce and toppings",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "sliced raw cucumber salad with cherry tomatoes",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "water (drink)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "dairy-free/vegetable-based cheese sauce or spread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

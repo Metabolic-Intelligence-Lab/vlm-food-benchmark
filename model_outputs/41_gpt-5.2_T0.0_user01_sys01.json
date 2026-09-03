@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orecchiette pasta with tomato sauce and grated cheese",
+      "portion_estimate": "260 g",
+      "confidence": "78"
+    },
+    {
+      "name": "spinach and cheese stuffed pasta (cannelloni/manicotti style) with white sauce",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed salad (cucumber, cabbage, lettuce)",
+      "portion_estimate": "90 g",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll (in plastic wrap)",
+      "portion_estimate": "70 g",
+      "confidence": "72"
+    },
+    {
+      "name": "clementines/mandarins (3 whole)",
+      "portion_estimate": "210 g",
+      "confidence": "74"
+    }
+  ]
+}

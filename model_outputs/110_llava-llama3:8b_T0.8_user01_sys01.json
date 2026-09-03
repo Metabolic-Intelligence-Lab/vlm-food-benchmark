@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "baguette",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "breaded chicken cutlet",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "green peas and orange carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "red plums",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

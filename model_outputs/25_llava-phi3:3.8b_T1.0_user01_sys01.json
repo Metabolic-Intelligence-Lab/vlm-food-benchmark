@@ -1,0 +1,31 @@
+{
+  "food_items": [
+    {
+      "name": "Ball of cheese on white plate",
+      "portion_estimate": "1/4 cup (approx. 35g)",
+      "confidence": "90"
+    },
+    {
+      "name": "Pile of peanuts and crackers",
+      "portion_estimate": "2 tablespoons (approx. 30g)",
+      "confidence": "85"
+    },
+    {
+      "name": "Bagel with cream cheese on tray",
+      "portion_estimate": "1/4 bagel (approx. 60g)",
+      "confidence": "75"
+    }
+  ],
+  "tablecloth": [
+    {
+      "name": "Lunch plate in tray on table",
+      "portion_estimate": "9x13 inches (approx. 230cm\u00b2)",
+      "confidence": "90"
+    },
+    {
+      "name": "Tray with food and condiments",
+      "portion_estimate": "165 grams (approx. 6.2 oz)",
+      "confidence": "80"
+    }
+  ]
+}

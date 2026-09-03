@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green apple",
+      "portion_estimate": "160",
+      "confidence": "95"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250",
+      "confidence": "95"
+    },
+    {
+      "name": "plain bread roll/bun",
+      "portion_estimate": "90",
+      "confidence": "90"
+    },
+    {
+      "name": "spaghetti/pasta (cooked)",
+      "portion_estimate": "230",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed breakfast components (vegetables, egg, fried base, sausage slice)",
+      "portion_estimate": "200",
+      "confidence": "80"
+    }
+  ]
+}

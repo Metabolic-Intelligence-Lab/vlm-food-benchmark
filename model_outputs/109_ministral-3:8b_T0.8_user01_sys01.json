@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans (steamed)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole egg",
+      "portion_estimate": "60 grams",
+      "confidence": 95
+    },
+    {
+      "name": "plain white rice",
+      "portion_estimate": "150 grams (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "diced apple (yellow variety)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole apple",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    }
+  ]
+}

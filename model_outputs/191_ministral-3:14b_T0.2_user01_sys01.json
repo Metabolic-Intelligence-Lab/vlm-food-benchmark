@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked carrot slices (approx. 10 medium slices)",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "vegetable fritter (e.g., carrot or potato-based)",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "green soup (likely vegetable-based, e.g., broccoli or spinach)",
+      "portion_estimate": "300",
+      "confidence": 75
+    },
+    {
+      "name": "soup spoon (for reference, not food)",
+      "portion_estimate": "N/A",
+      "confidence": 0
+    },
+    {
+      "name": "packaged butter (partially visible, brand: Torinesi)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

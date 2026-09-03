@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "omelet with melted cheese",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "melted cheese",
+      "portion_estimate": "50 g",
+      "confidence": 80
+    },
+    {
+      "name": "pasta or noodles",
+      "portion_estimate": "80 g",
+      "confidence": 70
+    }
+  ]
+}

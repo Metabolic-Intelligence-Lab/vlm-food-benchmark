@@ -1,0 +1,54 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Grilled chicken with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Rice with vegetables",
+      "portion_estimate": "150 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Salad with carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Breaded prawns",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Pasta salad with carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Cold pasta salad",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Breadsticks and dipping sauce",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Soy sauce packet",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Water bottle",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

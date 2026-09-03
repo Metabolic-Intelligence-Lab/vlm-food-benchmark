@@ -1,0 +1,23 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "uncertain, approx. weight in grams"
+    },
+    {
+      "name": "Watermelon slice",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50-60"
+    },
+    {
+      "name": "Green leafy vegetable",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50-60"
+    },
+    {
+      "name": "Orange food item (possibly carrot or sweet potato)",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50-60"
+    }
+  ]
+}

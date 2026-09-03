@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "small bread roll (bun), wrapped",
+      "portion_estimate": "70 g",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed salad (lettuce, cabbage, carrot) with dark dressing",
+      "portion_estimate": "120 g",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked chicken pieces (roasted/baked)",
+      "portion_estimate": "110 g",
+      "confidence": "65"
+    },
+    {
+      "name": "roasted potato slice/round",
+      "portion_estimate": "40 g",
+      "confidence": "60"
+    },
+    {
+      "name": "small portion of cauliflower or similar white vegetable",
+      "portion_estimate": "35 g",
+      "confidence": "55"
+    },
+    {
+      "name": "cucumber slice topped with chopped vegetables/herbs (salad garnish)",
+      "portion_estimate": "25 g",
+      "confidence": "60"
+    },
+    {
+      "name": "dark red fruit (plum)",
+      "portion_estimate": "70 g",
+      "confidence": "70"
+    },
+    {
+      "name": "wrapped cheese slice",
+      "portion_estimate": "25 g",
+      "confidence": "72"
+    }
+  ]
+}

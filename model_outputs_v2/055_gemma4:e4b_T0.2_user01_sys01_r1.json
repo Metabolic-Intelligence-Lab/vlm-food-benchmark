@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Slice of cooked grain/starch (e.g., polenta or thick toast)",
+      "portion_estimate": "80g",
+      "confidence": "85"
+    },
+    {
+      "name": "Mixed saut\u00e9ed vegetables and protein (e.g., chicken, peppers, carrots)",
+      "portion_estimate": "180g",
+      "confidence": "80"
+    },
+    {
+      "name": "Saut\u00e9ed dark leafy greens (e.g., spinach)",
+      "portion_estimate": "130g",
+      "confidence": "90"
+    }
+  ]
+}

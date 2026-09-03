@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish fillet with white cream sauce",
+      "portion_estimate": "150",
+      "confidence": "65"
+    },
+    {
+      "name": "sauteed green olives",
+      "portion_estimate": "60",
+      "confidence": "60"
+    },
+    {
+      "name": "breaded fried cauliflower/vegetable florets",
+      "portion_estimate": "70",
+      "confidence": "55"
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

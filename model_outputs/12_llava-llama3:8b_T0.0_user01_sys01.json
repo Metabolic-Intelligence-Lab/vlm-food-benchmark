@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "kale",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "french fries",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Lion cup",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pignoli rigatoni pasta",
+      "portion_estimate": "200 g",
+      "confidence": 95
+    },
+    {
+      "name": "Crusted bread or vegetable pizza",
+      "portion_estimate": "150 g",
+      "confidence": 85
+    },
+    {
+      "name": "Potatoes (side dish)",
+      "portion_estimate": "50 g",
+      "confidence": 70
+    },
+    {
+      "name": "Bun or bread roll",
+      "portion_estimate": "50 g",
+      "confidence": 75
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "100 g",
+      "confidence": 90
+    }
+  ]
+}

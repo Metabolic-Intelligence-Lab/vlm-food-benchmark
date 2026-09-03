@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Meatballs",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Greens (likely spinach or kale)",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "80g",
+      "confidence": 90
+    }
+  ]
+}

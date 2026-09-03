@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat or sourdough bread loaf (unpackaged)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "creamy soup with grated cheese topping (likely tomato or pumpkin-based)",
+      "portion_estimate": "400g",
+      "confidence": 85
+    },
+    {
+      "name": "yellow mashed or pureed vegetable dish (e.g., mashed sweet potato or squash)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "shredded or chopped meat (likely chicken or turkey)",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt or sour cream container (partially visible, brand unclear)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "sugar packet (likely white granulated sugar)",
+      "portion_estimate": "5g",
+      "confidence": 70
+    },
+    {
+      "name": "iced coffee or cold beverage in a clear plastic cup with a green logo",
+      "portion_estimate": "250ml",
+      "confidence": 75
+    }
+  ]
+}

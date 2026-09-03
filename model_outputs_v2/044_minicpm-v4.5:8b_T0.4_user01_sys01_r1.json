@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "plain yogurt (Yomo brand)",
+      "portion_estimate": "125 grams",
+      "confidence": 90
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "bagel (whole, wrapped)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "tomato slices with cheese and anchovy topping (2 slices)",
+      "portion_estimate": "75 grams",
+      "confidence": 80
+    },
+    {
+      "name": "roasted potato cubes (small portion)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "lettuce leaves (small portion)",
+      "portion_estimate": "15 grams",
+      "confidence": 70
+    },
+    {
+      "name": "red onion slices (small portion)",
+      "portion_estimate": "10 grams",
+      "confidence": 60
+    }
+  ]
+}

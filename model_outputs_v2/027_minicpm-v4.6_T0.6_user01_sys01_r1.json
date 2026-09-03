@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "baked bread slice",
+      "portion_estimate": "170 g",
+      "confidence": 90
+    },
+    {
+      "name": "cooked penne pasta with grated cheese",
+      "portion_estimate": "270 g",
+      "confidence": 95
+    },
+    {
+      "name": "cooked leafy vegetables (kale)",
+      "portion_estimate": "160 g",
+      "confidence": 85
+    },
+    {
+      "name": "glass of milk",
+      "portion_estimate": "250 ml (approx. 250 g of liquid)",
+      "confidence": 80
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "90 g",
+      "confidence": 75
+    },
+    {
+      "name": "small yogurt or spread container",
+      "portion_estimate": "180 g",
+      "confidence": 70
+    }
+  ]
+}

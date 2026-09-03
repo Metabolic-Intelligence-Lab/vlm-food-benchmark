@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "peanuts with green onions",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "chicken breast",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "vegetable mix (likely broccoli rabe with potatoes)",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "plum (or similar fruit)",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "plum (or similar fruit)",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "plum (or similar fruit)",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    }
+  ]
+}

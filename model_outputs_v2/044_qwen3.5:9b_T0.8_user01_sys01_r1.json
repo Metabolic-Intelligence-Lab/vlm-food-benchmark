@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Greek yogurt with blueberry topping",
+      "portion_estimate": 175,
+      "confidence": 95
+    },
+    {
+      "name": "Diet soft drink (e.g., Diet Coke) served in glass cup",
+      "portion_estimate": 250,
+      "confidence": 90
+    },
+    {
+      "name": "Whole wheat hamburger bun",
+      "portion_estimate": 65,
+      "confidence": 85
+    },
+    {
+      "name": "Cheeseburger patty with lettuce and tomato slices",
+      "portion_estimate": 220,
+      "confidence": 75
+    },
+    {
+      "name": "Roasted seasoned potato cubes",
+      "portion_estimate": 180,
+      "confidence": 90
+    }
+  ]
+}

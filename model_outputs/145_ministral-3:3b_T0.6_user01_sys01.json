@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cauliflower florets",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "quinoa or pasta salad with greens and possibly some cheese",
+      "portion_estimate": "150 g",
+      "confidence": 90
+    },
+    {
+      "name": "rice or couscous-based stew with beans and possibly spices",
+      "portion_estimate": "200 g",
+      "confidence": 85
+    },
+    {
+      "name": "lemonade or fruit drink pouch (Polypothe)",
+      "portion_estimate": "150 ml (\u2248 140 g)",
+      "confidence": 80
+    },
+    {
+      "name": "packaged snack or biscuit (small bag)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

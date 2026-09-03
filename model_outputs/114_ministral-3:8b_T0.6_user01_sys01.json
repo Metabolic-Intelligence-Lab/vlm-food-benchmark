@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "roasted or baked fries (pommes frites) with seasoning",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "breaded or pan-fried cutlet (likely pork or chicken)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small baked or roasted potato wedges",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat or rye bread slice",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "condiment packet (likely ketchup)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "steamed green vegetable (possibly broccoli or green beans)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

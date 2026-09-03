@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta Salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Tomatoes (sliced)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Black Olives",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Canned Tuna or Chicken (chopped)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

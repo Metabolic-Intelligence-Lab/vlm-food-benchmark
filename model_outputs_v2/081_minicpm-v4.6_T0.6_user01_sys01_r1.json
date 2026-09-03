@@ -1,0 +1,36 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "spinach or kale",
+      "portion_estimate": "300 g",
+      "confidence": 90
+    },
+    {
+      "name": "fritters or meatballs",
+      "portion_estimate": "120 g",
+      "confidence": 95
+    },
+    {
+      "name": "bread or pastries",
+      "portion_estimate": "100 g",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt or spread",
+      "portion_estimate": "80 g",
+      "confidence": 80
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 ml",
+      "confidence": 90,
+      "estimated_weight": "about 70 g"
+    }
+  ],
+  "note": "portions are estimated based on visual inspection and serving context."
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried potato wedges with seasoning",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "crumbled dairy spread (e.g., cream cheese or similar) in small tub",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "whole roasted or baked egg",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "green beans with almond-like coating (possibly breadcrumbs or nuts)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "small bread roll or bun (partially visible)",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "paraffin or plastic wrap with text",
+      "portion_estimate": "uncertain (non-edible)",
+      "confidence": 0
+    }
+  ]
+}

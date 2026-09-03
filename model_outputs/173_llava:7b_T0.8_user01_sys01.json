@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Baked beans",
+      "portion_estimate": "125g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Chicken breast",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta salad with carrots and peas",
+      "portion_estimate": "125g",
+      "confidence": "70"
+    }
+  ]
+}

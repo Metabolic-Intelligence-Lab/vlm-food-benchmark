@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "creamy spinach soup with grated cheese topping",
+      "portion_estimate": "400",
+      "confidence": 85
+    },
+    {
+      "name": "roasted or fried potato wedges",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "fried or breaded meatballs (possibly chicken or turkey)",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "red cabbage salad with dressing",
+      "portion_estimate": "80",
+      "confidence": 70
+    },
+    {
+      "name": "whole wheat or seeded bread roll (partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "partially peeled banana",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

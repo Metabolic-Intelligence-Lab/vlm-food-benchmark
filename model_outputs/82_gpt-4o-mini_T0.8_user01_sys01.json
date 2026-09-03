@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta bake with cheese and vegetables",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed or cooked greens (possibly spinach or kale)",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "garden salad with lettuce and red cabbage",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "dinner roll (bread)",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "100",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot Spaghetti",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Carrot and Pea Medley",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    },
+    {
+      "name": "Pesto Flatbread Slice",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Small Bread Roll",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mango",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    }
+  ]
+}

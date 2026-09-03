@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "whole roasted meat with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "pickled green olives or olives in brine",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole apple",
+      "portion_estimate": "180 grams",
+      "confidence": 95
+    },
+    {
+      "name": "plain water",
+      "portion_estimate": "250 milliliters (\u2248 250 grams, assuming water density)",
+      "confidence": 85
+    }
+  ]
+}

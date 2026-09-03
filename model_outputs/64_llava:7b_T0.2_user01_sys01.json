@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken breast with seasoning",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Cooked potatoes",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll with butter",
+      "portion_estimate": "30 grams",
+      "confidence": "70"
+    }
+  ]
+}

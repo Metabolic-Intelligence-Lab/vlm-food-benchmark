@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with tomato sauce and grated cheese",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Mixed steamed vegetables (zucchini, peas, carrots)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "Spinach frittata or omelette",
+      "portion_estimate": "90g",
+      "confidence": 75
+    },
+    {
+      "name": "Bagel roll in packaging",
+      "portion_estimate": "60g",
+      "confidence": 80
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "130g",
+      "confidence": 75
+    }
+  ]
+}

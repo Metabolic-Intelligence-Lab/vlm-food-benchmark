@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain, but approx. bowl size of soup in large dish",
+      "confidence": "50"
+    },
+    {
+      "name": "bread rolls",
+      "portion_estimate": "1 bun",
+      "confidence": "70"
+    },
+    {
+      "name": "pudding (strawberry)",
+      "portion_estimate": "uncertain, but approx. spoonful in cup",
+      "confidence": "50"
+    },
+    {
+      "name": "green dumplings with filling and sauce on top",
+      "portion_estimate": "2 dumplings of average size each",
+      "confidence": "60"
+    },
+    {
+      "name": "mashed potato or cauliflower, topped with a pinkish mixture (likely meat)",
+      "portion_estimate": "uncertain but approx. plateful for single serving",
+      "confidence": "50"
+    }
+  ]
+}

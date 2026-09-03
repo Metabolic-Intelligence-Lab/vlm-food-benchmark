@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with parmesan",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "sliced bread",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "beans on toast",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    }
+  ]
+}

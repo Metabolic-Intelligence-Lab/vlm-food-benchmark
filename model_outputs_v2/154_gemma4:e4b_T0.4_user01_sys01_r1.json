@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cheese or butter wedge",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed grain or pasta salad",
+      "portion_estimate": "250g",
+      "confidence": "95"
+    },
+    {
+      "name": "cut carrots",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "vegetable patties (2)",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "baked roll or biscuit",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "plums (2)",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    }
+  ]
+}

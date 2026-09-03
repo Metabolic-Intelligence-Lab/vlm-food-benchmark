@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable and legume soup with grated cheese topping",
+      "portion_estimate": "380 g",
+      "confidence": "78"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "90"
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "95"
+    },
+    {
+      "name": "uncertain scrambled egg or cauliflower side",
+      "portion_estimate": "120 g",
+      "confidence": "45"
+    },
+    {
+      "name": "uncertain stuffed vegetable/meat patties with sauce",
+      "portion_estimate": "140 g",
+      "confidence": "50"
+    }
+  ]
+}

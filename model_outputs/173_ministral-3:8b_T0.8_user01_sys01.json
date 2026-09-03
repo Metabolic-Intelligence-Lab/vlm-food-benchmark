@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "steamed green beans with dressing",
+      "portion_estimate": 150,
+      "confidence": 70
+    },
+    {
+      "name": "whole roasted chicken thigh portion (skin visible)",
+      "portion_estimate": 120,
+      "confidence": 75
+    },
+    {
+      "name": "baguette slice (white bread)",
+      "portion_estimate": 30,
+      "confidence": 65
+    },
+    {
+      "name": "penne pasta (al dente)",
+      "portion_estimate": 180,
+      "confidence": 80
+    },
+    {
+      "name": "whole navel orange",
+      "portion_estimate": 130,
+      "confidence": 85
+    },
+    {
+      "name": "egg, fried",
+      "portion_estimate": 50,
+      "confidence": 80
+    }
+  ]
+}

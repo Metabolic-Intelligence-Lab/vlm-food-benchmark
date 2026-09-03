@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "meatball (likely beef or veal)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "green pesto sauce in bowl",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "packaged cheese spread (Torinesi)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "spoon",
+      "portion_estimate": "uncertain (not food)",
+      "confidence": 0
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish with cheese",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Saut\u00e9ed eggplant with topping",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "Baguette bread roll",
+      "portion_estimate": "120",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "250",
+      "confidence": "90"
+    },
+    {
+      "name": "roasted brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "red cabbage",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "corn fritters",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "plain bagel",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

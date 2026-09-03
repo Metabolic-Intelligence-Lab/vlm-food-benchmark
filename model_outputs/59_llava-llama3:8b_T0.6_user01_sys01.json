@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetables (carrots and cucumbers)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

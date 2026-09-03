@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chopped cooked potatoes (hash/breakfast potatoes)",
+      "portion_estimate": "180 g",
+      "confidence": "70"
+    },
+    {
+      "name": "sliced cooked pork/ham (2 slices)",
+      "portion_estimate": "90 g",
+      "confidence": "65"
+    },
+    {
+      "name": "melted cheese or cheese sauce over meat",
+      "portion_estimate": "35 g",
+      "confidence": "55"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50 g",
+      "confidence": "60"
+    },
+    {
+      "name": "clear beverage (possibly water) in plastic cup",
+      "portion_estimate": "200 g",
+      "confidence": "45"
+    }
+  ]
+}

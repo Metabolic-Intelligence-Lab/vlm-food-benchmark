@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Stir-fried noodles or rice with vegetables",
+      "portion_estimate": "220",
+      "confidence": "90"
+    },
+    {
+      "name": "Water or clear beverage",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "Crumbled tofu or cheese",
+      "portion_estimate": "90",
+      "confidence": "75"
+    },
+    {
+      "name": "Sliced cucumber and shredded cabbage/onion salad",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "Plain bread roll or bun",
+      "portion_estimate": "100",
+      "confidence": "90"
+    }
+  ]
+}

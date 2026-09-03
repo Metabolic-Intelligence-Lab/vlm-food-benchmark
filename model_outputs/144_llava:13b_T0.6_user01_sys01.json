@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Rigati Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Spaghetti Pasta (similar type of tubular pasta)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Grated Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Small Loaf of Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Butter or Spreadable Item",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Beans or Lentils",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Fruit Salad (sliced apples and pears)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

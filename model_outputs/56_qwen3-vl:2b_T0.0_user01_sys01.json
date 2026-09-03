@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fish Fillet",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "Vegetables (Mixed)",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "Bun",
+      "portion_estimate": "50g",
+      "confidence": 100
+    },
+    {
+      "name": "Water (in a glass)",
+      "portion_estimate": "250g",
+      "confidence": 100
+    }
+  ]
+}

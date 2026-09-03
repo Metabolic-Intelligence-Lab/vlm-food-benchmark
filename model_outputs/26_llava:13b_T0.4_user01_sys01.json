@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fish fillet",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "steamed vegetables",
+      "portion_estimate": "80g",
+      "confidence": "40"
+    },
+    {
+      "name": "fruit salad",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "80g",
+      "confidence": "40"
+    }
+  ]
+}

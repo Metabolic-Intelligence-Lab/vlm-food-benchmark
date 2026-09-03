@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken with coleslaw",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "hash browns",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sauce or gravy",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "broccoli florets and croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

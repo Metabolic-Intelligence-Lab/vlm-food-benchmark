@@ -1,0 +1,38 @@
+{
+  "tray": [
+    {
+      "plate1": {
+        "food": "Bread",
+        "color": "Golden brown"
+      },
+      "plate2": {
+        "food": "Vegetables",
+        "color": "Green and purple"
+      },
+      "plate3": {
+        "food": "Casserole",
+        "color": "Yellow and brown"
+      }
+    },
+    {
+      "glass1": {
+        "type": "Wine glass",
+        "contents": "Water"
+      },
+      "napkin1": {
+        "material": "Paper",
+        "color": "White and green"
+      },
+      "bread_bag": {
+        "material": "Plastic",
+        "design": "Red rose"
+      }
+    },
+    {
+      "plate4": {
+        "food": "Pasta",
+        "color": "Yellow and white"
+      }
+    }
+  ]
+}

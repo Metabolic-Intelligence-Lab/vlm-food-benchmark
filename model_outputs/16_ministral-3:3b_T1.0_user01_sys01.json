@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "chicken and fruit meatball/cob",
+      "portion_estimate": "25-30 grams",
+      "confidence": 85
+    },
+    {
+      "name": "apple slices (likely baked/apple bits)",
+      "portion_estimate": "30 grams",
+      "confidence": 90
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "20 grams",
+      "confidence": 80
+    },
+    {
+      "name": "drizzled sauce/glaze (on meatball)",
+      "portion_estimate": "15 grams",
+      "confidence": 70
+    },
+    {
+      "name": "plastic-wrapped container with jam",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "small red berry (e.g., plum/raspberry)",
+      "portion_estimate": "2 grams",
+      "confidence": 75
+    },
+    {
+      "name": "green leafy salad or salsa in bowl",
+      "portion_estimate": "uncertain (bulk, ~80g estimated if ~1 cup)",
+      "confidence": 70
+    }
+  ]
+}

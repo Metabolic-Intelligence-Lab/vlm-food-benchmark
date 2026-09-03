@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white beans (cannellini or similar) with garlic and herbs",
+      "portion_estimate": "150 grams (approximate)",
+      "confidence": 75
+    },
+    {
+      "name": "baked fish fillet (likely cod or similar white fish)",
+      "portion_estimate": "120 grams (approximate)",
+      "confidence": 70
+    },
+    {
+      "name": "creamy mashed potato or polenta-like dish",
+      "portion_estimate": "180 grams (approximate)",
+      "confidence": 70
+    },
+    {
+      "name": "whole-grain bread roll",
+      "portion_estimate": "40 grams (approximate)",
+      "confidence": 65
+    },
+    {
+      "name": "plum or similar stone fruit (unripe/partially ripe based on color)",
+      "portion_estimate": "120 grams (approximate)",
+      "confidence": 60
+    }
+  ]
+}

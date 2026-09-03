@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Chopped Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread with Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

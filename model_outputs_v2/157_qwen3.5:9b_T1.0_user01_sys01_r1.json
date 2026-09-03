@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni pasta with grated cheese",
+      "portion_estimate": 180,
+      "confidence": 92
+    },
+    {
+      "name": "Brown lentils",
+      "portion_estimate": 140,
+      "confidence": 95
+    },
+    {
+      "name": "Vegetable dumplings (pierogi or gnocchi)",
+      "portion_estimate": 60,
+      "confidence": 85
+    },
+    {
+      "name": "Grilled mushroom slice",
+      "portion_estimate": 25,
+      "confidence": 80
+    },
+    {
+      "name": "Fruit (likely apple or pear)",
+      "portion_estimate": 130,
+      "confidence": 85
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": 50,
+      "confidence": 80
+    }
+  ]
+}

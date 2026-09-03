@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread in plastic bag",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed salad with lettuce, tomatoes, olives, tuna, and mozzarella cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

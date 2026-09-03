@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "baked bruschetta with broccoli and carrot",
+      "portion_estimate": "150 grams (approximate combined weight of bread, broccoli, and carrot)",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with meat sauce and cheese",
+      "portion_estimate": "200 grams (including pasta and toppings)",
+      "confidence": 80
+    },
+    {
+      "name": "whole grain bread slice",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "uncertain (approximately 30 grams for 5-6 olives)",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "lentil or vegetable soup with grated cheese",
+      "portion_estimate": "350 g",
+      "confidence": "75"
+    },
+    {
+      "name": "chopped cooked chicken pieces with crumb seasoning",
+      "portion_estimate": "120 g",
+      "confidence": "65"
+    },
+    {
+      "name": "breaded fish or chicken fillet",
+      "portion_estimate": "90 g",
+      "confidence": "60"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "sealed yogurt or pudding cup",
+      "portion_estimate": "125 g",
+      "confidence": "55"
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "15 g",
+      "confidence": "85"
+    },
+    {
+      "name": "small scoop of mashed potato or white dip",
+      "portion_estimate": "40 g",
+      "confidence": "45"
+    }
+  ]
+}

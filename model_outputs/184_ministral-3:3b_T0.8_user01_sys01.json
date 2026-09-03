@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "plain baguette bun (untied)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sliced salad mix with greens, cucumber, olives, and possibly dried fruit",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "whole chicken croissant wrap with chicken breast, herbs, and what appears to be red peppers",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "small pickled plum or blackberry",
+      "portion_estimate": "2",
+      "confidence": 80
+    },
+    {
+      "name": "garlic bread stick from the wrapped baguette",
+      "portion_estimate": "30",
+      "confidence": 70
+    }
+  ]
+}

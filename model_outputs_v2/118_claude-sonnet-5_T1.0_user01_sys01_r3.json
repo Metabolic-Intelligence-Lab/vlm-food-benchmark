@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and grated parmesan",
+      "portion_estimate": "220",
+      "confidence": 80
+    },
+    {
+      "name": "roasted diced potatoes with herbs",
+      "portion_estimate": "150",
+      "confidence": 78
+    },
+    {
+      "name": "vegetable and breadcrumb patty (polpetta/burger) topped with tomato sauce and cheese",
+      "portion_estimate": "120",
+      "confidence": 55
+    },
+    {
+      "name": "fruit yogurt cup (Yomo)",
+      "portion_estimate": "125",
+      "confidence": 70
+    }
+  ]
+}

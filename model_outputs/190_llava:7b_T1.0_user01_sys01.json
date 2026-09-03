@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Portion of fettuccine pasta",
+      "portion_estimate": "uncertain, approximately a half cup",
+      "confidence": 40
+    },
+    {
+      "name": "Portion of breaded meat with a golden crust, likely chicken",
+      "portion_estimate": "165g (about 5.8 oz)",
+      "confidence": 70
+    },
+    {
+      "name": "Green vegetables that appear to be leafy greens such as spinach or arugula, served on the side of plate",
+      "portion_estimate": "uncertain, possibly a half cup",
+      "confidence": 40
+    },
+    {
+      "name": "White bowl of red sauce, which could be tomato-based or marinara",
+      "portion_estimate": "uncertain, likely to be about a half cup",
+      "confidence": 30
+    }
+  ]
+}

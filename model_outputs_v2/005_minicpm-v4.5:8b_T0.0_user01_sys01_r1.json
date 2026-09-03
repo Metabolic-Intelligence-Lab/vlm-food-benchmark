@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "yellow soup (likely pumpkin or squash soup)",
+      "portion_estimate": "250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "fried potato nuggets",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "small container of yogurt (Yomo brand)",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    }
+  ]
+}

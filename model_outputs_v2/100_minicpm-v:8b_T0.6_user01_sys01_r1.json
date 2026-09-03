@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Cheesy pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Green and white vegetable salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread bun",
+      "portion_estimate": "1/4 of a large bread roll",
+      "confidence": 90
+    }
+  ]
+}

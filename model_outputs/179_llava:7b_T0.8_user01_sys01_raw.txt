@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish with red sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Breaded meat (possibly chicken)",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta salad",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Rice with vegetables",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried breaded item (possibly chicken)",
+      "portion_estimate": "120g",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed vegetables (broccoli, cauliflower)",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Baguette (possibly french bread),"
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }
+  ]
+}

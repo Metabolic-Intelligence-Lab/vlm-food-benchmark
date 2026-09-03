@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baked bread",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "flatbread with pineapple",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pickled vegetables",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": "20 grams",
+      "confidence": 70
+    }
+  ]
+}

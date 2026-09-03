@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and vegetables",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Pasta with spinach and cheese",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Cooked spinach",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "150 milliliters",
+      "confidence": 95
+    }
+  ]
+}

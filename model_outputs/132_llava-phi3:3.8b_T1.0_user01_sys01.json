@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "banana chips",
+      "portion_estimate": "30g",
+      "confidence": "80"
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "12g",
+      "confidence": "60"
+    },
+    {
+      "name": "breaded chicken drumstick",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    }
+  ]
+}

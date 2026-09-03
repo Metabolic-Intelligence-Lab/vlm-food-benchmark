@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Green Soup",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Rice",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    }
+  ]
+}

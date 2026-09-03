@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bowl of salad with orange dressing and vegetables",
+      "portion_estimate": "approx. 120 grams (salad) + 30 grams (orange dressing)",
+      "confidence": 70
+    },
+    {
+      "name": "spaghetti carbonara on white plate",
+      "portion_estimate": "uncertain, likely approx. 5-6 oz.",
+      "confidence": 40
+    },
+    {
+      "name": "broccolini and cherry tomatoes on top of breaded chicken cutlet (possibly a fried cutlet with pesto or sauce)",
+      "portion_estimate": "approx. 8 oz",
+      "confidence": 50
+    },
+    {
+      "name": "yogurt in small cup",
+      "portion_estimate": "uncertain, likely approx. 120g",
+      "confidence": 60
+    }
+  ]
+}

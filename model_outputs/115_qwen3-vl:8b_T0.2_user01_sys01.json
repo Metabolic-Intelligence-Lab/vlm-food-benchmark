@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "dark purple grapes",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed greens salad",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "meatballs in tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "whole grain bread slice",
+      "portion_estimate": "35",
+      "confidence": "80"
+    }
+  ]
+}

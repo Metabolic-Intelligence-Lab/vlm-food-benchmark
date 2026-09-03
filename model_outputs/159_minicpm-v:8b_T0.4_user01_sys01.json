@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "uncertain, approx. 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Broccoli and mushroom lasagna",
+      "portion_estimate": "uncertain, approx. 300g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "uncertain, approx. 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. 70-90g",
+      "confidence": "60"
+    }
+  ]
+}

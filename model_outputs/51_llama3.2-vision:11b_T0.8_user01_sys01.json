@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Mashed Potato",
+      "portion_estimate": "200-250 grams",
+      "confidence": "90-100"
+    },
+    {
+      "name": "Gravy",
+      "portion_estimate": "50-100 grams",
+      "confidence": "80-90"
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "100-150 grams",
+      "confidence": "50-70"
+    }
+  ]
+}

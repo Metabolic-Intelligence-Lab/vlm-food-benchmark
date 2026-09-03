@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "baked fish with crust (e.g., beer-battered cod or similar)",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "roasted or baked potato wedges with seasoning",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "chicken or meat dish with mixed vegetables (e.g., chicken kiev or schnitzel with peppers and onions)",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetables (saut\u00e9ed or roasted, including carrots and bell peppers)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "white bread or dinner roll",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt or similar dairy dessert (e.g., vanilla yogurt with topping)",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "packaged crackers or biscuits",
+      "portion_estimate": "20",
+      "confidence": 65
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

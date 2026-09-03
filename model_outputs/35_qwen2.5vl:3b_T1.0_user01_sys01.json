@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "chocolate chip cookie",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "grainy crackers or cookies",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "watermelon",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

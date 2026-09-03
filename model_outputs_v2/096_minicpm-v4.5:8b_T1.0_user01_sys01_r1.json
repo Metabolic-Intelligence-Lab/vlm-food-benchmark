@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pear juice drink",
+      "portion_estimate": "200ml (180g)",
+      "confidence": "90"
+    },
+    {
+      "name": "chocolate sandwich cookie (visible part of one cookie)",
+      "portion_estimate": "30g",
+      "confidence": "85"
+    },
+    {
+      "name": "chocolate sandwich cookie (entire second cookie)",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    }
+  ]
+}

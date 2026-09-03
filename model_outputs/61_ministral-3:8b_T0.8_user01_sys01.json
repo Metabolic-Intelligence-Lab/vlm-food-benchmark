@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "creamy mushroom and vegetable soup",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "pork meatballs or cutlets",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "diced potatoes (chips/fries)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "buttered or creamy potato pieces (likely mixed with other ingredients)",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "unspecified creamy or yogurt-like condiment (small container in the foreground)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "crackers or bread roll (top right corner, wrapped)",
+      "portion_estimate": "50",
+      "confidence": 70
+    }
+  ]
+}

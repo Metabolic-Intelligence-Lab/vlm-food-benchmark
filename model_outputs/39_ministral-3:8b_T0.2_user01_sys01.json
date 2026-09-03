@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (yellow, likely with oil or sauce)",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "spinach (saut\u00e9ed)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "corn on the cob (with butter)",
+      "portion_estimate": "150g (including husk)",
+      "confidence": 85
+    },
+    {
+      "name": "cherry tomatoes (whole)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "garlic bread (packaged)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    }
+  ]
+}

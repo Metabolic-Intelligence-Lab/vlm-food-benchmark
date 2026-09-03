@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with pesto sauce",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated parmesan cheese (topping on pasta)",
+      "portion_estimate": "15 g",
+      "confidence": "72"
+    },
+    {
+      "name": "green beans (cooked)",
+      "portion_estimate": "160 g",
+      "confidence": "77"
+    },
+    {
+      "name": "baked vegetable roulade/slice (possibly eggplant with vegetable filling)",
+      "portion_estimate": "80 g",
+      "confidence": "52"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll (white bun)",
+      "portion_estimate": "60 g",
+      "confidence": "74"
+    },
+    {
+      "name": "water (in cup)",
+      "portion_estimate": "250 g",
+      "confidence": "70"
+    }
+  ]
+}

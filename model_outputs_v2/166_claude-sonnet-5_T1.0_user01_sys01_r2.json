@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with tomato sauce and grated cheese",
+      "portion_estimate": "200",
+      "confidence": 75
+    },
+    {
+      "name": "savory spinach and cheese stuffed pastry/pie slice",
+      "portion_estimate": "120",
+      "confidence": 65
+    },
+    {
+      "name": "sauteed spinach with diced potatoes",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll (panino), wrapped",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "tomato sauce condiment cup (Mutti brand)",
+      "portion_estimate": "20",
+      "confidence": 60
+    },
+    {
+      "name": "uncertain wrapped item (possibly breadstick or cracker)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

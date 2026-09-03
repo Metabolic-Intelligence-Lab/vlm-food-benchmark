@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with vegetables",
+      "portion_estimate": "250 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "grilled fish fillet",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "whole red apple",
+      "portion_estimate": "180 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": "95"
+    }
+  ]
+}

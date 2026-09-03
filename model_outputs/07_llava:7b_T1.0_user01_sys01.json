@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "100-150 g",
+      "confidence": 70
+    },
+    {
+      "name": "Sandwich",
+      "portion_estimate": "25-35 g",
+      "confidence": 80
+    },
+    {
+      "name": "Fish fillet",
+      "portion_estimate": "50-60 g",
+      "confidence": 60
+    },
+    {
+      "name": "Pilaf with chickpeas",
+      "portion_estimate": "150-200 g",
+      "confidence": 80
+    },
+    {
+      "name": "Dinner rolls",
+      "portion_estimate": "3-4 pieces",
+      "confidence": 60
+    }
+  ]
+}

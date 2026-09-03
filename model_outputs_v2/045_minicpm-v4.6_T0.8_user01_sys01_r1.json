@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread bun",
+      "portion_estimate": "100 g",
+      "confidence": 85
+    },
+    {
+      "name": "fried dish",
+      "portion_estimate": "300 g",
+      "confidence": 95
+    },
+    {
+      "name": "yogurt dip",
+      "portion_estimate": "150 g",
+      "confidence": 88
+    },
+    {
+      "name": "shredded carrot salad",
+      "portion_estimate": "150 g",
+      "confidence": 80
+    },
+    {
+      "name": "vegetable dish with green beans, cheese, and corn",
+      "portion_estimate": "250 g",
+      "confidence": 90
+    }
+  ]
+}

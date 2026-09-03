@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Orange slices",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Carrot slices",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Unidentified food item",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

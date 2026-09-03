@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese",
+      "portion_estimate": "150-200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "pine nuts",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    },
+    {
+      "name": "grilled sandwich with greens",
+      "portion_estimate": "100-150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "grapefruit slice (in plastic wrap)",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "grapes (3)",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    }
+  ]
+}

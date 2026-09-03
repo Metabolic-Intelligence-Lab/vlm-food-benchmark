@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried potato croquettes (arancini) with breadcrumb coating",
+      "portion_estimate": "450",
+      "confidence": "85"
+    },
+    {
+      "name": "chickpeas in tomato sauce (stew or soup)",
+      "portion_estimate": "300",
+      "confidence": "80"
+    },
+    {
+      "name": "baguette or crusty bread roll",
+      "portion_estimate": "120",
+      "confidence": "75"
+    },
+    {
+      "name": "yogurt drink (unspecified flavor, in red container)",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "water (in clear glass)",
+      "portion_estimate": "250",
+      "confidence": "90"
+    }
+  ]
+}

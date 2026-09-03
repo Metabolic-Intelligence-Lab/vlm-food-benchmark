@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "200-250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "mixed vegetable salad (zucchini, onion, garlic)",
+      "portion_estimate": "100-120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50-60 grams",
+      "confidence": 80
+    }
+  ]
+}

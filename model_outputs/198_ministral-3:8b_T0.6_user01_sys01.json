@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole baked potato",
+      "portion_estimate": "200-250g",
+      "confidence": 90
+    },
+    {
+      "name": "white rice (uncooked portion shown)",
+      "portion_estimate": "uncertain (estimated ~150g cooked, based on standard serving size)",
+      "confidence": 65
+    },
+    {
+      "name": "mushrooms and chicken pieces with sauce",
+      "portion_estimate": "180-200g",
+      "confidence": 85
+    },
+    {
+      "name": "butter or margarine in wrapper",
+      "portion_estimate": "uncertain (~25-30g, assuming standard stick)",
+      "confidence": 70
+    },
+    {
+      "name": "cream cheese or spreadable cheese (packaged)",
+      "portion_estimate": "uncertain (~75-80g, based on standard block size)",
+      "confidence": 75
+    }
+  ]
+}

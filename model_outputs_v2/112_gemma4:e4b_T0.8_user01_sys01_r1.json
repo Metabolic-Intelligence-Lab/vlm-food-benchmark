@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (fettuccine/tagliatelle) with sauce and grated cheese topping",
+      "portion_estimate": "220g",
+      "confidence": "95"
+    },
+    {
+      "name": "Yellow baked or cheese item slice",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "Grapes or plums (small grouping)",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed green olives",
+      "portion_estimate": "70g",
+      "confidence": "90"
+    }
+  ]
+}

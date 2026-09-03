@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup (pureed)",
+      "portion_estimate": "350 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated Parmesan cheese (topping on soup)",
+      "portion_estimate": "5 g",
+      "confidence": "65"
+    },
+    {
+      "name": "spinach patty or spinach dumpling with white sauce",
+      "portion_estimate": "150 g",
+      "confidence": "56"
+    },
+    {
+      "name": "mixed diced vegetables in sauce (side dish)",
+      "portion_estimate": "100 g",
+      "confidence": "62"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "70"
+    },
+    {
+      "name": "single-serve yogurt cup (strawberry or fruit)",
+      "portion_estimate": "125 g",
+      "confidence": "67"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "salad",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "carrot shreds",
+      "portion_estimate": "30 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "cucumber slices",
+      "portion_estimate": "30 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "lettuce",
+      "portion_estimate": "30 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "potato with toppings (butter, sauce, cheese)",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "plums (3)",
+      "portion_estimate": "60 grams",
+      "confidence": "80"
+    }
+  ]
+}

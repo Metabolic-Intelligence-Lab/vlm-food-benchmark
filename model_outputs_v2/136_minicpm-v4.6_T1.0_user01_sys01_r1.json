@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "rigid tube pasta (pignatelli)",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "approximately 20 grams",
+      "confidence": 85
+    },
+    {
+      "name": "chopped carrots",
+      "portion_estimate": "approximately 40 grams",
+      "confidence": 90
+    },
+    {
+      "name": "mixed vegetable mixture",
+      "portion_estimate": "approximately 30-50 grams",
+      "confidence": 75
+    }
+  ]
+}

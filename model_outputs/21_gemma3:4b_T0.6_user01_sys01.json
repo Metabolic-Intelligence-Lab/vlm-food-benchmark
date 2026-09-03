@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Fish",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Fruit Salad",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Cherry",
+      "portion_estimate": "5",
+      "confidence": 65
+    }
+  ]
+}

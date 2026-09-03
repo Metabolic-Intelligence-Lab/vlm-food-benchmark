@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Tortellini with sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad in a bowl",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread rolls",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "A banana",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Frozen pizza in a box",
+      "portion_estimate": "300g",
+      "confidence": "50"
+    }
+  ]
+}

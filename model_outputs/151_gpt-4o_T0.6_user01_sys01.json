@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Brussels sprouts and carrots",
+      "portion_estimate": "80 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Mashed sweet potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Pasta with mushrooms and cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread slice",
+      "portion_estimate": "30 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Two plums",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    }
+  ]
+}

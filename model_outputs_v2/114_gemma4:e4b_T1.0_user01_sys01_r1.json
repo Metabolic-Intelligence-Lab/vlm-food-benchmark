@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fried sticks or thick fries",
+      "portion_estimate": "180",
+      "confidence": "95"
+    },
+    {
+      "name": "French fries (side serving)",
+      "portion_estimate": "120",
+      "confidence": "95"
+    },
+    {
+      "name": "Fried croquette or patty",
+      "portion_estimate": "90",
+      "confidence": "85"
+    },
+    {
+      "name": "Sliced bread",
+      "portion_estimate": "100",
+      "confidence": "90"
+    }
+  ]
+}

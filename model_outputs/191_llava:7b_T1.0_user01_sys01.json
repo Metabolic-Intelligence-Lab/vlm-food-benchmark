@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup (unable to identify exact type)",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Roasted meatballs, likely lamb or goat",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Boiled eggs",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Baked vegetables, including carrots and broccoli",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "80"
+    }
+  ]
+}

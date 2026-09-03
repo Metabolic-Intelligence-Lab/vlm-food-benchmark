@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pizza slice with melted cheese and vegetable toppings",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "creamy pasta dish with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

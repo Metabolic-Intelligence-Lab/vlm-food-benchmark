@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "tomato mozzarella salad",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "potatoes with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "chocolate pudding cup",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

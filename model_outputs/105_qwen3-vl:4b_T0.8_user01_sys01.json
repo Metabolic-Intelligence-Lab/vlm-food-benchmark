@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Radicchio",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "Leafy Greens (e.g., spinach or mixed salad greens)",
+      "portion_estimate": "100 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrot Strips",
+      "portion_estimate": "25 g",
+      "confidence": "75"
+    },
+    {
+      "name": "Grilled Chicken",
+      "portion_estimate": "50 g",
+      "confidence": "80"
+    }
+  ]
+}

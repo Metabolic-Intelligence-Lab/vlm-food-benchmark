@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy green soup (possibly matzo ball or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "boiled carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "meatballs (pork or beef in gravy)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "mustard (condiment)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken",
+      "portion_estimate": "uncertain (likely approx. 125-170g)",
+      "confidence": "60"
+    },
+    {
+      "name": "peanut butter and jelly sandwich",
+      "portion_estimate": "uncertain (likely approx. 93-140g)",
+      "confidence": "60"
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "approx. 52-78g",
+      "confidence": "60"
+    },
+    {
+      "name": "orange juice",
+      "portion_estimate": "uncertain (likely approx. small medium-sized orange or about 1/4 cup)",
+      "confidence": "30"
+    }
+  ]
+}

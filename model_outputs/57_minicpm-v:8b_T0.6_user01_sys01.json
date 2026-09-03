@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain, estimate around 100g per serving",
+      "confidence": "65"
+    },
+    {
+      "name": "Omelet with mushrooms and greens on a white plate",
+      "portion_estimate": "uncertain, estimate around 200g per omelet slice",
+      "confidence": "70"
+    },
+    {
+      "name": "Whole wheat bread in plastic wrap",
+      "portion_estimate": "uncertain, estimate around half of average size baguette or similar white bread loaf weight",
+      "confidence": "58"
+    },
+    {
+      "name": "Banana on a tray with other food items",
+      "portion_estimate": "uncertain, estimate around 100-200g depending on the variety and ripeness of banana",
+      "confidence": "62"
+    },
+    {
+      "name": "Pasta salad in tomato sauce served on a white plate",
+      "portion_estimate": "uncertain, estimate around average portion size for pasta dishes (150-300g)",
+      "confidence": "75"
+    }
+  ]
+}

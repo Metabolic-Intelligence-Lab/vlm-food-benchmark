@@ -1,0 +1,36 @@
+{
+  "food_items": [
+    {
+      "name": "chicken nuggets",
+      "portion_estimate": "20",
+      "confidence": "90"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "40",
+      "confidence": "90"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "5",
+      "confidence": "90"
+    }
+  ],
+  "beverage": [
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "90"
+    }
+  ]
+}

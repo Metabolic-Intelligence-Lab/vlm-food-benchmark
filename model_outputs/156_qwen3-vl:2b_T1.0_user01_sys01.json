@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "20 g",
+      "confidence": 95
+    },
+    {
+      "name": "Pesto pasta",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "Frittata with Brussels sprouts",
+      "portion_estimate": "70 g",
+      "confidence": 95
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    }
+  ]
+}

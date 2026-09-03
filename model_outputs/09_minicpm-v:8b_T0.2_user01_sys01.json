@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain, approx. slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "Green tea bag",
+      "portion_estimate": "uncertain, small packet",
+      "confidence": "40"
+    },
+    {
+      "name": "Potato wedges with herbs and spices",
+      "portion_estimate": "approx. 125g",
+      "confidence": "80"
+    },
+    {
+      "name": "Grilled chicken breast with vegetables (tomatoes, spinach)",
+      "portion_estimate": "uncertain, approx. half a plate",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried eggplant or tofu with sauce and herbs",
+      "portion_estimate": "approx. 150g",
+      "confidence": "70"
+    }
+  ]
+}

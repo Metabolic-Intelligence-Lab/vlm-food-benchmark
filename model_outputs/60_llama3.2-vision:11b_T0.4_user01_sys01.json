@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and vegetables",
+      "portion_estimate": "200-250g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50-60g",
+      "confidence": "70"
+    },
+    {
+      "name": "Meatballs with melted cheese",
+      "portion_estimate": "3-4 per serving, 50-60g each",
+      "confidence": "60"
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "150-200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100-150g",
+      "confidence": "90"
+    }
+  ]
+}

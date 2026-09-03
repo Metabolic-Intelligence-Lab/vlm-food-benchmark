@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "croissant",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "apple slice",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

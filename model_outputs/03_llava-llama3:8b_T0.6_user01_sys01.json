@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "herb-infused pasta dish",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "steak or cutlet",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "vegetables (leafy greens and carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "cup of water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "condiments",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

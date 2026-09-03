@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Sausage Roll in plastic wrapper",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "Soup with croutons",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "Fried Omelette or Scrambled Eggs",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Steamed Broccoli and Carrots",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "Plum or Nectarine (one)",
+      "portion_estimate": "140",
+      "confidence": 75
+    }
+  ]
+}

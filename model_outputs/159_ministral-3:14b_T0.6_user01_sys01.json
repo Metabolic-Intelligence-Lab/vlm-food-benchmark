@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat or spinach ricotta stuffed shells with cheese topping",
+      "portion_estimate": "350",
+      "confidence": 85
+    },
+    {
+      "name": "roasted or baked potato dish with herbs and cheese",
+      "portion_estimate": "250",
+      "confidence": 80
+    },
+    {
+      "name": "roasted potato wedges or chips",
+      "portion_estimate": "80",
+      "confidence": 75
+    },
+    {
+      "name": "lemon (whole, partially peeled)",
+      "portion_estimate": "150",
+      "confidence": 90
+    }
+  ]
+}

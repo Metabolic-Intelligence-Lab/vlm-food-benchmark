@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Two green muffins with orange slices",
+      "portion_estimate": "uncertain, approximately a standard-sized muffin each",
+      "confidence": "50"
+    },
+    {
+      "name": "Canned vegetables (green beans)",
+      "portion_estimate": "approximately 1 cup or around 80-90 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain, approximately a handful each",
+      "confidence": "50"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "approximately 1 medium apple or around 170 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Pumpkin seeds on pasta",
+      "portion_estimate": "uncertain, approximately a handful each",
+      "confidence": "50"
+    }
+  ]
+}

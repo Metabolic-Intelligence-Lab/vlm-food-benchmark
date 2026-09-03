@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "boiled white beans",
+      "portion_estimate": "100-150",
+      "confidence": 95
+    },
+    {
+      "name": "grilled fillet of some fish or white meat (likely cod/mackerel/salmon)",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "potato or scalloped vegetables (salted shreds)",
+      "portion_estimate": "100-120",
+      "confidence": 85
+    },
+    {
+      "name": "plain crusty bread",
+      "portion_estimate": "50-70",
+      "confidence": 70
+    },
+    {
+      "name": "purple plums (as part of a small dessert/serving of fruit)",
+      "portion_estimate": "30",
+      "confidence": 80
+    }
+  ]
+}

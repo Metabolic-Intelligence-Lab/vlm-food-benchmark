@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce (pasta al pomodoro)",
+      "portion_estimate": "200g",
+      "confidence": "75"
+    },
+    {
+      "name": "sautéed spinach or cooked leafy greens",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed green and red radicchio salad",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll (panino)",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit yogurt or fruit compote in small cup",
+      "portion_estimate": "100g",
+      "confidence": "50"
+    },
+    {
+      "name": "water in plastic cup",
+      "portion_estimate": "200g",
+      "confidence": "55"
+    }
+  ]
+}

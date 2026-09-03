@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "uncertain, approx. weight between 100-250g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread (unspecified variety)",
+      "portion_estimate": "uncertain, approx. weight between 70-120g",
+      "confidence": "30"
+    },
+    {
+      "name": "Shrimp with cheese",
+      "portion_estimate": "uncertain, approx. weight between 50-80g",
+      "confidence": "40"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain, approx. weight between 120-150g",
+      "confidence": "70"
+    }
+  ]
+}

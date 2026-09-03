@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli and potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mashed potato on toast",
+      "portion_estimate": "approx. 168g (with butter)",
+      "confidence": "70"
+    },
+    {
+      "name": "Apple tart with fruit compote",
+      "portion_estimate": "approx. 243g",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Scrambled eggs with hash browns/potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Chicken breast with steamed vegetables (carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Roll with butter",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Dessert/additional food item",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

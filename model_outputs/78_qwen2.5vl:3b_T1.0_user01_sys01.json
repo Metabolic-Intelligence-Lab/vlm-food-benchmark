@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "cereal",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "chicken",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "cereal",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

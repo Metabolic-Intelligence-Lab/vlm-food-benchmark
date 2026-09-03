@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed or saut\u00e9ed broccoli florets with potatoes",
+      "portion_estimate": "200 grams",
+      "confidence": 75
+    },
+    {
+      "name": "hard-boiled egg (peeled)",
+      "portion_estimate": "60 grams",
+      "confidence": 90
+    },
+    {
+      "name": "creamy soup with herbs/spices (likely potato or vegetable-based)",
+      "portion_estimate": "250 grams",
+      "confidence": 70
+    },
+    {
+      "name": "potato-based flatbread or grilled potato patty",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "sliced lemon (or lemon wedge)",
+      "portion_estimate": "30 grams",
+      "confidence": 85
+    }
+  ]
+}

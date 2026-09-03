@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "brown rice",
+      "portion_estimate": "120 grams",
+      "confidence": 95
+    },
+    {
+      "name": "kibbeh (or similar ground meat/beans)",
+      "portion_estimate": "80 grams",
+      "confidence": 70
+    },
+    {
+      "name": "dark green leafy vegetables (e.g., spinach)",
+      "portion_estimate": "30 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small pieces of what looks like zucchini or yellow squash",
+      "portion_estimate": "20 grams",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "dark sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "light brown substance",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "coleslaw",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "chips",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

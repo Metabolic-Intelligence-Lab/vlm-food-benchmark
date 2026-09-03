@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Crumb topping / Streusel",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Pale yellow puree (e.g., custard or sweet potato mash)",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "Pinkish baked item / Savory spread (e.g., p\u00e2t\u00e9 or cake slice)",
+      "portion_estimate": "70g",
+      "confidence": "75"
+    },
+    {
+      "name": "Pastry or bread item (possibly a croissant)",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    }
+  ]
+}

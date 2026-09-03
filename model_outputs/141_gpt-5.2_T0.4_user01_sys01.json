@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked broccoli",
+      "portion_estimate": "120 g",
+      "confidence": "80"
+    },
+    {
+      "name": "white fish fillet with herb sauce (likely cod or similar)",
+      "portion_estimate": "130 g",
+      "confidence": "60"
+    },
+    {
+      "name": "cooked chickpeas",
+      "portion_estimate": "170 g",
+      "confidence": "90"
+    },
+    {
+      "name": "slice of whole grain bread",
+      "portion_estimate": "40 g",
+      "confidence": "80"
+    },
+    {
+      "name": "soft cheese wedge/portion (wrapped, likely processed cheese)",
+      "portion_estimate": "20 g",
+      "confidence": "65"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "vegetables (carrots and greens)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "meat",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "rice or potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bowl (additional food items or main course)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

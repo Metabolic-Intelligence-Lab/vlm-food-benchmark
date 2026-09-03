@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "slice of bread with black pepper",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pasta with light orange sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "cream cheese frosting",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

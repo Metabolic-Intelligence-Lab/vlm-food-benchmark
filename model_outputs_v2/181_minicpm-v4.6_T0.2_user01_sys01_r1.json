@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked spaghetti",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "whole apple",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "slice of dessert with chopped ingredients",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "shredded side dish (e.g., salad)",
+      "portion_estimate": "100g",
+      "confidence": 90
+    }
+  ]
+}

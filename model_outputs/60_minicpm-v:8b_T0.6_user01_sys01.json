@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": "uncertain, approximately a portion size typical for penne pasta meal",
+      "confidence": "60"
+    },
+    {
+      "name": "Roasted potatoes and gnocchi",
+      "portion_estimate": "uncertain, approximately the size of two small servings typically found on restaurant plates",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt with red label",
+      "portion_estimate": "uncertain, a standard single-serving cup",
+      "confidence": "60"
+    }
+  ]
+}

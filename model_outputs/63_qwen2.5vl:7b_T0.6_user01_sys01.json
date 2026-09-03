@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "salad with carrots and cabbage",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "roasted vegetable slice",
+      "portion_estimate": "50 grams",
+      "confidence": 60
+    },
+    {
+      "name": "baguette",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    }
+  ]
+}

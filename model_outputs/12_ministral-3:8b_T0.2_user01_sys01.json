@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried egg (sunny-side-up)",
+      "portion_estimate": "60g",
+      "confidence": 85
+    },
+    {
+      "name": "potato fries (thick-cut)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or saut\u00e9ed greens (e.g., bok choy or spinach)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "small whole wheat or sesame bun (or similar)",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "condiment packet (likely soy sauce or similar)",
+      "portion_estimate": "uncertain (not consumed directly)",
+      "confidence": 50
+    },
+    {
+      "name": "small container of yogurt or milk (partially visible)",
+      "portion_estimate": "uncertain (likely ~150ml)",
+      "confidence": 60
+    }
+  ]
+}

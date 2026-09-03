@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain, approx. slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "Penne Pasta with Tomato Sauce",
+      "portion_estimate": "approx. half a plate",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked Eggplant with Cheese and Green Pesto",
+      "portion_estimate": "approx. 1/3 of the plate",
+      "confidence": "75"
+    },
+    {
+      "name": "Potato Wedges or Fries",
+      "portion_estimate": "approx. half a plate",
+      "confidence": "60"
+    }
+  ]
+}

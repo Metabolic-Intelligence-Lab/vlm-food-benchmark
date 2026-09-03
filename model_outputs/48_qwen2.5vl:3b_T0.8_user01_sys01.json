@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Rice Cake",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Baked Penne Pasta",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Ricotta Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Fried Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

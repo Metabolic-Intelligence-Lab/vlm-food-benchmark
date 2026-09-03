@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green pea soup",
+      "portion_estimate": 350,
+      "confidence": 80
+    },
+    {
+      "name": "grated cheese (likely Parmesan or similar)",
+      "portion_estimate": 15,
+      "confidence": 70
+    },
+    {
+      "name": "waffle sandwich",
+      "portion_estimate": 250,
+      "confidence": 80
+    },
+    {
+      "name": "cucumber",
+      "portion_estimate": 140,
+      "confidence": 80
+    },
+    {
+      "name": "kimo yogurt",
+      "portion_estimate": 220,
+      "confidence": 85
+    }
+  ]
+}

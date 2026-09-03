@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "150",
+      "confidence": "100"
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "100",
+      "confidence": "100"
+    },
+    {
+      "name": "pizza slice",
+      "portion_estimate": "150",
+      "confidence": "100"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100",
+      "confidence": "100"
+    },
+    {
+      "name": "oranges",
+      "portion_estimate": "200",
+      "confidence": "100"
+    }
+  ]
+}

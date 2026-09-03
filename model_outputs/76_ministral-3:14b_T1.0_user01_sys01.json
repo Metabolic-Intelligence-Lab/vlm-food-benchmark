@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "conchiglioni (small pasta shells) with tomato and herb sauce",
+      "portion_estimate": 280,
+      "confidence": 85
+    },
+    {
+      "name": "feta and herb rice pilaf with roasted red peppers",
+      "portion_estimate": 180,
+      "confidence": 80
+    },
+    {
+      "name": "grilled sandwich roll (possibly ciabatta or baguette)",
+      "portion_estimate": 80,
+      "confidence": 75
+    },
+    {
+      "name": "saut\u00e9ed scallop in garlic butter sauce with greens (e.g., broccolini)",
+      "portion_estimate": 110,
+      "confidence": 90
+    },
+    {
+      "name": "whole fresh plum (variety unclear)",
+      "portion_estimate": 85,
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Soup (possibly lentil or vegetable)",
+      "portion_estimate": "125g",
+      "confidence": "90"
+    },
+    {
+      "name": "Yogurt with red topping",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Salad greens in a bowl",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Fried potato cakes with red onion topping",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

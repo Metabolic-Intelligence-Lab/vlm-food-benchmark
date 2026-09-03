@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup or dal with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread rolls or buns",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "creamy sauce or dipping",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "chutney or relish",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

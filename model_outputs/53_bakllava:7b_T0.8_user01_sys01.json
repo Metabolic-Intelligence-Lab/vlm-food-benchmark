@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with white sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green beans and wrapped sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "chicken and rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "potato chips and water",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fried chicken with breading",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with red sauce and cheese",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Green salad with mixed greens",
+      "portion_estimate": "100 grams",
+      "confidence": "60"
+    }
+  ]
+}

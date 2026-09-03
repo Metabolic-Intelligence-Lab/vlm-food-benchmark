@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "mushroom slice",
+      "portion_estimate": "20g",
+      "confidence": "95"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "40g",
+      "confidence": "95"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "30g",
+      "confidence": "80"
+    },
+    {
+      "name": "orange pasta",
+      "portion_estimate": "60g",
+      "confidence": "95"
+    }
+  ]
+}

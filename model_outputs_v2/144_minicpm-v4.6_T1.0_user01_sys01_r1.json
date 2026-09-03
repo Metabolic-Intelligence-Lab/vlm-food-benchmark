@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "bean mixture with additional component",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "clearkit packet (likely a spread)",
+      "portion_estimate": "25g",
+      "confidence": 70
+    }
+  ]
+}

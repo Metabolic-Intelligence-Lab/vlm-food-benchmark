@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried vegetables covered in breadcrumbs",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "orange sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water with ice",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

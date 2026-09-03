@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta with tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "green beans with breadcrumbs",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "breaded balls (possibly arancini or similar)",
+      "portion_estimate": "120 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "wrapped breadstick",
+      "portion_estimate": "20 grams",
+      "confidence": "85"
+    }
+  ]
+}

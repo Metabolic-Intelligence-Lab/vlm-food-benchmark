@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "roasted potatoes and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "leafy greens (spinach or kale)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sliced mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

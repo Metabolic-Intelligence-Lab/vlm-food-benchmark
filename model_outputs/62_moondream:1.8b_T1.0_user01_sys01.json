@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "breaded chicken with ketchup or barbecue sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meatloaf with carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pizza with green peppers and onions",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread with yellow napkin",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

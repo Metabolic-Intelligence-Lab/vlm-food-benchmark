@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Lasagna or Ravioli",
+      "portion_size": "1/2 to 3/4 cup",
+      "confidence": "90-100"
+    },
+    {
+      "name": "Tomatoes and Meat (Beef or Pork)",
+      "portion_size": "1/4 to 1/2 cup",
+      "confidence": "80-90"
+    },
+    {
+      "name": "Beef or Pork",
+      "portion_size": "1/4 to 1/2 cup",
+      "confidence": "60-80"
+    },
+    {
+      "name": "White",
+      "portion_size": "N/A",
+      "confidence": "0"
+    }
+  ]
+}

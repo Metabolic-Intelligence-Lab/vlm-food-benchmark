@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi in tomato sauce",
+      "portion_estimate": 350,
+      "confidence": 85
+    },
+    {
+      "name": "mixed green salad with cherry tomatoes, cucumbers, lettuce, and croutons",
+      "portion_estimate": 200,
+      "confidence": 80
+    },
+    {
+      "name": "whole banana",
+      "portion_estimate": 120,
+      "confidence": 90
+    },
+    {
+      "name": "uncertain white bread roll (partially visible, wrapped)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

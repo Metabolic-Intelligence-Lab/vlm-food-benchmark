@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (shell-shaped, likely fusilli or rigatoni) with mixed vegetable pieces",
+      "portion_estimate": "uncertain (likely ~300-400g including sauce and vegetables)",
+      "confidence": 75
+    },
+    {
+      "name": "vegetable pieces (likely diced carrots, green beans, or peppers)",
+      "portion_estimate": "uncertain (~100-150g)",
+      "confidence": 70
+    },
+    {
+      "name": "sauce (possibly tomato-based with herbs or spices)",
+      "portion_estimate": "uncertain (~150-200g)",
+      "confidence": 65
+    }
+  ]
+}

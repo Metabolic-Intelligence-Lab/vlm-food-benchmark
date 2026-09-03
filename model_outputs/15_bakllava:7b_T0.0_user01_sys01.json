@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "yellow food, possibly rice or a sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bowl of vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "tray with two trays on it",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "chili con carne",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "melted cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

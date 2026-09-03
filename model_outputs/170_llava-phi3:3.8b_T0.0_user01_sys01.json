@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Piece of cheese",
+      "portion_estimate": "20g",
+      "confidence": "95"
+    },
+    {
+      "name": "Piece of bread",
+      "portion_estimate": "30g",
+      "confidence": "85"
+    },
+    {
+      "name": "Piece of meat",
+      "portion_estimate": "40g",
+      "confidence": "75"
+    }
+  ]
+}

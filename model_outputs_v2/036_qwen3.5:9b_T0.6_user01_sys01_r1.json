@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Crispy fried pasta salad (twisted noodles in a reddish sauce)",
+      "portion_estimate": 250,
+      "confidence": 90
+    },
+    {
+      "name": "Red cabbage and cucumber salad with dressing",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Glazed dark brown meatball (possibly pork or beef) in sauce",
+      "portion_estimate": 60,
+      "confidence": 92
+    },
+    {
+      "name": "Round bread roll (inside plastic wrapper)",
+      "portion_estimate": 85,
+      "confidence": 95
+    },
+    {
+      "name": "Two fried vegetable patties or fritters with breadcrumb coating",
+      "portion_estimate": 140,
+      "confidence": 85
+    }
+  ]
+}

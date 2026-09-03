@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "beef (thinly sliced, glazed with sauce)",
+      "portion_estimate": "120g (uncertain)",
+      "confidence": 75
+    },
+    {
+      "name": "mashed potatoes (with possible butter or cream)",
+      "portion_estimate": "150g (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "sauce (likely gravy or barbecue sauce)",
+      "portion_estimate": "30g (uncertain)",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "flour tortilla",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "melted cheese",
+      "portion_estimate": "60g",
+      "confidence": 90
+    },
+    {
+      "name": "red sauce",
+      "portion_estimate": "30g",
+      "confidence": 90
+    }
+  ]
+}

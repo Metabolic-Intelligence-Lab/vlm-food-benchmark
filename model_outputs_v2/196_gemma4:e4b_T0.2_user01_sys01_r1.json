@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup in a bowl",
+      "portion_estimate": "320g",
+      "confidence": "90"
+    },
+    {
+      "name": "Toasted bread slices with topping",
+      "portion_estimate": "110g",
+      "confidence": "85"
+    },
+    {
+      "name": "Roasted chickpeas",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "Whole orange",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "Water in a glass",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "patties (likely chickpea or lentil-based)",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "pasta (bowtie-shaped, uncooked)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "grated cheese or breadcrumbs (on pasta)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "blueberries",
+      "portion_estimate": "75g",
+      "confidence": 75
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

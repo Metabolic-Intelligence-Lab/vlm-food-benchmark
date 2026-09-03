@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "herb-crusted meatballs",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "milky coffee beverage",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "40g",
+      "confidence": 80
+    }
+  ]
+}

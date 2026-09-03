@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with mushrooms and cheese",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "zucchini and potato mix",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "vegetable frittata slice",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150",
+      "confidence": "90"
+    }
+  ]
+}

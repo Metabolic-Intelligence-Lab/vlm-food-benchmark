@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "170 g",
+      "confidence": "80"
+    },
+    {
+      "name": "baked stuffed eggplant (aubergine) with melted cheese and vegetables",
+      "portion_estimate": "140 g",
+      "confidence": "65"
+    },
+    {
+      "name": "mixed vegetable couscous/semolina with greens and chickpeas",
+      "portion_estimate": "190 g",
+      "confidence": "60"
+    },
+    {
+      "name": "packaged plain bread roll",
+      "portion_estimate": "65 g",
+      "confidence": "75"
+    },
+    {
+      "name": "packaged yogurt (strawberry/cherry flavor)",
+      "portion_estimate": "125 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "55"
+    }
+  ]
+}

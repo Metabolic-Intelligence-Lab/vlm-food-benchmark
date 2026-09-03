@@ -1,0 +1,40 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Chicken with Tomato Sauce",
+      "portion_estimate": "120 g",
+      "confidence": 80,
+      "reasoning": "A single piece of grilled chicken (e.g., a breast or thigh portion) is typical for a meal. The description specifies \"a piece,\" which is usually around 120 g for a standard serving (e.g., 4\u20136 oz). Confidence is moderate because the chicken is described as \"grilled\" and \"with tomato sauce,\" but the exact size isn't specified, so it's an estimate based on common meal portions."
+    },
+    {
+      "name": "Spinach (in a Small Bowl)",
+      "portion_estimate": "50 g",
+      "confidence": 90,
+      "reasoning": "Spinach is a leafy green, and a \"small bowl\" suggests a modest serving. A typical portion of cooked spinach is 50\u201375 g for a side dish, so 50 g is a reasonable estimate. Confidence is high because spinach is easily identifiable by its color and texture, and the description explicitly mentions it as a \"small bowl\"."
+    },
+    {
+      "name": "Penne Pasta with Tomato Sauce and Parmesan",
+      "portion_estimate": "100 g",
+      "confidence": 85,
+      "reasoning": "A standard serving of penne pasta (e.g., 1 cup cooked) is about 100 g. The description includes \"tomato sauce and parmesan,\" which is common for pasta dishes, but the exact weight depends on the pasta's density."
+    },
+    {
+      "name": "Yogurt (in a Container)",
+      "portion_estimate": "100 g",
+      "confidence": 80,
+      "reasoning": "A \"container\" of yogurt is likely a standard 100 g (3.5 oz) tub, which is common for single-serve or small family portions. Confidence is moderate (80%) because yogurt containers can vary, but the description doesn't specify the container size."
+    },
+    {
+      "name": "Wrapped Pastry",
+      "portion_estimate": "30 g",
+      "confidence": 70,
+      "reasoning": "Small snack; size inferred from common types.  The exact type of pastry is not specified, so the portion size is an estimate."
+    },
+    {
+      "name": "Glass of Water",
+      "portion_estimate": "200 g",
+      "confidence": 90,
+      "reasoning": "Unambiguous; standard glass volume.  Since water has a density of 1 g/ml, a standard glass volume of 200 ml equates to 200 g."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bread slice (wrapped)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "broiled or grilled fish fillet (likely cod or similar)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "diced potatoes (likely boiled or roasted)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or saut\u00e9ed broccoli",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "melted butter or margarine in container",
+      "portion_estimate": "uncertain (container size not clearly visible)",
+      "confidence": 50
+    }
+  ]
+}

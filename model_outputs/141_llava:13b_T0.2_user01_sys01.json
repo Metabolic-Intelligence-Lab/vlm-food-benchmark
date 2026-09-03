@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli and vegetables/grains",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fish with rice or pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "packet of sauce or seasoning",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "condiment or sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

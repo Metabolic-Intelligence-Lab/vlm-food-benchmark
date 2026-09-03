@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed pasta (penne or similar) with mushrooms and grated parmesan cheese",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed mixed vegetables (zucchini/leek blend or coleslaw-style)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baguette-style bread",
+      "portion_estimate": "80 grams",
+      "confidence": 75
+    },
+    {
+      "name": "whole apple",
+      "portion_estimate": "180 grams",
+      "confidence": 90
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "uncertain (partial view; no direct size reference)",
+      "confidence": 50
+    }
+  ]
+}

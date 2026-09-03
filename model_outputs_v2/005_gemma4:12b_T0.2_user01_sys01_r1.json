@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy soup with topping",
+      "portion_estimate": "350g",
+      "confidence": 95
+    },
+    {
+      "name": "Fried chicken nuggets",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Fried croutons or cubed pieces",
+      "portion_estimate": "70g",
+      "confidence": 85
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60g",
+      "confidence": 90
+    },
+    {
+      "name": "Small sauce packet",
+      "portion_estimate": "20g",
+      "confidence": 85
+    }
+  ]
+}

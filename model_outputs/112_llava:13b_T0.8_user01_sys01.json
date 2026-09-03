@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with white sauce (rigatoni or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sandwich (burger or submarine)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "slice of melon (cantaloupe or honeydew)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green olives",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

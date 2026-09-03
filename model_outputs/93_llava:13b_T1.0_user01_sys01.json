@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked fish (possibly salmon) with herbs and lemon",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "beans or legumes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "penne-style pasta with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bulgur wheat or other whole grain with roasted garlic",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "roll wrapped in paper",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "butter in a small bowl",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "jar containing a condiment or sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

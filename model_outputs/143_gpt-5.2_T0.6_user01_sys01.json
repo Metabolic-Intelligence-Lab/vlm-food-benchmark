@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "plain yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked broccoli (possibly with seasoning/sauce)",
+      "portion_estimate": "180 g",
+      "confidence": "72"
+    },
+    {
+      "name": "sliced bread/roll (in plastic bag)",
+      "portion_estimate": "70 g",
+      "confidence": "65"
+    },
+    {
+      "name": "cooked white fish fillet (steamed/poached, in pieces)",
+      "portion_estimate": "150 g",
+      "confidence": "68"
+    },
+    {
+      "name": "diced cooked potatoes with herbs",
+      "portion_estimate": "170 g",
+      "confidence": "75"
+    }
+  ]
+}

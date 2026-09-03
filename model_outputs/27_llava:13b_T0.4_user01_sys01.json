@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce and grated cheese",
+      "portion_estimate": "approximately 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "meatballs on a plate",
+      "portion_estimate": "approximately 100g",
+      "confidence": "70"
+    },
+    {
+      "name": "side of greens in a bowl",
+      "portion_estimate": "approximately 50-70g",
+      "confidence": "80"
+    }
+  ]
+}

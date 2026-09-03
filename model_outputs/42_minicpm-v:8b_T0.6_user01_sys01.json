@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Brussel sprouts",
+      "portion_estimate": "uncertain, approx. 100g",
+      "confidence": "40"
+    },
+    {
+      "name": "Purple sweet potato cake or muffin",
+      "portion_estimate": "uncertain, approx. 50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. 75-100g",
+      "confidence": "40"
+    },
+    {
+      "name": "Apricots (3)",
+      "portion_estimate": "uncertain, approx. each ~20g total",
+      "confidence": "60"
+    }
+  ]
+}

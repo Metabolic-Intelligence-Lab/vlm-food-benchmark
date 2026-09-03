@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "meatballs (beef or pork)",
+      "portion_estimate": "75",
+      "confidence": "70"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt cup (strawberry)",
+      "portion_estimate": "125",
+      "confidence": "80"
+    }
+  ]
+}

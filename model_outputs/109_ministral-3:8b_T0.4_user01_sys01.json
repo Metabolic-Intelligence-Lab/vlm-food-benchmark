@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans (steamed)",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "hard-boiled egg",
+      "portion_estimate": "70 grams (whole egg)",
+      "confidence": 80
+    },
+    {
+      "name": "rice with herbs/spices (likely mixed with cheese or similar)",
+      "portion_estimate": "150 grams (cooked)",
+      "confidence": 75
+    },
+    {
+      "name": "diced cheese (yellow, likely cheddar or similar)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole green apple",
+      "portion_estimate": "180 grams",
+      "confidence": 85
+    }
+  ]
+}

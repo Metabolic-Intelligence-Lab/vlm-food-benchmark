@@ -1,0 +1,41 @@
+{
+  "food_items": [
+    {
+      "name": "A bowl of mixed vegetables",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "A roll of bread in a plastic bag",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "A plate of pasta",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Garlic bread on a white plate",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "A small bowl of salad with dressing in the center",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ],
+  "other_objects": [
+    {
+      "name": "A glass of water on the tray",
+      "portion_estimate": "200ml",
+      "confidence": "90"
+    },
+    {
+      "name": "The logo for TGI Friday's",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

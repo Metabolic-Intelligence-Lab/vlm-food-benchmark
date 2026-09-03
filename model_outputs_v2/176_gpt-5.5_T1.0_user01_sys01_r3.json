@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup or stew with grated cheese",
+      "portion_estimate": "300 g",
+      "confidence": "78"
+    },
+    {
+      "name": "vegetable patty topped with tomato slice and cheese",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "35 g",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked cauliflower salad with a few olives",
+      "portion_estimate": "170 g",
+      "confidence": "62"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "160 g",
+      "confidence": "82"
+    },
+    {
+      "name": "packaged cheese stick",
+      "portion_estimate": "25 g",
+      "confidence": "75"
+    }
+  ]
+}

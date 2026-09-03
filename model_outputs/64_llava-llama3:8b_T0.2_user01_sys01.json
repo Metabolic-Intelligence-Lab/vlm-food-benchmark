@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "hash browns",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "toast",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bacon",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "spaghetti noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "cherry tomato",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "milk",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

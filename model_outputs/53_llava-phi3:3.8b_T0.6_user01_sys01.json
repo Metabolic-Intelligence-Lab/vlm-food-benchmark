@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Garlic bread in a bag",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "125g",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded chicken cutlet",
+      "portion_estimate": "130g",
+      "confidence": "60"
+    },
+    {
+      "name": "Water glass",
+      "portion_estimate": "250ml",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Farfalle pasta",
+      "portion_estimate": "120 g",
+      "confidence": 95
+    },
+    {
+      "name": "Quiche",
+      "portion_estimate": "120 g",
+      "confidence": 95
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "120 g",
+      "confidence": 95
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "125 g",
+      "confidence": 95
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250 g",
+      "confidence": 100
+    }
+  ]
+}

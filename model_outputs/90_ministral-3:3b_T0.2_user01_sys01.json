@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked white rice with lemon juice",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "steamed carrots with onions",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "saut\u00e9ed vegetables with meat (likely chicken or seafood)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "whole lemon",
+      "portion_estimate": "150",
+      "confidence": 90
+    }
+  ]
+}

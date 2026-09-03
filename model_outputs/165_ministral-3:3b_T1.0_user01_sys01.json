@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "beef or meat stew in a bowl",
+      "portion_estimate": 300,
+      "confidence": 85
+    },
+    {
+      "name": "crispy bread or bun",
+      "portion_estimate": 50,
+      "confidence": 75
+    },
+    {
+      "name": "fried food with green veggies (potato or similar)",
+      "portion_estimate": 80,
+      "confidence": 80
+    },
+    {
+      "name": "scrambled eggs or egg-based dish",
+      "portion_estimate": 50,
+      "confidence": 70
+    },
+    {
+      "name": "plain yogurt or similar dairy (sliced in portion)",
+      "portion_estimate": 30,
+      "confidence": 65
+    },
+    {
+      "name": "sliced carrots or cucumbers",
+      "portion_estimate": 25,
+      "confidence": 70
+    },
+    {
+      "name": "small container of yogurt/soft drink (uncertain content type)",
+      "portion_estimate": 150,
+      "confidence": 60
+    },
+    {
+      "name": "green bottled water or beverage",
+      "portion_estimate": 150,
+      "confidence": 80
+    }
+  ]
+}

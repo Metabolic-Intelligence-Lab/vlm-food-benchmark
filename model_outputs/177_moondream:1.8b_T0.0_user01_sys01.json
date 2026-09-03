@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta and broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "noodles or rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

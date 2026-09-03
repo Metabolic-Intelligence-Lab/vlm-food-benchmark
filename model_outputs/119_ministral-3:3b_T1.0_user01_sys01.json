@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sweet potato or carrot gratin with grated cheese",
+      "portion_estimate": "250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "lentil soup (lightly spiced with vegetables)",
+      "portion_estimate": "300 grams",
+      "confidence": 95
+    },
+    {
+      "name": "potato-based yam or sweet potato baked bun (baguette or bunlet)",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "tomato-based yogurt smoothie/drink container",
+      "portion_estimate": "180 grams",
+      "confidence": 90
+    },
+    {
+      "name": "water (glass), ~150 milliliters",
+      "portion_estimate": "150",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pork chop (breaded, cooked)",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "steamed or saut\u00e9ed spinach (dark green leafy veg)",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "ditalini pasta in red tomato sauce",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "orange (whole, fruit)",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "water (drinking glass)",
+      "portion_estimate": "250",
+      "confidence": 85
+    }
+  ]
+}

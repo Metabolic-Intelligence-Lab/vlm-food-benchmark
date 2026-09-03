@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken patty",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "green leafy vegetables, likely spinach or kale",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "125g-175g (estimated based on typical serving size)",
+      "confidence": "90"
+    }
+  ]
+}

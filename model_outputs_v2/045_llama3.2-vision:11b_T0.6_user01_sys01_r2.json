@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mashed Sweet Potatoes",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Grilled Chicken Breast",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Steamed Green Beans",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "Baked Carrot",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

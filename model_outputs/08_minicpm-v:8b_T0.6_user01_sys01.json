@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grated cheese on a bowl of soup",
+      "portion_estimate": "uncertain, approx. small bowl",
+      "confidence": "50"
+    },
+    {
+      "name": "Bowl with chicken salad and vegetables",
+      "portion_estimate": "small white plate",
+      "confidence": "60"
+    },
+    {
+      "name": "Packaged muffin or bread roll",
+      "portion_estimate": "uncertain, approx. small package",
+      "confidence": "50"
+    },
+    {
+      "name": "Canned beverage (possibly juice)",
+      "portion_estimate": "uncertain, full cup size",
+      "confidence": "40"
+    },
+    {
+      "name": "Two pieces of broccoli or a similar green vegetable patty",
+      "portion_estimate": "uncertain, approx. small plate sized portion",
+      "confidence": "60"
+    }
+  ]
+}

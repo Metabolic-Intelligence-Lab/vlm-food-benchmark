@@ -1,0 +1,26 @@
+{
+  "food_items": [
+    {
+      "name": "Goldfish cracker sandwich",
+      "portion_estimate": "2 inches of bread and some fish crackers",
+      "confidence": "90"
+    },
+    {
+      "name": "Salad with chicken",
+      "portion_estimate": "1/4 cup salad greens and diced vegetables, 3 oz. cooked chicken breast",
+      "confidence": "85"
+    },
+    {
+      "name": "Kale chips",
+      "portion_estimate": "2 tablespoons of kale with some seasonings",
+      "confidence": "70"
+    }
+  ],
+  "miscellaneous": [
+    {
+      "name": "Water bottle and straw wrapper",
+      "description": "Empty water bottle from a grocery store, top lid missing; used plastic wrap for packing food (the white paper with writing)",
+      "confidence": "95"
+    }
+  ]
+}

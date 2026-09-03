@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Wheat Tortilla",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "Potato Chips",
+      "portion_estimate": "30",
+      "confidence": 80
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "300",
+      "confidence": 70
+    }
+  ]
+}

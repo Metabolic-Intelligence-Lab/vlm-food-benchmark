@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and vegetables",
+      "portion_estimate": 350,
+      "confidence": 90
+    },
+    {
+      "name": "Baked spinach or similar leafy green dish",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "Side salad with cucumber and cabbage",
+      "portion_estimate": 100,
+      "confidence": 90
+    },
+    {
+      "name": "Water",
+      "portion_estimate": 250,
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt or drink (partially visible)",
+      "portion_estimate": 150,
+      "confidence": 80
+    }
+  ]
+}

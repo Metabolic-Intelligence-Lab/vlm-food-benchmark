@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "brown soup",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "toast with butter",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "milk",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

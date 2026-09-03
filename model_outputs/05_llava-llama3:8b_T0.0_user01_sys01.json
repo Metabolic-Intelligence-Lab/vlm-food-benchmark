@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup with crumbled cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "chicken nuggets",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "roasted potatoes and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "ketchup (red packet)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

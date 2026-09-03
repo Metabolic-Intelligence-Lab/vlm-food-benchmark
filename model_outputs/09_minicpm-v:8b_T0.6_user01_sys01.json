@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Mixed vegetables (potatoes, carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Grilled chicken with herbs and red peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Green salad dressing packet",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

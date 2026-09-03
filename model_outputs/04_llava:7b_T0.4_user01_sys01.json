@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "1 medium banana",
+      "confidence": "80"
+    },
+    {
+      "name": "Rolled up bread (possibly a wrap)",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    }
+  ]
+}

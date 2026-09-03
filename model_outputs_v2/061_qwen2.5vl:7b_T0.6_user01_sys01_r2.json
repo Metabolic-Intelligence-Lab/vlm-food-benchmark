@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot Soup",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Omelette with onions",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Roasted Potatoes",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "Small Yogurt Cup",
+      "portion_estimate": "40",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": "75"
+    }
+  ]
+}

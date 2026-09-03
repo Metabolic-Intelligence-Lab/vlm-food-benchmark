@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta, golden brown, with red peppers and basil",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "meatballs, breadcrumb coated",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "mashed potatoes, creamy white",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "ketchup packet, red",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

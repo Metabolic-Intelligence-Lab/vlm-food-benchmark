@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pesto pasta with cheese topping",
+      "portion_estimate": "300",
+      "confidence": "95"
+    },
+    {
+      "name": "Steamed cauliflower florets",
+      "portion_estimate": "500",
+      "confidence": "95"
+    },
+    {
+      "name": "Roasted or saut\u00e9ed squash/carrot mix",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "Loaf of bread",
+      "portion_estimate": "500",
+      "confidence": "95"
+    },
+    {
+      "name": "Olives (scattered)",
+      "portion_estimate": "60",
+      "confidence": "90"
+    }
+  ]
+}

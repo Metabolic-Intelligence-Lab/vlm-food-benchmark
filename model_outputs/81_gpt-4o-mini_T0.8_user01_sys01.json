@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked spinach",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "breaded meatballs",
+      "portion_estimate": "80",
+      "confidence": "70"
+    },
+    {
+      "name": "rolls (2)",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "coffee cream or sauce packet",
+      "portion_estimate": "10",
+      "confidence": "60"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "240",
+      "confidence": "90"
+    }
+  ]
+}

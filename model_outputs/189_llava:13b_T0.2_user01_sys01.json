@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "dal (lentil-based curry)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "meat dish (chicken or goat with red sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "vegetable dish (mixed vegetables in curry sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Indian pickle or chutney",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

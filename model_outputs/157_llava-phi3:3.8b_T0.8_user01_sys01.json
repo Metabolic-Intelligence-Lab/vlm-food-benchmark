@@ -1,0 +1,38 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta with Cheese",
+      "portion_estimate": "100g",
+      "confidence": "65"
+    },
+    {
+      "name": "Baked Beans on Toast",
+      "portion_estimate": "70g",
+      "confidence": "80"
+    },
+    {
+      "name": "Three Fried Balls of Food",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ],
+  "tray": [
+    {
+      "plate1": {
+        "food": "Penne Pasta with Cheese",
+        "quantity": 1,
+        "color": "yellowish"
+      },
+      "plate2": {
+        "food": "Baked Beans on Toast",
+        "quantity": 1,
+        "color": "brown"
+      },
+      "plate3": {
+        "food": "Three Fried Balls of Food",
+        "quantity": 3,
+        "color": "golden brown"
+      }
+    }
+  ]
+}

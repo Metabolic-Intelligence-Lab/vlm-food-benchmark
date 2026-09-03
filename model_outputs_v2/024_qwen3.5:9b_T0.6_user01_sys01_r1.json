@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta salad with pesto and parmesan",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Steamed carrots",
+      "portion_estimate": 130,
+      "confidence": 95
+    },
+    {
+      "name": "Meatballs with orange slice",
+      "portion_estimate": 120,
+      "confidence": 85
+    },
+    {
+      "name": "Red apple",
+      "portion_estimate": 160,
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt pot (Omoa brand)",
+      "portion_estimate": 130,
+      "confidence": 80
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": 50,
+      "confidence": 90
+    }
+  ]
+}

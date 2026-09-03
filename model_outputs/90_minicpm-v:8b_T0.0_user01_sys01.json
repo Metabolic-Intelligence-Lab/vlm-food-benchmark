@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white rice with butter",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed vegetables (carrots, pineapple chunks)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "stir-fried mixed vegetables with rice",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

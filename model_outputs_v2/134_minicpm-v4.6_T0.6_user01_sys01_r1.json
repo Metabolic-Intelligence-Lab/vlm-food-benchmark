@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice",
+      "portion_estimate": "approximately 300 grams",
+      "confidence": 95
+    },
+    {
+      "name": "shredded protein (e.g., fish or meat)",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": 85
+    }
+  ]
+}

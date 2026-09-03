@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Seasoned mixed grain or bread crumble dish (on top plate)",
+      "portion_estimate": "220 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "Thick toasted bread slice (e.g., French toast style)",
+      "portion_estimate": "130 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Legume bake or baked beans",
+      "portion_estimate": "130 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "Bread roll or small bun",
+      "portion_estimate": "120 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "Tropical fruit slice (e.g., mango or banana)",
+      "portion_estimate": "60 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Grapes (red/purple)",
+      "portion_estimate": "90 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "Plums or small red apples",
+      "portion_estimate": "90 grams",
+      "confidence": "90"
+    }
+  ]
+}

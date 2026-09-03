@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "fettuccine alfredo",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "mashed potatoes with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "round dessert (cake, custard, or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread or rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

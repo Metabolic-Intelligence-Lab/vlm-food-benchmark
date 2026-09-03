@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "lasagna",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "meat sauce",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried croquettes (arancini) with breadcrumb coating",
+      "portion_estimate": "650",
+      "confidence": 85
+    },
+    {
+      "name": "boiled chickpeas in tomato-based sauce",
+      "portion_estimate": "500",
+      "confidence": 80
+    },
+    {
+      "name": "baked bread roll (wrapped in plastic)",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "canned tomato-based sauce (Tomado brand)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "iced water (in glass)",
+      "portion_estimate": "250",
+      "confidence": 80
+    }
+  ]
+}

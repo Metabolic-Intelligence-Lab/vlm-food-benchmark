@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Pesto Sauce and Grated Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Green Beans with Fried Egg and Herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Roll or Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Glass of Water",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta",
+      "portion_estimate": "100",
+      "confidence": 100
+    },
+    {
+      "name": "White beans",
+      "portion_estimate": "80",
+      "confidence": 100
+    },
+    {
+      "name": "Potato cake",
+      "portion_estimate": "50",
+      "confidence": 100
+    },
+    {
+      "name": "Bread slice",
+      "portion_estimate": "35",
+      "confidence": 100
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": "150",
+      "confidence": 100
+    }
+  ]
+}

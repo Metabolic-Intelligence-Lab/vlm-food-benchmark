@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad with shredded carrots, cucumber, and greens",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "baked potato with butter and gravy",
+      "portion_estimate": "180 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat roll",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "steamed greens (likely spinach or collard greens)",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "150 grams (3 medium plums)",
+      "confidence": 80
+    }
+  ]
+}

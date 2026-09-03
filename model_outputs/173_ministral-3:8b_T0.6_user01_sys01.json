@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans (steamed or saut\u00e9ed)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "two fried or baked egg halves",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat bread (or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": "200 grams (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "navel orange",
+      "portion_estimate": "uncertain (average ~130-180g)",
+      "confidence": 60
+    }
+  ]
+}

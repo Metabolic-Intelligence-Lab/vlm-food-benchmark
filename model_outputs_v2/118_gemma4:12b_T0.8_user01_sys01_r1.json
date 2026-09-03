@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and cheese",
+      "portion_estimate": "220g",
+      "confidence": 95
+    },
+    {
+      "name": "roasted potato cubes",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "yogurt in red container",
+      "portion_estimate": "120g",
+      "confidence": 85
+    }
+  ]
+}

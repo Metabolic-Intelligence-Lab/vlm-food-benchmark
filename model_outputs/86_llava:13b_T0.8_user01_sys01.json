@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Salmon with Herbs",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "Noodles with Cream Sauce",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "Fruit Compote or Jam",
+      "portion_estimate": "100",
+      "confidence": 60
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "Roll or Bread",
+      "portion_estimate": "50",
+      "confidence": 75
+    },
+    {
+      "name": "Purple Fruit or Berry Garnish",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti Bolognese",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken with a side of broccoli",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Green Salad",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "40g",
+      "confidence": 95
+    },
+    {
+      "name": "Vegetable soup",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "Ricotta cheese",
+      "portion_estimate": "50g",
+      "confidence": 60
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "140g",
+      "confidence": 95
+    },
+    {
+      "name": "Mixed vegetables (peas and carrots)",
+      "portion_estimate": "180g",
+      "confidence": 95
+    }
+  ]
+}

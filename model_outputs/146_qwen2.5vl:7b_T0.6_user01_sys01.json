@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Farfalle pasta with creamy sauce and grated cheese",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "Grilled cheese sandwich",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "100",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pesto pasta",
+      "portion_estimate": "300",
+      "confidence": "90"
+    },
+    {
+      "name": "chicken chunks",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "carrot and spinach frittata",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "cheese cubes",
+      "portion_estimate": "50",
+      "confidence": "75"
+    }
+  ]
+}

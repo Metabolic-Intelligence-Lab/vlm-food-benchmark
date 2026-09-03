@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "uncertain, approximately 100g-200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Ham slices",
+      "portion_estimate": "uncertain, approximately 70g-90g",
+      "confidence": "60"
+    },
+    {
+      "name": "Butter",
+      "portion_estimate": "uncertain, approximately 15g-20g",
+      "confidence": "40"
+    },
+    {
+      "name": "Strawberry yogurt",
+      "portion_estimate": "uncertain, approximately 60g-80g",
+      "confidence": "70"
+    }
+  ]
+}

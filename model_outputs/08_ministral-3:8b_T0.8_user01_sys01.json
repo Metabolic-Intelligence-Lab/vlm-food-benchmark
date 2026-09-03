@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup in bowl (likely cream or vegetable soup)",
+      "portion_estimate": "300 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed salad (lettuce/cabbage/chopped vegetables with apples or pears)",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "white or whole wheat roll/bun",
+      "portion_estimate": "60 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "two fried or baked savory cheese balls (possibly ricotta or feta-based)",
+      "portion_estimate": "80 grams (combined)",
+      "confidence": "85"
+    },
+    {
+      "name": "small yogurt or pudding cup (possibly coconut or other flavor)",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "water (in clear glass)",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

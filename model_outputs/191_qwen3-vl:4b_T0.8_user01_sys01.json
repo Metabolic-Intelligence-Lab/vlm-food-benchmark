@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot Slices",
+      "portion_estimate": "100\u2013120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Breaded Balls (Meatballs or Veggie Balls)",
+      "portion_estimate": "50\u201360 grams (total for two balls)",
+      "confidence": 70
+    },
+    {
+      "name": "Green Soup",
+      "portion_estimate": "200\u2013250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Yogurt (TORINESI)",
+      "portion_estimate": "100\u2013150 grams",
+      "confidence": 65
+    }
+  ]
+}

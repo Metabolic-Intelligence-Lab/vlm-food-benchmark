@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Whole wheat bread roll",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "Red jam or spread in container",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "Cooked tubular pasta (penne)",
+      "portion_estimate": "230",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried fish or chicken fillet",
+      "portion_estimate": "140",
+      "confidence": "85"
+    },
+    {
+      "name": "Chopped green vegetables (cucumber/zucchini)",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Beverage cup (empty or containing liquid)",
+      "portion_estimate": "250",
+      "confidence": "60"
+    }
+  ]
+}

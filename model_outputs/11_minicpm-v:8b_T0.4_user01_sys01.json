@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain, approx. weight in grams if known",
+      "confidence": "60"
+    },
+    {
+      "name": "cabbage and carrot salad",
+      "portion_estimate": "uncertain, approx. weight in grams if known",
+      "confidence": "50"
+    },
+    {
+      "name": "chicken quesadilla",
+      "portion_estimate": "uncertain, approx. weight in grams if known",
+      "confidence": "60"
+    },
+    {
+      "name": "peach",
+      "portion_estimate": "uncertain, approx. weight in grams if known",
+      "confidence": "50"
+    }
+  ]
+}

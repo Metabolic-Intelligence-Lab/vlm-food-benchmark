@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "shredded cabbage",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "thinly sliced cucumber (seeds visible)",
+      "portion_estimate": "100g",
+      "confidence": "75"
+    },
+    {
+      "name": "shredded red onion/beetroot (mixed or separate)",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "lettuce or leafy greens",
+      "portion_estimate": "40g",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed dressing/condiment (visible on edge of bowl)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain, approx. weight of a medium banana in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread (Bagel)",
+      "portion_estimate": "uncertain, approx. 120-140g for an average bagel",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed Salad with Tuna",
+      "portion_estimate": "uncertain, approx. weight of a typical mixed salad bowl in grams",
+      "confidence": "50"
+    }
+  ]
+}

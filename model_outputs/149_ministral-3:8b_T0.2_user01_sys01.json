@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken breast with stuffing (likely spinach or herb-based)",
+      "portion_estimate": "180 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pasta dish with penne and cheese sauce (possibly Alfredo or Parmesan)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or regular bread roll",
+      "portion_estimate": "80 grams",
+      "confidence": 80
+    },
+    {
+      "name": "plums (4 whole)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "orange (cut side visible, partially peeled)",
+      "portion_estimate": "uncertain (likely ~150-200 grams)",
+      "confidence": 60
+    },
+    {
+      "name": "packaged salad or side vegetable (e.g., spinach or mixed greens)",
+      "portion_estimate": "uncertain (likely ~50-70 grams)",
+      "confidence": 60
+    }
+  ]
+}

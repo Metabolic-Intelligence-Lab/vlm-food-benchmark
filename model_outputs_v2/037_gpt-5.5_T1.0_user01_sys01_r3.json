@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mixed radicchio and shredded carrot salad",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "90"
+    },
+    {
+      "name": "whole apple",
+      "portion_estimate": "180 g",
+      "confidence": "95"
+    },
+    {
+      "name": "spaghetti with grated cheese",
+      "portion_estimate": "230 g",
+      "confidence": "90"
+    },
+    {
+      "name": "open-faced toast with cooked greens and grated cheese",
+      "portion_estimate": "115 g",
+      "confidence": "82"
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "55 g",
+      "confidence": "95"
+    }
+  ]
+}

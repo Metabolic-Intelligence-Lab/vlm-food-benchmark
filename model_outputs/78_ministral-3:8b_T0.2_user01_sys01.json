@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sweet potato cubes (diced)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "carrot sticks (whole)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "creamy soup with croutons",
+      "portion_estimate": "300 grams",
+      "confidence": 80
+    },
+    {
+      "name": "dressing/sauce (yellow, likely yogurt-based)",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "packaged meat patty (likely beef or turkey)",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    }
+  ]
+}

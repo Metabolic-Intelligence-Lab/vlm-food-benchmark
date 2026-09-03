@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "baked potato wedges with cheese topping (golden crisps)",
+      "portion_estimate": "200g",
+      "confidence": 75
+    },
+    {
+      "name": "fried or baked chicken breast with tartar sauce/relish",
+      "portion_estimate": "150g",
+      "confidence": 70
+    },
+    {
+      "name": "diced potatoes or coleslaw (mixed with apple or other ingredients)",
+      "portion_estimate": "120g",
+      "confidence": 65
+    },
+    {
+      "name": "small whole wheat or rye roll",
+      "portion_estimate": "60g",
+      "confidence": 80
+    },
+    {
+      "name": "unsweetened iced tea (in clear plastic cup)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "diet soda (Sprite) in plastic bottle",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

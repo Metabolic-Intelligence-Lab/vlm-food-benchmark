@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Spaghetti with red sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Chicken breast with herbs, lemon and olive oil",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta salad with red peppers and olives",
+      "portion_estimate": "200 grams",
+      "confidence": "60"
+    }
+  ]
+}

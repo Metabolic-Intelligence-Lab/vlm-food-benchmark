@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (Spaghetti) with grated cheese",
+      "portion_estimate": 250,
+      "confidence": 92
+    },
+    {
+      "name": "Fried egg (sunny side up) on bread/bruschetta with greens and cheese",
+      "portion_estimate": 300,
+      "confidence": 88
+    },
+    {
+      "name": "Mixed salad (endive, radicchio, carrots)",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "Whole apple",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Baguette roll",
+      "portion_estimate": 70,
+      "confidence": 93
+    }
+  ]
+}

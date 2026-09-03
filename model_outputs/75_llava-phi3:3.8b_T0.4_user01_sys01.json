@@ -1,0 +1,31 @@
+{
+  "tray": [
+    {
+      "plate1": {
+        "food": "white meat",
+        "color": "white"
+      },
+      "plate2": {
+        "food": "brown beans",
+        "color": "orange"
+      },
+      "plate3": {
+        "food": "bread roll",
+        "color": "yellow"
+      },
+      "condiments": [
+        {
+          "item": "salt shaker",
+          "color": "white and silver"
+        },
+        {
+          "item": "ketchup bottle",
+          "color": "red and white"
+        }
+      ]
+    }
+  ],
+  "tray_material": "plastic",
+  "background": "wooden table",
+  "lighting": "natural light from window"
+}

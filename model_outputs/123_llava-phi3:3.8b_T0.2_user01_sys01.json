@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "French toast",
+      "portion_estimate": "160g",
+      "confidence": "90"
+    }
+  ],
+  "tablecloth": {
+    "color": "gray",
+    "pattern": "leaves"
+  },
+  "cutlery": [
+    {
+      "item": "knife",
+      "position": "right side of table"
+    },
+    {
+      "item": "fork",
+      "position": "left side of table"
+    }
+  ],
+  "drinkware": {
+    "type": "glass",
+    "contents": "water",
+    "position": "middle of table"
+  },
+  "plates": [
+    {
+      "color": "white",
+      "size": "small"
+    }
+  ]
+}

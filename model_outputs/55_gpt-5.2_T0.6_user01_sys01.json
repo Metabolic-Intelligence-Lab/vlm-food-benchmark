@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken cutlet (schnitzel-style)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed vegetables (carrots, peas, potatoes, zucchini) with sliced mushrooms",
+      "portion_estimate": "170 g",
+      "confidence": "72"
+    },
+    {
+      "name": "cooked leafy greens (spinach/chard)",
+      "portion_estimate": "140 g",
+      "confidence": "68"
+    },
+    {
+      "name": "packaged jelly/jam cup (likely strawberry)",
+      "portion_estimate": "25 g",
+      "confidence": "60"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 g",
+      "confidence": "80"
+    }
+  ]
+}

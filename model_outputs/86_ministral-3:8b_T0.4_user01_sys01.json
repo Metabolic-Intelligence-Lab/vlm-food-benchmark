@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet (likely salmon or similar)",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with sauce (penne or rigatoni)",
+      "portion_estimate": "150g (cooked)",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes or creamy potato dish",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "plums (or similar small purple fruit)",
+      "portion_estimate": "100g (4 plums)",
+      "confidence": 75
+    },
+    {
+      "name": "buttered roll or bread",
+      "portion_estimate": "uncertain (likely 50-70g)",
+      "confidence": 60
+    },
+    {
+      "name": "butter packet",
+      "portion_estimate": "uncertain (small portion, ~10g)",
+      "confidence": 50
+    }
+  ]
+}

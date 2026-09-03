@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "chicken or turkey pieces (likely shredded)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "fried or baked doughnut hole",
+      "portion_estimate": "30 grams",
+      "confidence": 75
+    },
+    {
+      "name": "packaged snack (likely crackers or chips) in plastic bag",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pork or ham slices with glaze",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes or potato pancake",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "water or clear beverage in glass",
+      "portion_estimate": "uncertain (glass appears small, ~200-250ml)",
+      "confidence": 60
+    }
+  ]
+}

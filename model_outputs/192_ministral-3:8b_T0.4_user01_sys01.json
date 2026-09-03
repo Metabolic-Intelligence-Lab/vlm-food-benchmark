@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded cutlet (likely chicken or veal)",
+      "portion_estimate": "180-200g",
+      "confidence": 75
+    },
+    {
+      "name": "saut\u00e9ed kale or Swiss chard",
+      "portion_estimate": "100-120g",
+      "confidence": 70
+    },
+    {
+      "name": "roasted or fried carrot sticks",
+      "portion_estimate": "120-150g",
+      "confidence": 75
+    },
+    {
+      "name": "lemon wedge (partial)",
+      "portion_estimate": "uncertain (likely ~30g for the visible portion)",
+      "confidence": 60
+    },
+    {
+      "name": "water or clear beverage in glass",
+      "portion_estimate": "uncertain (visible portion ~200-250ml)",
+      "confidence": 60
+    }
+  ]
+}

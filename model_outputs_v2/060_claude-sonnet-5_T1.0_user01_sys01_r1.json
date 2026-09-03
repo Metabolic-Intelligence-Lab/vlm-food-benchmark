@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and bell peppers",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded fried meatballs/cutlets (2 pieces)",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "sliced bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": "55"
+    },
+    {
+      "name": "fruit yogurt (single-serving cup)",
+      "portion_estimate": "125",
+      "confidence": "70"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150",
+      "confidence": "50"
+    }
+  ]
+}

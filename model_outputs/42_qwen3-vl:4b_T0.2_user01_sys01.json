@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "roasted brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "corn cakes",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

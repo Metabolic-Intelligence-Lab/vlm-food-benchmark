@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sauteed leafy greens (possibly spinach or collards)",
+      "portion_estimate": "100-150g",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or boiled green beans",
+      "portion_estimate": "150-200g",
+      "confidence": 80
+    },
+    {
+      "name": "sandwich with egg",
+      "portion_estimate": "50-75g (bun and filling)",
+      "confidence": 70
+    },
+    {
+      "name": "packaged bread or toast",
+      "portion_estimate": "30-50g",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt drink (in red cup)",
+      "portion_estimate": "100-125ml (3.5-4.3oz)",
+      "confidence": 80
+    }
+  ]
+}

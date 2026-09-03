@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Baked chicken with herbs",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Steamed rice with green vegetables",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green salad with dressing",
+      "portion_estimate": "100g",
+      "confidence": "50"
+    }
+  ]
+}

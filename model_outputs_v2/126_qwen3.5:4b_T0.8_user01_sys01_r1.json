@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Rigatoni with tomato sauce and parmesan",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "Egg on seaweed bread with topping",
+      "portion_estimate": "200",
+      "confidence": 75
+    },
+    {
+      "name": "Potatoes (cubed)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "Yogurt drink (Tono)",
+      "portion_estimate": "200",
+      "confidence": 70
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200",
+      "confidence": 95
+    }
+  ]
+}

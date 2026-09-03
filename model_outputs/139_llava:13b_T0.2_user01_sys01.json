@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "potatoes with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "chicken with steamed vegetables (carrots and peas)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "roll or bread item with butter",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

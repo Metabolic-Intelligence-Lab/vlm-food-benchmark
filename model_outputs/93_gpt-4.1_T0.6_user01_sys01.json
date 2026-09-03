@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked chickpeas",
+      "portion_estimate": "90",
+      "confidence": 90
+    },
+    {
+      "name": "white fish fillet (steamed or baked)",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "15",
+      "confidence": 90
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "farfalle pasta with tomato sauce and vegetables",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "fruit yogurt (mango, sealed container)",
+      "portion_estimate": "125",
+      "confidence": 95
+    }
+  ]
+}

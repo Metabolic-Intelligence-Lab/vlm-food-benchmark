@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Gnocchi with tomato sauce and parmesan",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Salad (mixed greens, tomatoes, onions)",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "approx. 150-200g",
+      "confidence": "90"
+    }
+  ]
+}

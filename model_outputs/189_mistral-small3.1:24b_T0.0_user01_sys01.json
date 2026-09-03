@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pho broth",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pho noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sriracha sauce",
+      "portion_estimate": "10",
+      "confidence": 80
+    },
+    {
+      "name": "bean sprouts",
+      "portion_estimate": "30",
+      "confidence": 80
+    },
+    {
+      "name": "bio yogurt",
+      "portion_estimate": "100",
+      "confidence": 80
+    }
+  ]
+}

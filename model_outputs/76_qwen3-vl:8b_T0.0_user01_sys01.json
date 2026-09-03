@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni with vegetables",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "couscous with vegetables",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "dessert pastry",
+      "portion_estimate": "100",
+      "confidence": "70"
+    }
+  ]
+}

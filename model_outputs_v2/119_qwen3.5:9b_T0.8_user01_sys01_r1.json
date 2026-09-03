@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of gnocchi in red tomato sauce, topped with parmesan cheese",
+      "portion_estimate": 350,
+      "confidence": 95
+    },
+    {
+      "name": "Small packet of braised lentil stew (puy lentils)",
+      "portion_estimate": 250,
+      "confidence": 98
+    },
+    {
+      "name": "Soft roll/bread in a clear plastic wrapper",
+      "portion_estimate": 80,
+      "confidence": 98
+    },
+    {
+      "name": "Glass of water (approx. 250ml)",
+      "portion_estimate": 240,
+      "confidence": 92
+    },
+    {
+      "name": "Yomo yogurt cup (approx. 125g), cherry or berry flavor",
+      "portion_estimate": 125,
+      "confidence": 96
+    }
+  ]
+}

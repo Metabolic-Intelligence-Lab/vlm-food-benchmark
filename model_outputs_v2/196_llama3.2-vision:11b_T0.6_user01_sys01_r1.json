@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "ham",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "crackero",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    }
+  ]
+}

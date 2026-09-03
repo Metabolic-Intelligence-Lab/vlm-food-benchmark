@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Eggs",
+      "portion_estimate": "2 medium",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

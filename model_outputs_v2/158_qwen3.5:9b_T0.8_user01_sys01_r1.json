@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Crispy roasted potatoes",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "Square baked pastry (e.g., quiche or savory cake)",
+      "portion_estimate": 80,
+      "confidence": 92
+    },
+    {
+      "name": "Pasta with sauce and grated cheese",
+      "portion_estimate": 220,
+      "confidence": 96
+    },
+    {
+      "name": "Plain white bread roll (in plastic)",
+      "portion_estimate": 50,
+      "confidence": 94
+    },
+    {
+      "name": "Whole apple",
+      "portion_estimate": 180,
+      "confidence": 96
+    },
+    {
+      "name": "Butter packet (in plastic)",
+      "portion_estimate": 25,
+      "confidence": 90
+    }
+  ]
+}

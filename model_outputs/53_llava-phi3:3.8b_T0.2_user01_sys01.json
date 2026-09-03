@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "70g",
+      "confidence": 85
+    },
+    {
+      "name": "French fries",
+      "portion_estimate": "120g",
+      "confidence": 93
+    },
+    {
+      "name": "Burger",
+      "portion_estimate": "85g",
+      "confidence": 76
+    },
+    {
+      "name": "Water glass",
+      "portion_estimate": "200ml",
+      "confidence": 91
+    }
+  ]
+}

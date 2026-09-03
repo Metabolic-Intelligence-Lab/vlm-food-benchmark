@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice or grain",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta-like noodle",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "breaded chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sandwich wrapped in paper",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

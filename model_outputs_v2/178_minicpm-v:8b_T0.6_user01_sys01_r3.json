@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain (approximate portion size)",
+      "confidence": "50"
+    },
+    {
+      "name": "Spinach and feta cheese quiche slice",
+      "portion_estimate": "uncertain (approximate portion size)",
+      "confidence": "60"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "uncertain (approximate portion size)",
+      "confidence": "50"
+    },
+    {
+      "name": "Broccoli with cheese",
+      "portion_estimate": "uncertain (approximate portion size)",
+      "confidence": "60"
+    },
+    {
+      "name": "Sourdough bread",
+      "portion_estimate": "uncertain (approximate portion size)",
+      "confidence": "50"
+    },
+    {
+      "name": "Cheese stick",
+      "portion_estimate": "uncertain (approximate portion size)",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Sliced carrots",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Cooked Brussels sprouts",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": 200,
+      "confidence": 98
+    },
+    {
+      "name": "Glazed chicken wings",
+      "portion_estimate": 160,
+      "confidence": 92
+    }
+  ]
+}

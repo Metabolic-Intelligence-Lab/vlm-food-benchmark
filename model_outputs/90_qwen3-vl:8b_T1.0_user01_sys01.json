@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Risotto",
+      "portion_estimate": "220g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "60g",
+      "confidence": "90"
+    },
+    {
+      "name": "Grapefruit Half",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "Mixed Vegetable Salad",
+      "portion_estimate": "120g",
+      "confidence": "75"
+    },
+    {
+      "name": "Carrot and Potato Sticks",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    }
+  ]
+}

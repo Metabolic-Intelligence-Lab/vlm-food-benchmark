@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Diced cooked carrots",
+      "portion_estimate": "70g",
+      "confidence": "95"
+    },
+    {
+      "name": "Curry or savory stew in a shallow bowl",
+      "portion_estimate": "220g",
+      "confidence": "85"
+    },
+    {
+      "name": "Yellow puree or custard with herbs",
+      "portion_estimate": "90g",
+      "confidence": "80"
+    },
+    {
+      "name": "Plain bread roll or bun",
+      "portion_estimate": "110g",
+      "confidence": "90"
+    },
+    {
+      "name": "Small round orange side items (likely fruit or small bun)",
+      "portion_estimate": "70g",
+      "confidence": "75"
+    }
+  ]
+}

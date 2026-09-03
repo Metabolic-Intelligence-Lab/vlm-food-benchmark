@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "turkey or chicken club sandwich with lettuce, tomato, cheese spread, and pickle",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "mixed greens salad with sliced carrots and cucumbers",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "scrambled eggs, sausage links/patty, toast, and gravy with pasta and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sliced bananas",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "fruit salad or cottage cheese with apples or peaches",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "individually wrapped cookie or muffin",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

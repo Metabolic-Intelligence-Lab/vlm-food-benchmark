@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli florets (roasted or saut\u00e9ed)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "pork chop or cutlet",
+      "portion_estimate": "180g",
+      "confidence": 80
+    },
+    {
+      "name": "creamy soup (likely tomato-based or vegetable-based)",
+      "portion_estimate": "300g",
+      "confidence": 75
+    },
+    {
+      "name": "grated parmesan cheese",
+      "portion_estimate": "20g",
+      "confidence": 70
+    },
+    {
+      "name": "sugar packet (white)",
+      "portion_estimate": "uncertain (likely 2g per packet)",
+      "confidence": 50
+    },
+    {
+      "name": "bread roll or bun (whole wheat)",
+      "portion_estimate": "60g",
+      "confidence": 75
+    }
+  ]
+}

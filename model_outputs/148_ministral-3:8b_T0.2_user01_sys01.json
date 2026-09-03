@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with green pesto and grated cheese",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "chicken breast (cut into strips)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "quiche or savory tart with carrots and cheese filling",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "plums (whole, 4 visible)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "baguette or French bread (cut into slices)",
+      "portion_estimate": "100g",
+      "confidence": 70
+    }
+  ]
+}

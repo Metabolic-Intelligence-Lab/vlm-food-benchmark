@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans with diced carrots (mixed vegetables)",
+      "portion_estimate": "160 g",
+      "confidence": "75"
+    },
+    {
+      "name": "couscous (yellow, cooked) with small pieces of vegetables/herbs",
+      "portion_estimate": "170 g",
+      "confidence": "70"
+    },
+    {
+      "name": "white fish pieces (likely cod) mixed with couscous",
+      "portion_estimate": "90 g",
+      "confidence": "60"
+    },
+    {
+      "name": "pumpkin or sweet potato mash/pieces (orange cooked vegetable)",
+      "portion_estimate": "140 g",
+      "confidence": "65"
+    },
+    {
+      "name": "sliced whole-grain bread (2 slices)",
+      "portion_estimate": "70 g",
+      "confidence": "78"
+    },
+    {
+      "name": "strawberry yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "55"
+    }
+  ]
+}

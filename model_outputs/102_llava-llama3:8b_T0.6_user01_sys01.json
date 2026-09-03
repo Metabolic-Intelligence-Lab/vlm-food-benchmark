@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "quinoa salad with chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "sliced potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "breaded chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "yogurt with berries",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked broccoli florets with sauce/garnish",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "vegetable-based soup (possibly with beans/legumes, carrots, and other vegetables)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "slice of bread with pesto and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

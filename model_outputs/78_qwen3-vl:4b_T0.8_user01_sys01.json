@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot soup",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "Diced carrots",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "Apricots",
+      "portion_estimate": "50 g",
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "30 g",
+      "confidence": 95
+    },
+    {
+      "name": "Cheese sauce",
+      "portion_estimate": "20 g",
+      "confidence": 95
+    }
+  ]
+}

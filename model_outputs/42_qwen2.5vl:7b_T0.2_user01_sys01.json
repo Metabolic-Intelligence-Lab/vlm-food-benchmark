@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta with sauce",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted Brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "yellow rice",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "peaches",
+      "portion_estimate": "150",
+      "confidence": "60"
+    }
+  ]
+}

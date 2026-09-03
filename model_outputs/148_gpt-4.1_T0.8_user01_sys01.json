@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with pesto and grated cheese",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "steamed cauliflower florets",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "savory vegetable muffin topped with diced carrot",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat bread roll",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "fresh plums",
+      "portion_estimate": "70",
+      "confidence": 80
+    }
+  ]
+}

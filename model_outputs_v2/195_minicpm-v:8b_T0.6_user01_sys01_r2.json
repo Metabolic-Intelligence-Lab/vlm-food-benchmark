@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "potatoes or apples diced and saut\u00e9ed",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "ground meat, possibly chili",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "yogurt or sour cream",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

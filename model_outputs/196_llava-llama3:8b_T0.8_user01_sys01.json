@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "salmon",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "brown beans",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange segments",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "green sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bacon",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

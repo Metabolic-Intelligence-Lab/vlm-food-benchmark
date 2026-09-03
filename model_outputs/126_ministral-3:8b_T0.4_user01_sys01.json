@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with grated Parmesan",
+      "portion_estimate": "250g (estimated)",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll (whole wheat or similar)",
+      "portion_estimate": "70g (estimated)",
+      "confidence": 80
+    },
+    {
+      "name": "sauce packet (Yomo brand, likely tomato-based or flavoring)",
+      "portion_estimate": "uncertain (likely 10-20g)",
+      "confidence": 50
+    },
+    {
+      "name": "steamed broccoli florets with dressing",
+      "portion_estimate": "120g (estimated)",
+      "confidence": 80
+    },
+    {
+      "name": "mashed or diced potatoes (likely with gravy or butter)",
+      "portion_estimate": "150g (estimated)",
+      "confidence": 80
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "uncertain (likely 200-300ml)",
+      "confidence": 60
+    },
+    {
+      "name": "condiment packet (likely butter or margarine)",
+      "portion_estimate": "uncertain (likely 10-25g)",
+      "confidence": 50
+    }
+  ]
+}

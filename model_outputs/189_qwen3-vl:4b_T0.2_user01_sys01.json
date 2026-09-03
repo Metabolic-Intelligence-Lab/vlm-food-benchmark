@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable soup",
+      "portion_estimate": "220 g",
+      "confidence": 80
+    },
+    {
+      "name": "Meatball",
+      "portion_estimate": "45 g",
+      "confidence": 70
+    },
+    {
+      "name": "Cooked greens",
+      "portion_estimate": "80 g",
+      "confidence": 75
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "120 g",
+      "confidence": 85
+    },
+    {
+      "name": "Crackers",
+      "portion_estimate": "30 g",
+      "confidence": 65
+    }
+  ]
+}

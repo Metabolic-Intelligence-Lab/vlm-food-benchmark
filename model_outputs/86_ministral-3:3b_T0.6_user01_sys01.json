@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled salmon fillet",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "100 grams (dry weight)",
+      "confidence": 90
+    },
+    {
+      "name": "mashed potatoes or potato gratin",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "blueberries",
+      "portion_estimate": "50 grams (approximately 6-7 berries)",
+      "confidence": 80
+    },
+    {
+      "name": "smaller portion of what appears to be a side bread roll or bun",
+      "portion_estimate": "30 grams",
+      "confidence": 75
+    }
+  ]
+}

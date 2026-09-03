@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green soup with cheese",
+      "portion_estimate": "400g",
+      "confidence": 80
+    },
+    {
+      "name": "small burger patty with shredded zucchini",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "yellow puree (likely squash or sweet potato)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "small whole wheat bun",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "small cup of yogurt (Yogo Yacoto)",
+      "portion_estimate": "125g",
+      "confidence": 80
+    },
+    {
+      "name": "clear water (in glass or bottle)",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "white napkin",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

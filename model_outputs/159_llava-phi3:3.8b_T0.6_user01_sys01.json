@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "white plate with pasta and sauce",
+      "portion_estimate": "200g",
+      "confidence": "85%"
+    },
+    {
+      "name": "white plate with salad",
+      "portion_estimate": "150g",
+      "confidence": "75%"
+    },
+    {
+      "name": "plate with a cheese and bread sandwich",
+      "portion_estimate": "300g",
+      "confidence": "90%"
+    },
+    {
+      "name": "lemon on the right side of tray",
+      "portion_estimate": "150g",
+      "confidence": "80%"
+    }
+  ]
+}

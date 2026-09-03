@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked broccoli with diced potato pieces",
+      "portion_estimate": "260 g",
+      "confidence": "74"
+    },
+    {
+      "name": "mixed vegetables (peas, carrots, potatoes, mushrooms)",
+      "portion_estimate": "140 g",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded patty (likely chicken or fish) with tomato-based sauce on top",
+      "portion_estimate": "150 g",
+      "confidence": "58"
+    },
+    {
+      "name": "slice of brown bread",
+      "portion_estimate": "35 g",
+      "confidence": "78"
+    },
+    {
+      "name": "packaged cheese stick/bar",
+      "portion_estimate": "25 g",
+      "confidence": "65"
+    },
+    {
+      "name": "yogurt cup (fruit yogurt)",
+      "portion_estimate": "125 g",
+      "confidence": "72"
+    }
+  ]
+}

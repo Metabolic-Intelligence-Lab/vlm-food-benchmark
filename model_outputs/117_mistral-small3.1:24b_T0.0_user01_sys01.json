@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green soup",
+      "portion_estimate": "300",
+      "confidence": "80"
+    },
+    {
+      "name": "grated cheese",
+      "portion_estimate": "10",
+      "confidence": "80"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

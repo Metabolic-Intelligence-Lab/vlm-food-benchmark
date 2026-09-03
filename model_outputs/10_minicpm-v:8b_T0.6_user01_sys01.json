@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain, approximately a medium bowl",
+      "confidence": "50"
+    },
+    {
+      "name": "crab balls with white sauce on top",
+      "portion_estimate": "uncertain, possibly 2-3 crab balls and some potatoes",
+      "confidence": "60"
+    },
+    {
+      "name": "baked potato slices",
+      "portion_estimate": "uncertain, approximately a medium plate of sliced potatoes",
+      "confidence": "50"
+    }
+  ]
+}

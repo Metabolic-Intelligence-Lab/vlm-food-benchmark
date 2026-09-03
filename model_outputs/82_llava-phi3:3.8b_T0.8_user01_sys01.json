@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "orange-colored pasta with bread",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "black mixture",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "drinks (clear and orange)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red container with a lid",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

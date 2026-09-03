@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta shells (likely macaroni) with tomato sauce and vegetables",
+      "portion_estimate": "200-250g",
+      "confidence": 95
+    },
+    {
+      "name": "yellow rice with mixed vegetables and herbs",
+      "portion_estimate": "150-200g",
+      "confidence": 95
+    },
+    {
+      "name": "small loaf of bread or roll",
+      "portion_estimate": "50-70g",
+      "confidence": 90
+    },
+    {
+      "name": "two prunes or plums",
+      "portion_estimate": "40-50g",
+      "confidence": 95
+    },
+    {
+      "name": "small stuffed eggplant (rice and vegetable stuffing)",
+      "portion_estimate": "50-70g",
+      "confidence": 90
+    }
+  ]
+}

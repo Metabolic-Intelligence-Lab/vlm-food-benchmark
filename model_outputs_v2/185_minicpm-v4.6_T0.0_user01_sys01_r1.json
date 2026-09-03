@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with sauce",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "diced potatoes",
+      "portion_estimate": "150 g",
+      "confidence": 90
+    },
+    {
+      "name": "patty with shredded vegetable",
+      "portion_estimate": "120 g",
+      "confidence": 95
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "30 g",
+      "confidence": 85
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 ml (approximately 70 g)",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni or rigatoni pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sausage or salami",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "uncertain",
+      "confidence": 68
+    },
+    {
+      "name": "red peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 62
+    }
+  ]
+}

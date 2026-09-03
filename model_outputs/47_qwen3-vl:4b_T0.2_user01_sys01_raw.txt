@@ -1,0 +1,12 @@
+The problem requires identifying distinct, visible food and beverage items from the context, estimating their portion sizes in grams, and providing confidence levels for each estimate. After analyzing the context, the following items are identified with their respective portions and confidence levels:
+
+- **Penne pasta with tomato sauce**: A standard serving size is approximately 150 grams, with a confidence level of 80%.
+- **Bread roll**: A small roll typically weighs about 50 grams, with a confidence level of 70%.
+- **Green beans**: A typical serving of cooked green beans is around 100 grams, with a confidence level of 75%.
+- **Egg omelette**: A standard omelette portion is roughly 100 grams, with a confidence level of 70%.
+- **Water**: A standard glass of water (200 ml) weighs 200 grams, with a confidence level of 90%.
+- **Sprite**: A standard bottle of Sprite (200 ml) weighs 200 grams, with a confidence level of 80%.
+
+These estimates are based on common serving sizes and typical weights for each item, with confidence levels reflecting the reliability of these approximations.
+
+\boxed{\text{penne pasta with tomato sauce: 150g (80\%), bread roll: 50g (70\%), green beans: 100g (75\%), egg omelette: 100g (70\%), water: 200g (90\%), sprite: 200g (80\%)}}

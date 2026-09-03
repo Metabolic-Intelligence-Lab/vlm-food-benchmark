@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fish with vegetable side",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "vegetable mixture (zucchini and other)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "bun (bread roll)",
+      "portion_estimate": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "50g",
+      "confidence": 95
+    }
+  ]
+}

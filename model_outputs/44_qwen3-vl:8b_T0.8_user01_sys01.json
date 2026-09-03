@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Water",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100 g",
+      "confidence": 90
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "60 g",
+      "confidence": 90
+    },
+    {
+      "name": "Tomatoes",
+      "portion_estimate": "80 g",
+      "confidence": 90
+    },
+    {
+      "name": "Red onion",
+      "portion_estimate": "20 g",
+      "confidence": 90
+    },
+    {
+      "name": "Lettuce",
+      "portion_estimate": "30 g",
+      "confidence": 90
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "120 g",
+      "confidence": 95
+    },
+    {
+      "name": "Spread",
+      "portion_estimate": "40 g",
+      "confidence": 90
+    }
+  ]
+}

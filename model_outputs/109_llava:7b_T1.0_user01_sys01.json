@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "about 100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain roll or bread loaf",
+      "portion_estimate": "about 50-75g, depending on portion size for a roll or small loaf",
+      "confidence": "uncertain, 20"
+    },
+    {
+      "name": "Fruits and vegetables with a light cream sauce or cheese",
+      "portion_estimate": "about 30g of sauce/cheese, plus about 50-75g of mixed fruits and vegetables",
+      "confidence": "uncertain, 20"
+    },
+    {
+      "name": "Sliced yellow lemon or apple slices",
+      "portion_estimate": "about 100g",
+      "confidence": "60"
+    }
+  ]
+}

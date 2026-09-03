@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Yomo FoodRice Soup",
+      "portion_estimate": "125g",
+      "confidence": 95
+    },
+    {
+      "name": "Fried Egg",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "Stewed Fruit",
+      "portion_estimate": "150g",
+      "confidence": 60
+    }
+  ]
+}

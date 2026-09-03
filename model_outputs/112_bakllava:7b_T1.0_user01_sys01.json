@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "grapes, peaches, oranges",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich, apple",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

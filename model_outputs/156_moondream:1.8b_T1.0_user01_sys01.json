@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread with sesame seeds",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "crescent roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "macaroni salad",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "meat",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

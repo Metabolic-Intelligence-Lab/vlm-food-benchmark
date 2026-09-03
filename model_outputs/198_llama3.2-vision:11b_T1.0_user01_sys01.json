@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grated cheese",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "grilled chicken breast",
+      "portion_estimate": "135g",
+      "confidence": "90"
+    },
+    {
+      "name": "roasted vegetables",
+      "portion_estimate": "70g",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "baked potato",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "green salad",
+      "portion_estimate": "75g",
+      "confidence": "80"
+    }
+  ]
+}

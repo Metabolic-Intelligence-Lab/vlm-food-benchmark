@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne with tomato sauce",
+      "portion_estimate": "uncertain, likely a portion of pasta",
+      "confidence": "40"
+    },
+    {
+      "name": "Chicken salad (possibly grilled)",
+      "portion_estimate": "uncertain, appears to be served in cup",
+      "confidence": "35"
+    },
+    {
+      "name": "Portioned mushroom and cheese on a black plate",
+      "portion_estimate": "approx. 10-20g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll (possibly a bagel)",
+      "portion_estimate": "uncertain, appears to be medium-sized, likely around 50-75g",
+      "confidence": "40"
+    }
+  ]
+}

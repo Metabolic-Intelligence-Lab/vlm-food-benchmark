@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Potato",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "BBQ Sauce",
+      "portion_estimate": "30g",
+      "confidence": 65
+    }
+  ]
+}

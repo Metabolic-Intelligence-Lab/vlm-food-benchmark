@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "brown bean soup topped with grated cheese",
+      "portion_estimate": "350 g",
+      "confidence": "70"
+    },
+    {
+      "name": "small bread roll (packaged)",
+      "portion_estimate": "60 g",
+      "confidence": "75"
+    },
+    {
+      "name": "baked omelet/frittata (egg dish)",
+      "portion_estimate": "160 g",
+      "confidence": "60"
+    },
+    {
+      "name": "cooked Brussels sprouts",
+      "portion_estimate": "160 g",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked sliced carrots",
+      "portion_estimate": "50 g",
+      "confidence": "75"
+    },
+    {
+      "name": "fresh plums (2)",
+      "portion_estimate": "140 g",
+      "confidence": "70"
+    }
+  ]
+}

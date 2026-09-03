@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta dish (twisted pasta)",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "cucumber salad with purple cabbage",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "vegetable patties",
+      "portion_estimate": "80",
+      "confidence": "70"
+    },
+    {
+      "name": "sweet dessert (potentially a ball of syrupy dough)",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "burger bun",
+      "portion_estimate": "40",
+      "confidence": "80"
+    }
+  ]
+}

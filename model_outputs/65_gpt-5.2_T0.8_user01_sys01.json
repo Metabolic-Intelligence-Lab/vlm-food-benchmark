@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mixed green salad (lettuce) with vinaigrette/seasoning",
+      "portion_estimate": "90 g",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked beef/vegetable patty with yellow cheese sauce",
+      "portion_estimate": "150 g",
+      "confidence": "65"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "170 g",
+      "confidence": "80"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "85"
+    },
+    {
+      "name": "strawberry yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 g",
+      "confidence": "80"
+    }
+  ]
+}

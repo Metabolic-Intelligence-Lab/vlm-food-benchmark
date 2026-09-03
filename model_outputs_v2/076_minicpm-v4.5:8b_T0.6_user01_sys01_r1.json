@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta shells with vegetables",
+      "portion_estimate": "200-250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "yellow rice with mixed vegetables (including broccoli and peas)",
+      "portion_estimate": "150-200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "small roll or bun (possibly bread)",
+      "portion_estimate": "50-70 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "two plums",
+      "portion_estimate": "100-120 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "small wrapped item (possibly a rice or egg roll with vegetables)",
+      "portion_estimate": "30-40 grams",
+      "confidence": "80"
+    }
+  ]
+}

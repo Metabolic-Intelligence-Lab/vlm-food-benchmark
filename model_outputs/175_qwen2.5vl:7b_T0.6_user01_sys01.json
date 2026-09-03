@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans in sauce",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Meat with sauce",
+      "portion_estimate": "120",
+      "confidence": 70
+    },
+    {
+      "name": "Mixed greens and potatoes",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "150",
+      "confidence": 85
+    }
+  ]
+}

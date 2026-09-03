@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "noodles and chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "fish and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fish, beans, and rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

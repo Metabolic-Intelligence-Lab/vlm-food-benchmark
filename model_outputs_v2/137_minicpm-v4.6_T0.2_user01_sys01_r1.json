@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "rotini pasta",
+      "portion_estimate": "200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "melted cheese",
+      "portion_estimate": "50 grams",
+      "confidence": 98
+    },
+    {
+      "name": "red sauce",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    }
+  ]
+}

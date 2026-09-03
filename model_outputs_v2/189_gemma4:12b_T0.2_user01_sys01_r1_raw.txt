@@ -1,0 +1,33 @@
+```json
+{
+  "food_items": [
+    {
+      "name": "Lentil soup",
+      "portion_estimate": "450g",
+      "confidence": "95"
+    },
+    {
+      "name": "Flatbread with red sauce",
+      "portion_estimate": "130g",
+      "confidence": "90"
+    },
+    {
+      "name": "Sautéed green vegetables",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Yogurt drink",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Chia seeds (small pack)",
+      "portion_estimate": "50g",
+      "confidence": "95"
+    },
+    {
+      "name": "Chia seeds (large pack)",
+      "portion_estimate": "250g",
+      "confidence": "95"
+    }

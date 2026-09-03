@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup (cheese)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "60g",
+      "confidence": 70
+    },
+    {
+      "name": "Dark Green Leafy Vegetable",
+      "portion_estimate": "80g",
+      "confidence": 65
+    },
+    {
+      "name": "Yomo Foodservice Drink",
+      "portion_estimate": "125g",
+      "confidence": 90
+    }
+  ]
+}

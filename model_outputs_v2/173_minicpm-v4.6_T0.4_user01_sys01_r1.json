@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "eggs",
+      "portion_estimate": "10 grams",
+      "confidence": 90
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": "200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    }
+  ]
+}

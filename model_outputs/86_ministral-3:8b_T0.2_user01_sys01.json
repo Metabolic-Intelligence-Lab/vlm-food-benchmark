@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet (likely cod or similar)",
+      "portion_estimate": "180 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with sauce (penne or rigatoni)",
+      "portion_estimate": "150 grams (cooked)",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes or mashed cauliflower",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "plums (whole, ~4 pieces)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "butter or margarine packet (visible but not fully consumed)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

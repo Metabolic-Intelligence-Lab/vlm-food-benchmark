@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "about 20 grams",
+      "confidence": "90%"
+    },
+    {
+      "name": "Broth with veggies and noodles",
+      "portion_estimate": "about 75 grams",
+      "confidence": "80%"
+    },
+    {
+      "name": "Dinner roll in plastic wrap",
+      "portion_estimate": "about 30 grams",
+      "confidence": "80%"
+    }
+  ]
+}

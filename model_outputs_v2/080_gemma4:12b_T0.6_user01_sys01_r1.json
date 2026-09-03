@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice with mixed vegetables and meat pieces",
+      "portion_estimate": "250",
+      "confidence": "95"
+    },
+    {
+      "name": "mashed pumpkin or sweet potato with meat and herbs",
+      "portion_estimate": "250",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70",
+      "confidence": "95"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "95"
+    },
+    {
+      "name": "cheese spread packet",
+      "portion_estimate": "15",
+      "confidence": "95"
+    }
+  ]
+}

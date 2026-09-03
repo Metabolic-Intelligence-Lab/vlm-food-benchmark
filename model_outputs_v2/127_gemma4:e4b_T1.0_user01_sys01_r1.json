@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll or crusty bread segment",
+      "portion_estimate": "120 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "fried chickpeas or falafel balls",
+      "portion_estimate": "180 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed green salad with tomatoes and vegetables",
+      "portion_estimate": "180 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "130 grams",
+      "confidence": "95"
+    }
+  ]
+}

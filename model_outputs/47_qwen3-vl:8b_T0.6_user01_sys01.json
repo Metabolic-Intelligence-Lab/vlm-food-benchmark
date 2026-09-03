@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Penne Pasta with Tomato Sauce",
+      "portion_estimate": "180 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "120 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Omelette",
+      "portion_estimate": "100 g",
+      "confidence": "75"
+    },
+    {
+      "name": "Mushroom",
+      "portion_estimate": "30 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250 mL",
+      "confidence": "80"
+    },
+    {
+      "name": "Sprite Soda",
+      "portion_estimate": "330 mL",
+      "confidence": "90"
+    }
+  ]
+}

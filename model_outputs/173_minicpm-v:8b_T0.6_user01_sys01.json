@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Boiled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Penne pasta with butter sauce",
+      "portion_estimate": "20g (approx.)",
+      "confidence": "95"
+    },
+    {
+      "name": "Whole grain bread slice",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Sliced orange fruit",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

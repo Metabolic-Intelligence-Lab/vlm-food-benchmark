@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (likely spaghetti)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Fried Chicken",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "Beverage (Starbucks)",
+      "portion_estimate": "350ml",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Green vegetable soup (curry/pea soup)",
+      "portion_estimate": 250,
+      "confidence": 95
+    },
+    {
+      "name": "Fish cake or similar savory patty",
+      "portion_estimate": 80,
+      "confidence": 88
+    },
+    {
+      "name": "Mashed potato (or similar puree)",
+      "portion_estimate": 120,
+      "confidence": 92
+    },
+    {
+      "name": "Shredded cabbage or coleslaw topping",
+      "portion_estimate": 30,
+      "confidence": 95
+    },
+    {
+      "name": "Sliced red apple cup (or fruit salad)",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "Milk drink pouch",
+      "portion_estimate": 200,
+      "confidence": 90
+    }
+  ]
+}

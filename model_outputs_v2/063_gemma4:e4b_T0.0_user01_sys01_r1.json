@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried potato strips/fries",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Savory sauced topping/mixture",
+      "portion_estimate": "90g",
+      "confidence": "80"
+    },
+    {
+      "name": "Savory pastry or tartlet slice",
+      "portion_estimate": "110g",
+      "confidence": "85"
+    },
+    {
+      "name": "Shredded salad with sliced protein (e.g., chicken)",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll or bun",
+      "portion_estimate": "90g",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich/wrap",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "salad with greens and protein (chicken or tofu)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "grape",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

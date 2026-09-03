@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried fish fillet (or breaded cutlet)",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed vegetables (carrots, peas/beans, potatoes) with sliced mushrooms",
+      "portion_estimate": "120 g",
+      "confidence": "75"
+    },
+    {
+      "name": "pasta shells in tomato-based sauce (with small vegetable pieces)",
+      "portion_estimate": "260 g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "90"
+    }
+  ]
+}

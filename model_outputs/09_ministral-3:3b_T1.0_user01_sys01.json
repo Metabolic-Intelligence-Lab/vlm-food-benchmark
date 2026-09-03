@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken or chicken dish",
+      "portion_estimate": "150\u2013200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "rice or rice-based dish (appears to be seasoned)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "diced potatoes or mashed potatoes",
+      "portion_estimate": "120\u2013150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "corn kernels or roasted corn",
+      "portion_estimate": "50 grams",
+      "confidence": 75
+    },
+    {
+      "name": "plain yogurt or sour cream",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "sweet pickle or carrot strips in plastic bag",
+      "portion_estimate": "uncertain (50\u201370 grams)",
+      "confidence": 70
+    },
+    {
+      "name": "wrapped baguette or bun",
+      "portion_estimate": "80\u2013100 grams",
+      "confidence": 75
+    }
+  ]
+}

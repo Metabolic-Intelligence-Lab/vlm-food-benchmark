@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "25g",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Rice, spinach, and shrimp",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Cod",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200g",
+      "confidence": "50"
+    }
+  ]
+}

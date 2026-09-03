@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Cheese and Crackers",
+      "portion_estimate": "60g",
+      "confidence": 70
+    },
+    {
+      "name": "Grapes",
+      "portion_estimate": "80g",
+      "confidence": 65
+    }
+  ]
+}

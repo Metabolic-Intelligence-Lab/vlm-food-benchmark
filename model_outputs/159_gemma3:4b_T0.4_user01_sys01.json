@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Broccoli and Cheese",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "Pasta (likely Penne)",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "100g",
+      "confidence": 65
+    }
+  ]
+}

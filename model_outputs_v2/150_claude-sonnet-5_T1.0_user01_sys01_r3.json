@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "penne pasta with pesto/cream sauce and grated cheese",
+      "portion_estimate": "180",
+      "confidence": 70
+    },
+    {
+      "name": "savory vegetable tart/quiche slice with spinach filling",
+      "portion_estimate": "90",
+      "confidence": 65
+    },
+    {
+      "name": "mixed boiled vegetables (potato, carrot, brussels sprouts)",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "black plums, whole",
+      "portion_estimate": "120",
+      "confidence": 75
+    }
+  ]
+}

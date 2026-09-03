@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "oatmeal",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "sausage",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bacon",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "ham",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "milk",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

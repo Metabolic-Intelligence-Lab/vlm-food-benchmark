@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup (likely vegetable or miso)",
+      "portion_estimate": "300",
+      "confidence": 75
+    },
+    {
+      "name": "small baked or fried bread roll (whole wheat)",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "chopped salad mix (lettuce/cabbage/other greens)",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "small potato or sweet potato fritters/patties",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt or sour cream dip (likely in small tub)",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "water or clear beverage (in clear cup)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

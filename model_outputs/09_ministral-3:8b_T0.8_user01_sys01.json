@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked potato with topping (likely cheese and seasoning)",
+      "portion_estimate": "200-250 grams",
+      "confidence": 80
+    },
+    {
+      "name": "roasted or mashed potato wedges (sweet potato pieces)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "plain bun or roll (packaged)",
+      "portion_estimate": "50-60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt drink (in carton)",
+      "portion_estimate": "150-180 milliliters (approx. 160 grams)",
+      "confidence": 75
+    },
+    {
+      "name": "unidentified red sauce packet (likely condiment)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

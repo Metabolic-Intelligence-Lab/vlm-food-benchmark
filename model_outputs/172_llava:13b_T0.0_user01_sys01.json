@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked peas",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "pasta or noodles with sauce or seasoning",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "salad with lettuce and other vegetables or greens",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

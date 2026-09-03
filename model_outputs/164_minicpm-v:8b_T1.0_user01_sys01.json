@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mashed green vegetables with butter",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Potato and chutney",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Green soup or stew with butter",
+      "portion_estimate": "125g from container",
+      "confidence": "60"
+    },
+    {
+      "name": "Raisin bread (partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Butter, partially melted",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

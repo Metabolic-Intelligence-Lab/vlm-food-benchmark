@@ -1,0 +1,36 @@
+[
+  {
+    "food_items": [
+      {
+        "name": "oatmeal cookie with sesame seeds and lemon wedge",
+        "portion_estimate": "50 grams (each)",
+        "confidence": 80
+      },
+      {
+        "name": "packaged flavored yogurt (e.g., strawberry or similar) - single serving",
+        "portion_estimate": "125 grams",
+        "confidence": 95
+      },
+      {
+        "name": "baby carrots (small)",
+        "portion_estimate": "100 grams (approx. 1 small cup)",
+        "confidence": 85
+      },
+      {
+        "name": "pumpkin seeds (pepitas) in bowl",
+        "portion_estimate": "60 grams",
+        "confidence": 75
+      },
+      {
+        "name": "green apple",
+        "portion_estimate": "180 grams (medium-sized apple)",
+        "confidence": 90
+      },
+      {
+        "name": "bread or bread roll (packaged)",
+        "portion_estimate": "uncertain (likely ~50-80 grams)",
+        "confidence": 40
+      }
+    ]
+  }
+]

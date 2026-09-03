@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green peppers (vegetables)",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "cooked sausage/meat",
+      "portion_estimate": "70 g",
+      "confidence": 98
+    },
+    {
+      "name": "sauce/broth",
+      "portion_estimate": "80 g",
+      "confidence": 85
+    }
+  ]
+}

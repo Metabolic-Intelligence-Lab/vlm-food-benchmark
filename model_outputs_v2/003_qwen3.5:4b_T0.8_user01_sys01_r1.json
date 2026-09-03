@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken breast (stuffed with spinach)",
+      "portion_estimate": 180,
+      "confidence": 85
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": 90,
+      "confidence": 90
+    },
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": 140,
+      "confidence": 85
+    },
+    {
+      "name": "pita bread (bun)",
+      "portion_estimate": 70,
+      "confidence": 90
+    }
+  ]
+}

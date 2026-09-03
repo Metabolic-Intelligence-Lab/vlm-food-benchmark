@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt cup",
+      "portion_estimate": "20 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Chickpea soup",
+      "portion_estimate": "300 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Fried item (cutlet)",
+      "portion_estimate": "50 grams",
+      "confidence": 95
+    }
+  ]
+}

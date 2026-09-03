@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken and vegetable soup",
+      "portion_estimate": "400",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "fried mozzarella sticks",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "fried potatoes",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "yogurt with berries",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

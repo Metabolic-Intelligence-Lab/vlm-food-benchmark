@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "approximately 100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "approximately 50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Egg omelette with vegetables",
+      "portion_estimate": "approximately 120g",
+      "confidence": "60"
+    }
+  ]
+}

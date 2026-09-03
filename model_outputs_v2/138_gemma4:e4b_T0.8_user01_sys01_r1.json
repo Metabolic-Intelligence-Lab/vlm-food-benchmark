@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed cooked rice dish (e.g., fried rice or pilaf)",
+      "portion_estimate": "300-350 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "Cooked leafy green vegetables (e.g., spinach)",
+      "portion_estimate": "80-100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Peanuts or chopped nuts",
+      "portion_estimate": "30-50 grams",
+      "confidence": "85"
+    }
+  ]
+}

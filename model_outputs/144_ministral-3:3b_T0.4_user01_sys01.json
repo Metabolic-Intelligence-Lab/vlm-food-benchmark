@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat sandwich bread",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "penne pasta with cheese",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "chicken and vegetable hash with cheese sauce",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "plain bagged salad (green leafy greens)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "apple (whole)",
+      "portion_estimate": "150g",
+      "confidence": 95
+    }
+  ]
+}

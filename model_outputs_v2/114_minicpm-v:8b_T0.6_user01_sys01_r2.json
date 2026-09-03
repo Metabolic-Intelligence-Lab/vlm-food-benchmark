@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "french fries",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta with tomato sauce and parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "chicken cutlet (breaded)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "potato wedges",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "breaded sandwich (possibly eggplant or chicken)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

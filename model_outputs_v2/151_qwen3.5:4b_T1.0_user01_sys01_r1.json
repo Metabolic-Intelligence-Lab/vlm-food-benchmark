@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Brussels sprouts and carrots (saut\u00e9ed vegetables)",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "Egg omelette (orange/yellow color, possibly with peppers or other veggies)",
+      "portion_estimate": "80",
+      "confidence": "90"
+    },
+    {
+      "name": "Penne pasta with mushrooms and grated cheese",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "Sliced white bread (approx. 1-2 slices)",
+      "portion_estimate": "30",
+      "confidence": "90"
+    },
+    {
+      "name": "Plums or similar dark fruit",
+      "portion_estimate": "50",
+      "confidence": "85"
+    }
+  ]
+}

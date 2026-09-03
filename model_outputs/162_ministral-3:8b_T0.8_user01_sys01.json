@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli florets with potatoes",
+      "portion_estimate": "200 grams (broccoli + potatoes combined)",
+      "confidence": 75
+    },
+    {
+      "name": "fried egg (whole)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "creamy soup (likely tomato or vegetable-based)",
+      "portion_estimate": "250 grams",
+      "confidence": 70
+    },
+    {
+      "name": "breaded and fried potato chunks (possibly hash browns or croquette)",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "peeled lemon wedge",
+      "portion_estimate": "30 grams",
+      "confidence": 70
+    }
+  ]
+}

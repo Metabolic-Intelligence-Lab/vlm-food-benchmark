@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken with curry powder",
+      "portion_estimate": "uncertain, approx. 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. 45-70g",
+      "confidence": "60"
+    },
+    {
+      "name": "Curry chicken soup",
+      "portion_estimate": "uncertain, approx. 180-230g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried breaded meat (likely fish)",
+      "portion_estimate": "uncertain, approx. 75-95g",
+      "confidence": "60"
+    }
+  ]
+}

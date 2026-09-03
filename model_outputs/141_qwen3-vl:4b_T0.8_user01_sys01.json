@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole wheat bread",
+      "portion_estimate": "30 g",
+      "confidence": 100
+    },
+    {
+      "name": "Cooked broccoli",
+      "portion_estimate": "150 g",
+      "confidence": 100
+    },
+    {
+      "name": "Cod fillet",
+      "portion_estimate": "100 g",
+      "confidence": 100
+    },
+    {
+      "name": "Canned chickpeas",
+      "portion_estimate": "150 g",
+      "confidence": 100
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "150 g",
+      "confidence": 100
+    }
+  ]
+}

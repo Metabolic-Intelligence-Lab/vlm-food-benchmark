@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "300",
+      "confidence": "75"
+    },
+    {
+      "name": "grated cheese",
+      "portion_estimate": "10",
+      "confidence": "80"
+    },
+    {
+      "name": "corn cake with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "white rice",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

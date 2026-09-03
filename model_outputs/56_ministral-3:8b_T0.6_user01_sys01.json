@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled breadstick (breadstick)",
+      "portion_estimate": "60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetable medley with chicken (mushrooms, carrots, green beans, corn, and possibly other veggies)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pasta (rotini or similar) with red sauce and herbs",
+      "portion_estimate": "120 grams (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "garlic bread or bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "water (clear beverage in glass)",
+      "portion_estimate": "uncertain (glass appears half-full, ~150-200ml)",
+      "confidence": 60
+    }
+  ]
+}

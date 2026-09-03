@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

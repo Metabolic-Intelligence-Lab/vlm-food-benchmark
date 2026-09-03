@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Curry or soup in white bowl",
+      "portion_estimate": "350",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried doughnut or bread item",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "Saut\u00e9ed dark leafy greens",
+      "portion_estimate": "80",
+      "confidence": "70"
+    },
+    {
+      "name": "Purple dipping sauce or topping",
+      "portion_estimate": "15",
+      "confidence": "80"
+    },
+    {
+      "name": "Small orange fruit or vegetable",
+      "portion_estimate": "30",
+      "confidence": "75"
+    },
+    {
+      "name": "Starch side (bread or rice)",
+      "portion_estimate": "100",
+      "confidence": "55"
+    }
+  ]
+}

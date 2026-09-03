@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked green beans (whole)",
+      "portion_estimate": "180 grams",
+      "confidence": 85
+    },
+    {
+      "name": "chicken or meatball (browned patty)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pasta with grated cheese (penne/trotti with cheese topping)",
+      "portion_estimate": "250 grams (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "water chestnut fries or fried tofu chunks (in packaging)",
+      "portion_estimate": "100 grams",
+      "confidence": 60
+    },
+    {
+      "name": "packaged bread roll (in plastic bag)",
+      "portion_estimate": "60 grams",
+      "confidence": 70
+    },
+    {
+      "name": "seedless watermelon wedge",
+      "portion_estimate": "200 grams",
+      "confidence": 90
+    }
+  ]
+}

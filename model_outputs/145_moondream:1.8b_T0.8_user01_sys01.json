@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes and peas in gravy",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "soup (likely salad served inside breadcrumbs)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

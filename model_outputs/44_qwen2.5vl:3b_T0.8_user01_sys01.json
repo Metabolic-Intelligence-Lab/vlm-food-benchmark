@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "bagel",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "tomato",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "mozzarella",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "dried herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "10"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": "10"
+    }
+  ]
+}

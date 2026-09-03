@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rigatoni pasta",
+      "portion_estimate": "120 g",
+      "confidence": "78"
+    },
+    {
+      "name": "tuna (canned, drained pieces)",
+      "portion_estimate": "45 g",
+      "confidence": "70"
+    },
+    {
+      "name": "black olives (whole/pitted)",
+      "portion_estimate": "20 g",
+      "confidence": "75"
+    },
+    {
+      "name": "tomato pieces",
+      "portion_estimate": "35 g",
+      "confidence": "72"
+    },
+    {
+      "name": "fresh mozzarella (small pieces/pearls)",
+      "portion_estimate": "55 g",
+      "confidence": "62"
+    }
+  ]
+}

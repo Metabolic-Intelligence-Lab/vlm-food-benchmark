@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "noodles, beans, and meat",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "vegetables (green beans)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

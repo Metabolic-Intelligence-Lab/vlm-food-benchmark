@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with cream sauce and parmesan",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "Red meat meatballs in red tomato sauce",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "Mixed green salad with radicchio and dressing",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Whole grain sandwich bun",
+      "portion_estimate": "60g",
+      "confidence": 80
+    },
+    {
+      "name": "Purple grapes (approximately 10-12)",
+      "portion_estimate": "60g",
+      "confidence": 90
+    }
+  ]
+}

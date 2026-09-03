@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "fried breaded food (likely chicken tender)",
+      "portion_estimate": "150-200g",
+      "confidence": 95
+    },
+    {
+      "name": "plain white rice",
+      "portion_estimate": "120-150g",
+      "confidence": 85
+    },
+    {
+      "name": "sweet potato or baked yam chunks",
+      "portion_estimate": "100-130g",
+      "confidence": 80
+    },
+    {
+      "name": "diced carrots",
+      "portion_estimate": "30-50g",
+      "confidence": 75
+    },
+    {
+      "name": "plain bag of bread or bun (possibly French toast bun)",
+      "portion_estimate": "50-80g",
+      "confidence": 85
+    },
+    {
+      "name": "red beetroot or carrot strips in plastic wrap (uncertain exact quantity)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "red sauce or dipping sauce (in small container)",
+      "portion_estimate": "uncertain (small serving)",
+      "confidence": 80
+    },
+    {
+      "name": "glass of water (volume estimate)",
+      "portion_estimate": "uncertain (appears to be ~200ml)",
+      "confidence": 60
+    }
+  ]
+}

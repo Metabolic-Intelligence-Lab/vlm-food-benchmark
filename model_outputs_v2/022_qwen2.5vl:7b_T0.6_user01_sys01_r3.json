@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed vegetables (green beans, carrots, and possibly parsnips)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Roasted sweet potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Quinoa or couscous with vegetables",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "60 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Yogurt or similar dairy product",
+      "portion_estimate": "40 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": "200 milliliters",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked meat, possibly chicken",
+      "portion_estimate": "50-70 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Roasted vegetables (possibly potatoes)",
+      "portion_estimate": "150-200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Steamed broccoli",
+      "portion_estimate": "70-100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked carrots",
+      "portion_estimate": "50-70 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed sweet potato",
+      "portion_estimate": "70-100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "50-70 grams",
+      "confidence": "70"
+    }
+  ]
+}

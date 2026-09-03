@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "quinoa and pumpkin seed salad",
+      "portion_estimate": 200,
+      "confidence": 90
+    },
+    {
+      "name": "boiled carrot pieces (about 10-12 pieces)",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "whole apple (red variety)",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "whole wheat bread or cracker (single piece, partially visible)",
+      "portion_estimate": 30,
+      "confidence": 80
+    },
+    {
+      "name": "yogurt or dessert item with orange slices (partially visible, on plate)",
+      "portion_estimate": 80,
+      "confidence": 75
+    },
+    {
+      "name": "yogurt or topping container (Tomato brand, partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "small sealed packaged item (possibly granola or muesli)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

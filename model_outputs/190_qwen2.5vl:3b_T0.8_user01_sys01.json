@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "crispy breaded meat",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "50 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    }
+  ]
+}

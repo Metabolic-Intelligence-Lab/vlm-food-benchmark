@@ -1,0 +1,32 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll (bun)",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt dip (50g)",
+      "portion_estimate": "50g",
+      "confidence": 90
+    },
+    {
+      "name": "baked item (likely a baked potato)",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "vegetable salad (diced potatoes and cucumbers)",
+      "portion_estimate": "100g",
+      "confidence": 90
+    }
+  ],
+  "beverage_item": "water (in glass)",
+  "beverage_portion_estimate": "approx. 200ml",
+  "beverage_confidence": 70
+}

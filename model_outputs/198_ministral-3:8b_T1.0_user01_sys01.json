@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "whole roasted orange or sweet potato (likely carrot in bag)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "white rice",
+      "portion_estimate": "200 grams (1 cup cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "diced chicken or tofu (possibly chicken) with sauce/dressing",
+      "portion_estimate": "180 grams (based on visual size comparison to other items)",
+      "confidence": 80
+    },
+    {
+      "name": "diced artichoke hearts or hearts of palm (possibly artichokes)",
+      "portion_estimate": "100 grams (small portion)",
+      "confidence": 80
+    },
+    {
+      "name": "block of cheese (type uncertain, e.g., cheddar)",
+      "portion_estimate": "200 grams (standard cube)",
+      "confidence": 75
+    },
+    {
+      "name": "garlic cloves (two visible)",
+      "portion_estimate": "uncertain (not enough reference for precise estimation)",
+      "confidence": 40
+    },
+    {
+      "name": "mayonnaise or sour cream container (condiment, not consumed in visible form)",
+      "portion_estimate": "uncertain",
+      "confidence": 10
+    }
+  ]
+}

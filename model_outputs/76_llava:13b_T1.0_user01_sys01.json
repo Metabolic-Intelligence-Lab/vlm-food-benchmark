@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked Rice",
+      "portion_estimate": "100-200 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Mixed Vegetables (including bell peppers)",
+      "portion_estimate": "50-100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Chicken (cooked)",
+      "portion_estimate": "75-150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread rolls with a savory filling (possibly containing tomato, cheese, or meat)",
+      "portion_estimate": "30-50 grams",
+      "confidence": "40"
+    }
+  ]
+}

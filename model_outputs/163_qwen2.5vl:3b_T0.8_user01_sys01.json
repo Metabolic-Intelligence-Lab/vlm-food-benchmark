@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green soup",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "grilled meat with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "cucumber salad",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "wrap with tomato slices",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

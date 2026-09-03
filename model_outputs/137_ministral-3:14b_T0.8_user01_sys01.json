@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "shell-shaped pasta (likely macaroni or jumbo shells)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "cheese sauce (white and creamy texture)",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "tomato sauce (visible red sauce patches)",
+      "portion_estimate": "50",
+      "confidence": 75
+    },
+    {
+      "name": "shredded or grated cheese (visible on top)",
+      "portion_estimate": "15",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "mixed rice with beans and leafy greens",
+      "portion_estimate": "approximately 180 grams",
+      "confidence": 95
+    },
+    {
+      "name": "white beans or lentils",
+      "portion_estimate": "approximately 60 grams",
+      "confidence": 75
+    },
+    {
+      "name": "leafy greens (like spinach or herbs)",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": 80
+    }
+  ]
+}

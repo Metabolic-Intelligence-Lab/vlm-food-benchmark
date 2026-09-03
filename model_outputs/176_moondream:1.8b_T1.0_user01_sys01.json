@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "curry",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "rice or pasta dishes",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread slices",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "30g",
+      "confidence": "80"
+    },
+    {
+      "name": "fish fillet",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "chickpeas with cheese",
+      "portion_estimate": "60g",
+      "confidence": "60"
+    },
+    {
+      "name": "green salad",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt with fruit",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    }
+  ]
+}

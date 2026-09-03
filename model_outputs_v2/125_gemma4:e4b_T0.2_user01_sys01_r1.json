@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Brown dipping sauce",
+      "portion_estimate": "60g",
+      "confidence": "90"
+    },
+    {
+      "name": "Thick curry or stew",
+      "portion_estimate": "220g",
+      "confidence": "85"
+    },
+    {
+      "name": "Small berry-topped pastry or fritter",
+      "portion_estimate": "90g",
+      "confidence": "80"
+    },
+    {
+      "name": "Yellowish dip or spread",
+      "portion_estimate": "35g",
+      "confidence": "75"
+    },
+    {
+      "name": "Water or clear beverage",
+      "portion_estimate": "250g",
+      "confidence": "85"
+    }
+  ]
+}

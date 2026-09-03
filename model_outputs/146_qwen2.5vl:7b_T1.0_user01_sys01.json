@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with creamy sauce and grated cheese",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "baked or grilled bread",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "2",
+      "confidence": "60"
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "package of cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

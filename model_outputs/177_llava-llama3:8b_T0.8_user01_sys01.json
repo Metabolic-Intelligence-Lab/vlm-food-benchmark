@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "savory dish with gold-colored food",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "assortment of fruits and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sauces and condiments",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

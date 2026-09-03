@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    },
+    {
+      "name": "shredded cabbage",
+      "portion_estimate": "30 grams",
+      "confidence": 70
+    },
+    {
+      "name": "chunks of meat (likely ground beef or sausage)",
+      "portion_estimate": "40 grams",
+      "confidence": 85
+    },
+    {
+      "name": "green beans (or possibly peas)",
+      "portion_estimate": "20 grams",
+      "confidence": 75
+    }
+  ]
+}

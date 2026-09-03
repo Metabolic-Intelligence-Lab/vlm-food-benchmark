@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot and cucumber salad with mixed greens",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed kale",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "quiche or savory pie slice with cheese and sauce",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "whole-grain or seeded roll/bun",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "red plums (2 small)",
+      "portion_estimate": "100",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup/stew (leafy greens-based)",
+      "portion_estimate": "450 g",
+      "confidence": "70"
+    },
+    {
+      "name": "round grain patty/cake (possibly bulgur/lentil-based) with red sauce",
+      "portion_estimate": "110 g",
+      "confidence": "55"
+    },
+    {
+      "name": "cooked leafy greens/vegetable side dish",
+      "portion_estimate": "90 g",
+      "confidence": "65"
+    },
+    {
+      "name": "packaged bread roll (small)",
+      "portion_estimate": "50 g",
+      "confidence": "60"
+    },
+    {
+      "name": "plain yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "75"
+    }
+  ]
+}

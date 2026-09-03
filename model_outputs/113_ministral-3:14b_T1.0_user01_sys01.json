@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "grilled or roasted pork chop",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "steamed brussels sprouts",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "roasted carrot slices",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potato or breaded hash brown with caramelized edges",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "creamy beef or mushroom stew with grated cheese topping",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "rolled sandwich bun or dinner roll",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "red plum (fresh, whole)",
+      "portion_estimate": "50",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Two small dark roasted vegetables or fruit",
+      "portion_estimate": "60g",
+      "confidence": "75"
+    },
+    {
+      "name": "Small whole green vegetables (e.g., olives or miniature gourds)",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried breaded fillet (likely fish or chicken)",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Wilted dark leafy greens (e.g., spinach or kale)",
+      "portion_estimate": "130g",
+      "confidence": "90"
+    }
+  ]
+}

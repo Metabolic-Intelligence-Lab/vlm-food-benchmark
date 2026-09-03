@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Baked chicken breast with saut\u00e9ed spinach and tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Roasted potatoes or sweet potatoes (unclear)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Salad with mixed greens, carrots, and possibly other vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll (unclear)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Cheese salad with red grapes and greens, possibly walnuts or almonds",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

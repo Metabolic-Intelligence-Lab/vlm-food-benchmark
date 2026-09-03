@@ -1,0 +1,26 @@
+{
+  "food_items": [
+    {
+      "name": "peas and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "carrot soup with milk powder",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "yoghurt",
+      "portion_estimate": "175g",
+      "confidence": "95"
+    },
+    {
+      "name": "white bread",
+      "portion_estimate": "uncertain, estimated at a slice which is about 30-40g each.",
+      "confidence": "65"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Whole wheat bread roll",
+      "portion_estimate": "uncertain, approximately a standard size for such rolls which ranges from around 100-250g",
+      "confidence": "40"
+    },
+    {
+      "name": "Penne pasta with tomato sauce and parmesan cheese",
+      "portion_estimate": "approx. 3 oz or about 85g per serving, multiplied by the portion size visible in image (assuming standard plate dimensions)",
+      "confidence": "70"
+    },
+    {
+      "name": "Sliced baked sweet potato topped with tomato sauce and parmesan cheese",
+      "portion_estimate": "approx. a medium-sized wedge which typically weighs around 150-200g, multiplied by the portion size visible in image (assuming standard plate dimensions)",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed vegetables including zucchini and cauliflower",
+      "portion_estimate": "approx. a medium-sized serving which typically weighs around 150-200g, multiplied by the portion size visible in image (assuming standard plate dimensions)",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt with honey flavoring",
+      "portion_estimate": "approx. a small container of yogurt which typically weighs around 150-200g, multiplied by the portion size visible in image (assuming standard cup dimensions)",
+      "confidence": "70"
+    },
+    {
+      "name": "Bottle with green label and cap",
+      "portion_estimate": "uncertain as it appears to be a drink container. Assuming an average bottle of water or similar beverage weighs around 500g, the visible portion would represent less than half.",
+      "confidence": "30"
+    }
+  ]
+}

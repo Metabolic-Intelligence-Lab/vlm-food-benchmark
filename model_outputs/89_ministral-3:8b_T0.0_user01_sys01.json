@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked chickpeas (garbanzo beans)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "plain cooked rice with olive oil drizzle",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "feta cheese (cubed)",
+      "portion_estimate": "30 grams",
+      "confidence": 75
+    },
+    {
+      "name": "whole roasted onion",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole pear",
+      "portion_estimate": "180 grams",
+      "confidence": 90
+    }
+  ]
+}

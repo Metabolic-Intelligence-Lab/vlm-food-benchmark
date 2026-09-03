@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "20 grams",
+      "confidence": 95
+    },
+    {
+      "name": "cooked rice",
+      "portion_estimate": "300 grams",
+      "confidence": 95
+    },
+    {
+      "name": "roasted vegetables or meat",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "fish or cooked meat",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "dairy product (yogurt)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with tomato sauce and diced vegetables",
+      "portion_estimate": "220",
+      "confidence": 75
+    },
+    {
+      "name": "baked/grilled white fish fillet",
+      "portion_estimate": "120",
+      "confidence": 65
+    },
+    {
+      "name": "roasted Brussels sprouts",
+      "portion_estimate": "90",
+      "confidence": 70
+    },
+    {
+      "name": "roasted diced pumpkin or squash",
+      "portion_estimate": "60",
+      "confidence": 55
+    },
+    {
+      "name": "sauteed leafy greens (side to fish)",
+      "portion_estimate": "20",
+      "confidence": 50
+    },
+    {
+      "name": "fruit yogurt cup (YOMO, mixed berries flavor)",
+      "portion_estimate": "125",
+      "confidence": 80
+    },
+    {
+      "name": "small cup of granulated sugar or salt",
+      "portion_estimate": "10",
+      "confidence": 40
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": 75
+    }
+  ]
+}

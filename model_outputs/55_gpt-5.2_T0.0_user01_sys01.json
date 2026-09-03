@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "breaded cutlet (likely chicken or turkey)",
+      "portion_estimate": "140 g",
+      "confidence": "68"
+    },
+    {
+      "name": "mixed vegetables (diced potatoes, carrots, peas, and mushrooms)",
+      "portion_estimate": "170 g",
+      "confidence": "74"
+    },
+    {
+      "name": "cooked spinach (or similar leafy greens)",
+      "portion_estimate": "140 g",
+      "confidence": "72"
+    },
+    {
+      "name": "water (in cup)",
+      "portion_estimate": "200 g",
+      "confidence": "83"
+    }
+  ]
+}

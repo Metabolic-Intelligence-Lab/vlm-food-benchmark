@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked spaghetti (plain/lightly oiled)",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "bread roll (bun) in plastic wrap",
+      "portion_estimate": "60 g",
+      "confidence": "72"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "170 g",
+      "confidence": "76"
+    },
+    {
+      "name": "slice of pizza/tart with diced yellow fruit topping (possibly mango/pineapple)",
+      "portion_estimate": "150 g",
+      "confidence": "55"
+    },
+    {
+      "name": "shredded cabbage/carrot salad (lightly dressed)",
+      "portion_estimate": "90 g",
+      "confidence": "58"
+    },
+    {
+      "name": "packaged sliced cheese (2 slices)",
+      "portion_estimate": "40 g",
+      "confidence": "74"
+    }
+  ]
+}

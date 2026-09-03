@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with vegetables",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "mixed salad",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "50",
+      "confidence": 60
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": 60
+    },
+    {
+      "name": "YOMO foodster rice",
+      "portion_estimate": "30",
+      "confidence": 60
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200",
+      "confidence": 80
+    }
+  ]
+}

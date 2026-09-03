@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "tomato slices",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "cucumber slices",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "shredded cabbage",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "30",
+      "confidence": "90"
+    },
+    {
+      "name": "shredded red cabbage",
+      "portion_estimate": "30",
+      "confidence": "90"
+    },
+    {
+      "name": "lettuce leaves",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "orange zest",
+      "portion_estimate": "1",
+      "confidence": "90"
+    },
+    {
+      "name": "sesame seeds",
+      "portion_estimate": "5",
+      "confidence": "80"
+    }
+  ]
+}

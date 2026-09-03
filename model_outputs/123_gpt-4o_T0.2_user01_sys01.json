@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowtie pasta with grated cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "omelette",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "80 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

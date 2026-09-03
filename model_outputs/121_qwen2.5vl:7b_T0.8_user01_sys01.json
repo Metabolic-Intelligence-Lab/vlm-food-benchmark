@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Parmesan",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Waffle",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Whole Grain Bread",
+      "portion_estimate": "50",
+      "confidence": "80"
+    }
+  ]
+}

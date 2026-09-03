@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Packaged bread",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Peaches",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Fruit tart",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Pineapple chunks",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Yellow squash",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Yellow cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    }
+  ]
+}

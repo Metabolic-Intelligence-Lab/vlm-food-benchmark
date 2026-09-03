@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "200g",
+      "confidence": 75
+    },
+    {
+      "name": "green beans (steamed)",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "egg frittata or quiche",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "whole wheat roll or bun",
+      "portion_estimate": "uncertain (appears standard-sized, ~50-60g)",
+      "confidence": 65
+    },
+    {
+      "name": "water in a cup (plain)",
+      "portion_estimate": "uncertain (no visible measurement, ~250ml)",
+      "confidence": 60
+    }
+  ]
+}

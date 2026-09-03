@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spiral macaroni pasta",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "spinach leafs or greens",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "apricots (2)",
+      "portion_estimate": "each: uncertain weight,approx. 45g per fruit",
+      "confidence": "70"
+    },
+    {
+      "name": "baked bun",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60"
+    },
+    {
+      "name": "fish fillet with lemon zest topping (1) - not identified specifically as a type of fish or seafood but the most plausible is sea bass",
+      "portion_estimate": "uncertain, approx. 25g",
+      "confidence": "70"
+    }
+  ]
+}

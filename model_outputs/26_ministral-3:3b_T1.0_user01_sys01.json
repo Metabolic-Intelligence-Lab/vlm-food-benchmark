@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "golden fried potato wedges",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "roasted diced root vegetables (likely carrots or parsnips)",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "fried golden corn fritters",
+      "portion_estimate": "40",
+      "confidence": 80
+    },
+    {
+      "name": "collard greens or kale",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "orange nectarines",
+      "portion_estimate": "30",
+      "confidence": 85
+    },
+    {
+      "name": "plain glass of water",
+      "portion_estimate": "uncertain (250ml typically)",
+      "confidence": 90
+    },
+    {
+      "name": "white baguette or crusty bread roll",
+      "portion_estimate": "150",
+      "confidence": 90
+    }
+  ]
+}

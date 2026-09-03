@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "boiled white rice with grated cheese and olive oil drizzle",
+      "portion_estimate": "220",
+      "confidence": 75
+    },
+    {
+      "name": "boiled carrots and diced potatoes",
+      "portion_estimate": "200",
+      "confidence": 75
+    },
+    {
+      "name": "boiled chicken breast strips with cooked spinach, diced potatoes and carrot slices",
+      "portion_estimate": "140",
+      "confidence": 65
+    },
+    {
+      "name": "bread roll (panino)",
+      "portion_estimate": "70",
+      "confidence": 80
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "130",
+      "confidence": 85
+    }
+  ]
+}

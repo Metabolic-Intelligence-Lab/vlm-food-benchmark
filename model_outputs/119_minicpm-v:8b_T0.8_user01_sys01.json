@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish with tomatoes and cheese",
+      "portion_estimate": "uncertain, approx 200g-300g",
+      "confidence": "65"
+    },
+    {
+      "name": "Whole grain bread in plastic wrap",
+      "portion_estimate": "uncertain, approx 1 slice (45g)",
+      "confidence": "70"
+    },
+    {
+      "name": "Milk product wrapped with label 'Baba ghiava - Traditional Georgian dessert'",
+      "portion_estimate": "uncertain, possibly a few ounces",
+      "confidence": "60"
+    }
+  ]
+}

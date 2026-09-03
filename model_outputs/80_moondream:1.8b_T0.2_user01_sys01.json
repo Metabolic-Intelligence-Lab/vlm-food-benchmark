@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "rice, potatoes, and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "egg",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "yellow or orange liquid",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

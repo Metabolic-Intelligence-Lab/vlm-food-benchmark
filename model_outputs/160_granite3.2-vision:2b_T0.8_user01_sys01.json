@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "croissant",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "salad with mixed greens, cucumbers, and lemon/lime",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pickled vegetables (possibly mustard greens)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

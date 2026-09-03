@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Boiled egg",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread bun",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Chickpea curry with spices",
+      "portion_estimate": "uncertain",
+      "confidence": "65"
+    },
+    {
+      "name": "Fried chicken leg",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "White bread roll on a plate, partially wrapped in clear plastic",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt with red lid and white label (contains 'curd')",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

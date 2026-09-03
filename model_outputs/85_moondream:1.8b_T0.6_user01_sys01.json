@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "egg and cheese casserole",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meatballs and spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwich with bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

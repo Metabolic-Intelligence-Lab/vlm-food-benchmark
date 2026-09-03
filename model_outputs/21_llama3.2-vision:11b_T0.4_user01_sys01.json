@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Fish",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Brussels Sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

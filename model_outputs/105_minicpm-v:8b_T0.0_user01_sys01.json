@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed salad greens",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "White meat (possibly chicken)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Red cabbage slices",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

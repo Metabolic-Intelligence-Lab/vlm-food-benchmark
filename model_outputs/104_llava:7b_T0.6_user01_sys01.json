@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Peas",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread with cheese on top",
+      "portion_estimate": "1 slice (approx. 30 grams)",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    }
+  ]
+}

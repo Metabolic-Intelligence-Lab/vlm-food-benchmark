@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta",
+      "portion_estimate": "180g",
+      "confidence": "100"
+    },
+    {
+      "name": "Fried Egg",
+      "portion_estimate": "50g",
+      "confidence": "100"
+    },
+    {
+      "name": "Hashbrown",
+      "portion_estimate": "150g",
+      "confidence": "100"
+    },
+    {
+      "name": "Chopped Cucumbers",
+      "portion_estimate": "50g",
+      "confidence": "100"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "500ml",
+      "confidence": "100"
+    }
+  ]
+}

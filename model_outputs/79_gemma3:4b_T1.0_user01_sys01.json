@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Cheese danish",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "Cheese and bread roll",
+      "portion_estimate": "70g",
+      "confidence": 65
+    },
+    {
+      "name": "Cherry Tomato",
+      "portion_estimate": "10g",
+      "confidence": 50
+    }
+  ]
+}

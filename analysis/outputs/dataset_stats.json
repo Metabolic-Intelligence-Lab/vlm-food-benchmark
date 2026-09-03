@@ -1,0 +1,131 @@
+{
+  "n_images": 200,
+  "n_instances": 870,
+  "n_unique_food_names": 314,
+  "items_per_image": {
+    "count": 200.0,
+    "mean": 4.35,
+    "std": 1.71,
+    "min": 1.0,
+    "25%": 4.0,
+    "50%": 5.0,
+    "75%": 5.0,
+    "max": 7.0
+  },
+  "instances_per_category": {
+    "bread": 160,
+    "pasta_rice_grains": 116,
+    "vegetables": 97,
+    "meat_protein": 93,
+    "fruit": 86,
+    "dessert_yogurt": 66,
+    "beverage": 59,
+    "potatoes": 41,
+    "soup": 38,
+    "legumes": 36,
+    "cheese_dairy": 34,
+    "other": 29,
+    "fish": 15
+  },
+  "gt_weight_by_category": {
+    "beverage": {
+      "count": 59,
+      "median": 330.0,
+      "mean": 294.4,
+      "std": 63.1,
+      "cv": 0.2
+    },
+    "bread": {
+      "count": 160,
+      "median": 57.5,
+      "mean": 62.2,
+      "std": 28.8,
+      "cv": 0.5
+    },
+    "cheese_dairy": {
+      "count": 34,
+      "median": 128.0,
+      "mean": 133.9,
+      "std": 40.1,
+      "cv": 0.3
+    },
+    "dessert_yogurt": {
+      "count": 66,
+      "median": 125.0,
+      "mean": 123.9,
+      "std": 13.6,
+      "cv": 0.1
+    },
+    "fish": {
+      "count": 15,
+      "median": 112.0,
+      "mean": 132.8,
+      "std": 68.1,
+      "cv": 0.5
+    },
+    "fruit": {
+      "count": 86,
+      "median": 150.0,
+      "mean": 153.4,
+      "std": 35.1,
+      "cv": 0.2
+    },
+    "legumes": {
+      "count": 36,
+      "median": 129.5,
+      "mean": 135.5,
+      "std": 44.0,
+      "cv": 0.3
+    },
+    "meat_protein": {
+      "count": 93,
+      "median": 124.0,
+      "mean": 129.0,
+      "std": 41.4,
+      "cv": 0.3
+    },
+    "other": {
+      "count": 29,
+      "median": 131.0,
+      "mean": 137.8,
+      "std": 57.4,
+      "cv": 0.4
+    },
+    "pasta_rice_grains": {
+      "count": 116,
+      "median": 213.0,
+      "mean": 236.3,
+      "std": 114.0,
+      "cv": 0.5
+    },
+    "potatoes": {
+      "count": 41,
+      "median": 120.0,
+      "mean": 134.1,
+      "std": 46.5,
+      "cv": 0.3
+    },
+    "soup": {
+      "count": 38,
+      "median": 241.5,
+      "mean": 262.4,
+      "std": 74.5,
+      "cv": 0.3
+    },
+    "vegetables": {
+      "count": 97,
+      "median": 129.0,
+      "mean": 135.3,
+      "std": 40.5,
+      "cv": 0.3
+    }
+  },
+  "images_per_annotator": {
+    "participant_1": 48,
+    "participant_2": 28,
+    "participant_3": 34,
+    "participant_4": 22,
+    "participant_5": 8,
+    "participant_6": 60
+  }
+}

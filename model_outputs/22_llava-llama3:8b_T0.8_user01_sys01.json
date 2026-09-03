@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "black beans",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "yellow rice and green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "white meat and orange carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "red cup filled with a blue liquid",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "clear glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

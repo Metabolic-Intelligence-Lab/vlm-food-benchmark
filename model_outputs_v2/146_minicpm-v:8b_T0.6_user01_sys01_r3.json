@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain weight, approx. slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "macaroni and cheese (pasta)",
+      "portion_estimate": "2-3 servings based on portion size",
+      "confidence": "80"
+    },
+    {
+      "name": "crouton",
+      "portion_estimate": "uncertain weight, approx. cracker size",
+      "confidence": "50"
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "uncertain weight based on portion visible in image",
+      "confidence": "60"
+    },
+    {
+      "name": "crispy round snack with olives",
+      "portion_estimate": "uncertain weight, approx. cracker size",
+      "confidence": "50"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "uncertain weight based on portion visible in image",
+      "confidence": "60"
+    }
+  ]
+}

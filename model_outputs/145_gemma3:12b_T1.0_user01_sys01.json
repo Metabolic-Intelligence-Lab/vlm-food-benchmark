@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "oatmeal with brown sugar",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "spinach and cheese quiche slice",
+      "portion_estimate": "100",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fruit-flavored juice box (200ml)",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "Wrapped cake slice",
+      "portion_estimate": "30",
+      "confidence": 85
+    },
+    {
+      "name": "Unwrapped cake slice",
+      "portion_estimate": "30",
+      "confidence": 85
+    }
+  ]
+}

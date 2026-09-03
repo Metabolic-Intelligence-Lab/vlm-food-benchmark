@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with tomato-based sauce",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Vegetable medley (peas, carrots, potatoes) on a round base topped with tomato slice and grated cheese",
+      "portion_estimate": 220,
+      "confidence": 85
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": 180,
+      "confidence": 98
+    },
+    {
+      "name": "Bread roll (in plastic packaging)",
+      "portion_estimate": 60,
+      "confidence": 90
+    },
+    {
+      "name": "Water",
+      "portion_estimate": 250,
+      "confidence": 95
+    }
+  ]
+}

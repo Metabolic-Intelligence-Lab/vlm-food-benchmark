@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato and meat sauce (approx. whole plate)",
+      "portion_estimate": "350-400g (including sauce and plate)",
+      "confidence": 75
+    },
+    {
+      "name": "grilled meat sandwich (likely chicken or veal) with bread",
+      "portion_estimate": "120-150g (meat + 40-50g bread)",
+      "confidence": 70
+    },
+    {
+      "name": "roasted green beans with garlic/herbs",
+      "portion_estimate": "150-180g",
+      "confidence": 75
+    },
+    {
+      "name": "small whole baked potato or sweet potato",
+      "portion_estimate": "150-200g (peeled)",
+      "confidence": 70
+    },
+    {
+      "name": "diced tomato (on the side, separate dish)",
+      "portion_estimate": "50-80g",
+      "confidence": 60
+    }
+  ]
+}

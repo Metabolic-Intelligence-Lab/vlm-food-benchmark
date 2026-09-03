@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cream soup with chunky vegetables",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "120 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Rice and vegetables with a protein source",
+      "portion_estimate": "400 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Salad (possibly cucumber, onion, tomato)",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Dip with crackers and a small portion of vegetables",
+      "portion_estimate": "30 grams",
+      "confidence": "50"
+    }
+  ]
+}

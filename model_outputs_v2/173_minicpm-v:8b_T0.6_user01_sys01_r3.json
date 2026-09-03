@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain weight, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "boiled eggs",
+      "portion_estimate": "uncertain weight, approx. each egg is around 60g",
+      "confidence": "70"
+    },
+    {
+      "name": "whole grain bread",
+      "portion_estimate": "uncertain weight, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta with cheese sauce",
+      "portion_estimate": "uncertain weight, approx. 120g",
+      "confidence": "60"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain weight, approx.",
+      "confidence": "50"
+    }
+  ]
+}

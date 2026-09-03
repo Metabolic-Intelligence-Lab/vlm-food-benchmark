@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked Green Beans",
+      "portion_estimate": "100 g",
+      "confidence": 80
+    },
+    {
+      "name": "Rice Balls",
+      "portion_estimate": "60 g (total for two balls)",
+      "confidence": 70
+    },
+    {
+      "name": "Penne Pasta with Sauce",
+      "portion_estimate": "100 g",
+      "confidence": 80
+    },
+    {
+      "name": "Sliced Bread",
+      "portion_estimate": "35 g",
+      "confidence": 70
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "150 g",
+      "confidence": 90
+    }
+  ]
+}

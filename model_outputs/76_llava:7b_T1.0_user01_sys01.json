@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta salad",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fruits",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread loaf",
+      "portion_estimate": "100 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Mushrooms and rice",
+      "portion_estimate": "150 g",
+      "confidence": "90"
+    },
+    {
+      "name": "Peppers and tomatoes",
+      "portion_estimate": "80 g",
+      "confidence": "70"
+    }
+  ]
+}

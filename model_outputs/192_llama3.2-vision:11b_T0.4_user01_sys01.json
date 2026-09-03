@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded and fried cutlet",
+      "portion_estimate": "100-150g",
+      "confidence": 95
+    },
+    {
+      "name": "Cooked spinach",
+      "portion_estimate": "20-30g",
+      "confidence": 90
+    },
+    {
+      "name": "Rigatoni pasta in tomato sauce",
+      "portion_estimate": "100-150g",
+      "confidence": 95
+    }
+  ]
+}

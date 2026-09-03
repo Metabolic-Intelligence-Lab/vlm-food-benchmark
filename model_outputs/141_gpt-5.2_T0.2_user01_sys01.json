@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked broccoli florets",
+      "portion_estimate": "120 g",
+      "confidence": "78"
+    },
+    {
+      "name": "white fish fillet (cooked, likely cod/pollock) with herbs",
+      "portion_estimate": "140 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked chickpeas",
+      "portion_estimate": "180 g",
+      "confidence": "82"
+    },
+    {
+      "name": "slice of whole grain bread",
+      "portion_estimate": "40 g",
+      "confidence": "75"
+    },
+    {
+      "name": "fruit yogurt cup (strawberry/fruit flavor)",
+      "portion_estimate": "125 g",
+      "confidence": "68"
+    },
+    {
+      "name": "pale yellow cheese slice (likely gouda/edam style) in packaging",
+      "portion_estimate": "25 g",
+      "confidence": "62"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "crispy fried food",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "150",
+      "confidence": 80
+    }
+  ]
+}

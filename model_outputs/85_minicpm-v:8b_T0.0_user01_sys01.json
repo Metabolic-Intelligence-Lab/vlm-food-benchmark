@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spinach",
+      "portion_estimate": "uncertain, approx. 100g",
+      "confidence": "50"
+    },
+    {
+      "name": "Quiche or fritters (2 pieces)",
+      "portion_estimate": "uncertain, approx. 80-90g each",
+      "confidence": "60"
+    },
+    {
+      "name": "Soup with grated cheese on top",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": "approx. 80-90g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll (wrapped)",
+      "portion_estimate": "uncertain, approx. 50g",
+      "confidence": "40"
+    }
+  ]
+}

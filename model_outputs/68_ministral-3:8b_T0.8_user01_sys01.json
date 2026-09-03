@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta shells (likely penne or rigatoni)",
+      "portion_estimate": "150 grams (uncertain)",
+      "confidence": 65
+    },
+    {
+      "name": "diced tomatoes",
+      "portion_estimate": "100 grams (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "shredded cheese (likely mozzarella or cheddar)",
+      "portion_estimate": "70 grams (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "diced cooked ham or prosciutto",
+      "portion_estimate": "60 grams (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "carrots (diced)",
+      "portion_estimate": "50 grams (uncertain)",
+      "confidence": 65
+    },
+    {
+      "name": "black olives or pickled vegetables",
+      "portion_estimate": "30 grams (uncertain)",
+      "confidence": 60
+    }
+  ]
+}

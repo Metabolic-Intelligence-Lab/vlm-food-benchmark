@@ -1,0 +1,99 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 95
+    },
+    {
+      "name": "Tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Lettuce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Tomato",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Olive oil",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Salt",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Pepper",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Sugar",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Flour",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "Eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Milk",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Butter",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Cream",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Meat",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

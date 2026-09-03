@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of lentil/vegetable soup (with grated cheese on top)",
+      "portion_estimate": "450 g",
+      "confidence": "74"
+    },
+    {
+      "name": "grated cheese topping (parmesan-like)",
+      "portion_estimate": "10 g",
+      "confidence": "62"
+    },
+    {
+      "name": "bread roll (white, packaged)",
+      "portion_estimate": "70 g",
+      "confidence": "78"
+    },
+    {
+      "name": "chicken pieces with seasoning (on plate, chopped/crumbled)",
+      "portion_estimate": "140 g",
+      "confidence": "63"
+    },
+    {
+      "name": "breaded fried fish fillet (on plate)",
+      "portion_estimate": "130 g",
+      "confidence": "72"
+    },
+    {
+      "name": "packaged applesauce/fruit puree cup",
+      "portion_estimate": "125 g",
+      "confidence": "67"
+    },
+    {
+      "name": "sliced onion (in small plastic cup)",
+      "portion_estimate": "25 g",
+      "confidence": "60"
+    }
+  ]
+}

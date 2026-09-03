@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Red Soup",
+      "portion_estimate": "uncertain weight estimated based on volume",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "uncertain weight estimated based on size",
+      "confidence": "70"
+    },
+    {
+      "name": "Orange Fruit Piece",
+      "portion_estimate": "10-20g, approx.",
+      "confidence": "95"
+    },
+    {
+      "name": "White Bread with Mashed Potatoes or Yam Slices",
+      "portion_estimate": "uncertain weight estimated based on surface area and typical portion size",
+      "confidence": "60"
+    }
+  ]
+}

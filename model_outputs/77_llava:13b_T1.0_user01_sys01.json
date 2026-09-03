@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed beans and lentils",
+      "portion_estimate": "30g",
+      "confidence": "50"
+    },
+    {
+      "name": "fried fish fillet with seasoning",
+      "portion_estimate": "80g",
+      "confidence": "40"
+    },
+    {
+      "name": "serving of spinach and chickpea curry",
+      "portion_estimate": "40g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll with a plastic wrap on it",
+      "portion_estimate": "35g",
+      "confidence": "30"
+    },
+    {
+      "name": "dried fruit mixture",
+      "portion_estimate": "25g",
+      "confidence": "50"
+    }
+  ]
+}

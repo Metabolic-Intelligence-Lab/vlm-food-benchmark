@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried cutlet or patty",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "50 g",
+      "confidence": "80"
+    },
+    {
+      "name": "sealed yogurt cup",
+      "portion_estimate": "160 g",
+      "confidence": "85"
+    },
+    {
+      "name": "shredded carrot salad with cabbage",
+      "portion_estimate": "110 g",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "uncertain white cheese or tofu topped with corn and tomato sauce",
+      "portion_estimate": "80 g",
+      "confidence": "55"
+    },
+    {
+      "name": "uncertain partial pasta dish with tomato sauce",
+      "portion_estimate": "60 g",
+      "confidence": "45"
+    }
+  ]
+}

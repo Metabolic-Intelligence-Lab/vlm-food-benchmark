@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Dark Green Leafy Vegetables",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Cooked Chicken",
+      "portion_estimate": "125g",
+      "confidence": 70
+    },
+    {
+      "name": "Yogur",
+      "portion_estimate": "125g",
+      "confidence": 75
+    }
+  ]
+}

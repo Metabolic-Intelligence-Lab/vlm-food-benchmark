@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed green salad (lettuce and radicchio, no visible dressing)",
+      "portion_estimate": "90 g",
+      "confidence": "72"
+    },
+    {
+      "name": "baked pasta (lasagna/pasta casserole with tomato sauce and cheese)",
+      "portion_estimate": "260 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked leafy greens (spinach/chard)",
+      "portion_estimate": "160 g",
+      "confidence": "68"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "82"
+    },
+    {
+      "name": "sealed single-serve dessert cup (pudding/yogurt), unopened",
+      "portion_estimate": "125 g",
+      "confidence": "60"
+    }
+  ]
+}

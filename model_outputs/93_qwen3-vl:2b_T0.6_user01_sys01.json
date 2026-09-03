@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Fish",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "Lemon wedge",
+      "portion_estimate": "10g",
+      "confidence": 90
+    },
+    {
+      "name": "Bun",
+      "portion_estimate": "50g",
+      "confidence": 95
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "200g",
+      "confidence": 95
+    }
+  ]
+}

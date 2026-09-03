@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (lightly seasoned)",
+      "portion_estimate": "170g",
+      "confidence": 95
+    },
+    {
+      "name": "grilled asparagus with breadcrumbs (crispy coating)",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "stuffed mushrooms",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "plastic-wrapped breadstick (single)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "plastic-wrapped cheese stick",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "plastic-wrapped butter packet",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    },
+    {
+      "name": "plastic-wrapped olive oil packet",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "peach or nectarine",
+      "portion_estimate": "150g (whole fruit)",
+      "confidence": 90
+    }
+  ]
+}

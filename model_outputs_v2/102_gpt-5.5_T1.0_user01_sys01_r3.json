@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "baked farfalle pasta casserole with breadcrumb topping",
+      "portion_estimate": "250 g",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "180 g",
+      "confidence": "85"
+    },
+    {
+      "name": "sauced meat cutlet with small shredded vegetable garnish",
+      "portion_estimate": "130 g",
+      "confidence": "70"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "100 g",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged string cheese stick",
+      "portion_estimate": "21 g",
+      "confidence": "75"
+    }
+  ]
+}

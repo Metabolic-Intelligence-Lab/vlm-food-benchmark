@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meat with creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cooked greens",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "noodles with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "vegetables (orange and yellow squash/zucchini)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

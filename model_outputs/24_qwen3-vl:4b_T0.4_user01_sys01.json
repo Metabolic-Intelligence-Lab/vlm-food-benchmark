@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable balls with orange slices",
+      "portion_estimate": "50 g",
+      "confidence": 95
+    },
+    {
+      "name": "Sliced carrots",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "Green lentils",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 g",
+      "confidence": 95
+    }
+  ]
+}

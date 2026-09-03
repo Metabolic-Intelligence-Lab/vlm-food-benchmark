@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "250",
+      "confidence": "90"
+    },
+    {
+      "name": "chicken tender",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "potato cubes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

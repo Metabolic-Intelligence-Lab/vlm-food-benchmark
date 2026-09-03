@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bacon and cheese-stuffed omelette or frittata with caramelized onions",
+      "portion_estimate": "uncertain (likely ~200-250g based on standard portion size for a small baked dish)",
+      "confidence": 55
+    },
+    {
+      "name": "caramelized onions",
+      "portion_estimate": "uncertain (~30-40g)",
+      "confidence": 50
+    },
+    {
+      "name": "bacon strips",
+      "portion_estimate": "uncertain (~30-50g)",
+      "confidence": 55
+    },
+    {
+      "name": "egg-based mixture (likely omelette/frittata)",
+      "portion_estimate": "uncertain (~100-150g)",
+      "confidence": 55
+    }
+  ]
+}

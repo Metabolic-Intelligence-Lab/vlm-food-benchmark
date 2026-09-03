@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried rice with vegetables (potatoes, carrots, corn)",
+      "portion_estimate": "300",
+      "confidence": 90
+    },
+    {
+      "name": "Potato cubes (likely home-fried or hash browns)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Omelette with egg and possibly ham/mushrooms",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "Yogurt (brand appears to be Yoplait)",
+      "portion_estimate": "130",
+      "confidence": 85
+    },
+    {
+      "name": "Bread roll (in plastic packaging)",
+      "portion_estimate": "60",
+      "confidence": 90
+    }
+  ]
+}

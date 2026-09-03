@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Garlic bread",
+      "portion_estimate": "uncertain, possibly a whole loaf",
+      "confidence": "50"
+    },
+    {
+      "name": "Salad (mixed greens with lettuce and other vegetables)",
+      "portion_estimate": "approx. 237 grams based on common serving size",
+      "confidence": "98"
+    },
+    {
+      "name": "Cheese (Gouda or similar) in a baked puff pastry shell, possibly topped with egg white",
+      "portion_estimate": "uncertain, approx. slice of cheese weight",
+      "confidence": "50"
+    }
+  ]
+}

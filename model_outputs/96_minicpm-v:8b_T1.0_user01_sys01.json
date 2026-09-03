@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Apple Juice",
+      "portion_estimate": "200ml",
+      "confidence": 95
+    },
+    {
+      "name": "Dark Brownie with Cinnamon Swirls",
+      "portion_estimate": "uncertain, approx. slice of cake based on typical size - around 40g-80g per piece",
+      "confidence": 62
+    },
+    {
+      "name": "Plain Layered Cake",
+      "portion_estimate": "uncertain, possibly a few slices depending on thickness - estimated to be approximately between 30g and 50g based on standard slice size for such desserts.",
+      "confidence": 87
+    }
+  ]
+}

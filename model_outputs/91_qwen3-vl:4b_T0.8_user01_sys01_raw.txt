@@ -1,0 +1,12 @@
+The task is to identify all distinct, visible food and beverage items from the given context and estimate their weights. The context describes a meal consisting of a whole wheat roll, vegetable soup, grilled chicken strips, cooked kale, Yomo yogurt, and water. Each item is evaluated for visibility and estimated weight based on typical serving sizes.
+
+- **Whole wheat roll**: A standard roll is approximately 60 grams. This is visible as a wrapped item. Confidence: 80%.
+- **Vegetable soup**: A typical serving of soup is about 200 grams. This is visible as a liquid in a bowl. Confidence: 80%.
+- **Grilled chicken strips**: A serving of chicken strips is roughly 100 grams. This is visible as cooked pieces. Confidence: 70%.
+- **Cooked kale**: A serving of cooked kale is approximately 100 grams. This is visible as a leafy green. Confidence: 70%.
+- **Yomo yogurt**: The container is labeled as 150 grams. This is visible as a packaged product. Confidence: 90%.
+- **Water**: The glass is full, equivalent to 200 milliliters (200 grams). This is visible as a liquid in a glass. Confidence: 90%.
+
+The weights are estimates based on standard serving sizes, and all items are distinct and visible. The final answer lists each item with its estimated weight.
+
+\boxed{\text{Whole wheat roll: } 60\text{ g}, \text{ Vegetable soup: } 200\text{ g}, \text{ Grilled chicken strips: } 100\text{ g}, \text{ Cooked kale: } 100\text{ g}, \text{ Yomo yogurt: } 150\text{ g}, \text{ Water: } 200\text{ g}}

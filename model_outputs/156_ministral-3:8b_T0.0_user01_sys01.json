@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat or multigrain roll (packaged)",
+      "portion_estimate": "60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "creamy pasta shells (rotini/paccheri) with cheese sauce",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pan-seared fish fillet (likely cod or similar) with cheese sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed brussels sprouts",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "ripe banana",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    }
+  ]
+}

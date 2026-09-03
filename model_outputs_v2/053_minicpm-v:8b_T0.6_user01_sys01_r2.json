@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomatoes and herbs",
+      "portion_estimate": "uncertain, approx. weight of pasta in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain, approx. weight of green beans in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Chicken fillet",
+      "portion_estimate": "uncertain, approx. weight of chicken fillet in grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Pomegranate fruit",
+      "portion_estimate": "uncertain, approx. weight of pomegranate seeds in grams",
+      "confidence": "50"
+    }
+  ]
+}

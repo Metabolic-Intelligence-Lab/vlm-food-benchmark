@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "thick vegetable/legume soup (green-brown) with grated cheese on top",
+      "portion_estimate": "320 g",
+      "confidence": "70"
+    },
+    {
+      "name": "ground meat patty (hamburger-style) topped with shredded zucchini/green vegetable",
+      "portion_estimate": "110 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mashed potatoes (or potato puree)",
+      "portion_estimate": "170 g",
+      "confidence": "75"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "strawberry fruit yogurt cup (single-serve)",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    },
+    {
+      "name": "ice pop / frozen dessert tube (packaged)",
+      "portion_estimate": "80 g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "80g",
+      "confidence": "50"
+    },
+    {
+      "name": "fish fillet",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "beans",
+      "portion_estimate": "80g",
+      "confidence": "60"
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "150g",
+      "confidence": "40"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "80g",
+      "confidence": "30"
+    }
+  ]
+}

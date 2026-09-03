@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "white plate with meat and potatoes",
+      "portion_estimate": "approx. 300g",
+      "confidence": "90"
+    },
+    {
+      "name": "red sauce in a cup",
+      "portion_estimate": "approx. 100g",
+      "confidence": "80"
+    },
+    {
+      "name": "white plate with broccoli and rice",
+      "portion_estimate": "approx. 200g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread rolls in a plastic bag",
+      "portion_estimate": "approx. 150g",
+      "confidence": "60"
+    }
+  ]
+}

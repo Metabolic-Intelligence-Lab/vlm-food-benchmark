@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "Sour cream with fruit",
+      "portion_estimate": "45",
+      "confidence": 90
+    },
+    {
+      "name": "Crispy breaded cutlet",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "Side salad with carrots and green beans",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "Small appetizer on plate (mozzarella, tomatoes, corn)",
+      "portion_estimate": "80",
+      "confidence": 80
+    }
+  ]
+}

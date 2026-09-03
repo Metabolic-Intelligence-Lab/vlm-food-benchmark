@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese and sauce",
+      "portion_estimate": "300",
+      "confidence": 95
+    },
+    {
+      "name": "Roasted mushrooms or meatballs",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "Sandwich or bread roll",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "Side salad with cucumber, red cabbage, and carrots",
+      "portion_estimate": "150",
+      "confidence": 90
+    }
+  ]
+}

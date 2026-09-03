@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted chickpea/falafel mix",
+      "portion_estimate": "140 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Topped falafel or croquette",
+      "portion_estimate": "70 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Roasted pasta (fusilli/rotini) with sauce",
+      "portion_estimate": "230 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll or bun (in wrapper)",
+      "portion_estimate": "90 grams",
+      "confidence": "95"
+    }
+  ]
+}

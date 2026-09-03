@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "mixed leafy salad (including romaine, radicchio, and possibly iceberg lettuce)",
+      "portion_estimate": "60",
+      "confidence": 95
+    },
+    {
+      "name": "grilled or roasted chicken pieces",
+      "portion_estimate": "40",
+      "confidence": 80
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "8",
+      "confidence": 75
+    }
+  ]
+}

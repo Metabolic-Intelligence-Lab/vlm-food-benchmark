@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Sautéed green beans",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "Vegetable frittata with zucchini and bell pepper",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "Whole wheat penne pasta with grated cheese",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "Fresh pear",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": 70
+    }
+  ]
+}

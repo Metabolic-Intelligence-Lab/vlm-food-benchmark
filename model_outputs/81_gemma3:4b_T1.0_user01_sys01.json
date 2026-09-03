@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Kale",
+      "portion_estimate": "60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Meatballs",
+      "portion_estimate": "75 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    }
+  ]
+}

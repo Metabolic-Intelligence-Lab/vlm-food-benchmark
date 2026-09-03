@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "yellow rice",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "pasta with red sauce",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "papaya slices",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "sushi roll on plate",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "ground beef/bolognese sauce",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "fresh pasta (penne)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "portion_estimate": "30",
+      "confidence": 70
+    }
+  ]
+}

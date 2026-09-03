@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "beef or vegetable stew (bowl)",
+      "portion_estimate": "450 grams",
+      "confidence": 75
+    },
+    {
+      "name": "peas and carrots mix (side dish)",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (single-serve cup)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "salt sprinkled on stew",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "70 grams",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "fruit salad (grapes, plums, blueberries)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sandwiches",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

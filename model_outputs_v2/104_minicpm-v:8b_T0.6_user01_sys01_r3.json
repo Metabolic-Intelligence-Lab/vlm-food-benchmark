@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain weight, possibly approx. 300g",
+      "confidence": "50"
+    },
+    {
+      "name": "boiled peas and carrots",
+      "portion_estimate": "approx. 150-200g",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt with fruit",
+      "portion_estimate": "uncertain weight, possibly approx. 100g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread bun",
+      "portion_estimate": "approx. 50-70g",
+      "confidence": "80"
+    }
+  ]
+}

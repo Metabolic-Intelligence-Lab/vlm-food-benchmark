@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "baked or fried fish fillet with breadcrumbs",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "mashed potatoes with butter or cream",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "roasted or saut\u00e9ed diced potatoes with herbs",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "green beans or mixed vegetables, steamed or saut\u00e9ed",
+      "portion_estimate": "50",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt or sour cream with fruit topping (partially visible)",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "whole wheat or seeded bread roll",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "water in a clear plastic cup",
+      "portion_estimate": "250",
+      "confidence": 90
+    }
+  ]
+}

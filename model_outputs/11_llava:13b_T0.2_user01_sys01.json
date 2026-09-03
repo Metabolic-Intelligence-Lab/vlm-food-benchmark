@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spinach",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "piece of meat (uncertain)",
+      "portion_estimate": "100g",
+      "confidence": "40"
+    },
+    {
+      "name": "orange slice",
+      "portion_estimate": "25g",
+      "confidence": "70"
+    },
+    {
+      "name": "salad (uncertain)",
+      "portion_estimate": "100g",
+      "confidence": "30"
+    }
+  ]
+}

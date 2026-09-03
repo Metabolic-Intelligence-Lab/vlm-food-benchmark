@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce and vegetables",
+      "portion_estimate": "150g",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50g",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "meat",
+      "portion_estimate": "100g",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "fruit mix (bananas and apples)",
+      "portion_estimate": "120g",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "orange juice",
+      "portion_estimate": "uncertain",
+      "confidence": "uncertain"
+    }
+  ]
+}

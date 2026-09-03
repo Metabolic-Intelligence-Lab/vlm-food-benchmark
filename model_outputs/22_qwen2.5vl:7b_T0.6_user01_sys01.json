@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "steamed green beans",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "steamed carrots",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "roasted sweet potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "rice pilaf",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "baked cod",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole grain bread",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Yoplait yogurt",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    }
+  ]
+}

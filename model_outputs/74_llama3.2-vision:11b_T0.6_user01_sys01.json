@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (Farfalle)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Bread (Baguette)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Fruit (Citrus)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

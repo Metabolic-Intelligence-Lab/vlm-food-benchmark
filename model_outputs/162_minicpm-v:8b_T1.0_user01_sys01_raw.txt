@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli and potatoes",
+      "portion_estimate": "uncertain, likely a serving size for one person.",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll (unspecified type)",
+      "portion_estimate": "35-45 grams estimated weight based on typical single-serving bread rolls",
+      "confidence": "80"
+    },
+    {
+      "name": "apple pie with chunks of apple and cinnamon",
+      "portion_estimate": "uncertain, likely a serving size for one person.",
+      "confidence": "60"
+    },
+    {
+      "name": "stew (carrots, potatoes, soup base)",
+      "portion_estimate": "25-30 grams estimated weight based on typical single-serving stews",
+      "confidence": "90"
+    }
+  ],
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat sandwich roll (unsliced)",
+      "portion_estimate": "60g",
+      "confidence": 80
+    },
+    {
+      "name": "steamed broccoli florets",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "baked or poached white fish fillet (likely cod or similar)",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "chickpeas (boiled or roasted)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "single-serve yogurt (unspecified flavor) in plastic cup",
+      "portion_estimate": "150g",
+      "confidence": 90
+    }
+  ]
+}

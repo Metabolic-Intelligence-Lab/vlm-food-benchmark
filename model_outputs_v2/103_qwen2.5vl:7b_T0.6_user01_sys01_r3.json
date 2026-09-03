@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Stuffed pork cutlet with sprouts",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "Broccoli",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Vegetable soup",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50",
+      "confidence": 80
+    }
+  ]
+}

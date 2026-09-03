@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "hash brown potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "biscuit or cracker",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "doughnut or filled donut",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi with tomato sauce and parmesan",
+      "portion_estimate": "300 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "diced tomatoes",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "portion_estimate": "10 grams",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta shells with mushroom sauce and grated parmesan",
+      "portion_estimate": "250",
+      "confidence": "75"
+    },
+    {
+      "name": "savory quiche or frittata slice",
+      "portion_estimate": "120",
+      "confidence": "60"
+    },
+    {
+      "name": "sauteed diced zucchini and potatoes",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "150",
+      "confidence": "90"
+    }
+  ]
+}

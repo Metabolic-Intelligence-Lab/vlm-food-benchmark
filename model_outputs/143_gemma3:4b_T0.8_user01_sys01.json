@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "YOMO Yogurt",
+      "portion_estimate": "60g",
+      "confidence": 95
+    },
+    {
+      "name": "Fish with Herbs",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Potato Pieces",
+      "portion_estimate": "100g",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Sausage links with cheese",
+      "portion_estimate": "2 pieces, 50 g each",
+      "confidence": 60
+    },
+    {
+      "name": "Scrambled eggs",
+      "portion_estimate": "1 portion, approximately 100 g",
+      "confidence": 70
+    },
+    {
+      "name": "Hash browns",
+      "portion_estimate": "2 pieces",
+      "confidence": 50
+    },
+    {
+      "name": "Mashed potatoes with gravy",
+      "portion_estimate": "1 scoop, approximately 100 g",
+      "confidence": 60
+    },
+    {
+      "name": "Green salad",
+      "portion_estimate": "1 portion",
+      "confidence": 50
+    },
+    {
+      "name": "Biscuits and gravy",
+      "portion_estimate": "1 biscuit, approximately 30 g",
+      "confidence": 40
+    },
+    {
+      "name": "Fruit salad with a spoon",
+      "portion_estimate": "2 tablespoons",
+      "confidence": 60
+    }
+  ]
+}

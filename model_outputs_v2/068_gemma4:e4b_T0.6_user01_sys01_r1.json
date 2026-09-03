@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed pasta salad (containing rotini, penne, and various shapes)",
+      "portion_estimate": "350 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Diced red bell peppers or tomatoes",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Creamy dressing coating the salad",
+      "portion_estimate": "50 grams",
+      "confidence": "75"
+    }
+  ]
+}

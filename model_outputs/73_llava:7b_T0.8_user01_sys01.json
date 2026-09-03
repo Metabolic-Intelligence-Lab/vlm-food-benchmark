@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Sliced sausage or meatballs",
+      "portion_estimate": "75g",
+      "confidence": "60"
+    },
+    {
+      "name": "Roasted vegetables (possibly Brussels sprouts)",
+      "portion_estimate": "120g",
+      "confidence": "40"
+    },
+    {
+      "name": "Green vegetable that could be broccoli or a similar leafy green",
+      "portion_estimate": "50g",
+      "confidence": "30"
+    },
+    {
+      "name": "White rice with herbs, possibly couscous or a similar grain",
+      "portion_estimate": "100g",
+      "confidence": "40"
+    }
+  ]
+}

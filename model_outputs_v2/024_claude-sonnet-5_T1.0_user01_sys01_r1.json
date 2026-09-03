@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "cooked farro or pasta grains with grated cheese",
+      "portion_estimate": "180g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked sliced carrots",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "green herb-crusted patties/fritters with orange slices garnish",
+      "portion_estimate": "100g",
+      "confidence": "55"
+    },
+    {
+      "name": "orange slices (garnish)",
+      "portion_estimate": "30g",
+      "confidence": "60"
+    },
+    {
+      "name": "red apple, whole",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll (second, partially visible)",
+      "portion_estimate": "60g",
+      "confidence": "55"
+    },
+    {
+      "name": "Yomo fruit yogurt cup",
+      "portion_estimate": "125g",
+      "confidence": "75"
+    }
+  ]
+}

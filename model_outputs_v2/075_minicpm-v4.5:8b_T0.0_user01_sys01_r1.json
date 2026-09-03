@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "roast chicken with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed vegetable salad (zucchini, potato, onion)",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "baked beans",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 ml",
+      "confidence": "100"
+    }
+  ]
+}

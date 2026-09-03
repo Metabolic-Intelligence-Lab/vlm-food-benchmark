@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "beaten and pan-fried breaded chicken breast (likely fried)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "cooked broccoli rabe or kale, saut\u00e9ed",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "parmesan or marinara-coated penne pasta",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "basil wrap (assuming from visible green leaf)",
+      "portion_estimate": "5",
+      "confidence": 60
+    },
+    {
+      "name": "orange slice (fresh lemon or orange)",
+      "portion_estimate": "50",
+      "confidence": 70
+    }
+  ]
+}

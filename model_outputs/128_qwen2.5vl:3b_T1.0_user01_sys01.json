@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta",
+      "portion_estimate": "approx. 150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Tomato sauce",
+      "portion_estimate": "approx. 30 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Mince meat",
+      "portion_estimate": "approx. 20 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Parmesan cheese",
+      "portion_estimate": "approx. 5 grams",
+      "confidence": "90"
+    }
+  ]
+}

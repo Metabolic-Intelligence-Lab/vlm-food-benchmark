@@ -1,0 +1,33 @@
+{
+  "meal_type": "Lunch",
+  "plate1": {
+    "food": "Pasta",
+    "color": "Yellow"
+  },
+  "plate2": {
+    "vegetables": [
+      {
+        "orange carrots": 8
+      },
+      {
+        "red bell pepper": 4
+      },
+      {
+        "white cauliflower": 1
+      }
+    ],
+    "color": "Various"
+  },
+  "cup1": {
+    "food": "Salad",
+    "color": "Yellow"
+  },
+  "cup2": {
+    "contents": "Water",
+    "color": "White"
+  },
+  "sandwiches": {
+    "number": 2,
+    "contents": "Bread and fruit inside"
+  }
+}

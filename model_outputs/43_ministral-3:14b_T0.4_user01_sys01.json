@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese topping",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "baked potato stuffed with meat and cheese",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "diced celery and onion salad",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "single-serving tub of yogurt (brand: 'Rado')",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "whole-grain roll/bread",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "water in a plastic cup",
+      "portion_estimate": "250",
+      "confidence": 80
+    }
+  ]
+}

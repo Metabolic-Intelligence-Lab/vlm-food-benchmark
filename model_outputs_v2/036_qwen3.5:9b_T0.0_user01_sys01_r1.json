@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried pasta salad (fusilli) with sauce",
+      "portion_estimate": 250,
+      "confidence": 90
+    },
+    {
+      "name": "Red cabbage and cucumber salad",
+      "portion_estimate": 180,
+      "confidence": 90
+    },
+    {
+      "name": "Breaded green vegetable fritters (likely spinach or broccoli)",
+      "portion_estimate": 140,
+      "confidence": 85
+    },
+    {
+      "name": "Steamed bun in plastic wrapper",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Dark brown sauce with a round item (possibly fruit or meat)",
+      "portion_estimate": 80,
+      "confidence": 75
+    }
+  ]
+}

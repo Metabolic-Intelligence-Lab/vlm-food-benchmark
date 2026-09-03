@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Cheese",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "Mixed Vegetables",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "Omelette with Vegetables",
+      "portion_estimate": "100",
+      "confidence": 60
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": 60
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200",
+      "confidence": 80
+    }
+  ]
+}

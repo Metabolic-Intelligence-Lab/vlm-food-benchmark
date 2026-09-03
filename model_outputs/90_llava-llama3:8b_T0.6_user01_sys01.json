@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "light brown rice with yellow sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "dark green vegetables and orange carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "light brown bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

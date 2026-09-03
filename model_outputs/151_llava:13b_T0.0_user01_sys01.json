@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked brussels sprouts and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "macaroni and cheese with meat (possibly chicken or beef)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta dish (lasagna or similar baked pasta with creamy sauce and grated cheese)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fruit (possibly grapes or plums)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "loaf of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

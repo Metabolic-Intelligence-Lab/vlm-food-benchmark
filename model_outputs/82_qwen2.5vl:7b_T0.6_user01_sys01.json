@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of mixed salad",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "Portion of risotto",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "Portion of spinach",
+      "portion_estimate": "50",
+      "confidence": "80"
+    }
+  ]
+}

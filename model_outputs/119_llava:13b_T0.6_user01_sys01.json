@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Fufu",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Egusi Soup (tomato-based sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Chicken or Goat (cooked in flavorful sauce with fried onions)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Mayonnaise or similar emulsion-based sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Pastry or fried item",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Yogurt-based sauce or dessert",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

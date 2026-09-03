@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded meatballs",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "breaded meatballs",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "breaded meatballs",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "10",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "tray": [
+    {
+      "food_items": [
+        {
+          "name": "pasta",
+          "portion_estimate": "100g",
+          "confidence": 95
+        },
+        {
+          "name": "carrots",
+          "portion_estimate": "70g",
+          "confidence": 85
+        },
+        {
+          "name": "bean",
+          "portion_estimate": "30g",
+          "confidence": 60
+        },
+        {
+          "name": "bread",
+          "portion_estimate": "50g",
+          "confidence": 75
+        },
+        {
+          "name": "cheese",
+          "portion_estimate": "20g",
+          "confidence": 95
+        }
+      ],
+      "location": [
+        "top left",
+        "bottom left"
+      ]
+    },
+    {
+      "food_items": [
+        {
+          "name": "apple",
+          "portion_estimate": "100g",
+          "confidence": 85
+        }
+      ],
+      "location": [
+        "top right"
+      ]
+    },
+    {
+      "food_items": [
+        {
+          "name": "banana",
+          "portion_estimate": "100g",
+          "confidence": 85
+        }
+      ],
+      "location": [
+        "bottom left"
+      ]
+    },
+    {
+      "food_items": [
+        {
+          "name": "soup",
+          "portion_estimate": "100g",
+          "confidence": 85
+        }
+      ],
+      "location": [
+        "bottom right"
+      ]
+    },
+    {
+      "food_items": [
+        {
+          "name": "rice",
+          "portion_estimate": "100g",
+artichoke, and beans.

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Vegetable Soup",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Grilled Meat with Sauce",
+      "portion_estimate": "80",
+      "confidence": 70
+    },
+    {
+      "name": "Mixed Vegetable Medley",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "Bun",
+      "portion_estimate": "80",
+      "confidence": 60
+    },
+    {
+      "name": "Yono Food Defence",
+      "portion_estimate": "12g",
+      "confidence": 100
+    }
+  ]
+}

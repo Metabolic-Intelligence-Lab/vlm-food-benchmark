@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain English muffin",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Cream cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Cup of coffee",
+      "portion_estimate": "unknown quantity, approx 240 ml (8 oz)",
+      "confidence": "50"
+    },
+    {
+      "name": "Red and white yogurt container",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Green veggie stick with a red sticker, wrapped in plastic bag",
+      "portion_estimate": "unknown brand or type",
+      "confidence": "50"
+    },
+    {
+      "name": "White plate of green pasta with pesto sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Green yogurt cup with a red sticker and text on lid (possibly Dannon)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "White plate of scrambled eggs, sliced fried chicken breast, green salad mix with lemon wedges",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

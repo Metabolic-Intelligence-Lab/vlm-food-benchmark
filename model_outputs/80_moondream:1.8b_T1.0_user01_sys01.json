@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice and vegetables (broccoli)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pastries",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "sandwiches",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "various other foods",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    }
+  ]
+}

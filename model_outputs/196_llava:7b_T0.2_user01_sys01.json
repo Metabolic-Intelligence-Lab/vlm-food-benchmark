@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken with sauce",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Beans",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "200ml",
+      "confidence": "60"
+    },
+    {
+      "name": "Chopped nuts",
+      "portion_estimate": "10g",
+      "confidence": "70"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "1 piece",
+      "confidence": "60"
+    }
+  ]
+}

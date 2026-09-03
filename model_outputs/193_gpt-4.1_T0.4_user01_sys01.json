@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange lentil or vegetable soup",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "rice with mixed vegetables and possibly chicken",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "130",
+      "confidence": 95
+    },
+    {
+      "name": "water (in two plastic cups)",
+      "portion_estimate": "300",
+      "confidence": 95
+    }
+  ]
+}

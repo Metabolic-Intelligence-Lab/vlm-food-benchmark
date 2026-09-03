@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked cauliflower florets",
+      "portion_estimate": "90 g",
+      "confidence": "75"
+    },
+    {
+      "name": "breaded fried patty (likely chicken or fish)",
+      "portion_estimate": "110 g",
+      "confidence": "60"
+    },
+    {
+      "name": "vegetable soup (green/pea-style) with grated cheese on top",
+      "portion_estimate": "360 g",
+      "confidence": "70"
+    },
+    {
+      "name": "applesauce cup (single-serve)",
+      "portion_estimate": "113 g",
+      "confidence": "85"
+    },
+    {
+      "name": "slice of whole wheat bread",
+      "portion_estimate": "35 g",
+      "confidence": "75"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "300 g",
+      "confidence": "55"
+    }
+  ]
+}

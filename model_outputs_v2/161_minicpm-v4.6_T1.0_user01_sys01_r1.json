@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with pasta and cheese",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "75 g",
+      "confidence": 85
+    },
+    {
+      "name": "vegetable mix salad",
+      "portion_estimate": "120 g",
+      "confidence": 80
+    },
+    {
+      "name": "triangular baked dish",
+      "portion_estimate": "50 g",
+      "confidence": 88
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "100 g",
+      "confidence": 75
+    }
+  ]
+}

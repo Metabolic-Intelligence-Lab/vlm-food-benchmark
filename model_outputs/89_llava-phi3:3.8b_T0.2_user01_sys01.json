@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with yellow sauce",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll in plastic wrap",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Beans on a plate",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Fish with herbs and lemon sauce",
+      "portion_estimate": "70g",
+      "confidence": "80"
+    },
+    {
+      "name": "Apple on a tray",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    }
+  ]
+}

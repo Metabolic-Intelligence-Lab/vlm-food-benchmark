@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "name": "rice",
+      "description": "Standard serving of cooked rice",
+      "portion_size": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "bread roll",
+      "description": "Baked bread roll with visible crust",
+      "portion_size": "60g",
+      "confidence": "95"
+    },
+    {
+      "name": "apple",
+      "description": "Medium-sized apple",
+      "portion_size": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "carrots",
+      "description": "Fresh carrots cut into pieces",
+      "portion_size": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "potatoes",
+      "description": "Cubed potatoes",
+      "portion_size": "80g",
+      "confidence": "95"
+    },
+    {
+      "name": "greens",
+      "description": "Leafy greens (likely kale or spinach)",
+      "portion_size": "50g",
+      "confidence": "95"
+    }
+  ]
+}

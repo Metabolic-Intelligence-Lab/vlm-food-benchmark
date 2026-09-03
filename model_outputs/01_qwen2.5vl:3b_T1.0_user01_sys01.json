@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "buttered bread",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "dolce corn",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "tomato",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "scoopable pudding",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

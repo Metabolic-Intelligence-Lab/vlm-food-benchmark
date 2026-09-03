@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    },
+    {
+      "name": "Vegetables",
+      "portion_estimate": "50g",
+      "confidence": "75"
+    },
+    {
+      "name": "Pancakes",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    }
+  ]
+}

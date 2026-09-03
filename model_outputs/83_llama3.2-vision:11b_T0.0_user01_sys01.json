@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Couscous",
+      "portion_estimate": "uncertain",
+      "confidence": 95
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Fish",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Avocado",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 95
+    }
+  ]
+}

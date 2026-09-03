@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "breaded and fried pieces",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "stuffed mushrooms",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "roasted spiced cubes",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": 95
+    },
+    {
+      "name": "beverage in cup",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "beverage in can",
+      "portion_estimate": "330",
+      "confidence": 70
+    }
+  ]
+}

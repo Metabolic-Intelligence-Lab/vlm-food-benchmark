@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked Brussels sprouts",
+      "portion_estimate": "120 g",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked green bell pepper pieces",
+      "portion_estimate": "60 g",
+      "confidence": "62"
+    },
+    {
+      "name": "sausages (sliced, pan-fried)",
+      "portion_estimate": "90 g",
+      "confidence": "72"
+    },
+    {
+      "name": "sauce/oil drippings in container",
+      "portion_estimate": "25 g",
+      "confidence": "55"
+    },
+    {
+      "name": "water (in blue bottle)",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    }
+  ]
+}

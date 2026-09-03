@@ -1,0 +1,26 @@
+down
+{
+    "food_items": [
+        {
+            "name": "Pot of chili",
+            "portion_estimate": "1/2 gallon",
+            "confidence": "90"
+        },
+        {
+            "name": "Plate of food",
+            "portion_estimate": "4 oz.",
+            "confidence": "80"
+        },
+        {
+            "name": "Tray with multiple plates and bowls",
+            "portion_estimate": "not visible",
+            "confidence": "60"
+        },
+        {
+            "name": "Spoon on a table",
+            "portion_estimate": "not applicable",
+            "confidence": "70"
+        }
+    ],
+    "note": "This image is mostly about food, but also contains some items that are not part of the meal, like cups and spoons."
+}

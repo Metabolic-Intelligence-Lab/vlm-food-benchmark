@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried egg with meat",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": "90"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    }
+  ]
+}

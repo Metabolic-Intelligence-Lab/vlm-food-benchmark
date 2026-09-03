@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "chicken noodle soup",
+      "portion_estimate": "300",
+      "confidence": "80"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "portion_estimate": "10",
+      "confidence": "85"
+    },
+    {
+      "name": "caesar salad",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "whole grain bread",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "10",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

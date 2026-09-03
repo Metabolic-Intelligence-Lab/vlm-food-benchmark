@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried rice with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Bread roll with a dark filling, possibly meat or cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Green vegetable stir-fry",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Orange, whole and unpeeled",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

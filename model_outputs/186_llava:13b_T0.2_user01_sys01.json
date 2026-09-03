@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice or pasta with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meat dish (chicken or turkey)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mashed potatoes and gravy",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "water or beverage",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

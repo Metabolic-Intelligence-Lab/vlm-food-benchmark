@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "orange soup",
+      "portion_estimate": "400g",
+      "confidence": 95
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "soft-boiled egg with saut\u00e9ed onions",
+      "portion_estimate": "60g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": 90
+    }
+  ]
+}

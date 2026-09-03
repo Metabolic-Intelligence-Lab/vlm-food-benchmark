@@ -1,0 +1,30 @@
+{
+  "food_items": [
+    {
+      "name": "breaded cutlet",
+      "portion_estimate": "120 g",
+      "confidence": 95
+    },
+    {
+      "name": "mixed vegetable and mushroom salad",
+      "portion_estimate": "150 g",
+      "confidence": 90
+    },
+    {
+      "name": "pasta dish",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 g",
+      "confidence": 95
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": 98
+    }
+  ],
+  "total_food_items": 5
+}

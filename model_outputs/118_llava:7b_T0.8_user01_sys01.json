@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce and cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Meatballs",
+      "portion_estimate": "uncertain, approximately 6 meatballs",
+      "confidence": 40
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "uncertain, approximately 150 grams",
+      "confidence": 40
+    },
+    {
+      "name": "Sauce and cheese topping on pasta",
+      "portion_estimate": "uncertain, approximately 100 grams",
+      "confidence": 50
+    },
+    {
+      "name": "Creamy white sauce",
+      "portion_estimate": "uncertain, approximately 100 ml",
+      "confidence": 30
+    }
+  ]
+}

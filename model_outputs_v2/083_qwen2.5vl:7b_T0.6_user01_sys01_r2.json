@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked fish with mashed potatoes and broccoli",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "Roasted diced potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed greens with chickpeas and quinoa",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "100",
+      "confidence": "90"
+    }
+  ]
+}

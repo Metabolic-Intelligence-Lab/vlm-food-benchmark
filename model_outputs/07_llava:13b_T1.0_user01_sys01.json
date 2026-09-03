@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "1 slice",
+      "confidence": "80"
+    },
+    {
+      "name": "lettuce salad with dressing",
+      "portion_estimate": "2 cups",
+      "confidence": "60"
+    },
+    {
+      "name": "meat patty or fish stick",
+      "portion_estimate": "4 oz",
+      "confidence": "75"
+    },
+    {
+      "name": "beans with cheese",
+      "portion_estimate": "1 cup",
+      "confidence": "60"
+    }
+  ]
+}

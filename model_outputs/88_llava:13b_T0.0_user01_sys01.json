@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with creamy sauce and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "rice or couscous with vegetables or grains",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "meat dish (chicken or pork)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "rice or couscous",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

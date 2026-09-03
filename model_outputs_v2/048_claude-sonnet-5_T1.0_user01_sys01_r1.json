@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato and meat ragu sauce",
+      "portion_estimate": "220",
+      "confidence": 78
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "eggplant parmigiana with melted cheese topping",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "150",
+      "confidence": 78
+    },
+    {
+      "name": "cubed cheese pieces (side of eggplant dish)",
+      "portion_estimate": "30",
+      "confidence": 55
+    },
+    {
+      "name": "yogurt or dairy dessert cup (Yomo brand, sealed)",
+      "portion_estimate": "125",
+      "confidence": 60
+    }
+  ]
+}

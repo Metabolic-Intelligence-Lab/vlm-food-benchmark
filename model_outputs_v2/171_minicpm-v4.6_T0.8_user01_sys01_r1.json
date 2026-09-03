@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked leafy greens (e.g., spinach)",
+      "portion_estimate": "about 100g",
+      "confidence": 95
+    },
+    {
+      "name": "yogurt or dairy product",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "chicken or meat",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "bread or a bread roll",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "diet kit snack",
+      "portion_estimate": "10g",
+      "confidence": 95
+    }
+  ]
+}

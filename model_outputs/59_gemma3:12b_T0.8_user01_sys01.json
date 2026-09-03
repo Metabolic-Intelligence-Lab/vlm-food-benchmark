@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "mixed greens salad with carrot and lettuce",
+      "portion_estimate": "80",
+      "confidence": "90"
+    },
+    {
+      "name": "baked potato with butter",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "red grapes",
+      "portion_estimate": "50",
+      "confidence": "85"
+    }
+  ]
+}

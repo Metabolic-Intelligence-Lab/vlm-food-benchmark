@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Rice",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Chickpeas in Sauce",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "120",
+      "confidence": 90
+    }
+  ]
+}

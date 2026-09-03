@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto and cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "farro with peas",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "pizza slice",
+      "portion_estimate": "75 grams",
+      "confidence": 80
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    }
+  ]
+}

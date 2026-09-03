@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "watermelon",
+      "portion_estimate": "80",
+      "confidence": "85"
+    },
+    {
+      "name": "green leafy vegetable",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded cutlet",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "plastic water bottle",
+      "portion_estimate": "300",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Salad with toppings",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "1 banana",
+      "confidence": "95"
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "1 roll",
+      "confidence": "70"
+    }
+  ]
+}

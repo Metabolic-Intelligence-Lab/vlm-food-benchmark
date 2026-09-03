@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with sprinkled grated cheese",
+      "portion_estimate": "350 grams",
+      "confidence": 85
+    },
+    {
+      "name": "chicken or vegetable pot pie (quiche-like) with spinach and cheese filling",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or multigrain roll",
+      "portion_estimate": "80 grams",
+      "confidence": 80
+    },
+    {
+      "name": "butter or margarine in wrapper (small pack)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "sauce packet (likely creamy or cheese-based, brand unclear)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

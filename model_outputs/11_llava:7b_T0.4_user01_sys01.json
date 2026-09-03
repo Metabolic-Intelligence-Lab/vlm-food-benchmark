@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Sandwich with spinach and cheese",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad in a bowl",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Piece of fruit (orange)",
+      "portion_estimate": "80 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Sliced piece of bread with spread",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    }
+  ]
+}

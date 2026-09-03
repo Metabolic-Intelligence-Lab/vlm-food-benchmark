@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Younie Chicken Sandwich",
+      "portion_estimate": "80",
+      "confidence": 95
+    },
+    {
+      "name": "Salad with Beans",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Chicken Noodle Soup",
+      "portion_estimate": "200",
+      "confidence": 75
+    }
+  ]
+}

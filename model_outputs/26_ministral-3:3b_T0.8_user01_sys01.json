@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken pieces",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "roasted or mashed potatoes with seasoning",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "seasoned saut\u00e9ed veggie mix (likely including carrot bits and possibly onion)",
+      "portion_estimate": "50",
+      "confidence": 75
+    },
+    {
+      "name": "steamed or blanched collard/kale greens",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "three mandarin oranges (tangerines)",
+      "portion_estimate": "30",
+      "confidence": 80
+    },
+    {
+      "name": "water glass (approximate water content)",
+      "portion_estimate": "200",
+      "confidence": 70
+    },
+    {
+      "name": "small baguette or roll",
+      "portion_estimate": "60",
+      "confidence": 75
+    }
+  ]
+}

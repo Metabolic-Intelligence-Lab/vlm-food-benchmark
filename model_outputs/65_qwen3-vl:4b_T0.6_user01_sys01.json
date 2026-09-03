@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "180g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "40g",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Cheese-topped patty",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Diced potatoes",
+      "portion_estimate": "150g",
+      "confidence": "65"
+    }
+  ]
+}

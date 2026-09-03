@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "breaded food",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "green olives and potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange food (salmon or similar seafood dish)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "red beverage (juice or cocktail)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "black grapes",
+      "portion_estimate": "3 grams",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "hash browns",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "spaghetti with red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "toast with butter",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "milk",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "jam",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

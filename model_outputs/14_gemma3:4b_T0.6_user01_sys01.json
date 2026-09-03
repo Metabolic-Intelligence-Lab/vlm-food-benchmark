@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Breadsticks",
+      "portion_estimate": "30 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Spinadonne Lettuce",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    }
+  ]
+}

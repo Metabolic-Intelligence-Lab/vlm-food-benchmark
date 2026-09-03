@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "Baked potatoes",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "Grilled chicken",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Sliced bread",
+      "portion_estimate": "100",
+      "confidence": 60
+    }
+  ]
+}

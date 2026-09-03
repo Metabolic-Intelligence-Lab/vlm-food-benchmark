@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup with noodles and sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roll or bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

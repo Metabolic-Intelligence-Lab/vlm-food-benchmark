@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed vegetables (carrots, peas, corn)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Pizza with vegetables and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Whole wheat roll",
+      "portion_estimate": "uncertain",
+      "confidence": "65"
+    }
+  ]
+}

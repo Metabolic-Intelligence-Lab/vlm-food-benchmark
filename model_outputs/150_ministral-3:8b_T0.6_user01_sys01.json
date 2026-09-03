@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "packaged sliced bread (loaf)",
+      "portion_estimate": "300 grams (estimated from standard loaf size)",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with cheese topping (penne/pappardelle)",
+      "portion_estimate": "350 grams (cooked pasta + cheese)",
+      "confidence": 80
+    },
+    {
+      "name": "roasted vegetables mix (carrots, broccoli, cauliflower, potatoes)",
+      "portion_estimate": "400 grams (mixed vegetables)",
+      "confidence": 75
+    },
+    {
+      "name": "quiche or baked vegetable tart (with leafy greens)",
+      "portion_estimate": "250 grams",
+      "confidence": 70
+    },
+    {
+      "name": "plums (4 small plums)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with red sauce",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll (wrapped)",
+      "portion_estimate": 60,
+      "confidence": 92
+    },
+    {
+      "name": "Roasted potatoes with herbs",
+      "portion_estimate": 140,
+      "confidence": 93
+    },
+    {
+      "name": "Stuffed vegetable (eggplant or zucchini) with cheese and pesto",
+      "portion_estimate": 200,
+      "confidence": 88
+    },
+    {
+      "name": "Cup of yogurt with red lid (brand partially visible: 'YOMO')",
+      "portion_estimate": 150,
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "100-200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "150-200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Salad with shredded carrots and cabbage",
+      "portion_estimate": "50-100 grams",
+      "confidence": "40"
+    }
+  ]
+}

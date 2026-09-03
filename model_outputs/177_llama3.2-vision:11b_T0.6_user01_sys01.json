@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Green Vegetable (likely spinach or kale)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "White Vegetable (likely cauliflower or broccoli)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Meat or Fish (likely chicken or pork)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Sauce (likely tomato or cream-based)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Cheese (likely mozzarella or parmesan)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

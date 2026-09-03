@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "shredded chicken (or turkey) topped with sauce",
+      "portion_estimate": "150-200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "roasted or mashed potatoes",
+      "portion_estimate": "120-150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "sauce (likely gravy or barbecue sauce)",
+      "portion_estimate": "30-50 grams",
+      "confidence": 75
+    },
+    {
+      "name": "peas or other mixed vegetables",
+      "portion_estimate": "50-70 grams",
+      "confidence": 70
+    }
+  ]
+}

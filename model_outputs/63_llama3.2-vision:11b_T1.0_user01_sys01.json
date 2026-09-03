@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "125g",
+      "confidence": "90"
+    },
+    {
+      "name": "Eggplant",
+      "portion_estimate": "125g",
+      "confidence": "95"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "125g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "62.5g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bottle (water)",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

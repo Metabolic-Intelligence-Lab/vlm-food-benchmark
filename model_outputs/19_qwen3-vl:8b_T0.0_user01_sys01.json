@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "omelette with diced vegetables",
+      "portion_estimate": 150,
+      "confidence": 70
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "whole grain bread slice",
+      "portion_estimate": 35,
+      "confidence": 80
+    },
+    {
+      "name": "orange",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "water",
+      "portion_estimate": 150,
+      "confidence": 90
+    }
+  ]
+}

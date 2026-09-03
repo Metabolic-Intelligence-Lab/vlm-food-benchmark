@@ -1,0 +1,31 @@
+Here is the breakdown of distinct, visible food items in the image, with estimated portion sizes and confidence levels based on visual analysis:
+
+- **Pasta salad (with pine nuts/cheese)**: Estimated at **150g** (confidence: **80%**).  
+  *Rationale: The bowl contains small pasta shapes, visible pine nuts, and cheese—typical of a serving-sized portion. Confidence is moderate due to overlapping ingredients, but the size aligns with standard pasta salad portions.*
+
+- **Bread roll**: Estimated at **70g** (confidence: **80%**).  
+  *Rationale: The packaged roll is small and cylindrical, consistent with a standard individual bread roll. Confidence is high as the packaging and size are clearly visible.*
+
+- **Cannellini beans**: Estimated at **120g** (confidence: **85%**).  
+  *Rationale: The bowl holds a generous serving of beans, matching typical canned bean portions. Confidence is high due to the clear visibility of the beans and the bowl’s capacity.*
+
+- **Toast with pesto**: Estimated at **40g** (confidence: **80%**).  
+  *Rationale: The plate shows a single slice of toast topped with pesto—common for a small serving. Confidence is moderate as pesto coverage is partially obscured, but the toast size is distinct.*
+
+- **Cheese block**: Estimated at **100g** (confidence: **75%**).  
+  *Rationale: The packaged cheese is a solid block, likely a standard serving size. Confidence is slightly lower due to packaging overlap, but the block’s dimensions suggest a reasonable estimate.*
+
+- **Grapes**: Estimated at **50g** (confidence: **80%**).  
+  *Rationale: The cluster contains approximately 4–5 grapes, fitting a typical small serving. Confidence is high as the grapes are clearly visible and countable.*
+
+### Summary of Estimates:
+| Item                          | Estimated Portion | Confidence |
+|-------------------------------|-------------------|------------|
+| Pasta salad (with pine nuts/cheese) | 150g              | 80%        |
+| Bread roll                    | 70g               | 80%        |
+| Cannellini beans              | 120g              | 85%        |
+| Toast with pesto              | 40g               | 80%        |
+| Cheese block                  | 100g              | 75%        |
+| Grapes                        | 50g               | 80%        |
+
+*Note: All estimates are based on visual assessment of the image, with confidence levels reflecting certainty in the size (e.g., 80% = "highly likely to be accurate within 5–10g range").*

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "white bread, sliced",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "carrot pieces, cooked",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "lentil stew, mixed vegetables",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

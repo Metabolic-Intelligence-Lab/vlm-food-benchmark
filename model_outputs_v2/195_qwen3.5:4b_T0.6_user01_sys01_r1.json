@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken with sauce (likely spicy stir-fried chicken)",
+      "portion_estimate": "250",
+      "confidence": "80"
+    },
+    {
+      "name": "diced potatoes (pan-fried or roasted)",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "ground meat with sauce (likely minced pork or beef in spicy dish)",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "300",
+      "confidence": "90"
+    }
+  ]
+}

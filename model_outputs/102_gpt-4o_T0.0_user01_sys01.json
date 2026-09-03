@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta with cheese",
+      "portion_estimate": "200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "diced roasted potatoes",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "chicken breast with sauce",
+      "portion_estimate": "120 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125 grams",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup (likely lentil/vegetable) with grated cheese on top",
+      "portion_estimate": "380 g",
+      "confidence": "72"
+    },
+    {
+      "name": "grated cheese (topping on soup)",
+      "portion_estimate": "12 g",
+      "confidence": "60"
+    },
+    {
+      "name": "cooked broccoli florets",
+      "portion_estimate": "90 g",
+      "confidence": "70"
+    },
+    {
+      "name": "slice of ham with a small amount of shredded cabbage/coleslaw",
+      "portion_estimate": "55 g",
+      "confidence": "68"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "65 g",
+      "confidence": "78"
+    },
+    {
+      "name": "fruit yogurt cup (apricot flavor, 'Sopriday')",
+      "portion_estimate": "150 g",
+      "confidence": "75"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "250 g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+The visible food and beverage items, along with their estimated portion sizes and confidence levels, are as follows:
+
+1. **Grilled fish fillet**  
+   - Portion size: 200g  
+   - Confidence level: 70%  
+   - *Rationale: Approximate size based on visual estimation of two fillets on a plate.*
+
+2. **Carrot and purple cabbage salad**  
+   - Portion size: 150g  
+   - Confidence level: 70%  
+   - *Rationale: Estimated volume in a typical salad bowl.*
+
+3. **Tomato sauce pasta**  
+   - Portion size: 180g  
+   - Confidence level: 70%  
+   - *Rationale: Visual estimate of pasta served on a plate.*
+
+4. **Water**  
+   - Portion size: 200g  
+   - Confidence level: 80%  
+   - *Rationale: Clear glass filled to a standard level, highly visible.*
+
+5. **Fruit juice**  
+   - Portion size: 200g  
+   - Confidence level: 70%  
+   - *Rationale: Red liquid in a glass, visually identifiable as juice.*
+
+6. **Apple**  
+   - Portion size: 150g  
+   - Confidence level: 80%  
+   - *Rationale: Standard-sized red apple, clearly visible.*
+
+7. **Beverage (cup)**  
+   - Portion size: 250g  
+   - Confidence level: 70%  
+   - *Rationale: White cup with a logo, partially visible but clearly a drink.*
+
+---
+
+### Notes on Confidence Levels:
+- **High confidence (80%)** applies to items with clear visual cues (e.g., water, apple).
+- **Moderate confidence (70%)** applies to items where visual estimation is required (e.g., fish, salad, pasta, juice, beverage cup).
+- All items are **visible** and **distinctly identifiable** in the provided context. The beverage cup, though partially visible, is included as it is a clearly identifiable drink.

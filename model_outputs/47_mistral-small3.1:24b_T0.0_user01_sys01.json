@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "frittata with vegetables",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "sliced mushroom",
+      "portion_estimate": "30",
+      "confidence": "70"
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

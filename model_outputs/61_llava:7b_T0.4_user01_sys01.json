@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Eggs and hash browns",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Cup of coffee with creamer",
+      "portion_estimate": "200 ml",
+      "confidence": "80"
+    }
+  ]
+}

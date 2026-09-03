@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bean soup with grated parmesan cheese",
+      "portion_estimate": "300",
+      "confidence": "75"
+    },
+    {
+      "name": "dinner rolls, packaged (3 rolls)",
+      "portion_estimate": "90",
+      "confidence": "70"
+    },
+    {
+      "name": "savory pie/quiche with egg and vegetable filling",
+      "portion_estimate": "150",
+      "confidence": "55"
+    },
+    {
+      "name": "roasted brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked carrot slices",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "plums (2 whole)",
+      "portion_estimate": "130",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Greek yogurt (Yomo brand)",
+      "portion_estimate": "100-150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Water (glass)",
+      "portion_estimate": "200-250 ml (assuming full)",
+      "confidence": 90
+    },
+    {
+      "name": "Bagel (whole)",
+      "portion_estimate": "50-60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Tomato slices with mozzarella and anchovies",
+      "portion_estimate": "2-3 slices (approx. 50 grams total)",
+      "confidence": 80
+    },
+    {
+      "name": "Roasted potato cubes",
+      "portion_estimate": "100-150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Lettuce and red cabbage salad",
+      "portion_estimate": "50-75 grams",
+      "confidence": 70
+    }
+  ]
+}

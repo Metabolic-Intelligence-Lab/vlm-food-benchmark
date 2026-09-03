@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Potato wedges",
+      "portion_estimate": "150g approx.",
+      "confidence": 80
+    },
+    {
+      "name": "Fried egg with a runny yolk",
+      "portion_estimate": "uncertain, approximately half of the white and part of the yolk visible",
+      "confidence": 70
+    },
+    {
+      "name": "Green leafy vegetable greens (possibly kale)",
+      "portion_estimate": "approx. 15g approx.",
+      "confidence": 90
+    },
+    {
+      "name": "Gluten-free bread in a plastic bag",
+      "portion_estimate": "uncertain, approximately half of the loaf visible",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt cup",
+      "portion_estimate": "125g approx.",
+      "confidence": 80
+    }
+  ]
+}

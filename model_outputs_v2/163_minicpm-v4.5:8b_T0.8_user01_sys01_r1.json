@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green soup (possibly pea or lentil soup)",
+      "portion_estimate": "300-350 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "sliced bread roll",
+      "portion_estimate": "50-70 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "small tub of yogurt (Yomo brand)",
+      "portion_estimate": "100 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "vegetable and white sauce portion (with mushroom)",
+      "portion_estimate": "100-120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "diced vegetables (possibly potatoes and peppers)",
+      "portion_estimate": "80-100 grams",
+      "confidence": "80"
+    }
+  ]
+}

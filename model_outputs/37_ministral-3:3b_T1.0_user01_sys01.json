@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "shredded mixed greens with beets",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "mini muffin (likely sweet or savory bread bun)",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "178",
+      "confidence": 85
+    },
+    {
+      "name": "spaghetti with sauce",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "fried egg with saut\u00e9ed greens on toast",
+      "portion_estimate": "150",
+      "confidence": 80
+    }
+  ]
+}

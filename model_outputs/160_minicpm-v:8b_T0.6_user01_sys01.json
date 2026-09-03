@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pur\u00e9ed soup",
+      "portion_estimate": "uncertain, approx. bowl size",
+      "confidence": "50"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain, approx. plate length",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrot cake with cream cheese topping and side of butter",
+      "portion_estimate": "uncertain, approx. small slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. palm size",
+      "confidence": "70"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "uncertain, whole fruit size",
+      "confidence": "50"
+    }
+  ]
+}

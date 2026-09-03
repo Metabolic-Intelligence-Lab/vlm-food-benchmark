@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "carrots",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "mushrooms",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "oatmeal",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "peach",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    }
+  ]
+}

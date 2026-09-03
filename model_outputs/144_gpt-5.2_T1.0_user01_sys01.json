@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with creamy sauce and grated cheese",
+      "portion_estimate": "300 g",
+      "confidence": "78"
+    },
+    {
+      "name": "slice of white bread",
+      "portion_estimate": "40 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cannellini/white beans in light tomato sauce",
+      "portion_estimate": "170 g",
+      "confidence": "70"
+    },
+    {
+      "name": "round vegetable patty (likely zucchini/potato) with white sauce on top",
+      "portion_estimate": "90 g",
+      "confidence": "55"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "170 g",
+      "confidence": "88"
+    }
+  ]
+}

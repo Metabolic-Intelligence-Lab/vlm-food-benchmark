@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "brown soup (likely vegetable or minestrone with visible carrots and greens)",
+      "portion_estimate": "300-350 grams",
+      "confidence": 85
+    },
+    {
+      "name": "spinach or kale greens",
+      "portion_estimate": "100-120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "toasted sandwich or flatbread with visible filling (possibly egg or meat)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt (small container with red cap)",
+      "portion_estimate": "100-120 grams",
+      "confidence": 70
+    },
+    {
+      "name": "water (in a clear bottle with a white cap)",
+      "portion_estimate": "300-400 grams",
+      "confidence": 70
+    }
+  ]
+}

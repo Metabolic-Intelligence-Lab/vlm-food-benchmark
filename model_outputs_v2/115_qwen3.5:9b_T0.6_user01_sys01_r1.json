@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with light sauce and grated cheese",
+      "portion_estimate": 280,
+      "confidence": 90
+    },
+    {
+      "name": "Red grape cluster (approx. 15 grapes)",
+      "portion_estimate": 160,
+      "confidence": 95
+    },
+    {
+      "name": "Mixed green salad with dressing",
+      "portion_estimate": 200,
+      "confidence": 90
+    },
+    {
+      "name": "Tomato sauce meatballs (3 balls)",
+      "portion_estimate": 180,
+      "confidence": 90
+    },
+    {
+      "name": "Whole wheat bread roll",
+      "portion_estimate": 60,
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "slice of cake with yellow fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "scrambled eggs with butter",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "white sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "mustard",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "whole green apple",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

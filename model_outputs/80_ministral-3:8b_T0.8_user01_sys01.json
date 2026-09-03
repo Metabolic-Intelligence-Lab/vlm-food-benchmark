@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetable rice pilaf with peas, carrots, and other mixed veggies",
+      "portion_estimate": "300 grams",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt (cup) with strawberry topping",
+      "portion_estimate": "170 grams",
+      "confidence": 85
+    },
+    {
+      "name": "roasted mixed vegetables with potatoes and broccoli",
+      "portion_estimate": "250 grams",
+      "confidence": 70
+    },
+    {
+      "name": "packaged butter or margarine",
+      "portion_estimate": "uncertain (partially visible, ~20g visible portion)",
+      "confidence": 50
+    },
+    {
+      "name": "buttery dessert with potato (likely mashed or gratinated) and a fried topping",
+      "portion_estimate": "uncertain (likely ~200 grams)",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "carrots",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "chicken with sauce",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "brussel sprouts",
+      "portion_estimate": "80g",
+      "confidence": "60"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    }
+  ]
+}

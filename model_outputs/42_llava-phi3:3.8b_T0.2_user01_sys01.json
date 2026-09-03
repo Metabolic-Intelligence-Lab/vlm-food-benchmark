@@ -1,0 +1,25 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread rolls",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    }
+  ],
+  "oranges": [
+    {
+      "quantity": 3,
+      "color": "red"
+    }
+  ]
+}

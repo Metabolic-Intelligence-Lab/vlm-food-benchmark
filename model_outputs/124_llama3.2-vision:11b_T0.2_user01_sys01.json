@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "300-400 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50-70 grams",
+      "confidence": 75
+    },
+    {
+      "name": "Fish",
+      "portion_estimate": "100-150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100-150 grams",
+      "confidence": 70
+    }
+  ]
+}

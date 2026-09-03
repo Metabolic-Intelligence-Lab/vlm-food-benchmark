@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Tomato gnocchi (dumplings) with diced tomatoes",
+      "portion_estimate": 350,
+      "confidence": 90
+    },
+    {
+      "name": "Grated cheese (Parmesan or similar hard cheese)",
+      "portion_estimate": 40,
+      "confidence": 85
+    },
+    {
+      "name": "Basil leaves (chopped)",
+      "portion_estimate": 5,
+      "confidence": 75
+    }
+  ]
+}

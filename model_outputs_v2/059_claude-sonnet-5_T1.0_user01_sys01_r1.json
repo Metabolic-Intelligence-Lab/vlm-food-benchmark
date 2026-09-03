@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad with shredded carrot, cucumber, and lettuce",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "sauteed spinach (cooked leafy greens)",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "grilled cheese/polenta-like round patty with brown sauce",
+      "portion_estimate": "100",
+      "confidence": 45
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "red plums (3 pieces)",
+      "portion_estimate": "150",
+      "confidence": 75
+    }
+  ]
+}

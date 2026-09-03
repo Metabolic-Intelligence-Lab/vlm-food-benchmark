@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "meat or vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "YAMANI packet",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

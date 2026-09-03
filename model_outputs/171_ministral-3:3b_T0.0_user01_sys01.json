@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed collard greens",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "green beans (fresh or frozen)",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "butter chicken or poached chicken breast",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "plain yogurt (red container)",
+      "portion_estimate": "150",
+      "confidence": 85
+    }
+  ]
+}

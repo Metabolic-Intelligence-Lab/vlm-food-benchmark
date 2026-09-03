@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 95
+    },
+    {
+      "name": "vegetable soup with grated cheese",
+      "portion_estimate": "300",
+      "confidence": 90
+    },
+    {
+      "name": "plain yogurt (berry flavor, Yomo brand)",
+      "portion_estimate": "125",
+      "confidence": 100
+    },
+    {
+      "name": "shredded lettuce salad with vinaigrette",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "two vegetable patties with saut\u00e9ed red cabbage",
+      "portion_estimate": "80",
+      "confidence": 85
+    }
+  ]
+}

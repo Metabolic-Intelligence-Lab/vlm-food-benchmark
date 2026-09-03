@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "boiled chicken breast pieces",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "mixed cooked vegetables (carrots, peas, potatoes)",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "creamy polenta or mashed potatoes",
+      "portion_estimate": "70",
+      "confidence": 70
+    },
+    {
+      "name": "cooked spinach",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "fruit yogurt",
+      "portion_estimate": "125",
+      "confidence": 100
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200",
+      "confidence": 100
+    }
+  ]
+}

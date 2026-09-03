@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked leafy green vegetables",
+      "portion_estimate": "180 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Stir-fried green beans",
+      "portion_estimate": "170 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Small fried savory pieces (e.g., protein/tofu)",
+      "portion_estimate": "60 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Steamed cake or tofu block",
+      "portion_estimate": "110 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "Bread slices or crackers",
+      "portion_estimate": "90 grams",
+      "confidence": "85"
+    }
+  ]
+}

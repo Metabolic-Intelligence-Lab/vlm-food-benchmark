@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Rice",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Shrimp",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    },
+    {
+      "name": "Vegetables (carrots, peas)",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    }
+  ]
+}

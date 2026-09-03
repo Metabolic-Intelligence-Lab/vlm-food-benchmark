@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with pesto sauce and grated parmesan cheese",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Whole wheat roll or bun",
+      "portion_estimate": 60,
+      "confidence": 92
+    },
+    {
+      "name": "Farro mixed with green peas",
+      "portion_estimate": 140,
+      "confidence": 95
+    },
+    {
+      "name": "Slice of savory frittata or omelet (contains mushrooms)",
+      "portion_estimate": 85,
+      "confidence": 93
+    },
+    {
+      "name": "Whole banana",
+      "portion_estimate": 120,
+      "confidence": 98
+    }
+  ]
+}

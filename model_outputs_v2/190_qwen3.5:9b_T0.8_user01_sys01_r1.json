@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Breaded meat cutlet, breaded chicken",
+      "portion_estimate": 200,
+      "confidence": 95
+    },
+    {
+      "name": "Steamed or saut\u00e9ed leafy greens",
+      "portion_estimate": 150,
+      "confidence": 97
+    },
+    {
+      "name": "Pasta with tomato-based sauce",
+      "portion_estimate": 280,
+      "confidence": 96
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fish with green sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "lemon can",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roasted vegetables with orange sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

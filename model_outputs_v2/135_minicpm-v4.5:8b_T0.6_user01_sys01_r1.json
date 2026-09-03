@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "200-250 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "barbecue chicken",
+      "portion_estimate": "150-200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "barbecue sauce",
+      "portion_estimate": "50-75 grams",
+      "confidence": "70"
+    }
+  ]
+}

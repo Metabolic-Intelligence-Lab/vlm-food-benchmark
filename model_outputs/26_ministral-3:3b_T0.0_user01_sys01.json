@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fried potato wedges",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "roasted sweet potato chunks",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "fried onion rings",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "baked or saut\u00e9ed green leafy vegetables (likely kale or collard greens)",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "dried apricots (2 pieces)",
+      "portion_estimate": "30",
+      "confidence": 80
+    },
+    {
+      "name": "water (from glass)",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "plain baguette or bread roll (from plastic bag)",
+      "portion_estimate": "50",
+      "confidence": 75
+    }
+  ]
+}

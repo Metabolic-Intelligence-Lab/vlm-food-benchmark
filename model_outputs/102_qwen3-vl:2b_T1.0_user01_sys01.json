@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bagel",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Baked pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Chicken cutlet",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt cup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Clear Kit",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken pot pie slice (or similar baked dish)",
+      "portion_estimate": "180 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed collard/green kale leaves (cut from a serving)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "tomato-based vegetable soup (from the large bowl)",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "kefir or Greek yogurt cup (suggested by packaging near the bowl)",
+      "portion_estimate": "100 grams (175ml)",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with pesto sauce (fettuccine or similar)",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "breaded and fried chicken pieces (likely nuggets or tenders)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "carrot and potato fritter or croquette",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "whole plums (2 pieces)",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "baguette or sandwich bread (sliced, wrapped in plastic)",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "small packet of condiments (type uncertain)",
+      "portion_estimate": "10",
+      "confidence": 40
+    }
+  ]
+}

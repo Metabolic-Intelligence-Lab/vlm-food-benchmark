@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "80 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "two dumplings with sauce",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "slice of bread in plastic wrap",
+      "portion_estimate": "30 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "130 grams",
+      "confidence": "95"
+    }
+  ]
+}

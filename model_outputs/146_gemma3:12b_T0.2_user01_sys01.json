@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "shredded chicken salad",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "whole wheat crackers",
+      "portion_estimate": "30",
+      "confidence": "75"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "40",
+      "confidence": "90"
+    },
+    {
+      "name": "mayonnaise packet",
+      "portion_estimate": "30",
+      "confidence": "70"
+    }
+  ]
+}

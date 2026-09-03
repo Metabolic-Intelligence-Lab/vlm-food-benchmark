@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes and cauliflower mixture",
+      "portion_estimate": 130,
+      "confidence": 85
+    },
+    {
+      "name": "roasted sweet potato and vegetable mix",
+      "portion_estimate": 90,
+      "confidence": 80
+    },
+    {
+      "name": "grilled cheese bread (cut slice)",
+      "portion_estimate": 30,
+      "confidence": 70
+    },
+    {
+      "name": "broccoli and potato stir-fry mix",
+      "portion_estimate": 110,
+      "confidence": 75
+    },
+    {
+      "name": "packaged ketchup (container on side table)",
+      "portion_estimate": 85,
+      "confidence": 65
+    },
+    {
+      "name": "wrapped cheese or parmesan packet",
+      "portion_estimate": 10,
+      "confidence": 60
+    }
+  ]
+}

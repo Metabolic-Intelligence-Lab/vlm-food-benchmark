@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Omelette with mushrooms and ham",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed vegetable stir-fry",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Apricots",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Rice with peas and corn",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    }
+  ]
+}

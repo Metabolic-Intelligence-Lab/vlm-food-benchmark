@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Lentil Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Mashed Potatoes with Meat and Vegetable Mixture",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Salad or Garnish",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

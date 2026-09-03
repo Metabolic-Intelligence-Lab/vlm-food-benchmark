@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Lasagna with roasted vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Pasta salad with macaroni",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Breaded chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Pasta with broccoli and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 62
+    },
+    {
+      "name": "Roasted Brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Fruit salad with banana",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

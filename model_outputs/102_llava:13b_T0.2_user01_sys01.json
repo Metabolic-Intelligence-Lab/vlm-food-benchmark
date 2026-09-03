@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Lasagna-like pasta dish with cheese and tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Fried potato wedges",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Meat with red sauce (stew or chili)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Yogurt or sour cream",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Sugar or sweetener packet",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with light sauce and grated cheese",
+      "portion_estimate": 240,
+      "confidence": 95
+    },
+    {
+      "name": "Whole grain bread roll or bun",
+      "portion_estimate": 60,
+      "confidence": 98
+    },
+    {
+      "name": "Fresh mixed salad (lettuce, radicchio, feta cheese)",
+      "portion_estimate": 150,
+      "confidence": 96
+    },
+    {
+      "name": "Tomato sauce meatballs (approximately 3-4 pieces)",
+      "portion_estimate": 220,
+      "confidence": 92
+    },
+    {
+      "name": "Grapes (purplish/dark variety)",
+      "portion_estimate": 110,
+      "confidence": 98
+    }
+  ]
+}

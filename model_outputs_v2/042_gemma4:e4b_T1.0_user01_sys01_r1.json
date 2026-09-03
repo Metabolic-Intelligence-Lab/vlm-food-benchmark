@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish with sauce and mixed vegetables",
+      "portion_estimate": "320g",
+      "confidence": "90"
+    },
+    {
+      "name": "Small roasted or saut\u00e9ed potato/vegetable pieces",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pur\u00e9ed dark vegetable (e.g., mashed beans or eggplant)",
+      "portion_estimate": "80g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried croquette or fritter patty",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    }
+  ]
+}

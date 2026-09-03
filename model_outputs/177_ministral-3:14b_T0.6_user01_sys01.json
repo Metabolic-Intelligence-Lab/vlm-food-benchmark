@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "roasted or saut\u00e9ed broccoli florets",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "pesto sauce with possible addition of cream or cheese",
+      "portion_estimate": "50",
+      "confidence": 75
+    },
+    {
+      "name": "penne or rigatoni pasta with tomato-based sauce",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "crusty bread roll (e.g., garlic bread or baguette)",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "small yellow apple (e.g., Golden Delicious)",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "small amount of bread crumbs or croutons",
+      "portion_estimate": "20",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Sandwich",
+      "portion_estimate": "100 g",
+      "confidence": 60
+    },
+    {
+      "name": "Pasta with vegetables",
+      "portion_estimate": "200 g",
+      "confidence": 70
+    },
+    {
+      "name": "Fries",
+      "portion_estimate": "150 g",
+      "confidence": 60
+    },
+    {
+      "name": "Purple fruit",
+      "portion_estimate": "120 g",
+      "confidence": 80
+    }
+  ]
+}

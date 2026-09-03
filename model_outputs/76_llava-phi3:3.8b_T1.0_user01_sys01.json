@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with Vegetables",
+      "portion_estimate": "80",
+      "confidence": "High"
+    },
+    {
+      "name": "Raisins in White Bowl",
+      "portion_estimate": "50",
+      "confidence": "Medium"
+    },
+    {
+      "name": "Pasta and Sauce in White Dish",
+      "portion_estimate": "70",
+      "confidence": "Low"
+    },
+    {
+      "name": "Sandwich on Bread Roll",
+      "portion_estimate": "120",
+      "confidence": "High"
+    },
+    {
+      "name": "Purple Grapes, Orange Navel, Cherries with a Twist of Lime",
+      "portion_estimate": "60",
+      "confidence": "High"
+    }
+  ]
+}

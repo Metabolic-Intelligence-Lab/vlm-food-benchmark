@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "thick bean/legume soup or stew with grated Parmesan cheese",
+      "portion_estimate": "330 g",
+      "confidence": "60"
+    },
+    {
+      "name": "cooked spinach (or similar leafy greens)",
+      "portion_estimate": "120 g",
+      "confidence": "75"
+    },
+    {
+      "name": "breaded vegetable patties/croquettes topped with melted cheese (2 pieces)",
+      "portion_estimate": "140 g",
+      "confidence": "55"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "170 g",
+      "confidence": "80"
+    },
+    {
+      "name": "small white bread roll",
+      "portion_estimate": "50 g",
+      "confidence": "75"
+    }
+  ]
+}

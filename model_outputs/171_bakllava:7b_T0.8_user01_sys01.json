@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "vegetables (green beans and spinach)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "nuts",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "beans",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "tray": {
+    "background_color": "white",
+    "items": [
+      {
+        "name": "bread roll",
+        "shape": "round",
+        "position": "left"
+      },
+      {
+        "name": "bowl of pasta",
+        "shape": "round",
+artist: "white",
+        "position": "top left"
+      },
+      {
+        "name": "jar of jam",
+        "shape": "rectangular",
+        "position": "top right"
+      },
+      {
+        "name": "bowl of beans",
+        "shape": "round",
+        "position": "bottom right"
+      },
+      {
+        "name": "glass of water",
+        "shape": "rectangular",
+        "position": "right bottom corner"
+      }
+    ]
+  }
+}

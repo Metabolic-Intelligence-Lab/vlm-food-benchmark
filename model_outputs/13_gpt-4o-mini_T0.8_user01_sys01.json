@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked greens (e.g., spinach or kale)",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded fish fillet or chicken patty",
+      "portion_estimate": "100",
+      "confidence": "70"
+    }
+  ]
+}

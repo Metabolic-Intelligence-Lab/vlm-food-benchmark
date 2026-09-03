@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked flatbread with herbs and cheese",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "shredded carrot and cabbage salad",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "beverage in small container",
+      "portion_estimate": "150g",
+      "confidence": 80
+    }
+  ]
+}

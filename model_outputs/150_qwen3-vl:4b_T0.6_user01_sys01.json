@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "25 grams",
+      "confidence": 70
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": "180 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetables (potatoes, carrots, brussels sprouts)",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "quinoa and vegetable dish",
+      "portion_estimate": "100 grams",
+      "confidence": 60
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "180 grams",
+      "confidence": 70
+    }
+  ]
+}

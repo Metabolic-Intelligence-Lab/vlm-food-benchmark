@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "raw shredded cheese",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "clear broth or light soup (liquid)",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "sliced fried egg or omelette",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "whole baked potato or sweet potato skin",
+      "portion_estimate": "120",
+      "confidence": "65"
+    },
+    {
+      "name": "packaged food item (ClearKit brand, type uncertain)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "small bread roll or sandwich roll (partially visible)",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "light-colored mashed potato or pureed vegetable",
+      "portion_estimate": "150",
+      "confidence": "78"
+    }
+  ]
+}

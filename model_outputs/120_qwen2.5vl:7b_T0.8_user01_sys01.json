@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fried food",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "150g",
+      "confidence": 90
+    }
+  ]
+}

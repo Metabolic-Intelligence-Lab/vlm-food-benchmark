@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "multigrain bread slice",
+      "portion_estimate": "50",
+      "confidence": "95"
+    },
+    {
+      "name": "broccoli and herb mixture",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "cauliflower and herb mixture",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "roasted chickpeas",
+      "portion_estimate": "130",
+      "confidence": "95"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "95"
+    },
+    {
+      "name": "wrapped sandwich",
+      "portion_estimate": "200",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "Boiled spinach",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Potato with tomato sauce",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "150",
+      "confidence": 95
+    }
+  ]
+}

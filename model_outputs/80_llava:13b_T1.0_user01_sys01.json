@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken Breast",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Rice Pilaf",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed Vegetables",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pizza",
+      "portion_estimate": "200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread Rolls",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    }
+  ]
+}

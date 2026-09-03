@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried potato wedges (potatoes, breaded and fried)",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "chicken noodle soup with rice noodles and shredded chicken",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "sliced beef with soy sauce (likely braised or stir-fried)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "clear broth or tea in small glass cup",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "white liquid in larger glass (potentially milk or rice porridge)",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    }
+  ]
+}

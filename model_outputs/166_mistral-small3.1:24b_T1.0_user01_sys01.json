@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rigatoni pasta with butter and cheese",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Quesadilla",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "Vegetable mix",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "Vanilla ice cream",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    }
+  ]
+}

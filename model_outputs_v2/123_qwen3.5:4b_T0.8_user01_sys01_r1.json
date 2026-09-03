@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with grated cheese",
+      "portion_estimate": "250 g",
+      "confidence": 90
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "118 g",
+      "confidence": 95
+    },
+    {
+      "name": "Omelette or Frittata",
+      "portion_estimate": "120 g",
+      "confidence": 85
+    },
+    {
+      "name": "Potato wedges (baked fries)",
+      "portion_estimate": "130 g",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken",
+      "portion_estimate": "80g",
+      "confidence": "90"
+    },
+    {
+      "name": "Breaded chicken piece",
+      "portion_estimate": "70g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sauce",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cheese on top of breaded chicken piece",
+      "portion_estimate": "10g",
+      "confidence": "80"
+    }
+  ]
+}

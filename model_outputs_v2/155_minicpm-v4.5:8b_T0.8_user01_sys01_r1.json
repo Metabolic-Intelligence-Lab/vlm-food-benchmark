@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with grated cheese",
+      "portion_estimate": "200-250 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "wholemeal bread",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed vegetables (lima beans, carrots)",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    }
+  ]
+}

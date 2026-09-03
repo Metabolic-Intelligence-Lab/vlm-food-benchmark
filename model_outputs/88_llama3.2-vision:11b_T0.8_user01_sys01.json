@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "plate of whole grain penne pasta with a light brown sauce and grated cheese",
+      "portion_estimate": "100-150g",
+      "confidence": "90"
+    },
+    {
+      "name": "plate of farro with peas",
+      "portion_estimate": "100-150g",
+      "confidence": "85"
+    },
+    {
+      "name": "slice of mushroom and cheese omelette",
+      "portion_estimate": "50-75g",
+      "confidence": "80"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "80-100g",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "steamed penne pasta with broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "fried egg (sunny-side up)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "toast",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

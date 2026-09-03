@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Peas",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Peas with Ham",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "60g",
+      "confidence": 65
+    }
+  ]
+}

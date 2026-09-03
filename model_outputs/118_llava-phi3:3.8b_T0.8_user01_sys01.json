@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Sauce in Bowl",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "Breadsticks on Plate",
+      "portion_estimate": "80",
+      "confidence": "70"
+    },
+    {
+      "name": "Food Container on Tray",
+      "portion_estimate": "60",
+      "confidence": "50"
+    },
+    {
+      "name": "Bag of Lay's Chips",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "Tray with Plates and Utensils",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

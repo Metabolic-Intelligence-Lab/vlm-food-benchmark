@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (possibly macaroni)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "meatloaf or similar meat dish",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad or mixed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "potatoes or rice (side dish)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "dessert or pastry (possibly cake or bread pudding)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

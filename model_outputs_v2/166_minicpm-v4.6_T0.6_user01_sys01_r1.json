@@ -1,0 +1,35 @@
+{
+  "food_items": [
+    {
+      "name": "Yogurt or dairy product (cup)",
+      "portion_estimate": "150 g",
+      "confidence": 85
+    },
+    {
+      "name": "Bread roll (bun)",
+      "portion_estimate": "150 g",
+      "confidence": 80
+    },
+    {
+      "name": "Pasta (rigatoni with sauce and cheese)",
+      "portion_estimate": "300 g",
+      "confidence": 90
+    },
+    {
+      "name": "Savory pie or pastry slice",
+      "portion_estimate": "200 g",
+      "confidence": 85
+    },
+    {
+      "name": "Saut\u00e9ed greens (spinach or similar)",
+      "portion_estimate": "200 g",
+      "confidence": 80
+    },
+    {
+      "name": "Diced potatoes",
+      "portion_estimate": "100 g",
+      "confidence": 75
+    }
+  ],
+  "total_food_items": 6
+}

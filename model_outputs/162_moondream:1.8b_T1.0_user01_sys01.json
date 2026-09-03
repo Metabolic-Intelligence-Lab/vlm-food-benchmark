@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "bagels",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "croissants",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

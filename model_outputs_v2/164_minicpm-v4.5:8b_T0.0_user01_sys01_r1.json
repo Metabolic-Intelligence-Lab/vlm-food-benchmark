@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green soup (likely spinach or vegetable soup)",
+      "portion_estimate": "300-400g",
+      "confidence": "85"
+    },
+    {
+      "name": "baked potato patty with potato chips",
+      "portion_estimate": "150-200g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked cabbage (possibly sauerkraut or boiled cabbage)",
+      "portion_estimate": "100-150g",
+      "confidence": "80"
+    },
+    {
+      "name": "whole wheat bread roll",
+      "portion_estimate": "50-70g",
+      "confidence": "70"
+    },
+    {
+      "name": "peach yogurt (Yomo brand)",
+      "portion_estimate": "125g (as labeled)",
+      "confidence": "100"
+    },
+    {
+      "name": "packaged cheese (yellow, partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

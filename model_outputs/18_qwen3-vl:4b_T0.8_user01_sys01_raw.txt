@@ -1,0 +1,24 @@
+[
+  {
+    "name": "baked fish",
+    "portion": "100g",
+    "confidence": 75
+  },
+  {
+    "name": "fusilli pasta with tomato sauce",
+    "portion": "180g",
+    "confidence": 80
+  },
+  {
+    "name": "mixed vegetable salad",
+    "portion": "150g",
+    "confidence": 75
+  },
+  {
+    "name": "water",
+    "portion": "200g",
+    "confidence": 80
+  }
+]
+
+\boxed{[{"name": "baked fish", "portion": "100g", "confidence": 75}, {"name": "fusilli pasta with tomato sauce", "portion": "180g", "confidence": 80}, {"name": "mixed vegetable salad", "portion": "150g", "confidence": 75}, {"name": "water", "portion": "200g", "confidence": 80}]}

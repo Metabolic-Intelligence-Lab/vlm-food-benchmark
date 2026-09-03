@@ -1,0 +1,30 @@
+{
+    "food_items": [
+        {
+            "name": "packaged bun",
+            "portion_estimate": "100g",
+            "confidence": 85
+        },
+        {
+            "name": "omelet with mushrooms",
+            "portion_estimate": "150g",
+            "confidence": 95
+        },
+        {
+            "name": "green beans",
+            "portion_estimate": "200g",
+            "confidence": 90
+        },
+        {
+            "name": "penne pasta with tomatoes and herbs",
+            "portion_estimate": "250g",
+            "confidence": 95
+        },
+        {
+            "name": "banana",
+            "portion_estimate": "150g",
+            "confidence": 98
+        },
+        {
+            "name": "small snack packet",
+            "portion_estimate": "50

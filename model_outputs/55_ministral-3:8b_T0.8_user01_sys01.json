@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "potato hash or gratin (likely fried or baked potato)",
+      "portion_estimate": "120-150g",
+      "confidence": 75
+    },
+    {
+      "name": "mixed vegetable medley (carrots, corn, peas, and possibly other vegetables)",
+      "portion_estimate": "150-180g",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed or steamed green leafy vegetable (spinach or collard greens)",
+      "portion_estimate": "120-150g",
+      "confidence": 80
+    },
+    {
+      "name": "water in clear plastic cup (appears to be tap water)",
+      "portion_estimate": "240-250ml (assuming standard cup size)",
+      "confidence": 70
+    }
+  ]
+}

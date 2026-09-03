@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "orange sauce with fried food",
+      "portion_estimate": "uncertain",
+      "confidence": "75"
+    },
+    {
+      "name": "applesauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "green food balls",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

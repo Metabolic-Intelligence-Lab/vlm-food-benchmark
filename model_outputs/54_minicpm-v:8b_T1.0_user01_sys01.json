@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "white rice or cooked noodles",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "cucumber salad with purple cabbage and dressing",
+      "portion_estimate": "1 cup (approx. 25g)",
+      "confidence": "90"
+    },
+    {
+      "name": "bowl of white rice or cooked noodles mixed with shredded potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "round sandwich bun on a plastic wrapper, possibly containing lettuce and meat (unclear)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with light tomato-based sauce",
+      "portion_estimate": "230 g",
+      "confidence": "82"
+    },
+    {
+      "name": "bread roll (bun)",
+      "portion_estimate": "60 g",
+      "confidence": "90"
+    },
+    {
+      "name": "whole pear",
+      "portion_estimate": "170 g",
+      "confidence": "88"
+    },
+    {
+      "name": "breaded fried vegetable pieces (likely broccoli/patties and small bites)",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "cream sauce (white sauce on top of fried vegetable item)",
+      "portion_estimate": "30 g",
+      "confidence": "65"
+    },
+    {
+      "name": "small portion of crumbly cooked side (possibly cauliflower/potato or stuffing-like crumbs)",
+      "portion_estimate": "60 g",
+      "confidence": "45"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "boiled chickpeas",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "grilled white fish fillet (2 pieces)",
+      "portion_estimate": "120",
+      "confidence": 65
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "15",
+      "confidence": 80
+    },
+    {
+      "name": "farfalle pasta with tomato sauce and diced vegetables",
+      "portion_estimate": "200",
+      "confidence": 75
+    },
+    {
+      "name": "whole wheat bread roll",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "plain yogurt cup",
+      "portion_estimate": "125",
+      "confidence": 70
+    }
+  ]
+}

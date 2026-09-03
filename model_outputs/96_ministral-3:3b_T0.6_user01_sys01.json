@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Starbucks\u00ae Coffee Cake Sandwich (single piece)",
+      "portion_estimate": "100-120 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Starbucks\u00ae Coffee Cake Sandwich (second piece)",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Unsweetened almond milk (200ml carton, ~1 cup)",
+      "portion_estimate": "200 grams",
+      "confidence": 90
+    }
+  ]
+}

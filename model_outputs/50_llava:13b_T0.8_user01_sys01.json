@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked Rice",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "35 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Cooked Shrimp",
+      "portion_estimate": "12 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": "40"
+    },
+    {
+      "name": "Peas",
+      "portion_estimate": "30 grams",
+      "confidence": "50"
+    }
+  ]
+}

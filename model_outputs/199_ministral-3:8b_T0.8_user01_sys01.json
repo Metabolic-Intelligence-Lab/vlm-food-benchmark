@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated parmesan",
+      "portion_estimate": "200g (approximate, bowl size)",
+      "confidence": 85
+    },
+    {
+      "name": "green peas (shelled)",
+      "portion_estimate": "150g (approximate, bowl size)",
+      "confidence": 85
+    },
+    {
+      "name": "quiche or cheese pie (likely with spinach or cheese filling)",
+      "portion_estimate": "100g (approximate, slice size)",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll (whole wheat or similar)",
+      "portion_estimate": "70g (approximate, size)",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup with visible chunks (potentially mushrooms and vegetables)",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "roasted potatoes (likely seasoned with herbs)",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "plain yogurt with a small can of beverage (likely a flavored drink)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "small packet of tea or instant drink (unspecified)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

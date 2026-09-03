@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with diced squash",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "butternut squash",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "couscous with vegetables",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "chicken pieces",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "slice of whole grain bread",
+      "portion_estimate": "40",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": "90"
+    }
+  ]
+}

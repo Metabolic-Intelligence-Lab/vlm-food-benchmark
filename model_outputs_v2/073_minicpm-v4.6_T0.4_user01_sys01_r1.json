@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta dish with tomatoes and other ingredients",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "15 g",
+      "confidence": 80
+    },
+    {
+      "name": "fish fillets or protein dish",
+      "portion_estimate": "170 g",
+      "confidence": 90
+    },
+    {
+      "name": "roasted potatoes or vegetable mix",
+      "portion_estimate": "50 g",
+      "confidence": 85
+    },
+    {
+      "name": "measured ingredient (like salt or sugar)",
+      "portion_estimate": "30 g",
+      "confidence": 70
+    },
+    {
+      "name": "cheese or yogurt packet",
+      "portion_estimate": "120 g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll or bun",
+      "portion_estimate": "120 g",
+      "confidence": 90
+    }
+  ]
+}

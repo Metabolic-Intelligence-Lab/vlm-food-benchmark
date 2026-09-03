@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "salad (carrots, radish, possibly other greens)",
+      "portion_estimate": "150-200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "potato cubes (roasted or fried)",
+      "portion_estimate": "100-120 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "patty (possibly meat or vegetarian)",
+      "portion_estimate": "100-120 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "grape",
+      "portion_estimate": "20 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "200-250 ml (weight depends on temperature)",
+      "confidence": "90"
+    },
+    {
+      "name": "orange-colored item (possibly a small fruit or sweet, in plastic wrap)",
+      "portion_estimate": "30-40 grams",
+      "confidence": "70"
+    }
+  ]
+}

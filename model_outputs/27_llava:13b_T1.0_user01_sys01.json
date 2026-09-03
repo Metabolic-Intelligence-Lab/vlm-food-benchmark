@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "meat patty on plate",
+      "portion_estimate": "60-80 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed greens in bowl",
+      "portion_estimate": "25-30 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "spinach on plate",
+      "portion_estimate": "25-30 grams",
+      "confidence": "60"
+    }
+  ]
+}

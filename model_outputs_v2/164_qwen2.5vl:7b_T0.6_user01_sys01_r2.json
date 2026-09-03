@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spinach soup with cheese",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "crispy fried item",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "sauerkraut",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "potato puree",
+      "portion_estimate": "50",
+      "confidence": 70
+    }
+  ]
+}

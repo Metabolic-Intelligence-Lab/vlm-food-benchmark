@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Plate of pasta (penne)",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Salad of vegetables (green beans, carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Bag of cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Plate of omelette with eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta shells with tomato-based sauce and sliced black olives",
+      "portion_estimate": "280 g",
+      "confidence": "78"
+    },
+    {
+      "name": "couscous salad with mixed vegetables (includes broccoli/greens and diced vegetables)",
+      "portion_estimate": "170 g",
+      "confidence": "72"
+    },
+    {
+      "name": "bread roll (small, white)",
+      "portion_estimate": "70 g",
+      "confidence": "75"
+    },
+    {
+      "name": "plum (whole)",
+      "portion_estimate": "65 g",
+      "confidence": "70"
+    },
+    {
+      "name": "plum (whole)",
+      "portion_estimate": "65 g",
+      "confidence": "70"
+    },
+    {
+      "name": "seaweed-wrapped seafood bite with rice and shredded vegetables (onigiri/sushi-style, uncertain)",
+      "portion_estimate": "80 g",
+      "confidence": "52"
+    }
+  ]
+}

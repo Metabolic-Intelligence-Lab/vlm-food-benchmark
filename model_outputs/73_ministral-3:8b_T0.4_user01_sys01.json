@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and meatballs",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "fried brussels sprouts",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "baked or grilled fish fillet (likely cod or similar)",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "packaged yogurt (Tomo brand)",
+      "portion_estimate": "uncertain (likely ~150g)",
+      "confidence": 60
+    },
+    {
+      "name": "white bread roll or bun",
+      "portion_estimate": "60g",
+      "confidence": 80
+    },
+    {
+      "name": "salt or seasoning packet (likely for the meal)",
+      "portion_estimate": "uncertain (negligible for calorie tracking)",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spiralized sweet potato (or yam), raw",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "roasted sweet potato (or yam) cubes",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "fried or baked potato patty (e.g., potato croquette or fritter)",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "garnish of chopped green herbs (e.g., parsley, cilantro)",
+      "portion_estimate": "5",
+      "confidence": 70
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

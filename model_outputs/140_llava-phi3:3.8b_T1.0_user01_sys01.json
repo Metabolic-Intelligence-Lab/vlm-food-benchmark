@@ -1,0 +1,42 @@
+{
+  "tray": {
+    "material": "wood",
+    "position": [
+      0.67,
+      0.35,
+      0.84,
+      1.0
+    ],
+    "color": "beige"
+  },
+  "plate_with_asparagus": {
+    "dishware": "white",
+    "portion": "large",
+    "location": [
+      0.31,
+      0.52,
+      0.74,
+      0.96
+    ]
+  },
+  "plate_with_prawns": {
+    "dishware": "white",
+    "portion": "small",
+    "location": [
+      0.18,
+      0.43,
+      0.47,
+      0.55
+    ]
+  },
+  "plate_with_shrimp": {
+    "dishware": "white",
+    "portion": "medium",
+    "location": [
+      0.23,
+      0.69,
+      0.46,
+      0.88
+    ]
+  }
+}

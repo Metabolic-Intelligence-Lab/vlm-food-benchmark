@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy chicken noodle soup",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Cooked fish fillets (possibly salmon)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Hash browns",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Sour cream",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Potatoes with vegetable accompaniment",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Loaf of bread or roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Green salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Green soup with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

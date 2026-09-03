@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "piece of quiche",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": "90"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta shells (conchigliette) with mushroom sauce and grated cheese",
+      "portion_estimate": "220",
+      "confidence": 80
+    },
+    {
+      "name": "vegetable frittata/omelette wedge with grated cheese topping",
+      "portion_estimate": "120",
+      "confidence": 65
+    },
+    {
+      "name": "sauteed diced zucchini and potatoes",
+      "portion_estimate": "130",
+      "confidence": 75
+    },
+    {
+      "name": "whole wheat bread roll, packaged",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "empty plastic cup",
+      "portion_estimate": "0",
+      "confidence": 90
+    }
+  ]
+}

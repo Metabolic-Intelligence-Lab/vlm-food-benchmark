@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Garlic bread",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    },
+    {
+      "name": "Baked chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Mixed nuts and dried fruits trail mix",
+      "portion_estimate": "uncertain",
+      "confidence": 35
+    }
+  ]
+}

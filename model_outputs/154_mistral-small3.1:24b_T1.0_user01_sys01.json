@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with pesto",
+      "portion_estimate": "200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "sliced carrot",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "vegetable patty",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "whole grain roll",
+      "portion_estimate": "60 grams",
+      "confidence": 90
+    },
+    {
+      "name": "blueberries",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    }
+  ]
+}

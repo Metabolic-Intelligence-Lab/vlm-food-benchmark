@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Soup in a bowl",
+      "portion_estimate": "300 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta salad with cheese and olives",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    }
+  ]
+}

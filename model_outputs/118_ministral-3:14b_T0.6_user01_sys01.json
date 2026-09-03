@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potatoes with herbs (potatoes au gratin or similar)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "small tomato-and-cheese stuffed bread or tart (e.g., tomato pie or focaccia slice)",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (likely Greek-style) in a plastic container",
+      "portion_estimate": "120g",
+      "confidence": 70
+    },
+    {
+      "name": "pickled vegetable mix (e.g., cucumbers, carrots) in a plastic bag",
+      "portion_estimate": "uncertain (visible amount unclear)",
+      "confidence": 50
+    }
+  ]
+}

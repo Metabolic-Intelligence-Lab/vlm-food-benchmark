@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Miso Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Bread with topping, possibly cheese or pesto",
+      "portion_estimate": "1 slice",
+      "confidence": 50
+    },
+    {
+      "name": "Carrot Soup in bowl",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Cheese Pizza",
+      "portion_estimate": "1 slice",
+      "confidence": 40
+    }
+  ]
+}

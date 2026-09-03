@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pea and carrot salad",
+      "portion_estimate": "150-200g",
+      "confidence": 85
+    },
+    {
+      "name": "soup (likely lentil with cheese topping)",
+      "portion_estimate": "300-400g",
+      "confidence": 80
+    },
+    {
+      "name": "sliced bread",
+      "portion_estimate": "50-100g",
+      "confidence": 80
+    },
+    {
+      "name": "pie/vegetable tart",
+      "portion_estimate": "100-150g",
+      "confidence": 85
+    },
+    {
+      "name": "two plums",
+      "portion_estimate": "120-150g",
+      "confidence": 75
+    }
+  ]
+}

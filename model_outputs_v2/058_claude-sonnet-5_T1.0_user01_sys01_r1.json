@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "gemelli pasta with herbs (olive oil, parsley)",
+      "portion_estimate": "180g",
+      "confidence": "75"
+    },
+    {
+      "name": "sauteed sliced carrots",
+      "portion_estimate": "120g",
+      "confidence": "75"
+    },
+    {
+      "name": "cheese and vegetable omelette",
+      "portion_estimate": "100g",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    },
+    {
+      "name": "peach",
+      "portion_estimate": "130g",
+      "confidence": "80"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "200g",
+      "confidence": "50"
+    }
+  ]
+}

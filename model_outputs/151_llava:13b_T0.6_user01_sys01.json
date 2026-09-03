@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with vegetables and possible meat or cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "mashed sweet potatoes or yams with grated cassava or tapioca",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roasted vegetables (brussels sprouts and possibly carrots)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

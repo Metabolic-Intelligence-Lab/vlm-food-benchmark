@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green tea",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bagel with cream cheese and smoked salmon",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Salad (tomato, lettuce, mozzarella)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Roasted potatoes with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

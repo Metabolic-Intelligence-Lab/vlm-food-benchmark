@@ -1,0 +1,48 @@
+{
+  "food_items": [
+    {
+      "name": "Brown Rice and Fried Egg",
+      "portion_estimate": "3/4 bowl",
+      "confidence": "90"
+    },
+    {
+      "name": "Carrot, Pineapple and Cheese Finger Foods",
+      "portion_estimate": "1/2 bowl",
+      "confidence": "85"
+    },
+    {
+      "name": "Creamy Veggie Medley with Lemon Twist",
+      "portion_estimate": "1/4 plate of vegetables",
+      "confidence": "70"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "1 piece",
+      "confidence": "95"
+    }
+  ],
+  "tablecloth": [
+    {
+      "description": "Red, white and blue cloth with a leaf pattern",
+      "color": "green",
+      "pattern": "leaves"
+    },
+    {
+      "description": "Knotted fabric in yellow, white and gray color",
+      "color": "gray",
+      "pattern": "knots"
+    }
+  ],
+  "fork_and_plate": [
+    {
+      "object": "Fork",
+      "position": "Left side of plate",
+      "purpose": "To eat the food from the bowl"
+    },
+    {
+      "object": "Plate",
+      "position": "Underneath bowls and fruits",
+      "purpose": "To hold food for eating"
+    }
+  ]
+}

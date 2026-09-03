@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted meatballs",
+      "portion_estimate": "uncertain, approx. weight of plate content",
+      "confidence": "50"
+    },
+    {
+      "name": "Mashed potatoes with gravy",
+      "portion_estimate": "uncertain, approx. weight of serving size on the plate",
+      "confidence": "40"
+    },
+    {
+      "name": "Sour cream and chives",
+      "portion_estimate": "1-2 tablespoons based on container",
+      "confidence": "60"
+    },
+    {
+      "name": "Grilled chicken breast with lemon slices",
+      "portion_estimate": "uncertain, approx. weight of plate content",
+      "confidence": "50"
+    }
+  ]
+}

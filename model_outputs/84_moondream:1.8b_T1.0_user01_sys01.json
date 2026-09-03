@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetables and breads",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fish or chicken with rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "soup dish",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sandwiches",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup with chunks (vegetables or meat)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "grilled chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "side salad (leafy greens, possibly spinach or kale)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "condiment (possibly mustard or sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

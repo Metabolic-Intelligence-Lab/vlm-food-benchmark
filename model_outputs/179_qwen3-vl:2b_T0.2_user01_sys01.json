@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "mango",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    }
+  ]
+}

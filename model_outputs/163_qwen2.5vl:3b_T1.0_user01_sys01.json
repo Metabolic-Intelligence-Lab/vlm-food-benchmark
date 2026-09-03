@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with Green Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Fried Chicken with Garlic Butter",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Zucchini Rice",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "125g",
+      "confidence": "100"
+    }
+  ]
+}

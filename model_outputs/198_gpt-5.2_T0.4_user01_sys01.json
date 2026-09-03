@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white rice (cooked)",
+      "portion_estimate": "170 g",
+      "confidence": "78"
+    },
+    {
+      "name": "chicken breast pieces (cooked, lightly sauced)",
+      "portion_estimate": "140 g",
+      "confidence": "72"
+    },
+    {
+      "name": "brussels sprouts (roasted)",
+      "portion_estimate": "110 g",
+      "confidence": "74"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "70"
+    },
+    {
+      "name": "butter or spread portion cup",
+      "portion_estimate": "10 g",
+      "confidence": "62"
+    }
+  ]
+}

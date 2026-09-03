@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "shredded carrots and cucumber salad",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "whole wheat roll or bun",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "baked egg with sauce (e.g., hollandaise or similar)",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed spinach or kale",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "red radishes",
+      "portion_estimate": "30",
+      "confidence": 80
+    }
+  ]
+}

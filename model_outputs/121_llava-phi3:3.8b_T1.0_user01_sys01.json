@@ -1,0 +1,47 @@
+{
+  "food_items": [
+    {
+      "name": "Banana",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta Salad",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread with Peanut Butter",
+      "portion_estimate": "30g of bread and 2 tablespoons peanut butter",
+      "confidence": "70"
+    },
+    {
+      "name": "Baked Beans on Toast",
+      "portion_estimate": "150g of beans, two slices toast with one tablespoon of butter",
+      "confidence": "60"
+    }
+  ],
+  "tray": {
+    "material": "white ceramic",
+    "condition": "clean"
+  },
+  "location": {
+    "position": "dining table or countertop",
+    "surroundings": [
+      {
+        "item": "glass of water",
+        "details": {
+          "size": "250ml",
+          "material": "clear glass"
+        }
+      },
+      {
+        "item": "silver fork and knife set",
+        "details": {
+          "knife": "8.5 inches long",
+          "fork": "7 inches long"
+        }
+      }
+    ]
+  }
+}

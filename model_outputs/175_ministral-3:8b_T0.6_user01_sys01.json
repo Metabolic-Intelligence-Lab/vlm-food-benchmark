@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "chicken breast with white sauce and herbs",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "green beans (saut\u00e9ed)",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "mixed greens with cheese (e.g., kale or spinach)",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "yellow cheese (e.g., cheddar or similar)",
+      "portion_estimate": "30g",
+      "confidence": 65
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "white napkin with logo",
+      "portion_estimate": "uncertain",
+      "confidence": 0
+    }
+  ]
+}

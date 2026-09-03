@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with vegetables",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried potatoes (home fries)",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Omelette with cheese and vegetables",
+      "portion_estimate": "200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll (possibly a bagel)",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cup of coffee with creamer",
+      "portion_estimate": "120ml",
+      "confidence": "60"
+    }
+  ]
+}

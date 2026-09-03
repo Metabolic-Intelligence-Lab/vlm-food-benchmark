@@ -1,0 +1,34 @@
+Here is the estimated portion size and confidence level for each identifiable item in the image:
+
+1. **Brown soup with seasoning**  
+   - **Portion size**: 200g  
+   - **Confidence**: 90%  
+   *Reasoning: The liquid in the bowl is clearly soup, and the seasoning on top is visible. Standard serving sizes for soup typically range from 180–220g, so 200g is a reasonable estimate.*
+
+2. **Tomato with mozzarella and pesto**  
+   - **Portion size**: 100g  
+   - **Confidence**: 90%  
+   *Reasoning: A slice of tomato, mozzarella cheese, and pesto are clearly visible. The combined weight of these components is estimated to be around 100g, based on typical portion sizes for such a dish.*
+
+3. **Pear**  
+   - **Portion size**: 150g  
+   - **Confidence**: 90%  
+   *Reasoning: The pear is whole and visible, with a standard weight for a medium-sized pear being approximately 150g. This is a straightforward estimate with high confidence.*
+
+4. **Cauliflower with black olives**  
+   - **Portion size**: 110g  
+   - **Confidence**: 80%  
+   *Reasoning: Cauliflower is the primary component, with a small amount of black olives visible. While the olives are identifiable, their exact quantity is less clear, leading to a slightly lower confidence level (80%). The total weight is estimated as 110g (e.g., 100g cauliflower + 10g olives).*
+
+5. **Whole grain bread slice**  
+   - **Portion size**: 30g  
+   - **Confidence**: 90%  
+   *Reasoning: The bread slice is clearly visible, and a standard slice of whole grain bread weighs about 25–35g. This estimate is precise due to the clear visibility of the bread.*
+
+---
+
+**Summary of Confidence Levels**:  
+- Items 1, 2, 3, and 5 have **high confidence (90%)** due to clear visibility and standard portion references.  
+- Item 4 has **medium confidence (80%)** because the olives are smaller and less distinct, but the cauliflower is easily measurable.  
+
+No items were marked as "uncertain" (confidence < 60%), as all visible components could be reasonably estimated.

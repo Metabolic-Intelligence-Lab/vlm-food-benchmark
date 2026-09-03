@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole medium red apple",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "baked stuffed pasta shell (e.g., filled with ricotta/spinach/meat), topped with grated cheese",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "mixed grilled vegetable medley (potentially includes bell peppers, zucchini, onions, peppers)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "sliced savory quiche or open-faced omelette with herbs",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "wrapped sandwich (loaf bread, contents uncertain - possibly ham/cheese/turkey)",
+      "portion_estimate": "100g",
+      "confidence": 55
+    }
+  ]
+}

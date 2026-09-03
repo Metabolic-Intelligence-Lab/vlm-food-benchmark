@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Salad with broccoli and a white dressing",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Water bottle",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

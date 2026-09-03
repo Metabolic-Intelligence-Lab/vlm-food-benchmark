@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "180",
+      "confidence": 75
+    },
+    {
+      "name": "green beans, boiled/steamed",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "vegetable frittata (zucchini omelette)",
+      "portion_estimate": "130",
+      "confidence": 65
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "sliced mushroom garnish",
+      "portion_estimate": "10",
+      "confidence": 55
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125",
+      "confidence": 55
+    },
+    {
+      "name": "water in plastic cup",
+      "portion_estimate": "200",
+      "confidence": 40
+    }
+  ]
+}

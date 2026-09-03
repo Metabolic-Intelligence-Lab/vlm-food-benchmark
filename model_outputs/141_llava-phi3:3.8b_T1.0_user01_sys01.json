@@ -1,0 +1,33 @@
+{
+  "tray": {
+    "material": "black",
+    "surface": "white"
+  },
+  "plates": [
+    {
+      "type": "dinner plate",
+      "color": "white",
+      "fruit_vegetable": {
+        "name": "broccoli and cauliflower mix",
+        "quantity": "2/3 cup"
+      },
+      "grain": {
+        "type": "cous cous",
+        "color": "brown",
+        "quantity": "1/2 cup"
+      }
+    },
+    {
+      "type": "small white plate",
+      "fruit_vegetable": {
+        "name": "chick peas",
+        "quantity": "1 1/2 cups"
+      },
+      "condiment": {
+        "name": "yogurt with fruit in it",
+        "color": "white and red",
+        "quantity": "1 cup"
+      }
+    }
+  ]
+}

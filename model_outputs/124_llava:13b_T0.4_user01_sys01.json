@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken or pork with vegetables and sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Soup or stew, possibly containing lentils or another type of legume",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Dessert, possibly a pudding or custard-based treat",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Salad or similar side dish",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi with tomato sauce",
+      "portion_estimate": "200-250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed salad (lettuce, tomato, onion, cheese)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": 95
+    },
+    {
+      "name": "small bread rolls (in plastic bag)",
+      "portion_estimate": "30-50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "ricotta salata cheese (in small plastic container)",
+      "portion_estimate": "30 grams",
+      "confidence": 70
+    }
+  ]
+}

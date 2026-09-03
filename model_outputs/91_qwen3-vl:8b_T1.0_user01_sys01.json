@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "220g",
+      "confidence": 95
+    },
+    {
+      "name": "Chicken strips",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "Kale",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "125g",
+      "confidence": 90
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "55g",
+      "confidence": 95
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Plastic-wrapped food item",
+      "portion_estimate": "40g",
+      "confidence": 90
+    }
+  ]
+}

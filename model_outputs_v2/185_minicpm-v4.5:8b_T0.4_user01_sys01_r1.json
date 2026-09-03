@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "200-250 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted potato cubes",
+      "portion_estimate": "150-200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "hummus or bean-based spread with shredded lettuce",
+      "portion_estimate": "50-100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "150-200 ml",
+      "confidence": "90"
+    },
+    {
+      "name": "bun or bread (in plastic wrap)",
+      "portion_estimate": "50-70 grams",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed vegetables (broccoli, potatoes)",
+      "portion_estimate": "100-150",
+      "confidence": 80
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50-70",
+      "confidence": 70
+    },
+    {
+      "name": "Vegetable soup",
+      "portion_estimate": "150-200",
+      "confidence": 80
+    },
+    {
+      "name": "Bread slice with diced potatoes",
+      "portion_estimate": "50-70",
+      "confidence": 70
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "100-150",
+      "confidence": 80
+    }
+  ]
+}

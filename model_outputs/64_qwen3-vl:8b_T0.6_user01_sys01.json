@@ -1,0 +1,26 @@
+{
+  "fusilli pasta with peppers": {
+    "portion_size": 120,
+    "confidence": 90
+  },
+  "roasted potatoes": {
+    "portion_size": 100,
+    "confidence": 85
+  },
+  "stuffed tomato": {
+    "portion_size": 50,
+    "confidence": 80
+  },
+  "water": {
+    "portion_size": 200,
+    "confidence": 95
+  },
+  "yogurt (KONO brand)": {
+    "portion_size": 120,
+    "confidence": 85
+  },
+  "bread (package)": {
+    "portion_size": "uncertain",
+    "confidence": 40
+  }
+}

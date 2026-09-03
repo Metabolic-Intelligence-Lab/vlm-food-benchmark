@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bread slice",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "steamed broccoli florets",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "grilled or baked fish fillet (likely cod or similar white fish)",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "boiled chickpeas (whole)",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "tahini or hummus (small container, partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

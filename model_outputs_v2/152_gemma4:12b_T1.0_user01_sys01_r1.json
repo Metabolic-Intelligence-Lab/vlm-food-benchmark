@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "savory pastry slice",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "diced fruit medley",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80",
+      "confidence": 95
+    },
+    {
+      "name": "pasta with cheese and toppings",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "210",
+      "confidence": 90
+    }
+  ]
+}

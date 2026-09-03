@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Dessert",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Beverage",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

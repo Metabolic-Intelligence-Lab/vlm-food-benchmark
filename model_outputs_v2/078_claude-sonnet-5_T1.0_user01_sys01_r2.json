@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pumpkin/squash soup with grated cheese topping",
+      "portion_estimate": "300",
+      "confidence": "75"
+    },
+    {
+      "name": "diced roasted pumpkin/squash cubes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "savory vegetable fritter or patty with egg yolk sauce",
+      "portion_estimate": "120",
+      "confidence": "55"
+    },
+    {
+      "name": "fresh apricots",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged cheese wedge or butter portion",
+      "portion_estimate": "20",
+      "confidence": "40"
+    }
+  ]
+}

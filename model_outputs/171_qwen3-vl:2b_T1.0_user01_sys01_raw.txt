@@ -1,0 +1,49 @@
+### **Food Items with Estimated Portions and Confidence Levels**
+
+#### **1. Leafy Green Vegetables (Bowl)**
+- **Item Type:** Vegetables  
+- **Portion Size:** 100 g  
+- **Confidence Level:** 70%  
+- **Notes:** The bowl appears to hold a significant amount of greens. Based on typical bowl sizes and visual estimation, the portion is estimated at 100 g. Confidence is moderate due to the visual estimation of volume and lack of precise measurements.
+
+#### **2. Green Beans (Bowl)**
+- **Item Type:** Vegetables  
+- **Portion Size:** 100 g  
+- **Confidence Level:** 70%  
+- **Notes:** The bowl contains a substantial amount of green beans. Similar to the leafy greens, the volume is estimated at 100 g. Confidence is high due to the visual consistency with a typical bowl size.
+
+#### **3. Chicken Breast (Sliced)**
+- **Item Type:** Meat  
+- **Portion Size:** 60 g  
+- **Confidence Level:** 80%  
+- **Notes:** Two slices of chicken breast are visible. Based on visual estimation, each slice is approximately 30 g, totaling 60 g. Confidence is high due to the clear visual representation.
+
+#### **4. Jelly (in Container)**
+- **Item Type:** Beverage  
+- **Portion Size:** 50 g  
+- **Confidence Level:** 85%  
+- **Notes:** The container is small and appears to hold a measured amount of jelly. Estimating based on typical container sizes and visible portion, the portion is 50 g. Confidence is high due to the visual estimation of the container.
+
+#### **5. Bread (Two Slices)**
+- **Item Type:** Bread  
+- **Portion Size:** 100 g  
+- **Confidence Level:** 75%  
+- **Notes:** Two slices of bread are visible. Estimating based on visual cues, each slice is approximately 50 g, totaling 100 g. Confidence is medium due to the visual representation of the bread and the difficulty in measuring precise portions.
+
+---
+
+### **Summary of Estimated Portions**
+| Item                   | Portion Size | Confidence |
+|------------------------|-------------|------------|
+| Leafy Green Vegetables | 100 g        | 70%        |
+| Green Beans            | 100 g        | 70%        |
+| Chicken Breast         | 60 g         | 80%        |
+| Jelly                  | 50 g         | 85%        |
+| Bread                  | 100 g        | 75%        |
+
+---
+
+### **Key Notes**
+- **Assumptions:** Based on visual estimation of bowl sizes, portion volumes, and typical food portions.
+- **Confidence:** Ranges from 70% to 85%, reflecting varying levels of visual accuracy and potential for error.
+- **Validation:** Some items (e.g., jelly) are slightly different in perceived portion due to container size and visual clarity. This may vary slightly across different measurements.

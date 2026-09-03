@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "creamy baked farfalle pasta casserole",
+      "portion_estimate": "220 g",
+      "confidence": "75"
+    },
+    {
+      "name": "glazed baked chicken breast",
+      "portion_estimate": "130 g",
+      "confidence": "80"
+    },
+    {
+      "name": "diced cooked carrots and onions",
+      "portion_estimate": "100 g",
+      "confidence": "75"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "85"
+    },
+    {
+      "name": "single-serve cream cheese spread cup",
+      "portion_estimate": "25 g",
+      "confidence": "70"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "100 g",
+      "confidence": "65"
+    },
+    {
+      "name": "packaged crackers or cookies",
+      "portion_estimate": "25 g",
+      "confidence": "45"
+    }
+  ]
+}

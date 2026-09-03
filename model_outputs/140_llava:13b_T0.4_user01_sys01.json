@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grapes or plums",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "cooked vegetables (including brussels sprouts and other roasted vegetables)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "breaded and fried fish",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "dark green leafy greens (spinach or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "chicken soup (broth portion)",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "grilled chicken breast (with glaze)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "roasted chickpeas",
+      "portion_estimate": "75",
+      "confidence": 80
+    },
+    {
+      "name": "granola bar packet",
+      "portion_estimate": "30",
+      "confidence": 70
+    },
+    {
+      "name": "water (glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

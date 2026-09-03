@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "stuffed baked bread (possibly filled with cheese or meat)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "roasted mixed vegetables (green beans, carrots, possibly bell peppers)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100 grams (3-4 plums)",
+      "confidence": 80
+    }
+  ]
+}

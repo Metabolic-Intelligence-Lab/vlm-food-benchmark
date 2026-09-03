@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled or pan-seared pork chop (bone-in, herb-marinated)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed broccoli (florets, with minimal seasoning)",
+      "portion_estimate": "120",
+      "confidence": 88
+    },
+    {
+      "name": "cream-based soup with vegetables and herbs (likely chicken or vegetable broth)",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "granulated sugar or sweetener in a container (e.g., 'Star' brand)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread roll or flatbread (crusty or partially wrapped in plastic)",
+      "portion_estimate": "70",
+      "confidence": 80
+    },
+    {
+      "name": "water (in a clear glass, partially visible)",
+      "portion_estimate": "250",
+      "confidence": 80
+    }
+  ]
+}

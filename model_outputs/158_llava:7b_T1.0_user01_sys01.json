@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Beans (or legumes)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Dinner roll or similar bread item",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Pasta dish, potentially with vegetables like zucchini and carrot",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Coffee (if it has cream added or if the container is for cream)",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    }
+  ]
+}

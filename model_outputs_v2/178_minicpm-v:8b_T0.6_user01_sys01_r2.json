@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with herbs",
+      "portion_estimate": "uncertain, approx. weight of spaghetti on plate",
+      "confidence": "60"
+    },
+    {
+      "name": "quiche slice",
+      "portion_estimate": "15-20g (estimated from portion size)",
+      "confidence": "70"
+    },
+    {
+      "name": "french toast sticks",
+      "portion_estimate": "uncertain, approx. weight of french toast on plate",
+      "confidence": "60"
+    },
+    {
+      "name": "butter slice",
+      "portion_estimate": "2-3g (estimated from portion size)",
+      "confidence": "75"
+    },
+    {
+      "name": "cheese wedge",
+      "portion_estimate": "uncertain, approx. weight of cheese on plate",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "1-2oz (estimated from portion size)",
+      "confidence": "75"
+    }
+  ]
+}

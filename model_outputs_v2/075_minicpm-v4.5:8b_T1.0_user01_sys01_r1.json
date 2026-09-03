@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetable and potato salad",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "poached or baked white fish fillet",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "baked beans",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "small sandwich (likely rye or whole grain bread with filling)",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "100"
+    }
+  ]
+}

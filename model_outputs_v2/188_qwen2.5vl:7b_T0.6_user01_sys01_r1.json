@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "tortilla",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "50",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Thick pureed soup or vegetable puree",
+      "portion_estimate": "320 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Plain bread roll or bun",
+      "portion_estimate": "110 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Open-faced snack with green topping (e.g., herbs/avocado)",
+      "portion_estimate": "90 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed side dish (e.g., mashed potatoes or hummus)",
+      "portion_estimate": "110 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Water or clear beverage (in plastic bottle)",
+      "portion_estimate": "300 grams",
+      "confidence": "75"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with tomato sauce",
+      "portion_estimate": "approx. 100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken nuggets",
+      "portion_estimate": "approx. 40g",
+      "confidence": "60"
+    },
+    {
+      "name": "Cheese and grapes",
+      "portion_estimate": "1/2 cup (approximately 30g)",
+      "confidence": "50"
+    },
+    {
+      "name": "Breadsticks",
+      "portion_estimate": "1 breadstick (approximately 50g)",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta salad with cheese and grapes",
+      "portion_estimate": "approx. 80g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "roasted broccoli florets with breadcrumbs",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "pesto sauce",
+      "portion_estimate": "uncertain (unmeasurable without reference)",
+      "confidence": 55
+    },
+    {
+      "name": "baked or fried egg pieces",
+      "portion_estimate": "100g (estimated based on appearance)",
+      "confidence": 70
+    },
+    {
+      "name": "penne pasta with red sauce",
+      "portion_estimate": "200g (cooked)",
+      "confidence": 80
+    },
+    {
+      "name": "artisan bread roll",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "whole lemon",
+      "portion_estimate": "150g",
+      "confidence": 85
+    }
+  ]
+}

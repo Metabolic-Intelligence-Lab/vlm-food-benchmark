@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken with herb sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "Baked beans",
+      "portion_estimate": "120",
+      "confidence": "75"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200",
+      "confidence": "90"
+    }
+  ]
+}

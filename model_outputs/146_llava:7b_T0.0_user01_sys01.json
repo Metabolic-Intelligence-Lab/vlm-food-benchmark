@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Macaroni and cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Cheese and crackers",
+      "portion_estimate": "30 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta salad with olives",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    }
+  ]
+}

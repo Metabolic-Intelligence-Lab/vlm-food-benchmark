@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and cheese",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "savory baked pastry with herbs",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "saut\u00e9ed greens with garlic",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70g",
+      "confidence": 95
+    },
+    {
+      "name": "processed cheese stick",
+      "portion_estimate": "50g",
+      "confidence": 85
+    }
+  ]
+}

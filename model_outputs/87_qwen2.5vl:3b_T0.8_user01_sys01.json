@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked Green Beans",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt Covered Vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    }
+  ]
+}

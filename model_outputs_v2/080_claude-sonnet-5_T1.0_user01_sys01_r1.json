@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "rice salad with peas, corn, carrots, olives, and pickled onions",
+      "portion_estimate": "220",
+      "confidence": "75"
+    },
+    {
+      "name": "Yomo yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "vegetable frittata/omelet with pesto and grilled chicken piece",
+      "portion_estimate": "150",
+      "confidence": "60"
+    },
+    {
+      "name": "peach (whole, in plastic wrap)",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "mayonnaise sachet",
+      "portion_estimate": "15",
+      "confidence": "70"
+    }
+  ]
+}

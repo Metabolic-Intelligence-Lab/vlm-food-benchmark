@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "two pieces of white bread",
+      "portion_estimate": "40g each",
+      "confidence": "90"
+    },
+    {
+      "name": "pasta with red sauce on a plate",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "plate of meat and cheese",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "bowl of vegetables with a white sauce over them",
+      "portion_estimate": "125g",
+      "confidence": "70"
+    },
+    {
+      "name": "glass of red wine on table",
+      "portion_estimate": "250ml",
+      "confidence": "80"
+    }
+  ]
+}

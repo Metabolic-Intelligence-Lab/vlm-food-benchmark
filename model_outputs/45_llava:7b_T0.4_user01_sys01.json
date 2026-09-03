@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Crispy chicken",
+      "portion_estimate": "125g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Carrot salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Breaded fish fillet",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Corn on the cob",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Corn relish",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

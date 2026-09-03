@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white fish fillet with breadcrumb coating",
+      "portion_estimate": "100-120g",
+      "confidence": 80
+    },
+    {
+      "name": "roasted brussels sprouts",
+      "portion_estimate": "100-120g",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetable and cheese gratin",
+      "portion_estimate": "150-200g",
+      "confidence": 70
+    },
+    {
+      "name": "two plums (or similar dark fruits)",
+      "portion_estimate": "50-70g each",
+      "confidence": 85
+    },
+    {
+      "name": "water",
+      "portion_estimate": "300-400ml (for a full cup)",
+      "confidence": 100
+    }
+  ]
+}

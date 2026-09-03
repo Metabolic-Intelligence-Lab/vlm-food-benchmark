@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "quiche slice with mixed vegetables",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted carrots",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "rice salad with corn, peas, diced ham, and diced apple",
+      "portion_estimate": "250",
+      "confidence": "80"
+    },
+    {
+      "name": "tangerines",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "rolls",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "food_items": [
+    {
+      "name": "white bowl of broccoli and cauliflower",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "white bowl of soup with cheese on top",
+      "portion_estimate": "160g",
+      "confidence": "85"
+    },
+    {
+      "name": "piece of breaded chicken",
+      "portion_estimate": "70g",
+      "confidence": "80"
+    },
+    {
+      "name": "white bowl of applesauce with cinnamon on top",
+      "portion_estimate": "160g",
+      "confidence": "95"
+    }
+  ],
+  "tray": [
+    {
+      "side": [
+        {
+          "name": "white plate of chicken and applesauce",
+          "portion_estimate": [
+            {
+              "chicken": "60g",
+              "applesauce": "100g"
+            }
+          ],
+          "confidence": 93
+        },
+        {
+          "name": "white plate of broccoli and cauliflower",
+          "portion_estimate": [
+            {
+              "broccoli": "60g",
+              "cauliflower": "60g"
+            }
+          ],
+          "confidence": 93
+        }
+      ]
+    }
+  ]
+}

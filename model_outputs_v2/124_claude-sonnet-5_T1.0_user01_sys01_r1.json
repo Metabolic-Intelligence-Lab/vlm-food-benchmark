@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried chicken pieces (chunks)",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "15",
+      "confidence": 80
+    },
+    {
+      "name": "vegetable and legume minestrone soup with grated parmesan cheese",
+      "portion_estimate": "350",
+      "confidence": 75
+    },
+    {
+      "name": "breaded fried fish fillet",
+      "portion_estimate": "100",
+      "confidence": 65
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "individual butter portion (packaged)",
+      "portion_estimate": "10",
+      "confidence": 60
+    },
+    {
+      "name": "fruit yogurt drink (Yomo cup)",
+      "portion_estimate": "125",
+      "confidence": 75
+    }
+  ]
+}

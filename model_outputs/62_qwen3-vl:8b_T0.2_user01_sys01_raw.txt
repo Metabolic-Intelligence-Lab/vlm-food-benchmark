@@ -1,0 +1,41 @@
+### List of Items with Portions and Confidence
+
+1. **Pasta with tomato sauce and peppers**  
+   - **Portion**: 180g  
+   - **Confidence**: 80%  
+   - *Reasoning*: Clearly visible as a main dish; portion size is reasonable for a standard serving. Confidence is high due to direct observation.
+
+2. **Cooked leafy green (spinach/kale)**  
+   - **Portion**: 100g  
+   - **Confidence**: 80%  
+   - *Reasoning*: Visible as a side dish; portion size aligns with typical serving. Confidence is high due to clear identification.
+
+3. **Round food item with sauce (e.g., potato or patty)**  
+   - **Portion**: 80g  
+   - **Confidence**: 70%  
+   - *Reasoning*: Appears as a main component but is ambiguous (could be a potato or patty). Portion estimate is reasonable but less certain due to visual ambiguity. Confidence is medium.
+
+4. **Bread roll (panini)**  
+   - **Portion**: 50g  
+   - **Confidence**: 80%  
+   - *Reasoning*: Labeled as "panini" and visible as a small roll. Portion size is consistent with a standard serving. Confidence is high due to clear labeling.
+
+5. **YOMO sauce container**  
+   - **Portion**: 30g  
+   - **Confidence**: 70%  
+   - *Reasoning*: Visible as a small container of sauce; portion size is typical for a condiment. Confidence is medium due to uncertainty about exact contents (e.g., whether it’s a specific sauce or generic).
+
+6. **Water**  
+   - **Portion**: 150g  
+   - **Confidence**: 90%  
+   - *Reasoning*: Clearly visible as a glass of water; portion size is standard for a single serving. Confidence is high due to direct observation.
+
+---
+
+### Notes on Confidence
+- **Confidence levels** reflect the certainty of the portion estimate and item identification.  
+- **Uncertainty** is only applied if the item or portion is ambiguous (e.g., if the round food item were indistinguishable, confidence would drop below 60%).  
+- **Beverages** (e.g., water) are included as they are explicitly part of the "food and beverage" category.  
+- **Portion sizes** are estimated based on visual cues and typical serving standards.  
+
+This list covers all visible items with reasonable estimates and confidence levels. If further details are needed, additional context (e.g., specific dish names) could refine the analysis.

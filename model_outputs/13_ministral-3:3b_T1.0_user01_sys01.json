@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "halved watermelon slice",
+      "portion_estimate": "70-80 grams",
+      "confidence": 90
+    },
+    {
+      "name": "orange stir-fried carrots/pastas",
+      "portion_estimate": "100-110 grams",
+      "confidence": 85
+    },
+    {
+      "name": "crispy fried tofu/cutlet with greens (spinach-like veg)",
+      "portion_estimate": "60-70 grams (excluding oil grease)",
+      "confidence": 75
+    },
+    {
+      "name": "water or clear beverage (plastic cup)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "tomato-sauce fusilli pasta bake",
+      "portion_estimate": "180 g",
+      "confidence": "75"
+    },
+    {
+      "name": "red cabbage and cucumber salad with dressing",
+      "portion_estimate": "100 g",
+      "confidence": "85"
+    },
+    {
+      "name": "two breaded vegetable croquettes or patties",
+      "portion_estimate": "90 g",
+      "confidence": "70"
+    },
+    {
+      "name": "uncertain sauced meatball or dumpling",
+      "portion_estimate": "80 g",
+      "confidence": "45"
+    }
+  ]
+}

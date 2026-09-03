@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot wedges",
+      "portion_estimate": 50,  // Approximate based on quantity seen
+      "confidence": 85
+    },
+    {
+      "name": "hummus balls (falafel patties)",
+      "portion_estimate": 40,  // Assuming 2 patties each ~20g
+      "confidence": 80
+    },
+    {
+      "name": "green soup (liquid level)",
+      "portion_estimate": 150,  // Assuming ~cup size portion (approx)
+      "confidence": 70
+    },
+    {
+      "name": "Torinesi (ricotta dessert, pouch)",
+      "portion_estimate": 200,  // Standard serving size (varies by pouch)
+      "confidence": 90
+    },
+    {
+      "name": "plain white sauce packet (uncertain)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

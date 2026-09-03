@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Brown liquid in a bowl",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Biscuit or cookie",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Small portion of leafy green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Unrecognizable food item in a container",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

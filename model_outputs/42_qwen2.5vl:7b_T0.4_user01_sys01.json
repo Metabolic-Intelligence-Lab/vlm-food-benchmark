@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Twisted pasta with sauce",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Yellow rice with purple leaf",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Apricots",
+      "portion_estimate": "150",
+      "confidence": 60
+    }
+  ]
+}

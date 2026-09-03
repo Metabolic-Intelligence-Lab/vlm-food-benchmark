@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "meat patty with condiments",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "approximately 200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "steamed carrots",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": "80"
+    }
+  ]
+}

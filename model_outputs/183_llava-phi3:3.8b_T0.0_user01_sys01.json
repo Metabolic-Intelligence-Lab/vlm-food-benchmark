@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "square piece of cake",
+      "portion_estimate": "10g",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "30g",
+      "confidence": "80"
+    },
+    {
+      "name": "bowl of soup",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "plate of brussels sprouts",
+      "portion_estimate": "60g",
+      "confidence": "80"
+    },
+    {
+      "name": "apple slice",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    }
+  ]
+}

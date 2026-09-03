@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup",
+      "portion_estimate": "large",
+      "confidence": "90"
+    },
+    {
+      "name": "plate with bread and meatballs",
+      "portion_estimate": "small",
+      "confidence": "70"
+    },
+    {
+      "name": "orange on table next to plate",
+      "portion_estimate": "medium",
+      "confidence": "80"
+    },
+    {
+      "name": "clear plastic cup with ice in it",
+      "portion_estimate": "small",
+      "confidence": "60"
+    },
+    {
+      "name": "bag of bread",
+      "portion_estimate": "medium",
+      "confidence": "70"
+    },
+    {
+      "name": "bread in a bag with plastic wrap around it",
+      "portion_estimate": "large",
+      "confidence": "80"
+    }
+  ]
+}

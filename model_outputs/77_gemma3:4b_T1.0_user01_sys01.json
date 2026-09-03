@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Roasted Vegetables",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Peanuts",
+      "portion_estimate": "60g",
+      "confidence": 90
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "80g",
+      "confidence": 75
+    }
+  ]
+}

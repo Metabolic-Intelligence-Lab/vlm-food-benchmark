@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked white rice",
+      "portion_estimate": "150 g",
+      "confidence": "85"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked chicken breast fillet",
+      "portion_estimate": "90 g",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted Brussels sprouts",
+      "portion_estimate": "80 g",
+      "confidence": "75"
+    },
+    {
+      "name": "single-serve yogurt cup",
+      "portion_estimate": "113 g",
+      "confidence": "70"
+    },
+    {
+      "name": "packaged string cheese stick",
+      "portion_estimate": "28 g",
+      "confidence": "60"
+    }
+  ]
+}

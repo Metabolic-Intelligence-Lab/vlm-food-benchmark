@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "white rice",
+      "portion_estimate": "approximate weight in grams for a typical serving of white rice, based on portion size and common serving sizes.",
+      "confidence": "90"
+    },
+    {
+      "name": "chickpeas (chana)",
+      "portion_estimate": "approximate weight in grams for chickpeas, based on visible quantity",
+      "confidence": "85"
+    },
+    {
+      "name": "whole grain bread",
+      "portion_estimate": "approximate weight in grams for a typical serving of whole-grain bread.",
+      "confidence": "90"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "approximate weight in grams for a green apple, based on visible quantity.",
+      "confidence": "85"
+    }
+  ]
+}

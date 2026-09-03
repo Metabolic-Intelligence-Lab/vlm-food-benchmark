@@ -1,0 +1,35 @@
+{
+  "food_items": [
+    {
+      "name": "sliced carrot slices",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "green soup",
+      "portion_estimate": "approximately 250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "fritter-like bread balls",
+      "portion_estimate": "approximately 50 grams each",
+      "confidence": 95
+    },
+    {
+      "name": "Torinesi packet",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "yogurt or dip",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": 90
+    },
+    {
+      "name": "seaweed",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": 95
+    }
+  ],
+  "note": "Portion estimates are based on visual assessment and typical serving sizes."
+}

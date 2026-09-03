@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup (likely vegetable or cream-based)",
+      "portion_estimate": "450",
+      "confidence": 75
+    },
+    {
+      "name": "roasted potato wedges with herbs",
+      "portion_estimate": "150",
+      "confidence": 70
+    },
+    {
+      "name": "baked or fried fish fillet with sauce",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "buttered or garlic bread roll",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "condiment packet (unspecified, possibly cheese or seasoning)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

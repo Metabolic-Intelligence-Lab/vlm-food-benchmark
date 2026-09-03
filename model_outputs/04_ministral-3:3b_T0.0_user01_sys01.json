@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "whole banana",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "salad mix (lettuce, tomatoes, black olives, possibly grilled chicken or tofu)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small mozzarella balls (cheese)",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "wrapped sandwich bun (likely a baguette or similar)",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried chicken fillet",
+      "portion_estimate": "uncertain (likely approx 100g)",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "uncertain (likely approx 250g)",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with tomato-based sauce and mixed pasta shapes",
+      "portion_estimate": "uncertain (likely approx 300g)",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain bun",
+      "portion_estimate": "approx. 150-200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Milk or milk-like beverage in plastic cup",
+      "portion_estimate": "uncertain (likely approx 300ml)",
+      "confidence": "60"
+    }
+  ]
+}

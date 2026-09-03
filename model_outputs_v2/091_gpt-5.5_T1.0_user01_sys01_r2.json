@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup with grated cheese topping",
+      "portion_estimate": "330 grams",
+      "confidence": "82"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "55 grams",
+      "confidence": "88"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125 grams",
+      "confidence": "92"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 grams",
+      "confidence": "93"
+    },
+    {
+      "name": "sliced chicken with lettuce salad",
+      "portion_estimate": "120 grams",
+      "confidence": "76"
+    },
+    {
+      "name": "cooked leafy greens",
+      "portion_estimate": "120 grams",
+      "confidence": "82"
+    },
+    {
+      "name": "uncertain wrapped elongated food item",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    }
+  ]
+}

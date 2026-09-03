@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and vegetables",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "steamed or saut\u00e9ed kale",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "small baked or fried bread roll (likely a brioche or similar)",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "condiment packet (likely ketchup or similar tomato-based sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "plain water in a glass",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

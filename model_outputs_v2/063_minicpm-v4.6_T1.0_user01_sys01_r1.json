@@ -1,0 +1,30 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "baked eggplant or casserole",
+      "portion_estimate": "120 g",
+      "confidence": 90
+    },
+    {
+      "name": "salad with shredded carrots and chicken",
+      "portion_estimate": "200 g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100 g",
+      "confidence": 80
+    },
+    {
+      "name": "drinking glass (beverage)",
+      "portion_estimate": "unknown",
+      "confidence": 70
+    }
+  ],
+  "notes": "Items are identified based on visible food and drink components. Portions are estimated for nutritional tracking."
+}

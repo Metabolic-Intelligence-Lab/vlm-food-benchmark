@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Caesar salad",
+      "portion_estimate": "150 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta dish with meat sauce and cheese",
+      "portion_estimate": "150 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Baked potato with sour cream",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    }
+  ]
+}

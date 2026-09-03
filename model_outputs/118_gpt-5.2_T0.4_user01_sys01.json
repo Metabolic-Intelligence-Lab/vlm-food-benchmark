@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "260 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated parmesan cheese (on pasta)",
+      "portion_estimate": "10 g",
+      "confidence": "65"
+    },
+    {
+      "name": "roasted diced potatoes with herbs",
+      "portion_estimate": "180 g",
+      "confidence": "72"
+    },
+    {
+      "name": "breaded chicken cutlet topped with tomato sauce and melted mozzarella (chicken parmigiana-style)",
+      "portion_estimate": "170 g",
+      "confidence": "67"
+    },
+    {
+      "name": "single-serve yogurt (sealed cup)",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    }
+  ]
+}

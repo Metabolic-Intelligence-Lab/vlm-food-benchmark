@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat pasta (farfalle) in creamy tomato sauce with parmesan",
+      "portion_estimate": "250",
+      "confidence": 75
+    },
+    {
+      "name": "whole grain bread slices",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "boiled cauliflower florets",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "savory cracker/flatbread with seeds",
+      "portion_estimate": "20",
+      "confidence": 65
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "packaged butter portion",
+      "portion_estimate": "10",
+      "confidence": 60
+    }
+  ]
+}

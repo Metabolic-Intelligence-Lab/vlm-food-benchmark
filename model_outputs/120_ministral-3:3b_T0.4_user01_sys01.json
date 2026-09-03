@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken cutlet",
+      "portion_estimate": "150-200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "cauliflower florets (fried or roasted)",
+      "portion_estimate": "100-120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "soup with chunks (potentially meat and vegetables)",
+      "portion_estimate": "300-350 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt (red container with 'Yoplait' branding)",
+      "portion_estimate": "150 grams (standard serving size)",
+      "confidence": 85
+    },
+    {
+      "name": "plain bread roll (partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

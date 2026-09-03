@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked white fish fillet (likely baked/steamed)",
+      "portion_estimate": "110 g",
+      "confidence": "65"
+    },
+    {
+      "name": "sliced cooked carrots",
+      "portion_estimate": "90 g",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked lentils with carrot pieces",
+      "portion_estimate": "210 g",
+      "confidence": "78"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "180 g",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged dessert/pudding cup (unopened, flavor uncertain)",
+      "portion_estimate": "100 g",
+      "confidence": "55"
+    }
+  ]
+}

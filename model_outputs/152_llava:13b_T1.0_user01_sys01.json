@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "roll with filling",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta with tomato sauce and topping",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roasted or grilled potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "candy or dessert",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

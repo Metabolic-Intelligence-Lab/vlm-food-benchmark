@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "two vegetable patties (likely spinach and tomato)",
+      "portion_estimate": "80 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "bowtie pasta with grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "small bread roll (in plastic wrap)",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "three plums",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    }
+  ]
+}

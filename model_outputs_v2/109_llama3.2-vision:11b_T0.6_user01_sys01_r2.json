@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Steamed Green Beans",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "White Rice",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Boiled Potato",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

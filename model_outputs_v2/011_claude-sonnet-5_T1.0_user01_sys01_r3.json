@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "wrap/crepe filled with vegetables, sesame seeds on top",
+      "portion_estimate": "150g",
+      "confidence": 65
+    },
+    {
+      "name": "sauteed spinach (cooked leafy greens)",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll (panino), wrapped in plastic",
+      "portion_estimate": "70g",
+      "confidence": 75
+    },
+    {
+      "name": "red and white cabbage coleslaw salad in bowl",
+      "portion_estimate": "90g",
+      "confidence": 70
+    },
+    {
+      "name": "orange (whole fruit)",
+      "portion_estimate": "130g",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (cooked, with parmesan shavings)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "vegetable quesadilla (with spinach and cheese, possibly bell peppers)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "whole wheat tortilla or sandwich roll (unwrapped, partially visible)",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt (plain or flavored, individual serving cup)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "sticks of butter or margarine (packaged, partially visible)",
+      "portion_estimate": "50g",
+      "confidence": 70
+    }
+  ]
+}

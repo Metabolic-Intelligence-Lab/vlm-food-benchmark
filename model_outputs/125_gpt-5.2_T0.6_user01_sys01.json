@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "vegetable soup or stew (brown/green, possibly lentil/bean based) with grated cheese/butter on top",
+      "portion_estimate": "320 g",
+      "confidence": "60"
+    },
+    {
+      "name": "small baked pastry or cake piece with powdered sugar and purple cabbage garnish",
+      "portion_estimate": "60 g",
+      "confidence": "55"
+    },
+    {
+      "name": "creamy pale yellow sauce/dressing (served on plate)",
+      "portion_estimate": "45 g",
+      "confidence": "65"
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    }
+  ]
+}

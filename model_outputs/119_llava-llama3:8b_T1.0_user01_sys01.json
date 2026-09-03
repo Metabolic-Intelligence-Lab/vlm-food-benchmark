@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked shrimp",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "black beans with red salsa",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

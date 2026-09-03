@@ -1,0 +1,36 @@
+```json
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and cheese",
+      "portion_estimate": "250",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80",
+      "confidence": 95
+    },
+    {
+      "name": "dip in small container",
+      "portion_estimate": "80",
+      "confidence": 95
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "herb-flecked vegetable mash",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "fish and potato chunks",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "wrapped food item",
+      "portion_estimate": "15

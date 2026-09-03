@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of orange soup",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "plate with fried potatoes and a fried egg",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "100",
+      "confidence": "60"
+    }
+  ]
+}

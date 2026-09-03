@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "approx. 500g",
+      "confidence": "80"
+    },
+    {
+      "name": "breadsticks with seasoning",
+      "portion_estimate": "approx. 25g each, assuming one per breadstick",
+      "confidence": "70"
+    },
+    {
+      "name": "potato wedges",
+      "portion_estimate": "approx. 100g",
+      "confidence": "60"
+    },
+    {
+      "name": "cheese puffs",
+      "portion_estimate": "approx. 50g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "carrot-based vegetable soup",
+      "portion_estimate": "350g",
+      "confidence": "75"
+    },
+    {
+      "name": "steamed or saut\u00e9ed kale",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked salmon or salmon patty",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "container of yogurt (Chobani type, flavor unspecified)",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    }
+  ]
+}

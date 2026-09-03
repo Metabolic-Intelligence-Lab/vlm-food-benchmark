@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pumpkin puree",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "200g",
+      "confidence": 75
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "100g",
+      "confidence": 70
+    }
+  ]
+}

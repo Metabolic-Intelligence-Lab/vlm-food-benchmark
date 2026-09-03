@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken or meat-based patty with herbs and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Cooked purple vegetables (sweet potatoes or eggplants)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Poultry patty with breadcrumbs",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Mushroom dish with seasonings",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

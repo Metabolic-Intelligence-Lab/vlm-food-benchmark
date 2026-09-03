@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green soup (pureed vegetable/legume soup)",
+      "portion_estimate": "450 g",
+      "confidence": "70"
+    },
+    {
+      "name": "lentil patty/cake with tomato sauce",
+      "portion_estimate": "120 g",
+      "confidence": "65"
+    },
+    {
+      "name": "cooked leafy greens (spinach/chard-like)",
+      "portion_estimate": "90 g",
+      "confidence": "65"
+    },
+    {
+      "name": "breadsticks/grissini (packaged)",
+      "portion_estimate": "45 g",
+      "confidence": "70"
+    },
+    {
+      "name": "fruit yogurt cup (strawberry/berry, packaged)",
+      "portion_estimate": "125 g",
+      "confidence": "75"
+    }
+  ]
+}

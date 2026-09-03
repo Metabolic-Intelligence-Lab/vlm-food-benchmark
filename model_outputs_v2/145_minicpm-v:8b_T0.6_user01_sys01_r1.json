@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "uncertain, approx 100g",
+      "confidence": "50"
+    },
+    {
+      "name": "Egg omelette with spinach and carrots",
+      "portion_estimate": "approx 200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Milk carton (Le Polpine)",
+      "portion_estimate": "uncertain, approx 150ml",
+      "confidence": "60"
+    }
+  ]
+}

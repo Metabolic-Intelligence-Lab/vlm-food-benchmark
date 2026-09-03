@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with sauce",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "shredded meat",
+      "portion_estimate": "130",
+      "confidence": 90
+    },
+    {
+      "name": "glazed cake slice",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70",
+      "confidence": 90
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "20",
+      "confidence": 95
+    }
+  ]
+}

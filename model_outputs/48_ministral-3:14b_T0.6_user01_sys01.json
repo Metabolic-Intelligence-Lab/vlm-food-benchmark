@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato-based sauce and breadcrumbs",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "baked potato wedges (roasted or fried)",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes with cheese topping",
+      "portion_estimate": "200",
+      "confidence": 75
+    },
+    {
+      "name": "sourdough bread roll",
+      "portion_estimate": "90",
+      "confidence": 70
+    },
+    {
+      "name": "sour cream or similar dairy dip (container, portion not consumed)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

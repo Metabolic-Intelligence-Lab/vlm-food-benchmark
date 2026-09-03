@@ -1,0 +1,42 @@
+{
+  "tray": [
+    {
+      "type": "bread",
+      "details": {
+        "color": "golden brown",
+        "size": "large",
+        "texture": "crusty"
+      }
+    },
+    {
+      "type": "meatloaf",
+      "details": {
+        "shape": "square",
+        "filling": "bread crumbs and vegetables",
+        "size": "large"
+      }
+    },
+    {
+      "type": "potatoes",
+      "details": {
+        "color": "white and brown",
+        "arrangement": "mixed together",
+        "quantity": 40
+      }
+    },
+    {
+      "type": "plate",
+      "details": {
+        "size": "large",
+        "shape": "round"
+      }
+    },
+    {
+      "type": "condiment",
+      "details": {
+        "brand": "Kroger",
+        "container": "plastic bottle"
+      }
+    }
+  ]
+}

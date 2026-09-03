@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet",
+      "portion_estimate": "uncertain, approximately medium-sized piece",
+      "confidence": "50"
+    },
+    {
+      "name": "green olives with green sauce",
+      "portion_estimate": "uncertain, possibly a few pieces or more in the dish",
+      "confidence": "60"
+    },
+    {
+      "name": "brussel sprouts cooked with garlic and herbs",
+      "portion_estimate": "uncertain, approximately medium-sized portion",
+      "confidence": "50"
+    },
+    {
+      "name": "mashed potatoes or sweet potato mash",
+      "portion_estimate": "uncertain, possibly a few scoops in the dish",
+      "confidence": "60"
+    },
+    {
+      "name": "dark grapes",
+      "portion_estimate": "uncertain, approximately medium-sized bunch",
+      "confidence": "50"
+    }
+  ]
+}

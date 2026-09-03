@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "salad or vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "rice with herbs or spices",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "yellow rice or scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "protein with sauce (chicken or fish)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "empty packet (sugar, salt, or condiment)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

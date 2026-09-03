@@ -1,0 +1,41 @@
+Based on the provided image, I've identified the visible food and beverage items. Here's the output in the required format:
+
+{
+  "food_items": [
+    {
+      "name": "Broth",
+      "portion_estimate": "300g",
+      "confidence": "100"
+    },
+    {
+      "name": "Roast Chicken",
+      "portion_estimate": "150g",
+      "confidence": "100"
+    },
+    {
+      "name": "Roast Potatoes",
+      "portion_estimate": "120g",
+      "confidence": "100"
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "60g",
+      "confidence": "100"
+    },
+    {
+      "name": "Carrot",
+      "portion_estimate": "30g",
+      "confidence": "100"
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "60g",
+      "confidence": "100"
+    },
+    {
+      "name": "Milk",
+      "portion_estimate": "240g",
+      "confidence": "100"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "buttery or breaded roll",
+      "portion_estimate": "80 grams (estimate)",
+      "confidence": 65
+    },
+    {
+      "name": "vegetable soup with chickpeas and cheese",
+      "portion_estimate": "450 grams (estimate)",
+      "confidence": 70
+    },
+    {
+      "name": "fried breaded cutlet (chicken or vegetable)",
+      "portion_estimate": "120 grams (estimate)",
+      "confidence": 60
+    },
+    {
+      "name": "yogurt (with fruit topping in cup)",
+      "portion_estimate": "150 grams (estimate)",
+      "confidence": 75
+    },
+    {
+      "name": "mixed leafy greens salad with orange and white vegetable pieces",
+      "portion_estimate": "150 grams (estimate)",
+      "confidence": 65
+    }
+  ]
+}

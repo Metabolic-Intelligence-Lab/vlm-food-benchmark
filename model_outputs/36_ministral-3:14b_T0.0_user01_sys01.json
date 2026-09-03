@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried rice or rice-based dish (crispy, possibly taro or sweet potato)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "red cabbage salad with sliced cucumber and lemon wedge",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "dipping sauce (likely sweet and spicy, possibly hoisin or plum sauce)",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "fried green patties (possibly green bean or spinach-based)",
+      "portion_estimate": "100g (two patties)",
+      "confidence": 80
+    },
+    {
+      "name": "steamed bun or bao (partially visible, wrapped in plastic)",
+      "portion_estimate": "60g",
+      "confidence": 75
+    }
+  ]
+}

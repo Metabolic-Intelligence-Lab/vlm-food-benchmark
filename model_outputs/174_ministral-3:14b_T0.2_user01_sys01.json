@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled or baked fish fillet (likely cod or similar white fish)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed zucchini and green beans mix with diced tomatoes",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "steamed broccoli florets",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "white bread roll (partially visible, likely a sandwich or bun)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

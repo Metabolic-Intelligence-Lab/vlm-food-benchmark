@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sausage and peppers",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

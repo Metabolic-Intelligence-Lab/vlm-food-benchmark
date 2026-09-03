@@ -1,0 +1,17 @@
+The image shows a bowl of soup with visible ingredients such as what appears to be carrots and possibly other vegetables or herbs. There are two images side by side, one showing the bowl of soup from above and the other showing it from a slightly angled perspective.
+
+The JSON output for this image would look something like this:
+
+```json
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    }
+  ]
+}
+```
+
+This indicates that the soup is the only visible food item in the image, and it has been estimated to be approximately 200 grams. The confidence level for this identification is set at 80, which means there's a high likelihood of the soup being present in the image.

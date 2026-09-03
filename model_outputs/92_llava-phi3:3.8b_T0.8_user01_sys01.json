@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll and sauce",
+      "portion_estimate": "85g bread + 30g sauce",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed potatoes with gravy",
+      "portion_estimate": "100g mashed potatoes + 20g gravy",
+      "confidence": "80"
+    }
+  ]
+}

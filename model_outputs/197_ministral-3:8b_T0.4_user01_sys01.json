@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried shrimp (approx. 10 pieces)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole roasted or baked potato (with skin)",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "orange (navel or similar variety)",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "broccoli florets (approx. 200-250g)",
+      "portion_estimate": "220 grams",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed or roasted cauliflower florets (approx. 100g)",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    }
+  ]
+}

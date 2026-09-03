@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken soup",
+      "portion_estimate": "300g",
+      "confidence": "90"
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "turkey breast",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "grated cheese",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    }
+  ]
+}

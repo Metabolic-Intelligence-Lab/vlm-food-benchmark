@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "banana",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "white bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "salad with lettuce, cherry tomatoes, black olives, tuna, and mozzarella balls",
+      "portion_estimate": "220",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried appetizer balls (e.g., falafel or croquettes)",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "Fried rectangular pastry or bread slice",
+      "portion_estimate": "90g",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta or thin noodles (served on plate)",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Small round side starch or potato",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "Wrapped bread or starch item",
+      "portion_estimate": "80g",
+      "confidence": "90"
+    }
+  ]
+}

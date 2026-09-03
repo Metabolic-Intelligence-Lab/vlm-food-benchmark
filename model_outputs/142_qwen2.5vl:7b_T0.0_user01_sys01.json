@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "white bean salad",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "mackerel",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato-based sauce and grated cheese topping",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetables (carrots, peas, broccoli, cauliflower, corn)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "salad with greens and dressing",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "peach",
+      "portion_estimate": "180 grams",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "wrap/crepe filled with dark filling",
+      "portion_estimate": "180",
+      "confidence": 65
+    },
+    {
+      "name": "sauteed spinach",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "red cabbage and white cabbage salad",
+      "portion_estimate": "90",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll (panino), wrapped",
+      "portion_estimate": "70",
+      "confidence": 75
+    },
+    {
+      "name": "orange fruit (mandarin or persimmon)",
+      "portion_estimate": "90",
+      "confidence": 55
+    }
+  ]
+}

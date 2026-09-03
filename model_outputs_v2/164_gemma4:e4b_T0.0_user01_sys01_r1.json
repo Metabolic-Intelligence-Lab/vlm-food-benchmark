@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Packaged bread or baked goods",
+      "portion_estimate": "120",
+      "confidence": "95"
+    },
+    {
+      "name": "Green soup or puree (in bowl)",
+      "portion_estimate": "320",
+      "confidence": "90"
+    },
+    {
+      "name": "Reddish sauce or spread (in small container)",
+      "portion_estimate": "60",
+      "confidence": "85"
+    },
+    {
+      "name": "Round bread or focaccia",
+      "portion_estimate": "90",
+      "confidence": "90"
+    },
+    {
+      "name": "Crispy bread pieces or croutons",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "Shredded fried topping (e.g., potato or cheese)",
+      "portion_estimate": "130",
+      "confidence": "80"
+    },
+    {
+      "name": "Pickled vegetables or side salad (in plastic packaging)",
+      "portion_estimate": "120",
+      "confidence": "90"
+    }
+  ]
+}

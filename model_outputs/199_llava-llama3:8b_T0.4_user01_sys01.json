@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni pasta with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Salad with mixed greens and bacon bits",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Cake with cherry garnish",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Cookies",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

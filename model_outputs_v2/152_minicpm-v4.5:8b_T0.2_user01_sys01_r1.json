@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "stuffed flatbread with vegetable filling",
+      "portion_estimate": "150-200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "diced mixed vegetables (potatoes, squash, bell peppers)",
+      "portion_estimate": "100-150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "pasta with sauce and grated cheese",
+      "portion_estimate": "150-200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "two plums",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    }
+  ]
+}

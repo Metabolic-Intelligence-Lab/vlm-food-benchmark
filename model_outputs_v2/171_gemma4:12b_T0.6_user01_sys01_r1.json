@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "saut\u00e9ed leafy greens",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "saut\u00e9ed green beans",
+      "portion_estimate": "220g",
+      "confidence": 95
+    },
+    {
+      "name": "steamed fish with ginger",
+      "portion_estimate": "130g",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt/pudding cup",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "packaged snack/instant meal",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "flatbread/crackers in bag",
+      "portion_estimate": "80g",
+      "confidence": 85
+    }
+  ]
+}

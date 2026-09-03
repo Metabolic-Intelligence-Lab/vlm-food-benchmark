@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans (steamed)",
+      "portion_estimate": "250 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "baked egg with mushrooms (individual omelette-like)",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "pasta with tomato sauce and herbs (penne or similar shape)",
+      "portion_estimate": "200 grams (cooked)",
+      "confidence": "85"
+    },
+    {
+      "name": "brown bread roll or baguette",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "banana with black spots (ripe)",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    }
+  ]
+}

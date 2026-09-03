@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fish or meat, possibly grilled or baked",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "white beans or legumes, possibly cooked with herbs and spices",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "bread or cracker, possibly toasted or grilled",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fruit, possibly grapes or berries",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

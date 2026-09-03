@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled salmon fillet",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Pasta (penne) with sauce and cheese",
+      "portion_estimate": 200,
+      "confidence": 90
+    },
+    {
+      "name": "Mashed potatoes or cauliflower mash",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "Plums (fresh fruit)",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": 40,
+      "confidence": 90
+    }
+  ]
+}

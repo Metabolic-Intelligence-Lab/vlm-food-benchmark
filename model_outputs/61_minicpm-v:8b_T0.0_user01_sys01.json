@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Omelette with mushrooms",
+      "portion_estimate": "uncertain, approx. weight of omelette and potatoes combined",
+      "confidence": "60"
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "uncertain, approx. weight based on typical portion size for roasted potatoes",
+      "confidence": "50"
+    },
+    {
+      "name": "Tomato soup with spices",
+      "portion_estimate": "uncertain, approx. 1/3 of the bowl's content",
+      "confidence": "60"
+    },
+    {
+      "name": "Instant coffee pod",
+      "portion_estimate": "uncertain, typical size for an instant coffee pod",
+      "confidence": "50"
+    }
+  ]
+}

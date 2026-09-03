@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of green soup",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "plate with mixed vegetables and a piece of bread",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    }
+  ]
+}

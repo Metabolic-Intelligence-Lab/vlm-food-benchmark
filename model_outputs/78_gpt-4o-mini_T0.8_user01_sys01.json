@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup with cheese",
+      "portion_estimate": "250",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked diced pumpkin",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "savory pancake with cheese",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70",
+      "confidence": "85"
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "120",
+      "confidence": "80"
+    }
+  ]
+}

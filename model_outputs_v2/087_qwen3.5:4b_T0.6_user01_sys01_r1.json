@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta shells (likely with a creamy sauce)",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll in wrapper",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "Peach",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Broccoli with croutons (likely pesto)",
+      "portion_estimate": "180g",
+      "confidence": 80
+    },
+    {
+      "name": "Baked potato halves or similar baked dish",
+      "portion_estimate": "150g",
+      "confidence": 70
+    }
+  ]
+}

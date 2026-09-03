@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cucumber salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Fried egg",
+      "portion_estimate": "120 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Steamed or boiled chicken breast",
+      "portion_estimate": "uncertain, possibly 60-80 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "White bread slice",
+      "portion_estimate": "70 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Orange fruit",
+      "portion_estimate": "uncertain, possibly 120-150 grams",
+      "confidence": "60"
+    }
+  ]
+}

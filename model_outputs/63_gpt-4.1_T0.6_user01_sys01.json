@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta with tomato sauce and cheese",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "mixed salad (fennel, carrot, possibly orange, with balsamic dressing)",
+      "portion_estimate": "70",
+      "confidence": 85
+    },
+    {
+      "name": "eggplant slice topped with mozzarella and shredded zucchini",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "small white bread roll",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "empty plastic water bottle",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

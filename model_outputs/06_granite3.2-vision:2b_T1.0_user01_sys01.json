@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "hard-boiled egg",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "60 grams",
+      "confidence": 60
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "80 grams",
+      "confidence": 70
+    }
+  ]
+}

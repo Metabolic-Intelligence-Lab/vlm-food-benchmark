@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "plain water (in glass)",
+      "portion_estimate": "250 g",
+      "confidence": "80"
+    },
+    {
+      "name": "omelette (plain, folded)",
+      "portion_estimate": "90 g",
+      "confidence": "72"
+    },
+    {
+      "name": "diced zucchini/cucumber salad (mixed diced vegetables)",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    },
+    {
+      "name": "scrambled cauliflower (or similar pale vegetable mash)",
+      "portion_estimate": "90 g",
+      "confidence": "52"
+    },
+    {
+      "name": "slice of bread (rye/whole grain)",
+      "portion_estimate": "45 g",
+      "confidence": "78"
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "160 g",
+      "confidence": "88"
+    }
+  ]
+}

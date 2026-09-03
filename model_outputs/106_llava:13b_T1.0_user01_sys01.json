@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "tomato soup with pasta and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "seaweed",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "herb or spice",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

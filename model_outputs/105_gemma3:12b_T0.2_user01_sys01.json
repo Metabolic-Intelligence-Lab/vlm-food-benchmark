@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken breast",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed lettuce greens",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "20",
+      "confidence": "80"
+    },
+    {
+      "name": "red cabbage, shredded",
+      "portion_estimate": "30",
+      "confidence": "85"
+    },
+    {
+      "name": "creamy dressing, likely ranch or similar",
+      "portion_estimate": "25",
+      "confidence": "65"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy tomato-based soup with grated cheese topping",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed artichoke hearts (two halves)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed or cooked green leafy vegetables (likely kale or chard)",
+      "portion_estimate": "200",
+      "confidence": 75
+    },
+    {
+      "name": "packaged lemon (whole)",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "breadstick (packaged)",
+      "portion_estimate": "60",
+      "confidence": 80
+    }
+  ]
+}

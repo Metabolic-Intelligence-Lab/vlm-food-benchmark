@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with sauce",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "chicken breast with creamy sauce",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "mixed greens with cheese (e.g., kale or spinach)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "diced potatoes (or similar starchy vegetable)",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "whole orange",
+      "portion_estimate": "150g",
+      "confidence": 95
+    }
+  ]
+}

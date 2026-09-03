@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Egg",
+      "portion_estimate": "70g",
+      "confidence": "85"
+    },
+    {
+      "name": "Beans",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    }
+  ]
+}

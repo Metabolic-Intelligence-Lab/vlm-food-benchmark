@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cream of chicken soup",
+      "portion_estimate": "200g",
+      "confidence": 70
+    },
+    {
+      "name": "breaded chicken croquettes",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "cottage cheese",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50g",
+      "confidence": 60
+    }
+  ]
+}

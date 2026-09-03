@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "meat and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "ketchup",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

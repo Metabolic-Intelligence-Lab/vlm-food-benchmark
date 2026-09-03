@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato sauce",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "diced potatoes (likely roasted or pan-fried)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "bacon or pork belly wrapped around potato (potsticker-style)",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "small plastic container of yogurt or sour cream",
+      "portion_estimate": "uncertain (likely 150g)",
+      "confidence": 65
+    },
+    {
+      "name": "packaged bread roll or garlic bread",
+      "portion_estimate": "uncertain (likely 100g per roll)",
+      "confidence": 70
+    },
+    {
+      "name": "small plastic cup (possibly water or juice)",
+      "portion_estimate": "uncertain (likely 250ml)",
+      "confidence": 60
+    }
+  ]
+}

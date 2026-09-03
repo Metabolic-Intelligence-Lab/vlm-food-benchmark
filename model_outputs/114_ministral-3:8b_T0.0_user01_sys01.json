@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with grated cheese (likely parmesan)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pan-seared chicken patty",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "roasted or fried potato wedges",
+      "portion_estimate": "180 grams",
+      "confidence": 85
+    },
+    {
+      "name": "roasted or fried potato sticks (smaller pieces)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat bread slice",
+      "portion_estimate": "40 grams",
+      "confidence": 80
+    },
+    {
+      "name": "condiment packet (likely ketchup or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "raw celery stalk",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

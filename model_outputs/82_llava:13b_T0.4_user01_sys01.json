@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "salad with greens and vegetables",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "grilled chicken breast",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    }
+  ]
+}

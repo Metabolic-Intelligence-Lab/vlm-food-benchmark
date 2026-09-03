@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta Salad",
+      "portion_estimate": "60g",
+      "confidence": 90
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "Purple Grapes",
+      "portion_estimate": "15g",
+      "confidence": 60
+    }
+  ]
+}

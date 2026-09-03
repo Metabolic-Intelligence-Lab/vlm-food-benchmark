@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "salmon patties",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed greens",
+      "portion_estimate": "50",
+      "confidence": "65"
+    },
+    {
+      "name": "mixed vegetable stew",
+      "portion_estimate": "200",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed berries (in cup)",
+      "portion_estimate": "125",
+      "confidence": "100"
+    }
+  ]
+}

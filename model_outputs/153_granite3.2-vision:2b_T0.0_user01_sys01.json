@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta in light sauce with possible cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bread (roll or ciabatta)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "whole apple (unpeeled)",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

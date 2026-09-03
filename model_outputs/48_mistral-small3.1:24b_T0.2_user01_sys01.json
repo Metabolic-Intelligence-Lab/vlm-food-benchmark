@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "guacamole with shredded cheese",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "burger bun",
+      "portion_estimate": "85",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

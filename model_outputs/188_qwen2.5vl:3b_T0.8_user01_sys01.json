@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "minestrone soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "lasagna",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

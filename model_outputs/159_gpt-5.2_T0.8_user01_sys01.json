@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rigatoni/paccheri pasta with grated parmesan cheese",
+      "portion_estimate": "260 g",
+      "confidence": "72"
+    },
+    {
+      "name": "baked white fish fillet with broccoli/herb crumb topping",
+      "portion_estimate": "200 g",
+      "confidence": "66"
+    },
+    {
+      "name": "boiled potatoes (chunked) with some crumbs/sauce",
+      "portion_estimate": "140 g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll (white bun)",
+      "portion_estimate": "70 g",
+      "confidence": "78"
+    },
+    {
+      "name": "yellow pear",
+      "portion_estimate": "160 g",
+      "confidence": "80"
+    },
+    {
+      "name": "processed cheese slices (in plastic)",
+      "portion_estimate": "40 g",
+      "confidence": "58"
+    }
+  ]
+}

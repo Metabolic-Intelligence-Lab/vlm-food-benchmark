@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "meat patty/burger with tomato sauce and shredded cabbage garnish",
+      "portion_estimate": "150",
+      "confidence": "65"
+    },
+    {
+      "name": "farfalle (bow-tie) pasta, plain with black pepper",
+      "portion_estimate": "180",
+      "confidence": "70"
+    },
+    {
+      "name": "shredded cooked fennel or cabbage side dish",
+      "portion_estimate": "100",
+      "confidence": "45"
+    },
+    {
+      "name": "bread roll, packaged",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120",
+      "confidence": "85"
+    }
+  ]
+}

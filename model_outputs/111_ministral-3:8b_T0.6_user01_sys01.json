@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "small meatball with sauce and shredded cabbage/vegetable",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "pasta (bowtie shape) with oil/seasoning",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "shredded chicken or turkey (likely seasoned)",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "sauce in jar (likely tomato-based)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "banana (partially visible)",
+      "portion_estimate": "uncertain (likely ~100-120g for the visible portion, total ~150-180g if whole)",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish with red sauce",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Garlic bread (possibly a focaccia), in a small bowl",
+      "portion_estimate": "uncertain, but could be 2 slices or less",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed vegetables in soup",
+      "portion_estimate": "uncertain, but around 1 cup or 236 mL",
+      "confidence": "40"
+    },
+    {
+      "name": "Pieces of garlic bread in a small bowl",
+      "portion_estimate": "uncertain, but could be 1-2 pieces",
+      "confidence": "30"
+    }
+  ]
+}

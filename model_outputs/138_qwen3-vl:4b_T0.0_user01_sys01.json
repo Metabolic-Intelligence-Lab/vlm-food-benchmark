@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice",
+      "portion_estimate": "180 g",
+      "confidence": 80
+    },
+    {
+      "name": "white beans",
+      "portion_estimate": "30 g",
+      "confidence": 70
+    },
+    {
+      "name": "leafy greens",
+      "portion_estimate": "20 g",
+      "confidence": 70
+    }
+  ]
+}

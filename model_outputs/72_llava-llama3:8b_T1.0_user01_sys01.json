@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "piece of meat",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "roasted vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "black beans",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

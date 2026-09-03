@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Plate of Food",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Glass of Water",
+      "portion_estimate": "250ml",
+      "confidence": "80"
+    },
+    {
+      "name": "Paper Napkin",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ]
+}

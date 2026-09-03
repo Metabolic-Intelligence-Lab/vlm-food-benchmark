@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Garlic bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Cheese sticks with marinara sauce",
+      "portion_estimate": "120g (approx)",
+      "confidence": "80"
+    },
+    {
+      "name": "Couscous salad with lentils and carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt cup",
+      "portion_estimate": "120g (approx)",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "baked fried fish (whole or fillet) with batter",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "potato hash or diced potatoes with pieces of caramelized onions",
+      "portion_estimate": "180g",
+      "confidence": 80
+    },
+    {
+      "name": "seasoned crumbles (meat or vegetable-based) with visible herbs and possibly red peppers",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "roti, chapati, or similar flatbread (whole piece in packaging)",
+      "portion_estimate": "40g",
+      "confidence": 80
+    },
+    {
+      "name": "plastic-wrapped item resembling a pastry roll or sweet bun",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "individual butter or spread packet",
+      "portion_estimate": "10g",
+      "confidence": 90
+    },
+    {
+      "name": "yogurt or sour cream in a small single-serve cup",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "clear water in a plastic cup",
+      "portion_estimate": "250ml",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled fish",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Fusilli pasta with vegetables and red sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Salad in white bowl (purple cabbage, shredded carrots, purple cauliflower)",
+      "portion_estimate": "150g-200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Dark red beverage (possibly iced tea or a cola-based drink)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

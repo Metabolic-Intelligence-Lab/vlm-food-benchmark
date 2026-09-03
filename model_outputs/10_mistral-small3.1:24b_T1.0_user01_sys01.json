@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green soup",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "sliced potatoes",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "spiced potato wedges",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "sliced roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

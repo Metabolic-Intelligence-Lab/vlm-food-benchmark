@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green string beans (green beans)",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "raw whole egg",
+      "portion_estimate": 50,
+      "confidence": 80
+    },
+    {
+      "name": "polenta or rice mix with seasoning",
+      "portion_estimate": 100,
+      "confidence": 75
+    },
+    {
+      "name": "cubed raw potato",
+      "portion_estimate": 80,
+      "confidence": 80
+    },
+    {
+      "name": "whole lemon",
+      "portion_estimate": 120,
+      "confidence": 90
+    }
+  ]
+}

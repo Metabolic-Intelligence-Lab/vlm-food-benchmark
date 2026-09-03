@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green peas",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed greens salad",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Spiral pasta",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "150",
+      "confidence": "90"
+    }
+  ]
+}

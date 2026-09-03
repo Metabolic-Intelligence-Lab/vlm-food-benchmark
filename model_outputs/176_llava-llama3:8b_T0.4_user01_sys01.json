@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "burger with lettuce and tomato",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "soup (brownish hue, with croutons and lemon)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

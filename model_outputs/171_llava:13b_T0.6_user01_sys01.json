@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked greens (spinach or similar leafy vegetables)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "green dish (pasta or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "small packets (sauce or condiments)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

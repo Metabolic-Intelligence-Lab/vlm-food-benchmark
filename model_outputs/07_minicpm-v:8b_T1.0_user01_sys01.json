@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Roast Potato",
+      "portion_estimate": "uncertain, approx. weight in grams if identifiable",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread Rolls",
+      "portion_estimate": "uncertain, approx. weight in grams if identifiable",
+      "confidence": "60"
+    },
+    {
+      "name": "Salad with Lettuce and Carrots",
+      "portion_estimate": "uncertain, approx. weight in grams if identifiable",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt Cup",
+      "portion_estimate": "uncertain, approx. weight in grams if identifiable",
+      "confidence": "70"
+    },
+    {
+      "name": "Chickpea and Tofu Stew",
+      "portion_estimate": "uncertain, approx. weight in grams if identifiable",
+      "confidence": "65"
+    }
+  ]
+}

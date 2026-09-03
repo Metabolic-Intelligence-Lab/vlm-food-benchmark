@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "small meat dish with sauce and pickled vegetable toppings",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small bottle of beverage (orange-colored liquid)",
+      "portion_estimate": "375 milliliters (approximate)",
+      "confidence": 70
+    },
+    {
+      "name": "small bowl of penne pasta",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small bowl of chicken shreds (potentially leftover fried chicken)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "ClearKit pouch (unopened)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "1 small banana",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    }
+  ]
+}

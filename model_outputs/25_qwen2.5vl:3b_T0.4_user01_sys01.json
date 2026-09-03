@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Rotini pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

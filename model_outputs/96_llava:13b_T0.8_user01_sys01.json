@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "milk-based drink",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "wrapped biscuit or cookie",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "small rectangular snack (flapjack or granola bar)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

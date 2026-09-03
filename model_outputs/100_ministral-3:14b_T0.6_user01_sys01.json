@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "baked or breaded chicken nuggets with sauce (likely tomato-based)",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "french fries (or potato sticks)",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "mixed saut\u00e9ed vegetables (likely zucchini, bell pepper, and possibly green beans)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "white bread roll (partially visible, wrapped)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

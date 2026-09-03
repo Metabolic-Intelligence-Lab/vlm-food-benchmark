@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Banana",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Salad with chicken, tomatoes and olives",
+      "portion_estimate": "300g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll in plastic bag",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    }
+  ]
+}

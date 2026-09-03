@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "croutons",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "150",
+      "confidence": 80
+    }
+  ]
+}

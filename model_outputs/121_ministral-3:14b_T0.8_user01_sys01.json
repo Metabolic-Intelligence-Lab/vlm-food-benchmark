@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (with grated cheese, likely Parmesan)",
+      "portion_estimate": "250g",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed shredded vegetable salad (carrots, cabbage, beets, possibly lettuce)",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "whole wheat sandwich bread, partially wrapped",
+      "portion_estimate": "80g",
+      "confidence": "80"
+    },
+    {
+      "name": "medium banana",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "sliced fruit cake or carrot cake",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    }
+  ]
+}

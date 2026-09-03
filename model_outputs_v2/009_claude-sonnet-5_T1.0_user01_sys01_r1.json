@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fried mushrooms/vegetables gratin with cheese",
+      "portion_estimate": "180",
+      "confidence": "55"
+    },
+    {
+      "name": "breaded cutlet (chicken or pork) with tomato garnish",
+      "portion_estimate": "120",
+      "confidence": "65"
+    },
+    {
+      "name": "roasted potato cubes",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "70"
+    },
+    {
+      "name": "water in plastic cup",
+      "portion_estimate": "200",
+      "confidence": "60"
+    }
+  ]
+}

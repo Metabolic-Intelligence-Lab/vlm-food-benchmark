@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "red soup",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "cooked greens",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "bread or flatbread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "meat",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "frittata or omelette with vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fruit salad (orange and grapefruit slices)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

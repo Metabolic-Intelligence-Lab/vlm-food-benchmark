@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Crumbled baked goods or breadcrumbs",
+      "portion_estimate": "90g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mashed food or creamy dip (e.g., mashed potato)",
+      "portion_estimate": "110g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sliced processed meat (e.g., ham)",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "Small bread roll or bun",
+      "portion_estimate": "80g",
+      "confidence": "85"
+    },
+    {
+      "name": "Water or clear beverage",
+      "portion_estimate": "250g",
+      "confidence": "70"
+    }
+  ]
+}

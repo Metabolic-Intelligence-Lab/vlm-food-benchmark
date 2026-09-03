@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "boiled potato pieces",
+      "portion_estimate": "150 g",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked broccoli florets",
+      "portion_estimate": "90 g",
+      "confidence": "82"
+    },
+    {
+      "name": "vegetable soup or stew",
+      "portion_estimate": "300 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated cheese topping",
+      "portion_estimate": "8 g",
+      "confidence": "75"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "88"
+    },
+    {
+      "name": "potato-topped flatbread or pizza slice",
+      "portion_estimate": "160 g",
+      "confidence": "76"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "160 g",
+      "confidence": "90"
+    }
+  ]
+}

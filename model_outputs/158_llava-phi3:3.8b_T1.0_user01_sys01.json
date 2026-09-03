@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "A bowl of pasta",
+      "portion_estimate": "80g",
+      "confidence": "95"
+    },
+    {
+      "name": "A slice of toast with jelly and powdered sugar on top",
+      "portion_estimate": "30g",
+      "confidence": "92"
+    },
+    {
+      "name": "A bagel",
+      "portion_estimate": "40g",
+      "confidence": "87"
+    },
+    {
+      "name": "An apple slice in a plastic container",
+      "portion_estimate": "60g",
+      "confidence": "91"
+    },
+    {
+      "name": "A white plate with food on top of it",
+      "portion_estimate": "120g",
+      "confidence": "94"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "roast pork slice with brown gravy",
+      "portion_estimate": "160 g",
+      "confidence": "72"
+    },
+    {
+      "name": "cooked leafy greens (spinach or similar)",
+      "portion_estimate": "90 g",
+      "confidence": "65"
+    },
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "280 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated parmesan cheese (on pasta)",
+      "portion_estimate": "12 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "84"
+    },
+    {
+      "name": "strawberry fruit yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "78"
+    }
+  ]
+}

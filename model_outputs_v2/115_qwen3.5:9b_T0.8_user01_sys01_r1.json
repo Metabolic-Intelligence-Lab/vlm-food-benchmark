@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": 240,
+      "confidence": 95
+    },
+    {
+      "name": "mixed green salad (lettuce, radicchio)",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "meatballs in tomato sauce",
+      "portion_estimate": 180,
+      "confidence": 92
+    },
+    {
+      "name": "red seedless grapes (cluster)",
+      "portion_estimate": 85,
+      "confidence": 90
+    },
+    {
+      "name": "whole grain bread slice",
+      "portion_estimate": 65,
+      "confidence": 88
+    }
+  ]
+}

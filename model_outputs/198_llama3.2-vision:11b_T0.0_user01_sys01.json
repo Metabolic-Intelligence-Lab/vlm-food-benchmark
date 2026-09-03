@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice",
+      "portion_estimate": "100-150g",
+      "confidence": 90
+    },
+    {
+      "name": "cooked chicken breast",
+      "portion_estimate": "100-150g",
+      "confidence": 90
+    },
+    {
+      "name": "roasted or saut\u00e9ed Brussels sprouts",
+      "portion_estimate": "50-75g",
+      "confidence": 80
+    },
+    {
+      "name": "ripe pear",
+      "portion_estimate": "100-150g",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "100-150g",
+      "confidence": 80
+    }
+  ]
+}

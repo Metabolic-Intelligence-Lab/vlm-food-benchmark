@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "crispy pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "pan-fried vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "pan-fried bread",
+      "portion_estimate": "uncertain",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

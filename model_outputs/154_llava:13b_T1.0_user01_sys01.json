@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "cooked carrots with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pasta dish (macaroni or penne) with tomato sauce and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "creamy condiment (sour cream, ranch, or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "soup or stew",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "salad or side dish",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "saltine crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "loaf of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "blueberries",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    }
+  ]
+}

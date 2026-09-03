@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cauliflower",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "lettuce",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "red bell pepper",
+      "portion_estimate": "25g",
+      "confidence": "80"
+    }
+  ]
+}

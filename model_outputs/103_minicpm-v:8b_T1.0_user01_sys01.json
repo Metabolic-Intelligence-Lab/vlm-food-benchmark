@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain, approximately a cupful",
+      "confidence": "50"
+    },
+    {
+      "name": "ham and pesto on plate",
+      "portion_estimate": "uncertain, possibly several ounces (184-259g)",
+      "confidence": "60"
+    },
+    {
+      "name": "butter in soup",
+      "portion_estimate": "uncertain, approximately 30g per piece of butter visible in bowl",
+      "confidence": "70"
+    },
+    {
+      "name": "strawberry yogurt",
+      "portion_estimate": "uncertain, possibly a serving cup (65-95g)",
+      "confidence": "45"
+    }
+  ]
+}

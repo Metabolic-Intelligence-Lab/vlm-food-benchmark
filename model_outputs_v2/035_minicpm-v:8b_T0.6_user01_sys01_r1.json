@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Green Beans",
+      "portion_estimate": "uncertain, approx 100g",
+      "confidence": "50"
+    },
+    {
+      "name": "Penne Pasta with Cheese and Tomato Sauce",
+      "portion_estimate": "approx 80g",
+      "confidence": "60"
+    },
+    {
+      "name": "Watermelon Slice",
+      "portion_estimate": "uncertain, approx 50-100g",
+      "confidence": "40"
+    }
+  ]
+}

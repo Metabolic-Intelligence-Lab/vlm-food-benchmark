@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Soup (possibly chicken noodle)",
+      "portion_estimate": "300 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Burger with a side of coleslaw",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Souffl\u00e9e or mashed potatoes with cheese on top and a scoop of butter",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Slices of bread or toast",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Fried egg with a dollop of butter",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    }
+  ]
+}

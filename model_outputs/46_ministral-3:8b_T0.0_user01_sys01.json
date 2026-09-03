@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "potato-based croquettes (2 pieces)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "green soup with cheese topping (likely spinach or similar vegetable soup)",
+      "portion_estimate": "300g",
+      "confidence": 80
+    },
+    {
+      "name": "raw onion (whole)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "mixed leafy salad (lettuce/cabbage blend)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt (plain, 125g container)",
+      "portion_estimate": "125g",
+      "confidence": 100
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with grated cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Water (glazed ceramic container)",
+      "portion_estimate": "200 milliliters",
+      "confidence": 90
+    },
+    {
+      "name": "Banana (peeled, ~1/2 length)",
+      "portion_estimate": "70 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Pan-fried potato wedges",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Scrambled egg sandwich (partially visible, ~half)",
+      "portion_estimate": "80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Breadstick (small, partially visible, ~1/4 length)",
+      "portion_estimate": "15 grams",
+      "confidence": 75
+    }
+  ]
+}

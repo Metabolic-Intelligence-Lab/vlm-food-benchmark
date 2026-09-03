@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with vegetables and meat",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Breaded ham and broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Coffee or tea",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Cream or butter",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Condiment or side dish (sauce or yogurt)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

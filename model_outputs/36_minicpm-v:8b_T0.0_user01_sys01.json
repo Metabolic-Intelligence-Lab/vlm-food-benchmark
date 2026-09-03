@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Purple cabbage salad",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pickles on purple cabbage salad",
+      "portion_estimate": "uncertain, approx. 15g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread with sauce",
+      "portion_estimate": "uncertain, approx. 70g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green fried balls (possibly patties)",
+      "portion_estimate": "uncertain, approx. 50g each",
+      "confidence": "60"
+    }
+  ]
+}

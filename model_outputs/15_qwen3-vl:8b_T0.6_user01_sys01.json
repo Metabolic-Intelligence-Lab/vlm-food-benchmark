@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Sauerkraut",
+      "portion_estimate": "75g",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried Chicken",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Potato Balls",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sandwich",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    }
+  ]
+}

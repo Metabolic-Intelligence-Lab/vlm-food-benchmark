@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked rice mixed with beans and leafy greens",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "white beans or legumes",
+      "portion_estimate": "approximately 80 grams",
+      "confidence": 88
+    },
+    {
+      "name": "leafy greens or herbs",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": 82
+    }
+  ]
+}

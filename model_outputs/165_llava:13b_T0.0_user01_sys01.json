@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chili or soup with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich with meat and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cake or dessert (muffin)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "yogurt or sour cream",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "mustard or ketchup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

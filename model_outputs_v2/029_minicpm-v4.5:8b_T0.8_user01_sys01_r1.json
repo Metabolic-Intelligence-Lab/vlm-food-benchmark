@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with chickpeas and grated cheese",
+      "portion_estimate": "200-250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "stuffed crust pizza slice",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "stir-fried zucchini and potato",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "whole wheat bread roll (in plastic bag)",
+      "portion_estimate": "60 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "red apple",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    }
+  ]
+}

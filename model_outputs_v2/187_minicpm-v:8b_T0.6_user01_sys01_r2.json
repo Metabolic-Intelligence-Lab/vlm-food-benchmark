@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "sliced bread",
+      "portion_estimate": "uncertain, approx. slice weight (10g)",
+      "confidence": "50"
+    },
+    {
+      "name": "cheese stick",
+      "portion_estimate": "uncertain, approx. 48-60g",
+      "confidence": "50"
+    },
+    {
+      "name": "tomato sauce (on plate with pasta)",
+      "portion_estimate": "uncertain, approx. tablespoon weight (~12g)",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain, approx. 4 oz serving size (~113g)",
+      "confidence": "70"
+    },
+    {
+      "name": "saut\u00e9ed green beans with fried onion bits (on plate with pasta)",
+      "portion_estimate": "uncertain, approx. cup weight (~85-90g)",
+      "confidence": "60"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain, approx. 3 oz serving size (~74g)",
+      "confidence": "50"
+    },
+    {
+      "name": "tofu patty (on plate with vegetables)",
+      "portion_estimate": "uncertain, approx. palm-sized piece weight (~28-36g)",
+      "confidence": "50"
+    }
+  ]
+}

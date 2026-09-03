@@ -1,0 +1,31 @@
+{
+  "food_items": [
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Cauliflower (Brussel sprouts)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "Water in a glass",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Clear liquid (possibly water or broth) on the tray, near fork and napkin.",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

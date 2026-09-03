@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes or grain mash",
+      "portion_estimate": "180",
+      "confidence": "95"
+    },
+    {
+      "name": "cooked fish fillet",
+      "portion_estimate": "110",
+      "confidence": "95"
+    },
+    {
+      "name": "small toasted grains or nuts",
+      "portion_estimate": "80",
+      "confidence": "90"
+    },
+    {
+      "name": "whole grain bread slice",
+      "portion_estimate": "60",
+      "confidence": "95"
+    },
+    {
+      "name": "purple berry or grape",
+      "portion_estimate": "10",
+      "confidence": "90"
+    }
+  ]
+}

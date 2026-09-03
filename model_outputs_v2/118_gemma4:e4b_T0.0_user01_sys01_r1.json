@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce and cheese topping",
+      "portion_estimate": "300 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Cubed bread or croutons",
+      "portion_estimate": "120 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Topped protein or vegetable dish with red sauce",
+      "portion_estimate": "180 grams",
+      "confidence": "80"
+    }
+  ]
+}

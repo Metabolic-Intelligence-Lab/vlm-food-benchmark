@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Red sauce pasta dish",
+      "portion_estimate": "200-250g",
+      "confidence": "80-90%"
+    },
+    {
+      "name": "White sauce pasta dish",
+      "portion_estimate": "200-250g",
+      "confidence": "80-90%"
+    },
+    {
+      "name": "Potato",
+      "portion_estimate": "100-150g",
+      "confidence": "70-80%"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50-100g",
+      "confidence": "60-70%"
+    }
+  ]
+}

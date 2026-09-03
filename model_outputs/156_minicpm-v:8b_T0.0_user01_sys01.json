@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Oatmeal with nuts and cinnamon",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120g-180g",
+      "confidence": "95"
+    },
+    {
+      "name": "Bagel",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Fruit smoothie or juice (not visible)",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    }
+  ]
+}

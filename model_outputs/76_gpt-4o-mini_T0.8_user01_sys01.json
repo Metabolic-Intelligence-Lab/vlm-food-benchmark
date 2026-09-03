@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta shells with tomato and vegetables",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "couscous with vegetables",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "fried eggplant with topping",
+      "portion_estimate": "80",
+      "confidence": "70"
+    },
+    {
+      "name": "plum fruit",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "plum fruit",
+      "portion_estimate": "60",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "meat and vegetable side dish",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "bean salad",
+      "portion_estimate": "280g",
+      "confidence": 95
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250mL",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "small seasoning container",
+      "portion_estimate": "5g",
+      "confidence": 75
+    }
+  ]
+}

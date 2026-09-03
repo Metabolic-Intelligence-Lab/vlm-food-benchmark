@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spiralized sweet potato (or orange-fleshed yam) noodles",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "fried or roasted potato cubes (potato hash)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "ground meat (likely beef or pork) patty or hash filling",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "green onions (scallions), chopped",
+      "portion_estimate": "10",
+      "confidence": 90
+    },
+    {
+      "name": "white wine (or vinegar-based liquid in glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

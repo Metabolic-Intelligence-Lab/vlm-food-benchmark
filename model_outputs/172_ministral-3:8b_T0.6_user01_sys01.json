@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green peas (steamed)",
+      "portion_estimate": 150,
+      "confidence": 75
+    },
+    {
+      "name": "mixed green salad with lettuce, tomatoes, and red onion",
+      "portion_estimate": 100,
+      "confidence": 70
+    },
+    {
+      "name": "pasta with olive oil and herbs (e.g., orzo or similar)",
+      "portion_estimate": 120,
+      "confidence": 75
+    },
+    {
+      "name": "whole hard-boiled egg",
+      "portion_estimate": 50,
+      "confidence": 85
+    },
+    {
+      "name": "green sauce or dressing (in small container)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

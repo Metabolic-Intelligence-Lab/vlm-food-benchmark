@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "battered patty (likely meat or fish)",
+      "portion_estimate": "100-120 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "steamed/cauliflower",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "soup (likely lentil or vegetable-based with cheese)",
+      "portion_estimate": "300 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "buttered bread slice",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "yogurt (125g container)",
+      "portion_estimate": "125 grams",
+      "confidence": "90"
+    }
+  ]
+}

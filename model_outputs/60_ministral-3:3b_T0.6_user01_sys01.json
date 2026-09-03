@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and spinach",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "seasoned potato wedges",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "seasoned chicken patty (two pieces)",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "plain yogurt (single serving from container)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "water glass (visible but no volume specified)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

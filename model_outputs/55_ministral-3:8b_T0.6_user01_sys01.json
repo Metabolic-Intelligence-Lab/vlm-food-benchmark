@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetables with chunks of potatoes and carrots, likely a vegetable medley",
+      "portion_estimate": "180 grams",
+      "confidence": 85
+    },
+    {
+      "name": "sliced mushrooms",
+      "portion_estimate": "60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baked or pan-fried potato (e.g., golden potato wedge or croquette)",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "braised or saut\u00e9ed collard greens or another leafy green vegetable",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "water in a clear plastic cup",
+      "portion_estimate": "uncertain (no visible measurement scale)",
+      "confidence": 50
+    }
+  ]
+}

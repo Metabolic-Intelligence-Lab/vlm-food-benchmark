@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with tomato-based sauce (with visible pepper/vegetable pieces)",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked leafy greens (spinach or similar)",
+      "portion_estimate": "140 g",
+      "confidence": "74"
+    },
+    {
+      "name": "stuffed/formed patty (possibly vegetable or meat) with brown gravy/sauce on top",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "65 g",
+      "confidence": "80"
+    },
+    {
+      "name": "packaged dessert (yogurt/pudding cup, \"Yomo\" brand; exact type uncertain)",
+      "portion_estimate": "125 g",
+      "confidence": "58"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    }
+  ]
+}

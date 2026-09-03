@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Green curry",
+      "portion_estimate": "uncertain, possibly 200g-300g",
+      "confidence": "65"
+    },
+    {
+      "name": "Sour cream on bread bun",
+      "portion_estimate": "likely less than 10g (on a small piece of bread)",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed potatoes with herbs",
+      "portion_estimate": "uncertain, possibly around 50-100g",
+      "confidence": "68"
+    }
+  ]
+}

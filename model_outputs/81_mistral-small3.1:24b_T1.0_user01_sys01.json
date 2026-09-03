@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "saut\u00e9ed greens",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "meatball",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "chicken nugget",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "10",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta dish (likely bow-tie pasta with cheese and sauce)",
+      "portion_estimate": "150-200g",
+      "confidence": 85
+    },
+    {
+      "name": "grated cheese (possibly parmesan or similar)",
+      "portion_estimate": "20-30g",
+      "confidence": 75
+    },
+    {
+      "name": "two slices of bread (possibly whole grain or multigrain)",
+      "portion_estimate": "50-60g",
+      "confidence": 80
+    },
+    {
+      "name": "packet of butter or margarine",
+      "portion_estimate": "15-20g",
+      "confidence": 60
+    },
+    {
+      "name": "steamed or boiled cauliflower florets",
+      "portion_estimate": "100-120g",
+      "confidence": 80
+    },
+    {
+      "name": "small square pastry (possibly cheese or savory puff pastry)",
+      "portion_estimate": "30-40g",
+      "confidence": 70
+    },
+    {
+      "name": "two plums (darker-skinned variety)",
+      "portion_estimate": "100-120g total",
+      "confidence": 70
+    }
+  ]
+}

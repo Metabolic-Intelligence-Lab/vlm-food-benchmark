@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "glass of water",
+      "portion_estimate": "250",
+      "confidence": 95
+    },
+    {
+      "name": "cooked fish or chicken with yellow sauce and diced vegetables",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "grain and vegetable mixture",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "slice of multi-grain bread",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "180",
+      "confidence": 95
+    }
+  ]
+}

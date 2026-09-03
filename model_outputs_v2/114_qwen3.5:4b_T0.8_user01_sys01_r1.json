@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with meat sauce and parmesan",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "Potato wedges (likely oven-fried)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Breaded chicken cutlet or pork chop",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "White bread",
+      "portion_estimate": "50g",
+      "confidence": 90
+    }
+  ]
+}

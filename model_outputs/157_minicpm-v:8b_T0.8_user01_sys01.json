@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with grated cheese",
+      "portion_estimate": "200g",
+      "confidence": "95"
+    },
+    {
+      "name": "Mushrooms and what appears to be a poached egg on croquettes",
+      "portion_estimate": "uncertain, approx. 70-100g",
+      "confidence": "65"
+    },
+    {
+      "name": "Beans (lentils)",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    }
+  ]
+}

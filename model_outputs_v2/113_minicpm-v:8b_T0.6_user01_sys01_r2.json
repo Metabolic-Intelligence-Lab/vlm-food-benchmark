@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "sliced bread",
+      "portion_estimate": "uncertain, approx. weight of slice",
+      "confidence": "60"
+    },
+    {
+      "name": "potato soup with crumbled cheese on top",
+      "portion_estimate": "uncertain, approx. 250g serving size",
+      "confidence": "80"
+    },
+    {
+      "name": "steak pie or similar pastry filled with meat and vegetables (carrots, Brussels sprouts)",
+      "portion_estimate": "uncertain, approx. weight of slice",
+      "confidence": "60"
+    },
+    {
+      "name": "red potatoes",
+      "portion_estimate": "uncertain, exact size unknown but approximately 125g for a medium potato",
+      "confidence": "70"
+    }
+  ]
+}

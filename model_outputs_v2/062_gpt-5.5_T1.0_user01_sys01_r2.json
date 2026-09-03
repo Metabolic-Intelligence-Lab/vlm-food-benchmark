@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with tomato sauce and vegetables",
+      "portion_estimate": "approximately 230 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked leafy greens, likely spinach",
+      "portion_estimate": "approximately 180 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked patty topped with melted cheese and brown sauce",
+      "portion_estimate": "approximately 130 grams",
+      "confidence": "65"
+    },
+    {
+      "name": "packaged bread roll",
+      "portion_estimate": "approximately 70 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "packaged yogurt cup",
+      "portion_estimate": "approximately 125 grams",
+      "confidence": "80"
+    }
+  ]
+}

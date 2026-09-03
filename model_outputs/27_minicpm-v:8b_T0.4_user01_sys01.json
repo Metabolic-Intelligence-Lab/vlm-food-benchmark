@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Penne with Tomato Sauce",
+      "portion_estimate": "uncertain, approx. weight in grams (e.g., 200g)",
+      "confidence": "50"
+    },
+    {
+      "name": "Green Leafy Vegetables",
+      "portion_estimate": "uncertain, approx. weight in grams (e.g., 150g)",
+      "confidence": "60"
+    },
+    {
+      "name": "Grilled Salmon with Sauce",
+      "portion_estimate": "uncertain, approx. weight in grams (e.g., 200g)",
+      "confidence": "70"
+    }
+  ]
+}

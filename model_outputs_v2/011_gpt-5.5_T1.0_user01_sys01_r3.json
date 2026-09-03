@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed shredded cabbage salad",
+      "portion_estimate": "80 g",
+      "confidence": "80"
+    },
+    {
+      "name": "apricot or small peach",
+      "portion_estimate": "55 g",
+      "confidence": "55"
+    },
+    {
+      "name": "cooked leafy greens",
+      "portion_estimate": "60 g",
+      "confidence": "75"
+    },
+    {
+      "name": "folded savory crepe or flatbread",
+      "portion_estimate": "90 g",
+      "confidence": "55"
+    }
+  ]
+}

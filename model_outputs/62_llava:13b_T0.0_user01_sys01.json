@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomatoes",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Spinach and quinoa salad",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

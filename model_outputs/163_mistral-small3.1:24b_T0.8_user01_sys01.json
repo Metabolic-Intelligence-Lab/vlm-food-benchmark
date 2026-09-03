@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken breast fillet",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "chicken soup",
+      "portion_estimate": "240",
+      "confidence": 85
+    },
+    {
+      "name": "sweet potato mash",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "ciabatta roll",
+      "portion_estimate": "60",
+      "confidence": 75
+    }
+  ]
+}

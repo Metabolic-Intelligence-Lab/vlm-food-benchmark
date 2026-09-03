@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Eggs",
+      "portion_estimate": "2",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "1 cup",
+      "confidence": "70"
+    },
+    {
+      "name": "Fries",
+      "portion_estimate": "1/2 cup",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "1",
+      "confidence": "50"
+    }
+  ]
+}

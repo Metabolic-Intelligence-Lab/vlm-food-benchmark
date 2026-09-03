@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "meatballs",
+      "portion_estimate": "20g",
+      "confidence": "80"
+    },
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "green leafy vegetables in bowl",
+      "portion_estimate": "80g",
+      "confidence": "60"
+    },
+    {
+      "name": "white plate under water glass",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    }
+  ]
+}

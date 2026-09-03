@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with meat and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Greens (spinach or leafy green)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Tomato-based sauce or condiment",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Carbonated drink or juice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Fruit salad (orange and other fruits)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

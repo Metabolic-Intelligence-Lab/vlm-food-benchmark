@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "approximately 2 slices (60-70 grams)",
+      "confidence": "40"
+    },
+    {
+      "name": "vegetables",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": "30"
+    },
+    {
+      "name": "fruit slice",
+      "portion_estimate": "approximately 60-80 grams",
+      "confidence": "50"
+    }
+  ]
+}

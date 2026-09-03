@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken breast",
+      "portion_estimate": "175",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "200",
+      "confidence": 60
+    },
+    {
+      "name": "fruit plate (orange and melon)",
+      "portion_estimate": "250",
+      "confidence": 50
+    }
+  ]
+}

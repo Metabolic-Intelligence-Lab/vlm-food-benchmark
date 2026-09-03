@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and grated cheese",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potatoes (diced)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small portion of tomato-based sauce (likely part of the pasta dish)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "sauce or dip in small container (e.g., pesto or yogurt-based sauce)",
+      "portion_estimate": "uncertain (likely 50-100 grams)",
+      "confidence": 60
+    },
+    {
+      "name": "condiment packet (possibly containing herbs/spices)",
+      "portion_estimate": "uncertain (likely negligible)",
+      "confidence": 40
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (e.g., spaghetti or similar)",
+      "portion_estimate": "250 grams",
+      "confidence": 88
+    },
+    {
+      "name": "Peas",
+      "portion_estimate": "20 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "25 grams",
+      "confidence": 89
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "20 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Tomatoes (as diced pieces)",
+      "portion_estimate": "20 grams",
+      "confidence": 87
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spinach-based pasta (lasagna or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "breaded fish or cutlet (possibly chicken or pork)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "mashed potatoes with curry sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "salad or cooked greens",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "slice of banana",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

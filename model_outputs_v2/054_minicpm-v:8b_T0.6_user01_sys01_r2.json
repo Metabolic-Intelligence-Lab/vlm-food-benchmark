@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "uncertain, approx. weight in grams based on typical serving size for pasta dishes.",
+      "confidence": "50"
+    },
+    {
+      "name": "Mixed salad greens (lettuce and spinach)",
+      "portion_estimate": "uncertain, approx. weight in grams based on average leafy green portion sizes.",
+      "confidence": "50"
+    },
+    {
+      "name": "Cucumber slices with red cabbage",
+      "portion_estimate": "uncertain, approx. weight in grams for the visible amount of salad greens and vegetables.",
+      "confidence": "50"
+    },
+    {
+      "name": "White rice",
+      "portion_estimate": "uncertain, approx. weight in grams based on typical serving sizes for white rice dishes.",
+      "confidence": "60"
+    },
+    {
+      "name": "Round bun with visible seeds (possibly a bagel or roll)",
+      "portion_estimate": "uncertain, approx. weight in grams estimated from the size of the bread and common portion sizes.",
+      "confidence": "50"
+    }
+  ]
+}

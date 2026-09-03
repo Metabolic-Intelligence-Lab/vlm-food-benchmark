@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "rice with chicken and vegetables",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "salad in a bowl",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "cheese and crackers",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "brown-colored food item",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "green-colored food item",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "small bowl with brown beans and green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "round bread roll or bun",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "three small, round fruits or vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

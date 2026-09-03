@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken cutlets (fried, likely breaded)",
+      "portion_estimate": "200 grams (total for both sides)",
+      "confidence": 85
+    },
+    {
+      "name": "soup with shredded chicken, carrots, and vegetables in broth",
+      "portion_estimate": "300 grams (including bowl + liquid)",
+      "confidence": 80
+    },
+    {
+      "name": "raw potato (small to medium-sized)",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "plastic-wrapped food (possibly extra meat or side dish) with lemon wedge",
+      "portion_estimate": "uncertain (estimated total of 100 grams for plastic-wrapped item)",
+      "confidence": 50
+    },
+    {
+      "name": "butter or margarine pat (in red packet, likely for buttering bread or vegetables)",
+      "portion_estimate": "25 grams",
+      "confidence": 80
+    }
+  ]
+}

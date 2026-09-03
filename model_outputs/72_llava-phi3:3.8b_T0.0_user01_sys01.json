@@ -1,0 +1,56 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "mashed sweet potatoes",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "black beans with spices",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    }
+  ],
+  "drinks": [
+    {
+      "type": "water",
+      "container": "glass",
+      "quantity": "1 cup"
+    }
+  ],
+  "condiments": [
+    {
+      "name": "ketchup",
+      "container": "jar",
+      "quantity": "small jar"
+    },
+    {
+      "name": "mustard",
+      "container": "jar",
+      "quantity": "small jar"
+    }
+  ],
+  "utensils": [
+    {
+      "type": "fork",
+      "material": "plastic",
+      "quantity": "1"
+    },
+    {
+      "type": "knife",
+      "material": "plastic",
+      "quantity": "1"
+    }
+  ],
+  "tablecloth": [
+    {
+      "color": "white",
+      "pattern": "plain"
+    }
+  ]
+}

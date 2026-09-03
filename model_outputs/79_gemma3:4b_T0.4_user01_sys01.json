@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Cheese",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Cheese and Ham Sandwich",
+      "portion_estimate": "80",
+      "confidence": 75
+    },
+    {
+      "name": "Cheese Slice",
+      "portion_estimate": "30",
+      "confidence": 60
+    },
+    {
+      "name": "Tomato",
+      "portion_estimate": "15",
+      "confidence": 50
+    }
+  ]
+}

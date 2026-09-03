@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "orange vegetable or tomato soup",
+      "portion_estimate": "300 g",
+      "confidence": "75"
+    },
+    {
+      "name": "grated cheese topping on soup",
+      "portion_estimate": "5 g",
+      "confidence": "70"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "180 g",
+      "confidence": "85"
+    },
+    {
+      "name": "omelette or frittata with shredded chicken",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "sealed tomato sauce cup",
+      "portion_estimate": "25 g",
+      "confidence": "80"
+    }
+  ]
+}

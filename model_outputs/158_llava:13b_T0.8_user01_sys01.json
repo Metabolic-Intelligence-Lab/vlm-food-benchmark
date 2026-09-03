@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "meatballs with potatoes or grain",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pastry or savory baked item (quiche or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "creamy noodle dish (possibly macaroni and cheese)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sandwich wrapped in paper",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "corn on the cob",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roll wrapped in plastic",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

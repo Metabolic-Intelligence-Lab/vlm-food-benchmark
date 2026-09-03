@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with grated cheese",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "mixed vegetable side",
+      "portion_estimate": "120 g",
+      "confidence": 80
+    },
+    {
+      "name": "triangular baked dish slice",
+      "portion_estimate": "60 g",
+      "confidence": 85
+    },
+    {
+      "name": "bread rolls",
+      "portion_estimate": "100 g",
+      "confidence": 70
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "100 g",
+      "confidence": 75
+    }
+  ]
+}

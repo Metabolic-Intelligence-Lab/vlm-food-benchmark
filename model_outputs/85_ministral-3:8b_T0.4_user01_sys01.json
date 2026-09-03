@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy tomato-based soup with grated cheese topping",
+      "portion_estimate": "350 grams",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or saut\u00e9ed kale",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "two small whole clams or scallops",
+      "portion_estimate": "100 grams total (50 grams each)",
+      "confidence": 75
+    },
+    {
+      "name": "whole lemon",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "packaged baked bread roll or baguette slice",
+      "portion_estimate": "uncertain (likely 60-80 grams)",
+      "confidence": 60
+    }
+  ]
+}

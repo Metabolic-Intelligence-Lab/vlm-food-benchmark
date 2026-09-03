@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked fish with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "vegetables (broccoli or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "creamy pasta or rice dish",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "dinner roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "cooked spinach or similar leafy green",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

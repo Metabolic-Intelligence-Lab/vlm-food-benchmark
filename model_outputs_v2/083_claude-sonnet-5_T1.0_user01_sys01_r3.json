@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken breast with sauteed leeks/vegetables topping",
+      "portion_estimate": "120",
+      "confidence": 65
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "sauteed spinach or chard",
+      "portion_estimate": "80",
+      "confidence": 65
+    },
+    {
+      "name": "couscous with chickpeas and diced vegetables",
+      "portion_estimate": "100",
+      "confidence": 65
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "plain yogurt cup",
+      "portion_estimate": "125",
+      "confidence": 60
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "200",
+      "confidence": 55
+    }
+  ]
+}

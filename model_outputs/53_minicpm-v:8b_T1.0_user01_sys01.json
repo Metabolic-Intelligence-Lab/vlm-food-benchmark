@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomatoes and basil",
+      "portion_estimate": "uncertain, approx 150g per serving",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried fish fillet",
+      "portion_estimate": "uncertain, approx 200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Baked bread roll",
+      "portion_estimate": "uncertain, approx 100-150g per serving",
+      "confidence": "80"
+    },
+    {
+      "name": "Green beans with mushrooms in sauce",
+      "portion_estimate": "uncertain, approx 200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pomegranate fruit",
+      "portion_estimate": "uncertain, approximately half of the fruit shown (approx 50g)",
+      "confidence": "60"
+    }
+  ]
+}

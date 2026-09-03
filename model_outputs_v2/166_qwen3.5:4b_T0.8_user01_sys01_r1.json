@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with orange sauce",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "Baked potato or bread roll",
+      "portion_estimate": "180",
+      "confidence": 75
+    },
+    {
+      "name": "Yogurt cup (Lakanto)",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "Fried pie (focaccia) with spinach filling",
+      "portion_estimate": "180",
+      "confidence": 70
+    },
+    {
+      "name": "Spinach and potato stuffing or side dish",
+      "portion_estimate": "150",
+      "confidence": 65
+    }
+  ]
+}

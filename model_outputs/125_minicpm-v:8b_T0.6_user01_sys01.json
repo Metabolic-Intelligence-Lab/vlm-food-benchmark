@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bun",
+      "portion_estimate": "uncertain (approximate bread size)",
+      "confidence": "40"
+    },
+    {
+      "name": "soup with butter on top",
+      "portion_estimate": "uncertain (approximate bowl size)",
+      "confidence": "65"
+    },
+    {
+      "name": "curd yogurt in red cup",
+      "portion_estimate": "uncertain (typical cup volume)",
+      "confidence": "40"
+    }
+  ]
+}

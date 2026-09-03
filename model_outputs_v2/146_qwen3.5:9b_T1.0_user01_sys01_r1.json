@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of bowtie pasta in creamy sauce with grated cheese",
+      "portion_estimate": 300,
+      "confidence": 85
+    },
+    {
+      "name": "Piece of bread (partially visible)",
+      "portion_estimate": 40,
+      "confidence": 80
+    },
+    {
+      "name": "Bowl of cauliflower florets",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "Square crackers",
+      "portion_estimate": 60,
+      "confidence": 90
+    },
+    {
+      "name": "Plum fruit",
+      "portion_estimate": 40,
+      "confidence": 85
+    }
+  ]
+}

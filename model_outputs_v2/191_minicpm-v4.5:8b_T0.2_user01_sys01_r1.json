@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "two round breaded items (possibly meatballs or croquettes)",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "green soup (possibly spinach or vegetable-based)",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small red container (possibly tomato sauce or jam)",
+      "portion_estimate": "30 grams",
+      "confidence": 70
+    },
+    {
+      "name": "packaged vegetables (possibly celery or similar)",
+      "portion_estimate": "50 grams",
+      "confidence": 60
+    }
+  ]
+}

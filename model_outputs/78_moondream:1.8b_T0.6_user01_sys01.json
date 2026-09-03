@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "orange slices",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bowls (containing food/ingredients)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

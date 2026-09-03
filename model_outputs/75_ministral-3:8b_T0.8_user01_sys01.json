@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken breast with herbs",
+      "portion_estimate": "180 grams",
+      "confidence": 75
+    },
+    {
+      "name": "mixed saut\u00e9ed green vegetables (zucchini, broccoli, or similar)",
+      "portion_estimate": "120 grams",
+      "confidence": 70
+    },
+    {
+      "name": "baked beans or mashed beans in tomato sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "buns or rolls (one visible)",
+      "portion_estimate": "50 grams per bun (total ~100 grams if whole)",
+      "confidence": 65
+    },
+    {
+      "name": "condiment packets (butter, sugar, or salt)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "water (glass)",
+      "portion_estimate": "uncertain (likely 200-250ml)",
+      "confidence": 40
+    },
+    {
+      "name": "packaged condiment (likely yogurt or sour cream)",
+      "portion_estimate": "100 grams (uncertain)",
+      "confidence": 55
+    }
+  ]
+}

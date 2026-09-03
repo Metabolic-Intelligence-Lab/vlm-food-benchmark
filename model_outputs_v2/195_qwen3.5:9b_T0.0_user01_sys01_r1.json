@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cubed potatoes, possibly roasted or fried",
+      "portion_estimate": 150,
+      "confidence": 92
+    },
+    {
+      "name": "Stir-fried meat and vegetables in a reddish sauce (e.g., beef with peppers/onions)",
+      "portion_estimate": 200,
+      "confidence": 88
+    },
+    {
+      "name": "Ground meat dish, possibly seasoned or spiced",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "Water with ice cubes",
+      "portion_estimate": 240,
+      "confidence": 95
+    }
+  ]
+}

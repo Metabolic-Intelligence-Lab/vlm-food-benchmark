@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto and cheese",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed cauliflower",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "steamed carrots",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "piece of bread",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    }
+  ]
+}

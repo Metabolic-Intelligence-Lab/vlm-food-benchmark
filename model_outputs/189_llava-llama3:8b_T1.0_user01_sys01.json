@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mini hamburgers/patties",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "instant noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

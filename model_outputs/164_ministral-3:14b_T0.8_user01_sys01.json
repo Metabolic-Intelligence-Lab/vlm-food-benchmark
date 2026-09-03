@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of green lentil soup with grated cheese topping",
+      "portion_estimate": "400",
+      "confidence": "85"
+    },
+    {
+      "name": "fried plantain (sweet or ripe) with sliced pieces",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "fried cassava or yuca chips (farofa or similar)",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "whole wheat or whole grain roll/bun",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "yogurt drink container (unspecified flavor, possibly tropical)",
+      "portion_estimate": "125",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "steamed greens",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "baked bread",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200",
+      "confidence": 80
+    }
+  ]
+}

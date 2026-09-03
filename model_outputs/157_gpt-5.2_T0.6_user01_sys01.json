@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked pasta shells with tomato/cream sauce",
+      "portion_estimate": "230 g",
+      "confidence": "75"
+    },
+    {
+      "name": "grated parmesan cheese (topping on pasta)",
+      "portion_estimate": "8 g",
+      "confidence": "65"
+    },
+    {
+      "name": "cooked lentils",
+      "portion_estimate": "180 g",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded fish pieces (likely white fish)",
+      "portion_estimate": "140 g",
+      "confidence": "60"
+    },
+    {
+      "name": "pear (whole)",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    },
+    {
+      "name": "white bread roll/bun (packaged)",
+      "portion_estimate": "65 g",
+      "confidence": "75"
+    }
+  ]
+}

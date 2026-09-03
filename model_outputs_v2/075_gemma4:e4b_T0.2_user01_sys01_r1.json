@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fried golden snacks (e.g., arancini or fried vegetables)",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "Chopped vegetable salad mix (green and yellow)",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "Creamy dip or spread (white substance)",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "Pickled or chopped cucumber/vegetable pieces",
+      "portion_estimate": "50",
+      "confidence": "75"
+    }
+  ]
+}

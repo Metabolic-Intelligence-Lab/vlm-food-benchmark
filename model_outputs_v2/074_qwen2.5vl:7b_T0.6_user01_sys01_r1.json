@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chopped mango",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250",
+      "confidence": "90"
+    }
+  ]
+}

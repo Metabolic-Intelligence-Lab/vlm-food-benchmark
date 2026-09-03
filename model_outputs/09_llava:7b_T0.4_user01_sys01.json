@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried potatoes",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Sausage",
+      "portion_estimate": "125g",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

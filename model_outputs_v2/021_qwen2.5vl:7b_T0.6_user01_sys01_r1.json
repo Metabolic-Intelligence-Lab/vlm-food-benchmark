@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish fillet",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "roasted brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed vegetable casserole",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200",
+      "confidence": "90"
+    }
+  ]
+}

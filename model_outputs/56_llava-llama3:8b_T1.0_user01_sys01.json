@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fish with rice",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "colorful medley of vegetables and meat",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "green beans with corn and tomato",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "carrot salad",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "60",
+      "confidence": 75
+    }
+  ]
+}

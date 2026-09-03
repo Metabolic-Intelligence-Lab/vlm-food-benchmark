@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "rotini pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "stuffed zucchini",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "120",
+      "confidence": "60"
+    }
+  ]
+}

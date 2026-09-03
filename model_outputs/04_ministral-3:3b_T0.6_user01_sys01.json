@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "whole banana",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "mixed salad with grilled chicken, cherry tomatoes, lettuce, and mozzarella",
+      "portion_estimate": "250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "mini baguette bun wrapped in plastic",
+      "portion_estimate": "30 grams",
+      "confidence": 70
+    }
+  ]
+}

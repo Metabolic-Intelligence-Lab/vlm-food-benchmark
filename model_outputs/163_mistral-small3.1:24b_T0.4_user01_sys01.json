@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green soup",
+      "portion_estimate": "300",
+      "confidence": "70"
+    },
+    {
+      "name": "fish with white sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "10",
+      "confidence": "80"
+    }
+  ]
+}

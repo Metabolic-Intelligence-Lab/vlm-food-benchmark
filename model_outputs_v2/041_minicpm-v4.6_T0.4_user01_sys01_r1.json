@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with macaroni and cheese",
+      "portion_estimate": "200 g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "75 g",
+      "confidence": 88
+    },
+    {
+      "name": "chopped cabbage and cucumber salad",
+      "portion_estimate": "150 g",
+      "confidence": 85
+    },
+    {
+      "name": "stuffed pasta or baked savory dish",
+      "portion_estimate": "100 g",
+      "confidence": 90
+    },
+    {
+      "name": "oranges",
+      "portion_estimate": "150 g",
+      "confidence": 75
+    }
+  ]
+}

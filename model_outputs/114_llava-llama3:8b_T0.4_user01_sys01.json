@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "breaded chicken pieces",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "small, round, yellow potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "ketchup (red packet)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

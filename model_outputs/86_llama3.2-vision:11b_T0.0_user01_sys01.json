@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled fish",
+      "portion_estimate": "150g",
+      "confidence": 100
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": 100
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "50g",
+      "confidence": 100
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "30g",
+      "confidence": 100
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "100g",
+      "confidence": 100
+    }
+  ]
+}

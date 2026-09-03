@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Steamed carrots",
+      "portion_estimate": "75g",
+      "confidence": "60"
+    },
+    {
+      "name": "Green salad with mixed greens",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    }
+  ]
+}

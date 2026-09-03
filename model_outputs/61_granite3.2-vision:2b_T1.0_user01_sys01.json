@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fried potatoes with herbs and onions",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "quinoa",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "cooked vegetables (saut\u00e9ed asparagus or green beans)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fried chicken wings with garlic",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

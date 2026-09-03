@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "1 medium-sized banana",
+      "confidence": 85
+    },
+    {
+      "name": "Peas and carrots",
+      "portion_estimate": "1 cup",
+      "confidence": 70
+    }
+  ]
+}

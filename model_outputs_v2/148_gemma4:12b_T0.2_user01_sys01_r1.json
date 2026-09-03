@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pesto pasta with parmesan cheese",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "steamed white fish pieces",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "vegetable patty with carrots and corn",
+      "portion_estimate": "80g",
+      "confidence": 90
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": 95
+    }
+  ]
+}

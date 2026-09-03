@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "orange spiral noodles (possibly zucchini or sweet potato noodles)",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "diced potatoes with herbs and bacon bits (potato hash or hash browns with toppings)",
+      "portion_estimate": "180g",
+      "confidence": 70
+    },
+    {
+      "name": "small portion of green garnish (possibly chopped parsley or chives)",
+      "portion_estimate": "10g",
+      "confidence": 60
+    },
+    {
+      "name": "water in a clear glass (no visible drink)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

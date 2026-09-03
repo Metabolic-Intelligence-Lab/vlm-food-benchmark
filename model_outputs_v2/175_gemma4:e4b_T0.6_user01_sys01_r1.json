@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Light-colored protein (e.g., fish or chicken) with creamy sauce",
+      "portion_estimate": "120 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Cooked green vegetables/beans (stir-fry style)",
+      "portion_estimate": "180 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Saut\u00e9ed dark leafy greens",
+      "portion_estimate": "130 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Whole orange (citrus fruit)",
+      "portion_estimate": "150 grams",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole roasted potato (baked or boiled)",
+      "portion_estimate": "150-180g",
+      "confidence": 85
+    },
+    {
+      "name": "mixed salad with cucumber, cherry tomatoes, and olives",
+      "portion_estimate": "120-150g",
+      "confidence": 80
+    },
+    {
+      "name": "stuffed baked potato half with fillings (likely meat, cheese, and possibly sour cream or gravy)",
+      "portion_estimate": "200-250g (including potato)",
+      "confidence": 75
+    },
+    {
+      "name": "small side of mixed greens with herbs (e.g., spinach or parsley) and cherry tomatoes",
+      "portion_estimate": "30-50g",
+      "confidence": 70
+    },
+    {
+      "name": "single plum or small purple fruit",
+      "portion_estimate": "100-120g",
+      "confidence": 85
+    }
+  ]
+}

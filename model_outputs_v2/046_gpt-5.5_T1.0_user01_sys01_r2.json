@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup or stew",
+      "portion_estimate": "300 g",
+      "confidence": "75"
+    },
+    {
+      "name": "grated cheese topping",
+      "portion_estimate": "10 g",
+      "confidence": "85"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "90"
+    },
+    {
+      "name": "berry yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "95"
+    },
+    {
+      "name": "lettuce salad with light dressing",
+      "portion_estimate": "80 g",
+      "confidence": "85"
+    },
+    {
+      "name": "two vegetable or grain patties",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "small serving cooked red cabbage",
+      "portion_estimate": "20 g",
+      "confidence": "70"
+    }
+  ]
+}

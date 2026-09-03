@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "tomato and vegetable soup",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "quiche with spinach",
+      "portion_estimate": "35g (quiche) + ~160g (spinach)",
+      "confidence": "95"
+    }
+  ]
+}

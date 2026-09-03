@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Flatbread (square slice)",
+      "portion_estimate": 60,
+      "confidence": 80
+    },
+    {
+      "name": "Soup (tomato-based with cheese)",
+      "portion_estimate": 220,
+      "confidence": 80
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "Apple (green)",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll (packaged)",
+      "portion_estimate": 60,
+      "confidence": 80
+    }
+  ]
+}

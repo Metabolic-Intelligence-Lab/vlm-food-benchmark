@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried noodles or fries (likely crispy)",
+      "portion_estimate": "200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "coleslaw (red cabbage and cucumber slices with dressing)",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "fried or baked cabbage roll (green filling)",
+      "portion_estimate": "two pieces (~100 grams total)",
+      "confidence": "80"
+    },
+    {
+      "name": "mayonnaise or creamy sauce (in small transparent container)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "tomato ketchup (in small bowl)",
+      "portion_estimate": "uncertain (likely ~30 grams)",
+      "confidence": "70"
+    },
+    {
+      "name": "small bread roll or bun",
+      "portion_estimate": "uncertain (likely ~30-50 grams)",
+      "confidence": "70"
+    }
+  ]
+}

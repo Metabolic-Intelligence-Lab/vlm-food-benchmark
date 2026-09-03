@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "approximately 100g",
+      "confidence": "85"
+    },
+    {
+      "name": "potato wedges",
+      "portion_estimate": "approximately 20g",
+      "confidence": "60"
+    },
+    {
+      "name": "garlic bread",
+      "portion_estimate": "approximately 15g",
+      "confidence": "70"
+    }
+  ]
+}

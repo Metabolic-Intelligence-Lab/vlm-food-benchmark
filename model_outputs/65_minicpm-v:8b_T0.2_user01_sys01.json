@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Green salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Mashed potatoes with gravy",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

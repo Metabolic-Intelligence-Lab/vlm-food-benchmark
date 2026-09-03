@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fettuccine alfredo pasta",
+      "portion_estimate": "350",
+      "confidence": 85
+    },
+    {
+      "name": "fried or breaded chicken cutlet (portion)",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetables and potatoes fried/roasted (e.g., potato hash with green vegetables like broccoli or green beans)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "lemon wedge (peeled, uncut)",
+      "portion_estimate": "80",
+      "confidence": 90
+    }
+  ]
+}

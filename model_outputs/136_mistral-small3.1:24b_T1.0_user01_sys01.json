@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "vegetables (carrots, peas, green beans, and onions)",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "pasta sauce",
+      "portion_estimate": "100",
+      "confidence": "75"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "shredded cheddar cheese",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "ground beef or lean ground meat mixture (with possible seasoning)",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "cooked noodles or macaroni",
+      "portion_estimate": "200 grams (dry weight equivalent ~100 grams)",
+      "confidence": 80
+    }
+  ]
+}

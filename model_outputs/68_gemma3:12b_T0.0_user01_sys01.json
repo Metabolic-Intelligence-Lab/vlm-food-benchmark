@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fusilli pasta",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "Diced ham",
+      "portion_estimate": "40",
+      "confidence": "70"
+    },
+    {
+      "name": "Shredded carrots",
+      "portion_estimate": "30",
+      "confidence": "75"
+    },
+    {
+      "name": "Mayonnaise-based dressing",
+      "portion_estimate": "20",
+      "confidence": "60"
+    }
+  ]
+}

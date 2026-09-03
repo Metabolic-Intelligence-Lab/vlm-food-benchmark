@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "100g - approx.",
+      "confidence": "85"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain, approximately a small cup",
+      "confidence": "60"
+    },
+    {
+      "name": "Soup with Grated Cheese on Top",
+      "portion_estimate": "30g - approx.",
+      "confidence": "85"
+    },
+    {
+      "name": "Green Salad",
+      "portion_estimate": "uncertain, approximately a small cup",
+      "confidence": "60"
+    },
+    {
+      "name": "Dark Leafy Greens (possibly seaweed or spinach)",
+      "portion_estimate": "120g - approx.",
+      "confidence": "95"
+    }
+  ]
+}

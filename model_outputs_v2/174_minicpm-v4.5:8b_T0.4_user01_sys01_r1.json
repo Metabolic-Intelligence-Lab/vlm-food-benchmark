@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet with sauce",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "sauteed zucchini",
+      "portion_estimate": "100-120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "50-60 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small roll",
+      "portion_estimate": "40-50 grams",
+      "confidence": 75
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    }
+  ]
+}

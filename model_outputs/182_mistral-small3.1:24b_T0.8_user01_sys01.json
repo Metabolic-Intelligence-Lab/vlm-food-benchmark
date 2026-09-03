@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "slice of pizza",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "mandarins",
+      "portion_estimate": "150",
+      "confidence": 85
+    }
+  ]
+}

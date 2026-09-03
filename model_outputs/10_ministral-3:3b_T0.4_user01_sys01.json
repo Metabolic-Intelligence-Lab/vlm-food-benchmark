@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup with grated cheese",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "roasted potatoes (with seasoning)",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "small baked potato or hash browns",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "small baked or grilled cheese balls",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "water (from clear glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "beer can (visible but not consumed)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "small sandwich roll or bun",
+      "portion_estimate": "50",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "baked farfalle pasta with cheese crust (pasta gratinata)",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "diced carrot and turnip vegetable mix",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "sliced sautéed onions",
+      "portion_estimate": "40",
+      "confidence": "65"
+    },
+    {
+      "name": "grilled/roasted fish fillet with sauce",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "wrapped bread roll (panino)",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "70"
+    },
+    {
+      "name": "banana (on adjacent tray, partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

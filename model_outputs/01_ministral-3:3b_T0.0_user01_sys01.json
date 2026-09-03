@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole corn tortilla wrapped in plastic",
+      "portion_estimate": "100-120g",
+      "confidence": 95
+    },
+    {
+      "name": "small bowl of soup with grated cheese",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "small plate with yellow bean or corn patty and fried rice",
+      "portion_estimate": "150g (patty + rice)",
+      "confidence": 80
+    },
+    {
+      "name": "small container of yogurt with berries (top right)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "small cup of milk or milk alternative (top right)",
+      "portion_estimate": "150ml (~150g)",
+      "confidence": 70
+    }
+  ]
+}

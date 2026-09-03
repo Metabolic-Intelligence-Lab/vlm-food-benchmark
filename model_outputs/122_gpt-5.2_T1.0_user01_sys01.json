@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with tomato-based sauce",
+      "portion_estimate": "230 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated parmesan cheese (topping on pasta)",
+      "portion_estimate": "10 g",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded patties/croquettes (2 pieces, likely vegetable or meat)",
+      "portion_estimate": "160 g",
+      "confidence": "55"
+    },
+    {
+      "name": "sliced cooked carrots",
+      "portion_estimate": "90 g",
+      "confidence": "80"
+    },
+    {
+      "name": "banana (whole, unpeeled)",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll (in packaging)",
+      "portion_estimate": "70 g",
+      "confidence": "75"
+    },
+    {
+      "name": "water (in cup)",
+      "portion_estimate": "250 g",
+      "confidence": "65"
+    }
+  ]
+}

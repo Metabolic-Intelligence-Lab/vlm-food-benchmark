@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "whole green apple",
+      "portion_estimate": "180 grams",
+      "confidence": "88"
+    },
+    {
+      "name": "glazed chicken wings in sauce",
+      "portion_estimate": "160 grams",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked Brussels sprouts",
+      "portion_estimate": "190 grams",
+      "confidence": "82"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 grams",
+      "confidence": "85"
+    }
+  ]
+}

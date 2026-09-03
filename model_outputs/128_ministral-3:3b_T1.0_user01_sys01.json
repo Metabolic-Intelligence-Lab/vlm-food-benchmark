@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta in marinara sauce",
+      "portion_estimate": "150g (approximate)",
+      "confidence": 95
+    },
+    {
+      "name": "ground meat mixture",
+      "portion_estimate": "uncertain (roughly 10g)",
+      "confidence": 85
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "portion_estimate": "uncertain (roughly 10g)",
+      "confidence": 70
+    }
+  ]
+}

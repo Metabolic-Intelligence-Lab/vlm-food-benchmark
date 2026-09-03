@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "oatmeal with green and purple toppings",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "strawberry yogurt (Yoplait)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "assorted vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

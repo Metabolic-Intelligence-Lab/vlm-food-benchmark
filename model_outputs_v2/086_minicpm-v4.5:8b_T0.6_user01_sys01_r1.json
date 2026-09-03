@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish",
+      "portion_estimate": "150-200g",
+      "confidence": "85"
+    },
+    {
+      "name": "yellow pasta with sauce",
+      "portion_estimate": "150-200g",
+      "confidence": "85"
+    },
+    {
+      "name": "scrambled eggs",
+      "portion_estimate": "50-75g",
+      "confidence": "85"
+    },
+    {
+      "name": "blueberries",
+      "portion_estimate": "30-40g",
+      "confidence": "85"
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "10-15g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50-75g",
+      "confidence": "80"
+    }
+  ]
+}

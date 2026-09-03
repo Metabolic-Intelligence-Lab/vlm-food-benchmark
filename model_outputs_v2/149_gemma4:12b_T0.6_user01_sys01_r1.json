@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rectangular savory bread",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "round bread",
+      "portion_estimate": "80g",
+      "confidence": 90
+    },
+    {
+      "name": "dark plums",
+      "portion_estimate": "450g",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with cheese",
+      "portion_estimate": "150g",
+      "confidence": 90
+    }
+  ]
+}

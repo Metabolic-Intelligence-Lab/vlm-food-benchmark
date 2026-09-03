@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with green pesto and grated cheese",
+      "portion_estimate": 220,
+      "confidence": 95
+    },
+    {
+      "name": "Boiled baby carrots",
+      "portion_estimate": 100,
+      "confidence": 96
+    },
+    {
+      "name": "Red apple (whole)",
+      "portion_estimate": 182,
+      "confidence": 97
+    },
+    {
+      "name": "Small bread roll (partially visible)",
+      "portion_estimate": 50,
+      "confidence": 85
+    },
+    {
+      "name": "Yoplait yogurt cup (strawberry flavor)",
+      "portion_estimate": 125,
+      "confidence": 93
+    },
+    {
+      "name": "Meatballs with orange slices",
+      "portion_estimate": 100,
+      "confidence": 88
+    }
+  ]
+}

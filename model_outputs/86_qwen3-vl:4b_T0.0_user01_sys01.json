@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked penne pasta",
+      "portion_estimate": "110",
+      "confidence": "70"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "150",
+      "confidence": "65"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "90",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "60"
+    }
+  ]
+}

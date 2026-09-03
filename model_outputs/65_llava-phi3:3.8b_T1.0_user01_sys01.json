@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Scrambled eggs with cheese",
+      "portion_estimate": "20g of egg and cheese mixture on a white plate",
+      "confidence": "75"
+    },
+    {
+      "name": "Sliced toast",
+      "portion_estimate": "1 slice of bread in the background behind the salad bowl",
+      "confidence": "60"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "1 cup of mixed greens with some garnish",
+      "confidence": "75"
+    },
+    {
+      "name": "Water glass",
+      "portion_estimate": "one empty plastic bottle cap on the table in front of a plate and bowl",
+      "confidence": "80"
+    }
+  ]
+}

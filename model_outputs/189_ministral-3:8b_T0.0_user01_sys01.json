@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup (likely tomato-based or broth-based)",
+      "portion_estimate": "300-350g",
+      "confidence": 75
+    },
+    {
+      "name": "sauce or condiment (orange-colored, possibly chili or tomato sauce)",
+      "portion_estimate": "30-50g",
+      "confidence": 70
+    },
+    {
+      "name": "mixed greens or saut\u00e9ed vegetables (e.g., spinach, kale, or stir-fried greens)",
+      "portion_estimate": "100-150g",
+      "confidence": 75
+    },
+    {
+      "name": "packaged butter or margarine (visible wrapper)",
+      "portion_estimate": "uncertain (likely 20-30g based on typical serving size)",
+      "confidence": 60
+    },
+    {
+      "name": "yogurt or dairy product (red container, possibly flavored yogurt)",
+      "portion_estimate": "uncertain (likely 100-150g based on standard cup size)",
+      "confidence": 65
+    }
+  ]
+}

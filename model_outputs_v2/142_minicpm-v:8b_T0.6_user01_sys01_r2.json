@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed fish",
+      "portion_estimate": "uncertain, approx. weight in grams based on size and typical serving sizes.",
+      "confidence": "50"
+    },
+    {
+      "name": "white beans with herbs",
+      "portion_estimate": "uncertain, approx. weight in grams based on size and typical serving sizes.",
+      "confidence": "60"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain, approx. weight in grams based on size and typical serving sizes.",
+      "confidence": "50"
+    },
+    {
+      "name": "sourdough bread slice",
+      "portion_estimate": "uncertain, approx. weight in grams based on size and typical serving sizes.",
+      "confidence": "60"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "uncertain, approx. weight in grams based on size and typical serving sizes.",
+      "confidence": "50"
+    }
+  ]
+}

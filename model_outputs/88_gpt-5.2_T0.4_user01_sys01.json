@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto/seasoning and grated cheese",
+      "portion_estimate": "230 g",
+      "confidence": "78"
+    },
+    {
+      "name": "bread roll (white bun)",
+      "portion_estimate": "55 g",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed grains (farro/wheat berries) with green peas",
+      "portion_estimate": "180 g",
+      "confidence": "72"
+    },
+    {
+      "name": "savory pie/quiche slice (possibly mushroom)",
+      "portion_estimate": "170 g",
+      "confidence": "60"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 g",
+      "confidence": "88"
+    }
+  ]
+}

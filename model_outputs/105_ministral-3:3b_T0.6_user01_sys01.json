@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled or baked chicken breast pieces",
+      "portion_estimate": "50 grams",
+      "confidence": 95
+    },
+    {
+      "name": "shredded red cabbage",
+      "portion_estimate": "30 grams",
+      "confidence": 85
+    },
+    {
+      "name": "shredded iceberg lettuce",
+      "portion_estimate": "30 grams",
+      "confidence": 85
+    },
+    {
+      "name": "grated carrots",
+      "portion_estimate": "20 grams",
+      "confidence": 80
+    },
+    {
+      "name": "white radish or daikon radish",
+      "portion_estimate": "25 grams",
+      "confidence": 75
+    }
+  ]
+}

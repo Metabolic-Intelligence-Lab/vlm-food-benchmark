@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green Brussels sprouts with green seasoning",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Grilled chicken breast topped with green seasoning and herbs",
+      "portion_estimate": "approximate weight: 180g-234g, depending on thickness",
+      "confidence": "60"
+    },
+    {
+      "name": "White rice in a bowl",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Whole orange apple",
+      "portion_estimate": "approximate weight: 132g-264g, depending on size and skin type",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "uncertain",
+      "confidence": 20
+    },
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150g",
+      "confidence": 60
+    },
+    {
+      "name": "Meat dish, possibly chicken or fish",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Carrot salad",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

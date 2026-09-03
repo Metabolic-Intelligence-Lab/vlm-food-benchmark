@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "gnocchi with tomato sauce and grated cheese",
+      "portion_estimate": "280 g",
+      "confidence": "78"
+    },
+    {
+      "name": "lentil stew/soup with small diced vegetables (carrot)",
+      "portion_estimate": "330 g",
+      "confidence": "82"
+    },
+    {
+      "name": "strawberry yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "72"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "66"
+    }
+  ]
+}

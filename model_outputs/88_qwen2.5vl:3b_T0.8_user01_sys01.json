@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Savory pasta with parmesan",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Farro and peas",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pizza slice",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Unwrapped bread",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

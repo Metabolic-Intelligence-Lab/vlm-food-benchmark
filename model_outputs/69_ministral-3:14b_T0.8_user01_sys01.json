@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "saut\u00e9ed/grilled green bell peppers (sliced)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "grilled Italian sausages (sliced, possibly spicy)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "mushrooms (saut\u00e9ed, possibly mixed with bell peppers)",
+      "portion_estimate": "50",
+      "confidence": 75
+    },
+    {
+      "name": "unknown dark brown saut\u00e9ed chunks (potentially onions or additional meat)",
+      "portion_estimate": "30",
+      "confidence": 65
+    }
+  ]
+}

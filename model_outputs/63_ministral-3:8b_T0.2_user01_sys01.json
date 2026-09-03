@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried cutlet (likely chicken or pork) with tomato-based sauce",
+      "portion_estimate": "150-180g",
+      "confidence": 85
+    },
+    {
+      "name": "pasta (likely penne) with tomato-based sauce",
+      "portion_estimate": "120-150g (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "grilled eggplant with lettuce and possibly cheese or sauce",
+      "portion_estimate": "100-130g",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetable salad (cucumber, carrots, onions, and possibly other ingredients)",
+      "portion_estimate": "100-120g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll (plain)",
+      "portion_estimate": "50-70g",
+      "confidence": 80
+    }
+  ]
+}

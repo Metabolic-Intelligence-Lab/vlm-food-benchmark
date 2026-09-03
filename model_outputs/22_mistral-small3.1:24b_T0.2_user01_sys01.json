@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans with carrots",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "sweet potato mash",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "scrambled eggs with vegetables",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "whole grain bread",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pinto bean salad with chopped celery",
+      "portion_estimate": "230 g",
+      "confidence": "78"
+    },
+    {
+      "name": "bread roll (white bun)",
+      "portion_estimate": "75 g",
+      "confidence": "84"
+    },
+    {
+      "name": "cooked white fish fillet (pan-seared/baked)",
+      "portion_estimate": "140 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked broccoli with shaved parmesan/cheese",
+      "portion_estimate": "120 g",
+      "confidence": "65"
+    },
+    {
+      "name": "plums (whole)",
+      "portion_estimate": "180 g",
+      "confidence": "82"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "burrito",
+      "portion_estimate": "250",
+      "confidence": "75"
+    },
+    {
+      "name": "leafy green vegetable",
+      "portion_estimate": "20",
+      "confidence": "65"
+    },
+    {
+      "name": "red vegetable strips",
+      "portion_estimate": "15",
+      "confidence": "70"
+    }
+  ]
+}

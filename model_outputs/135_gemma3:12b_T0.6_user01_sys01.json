@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pulled pork, BBQ sauce",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "75",
+      "confidence": "70"
+    },
+    {
+      "name": "carrot, shredded",
+      "portion_estimate": "30",
+      "confidence": "65"
+    }
+  ]
+}

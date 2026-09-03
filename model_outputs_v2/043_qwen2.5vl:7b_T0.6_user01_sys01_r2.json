@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "baked sweet potato",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "75",
+      "confidence": "85"
+    },
+    {
+      "name": "bowl of yogurt",
+      "portion_estimate": "120",
+      "confidence": "60"
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200",
+      "confidence": "90"
+    }
+  ]
+}

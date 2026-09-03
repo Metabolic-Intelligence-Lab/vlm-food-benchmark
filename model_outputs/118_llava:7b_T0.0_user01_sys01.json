@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Meatballs in tomato sauce",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Parmesan cheese",
+      "portion_estimate": "30 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Cooked vegetables",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta salad with dressing",
+      "portion_estimate": "200 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Breaded and fried chicken patty",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed potatoes with herbs",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    }
+  ]
+}

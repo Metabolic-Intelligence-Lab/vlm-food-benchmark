@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "0-100"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "0-100"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "0-100"
+    },
+    {
+      "name": "Fruit",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "0-100"
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": "0-100"
+    }
+  ]
+}

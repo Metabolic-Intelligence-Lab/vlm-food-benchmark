@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cream-based pasta soup with chunks of vegetables and meat (possible chicken or meatballs)",
+      "portion_estimate": "550",
+      "confidence": "85"
+    },
+    {
+      "name": "grated Parmesan cheese or similar",
+      "portion_estimate": "15",
+      "confidence": "80"
+    },
+    {
+      "name": "mozzarella cheese (or similar mild cheese), cut into cubes",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "piece of bread (possibly sourdough or whole grain)",
+      "portion_estimate": "70",
+      "confidence": "85"
+    },
+    {
+      "name": "crusty Italian bread or breadstick",
+      "portion_estimate": "40",
+      "confidence": "80"
+    },
+    {
+      "name": "sweetened beverage (e.g., juice with green label)",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "plastic-wrapped spreadable butter or similar",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

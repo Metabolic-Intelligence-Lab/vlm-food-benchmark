@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Beef Curry",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Brown Rice",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Wheat Bread",
+      "portion_estimate": "50 grams",
+      "confidence": "40"
+    }
+  ]
+}

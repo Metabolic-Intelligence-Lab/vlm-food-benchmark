@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "potato croquette",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed green vegetable stew",
+      "portion_estimate": "200",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed berries in yogurt",
+      "portion_estimate": "125",
+      "confidence": "95"
+    }
+  ]
+}

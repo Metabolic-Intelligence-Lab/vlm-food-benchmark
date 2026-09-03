@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "65"
+    },
+    {
+      "name": "pasta with vegetables",
+      "portion_estimate": "80 g",
+      "confidence": "70"
+    },
+    {
+      "name": "fish fillet",
+      "portion_estimate": "65 g",
+      "confidence": "45"
+    }
+  ]
+}

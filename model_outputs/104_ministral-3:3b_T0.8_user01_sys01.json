@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "creamy vegetable soup with grated cheese",
+      "portion_estimate": "300",
+      "confidence": 90
+    },
+    {
+      "name": "mixed peas and carrots in a bowl",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "white bread roll or baguette",
+      "portion_estimate": "80",
+      "confidence": 95
+    },
+    {
+      "name": "plain yogurt (white, likely non-flavored) in a container",
+      "portion_estimate": "125",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "pasta or noodles with beans",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "snack or condiment (contents unknown)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "peach-like fruit (nectarine or cherry tomato)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green podded vegetables (string beans)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "meatballs (lamb)",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "sauce (tomato-based)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "couscous or quinoa side",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta in sauce",
+      "portion_estimate": "approximately 100g",
+      "confidence": "65"
+    },
+    {
+      "name": "mixed vegetables (including peas)",
+      "portion_estimate": "approximately 80g",
+      "confidence": "50"
+    },
+    {
+      "name": "roll or bread loaf",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

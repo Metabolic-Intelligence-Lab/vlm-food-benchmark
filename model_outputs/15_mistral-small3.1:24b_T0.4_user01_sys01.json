@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "saut\u00e9ed onions",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "fried dough",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "85"
+    },
+    {
+      "name": "dolma",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "tzatziki",
+      "portion_estimate": "50",
+      "confidence": "80"
+    }
+  ]
+}

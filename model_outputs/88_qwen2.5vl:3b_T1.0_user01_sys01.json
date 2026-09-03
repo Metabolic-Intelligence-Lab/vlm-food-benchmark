@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Farro",
+      "portion_estimate": "20-30 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Penne pasta",
+      "portion_estimate": "50-60 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Mushroom pizza",
+      "portion_estimate": "50-60 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "100-150 grams",
+      "confidence": "90"
+    }
+  ]
+}

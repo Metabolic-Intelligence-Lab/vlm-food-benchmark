@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "chicken and broccoli with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "coffee",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Brussels Sprouts",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Breaded Chicken Patty",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Collard Greens",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

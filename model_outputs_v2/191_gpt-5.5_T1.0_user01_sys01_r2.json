@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup or puree",
+      "portion_estimate": "300 g",
+      "confidence": "75"
+    },
+    {
+      "name": "sliced carrots",
+      "portion_estimate": "80 g",
+      "confidence": "90"
+    },
+    {
+      "name": "uncertain sesame-coated savory balls, possibly falafel",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "packaged breadsticks",
+      "portion_estimate": "25 g",
+      "confidence": "75"
+    },
+    {
+      "name": "small yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    },
+    {
+      "name": "uncertain wrapped pale cheese-like item",
+      "portion_estimate": "80 g",
+      "confidence": "45"
+    },
+    {
+      "name": "uncertain dark leafy vegetable or seaweed portion",
+      "portion_estimate": "40 g",
+      "confidence": "50"
+    }
+  ]
+}

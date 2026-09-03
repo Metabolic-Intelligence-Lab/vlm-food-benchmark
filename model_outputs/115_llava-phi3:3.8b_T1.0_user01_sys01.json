@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "4 oz",
+      "confidence": 100
+    },
+    {
+      "name": "Grapes",
+      "portion_estimate": "1 cup",
+      "confidence": 100
+    },
+    {
+      "name": "Truffini balls",
+      "portion_estimate": "6 pieces",
+      "confidence": 100
+    },
+    {
+      "name": "Lettuce salad",
+      "portion_estimate": "1 cup",
+      "confidence": 100
+    },
+    {
+      "name": "Bread rolls",
+      "portion_estimate": "2 pieces",
+      "confidence": 100
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with Alfredo or similar creamy tomato sauce",
+      "portion_estimate": 300,
+      "confidence": 90
+    },
+    {
+      "name": "roasted or baked potato wedges",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "guacamole with cheese and tortilla chips",
+      "portion_estimate": 200,
+      "confidence": 88
+    },
+    {
+      "name": "whole wheat or sourdough roll/bun",
+      "portion_estimate": 60,
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken pieces (breaded, likely deep-fried)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "chicken soup with vegetables and possibly rice or noodles",
+      "portion_estimate": "400g",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or boiled potato (whole, unpeeled)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "fried chicken cutlet (breaded, likely deep-fried)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "lemon wedge (whole)",
+      "portion_estimate": "20g",
+      "confidence": 80
+    },
+    {
+      "name": "condiment packet (likely soy sauce or similar)",
+      "portion_estimate": "10g",
+      "confidence": 70
+    }
+  ]
+}

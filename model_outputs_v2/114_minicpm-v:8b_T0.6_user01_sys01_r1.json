@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "French fries",
+      "portion_estimate": "uncertain, approximately 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Macaroni and cheese with sauce",
+      "portion_estimate": "uncertain, approximately 150-200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Baked potato slices",
+      "portion_estimate": "uncertain, approximately 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain bread slice",
+      "portion_estimate": "uncertain, approximately 40-50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Greek yogurt with fruit",
+      "portion_estimate": "uncertain, approximately 120-150g",
+      "confidence": "60"
+    }
+  ]
+}

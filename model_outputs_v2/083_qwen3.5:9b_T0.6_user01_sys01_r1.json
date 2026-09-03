@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Cauliflower rice with spinach and chickpeas",
+      "portion_estimate": 180,
+      "confidence": 92
+    },
+    {
+      "name": "Grilled fish fillet on top of a black base (mushroom or seaweed)",
+      "portion_estimate": 140,
+      "confidence": 95
+    },
+    {
+      "name": "Diced roasted potatoes",
+      "portion_estimate": 200,
+      "confidence": 98
+    },
+    {
+      "name": "Small bread roll (baguette style)",
+      "portion_estimate": 50,
+      "confidence": 96
+    },
+    {
+      "name": "Yoplait Yogurt cup",
+      "portion_estimate": 125,
+      "confidence": 94
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": 200,
+      "confidence": 97
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy orange soup with croutons",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "muffin",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "croissant",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "milk",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "jam",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

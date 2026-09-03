@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Shredded chicken",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken breast",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

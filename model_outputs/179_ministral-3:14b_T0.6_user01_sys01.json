@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato-based sauce (e.g., spaghetti with marinara or similar)",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "steamed tuna and broccoli mix",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "whole lemon (small, ~5cm diameter)",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "rolled sandwich or wrap (partially visible, likely bread-based)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "packaged pre-cut fries or breadstick (yellow bag)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

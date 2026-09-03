@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cheese and spinach stuffed pasta shell",
+      "portion_estimate": "200",
+      "confidence": "95"
+    },
+    {
+      "name": "pasta shells with cheese",
+      "portion_estimate": "250",
+      "confidence": "95"
+    },
+    {
+      "name": "mandarin oranges",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "sliced cucumber and cabbage salad",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "sliced bread",
+      "portion_estimate": "80",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad (shredded carrots, cucumber slices, leafy greens, small amount of dressing)",
+      "portion_estimate": "170 g",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked leafy greens (spinach/greens, plain)",
+      "portion_estimate": "160 g",
+      "confidence": "74"
+    },
+    {
+      "name": "small savory patty/cake topped with melted cheese and brown sauce/gravy",
+      "portion_estimate": "90 g",
+      "confidence": "62"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "87"
+    },
+    {
+      "name": "red/purple grapes",
+      "portion_estimate": "18 g",
+      "confidence": "82"
+    }
+  ]
+}

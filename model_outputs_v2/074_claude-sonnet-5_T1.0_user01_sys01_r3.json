@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta salad with cherry tomatoes and herbs",
+      "portion_estimate": "200",
+      "confidence": 75
+    },
+    {
+      "name": "roasted diced pumpkin/squash cubes",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "sautéed green beans",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "water in plastic cup",
+      "portion_estimate": "200",
+      "confidence": 60
+    }
+  ]
+}

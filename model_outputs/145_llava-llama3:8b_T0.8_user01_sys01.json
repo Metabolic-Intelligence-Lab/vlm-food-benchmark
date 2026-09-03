@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "cauliflower and potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cake",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "milk",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "honey",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

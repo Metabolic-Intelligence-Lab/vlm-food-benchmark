@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "mixed vegetables (carrots, peas, corn)",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked kale",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "berries (mixed)",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

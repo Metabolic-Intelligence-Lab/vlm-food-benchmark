@@ -1,0 +1,21 @@
+{
+    "food_items": [
+        {
+            "name": "Bread (slices)",
+            "portion_estimate": "25g",
+            "confidence": 85
+        },
+        {
+            "name": "Pasta (penne with cheese)",
+            "portion_estimate": "250g",
+            "confidence": 95
+        },
+        {
+            "name": "Salad (mixed greens and shredded carrots)",
+            "portion_estimate": "180g",
+            "confidence": 88
+        },
+        {
+            "name": "Banana",
+            "portion_estimate": "160g",
+            "confidence":

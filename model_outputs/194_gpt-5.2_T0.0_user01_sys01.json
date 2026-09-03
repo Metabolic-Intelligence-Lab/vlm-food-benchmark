@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based soup or stew (with herbs/greens)",
+      "portion_estimate": "300 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked leafy greens (possibly spinach/chard)",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    },
+    {
+      "name": "breaded fried patty/cutlet with sauce (uncertain type)",
+      "portion_estimate": "90 g",
+      "confidence": "55"
+    },
+    {
+      "name": "orange/mandarin",
+      "portion_estimate": "130 g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "70 g",
+      "confidence": "75"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "200 g",
+      "confidence": "65"
+    }
+  ]
+}

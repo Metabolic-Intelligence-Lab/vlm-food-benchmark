@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Eggs",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "Pasta with Tomato Sauce and Cheese",
+      "portion_estimate": "250",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Spinach with Cheese",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "150",
+      "confidence": "90"
+    }
+  ]
+}

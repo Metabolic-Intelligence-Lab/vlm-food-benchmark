@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with cheese sauce",
+      "portion_estimate": "250g",
+      "confidence": 90
+    },
+    {
+      "name": "roasted vegetable medley (carrots, potatoes, brussels sprouts, zucchini)",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "stuffed bell pepper (with spinach or similar filling)",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "fresh plums",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "baguette or sandwich bread (partially visible in plastic bag)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

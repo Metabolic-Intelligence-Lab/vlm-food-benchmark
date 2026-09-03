@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "steamed green beans with small diced carrots",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "mashed or roasted sweet potatoes",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "yellow rice with mixed vegetables and possibly meat or legumes",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or rye bread roll",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "water in a clear plastic cup",
+      "portion_estimate": "uncertain (no visible measurement)",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pea and Carrot Salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Soup with White Powder (possibly flour or cream)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread Rolls",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

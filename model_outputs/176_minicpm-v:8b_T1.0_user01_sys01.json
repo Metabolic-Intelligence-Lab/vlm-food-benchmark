@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Veggie wrap with tomato and cheese",
+      "portion_estimate": "uncertain, approx. small hand-held portion",
+      "confidence": "70"
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "uncertain, typical medium-sized pear size",
+      "confidence": "50"
+    },
+    {
+      "name": "Cauliflower with raisins",
+      "portion_estimate": "approx. 120g for portion of cauliflower mix like this",
+      "confidence": "80"
+    },
+    {
+      "name": "Whole grain toast (unspread)",
+      "portion_estimate": "uncertain, typical slice size",
+      "confidence": "60"
+    },
+    {
+      "name": "Soup with flour or powdered ingredient on top",
+      "portion_estimate": "approx. 250-300g for standard soup bowl like this",
+      "confidence": "70"
+    }
+  ]
+}

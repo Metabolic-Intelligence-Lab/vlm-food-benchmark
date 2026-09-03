@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cavatappi pasta with tomato sauce and grated cheese",
+      "portion_estimate": "220",
+      "confidence": 80
+    },
+    {
+      "name": "savory stuffed pastry with leafy greens filling",
+      "portion_estimate": "130",
+      "confidence": 65
+    },
+    {
+      "name": "cannellini (white) beans, plain",
+      "portion_estimate": "90",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll, packaged",
+      "portion_estimate": "70",
+      "confidence": 75
+    },
+    {
+      "name": "sliced provolone/cheese, packaged",
+      "portion_estimate": "40",
+      "confidence": 60
+    },
+    {
+      "name": "small red plums",
+      "portion_estimate": "120",
+      "confidence": 70
+    }
+  ]
+}

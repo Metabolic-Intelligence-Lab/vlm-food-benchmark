@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bowtie pasta with grated cheese",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "Slice of bread",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "Omelet with vegetable mix (peas, carrots)",
+      "portion_estimate": "250g",
+      "confidence": 90
+    }
+  ]
+}

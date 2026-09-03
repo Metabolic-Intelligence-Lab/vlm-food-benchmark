@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "canned pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "baked bread",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "baked potato",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "baked beans",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "baked bread rolls",
+      "portion_estimate": "uncertain",
+      "confidence": "65"
+    }
+  ]
+}

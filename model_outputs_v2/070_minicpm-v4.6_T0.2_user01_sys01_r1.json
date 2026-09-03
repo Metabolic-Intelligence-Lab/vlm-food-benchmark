@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "soup (stew)",
+      "portion_estimate": "approximately 300 grams",
+      "confidence": 95
+    },
+    {
+      "name": "small container of condiment (e.g., butter or sauce)",
+      "portion_estimate": "approximately 20 grams",
+      "confidence": 70
+    }
+  ]
+}

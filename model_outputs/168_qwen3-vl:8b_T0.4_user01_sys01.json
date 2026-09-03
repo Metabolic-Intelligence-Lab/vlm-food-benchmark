@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni",
+      "portion_estimate": "120",
+      "confidence": "75"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "green peas",
+      "portion_estimate": "30",
+      "confidence": "75"
+    },
+    {
+      "name": "cabbage",
+      "portion_estimate": "40",
+      "confidence": "75"
+    },
+    {
+      "name": "ground meat",
+      "portion_estimate": "50",
+      "confidence": "75"
+    }
+  ]
+}

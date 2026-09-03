@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with parmesan",
+      "portion_estimate": "uncertain, approx. weight in grams based on plate size and pasta type",
+      "confidence": "50"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain, approx. weight in grams based on plate size",
+      "confidence": "60"
+    },
+    {
+      "name": "omelette with asparagus and cherry tomatoes",
+      "portion_estimate": "uncertain, approx. weight in grams based on plate size",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread bun",
+      "portion_estimate": "uncertain, exact weight unknown",
+      "confidence": "50"
+    },
+    {
+      "name": "Soup with cheese",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "uncertain, exact weight unknown",
+      "confidence": "50"
+    },
+    {
+      "name": "Salad greens",
+      "portion_estimate": "25g",
+      "confidence": "80"
+    },
+    {
+      "name": "Saut\u00e9ed mushrooms on toast",
+      "portion_estimate": "uncertain, exact weight unknown",
+      "confidence": "60"
+    }
+  ]
+}

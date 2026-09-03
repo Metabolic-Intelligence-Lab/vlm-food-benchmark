@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "lasagna with meat and tomato sauce",
+      "portion_estimate": "350",
+      "confidence": "85"
+    },
+    {
+      "name": "mashed potatoes (under lasagna)",
+      "portion_estimate": "100",
+      "confidence": "75"
+    }
+  ]
+}

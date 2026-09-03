@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken with sauce",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Steamed carrots",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green olives",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "1 medium apple",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "40g",
+      "confidence": "70"
+    },
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "30g",
+      "confidence": "65"
+    },
+    {
+      "name": "Fried shrimp with lemon wedge",
+      "portion_estimate": "25g",
+      "confidence": "70"
+    },
+    {
+      "name": "Garlic bread with red sauce",
+      "portion_estimate": "50g",
+      "confidence": "65"
+    },
+    {
+      "name": "Water in clear glass cup",
+      "portion_estimate": "120ml",
+      "confidence": "90"
+    }
+  ]
+}

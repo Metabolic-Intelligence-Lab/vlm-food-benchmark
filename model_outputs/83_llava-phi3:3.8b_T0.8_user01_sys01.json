@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "2 slices",
+      "confidence": 90
+    },
+    {
+      "name": "Hummus with pita bread",
+      "portion_estimate": "1 small bowl of hummus and 3 pieces of pita bread",
+      "confidence": 85
+    },
+    {
+      "name": "Tabbouleh salad",
+      "portion_estimate": "1 cup of tabbouleh with chickpeas and parsley on a white plate",
+      "confidence": 90
+    },
+    {
+      "name": "Pork tenderloin",
+      "portion_estimate": "1 slice on a white plate next to the bowl of food",
+      "confidence": 75
+    },
+    {
+      "name": "Feta cheese with tomatoes and lettuce",
+      "portion_estimate": "1/4 cup feta cheese, 2 slices tomato, and 1 small head of lettuce on a white plate",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt with honey and nuts",
+      "portion_estimate": "1 small bowl of yogurt with honey and nuts, sitting next to the bread in plastic bag",
+      "confidence": 80
+    }
+  ]
+}

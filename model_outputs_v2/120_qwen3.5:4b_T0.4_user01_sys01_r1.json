@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked potato with butter and sour cream",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "Chicken parmesan or similar breaded cutlet",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "Soup (likely vegetable or lentil)",
+      "portion_estimate": "350",
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "Yoplait yogurt cup (approx. 125g)",
+      "portion_estimate": "125",
+      "confidence": 95
+    }
+  ]
+}

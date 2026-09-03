@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot Slaw",
+      "portion_estimate": "uncertain, approx 100g-250g",
+      "confidence": "70"
+    },
+    {
+      "name": "Potato Mash with Curry and Chunks of Meat (possibly beef)",
+      "portion_estimate": "uncertain, approximately 250g total for meat chunk + curry paste.",
+      "confidence": "60"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "148g",
+      "confidence": "90"
+    }
+  ]
+}

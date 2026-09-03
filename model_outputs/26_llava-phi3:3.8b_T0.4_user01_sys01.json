@@ -1,0 +1,54 @@
+{
+  "tray": [
+    {
+      "name": "white plate",
+      "contents": [
+        {
+          "type": "food",
+          "description": "fried fish with onions and potatoes"
+        }
+      ]
+    },
+    {
+      "name": "small white bowl",
+      "contents": [
+        {
+          "type": "food",
+          "description": "kale salad"
+        }
+      ]
+    },
+    {
+      "name": "clear glass of water",
+      "contents": [
+        {
+          "type": "drink",
+          "description": "water"
+        }
+      ]
+    },
+    {
+      "name": "bread roll in plastic bag",
+      "contents": [
+        {
+          "type": "food",
+          "description": "roll of bread in clear plastic wrap"
+        }
+      ]
+    }
+  ],
+  "tablecloth": {
+    "color": "white",
+    "pattern": "dots"
+  },
+  "tray_dimensions": {
+    "width": 10,
+    "height": 20,
+    "depth": 30
+  },
+  "plate_location": {
+    "x": 45,
+    "y": 68.79,
+    "z": 71.98
+  }
+}

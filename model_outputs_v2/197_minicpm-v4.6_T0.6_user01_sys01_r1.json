@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta dish with breaded item",
+      "portion_estimate": "300 g",
+      "confidence": 95
+    },
+    {
+      "name": "cooked broccoli",
+      "portion_estimate": "120 g",
+      "confidence": 75
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "200 g",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 g",
+      "confidence": 95
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    }
+  ]
+}

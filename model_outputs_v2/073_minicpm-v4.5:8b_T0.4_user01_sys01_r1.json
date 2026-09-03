@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato and cherry tomato sauce",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted Brussels sprouts with potatoes and possibly chicken",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "white fish fillet with green herbs",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "small round bread roll (possibly a dinner roll or brioche)",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "Yomo yogurt (125g)",
+      "portion_estimate": "125g",
+      "confidence": 100
+    }
+  ]
+}

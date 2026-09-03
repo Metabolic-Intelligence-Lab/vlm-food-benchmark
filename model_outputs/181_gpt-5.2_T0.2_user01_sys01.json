@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked spaghetti/pasta (lightly sauced/oiled)",
+      "portion_estimate": "260 g",
+      "confidence": "78"
+    },
+    {
+      "name": "bread roll/bun (in plastic wrap)",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "pear (whole)",
+      "portion_estimate": "160 g",
+      "confidence": "85"
+    },
+    {
+      "name": "slice of pizza with diced potato topping",
+      "portion_estimate": "180 g",
+      "confidence": "72"
+    },
+    {
+      "name": "scrambled eggs/omelet pieces",
+      "portion_estimate": "110 g",
+      "confidence": "62"
+    },
+    {
+      "name": "sliced cheese (processed/cheddar-style, in wrapper)",
+      "portion_estimate": "25 g",
+      "confidence": "68"
+    }
+  ]
+}

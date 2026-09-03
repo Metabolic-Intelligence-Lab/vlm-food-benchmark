@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "bean soup (likely white bean) with grated cheese on top",
+      "portion_estimate": "350 g",
+      "confidence": "68"
+    },
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "150 g",
+      "confidence": "85"
+    },
+    {
+      "name": "breaded patty/croquette (likely vegetable or fish) with white sauce",
+      "portion_estimate": "90 g",
+      "confidence": "62"
+    },
+    {
+      "name": "white sauce/dressing (on patty)",
+      "portion_estimate": "20 g",
+      "confidence": "70"
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "15 g",
+      "confidence": "80"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "160 g",
+      "confidence": "88"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "82"
+    }
+  ]
+}

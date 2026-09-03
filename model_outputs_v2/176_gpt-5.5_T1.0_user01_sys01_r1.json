@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup or stew with grated cheese topping",
+      "portion_estimate": "380 grams",
+      "confidence": "82"
+    },
+    {
+      "name": "small open-faced vegetable patty with tomato and cheese topping",
+      "portion_estimate": "120 grams",
+      "confidence": "68"
+    },
+    {
+      "name": "sliced bread",
+      "portion_estimate": "60 grams",
+      "confidence": "86"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "100 grams",
+      "confidence": "92"
+    },
+    {
+      "name": "packaged cheese stick",
+      "portion_estimate": "28 grams",
+      "confidence": "73"
+    },
+    {
+      "name": "cooked cauliflower florets",
+      "portion_estimate": "150 grams",
+      "confidence": "72"
+    },
+    {
+      "name": "dark round toppings, possibly olives or berries",
+      "portion_estimate": "8 grams",
+      "confidence": "45"
+    }
+  ]
+}

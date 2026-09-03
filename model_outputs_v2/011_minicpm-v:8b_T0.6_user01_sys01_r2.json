@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Orange",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bowl of mixed salad greens and shredded purple cabbage with dressing on top",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Cupcake or pastry in a bowl, topped with seeds",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Omelette on a white plate",
+      "portion_estimate": "approx. 120g",
+      "confidence": "90"
+    }
+  ]
+}

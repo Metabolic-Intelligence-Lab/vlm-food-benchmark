@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "quiche",
+      "portion_estimate": "uncertain, approx. weight of slice not visible",
+      "confidence": "60"
+    },
+    {
+      "name": "potato salad",
+      "portion_estimate": "approx. 150g for portion size estimated from context",
+      "confidence": "90"
+    },
+    {
+      "name": "pasta with raisins and cheese",
+      "portion_estimate": "approx. 200g, based on plate diameter estimate",
+      "confidence": "80"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "uncertain weight of each fruit not visible",
+      "confidence": "45"
+    }
+  ]
+}

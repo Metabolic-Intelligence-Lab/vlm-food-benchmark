@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice pilaf with vegetables",
+      "portion_estimate": "300",
+      "confidence": "95"
+    },
+    {
+      "name": "yogurt drink",
+      "portion_estimate": "200",
+      "confidence": "90"
+    },
+    {
+      "name": "quiche with hash browns",
+      "portion_estimate": "400",
+      "confidence": "90"
+    },
+    {
+      "name": "chocolate candy",
+      "portion_estimate": "40",
+      "confidence": "90"
+    },
+    {
+      "name": "fruit salad",
+      "portion_estimate": "150",
+      "confidence": "90"
+    }
+  ]
+}

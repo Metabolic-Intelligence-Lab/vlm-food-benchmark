@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fish",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Soda",
+      "portion_estimate": "200g",
+      "confidence": 95
+    }
+  ]
+}

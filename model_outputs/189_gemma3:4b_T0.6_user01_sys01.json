@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Tomato Soup",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Crackers",
+      "portion_estimate": "30g",
+      "confidence": 70
+    },
+    {
+      "name": "Yomo Rice Pudding",
+      "portion_estimate": "80g",
+      "confidence": 65
+    },
+    {
+      "name": "Green Vegetable (likely spinach or kale)",
+      "portion_estimate": "100g",
+      "confidence": 50
+    }
+  ]
+}

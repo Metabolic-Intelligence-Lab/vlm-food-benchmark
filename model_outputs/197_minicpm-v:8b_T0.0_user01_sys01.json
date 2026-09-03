@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "meatballs with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

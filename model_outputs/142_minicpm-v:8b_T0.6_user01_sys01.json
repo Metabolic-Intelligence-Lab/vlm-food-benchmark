@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "steamed fish",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "white beans with spices and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "mashed potatoes on a separate plate",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "bread roll with seeds and nuts",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

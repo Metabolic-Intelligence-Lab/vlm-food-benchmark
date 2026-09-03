@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta or noodles with cheese topping",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread roll (wrapped)",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Mixed lentils and peas",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried or baked bread/fritter piece",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "110g",
+      "confidence": "95"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and grated cheese",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "125g",
+      "confidence": 80
+    },
+    {
+      "name": "Potatoes",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Vegetable dish",
+      "portion_estimate": "100g",
+      "confidence": 80
+    }
+  ]
+}

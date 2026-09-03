@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green soup with butter",
+      "portion_estimate": "uncertain, likely a bowl of soup",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, possibly half to full-sized bread slice",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt with fruit",
+      "portion_estimate": "125g as labeled on container",
+      "confidence": "90"
+    },
+    {
+      "name": "Crinkle-cut fries or potato chips",
+      "portion_estimate": "uncertain, likely a small to medium portion of chips (approx. 30-40 grams)",
+      "confidence": "75"
+    },
+    {
+      "name": "Cauliflower dish with sauce",
+      "portion_estimate": "uncertain but appears substantial for side items such as this.",
+      "confidence": "80"
+    }
+  ]
+}

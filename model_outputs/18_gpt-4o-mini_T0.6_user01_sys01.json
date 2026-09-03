@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "pasta with sauce and vegetables",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed salad (cabbage and carrots)",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "carbonated water",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

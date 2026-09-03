@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with pesto (or oil-based sauce) topped with grated cheese",
+      "portion_estimate": "320 g",
+      "confidence": "70"
+    },
+    {
+      "name": "white beans in tomato sauce",
+      "portion_estimate": "180 g",
+      "confidence": "80"
+    },
+    {
+      "name": "round omelet or frittata slice topped with melted cheese/white sauce",
+      "portion_estimate": "110 g",
+      "confidence": "55"
+    },
+    {
+      "name": "sliced white bread (2 slices)",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "170 g",
+      "confidence": "90"
+    }
+  ]
+}

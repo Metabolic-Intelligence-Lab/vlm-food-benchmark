@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta",
+      "portion_estimate": "120 g",
+      "confidence": 80
+    },
+    {
+      "name": "Hamburger bun",
+      "portion_estimate": "60 g",
+      "confidence": 80
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "120 g",
+      "confidence": 85
+    },
+    {
+      "name": "Roasted Brussels sprouts",
+      "portion_estimate": "150 g",
+      "confidence": 70
+    },
+    {
+      "name": "Roasted potatoes",
+      "portion_estimate": "125 g",
+      "confidence": 75
+    },
+    {
+      "name": "Green bread with pesto",
+      "portion_estimate": "50 g",
+      "confidence": 70
+    },
+    {
+      "name": "Chicken piece",
+      "portion_estimate": "20 g",
+      "confidence": 70
+    }
+  ]
+}

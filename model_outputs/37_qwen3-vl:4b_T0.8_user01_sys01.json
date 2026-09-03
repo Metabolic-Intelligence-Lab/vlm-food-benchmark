@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot and Red Cabbage Salad",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "Fried Egg",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "Carbonated Beverage",
+      "portion_estimate": "250",
+      "confidence": 95
+    }
+  ]
+}

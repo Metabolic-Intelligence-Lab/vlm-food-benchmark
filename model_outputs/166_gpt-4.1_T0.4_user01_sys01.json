@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with tomato sauce and grated cheese",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "strawberry yogurt",
+      "portion_estimate": "125",
+      "confidence": 95
+    },
+    {
+      "name": "slice of spinach and cheese focaccia",
+      "portion_estimate": "90",
+      "confidence": 85
+    },
+    {
+      "name": "boiled greens with potatoes",
+      "portion_estimate": "70",
+      "confidence": 80
+    }
+  ]
+}

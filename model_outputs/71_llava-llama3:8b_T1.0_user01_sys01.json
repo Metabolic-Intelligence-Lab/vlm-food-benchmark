@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "chocolate bar",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "white paper cup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

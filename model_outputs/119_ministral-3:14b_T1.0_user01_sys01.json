@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll, baked (e.g., brioche or similar)",
+      "portion_estimate": "75",
+      "confidence": "80"
+    },
+    {
+      "name": "fried potato croquettes with grated cheese topping (arancini)",
+      "portion_estimate": "300",
+      "confidence": "90"
+    },
+    {
+      "name": "green beans or peas in tomato-based sauce (e.g., lentils or split pea soup)",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "bottled water (glass partially filled, visible branding)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "yogurt or cream container (partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "condiments (sugar packets, partially visible)",
+      "portion_estimate": "2",
+      "confidence": "70"
+    }
+  ]
+}

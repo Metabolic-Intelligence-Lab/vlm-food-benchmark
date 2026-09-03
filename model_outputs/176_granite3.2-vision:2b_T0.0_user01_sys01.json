@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "white rice or pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "yellow grains (barley or quinoa)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

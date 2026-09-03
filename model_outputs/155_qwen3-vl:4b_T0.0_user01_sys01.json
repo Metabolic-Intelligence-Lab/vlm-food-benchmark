@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "120 g",
+      "confidence": 100
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120 g",
+      "confidence": 100
+    },
+    {
+      "name": "Omelette",
+      "portion_estimate": "100 g",
+      "confidence": 100
+    },
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "80 g",
+      "confidence": 100
+    },
+    {
+      "name": "Something else",
+      "portion_estimate": "35 g",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes (potato puree)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "white beans in sauce (e.g., white beans with herbs and butter)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "grilled or baked fish fillet (likely cod or similar white fish)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "whole grain bread (single slice)",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "plum (whole)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    }
+  ]
+}

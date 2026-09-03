@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Tomato Pasta",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    },
+    {
+      "name": "Green Salad",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Grilled Chicken",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fruit Salad",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne with tomato sauce",
+      "portion_estimate": "uncertain, likely around a quarter plate size (approx. 150g)",
+      "confidence": "60"
+    },
+    {
+      "name": "Mashed potatoes in a white bowl",
+      "portion_estimate": "uncertain, possibly half the width of the dish's diameter (approx. 80-120g)",
+      "confidence": "75"
+    },
+    {
+      "name": "Diced vegetables on plate with pesto sauce",
+      "portion_estimate": "uncertain, likely around a quarter to a third plate size (approx. 60-90g)",
+      "confidence": "80"
+    },
+    {
+      "name": "Greek yogurt in red cup",
+      "portion_estimate": "uncertain, possibly half the diameter of the container's opening (approx. 50g)",
+      "confidence": "70"
+    }
+  ]
+}

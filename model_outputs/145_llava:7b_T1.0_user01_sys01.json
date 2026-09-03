@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Dal soup with cilantro and cheese sprinkled",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Indian roti",
+      "portion_estimate": "70 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Green vegetable pudding",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Spiced scrambled eggs",
+      "portion_estimate": "120 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Pakora or fried spiced snack",
+      "portion_estimate": "50 grams",
+      "confidence": "50"
+    }
+  ]
+}

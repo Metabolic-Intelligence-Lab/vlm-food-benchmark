@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "salmon",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "chives",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cheese or sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

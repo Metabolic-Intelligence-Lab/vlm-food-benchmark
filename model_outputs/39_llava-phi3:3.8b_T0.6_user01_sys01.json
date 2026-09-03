@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Spinach",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread rolls",
+      "portion_estimate": "2 pieces",
+      "confidence": "70"
+    },
+    {
+      "name": "Tomatoes",
+      "portion_estimate": "3 pieces",
+      "confidence": "60"
+    }
+  ]
+}

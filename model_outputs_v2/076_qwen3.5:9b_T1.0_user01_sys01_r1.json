@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta shells (conchiglie) with sauce, red peppers, and herbs",
+      "portion_estimate": 320,
+      "confidence": 95
+    },
+    {
+      "name": "Mixed couscous or rice dish with peas, carrots, asparagus/greens, and seeds/nuts",
+      "portion_estimate": 180,
+      "confidence": 92
+    },
+    {
+      "name": "Round bread roll wrapped in plastic",
+      "portion_estimate": 65,
+      "confidence": 90
+    },
+    {
+      "name": "Fresh fruit, specifically two apricots",
+      "portion_estimate": 85,
+      "confidence": 92
+    },
+    {
+      "name": "Grilled fish fillet with greens on a small plate",
+      "portion_estimate": 110,
+      "confidence": 95
+    }
+  ]
+}

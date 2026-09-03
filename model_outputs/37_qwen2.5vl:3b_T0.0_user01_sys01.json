@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "salad with shredded carrots and radicchio",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "spaghetti with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "fried egg",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "sandwich with spinach and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

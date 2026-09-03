@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "baked potato topped with meat and sauce",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "potato chunks (likely boiled or roasted)",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "dark meat sauce (possibly gravy or barbecue sauce)",
+      "portion_estimate": "30",
+      "confidence": 75
+    }
+  ]
+}

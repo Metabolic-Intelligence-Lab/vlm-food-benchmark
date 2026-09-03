@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bun",
+      "portion_estimate": "100 g",
+      "confidence": 95
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "200 g",
+      "confidence": 90
+    },
+    {
+      "name": "fruit (peach)",
+      "portion_estimate": "50 g",
+      "confidence": 85
+    },
+    {
+      "name": "wrap",
+      "portion_estimate": "175 g",
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Parmesan Cheese",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Green Beans on a Plate",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread Roll in a Paper Bag",
+      "portion_estimate": "150g",
+      "confidence": "75"
+    }
+  ]
+}

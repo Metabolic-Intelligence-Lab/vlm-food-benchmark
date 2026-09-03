@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and parmesan",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "spinach and cheese roll",
+      "portion_estimate": "200",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed salad (cabbage and cucumber)",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250",
+      "confidence": "80"
+    }
+  ]
+}

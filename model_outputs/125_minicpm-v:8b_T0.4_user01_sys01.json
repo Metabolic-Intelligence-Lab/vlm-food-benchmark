@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain, approx. bowl size",
+      "confidence": "60"
+    },
+    {
+      "name": "egg",
+      "portion_estimate": "uncertain, approx. egg white and yolk in a small dish",
+      "confidence": "50"
+    },
+    {
+      "name": "bun with butter",
+      "portion_estimate": "uncertain, approx. bun size",
+      "confidence": "60"
+    },
+    {
+      "name": "red yogurt container",
+      "portion_estimate": "uncertain, approx. cup size",
+      "confidence": "50"
+    }
+  ]
+}

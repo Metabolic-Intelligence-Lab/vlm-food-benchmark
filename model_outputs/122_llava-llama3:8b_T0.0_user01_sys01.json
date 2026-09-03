@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "meatballs with breadcrumbs",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "orange carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red pasta with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "clear glass cup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "white plastic cup",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

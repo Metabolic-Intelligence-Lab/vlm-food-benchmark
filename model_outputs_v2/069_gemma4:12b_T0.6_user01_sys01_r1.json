@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "sausages",
+      "portion_estimate": "200g",
+      "confidence": "98"
+    },
+    {
+      "name": "stewed meat chunks",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "green bell peppers",
+      "portion_estimate": "60g",
+      "confidence": "98"
+    },
+    {
+      "name": "gravy",
+      "portion_estimate": "100g",
+      "confidence": "95"
+    }
+  ]
+}

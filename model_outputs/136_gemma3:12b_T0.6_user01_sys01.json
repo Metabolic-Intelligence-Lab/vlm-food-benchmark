@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": "150",
+      "confidence": "95"
+    },
+    {
+      "name": "carrot, diced",
+      "portion_estimate": "30",
+      "confidence": "85"
+    },
+    {
+      "name": "peas, frozen",
+      "portion_estimate": "20",
+      "confidence": "80"
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "80",
+      "confidence": "90"
+    },
+    {
+      "name": "mozzarella cheese, shredded",
+      "portion_estimate": "25",
+      "confidence": "75"
+    }
+  ]
+}

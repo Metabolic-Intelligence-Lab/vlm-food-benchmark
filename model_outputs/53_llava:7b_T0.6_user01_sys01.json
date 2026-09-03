@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce and shredded cheese",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Baked fish fillet",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta salad with vegetables",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll with a side of butter and jam",
+      "portion_estimate": "30g bread, 20g butter, 30g jam",
+      "confidence": "70"
+    },
+    {
+      "name": "A baguette",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Sliced watermelon with a strawberry and grape on the side",
+      "portion_estimate": "2 slices, 1 strawberry, 1 grape",
+      "confidence": "70"
+    }
+  ]
+}

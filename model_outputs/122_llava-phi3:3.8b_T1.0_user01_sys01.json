@@ -1,0 +1,32 @@
+{
+  "food_items": [
+    {
+      "name": "A sandwich",
+      "type": "Bread and meat with sauce",
+      "color": "brown bread with white meat and green lettuce on top of a yellow plate",
+      "portion_estimate": "about 100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta salad",
+      "type": "Salad in pasta shells with cheese and parmesan topping",
+      "color": "orange noodles, white sauce and grated cheese on a white bowl with some brown noodles",
+      "portion_estimate": "about 200g",
+      "confidence": "85"
+    },
+    {
+      "name": "Sliced cucumber and carrots",
+      "type": "Carrots cut in pieces on a white plate next to the banana. Cucumbers not shown.",
+      "color": "carrot orange, green and yellow",
+      "portion_estimate": "about 100g",
+      "confidence": "95"
+    },
+    {
+      "name": "Plain drinking glass",
+      "type": "Tall clear glass with white straw in it",
+      "color": "clear and white",
+      "portion_estimate": "unknown",
+      "confidence": "100"
+    }
+  ]
+}

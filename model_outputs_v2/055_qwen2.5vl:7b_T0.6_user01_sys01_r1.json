@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed vegetables with chicken and mushrooms",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Grilled vegetable",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "300 milliliters",
+      "confidence": 90
+    }
+  ]
+}

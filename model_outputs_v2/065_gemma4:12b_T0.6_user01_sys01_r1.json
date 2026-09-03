@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green salad",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "fried egg on toast",
+      "portion_estimate": "130g",
+      "confidence": "95"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70g",
+      "confidence": "90"
+    }
+  ]
+}

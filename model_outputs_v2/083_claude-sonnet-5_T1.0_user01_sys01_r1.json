@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken breast with breadcrumb/leek topping",
+      "portion_estimate": "120",
+      "confidence": 65
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "couscous with vegetables and chickpeas",
+      "portion_estimate": "130",
+      "confidence": 65
+    },
+    {
+      "name": "sautéed spinach",
+      "portion_estimate": "60",
+      "confidence": 60
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125",
+      "confidence": 55
+    },
+    {
+      "name": "water glass",
+      "portion_estimate": "200",
+      "confidence": 50
+    }
+  ]
+}

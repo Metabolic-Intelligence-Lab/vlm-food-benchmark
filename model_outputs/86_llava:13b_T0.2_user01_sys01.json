@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pasta (macaroni or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "creamy sauce or cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "mashed potatoes or similar starchy food",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "blueberries or fruit compote",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "roll or bread item",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

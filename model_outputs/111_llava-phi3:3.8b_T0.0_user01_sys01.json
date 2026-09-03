@@ -1,0 +1,42 @@
+{
+  "food_items": [
+    {
+      "name": "meatball with sauce",
+      "portion_estimate": "10g",
+      "confidence": "90"
+    },
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "rice with sauce",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ],
+  "tray": [
+    {
+      "item": "meatball with sauce",
+      "location": "top left"
+    },
+    {
+      "item": "macaroni and cheese",
+      "location": "middle right"
+    },
+    {
+      "item": "rice with sauce",
+      "location": "bottom middle"
+    },
+    {
+      "item": "banana",
+      "location": "bottom right"
+    }
+  ]
+}

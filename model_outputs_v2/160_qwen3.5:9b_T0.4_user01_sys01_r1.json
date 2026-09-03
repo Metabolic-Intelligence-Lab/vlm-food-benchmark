@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "hominy soup with visible corn kernels and a dollop of cream",
+      "portion_estimate": 300,
+      "confidence": 95
+    },
+    {
+      "name": "green beans (cooked)",
+      "portion_estimate": 120,
+      "confidence": 98
+    },
+    {
+      "name": "golden-brown fish cake or fritter with a dollop of white sauce (mayonnaise or tartar sauce)",
+      "portion_estimate": 85,
+      "confidence": 92
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": 10,
+      "confidence": 96
+    },
+    {
+      "name": "pear (whole)",
+      "portion_estimate": 180,
+      "confidence": 94
+    },
+    {
+      "name": "bread roll or bun (wrapped in plastic)",
+      "portion_estimate": 65,
+      "confidence": 93
+    }
+  ]
+}

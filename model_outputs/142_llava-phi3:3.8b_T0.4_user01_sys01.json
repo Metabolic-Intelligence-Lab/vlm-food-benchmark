@@ -1,0 +1,39 @@
+{
+  "tray": [
+    {
+      "name": "rice",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "beans",
+      "portion_estimate": "80g",
+      "confidence": "85"
+    },
+    {
+      "name": "fish with vegetables",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    }
+  ],
+  "cutlery": [
+    {
+      "type": "fork",
+      "position": "bottom left"
+    },
+    {
+      "type": "knife",
+      "position": "top right"
+    },
+    {
+      "type": "spoon",
+      "position": "bottom right"
+    }
+  ],
+  "tablecloth": [
+    {
+      "color": "white",
+      "pattern": "green leaves"
+    }
+  ]
+}

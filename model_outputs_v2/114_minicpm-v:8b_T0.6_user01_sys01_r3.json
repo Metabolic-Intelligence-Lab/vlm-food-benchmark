@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne with Tomato Sauce and Parmesan Cheese",
+      "portion_estimate": "uncertain, approx. 200-300g",
+      "confidence": "50"
+    },
+    {
+      "name": "Chicken Cutlet with Mashed Potatoes",
+      "portion_estimate": "uncertain, approx. 100-150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole Grain Bread Slice",
+      "portion_estimate": "uncertain, approx. 40-70g",
+      "confidence": "50"
+    },
+    {
+      "name": "Yogurt with Fruit",
+      "portion_estimate": "uncertain, approx. 100-200g",
+      "confidence": "60"
+    }
+  ]
+}

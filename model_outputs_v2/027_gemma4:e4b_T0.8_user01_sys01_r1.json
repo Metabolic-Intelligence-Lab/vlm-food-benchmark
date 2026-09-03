@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried savory patties/croquettes",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "Pasta dish with sauce and toppings",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked leafy greens (e.g., spinach)",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    },
+    {
+      "name": "Creamy dipping sauce",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    }
+  ]
+}

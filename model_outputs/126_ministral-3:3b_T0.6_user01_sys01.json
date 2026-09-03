@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated parmesan",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "garlic mashed potatoes with saut\u00e9ed green beans",
+      "portion_estimate": "180 grams",
+      "confidence": 90
+    },
+    {
+      "name": "garlic butter chicken or meat dish",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "wrapped bread bun (possibly a garlic-herb or sesame bun)",
+      "portion_estimate": "80 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt drink (Yoplait or similar brand)",
+      "portion_estimate": "175 grams (1 cup)",
+      "confidence": 85
+    },
+    {
+      "name": "water (empty glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green tea or similar tea bag in a pouch",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

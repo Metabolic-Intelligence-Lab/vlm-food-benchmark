@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bread roll",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125",
+      "confidence": 95
+    },
+    {
+      "name": "green vegetable soup with grated cheese",
+      "portion_estimate": "300",
+      "confidence": 85
+    },
+    {
+      "name": "spinach patty with white sauce and mushroom",
+      "portion_estimate": "90",
+      "confidence": 80
+    },
+    {
+      "name": "cooked mixed vegetables (potato, zucchini, carrot)",
+      "portion_estimate": "100",
+      "confidence": 80
+    }
+  ]
+}

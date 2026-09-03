@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked or roasted chicken breast with white sauce (possibly cream-based)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "green beans saut\u00e9ed in oil with garlic or onion",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed kale or collard greens with garlic and olive oil",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "diced roasted potatoes (or possibly sweet potatoes)",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "navel orange (whole)",
+      "portion_estimate": "180g",
+      "confidence": 90
+    }
+  ]
+}

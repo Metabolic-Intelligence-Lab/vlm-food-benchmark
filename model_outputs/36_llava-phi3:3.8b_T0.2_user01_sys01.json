@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried chicken",
+      "portion_estimate": "200g",
+      "confidence": "85"
+    },
+    {
+      "name": "Coleslaw with purple cabbage and carrots",
+      "portion_estimate": "150g",
+      "confidence": "95"
+    },
+    {
+      "name": "Breaded meat in a white bowl",
+      "portion_estimate": "250g",
+      "confidence": "80"
+    },
+    {
+      "name": "Two pieces of broccoli on a plate",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    }
+  ]
+}

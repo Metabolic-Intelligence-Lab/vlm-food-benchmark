@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green leaf",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "purple and orange fruit or vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fried potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "carrot",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fresh fruits",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "fish",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

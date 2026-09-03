@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain, approx. slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain, bowl full",
+      "confidence": "60"
+    },
+    {
+      "name": "red potatoes",
+      "portion_estimate": "uncertain, medium-sized",
+      "confidence": "70"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain, whole fruit size",
+      "confidence": "50"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "uncertain, small pieces on plate",
+      "confidence": "60"
+    },
+    {
+      "name": "broccoli rabe",
+      "portion_estimate": "uncertain, medium-sized portion of greens and carrots",
+      "confidence": "70"
+    },
+    {
+      "name": "potato cake",
+      "portion_estimate": "uncertain, slice size",
+      "confidence": "50"
+    }
+  ]
+}

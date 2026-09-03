@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice porridge with toppings",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small bowl of soup (likely vegetable or meat-based)",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "orange slices",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "two clear plastic glasses (water)",
+      "portion_estimate": "200 grams each (total 400 grams)",
+      "confidence": 70
+    },
+    {
+      "name": "small fried egg (on the left side, partially visible)",
+      "portion_estimate": "30 grams",
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "potato-based mash or puree",
+      "portion_estimate": "150 grams (approximate volume in a typical 15x15 cm dish)",
+      "confidence": 85
+    },
+    {
+      "name": "topping or food residue (appears to be seasoning or partially cooked ingredient)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

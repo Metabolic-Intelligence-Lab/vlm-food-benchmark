@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "beans with chopped green onions",
+      "portion_estimate": "200g (approximate)",
+      "confidence": 85
+    },
+    {
+      "name": "baked or fried fish fillet",
+      "portion_estimate": "120g (approximate)",
+      "confidence": 80
+    },
+    {
+      "name": "steamed or saut\u00e9ed broccoli",
+      "portion_estimate": "150g (approximate)",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or multigrain roll",
+      "portion_estimate": "60g (approximate)",
+      "confidence": 80
+    },
+    {
+      "name": "plums (two whole)",
+      "portion_estimate": "180g (approximate, ~90g each)",
+      "confidence": 85
+    }
+  ]
+}

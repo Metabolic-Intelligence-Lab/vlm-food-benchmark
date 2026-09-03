@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "steamed broccoli florets",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "grilled white fish fillet",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "boiled chickpeas",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "slice of whole grain bread",
+      "portion_estimate": "40",
+      "confidence": 75
+    },
+    {
+      "name": "sliced cheese (packaged)",
+      "portion_estimate": "30",
+      "confidence": 55
+    },
+    {
+      "name": "yomo yogurt cup",
+      "portion_estimate": "125",
+      "confidence": 65
+    }
+  ]
+}

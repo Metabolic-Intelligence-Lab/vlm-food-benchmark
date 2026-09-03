@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup with grated cheese on top",
+      "portion_estimate": "320 g",
+      "confidence": "78"
+    },
+    {
+      "name": "grated hard cheese (topping on soup, likely parmesan)",
+      "portion_estimate": "8 g",
+      "confidence": "70"
+    },
+    {
+      "name": "plain yogurt cup (single-serve)",
+      "portion_estimate": "125 g",
+      "confidence": "74"
+    },
+    {
+      "name": "slice of rustic bread",
+      "portion_estimate": "45 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cauliflower (cooked/steamed, served as side)",
+      "portion_estimate": "120 g",
+      "confidence": "72"
+    },
+    {
+      "name": "grilled panini/sandwich (pressed, rectangular piece)",
+      "portion_estimate": "110 g",
+      "confidence": "68"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "250 g",
+      "confidence": "86"
+    }
+  ]
+}

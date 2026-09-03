@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "spiced tomato soup",
+      "portion_estimate": "uncertain, approximately a bowl's worth (~400g)",
+      "confidence": "50"
+    },
+    {
+      "name": "sauteed spinach",
+      "portion_estimate": "uncertain, approximately 1 cup (~80g-120g)",
+      "confidence": "60"
+    },
+    {
+      "name": "mushroom fritters with cheese sauce",
+      "portion_estimate": "uncertain, possibly a serving each (~50g per piece)",
+      "confidence": "50"
+    },
+    {
+      "name": "whole green apple",
+      "portion_estimate": "uncertain (approximate weight not visible), approximately 1 medium size (~200-300g)",
+      "confidence": "40"
+    }
+  ]
+}

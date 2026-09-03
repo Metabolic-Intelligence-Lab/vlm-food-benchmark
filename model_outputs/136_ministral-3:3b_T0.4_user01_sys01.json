@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": "100-120 grams",
+      "confidence": 95
+    },
+    {
+      "name": "diced carrots",
+      "portion_estimate": "30-50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "diced green bell peppers",
+      "portion_estimate": "20-30 grams",
+      "confidence": 75
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "50-70 grams",
+      "confidence": 85
+    }
+  ]
+}

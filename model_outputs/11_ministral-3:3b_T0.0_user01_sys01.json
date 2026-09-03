@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole baked sweet potato (peeled and wrapped in plastic)",
+      "portion_estimate": "150-200 grams",
+      "confidence": 90
+    },
+    {
+      "name": "small piece of flatbread or tortilla with toppings (e.g., cheese, herbs)",
+      "portion_estimate": "30-50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "kale or spinach salad (mixed greens, possibly with dressing)",
+      "portion_estimate": "100-120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "small carrot slice (orange carrot)",
+      "portion_estimate": "10-15 grams",
+      "confidence": 85
+    },
+    {
+      "name": "cabbage or coleslaw mix (purple cabbage, possibly with dressing)",
+      "portion_estimate": "50-70 grams",
+      "confidence": 80
+    }
+  ]
+}

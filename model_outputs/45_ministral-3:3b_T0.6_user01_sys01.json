@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried fish or breaded cutlet",
+      "portion_estimate": "180\u2013200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "yellowish zucchini or summer squash salad (shredded)",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "white sauce-based side (potato or similar, possibly in bag)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "soup or yogurt cup (possibly soy or other yogurt-based drink)",
+      "portion_estimate": "200 grams",
+      "confidence": 70
+    },
+    {
+      "name": "saut\u00e9ed green beans with corn, tomato, and egg",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    }
+  ]
+}

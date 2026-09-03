@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Burrito",
+      "portion_estimate": "1000g",
+      "confidence": 95
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "200g",
+      "confidence": 75
+    },
+    {
+      "name": "Beans",
+      "portion_estimate": "100g",
+      "confidence": 30
+    },
+    {
+      "name": "Meat",
+      "portion_estimate": "150g",
+      "confidence": 20
+    }
+  ]
+}

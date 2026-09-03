@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup with grated cheese topping",
+      "portion_estimate": "400",
+      "confidence": 85
+    },
+    {
+      "name": "fresh green peas (shelled)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "carrot slices (cooked or raw)",
+      "portion_estimate": "80",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt drink (unspecified flavor, possibly strawberry or vanilla)",
+      "portion_estimate": "150",
+      "confidence": 75
+    },
+    {
+      "name": "baguette or sandwich roll (partially visible)",
+      "portion_estimate": "100",
+      "confidence": 70
+    }
+  ]
+}

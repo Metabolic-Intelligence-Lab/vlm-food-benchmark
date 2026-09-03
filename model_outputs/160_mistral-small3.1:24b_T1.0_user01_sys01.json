@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pear",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "carrot slices",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "cream cheese",
+      "portion_estimate": "30",
+      "confidence": "75"
+    },
+    {
+      "name": "sliced lemon",
+      "portion_estimate": "10",
+      "confidence": "95"
+    },
+    {
+      "name": "white bread",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "chickpea and pasta soup",
+      "portion_estimate": "400",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pesto pasta",
+      "portion_estimate": "150 g",
+      "confidence": 95
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "200 g",
+      "confidence": 85
+    },
+    {
+      "name": "Veggie patty with diced carrots",
+      "portion_estimate": "120 g",
+      "confidence": 75
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "80 g",
+      "confidence": 90
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "100 g (for two plums)",
+      "confidence": 70
+    }
+  ]
+}

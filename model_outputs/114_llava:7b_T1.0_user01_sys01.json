@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with meat sauce",
+      "portion_estimate": "120g",
+      "confidence": "60"
+    },
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Crispy french fries",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Plain white bread roll",
+      "portion_estimate": "50g",
+      "confidence": "50"
+    }
+  ]
+}

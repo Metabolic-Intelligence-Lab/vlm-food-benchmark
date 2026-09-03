@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried item (croquette or battered fry)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "potatoes (side dish)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "rice (side dish)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

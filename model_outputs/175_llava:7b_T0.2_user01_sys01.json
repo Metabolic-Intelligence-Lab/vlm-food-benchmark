@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken with sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Sauteed spinach",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Orange on the side",
+      "portion_estimate": "1 medium orange",
+      "confidence": "70"
+    }
+  ]
+}

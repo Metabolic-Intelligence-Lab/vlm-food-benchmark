@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Cooked Legumes (Lentils or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Baked Fish or Chicken with Mushy Peas",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Greens (Spinach or leafy green vegetable)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

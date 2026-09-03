@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "radicchio leaves",
+      "portion_estimate": "50-100g",
+      "confidence": "90"
+    },
+    {
+      "name": "mixed salad greens (lettuce, endive)",
+      "portion_estimate": "100-150g",
+      "confidence": "85"
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "20-30g",
+      "confidence": "80"
+    },
+    {
+      "name": "grilled chicken pieces",
+      "portion_estimate": "50-75g",
+      "confidence": "80"
+    }
+  ]
+}

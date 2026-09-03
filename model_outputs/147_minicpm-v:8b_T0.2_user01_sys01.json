@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "65"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. 100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Plums and grapes",
+      "portion_estimate": "uncertain, approx. 25-30g each",
+      "confidence": "60"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "75"
+    },
+    {
+      "name": "Green beans with tomato sauce and meat",
+      "portion_estimate": "uncertain, approx. 200g",
+      "confidence": "68"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce and grated cheese",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "White beans",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Flatbread or pita",
+      "portion_estimate": "50 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    }
+  ]
+}

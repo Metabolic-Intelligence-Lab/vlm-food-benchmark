@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "20g",
+      "confidence": 95
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200ml",
+      "confidence": 100
+    },
+    {
+      "name": "sliced meat",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "cooked greens (kale)",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "150g",
+      "confidence": 90
+    }
+  ]
+}

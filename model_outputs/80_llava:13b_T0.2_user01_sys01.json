@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice with vegetables",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "chicken and vegetable stir-fry",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "potato salad",
+      "portion_estimate": "200g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "packet of sugar",
+      "portion_estimate": "1g",
+      "confidence": "90"
+    }
+  ]
+}

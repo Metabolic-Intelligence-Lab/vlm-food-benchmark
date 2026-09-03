@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "breaded and fried fish fillet (e.g., cod or pollock)",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "steamed or boiled mixed vegetables (e.g., zucchini, green beans)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "mashed potatoes with butter or cream",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat bread slice",
+      "portion_estimate": "40",
+      "confidence": 80
+    },
+    {
+      "name": "medium orange",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "water (in a glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

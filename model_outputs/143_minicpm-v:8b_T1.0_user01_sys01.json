@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cottage Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Broccoli with possibly some cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Grilled fish fillets (likely cod or similar)",
+      "portion_estimate": "120 grams each, for 2 fillets total",
+      "confidence": "95"
+    },
+    {
+      "name": "Mashed potatoes with diced onions",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Toasted bread",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "peaches",
+      "portion_estimate": "uncertain weight in grams",
+      "confidence": "80"
+    },
+    {
+      "name": "green beans with seasoning",
+      "portion_estimate": "uncertain weight in grams",
+      "confidence": "65"
+    }
+  ]
+}

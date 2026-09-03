@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken breast, cooked and seasoned",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "saut\u00e9ed spinach, seasoned with herbs and spices",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta (penne or rigatoni) with tomato-based sauce and Parmesan cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "gelato or ice cream (fruit or nut flavored)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

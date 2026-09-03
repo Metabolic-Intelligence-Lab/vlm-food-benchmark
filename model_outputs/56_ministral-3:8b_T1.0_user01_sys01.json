@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "crispy fried bread stick",
+      "portion_estimate": "50g",
+      "confidence": "85"
+    },
+    {
+      "name": "mixed vegetables (likely including carrots, green beans, mushrooms, and possibly peas)",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "bolognese-style pasta with herbs",
+      "portion_estimate": "150g (cooked)",
+      "confidence": "85"
+    },
+    {
+      "name": "whole wheat or multigrain bun (burger bun-like)",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "tap water or clear beverage in glass",
+      "portion_estimate": "uncertain (no specific measurement, only visible empty glass)",
+      "confidence": "30"
+    }
+  ]
+}

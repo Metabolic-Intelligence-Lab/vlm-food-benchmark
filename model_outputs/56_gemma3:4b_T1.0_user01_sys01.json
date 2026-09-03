@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Meatloaf",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "50 grams",
+      "confidence": 65
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "240 ml",
+      "confidence": 95
+    }
+  ]
+}

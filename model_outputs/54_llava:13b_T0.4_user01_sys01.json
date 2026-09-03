@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "150 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Cauliflower",
+      "portion_estimate": "80 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "100 g",
+      "confidence": "50"
+    }
+  ]
+}

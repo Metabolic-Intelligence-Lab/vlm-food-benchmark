@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Penne Pasta",
+      "portion_estimate": "100-200 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Egg with Fried Fish (possibly chicken)",
+      "portion_estimate": "100-200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Cooked Zucchini and Cabbage",
+      "portion_estimate": "150-200 grams",
+      "confidence": "65"
+    }
+  ]
+}

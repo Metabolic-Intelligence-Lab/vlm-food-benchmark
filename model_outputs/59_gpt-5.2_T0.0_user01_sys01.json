@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad (shredded carrots, cucumber slices, leafy greens)",
+      "portion_estimate": "120 g",
+      "confidence": "78"
+    },
+    {
+      "name": "cooked leafy greens (spinach/kale, uncertain)",
+      "portion_estimate": "110 g",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "80"
+    },
+    {
+      "name": "small dessert tart/pastry with cream filling and chocolate sauce",
+      "portion_estimate": "60 g",
+      "confidence": "62"
+    },
+    {
+      "name": "red plums",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    }
+  ]
+}

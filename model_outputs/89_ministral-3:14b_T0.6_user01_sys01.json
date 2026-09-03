@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked couscous with olive oil",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted chickpeas (or boiled chickpeas)",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "whole lemon (unpeeled)",
+      "portion_estimate": "130g",
+      "confidence": 80
+    },
+    {
+      "name": "whole onion (roasted or raw)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "grated cheese (or tahini-based sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

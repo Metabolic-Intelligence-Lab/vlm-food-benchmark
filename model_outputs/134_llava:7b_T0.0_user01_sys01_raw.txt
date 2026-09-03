@@ -1,0 +1,17 @@
+The image shows a container filled with what appears to be cooked rice mixed with some type of meat, possibly chicken or beef, and seasoned with spices. There are two images side by side, one showing the food before it was eaten, and the other after it has been partially consumed.
+
+The output in JSON format based on the image would look like this:
+
+```json
+{
+  "food_items": [
+    {
+      "name": "Rice with meat",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    }
+  ]
+}
+```
+
+The confidence level is set to 80 because the food appears to be well-defined and clearly identifiable. The portion size is estimated based on the visible amount of rice and meat in the container before it was eaten.

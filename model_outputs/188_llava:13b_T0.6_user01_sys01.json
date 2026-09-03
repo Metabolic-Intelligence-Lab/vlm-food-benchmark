@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable-based soup (minestrone or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "quiche or pie",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "steamed spinach or broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mustard",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "hot sauce or chili oil",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

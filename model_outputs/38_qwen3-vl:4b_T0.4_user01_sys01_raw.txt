@@ -1,0 +1,31 @@
+To determine the number of distinct arrangements of the word **AABBC** where all vowels are together, follow these steps:
+
+1. **Identify vowels and consonants**:
+   - The word **AABBC** consists of the letters: A, A, B, B, C.
+   - Vowels: A, A (since A is a vowel).
+   - Consonants: B, B, C.
+
+2. **Treat vowels as a single block**:
+   - Since both vowels are identical (A), they form a single block: **[AA]**.
+   - This reduces the problem to arranging the block **[AA]** along with the consonants: B, B, C.
+
+3. **Count the items to arrange**:
+   - The block **[AA]** is one item.
+   - The consonants are B, B, C (three items, with two identical B's).
+   - Total items to arrange: **1 block + 3 consonants = 4 items**.
+
+4. **Calculate distinct permutations**:
+   - The 4 items are: **[AA]**, B, B, C.
+   - Among these, the two B's are identical, so we use the formula for permutations of a multiset:
+     \[
+     \text{Number of distinct arrangements} = \frac{4!}{2!}
+     \]
+   - Compute:
+     \[
+     4! = 24, \quad 2! = 2, \quad \frac{24}{2} = 12
+     \]
+
+**Final Answer**:  
+The number of distinct arrangements of the word **AABBC** where all vowels are together is **12**.
+
+\boxed{12}

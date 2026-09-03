@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli florets",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "cheese or cheese-based baked dish (e.g., quiche)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mushroom soup with grated cheese topping",
+      "portion_estimate": "300 grams",
+      "confidence": 90
+    },
+    {
+      "name": "butter or margarine packet (likely unused)",
+      "portion_estimate": "uncertain (not consumed)",
+      "confidence": 30
+    },
+    {
+      "name": "small packaged food item (e.g., crackers or cookies)",
+      "portion_estimate": "uncertain (likely ~50 grams)",
+      "confidence": 55
+    }
+  ]
+}

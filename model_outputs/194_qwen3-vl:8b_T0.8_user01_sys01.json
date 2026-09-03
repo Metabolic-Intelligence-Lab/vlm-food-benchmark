@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Tomato vegetable soup",
+      "portion_estimate": "250g",
+      "confidence": "70"
+    },
+    {
+      "name": "Saut\u00e9ed spinach",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pancake with blueberry topping",
+      "portion_estimate": "80g",
+      "confidence": "60"
+    },
+    {
+      "name": "Iced water",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Orange",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Hamburger bun",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    }
+  ]
+}

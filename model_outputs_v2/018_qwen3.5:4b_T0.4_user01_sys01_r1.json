@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish fillet (likely white fish)",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "tomato pasta with sauce (fusilli)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "coleslaw (cabbage, carrots, dressing)",
+      "portion_estimate": "120",
+      "confidence": 75
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "300",
+      "confidence": 90
+    }
+  ]
+}

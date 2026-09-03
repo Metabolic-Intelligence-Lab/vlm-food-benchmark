@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "plain yogurt cup (single-serve)",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    },
+    {
+      "name": "drinking water",
+      "portion_estimate": "200 g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll (bagged)",
+      "portion_estimate": "60 g",
+      "confidence": "75"
+    },
+    {
+      "name": "tomato slices topped with fresh mozzarella and anchovy (2 pieces total)",
+      "portion_estimate": "140 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed salad greens (lettuce/radicchio) with light dressing",
+      "portion_estimate": "40 g",
+      "confidence": "65"
+    },
+    {
+      "name": "fried diced potatoes / home fries",
+      "portion_estimate": "150 g",
+      "confidence": "75"
+    }
+  ]
+}

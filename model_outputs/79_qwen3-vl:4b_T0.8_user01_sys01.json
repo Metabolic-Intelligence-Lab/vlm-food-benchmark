@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "White beans",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "300g",
+      "confidence": 90
+    },
+    {
+      "name": "Pastry",
+      "portion_estimate": "150g",
+      "confidence": 90
+    }
+  ]
+}

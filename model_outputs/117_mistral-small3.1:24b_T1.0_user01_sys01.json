@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup",
+      "portion_estimate": "400g",
+      "confidence": 85
+    },
+    {
+      "name": "butter tub",
+      "portion_estimate": "20g",
+      "confidence": 90
+    },
+    {
+      "name": "loaf of bread",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "baby spinach",
+      "portion_estimate": "15g",
+      "confidence": 70
+    },
+    {
+      "name": "broccoli florets",
+      "portion_estimate": "60g",
+      "confidence": 80
+    },
+    {
+      "name": "roast beef",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "100g",
+      "confidence": 85
+    }
+  ]
+}

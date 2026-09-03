@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with olive oil and grated cheese",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "small piece of grilled cheese or cheese bread",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "plum or black fruit",
+      "portion_estimate": "30",
+      "confidence": 80
+    },
+    {
+      "name": "sliced yellow cheese (possibly mozzarella) on plastic wrap",
+      "portion_estimate": "100",
+      "confidence": 75
+    }
+  ]
+}

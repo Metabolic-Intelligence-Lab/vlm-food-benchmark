@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup in bowl",
+      "portion_estimate": "250 grams",
+      "confidence": 95
+    },
+    {
+      "name": "water in cup",
+      "portion_estimate": "70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "seaweed dish",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    }
+  ]
+}

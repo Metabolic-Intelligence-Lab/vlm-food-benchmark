@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "milk",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "bread with brown swirls",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread with green leaf on side",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    }
+  ]
+}

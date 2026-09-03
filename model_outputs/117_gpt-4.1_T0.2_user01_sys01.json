@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "white bread roll",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "bowl of vegetable soup with grated cheese",
+      "portion_estimate": "300",
+      "confidence": 90
+    },
+    {
+      "name": "strawberry yogurt cup",
+      "portion_estimate": "125",
+      "confidence": 100
+    },
+    {
+      "name": "cauliflower gratin",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "stuffed zucchini with ground meat and tomato sauce",
+      "portion_estimate": "100",
+      "confidence": 80
+    }
+  ]
+}

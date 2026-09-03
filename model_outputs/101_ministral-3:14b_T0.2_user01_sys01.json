@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (cooked)",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "shredded chicken (cooked)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "baked lemon dessert (e.g., lemon cake or tart)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat roll or bread",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "20g",
+      "confidence": 95
+    },
+    {
+      "name": "parmesan cheese (grated, in container)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "plastic-wrapped packaged item (contents uncertain)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

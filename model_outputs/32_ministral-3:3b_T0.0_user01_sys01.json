@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "small pasta shells (e.g., penne or rotini) with tomato chunks",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "grated cheese (likely parmesan or similar)",
+      "portion_estimate": "15",
+      "confidence": 85
+    },
+    {
+      "name": "diced tomatoes",
+      "portion_estimate": "50",
+      "confidence": 90
+    }
+  ]
+}

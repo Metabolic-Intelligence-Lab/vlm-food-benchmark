@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fried Fish",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "Pasta with Tomato Sauce",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "Kale",
+      "portion_estimate": "60g",
+      "confidence": 80
+    }
+  ]
+}

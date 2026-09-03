@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato-based sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "salad with crispy bacon and vinaigrette",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "bread with printed image",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

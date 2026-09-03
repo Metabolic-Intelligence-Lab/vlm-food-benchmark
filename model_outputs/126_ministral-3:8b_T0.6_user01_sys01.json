@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (rigatoni) with grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "buttered bread roll (plain)",
+      "portion_estimate": "70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "butter or margarine (packaged, in yellow wrapper)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "mayonnaise (packaged, in red packaging)",
+      "portion_estimate": "uncertain (container size ~118 ml, but no visible portion size)",
+      "confidence": 50
+    },
+    {
+      "name": "steamed broccoli with pieces of potato or possibly meat",
+      "portion_estimate": "150 grams (broccoli + potatoes/meat combined)",
+      "confidence": 80
+    },
+    {
+      "name": "water (in clear glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

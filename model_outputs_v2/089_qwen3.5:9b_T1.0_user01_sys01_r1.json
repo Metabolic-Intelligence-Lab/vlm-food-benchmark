@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "White rice with melted butter",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Cooked white fish fillet (likely cod or hake)",
+      "portion_estimate": 120,
+      "confidence": 85
+    },
+    {
+      "name": "Boiled chickpeas",
+      "portion_estimate": 130,
+      "confidence": 95
+    },
+    {
+      "name": "Baked roll (onion or plain)",
+      "portion_estimate": 80,
+      "confidence": 85
+    },
+    {
+      "name": "Whole pear",
+      "portion_estimate": 180,
+      "confidence": 90
+    }
+  ]
+}

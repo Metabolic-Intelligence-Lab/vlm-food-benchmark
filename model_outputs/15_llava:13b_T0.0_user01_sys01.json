@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Indian curry with rice",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Creamy mashed potatoes",
+      "portion_estimate": "75 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "30 grams",
+      "confidence": "80"
+    }
+  ]
+}

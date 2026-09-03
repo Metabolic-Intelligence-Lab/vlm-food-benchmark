@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (Penne or Rigatoni)",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Olives (Black)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Chicken (Cooked)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

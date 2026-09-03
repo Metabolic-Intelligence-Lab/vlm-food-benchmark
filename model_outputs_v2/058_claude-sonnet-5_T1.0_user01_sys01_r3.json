@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "gemelli/fusilli pasta with herbs (butter or oil, parsley)",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "sliced sautéed carrots with mushrooms",
+      "portion_estimate": "130",
+      "confidence": 75
+    },
+    {
+      "name": "cheese and vegetable omelette (frittata)",
+      "portion_estimate": "100",
+      "confidence": 65
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": 75
+    },
+    {
+      "name": "whole peach",
+      "portion_estimate": "130",
+      "confidence": 85
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

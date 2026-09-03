@@ -1,0 +1,25 @@
+{
+  "food_items": [
+    {
+      "name": "Green juice",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Beverage with a red cap and green label",
+      "portion_estimate": "uncertain",
+      "confidence": 45
+    },
+    {
+      "name": "White plate of salad (tomatoes, mozzarella cheese, lettuce)",
+      "portion_estimate": "uncertain",
+      "confidence": 60,
+      "estimated_portion_size_g": "200-300"
+    },
+    {
+      "name": "Sliced baguette with olive oil and herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

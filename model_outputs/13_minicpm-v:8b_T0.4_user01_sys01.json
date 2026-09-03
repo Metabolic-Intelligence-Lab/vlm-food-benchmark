@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "watermelon slice",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "green leafy vegetables (possibly spinach)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "orange-colored food item in a bowl, possibly carrot or sweet potato noodles",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "brown fried patty (possibly chicken cutlet)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

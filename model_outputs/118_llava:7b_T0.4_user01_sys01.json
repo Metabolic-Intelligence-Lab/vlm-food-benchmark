@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Meatballs in tomato sauce",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded and fried chicken patty",
+      "portion_estimate": "125 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Cooked vegetables, possibly potatoes or zucchini",
+      "portion_estimate": "80 grams",
+      "confidence": "70"
+    }
+  ]
+}

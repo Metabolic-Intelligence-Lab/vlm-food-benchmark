@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Gnocchi",
+      "portion_estimate": "180 g",
+      "confidence": "80%"
+    },
+    {
+      "name": "Lentils",
+      "portion_estimate": "180 g",
+      "confidence": "80%"
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100 g",
+      "confidence": "70%"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "35 g",
+      "confidence": "70%"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200 g",
+      "confidence": "70%"
+    }
+  ]
+}

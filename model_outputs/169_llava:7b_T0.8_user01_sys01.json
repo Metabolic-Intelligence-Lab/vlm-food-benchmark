@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Pesto",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta with Pesto and Parmesan Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "20"
+    }
+  ]
+}

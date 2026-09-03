@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "approximately 200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "approximately 110 grams",
+      "confidence": 80
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "approximately 190 grams",
+      "confidence": 90
+    },
+    {
+      "name": "meatballs in sauce",
+      "portion_estimate": "approximately 150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": 85
+    }
+  ]
+}

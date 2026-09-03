@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with pesto sauce and grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Burger bun (unfilled)",
+      "portion_estimate": "120g approx.",
+      "confidence": "75"
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

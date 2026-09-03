@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked farfalle pasta",
+      "portion_estimate": "220 g",
+      "confidence": "85"
+    },
+    {
+      "name": "grated cheese on pasta",
+      "portion_estimate": "15 g",
+      "confidence": "75"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 g",
+      "confidence": "90"
+    },
+    {
+      "name": "sliced bread",
+      "portion_estimate": "80 g",
+      "confidence": "80"
+    },
+    {
+      "name": "omelette or egg frittata",
+      "portion_estimate": "110 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed vegetables with broad beans, carrots, and peas",
+      "portion_estimate": "160 g",
+      "confidence": "85"
+    }
+  ]
+}

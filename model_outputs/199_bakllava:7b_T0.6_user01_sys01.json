@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of pasta with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bowl containing beans, lentils or peas",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "plate of food that includes some meat",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "egg roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

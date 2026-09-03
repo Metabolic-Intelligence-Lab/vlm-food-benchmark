@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Scrambled eggs with herbs",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "Sliced ham (peppered)",
+      "portion_estimate": 90,
+      "confidence": 82
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": 130,
+      "confidence": 80
+    },
+    {
+      "name": "Water in plastic cup",
+      "portion_estimate": 240,
+      "confidence": 90
+    },
+    {
+      "name": "Wrapped bread roll (partially visible)",
+      "portion_estimate": 60,
+      "confidence": 75
+    }
+  ]
+}

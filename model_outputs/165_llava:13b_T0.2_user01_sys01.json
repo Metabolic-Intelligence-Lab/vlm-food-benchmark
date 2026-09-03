@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chili or stew",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "condiment or sauce (mustard or ketchup)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "burger sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "chicken sandwich with lettuce and tomato",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sour cream or dairy product",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

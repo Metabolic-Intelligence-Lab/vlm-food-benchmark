@@ -1,0 +1,31 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with grated cheese",
+      "portion_estimate": "200 g",
+      "confidence": 95
+    },
+    {
+      "name": "potatoes (side dish)",
+      "portion_estimate": "100 g",
+      "confidence": 80
+    },
+    {
+      "name": "vegetable-topped bread or casserole",
+      "portion_estimate": "150 g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "100 g",
+      "confidence": 75
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150 g",
+      "confidence": 80
+    }
+  ],
+  "total_portion_size_estimate": "650 g",
+  "note": " Portions are estimated based on visible items and typical serving sizes."
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "whole grain bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "green salad",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "creamy dip or spread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

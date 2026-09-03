@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread (sandwich bun)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Salad with lettuce, cherry tomatoes, olives, and cheese cubes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

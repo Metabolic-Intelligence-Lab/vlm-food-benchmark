@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread rolls/Buns",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Grain and vegetable salad mix",
+      "portion_estimate": "220",
+      "confidence": "90"
+    },
+    {
+      "name": "Omelet with roasted potatoes and tomatoes",
+      "portion_estimate": "250",
+      "confidence": "95"
+    },
+    {
+      "name": "Small red produce (e.g., tomatoes)",
+      "portion_estimate": "90",
+      "confidence": "80"
+    }
+  ]
+}

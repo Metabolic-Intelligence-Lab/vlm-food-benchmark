@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "quiche or savory tart slice with carrots and potatoes",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetable rice salad (corn, peas, carrots, onions, and possibly other veggies)",
+      "portion_estimate": "300g",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat or multigrain roll",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "canned mandarin oranges (4 pieces)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    }
+  ]
+}

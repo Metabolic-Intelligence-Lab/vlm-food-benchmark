@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with red sauce",
+      "portion_estimate": "150-200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Vegetarian meal with broccoli and cheese topping",
+      "portion_estimate": "300-400 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Cheesy pizza slice",
+      "portion_estimate": "100-150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "White plate with chicken breast and salad",
+      "portion_estimate": "300-400 grams",
+      "confidence": "80"
+    }
+  ]
+}

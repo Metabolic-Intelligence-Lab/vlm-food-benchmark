@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes with cheese",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "white beans with corn and herbs",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "grilled fish fillet (likely cod or similar)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "whole grain bread (single slice)",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    }
+  ]
+}

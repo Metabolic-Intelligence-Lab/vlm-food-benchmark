@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "baked brussels sprouts (halved)",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "purple plums",
+      "portion_estimate": "80",
+      "confidence": 75
+    },
+    {
+      "name": "crispy fried fish fillet (battered)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "steamed green tea (or green leafy vegetable sauce)",
+      "portion_estimate": "200",
+      "confidence": 70
+    }
+  ]
+}

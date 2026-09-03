@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked pappardelle pasta",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "pesto sauce",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "shredded cheese (likely parmesan)",
+      "portion_estimate": "20",
+      "confidence": "75"
+    }
+  ]
+}

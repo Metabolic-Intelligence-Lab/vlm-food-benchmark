@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pancakes with syrup and butter",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "Salad (lettuce, carrots, possibly other vegetables)",
+      "portion_estimate": "200g",
+      "confidence": 60
+    },
+    {
+      "name": "Sour cream and chives baked potato",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "Eggs (likely fried or scrambled)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    }
+  ]
+}

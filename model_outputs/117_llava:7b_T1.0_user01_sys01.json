@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Tomato Soup with Croutons",
+      "portion_estimate": "Approximate size: 450 ml",
+      "confidence": 90
+    },
+    {
+      "name": "Rice and Beans",
+      "portion_estimate": "Estimated weight: 150g (uncertain)",
+      "confidence": 30
+    },
+    {
+      "name": "Bread Rolls",
+      "portion_estimate": "Approximate size: 1 whole roll",
+      "confidence": 80
+    },
+    {
+      "name": "Rice Pudding with Raisins and Sauce",
+      "portion_estimate": "Estimated weight: 200g (uncertain)",
+      "confidence": 40
+    },
+    {
+      "name": "Stir-fried Meat and Vegetables",
+      "portion_estimate": "Estimated weight: 300g (uncertain)",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "name": "Pasta",
+      "weight": "120g",
+      "confidence": "85%"
+    },
+    {
+      "name": "Yogurt",
+      "weight": "120g",
+      "confidence": "80%"
+    },
+    {
+      "name": "Bread roll",
+      "weight": "35g",
+      "confidence": "85%"
+    },
+    {
+      "name": "Quiche slice",
+      "weight": "180g",
+      "confidence": "80%"
+    },
+    {
+      "name": "Leafy greens",
+      "weight": "120g",
+      "confidence": "80%"
+    },
+    {
+      "name": "Roasted potatoes",
+      "weight": "70g",
+      "confidence": "75%"
+    }
+  ]
+}

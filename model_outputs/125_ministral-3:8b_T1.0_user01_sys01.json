@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "egg",
+      "portion_estimate": "60 grams (based on approximate size of a large egg)",
+      "confidence": 85
+    },
+    {
+      "name": "soup with cheese topping (e.g., cheese dumplings in vegetable soup)",
+      "portion_estimate": "400 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt container (straw-like flavor, possibly Actimel or similar)",
+      "portion_estimate": "uncertain (container size unclear, estimated at 100-120 grams if standard single-serving yogurt)",
+      "confidence": 65
+    },
+    {
+      "name": "mixed salad roll with sauce (likely purple garnish, e.g., onion and herb filling)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "condiment or side sauce in squeeze bottle",
+      "portion_estimate": "uncertain (size unidentifiable, likely small portion: <20 grams)",
+      "confidence": 60
+    }
+  ]
+}

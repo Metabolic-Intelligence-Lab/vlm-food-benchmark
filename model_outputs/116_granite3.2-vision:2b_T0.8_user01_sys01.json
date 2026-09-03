@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Tzatziki",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Anchovies",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Parsley",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Feta Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Olives",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Pita Bread",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

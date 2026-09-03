@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Tomato soup",
+      "portion_estimate": "approx. 125g",
+      "confidence": "90"
+    },
+    {
+      "name": "Boiled eggs",
+      "portion_estimate": "approx. 75g",
+      "confidence": "80"
+    },
+    {
+      "name": "Sliced fruit salad (oranges, carrots)",
+      "portion_estimate": "approx. 175g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread with spreads (potato, mango)",
+      "portion_estimate": "approx. 150g",
+      "confidence": "70"
+    }
+  ]
+}

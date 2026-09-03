@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "dinner roll",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "stuffed eggplant",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "yogurt dessert",
+      "portion_estimate": "125",
+      "confidence": "85"
+    }
+  ]
+}

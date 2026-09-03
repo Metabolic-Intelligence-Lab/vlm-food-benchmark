@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain, approximately 100 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Sweet Potatoes or Yam cubes",
+      "portion_estimate": "uncertain, approximately 150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Apricots (2)",
+      "portion_estimate": "each weighing about 30-40 grams each, so total approximate weight is uncertain and depends on the exact count.",
+      "confidence": "uncertain"
+    },
+    {
+      "name": "Cheese on Scone",
+      "portion_estimate": "uncertain, approximately 50 grams",
+      "confidence": "60"
+    }
+  ]
+}

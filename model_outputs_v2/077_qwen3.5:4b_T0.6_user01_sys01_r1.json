@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked beans with celery",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "pasta salad (rotini)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "baked salmon fillet",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "whole wheat buns (2)",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "plums (3)",
+      "portion_estimate": "120",
+      "confidence": 95
+    }
+  ]
+}

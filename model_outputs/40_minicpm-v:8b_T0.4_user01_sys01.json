@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried rice",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Quiche with mushrooms and spinach",
+      "portion_estimate": "uncertain, approx 200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain, approx 150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Potatoes with onions and carrots",
+      "portion_estimate": "uncertain, approx 200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Apricots (2)",
+      "portion_estimate": "uncertain, each approx. 30-40g total",
+      "confidence": "50"
+    }
+  ]
+}

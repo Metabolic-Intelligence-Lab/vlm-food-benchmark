@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce (likely penne) with melted cheese on top",
+      "portion_estimate": "260 g",
+      "confidence": "72"
+    },
+    {
+      "name": "green beans with breadcrumbs/seasoning",
+      "portion_estimate": "160 g",
+      "confidence": "68"
+    },
+    {
+      "name": "breaded patties/croquettes (2 pieces)",
+      "portion_estimate": "160 g",
+      "confidence": "60"
+    },
+    {
+      "name": "cooked red cabbage (small portion)",
+      "portion_estimate": "40 g",
+      "confidence": "62"
+    },
+    {
+      "name": "bread roll (small bun)",
+      "portion_estimate": "55 g",
+      "confidence": "70"
+    },
+    {
+      "name": "packaged apple compote/puree cup",
+      "portion_estimate": "100 g",
+      "confidence": "64"
+    },
+    {
+      "name": "string cheese (packaged cheese stick)",
+      "portion_estimate": "30 g",
+      "confidence": "66"
+    }
+  ]
+}

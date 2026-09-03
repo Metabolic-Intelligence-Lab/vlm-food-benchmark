@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Saut\u00e9ed green beans and carrots",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "Mashed pumpkin or sweet potato",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "Yellow rice with chicken and vegetables",
+      "portion_estimate": "200",
+      "confidence": 85
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "80",
+      "confidence": 95
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250",
+      "confidence": 95
+    }
+  ]
+}

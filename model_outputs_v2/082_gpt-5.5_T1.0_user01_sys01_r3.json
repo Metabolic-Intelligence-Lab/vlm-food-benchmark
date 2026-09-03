@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad with lettuce and red cabbage",
+      "portion_estimate": "80 g",
+      "confidence": "85"
+    },
+    {
+      "name": "pasta or rice in tomato sauce",
+      "portion_estimate": "220 g",
+      "confidence": "55"
+    },
+    {
+      "name": "cooked dark leafy greens, possibly spinach",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "90"
+    },
+    {
+      "name": "yogurt or dessert cup",
+      "portion_estimate": "125 g",
+      "confidence": "65"
+    },
+    {
+      "name": "uncertain white dairy beverage or yogurt in cup",
+      "portion_estimate": "200 g",
+      "confidence": "50"
+    },
+    {
+      "name": "sealed butter or margarine portions",
+      "portion_estimate": "20 g",
+      "confidence": "55"
+    }
+  ]
+}

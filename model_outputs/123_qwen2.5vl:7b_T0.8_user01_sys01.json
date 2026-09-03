@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Farfalle pasta with parmesan cheese",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried omelette",
+      "portion_estimate": "75",
+      "confidence": "80"
+    },
+    {
+      "name": "Grilled potato wedges",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": "200",
+      "confidence": "80"
+    }
+  ]
+}

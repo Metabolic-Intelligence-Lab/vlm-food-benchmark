@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rotini pasta",
+      "portion_estimate": "250g",
+      "confidence": 95
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "eggplant dish with cream topping",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60g",
+      "confidence": 92
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "250mL (approx. 250g of water)",
+      "confidence": 90
+    }
+  ]
+}

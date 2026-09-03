@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with cream sauce",
+      "portion_estimate": "160",
+      "confidence": 85
+    },
+    {
+      "name": "scrambled egg with saut\u00e9ed vegetables",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "bag of sandwich bread or roll",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "single Yogurt (150\u2013200 ml)",
+      "portion_estimate": "200",
+      "confidence": 75
+    },
+    {
+      "name": "plain water (approx. 150 ml)",
+      "portion_estimate": "150",
+      "confidence": 80
+    }
+  ]
+}

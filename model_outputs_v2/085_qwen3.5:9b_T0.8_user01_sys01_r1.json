@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Homemade-style lasagna (cheese and tomato sauce topped)",
+      "portion_estimate": 250,
+      "confidence": 85
+    },
+    {
+      "name": "Green leafy vegetable puree or side (likely kale or spinach)",
+      "portion_estimate": 130,
+      "confidence": 85
+    },
+    {
+      "name": "Fried eggplant balls with a breadcrumb coating and white sauce",
+      "portion_estimate": 210,
+      "confidence": 90
+    },
+    {
+      "name": "Yellow apple (whole)",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Pasta roll inside a transparent plastic bag",
+      "portion_estimate": 60,
+      "confidence": 80
+    }
+  ]
+}

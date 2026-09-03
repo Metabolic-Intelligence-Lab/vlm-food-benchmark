@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Crispy cookie",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Green vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Milk",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

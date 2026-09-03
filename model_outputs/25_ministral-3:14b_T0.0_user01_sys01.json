@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas (boiled, with lemon zest and herbs)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "fusilli pasta (cooked, with tomato-based sauce)",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "flatbread or pita (wrapped in plastic)",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "yogurt or sour cream (in small container)",
+      "portion_estimate": "30",
+      "confidence": 80
+    }
+  ]
+}

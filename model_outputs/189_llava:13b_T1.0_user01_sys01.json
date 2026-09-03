@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "chili or meat sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "rice with curry or stew",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pasta or grains with red pepper sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

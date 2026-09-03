@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti",
+      "portion_estimate": "uncertain",
+      "confidence": "70"
+    },
+    {
+      "name": "Pear Tart",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Sliced Pear",
+      "portion_estimate": "80g",
+      "confidence": "75"
+    }
+  ]
+}

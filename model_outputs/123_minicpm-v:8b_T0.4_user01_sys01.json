@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "uncertain, approx. 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Parmesan cheese",
+      "portion_estimate": "uncertain, approx. 30g",
+      "confidence": "70"
+    },
+    {
+      "name": "Fried potatoes (potato wedges)",
+      "portion_estimate": "uncertain, approx. 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "Omelette with cheese and potato pieces",
+      "portion_estimate": "uncertain, approx. 150-200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "uncertain, approx. 100-150g",
+      "confidence": "60"
+    }
+  ]
+}

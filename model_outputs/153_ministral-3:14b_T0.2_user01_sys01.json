@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fresh green beans (steamed or boiled)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "frittata or quiche with egg, cheese, and diced vegetables (tomato, possibly spinach or zucchini)",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta with olive oil, garlic, and Parmesan cheese (possibly with herbs)",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "pear (whole, unpeeled)",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "baked or fried breadstick (partially visible)",
+      "portion_estimate": "30g",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "lentil soup with grated parmesan cheese",
+      "portion_estimate": "350",
+      "confidence": 80
+    },
+    {
+      "name": "peas and carrots vegetable side dish",
+      "portion_estimate": "180",
+      "confidence": 85
+    },
+    {
+      "name": "peach fruit cup (packaged, brand Konad)",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "60",
+      "confidence": 70
+    },
+    {
+      "name": "packaged cheese wedge",
+      "portion_estimate": "20",
+      "confidence": 55
+    }
+  ]
+}

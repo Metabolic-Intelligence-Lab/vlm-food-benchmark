@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "oatmeal",
+      "portion_estimate": "uncertain, approximately a bowl full",
+      "confidence": "50"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain, approximately half the plate",
+      "confidence": "60"
+    },
+    {
+      "name": "carrot cake with cream cheese frosting",
+      "portion_estimate": "uncertain, a small slice on top of another food item",
+      "confidence": "50"
+    },
+    {
+      "name": "potato roll",
+      "portion_estimate": "uncertain, approximately half the plate width by height",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "vegetables and soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "potatoes and fried egg",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "unopened sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

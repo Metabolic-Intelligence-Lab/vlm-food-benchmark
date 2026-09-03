@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "tomato-based sauce (likely soup)",
+      "portion_estimate": "uncertain (appears to fill ~300ml bowl, estimate 300g)",
+      "confidence": 55
+    },
+    {
+      "name": "boiled or stir-fried greens (possibly spinach or collard greens)",
+      "portion_estimate": "uncertain (approx. 200g based on visual comparison with plate)",
+      "confidence": 65
+    },
+    {
+      "name": "fried or baked egg-based patty (e.g., quiche or savory pie piece)",
+      "portion_estimate": "uncertain (approx. 100g based on size)",
+      "confidence": 70
+    },
+    {
+      "name": "brown bread roll (possibly a ciabatta roll or similar)",
+      "portion_estimate": "uncertain (approx. 50g, estimated from similar items)",
+      "confidence": 65
+    },
+    {
+      "name": "whole orange (navel orange)",
+      "portion_estimate": "uncertain (approx. 150g, average medium-sized)",
+      "confidence": 75
+    },
+    {
+      "name": "water in a clear glass",
+      "portion_estimate": "uncertain (approx. 250ml, visually filled halfway in a standard 500ml glass)",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "potato-based croquette (2 pieces)",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "green soup with cheese topping (likely spinach or similar vegetable soup)",
+      "portion_estimate": "300g",
+      "confidence": 80
+    },
+    {
+      "name": "mixed leafy salad (romaine or similar)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "whole baked potato",
+      "portion_estimate": "uncertain (likely ~200g)",
+      "confidence": 65
+    },
+    {
+      "name": "yogurt (Vomo brand, 125g container)",
+      "portion_estimate": "125g",
+      "confidence": 100
+    }
+  ]
+}

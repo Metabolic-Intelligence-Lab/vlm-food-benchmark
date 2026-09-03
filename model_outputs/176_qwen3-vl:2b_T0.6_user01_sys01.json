@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_size": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "pear",
+      "portion_size": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "bread",
+      "portion_size": "50g",
+      "confidence": 95
+    },
+    {
+      "name": "cauliflower salad",
+      "portion_size": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "tomato and cheese salad",
+      "portion_size": "50g",
+      "confidence": 95
+    },
+    {
+      "name": "package",
+      "portion_size": "50g",
+      "confidence": 95
+    }
+  ]
+}

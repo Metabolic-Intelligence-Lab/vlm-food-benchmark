@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti Bolognese (approximate)",
+      "portion_estimate": "400",
+      "confidence": 70
+    },
+    {
+      "name": "Lasagna (approximate)",
+      "portion_estimate": "300",
+      "confidence": 60
+    },
+    {
+      "name": "White Condiment (unidentified)",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Chicken/Pork with Potatoes and Vegetables (approximate)",
+      "portion_estimate": "200",
+      "confidence": 50
+    },
+    {
+      "name": "Sugar Substitutes (unopened packet)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

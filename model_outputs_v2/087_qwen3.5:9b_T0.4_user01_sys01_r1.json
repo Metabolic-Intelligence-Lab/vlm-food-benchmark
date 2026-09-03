@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Orecchiette pasta",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll (in plastic bag)",
+      "portion_estimate": 60,
+      "confidence": 92
+    },
+    {
+      "name": "Fresh peach",
+      "portion_estimate": 140,
+      "confidence": 98
+    },
+    {
+      "name": "Green beans with breadcrumb topping",
+      "portion_estimate": 160,
+      "confidence": 90
+    },
+    {
+      "name": "Baked potato halves (two pieces)",
+      "portion_estimate": 240,
+      "confidence": 85
+    }
+  ]
+}

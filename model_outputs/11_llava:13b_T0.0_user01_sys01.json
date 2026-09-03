@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spinach",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "peach",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "vegetable wrap",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    }
+  ]
+}

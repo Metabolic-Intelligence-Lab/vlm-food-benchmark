@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain bread",
+      "portion_estimate": "uncertain, approx. 100-200g",
+      "confidence": "65"
+    },
+    {
+      "name": "Green yogurt with blueberries and strawberry sauce",
+      "portion_estimate": "uncertain, approx. 148g (yogurt) + 35g (fruit mix)",
+      "confidence": "70"
+    },
+    {
+      "name": "Soy milk",
+      "portion_estimate": "uncertain, approx. 250-300ml",
+      "confidence": "60"
+    },
+    {
+      "name": "Oatmeal with banana slices and maple syrup",
+      "portion_estimate": "uncertain, approx. 120g (oatmeal) + 70g (banana mix)",
+      "confidence": "55"
+    },
+    {
+      "name": "White rice",
+      "portion_estimate": "uncertain, approx. 148-360g",
+      "confidence": "50"
+    }
+  ]
+}

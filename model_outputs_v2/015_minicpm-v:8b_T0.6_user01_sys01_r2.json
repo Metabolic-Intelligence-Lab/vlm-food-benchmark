@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sauerkraut",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "boiled egg with garnish",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "mashed potato cake",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "puff pastry balls with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    },
+    {
+      "name": "orange bun",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    }
+  ]
+}

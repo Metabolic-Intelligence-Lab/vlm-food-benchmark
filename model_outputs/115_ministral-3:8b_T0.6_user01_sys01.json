@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "mixed berry grapes (red/purple) with stem",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "mixed green salad with lettuce, tomato, and other vegetables",
+      "portion_estimate": "180g",
+      "confidence": 80
+    },
+    {
+      "name": "meatballs in tomato-based sauce",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat roll or bread",
+      "portion_estimate": "50g",
+      "confidence": 75
+    }
+  ]
+}

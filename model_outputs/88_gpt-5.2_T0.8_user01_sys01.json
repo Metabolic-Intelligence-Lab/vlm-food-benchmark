@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with herb/pepper seasoning and grated cheese",
+      "portion_estimate": "220 g",
+      "confidence": "78"
+    },
+    {
+      "name": "bread roll (white bun) in plastic wrapper",
+      "portion_estimate": "60 g",
+      "confidence": "75"
+    },
+    {
+      "name": "cooked grain mix with green peas (likely wheat berries/farro)",
+      "portion_estimate": "180 g",
+      "confidence": "62"
+    },
+    {
+      "name": "slice of savory pie/quiche (egg-based, possibly with mushrooms)",
+      "portion_estimate": "160 g",
+      "confidence": "60"
+    },
+    {
+      "name": "banana (whole, with peel)",
+      "portion_estimate": "120 g",
+      "confidence": "80"
+    }
+  ]
+}

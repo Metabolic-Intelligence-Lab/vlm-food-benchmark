@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli soup",
+      "portion_estimate": "uncertain, but approx. 150g per bowl",
+      "confidence": "80"
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "uncertain, but approx. 2 slices (4-6 pieces)",
+      "confidence": "70"
+    },
+    {
+      "name": "Cauliflower cheese",
+      "portion_estimate": "uncertain, but approx. small portion size",
+      "confidence": "85"
+    },
+    {
+      "name": "Green vegetables",
+      "portion_estimate": "approx. 1 cup (70g)",
+      "confidence": "90"
+    }
+  ]
+}

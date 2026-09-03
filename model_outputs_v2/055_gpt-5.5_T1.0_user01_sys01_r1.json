@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish or chicken cutlet",
+      "portion_estimate": "120 g",
+      "confidence": "65"
+    },
+    {
+      "name": "mixed diced vegetables with potatoes, carrots, peas, and mushrooms",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked leafy greens, likely spinach",
+      "portion_estimate": "130 g",
+      "confidence": "75"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 g",
+      "confidence": "90"
+    },
+    {
+      "name": "sealed small dairy or condiment cup",
+      "portion_estimate": "20 g",
+      "confidence": "45"
+    }
+  ]
+}

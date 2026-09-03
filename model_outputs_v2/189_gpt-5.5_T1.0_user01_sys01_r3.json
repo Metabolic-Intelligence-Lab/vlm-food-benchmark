@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "dark green-brown soup",
+      "portion_estimate": "350 g",
+      "confidence": "80"
+    },
+    {
+      "name": "breaded oval patty with tomato sauce",
+      "portion_estimate": "110 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked leafy greens/vegetables",
+      "portion_estimate": "90 g",
+      "confidence": "80"
+    },
+    {
+      "name": "sealed yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "65"
+    },
+    {
+      "name": "packaged cheese portion",
+      "portion_estimate": "20 g",
+      "confidence": "60"
+    },
+    {
+      "name": "uncertain packaged breadsticks or crackers",
+      "portion_estimate": "25 g",
+      "confidence": "55"
+    },
+    {
+      "name": "uncertain partially visible yellow-orange side dish",
+      "portion_estimate": "40 g",
+      "confidence": "45"
+    },
+    {
+      "name": "uncertain clear water in glass",
+      "portion_estimate": "100 g",
+      "confidence": "50"
+    }
+  ]
+}

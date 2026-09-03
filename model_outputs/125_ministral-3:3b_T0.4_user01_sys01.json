@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "egg (hard-boiled, partially peeled)",
+      "portion_estimate": "150 g (whole egg)",
+      "confidence": 85
+    },
+    {
+      "name": "vegetable soup with meatballs (or similar protein chunks)",
+      "portion_estimate": "300 g",
+      "confidence": 80
+    },
+    {
+      "name": "doughnut or fried pastry with purple glaze",
+      "portion_estimate": "50 g",
+      "confidence": 75
+    },
+    {
+      "name": "ice cream or frozen custard (small scoop)",
+      "portion_estimate": "40 g",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt cup (small, possibly flavored)",
+      "portion_estimate": "100 g",
+      "confidence": 65
+    },
+    {
+      "name": "plain water or similar clear liquid in a glass",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

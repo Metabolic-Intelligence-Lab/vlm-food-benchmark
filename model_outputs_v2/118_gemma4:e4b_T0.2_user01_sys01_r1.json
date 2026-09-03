@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta dish (penne/ziti with sauce and cheese)",
+      "portion_estimate": "280g",
+      "confidence": "90"
+    },
+    {
+      "name": "Baked main dish (topped vegetable or patty)",
+      "portion_estimate": "180g",
+      "confidence": "80"
+    },
+    {
+      "name": "Seasoned bread cubes or croutons",
+      "portion_estimate": "130g",
+      "confidence": "85"
+    }
+  ]
+}

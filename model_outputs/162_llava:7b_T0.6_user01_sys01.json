@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread with butter",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "Creamy soup",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    }
+  ]
+}

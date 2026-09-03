@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (possibly spaghetti in tomato-based sauce)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "cake with yellow peaches",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "sandwich or wrap with apple and banana",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "rice with diced cooked vegetables, potatoes, or curry",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

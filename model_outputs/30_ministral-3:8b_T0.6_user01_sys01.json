@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "coffee (black or with milk, in disposable cup)",
+      "portion_estimate": "uncertain (volume ~250ml, no weight estimate)",
+      "confidence": 50
+    },
+    {
+      "name": "digestive biscuits (whole milk variety, ~8 pieces)",
+      "portion_estimate": "80 grams (approx. 10g per biscuit)",
+      "confidence": 85
+    }
+  ]
+}

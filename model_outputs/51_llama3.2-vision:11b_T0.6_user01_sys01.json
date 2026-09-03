@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "2-3 inches diameter, 1/4 inch thick",
+      "confidence": 90
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "1/2 inch diameter, 1/8 inch thick",
+      "confidence": 90
+    },
+    {
+      "name": "Sauce or Spread",
+      "portion_estimate": "1/4 inch diameter, 1/8 inch thick",
+      "confidence": 70
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Cheese-topped potato gnocchi",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Salad with tomatoes, white cheese, and red dressing",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "approx. 120g",
+      "confidence": "80"
+    }
+  ]
+}

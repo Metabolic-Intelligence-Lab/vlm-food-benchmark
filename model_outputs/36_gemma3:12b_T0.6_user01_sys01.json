@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "red cabbage salad with cucumber",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "meat patties (likely beef or pork)",
+      "portion_estimate": "75",
+      "confidence": "75"
+    },
+    {
+      "name": "sweet and sour sauce",
+      "portion_estimate": "30",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

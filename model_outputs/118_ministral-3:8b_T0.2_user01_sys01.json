@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with tomato sauce and grated cheese",
+      "portion_estimate": "300 grams",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potatoes (diced)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "small portion of cheese spread (e.g., cream cheese or similar) in container",
+      "portion_estimate": "uncertain (likely 50-70 grams)",
+      "confidence": 55
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "uncertain (likely 10-20 grams)",
+      "confidence": 60
+    }
+  ]
+}

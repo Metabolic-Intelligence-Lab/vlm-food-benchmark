@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "diced potatoes and zucchini",
+      "portion_estimate": "120",
+      "confidence": 90
+    },
+    {
+      "name": "slices of chicken breast with white sauce",
+      "portion_estimate": "90",
+      "confidence": 85
+    },
+    {
+      "name": "stewed white beans in tomato sauce",
+      "portion_estimate": "100",
+      "confidence": 90
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "sparkling water in plastic cup",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "plain yogurt in plastic cup",
+      "portion_estimate": "125",
+      "confidence": 90
+    }
+  ]
+}

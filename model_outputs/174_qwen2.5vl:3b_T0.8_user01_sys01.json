@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "stewed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "sushi",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

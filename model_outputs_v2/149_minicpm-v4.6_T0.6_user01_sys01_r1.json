@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "seared sandwich or bread roll",
+      "portion_estimate": "200 g",
+      "confidence": 80
+    },
+    {
+      "name": "potato salad or casserole",
+      "portion_estimate": "100 g",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll (in plastic)",
+      "portion_estimate": "50 g",
+      "confidence": 80
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "30 g",
+      "confidence": 70
+    },
+    {
+      "name": "penne pasta with cheese",
+      "portion_estimate": "250 g",
+      "confidence": 80
+    },
+    {
+      "name": "small packet of butter or cheese",
+      "portion_estimate": "10 g",
+      "confidence": 60
+    }
+  ]
+}

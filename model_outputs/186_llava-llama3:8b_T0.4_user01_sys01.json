@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "rice with meat",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sandwich with turkey or roast beef",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "meat and bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "drink in clear glass with straw",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

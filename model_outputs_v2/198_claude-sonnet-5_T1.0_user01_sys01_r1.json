@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (panino)",
+      "portion_estimate": "60",
+      "confidence": "85"
+    },
+    {
+      "name": "plain white/parboiled rice",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "white fish fillet with green herb sauce",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "roasted brussels sprouts",
+      "portion_estimate": "90",
+      "confidence": "70"
+    },
+    {
+      "name": "plain white yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "75"
+    }
+  ]
+}

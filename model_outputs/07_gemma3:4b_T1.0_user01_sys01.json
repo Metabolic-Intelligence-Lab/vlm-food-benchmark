@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Yoplait Yogurt",
+      "portion_estimate": "60 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Salad (mixed greens)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "Soup (chicken noodle)",
+      "portion_estimate": "200 grams",
+      "confidence": 70
+    }
+  ]
+}

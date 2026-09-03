@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat or regular rotini pasta with tomato-based sauce",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "brussels sprouts (roasted or saut\u00e9ed)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "yellow polenta or cheese-based patties (possibly cheese fries)",
+      "portion_estimate": "100g per patty (two visible patties, total ~200g)",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed purple cabbage or beets",
+      "portion_estimate": "70g",
+      "confidence": 80
+    },
+    {
+      "name": "whole mandarins or clementines (3 visible)",
+      "portion_estimate": "300g (100g per fruit)",
+      "confidence": 90
+    },
+    {
+      "name": "unidentified small yellow package (possibly cheese or yogurt dip)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

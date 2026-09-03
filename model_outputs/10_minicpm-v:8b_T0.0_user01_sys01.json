@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "uncertain, approx. bowl size",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "uncertain, whole roll visible",
+      "confidence": "60"
+    },
+    {
+      "name": "Yogurt with Fruit",
+      "portion_estimate": "uncertain, cup size",
+      "confidence": "50"
+    },
+    {
+      "name": "Potato Wedges",
+      "portion_estimate": "uncertain, plate size",
+      "confidence": "60"
+    }
+  ]
+}

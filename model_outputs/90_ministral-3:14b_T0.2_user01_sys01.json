@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked white rice with mixed vegetables (e.g., peas, corn)",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "steamed or saut\u00e9ed mixed vegetables with spinach and shrimp",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "roasted or steamed carrots and potatoes (diced)",
+      "portion_estimate": "200",
+      "confidence": 88
+    },
+    {
+      "name": "whole lemon",
+      "portion_estimate": "120",
+      "confidence": 95
+    },
+    {
+      "name": "bottled olive oil (partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

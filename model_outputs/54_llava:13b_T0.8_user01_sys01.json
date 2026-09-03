@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "noodles with tomato sauce",
+      "portion_estimate": "approximately 100g",
+      "confidence": "70"
+    },
+    {
+      "name": "boiled pasta",
+      "portion_estimate": "approximately 50g",
+      "confidence": "80"
+    },
+    {
+      "name": "cucumber salad",
+      "portion_estimate": "approximately 100g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll with a condiment packet",
+      "portion_estimate": "approximately 50g",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole plums",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "green peas",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "leafy greens",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "golden-brown fish",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "black seaweed",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

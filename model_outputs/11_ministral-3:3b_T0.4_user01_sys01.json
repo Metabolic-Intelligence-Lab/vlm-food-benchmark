@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole baked sweet potato (peeled)",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "small piece of tortilla with filling (likely black bean or similar)",
+      "portion_estimate": 30,
+      "confidence": 75
+    },
+    {
+      "name": "kale or spinach salad (mixed greens, shredded carrots)",
+      "portion_estimate": 100,
+      "confidence": 80
+    },
+    {
+      "name": "sliced carrot",
+      "portion_estimate": 20,
+      "confidence": 85
+    },
+    {
+      "name": "packaged snack item (appears to be a wrapped snack, possibly a corn snack or similar)",
+      "portion_estimate": 50,
+      "confidence": 65
+    }
+  ]
+}

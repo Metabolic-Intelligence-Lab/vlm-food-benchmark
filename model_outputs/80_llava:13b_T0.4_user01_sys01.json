@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice with vegetables",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "chicken with sauce",
+      "portion_estimate": "80g",
+      "confidence": "60"
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50g",
+      "confidence": "60"
+    },
+    {
+      "name": "butter packet",
+      "portion_estimate": "1g",
+      "confidence": "80"
+    }
+  ]
+}

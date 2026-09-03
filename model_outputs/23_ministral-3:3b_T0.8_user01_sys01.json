@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "chicken and corn casserole",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "boiled or steamed crab meat",
+      "portion_estimate": "50 grams",
+      "confidence": 85
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "30 grams",
+      "confidence": 80
+    },
+    {
+      "name": "plain penne pasta with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 ml (approximate volume, not weight)",
+      "confidence": 70
+    },
+    {
+      "name": "sliced boiled potatoes in bag",
+      "portion_estimate": "150 grams",
+      "confidence": 65
+    },
+    {
+      "name": "potato chips",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

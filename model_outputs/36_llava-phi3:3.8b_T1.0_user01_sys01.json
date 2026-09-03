@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Piece of cake",
+      "portion_estimate": "medium",
+      "confidence": "70"
+    },
+    {
+      "name": "Onion rings",
+      "portion_estimate": "large",
+      "confidence": "80"
+    },
+    {
+      "name": "Pickle spears and shredded cabbage",
+      "portion_estimate": "small",
+      "confidence": "90"
+    },
+    {
+      "name": "Two vegetable patties or sliders on a bun with sauce",
+      "portion_estimate": "small",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with cheese sprinkled on top",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried rice with red peppers and possibly chicken or meat",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Dish that appears to be some kind of pasta salad or mixed vegetables",
+      "portion_estimate": "100 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Rolling pin covered in what looks like bread crumbs",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Round bread roll or similar baked item",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy soup (likely cheese or tomato-based)",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "fried potato croquettes or cheese-filled croquettes",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baked or roasted potato chunks (possibly with seasoning)",
+      "portion_estimate": "120 grams",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt or dairy drink (red packaging, likely flavored yogurt)",
+      "portion_estimate": "uncertain (container size unclear)",
+      "confidence": 50
+    },
+    {
+      "name": "plastic-wrapped food item (possibly bread or crackers)",
+      "portion_estimate": "uncertain (size unclear)",
+      "confidence": 55
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli and green beans",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "fish fillets",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "whole grain bread",
+      "portion_estimate": "50",
+      "confidence": "85"
+    }
+  ]
+}

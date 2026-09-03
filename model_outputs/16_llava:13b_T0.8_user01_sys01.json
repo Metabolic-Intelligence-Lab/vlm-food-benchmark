@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "baked potato",
+      "portion_estimate": "200 g",
+      "confidence": "85"
+    },
+    {
+      "name": "beef patty",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "80 g",
+      "confidence": "45"
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "80 g",
+      "confidence": "50"
+    }
+  ]
+}

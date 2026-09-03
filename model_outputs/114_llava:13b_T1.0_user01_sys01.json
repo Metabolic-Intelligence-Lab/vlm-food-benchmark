@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato-based sauce and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "roasted potatoes with herbs",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "baked or grilled chicken with grill marks",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

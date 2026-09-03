@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "250 grams",
+      "confidence": "65"
+    },
+    {
+      "name": "vegetable side dish",
+      "portion_estimate": "100 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "vegetarian patty",
+      "portion_estimate": "80 grams",
+      "confidence": "60"
+    }
+  ]
+}

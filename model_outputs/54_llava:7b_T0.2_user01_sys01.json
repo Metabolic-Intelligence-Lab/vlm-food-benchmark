@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Salad with croutons",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Pasta dish with red sauce",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Breaded meat patty",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Coleslaw",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "Caesar salad with croutons",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

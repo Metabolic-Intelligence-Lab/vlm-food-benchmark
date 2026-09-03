@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "grilled or baked fish fillet",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "penne pasta with tomato-based sauce",
+      "portion_estimate": "200g",
+      "confidence": 80
+    },
+    {
+      "name": "shredded carrots",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "raw red cabbage (sliced)",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "sliced white cheese (e.g., mozzarella or similar)",
+      "portion_estimate": "30g",
+      "confidence": 75
+    },
+    {
+      "name": "toasted whole-grain bread",
+      "portion_estimate": "70g",
+      "confidence": 85
+    },
+    {
+      "name": "water (partially consumed, in a plastic cup)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+To estimate the weight of each item in the meal, we interpret the given "confidence percentages" as **proportional weights**. This means that the values provided (90%, 80%, 70%, and 60%) represent the relative contributions of each component to the total mass of the meal.
+
+---
+
+### Step 1: Total Confidence Sum
+
+We sum up the confidence percentages:
+
+$$
+90 + 80 + 70 + 60 = 300
+$$
+
+This total represents the combined proportion of all components in the meal.
+
+---
+
+### Step 2: Scale to Total Meal Weight
+
+The total weight of the meal is given as **320 grams**. To find the actual weight of each component, we scale the confidence percentages accordingly.
+
+$$
+\text{Scaling factor} = \frac{320}{300} = \frac{16}{15}
+$$
+
+Now, multiply each confidence percentage by this scaling factor:
+
+- **Watermelon slice**:  
+  $$
+  90 \times \frac{16}{15} = 96 \text{ grams}
+  $$
+
+- **Spaghetti with tomato sauce**:  
+  $$
+  80 \times \frac{16}{15} = \frac{1280}{15} \approx 85.33 \text{ grams}
+  $$
+
+- **Spinach**:  
+  $$
+  70 \times \frac{16}{15} = \frac{1120}{15} \approx 74.67 \text{ grams}
+  $$
+
+- **Breaded cutlet**:  
+  $$
+  60 \times \frac{16}{15} = 64 \text{ grams}
+  $$
+
+---
+
+### Final Answer
+
+| Item                     | Estimated Weight (grams) |
+|--------------------------|--------------------------|
+| Watermelon slice         | 96                       |
+| Spaghetti with tomato sauce | 85.33                   |
+| Spinach                  | 74.67                   |
+| Breaded cutlet           | 64                       |
+
+These values are consistent with the total meal weight of **320 grams**, and they reflect the proportional contribution of each item based on the given confidence percentages.

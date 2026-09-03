@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "salad with lettuce, tomatoes, and meat",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "ripe banana",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "bread wrapped in plastic",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

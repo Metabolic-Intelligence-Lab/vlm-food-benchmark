@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with red sauce and grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with vegetables (carrots and peas)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "bread (baguette or similar loaf)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mango",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "fruit (unidentified)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

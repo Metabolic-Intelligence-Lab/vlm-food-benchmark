@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread roll (wrapped)",
+      "portion_estimate": "110 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Fried/breaded fillets (in small bowl)",
+      "portion_estimate": "180 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Breaded protein fillet (on plate)",
+      "portion_estimate": "140 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Cubed yellow side dish (potatoes/maize mix)",
+      "portion_estimate": "180 grams",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (plain bun)",
+      "portion_estimate": "70 g",
+      "confidence": "70"
+    },
+    {
+      "name": "vegetable soup/stew (greenish, possibly lentil/vegetable) with grated cheese/butter on top",
+      "portion_estimate": "320 g",
+      "confidence": "60"
+    },
+    {
+      "name": "small savory pastry/roll with purple cabbage filling (on plate)",
+      "portion_estimate": "60 g",
+      "confidence": "55"
+    },
+    {
+      "name": "creamy sauce or mashed potatoes (pale, on plate)",
+      "portion_estimate": "90 g",
+      "confidence": "50"
+    },
+    {
+      "name": "strawberry yogurt (single-serve cup)",
+      "portion_estimate": "125 g",
+      "confidence": "80"
+    },
+    {
+      "name": "water (in plastic cup)",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    },
+    {
+      "name": "butter (single-serve pack in wrapper)",
+      "portion_estimate": "10 g",
+      "confidence": "60"
+    }
+  ]
+}

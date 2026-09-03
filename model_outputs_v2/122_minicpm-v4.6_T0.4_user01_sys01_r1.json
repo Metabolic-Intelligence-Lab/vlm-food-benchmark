@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "banana",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50g",
+      "confidence": "uncertain"
+    }
+  ]
+}

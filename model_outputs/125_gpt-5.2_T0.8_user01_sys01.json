@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (plain bun)",
+      "portion_estimate": "70 g",
+      "confidence": "75"
+    },
+    {
+      "name": "vegetable soup/stew with visible grated cheese and a pat of butter (uncertain type)",
+      "portion_estimate": "320 g",
+      "confidence": "60"
+    },
+    {
+      "name": "grated cheese topping (on soup)",
+      "portion_estimate": "8 g",
+      "confidence": "55"
+    },
+    {
+      "name": "butter (in soup, melting)",
+      "portion_estimate": "10 g",
+      "confidence": "55"
+    },
+    {
+      "name": "small baked/fried roll or pastry topped with purple cabbage (uncertain)",
+      "portion_estimate": "80 g",
+      "confidence": "50"
+    },
+    {
+      "name": "creamy sauce/mashed potatoes (uncertain; pale thick side on plate)",
+      "portion_estimate": "110 g",
+      "confidence": "55"
+    },
+    {
+      "name": "fruit yogurt cup (strawberry or mixed berry, uncertain)",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    },
+    {
+      "name": "drinking water (in cup)",
+      "portion_estimate": "250 g",
+      "confidence": "70"
+    }
+  ]
+}

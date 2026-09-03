@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain - approximately one large whole roll based on visible size",
+      "confidence": "40"
+    },
+    {
+      "name": "soup with egg and spices",
+      "portion_estimate": "approx. 25-30 grams for the entire bowl, but this could vary greatly depending on serving size.",
+      "confidence": "70"
+    },
+    {
+      "name": "mashed potatoes served over roasted or boiled vegetables",
+      "portion_estimate": "1 small portion as seen in image with no clear indication of a larger serving context. Approx 35-40 grams.",
+      "confidence": "60"
+    },
+    {
+      "name": "red yogurt tub, possibly strawberry-flavored",
+      "portion_estimate": "uncertain - approximately one and half to two servings based on typical portion sizes for such products which are usually around a quarter of 250g each serving.",
+      "confidence": "60"
+    },
+    {
+      "name": "white plastic cup, possibly containing water or clear beverage",
+      "portion_estimate": "uncertain - as the liquid level is not visible. Approximate estimate based on typical cup size could be around a 25-30ml drink.",
+      "confidence": "40"
+    },
+    {
+      "name": "green leaf wrapper, potentially from food packaging or container",
+      "portion_estimate": "uncertain - as only the open end of it is visible. Approximate estimate based on typical size could be around 15-25 square centimeters.",
+      "confidence": "40"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "packaged sliced bread (approx. 6-8 slices)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pasta with grated cheese (bowl)",
+      "portion_estimate": "350 grams",
+      "confidence": 75
+    },
+    {
+      "name": "mixed vegetables (roasted or saut\u00e9ed with carrots, broccoli, and apples)",
+      "portion_estimate": "300 grams",
+      "confidence": 70
+    },
+    {
+      "name": "quiche or savory tart (top center)",
+      "portion_estimate": "uncertain (estimated ~200 grams)",
+      "confidence": 60
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "250 grams (approx. 5 medium plums)",
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "chicken soup with vegetables and seasoning",
+      "portion_estimate": "300 grams",
+      "confidence": 95
+    },
+    {
+      "name": "small bagel or brioche bun",
+      "portion_estimate": "45 grams",
+      "confidence": 90
+    },
+    {
+      "name": "grilled potato or breaded item topped with vegetables",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "plain butter or cream spread",
+      "portion_estimate": "25 grams",
+      "confidence": 75
+    },
+    {
+      "name": "small container of milk (yellow liquid with straw)",
+      "portion_estimate": "200 grams",
+      "confidence": 70
+    },
+    {
+      "name": "sugar packet (Elorio) in water dispenser",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "condiment packet or sauce pouch",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

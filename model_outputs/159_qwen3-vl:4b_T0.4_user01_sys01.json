@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with cheese",
+      "portion": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "baked vegetable dish",
+      "portion": "150g",
+      "confidence": 70
+    },
+    {
+      "name": "mashed potatoes",
+      "portion": "80g",
+      "confidence": 60
+    },
+    {
+      "name": "pear",
+      "portion": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "dinner roll",
+      "portion": "70g",
+      "confidence": 80
+    }
+  ]
+}

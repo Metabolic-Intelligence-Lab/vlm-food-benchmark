@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "crispy fried mushrooms",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "pasta with sauce and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "cucumber salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

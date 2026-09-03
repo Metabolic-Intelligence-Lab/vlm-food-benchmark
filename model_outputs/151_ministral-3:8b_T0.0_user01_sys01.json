@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta dish with broccoli and carrots (top plate)",
+      "portion_estimate": "300 grams (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "pasta with meat sauce (bottom plate)",
+      "portion_estimate": "250 grams (uncertain)",
+      "confidence": 75
+    },
+    {
+      "name": "whole wheat bread slice",
+      "portion_estimate": "50 grams (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "30 grams (uncertain)",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice porridge or congee with toppings",
+      "portion_estimate": "150 g",
+      "confidence": 85
+    },
+    {
+      "name": "soup (likely vegetable or meat-based broth)",
+      "portion_estimate": "200 g",
+      "confidence": 80
+    },
+    {
+      "name": "orange (whole)",
+      "portion_estimate": "150 g",
+      "confidence": 75
+    },
+    {
+      "name": "water (two clear glasses)",
+      "portion_estimate": "200 g each (total ~400 g)",
+      "confidence": 90
+    },
+    {
+      "name": "small fried dough or bread roll (bottom left)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

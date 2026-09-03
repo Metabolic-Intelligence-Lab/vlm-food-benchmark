@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup with grated cheese (minestrone/passato)",
+      "portion_estimate": "300",
+      "confidence": "75"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "spinach and ricotta dumplings/croquettes (2 pieces)",
+      "portion_estimate": "100",
+      "confidence": "60"
+    },
+    {
+      "name": "yogurt cup (fruit flavored)",
+      "portion_estimate": "125",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "60",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "uncertain, approx. weight of pasta and cheese combined",
+      "confidence": "50"
+    },
+    {
+      "name": "Lentils",
+      "portion_estimate": "uncertain, approx. weight based on typical serving size",
+      "confidence": "60"
+    },
+    {
+      "name": "Mushroom with polenta cake",
+      "portion_estimate": "uncertain, approx. weight of mushroom and polenta combined",
+      "confidence": "50"
+    }
+  ]
+}

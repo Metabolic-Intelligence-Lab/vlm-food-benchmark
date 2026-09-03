@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green beans and diced orange vegetables (likely carrots or sweet potatoes)",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "diced orange sweet potato",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "mushroom and grain dish (possibly couscous or rice with mushrooms and herbs)",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "round yogurt container",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "multigrain bread slice",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 ml (assuming standard glass size)",
+      "confidence": "80"
+    }
+  ]
+}

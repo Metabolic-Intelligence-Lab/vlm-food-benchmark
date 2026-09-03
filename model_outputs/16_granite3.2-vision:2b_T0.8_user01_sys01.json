@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "carrot",
+      "portion_estimate": "100",
+      "confidence": "95"
+    },
+    {
+      "name": "potato",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "onion",
+      "portion_estimate": "80",
+      "confidence": "90"
+    }
+  ]
+}

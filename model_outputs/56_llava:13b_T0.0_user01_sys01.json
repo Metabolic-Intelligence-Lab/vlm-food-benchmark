@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Fish fillet",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed vegetables",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "200g",
+      "confidence": "60"
+    }
+  ]
+}

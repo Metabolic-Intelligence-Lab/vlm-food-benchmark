@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "baked farfalle pasta with breadcrumb crust",
+      "portion_estimate": "150",
+      "confidence": "65"
+    },
+    {
+      "name": "diced roasted carrots and turnips with onion",
+      "portion_estimate": "120",
+      "confidence": "60"
+    },
+    {
+      "name": "breaded fish fillet in sauce",
+      "portion_estimate": "100",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll (wrapped)",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "65"
+    },
+    {
+      "name": "banana (partially visible)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

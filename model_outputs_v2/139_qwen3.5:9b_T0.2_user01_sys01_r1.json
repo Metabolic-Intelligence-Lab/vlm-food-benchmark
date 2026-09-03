@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Baked chicken breast with sauce",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "Mixed diced vegetables (carrots and onions)",
+      "portion_estimate": 80,
+      "confidence": 92
+    },
+    {
+      "name": "Baked pasta with sauce (bowtie or farfalle shape)",
+      "portion_estimate": 160,
+      "confidence": 85
+    },
+    {
+      "name": "Whole wheat roll in plastic packaging",
+      "portion_estimate": 45,
+      "confidence": 95
+    },
+    {
+      "name": "Yoplait Strawberry yogurt cup",
+      "portion_estimate": 120,
+      "confidence": 98
+    }
+  ]
+}

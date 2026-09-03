@@ -1,0 +1,41 @@
+**Step 1: Analyze the image**
+
+The image shows a glass container with a mixture of food items, including what appears to be a type of meat, possibly chicken or beef, with a brown sauce on top. The container also contains some potatoes or other root vegetables, possibly carrots or parsnips. There is also a type of bread or pastry visible in the background.
+
+**Step 2: Identify food items**
+
+Based on the image, the following food items can be identified:
+
+* Meat (chicken or beef)
+* Potatoes or other root vegetables
+* Bread or pastry
+
+**Step 3: Estimate portion sizes**
+
+Estimating portion sizes is a complex task that requires more information about the serving size and the individual's nutritional needs. However, based on the image, it appears that the portion size is likely to be around 200-300g.
+
+**Step 4: Provide a strict JSON output**
+
+Here is the output in the required format:
+
+{
+  "food_items": [
+    {
+      "name": "Meat (chicken or beef)",
+      "portion_estimate": "200-300g",
+      "confidence": "80"
+    },
+    {
+      "name": "Potatoes or other root vegetables",
+      "portion_estimate": "100-200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread or pastry",
+      "portion_estimate": "50-100g",
+      "confidence": "60"
+    }
+  ]
+}
+
+Note: The confidence values are subjective and based on the quality of the image. They can be adjusted based on further analysis or additional information.

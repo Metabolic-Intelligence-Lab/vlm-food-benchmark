@@ -1,0 +1,28 @@
+{
+  "food_items": [
+    {
+      "name": "meatball with sauce",
+      "portion_estimate": "10g",
+      "confidence": "80"
+    },
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    },
+    {
+      "name": "mashed potatoes with gravy",
+      "portion_estimate": "30g",
+      "confidence": "60"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    }
+  ],
+  "notes": [
+    "Clearkit is my name, I'm a vegan and love mac & cheese.",
+    "Wow! That looks great. Thanks for sharing."
+  ]
+}

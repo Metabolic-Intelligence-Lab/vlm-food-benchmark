@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Farfalle pasta with tomato sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Saut\u00e9ed spinach",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "Chicken cutlet with sauce",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "200",
+      "confidence": "90"
+    }
+  ]
+}

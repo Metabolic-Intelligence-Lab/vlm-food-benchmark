@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked elbow macaroni with sauce",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "80",
+      "confidence": "80"
+    },
+    {
+      "name": "slice of pizza (likely cheese)",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "beverage (uncertain type)",
+      "portion_estimate": "240",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

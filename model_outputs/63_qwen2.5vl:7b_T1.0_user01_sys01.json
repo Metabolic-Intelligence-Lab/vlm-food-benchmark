@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta in a tomato-based sauce",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad with carrots and cabbage",
+      "portion_estimate": "50 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "Grilled or saut\u00e9ed vegetables (possibly zucchini and eggplant)",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain roll",
+      "portion_estimate": "50 grams",
+      "confidence": "70"
+    }
+  ]
+}

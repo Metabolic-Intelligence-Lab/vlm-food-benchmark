@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "300g",
+      "confidence": 70
+    },
+    {
+      "name": "Meat Patty with Sauce",
+      "portion_estimate": "50g",
+      "confidence": 60
+    },
+    {
+      "name": "Cooked Greens",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": 70
+    },
+    {
+      "name": "Crackers",
+      "portion_estimate": "20g",
+      "confidence": 60
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "50g",
+      "confidence": 60
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "100g",
+      "confidence": 50
+    }
+  ]
+}

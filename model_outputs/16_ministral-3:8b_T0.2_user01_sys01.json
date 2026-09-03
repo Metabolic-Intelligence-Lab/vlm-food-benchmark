@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetables (carrots and possibly broccoli or cabbage)",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "meatball or patty (appears to be seasoned with breadcrumbs)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "diced potatoes or sweet potatoes",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "packaged orange-colored food item (possibly a fruit like mango or mandarin orange)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "packaged red-colored food item (possibly a cherry tomato or red fruit)",
+      "portion_estimate": "30 grams",
+      "confidence": 65
+    },
+    {
+      "name": "salt/shaker (not a food item, but visible)",
+      "portion_estimate": "uncertain",
+      "confidence": 0
+    }
+  ]
+}

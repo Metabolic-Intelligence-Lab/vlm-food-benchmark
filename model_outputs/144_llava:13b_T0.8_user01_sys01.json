@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "50-80 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Bread roll or slices",
+      "portion_estimate": "40-70 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Sandwich with some vegetables",
+      "portion_estimate": "200-300 grams",
+      "confidence": 50
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "150-200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Beans",
+      "portion_estimate": "100-150 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Egg salad or scrambled eggs",
+      "portion_estimate": "70-120 grams",
+      "confidence": 50
+    },
+    {
+      "name": "Dessert",
+      "portion_estimate": "50-80 grams",
+      "confidence": 40
+    }
+  ]
+}

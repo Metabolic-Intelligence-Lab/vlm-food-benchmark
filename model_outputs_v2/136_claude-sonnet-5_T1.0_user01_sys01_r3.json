@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta with tomato-vegetable sauce",
+      "portion_estimate": "180",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed cooked vegetables (carrots, peas, zucchini, onion)",
+      "portion_estimate": "150",
+      "confidence": "60"
+    },
+    {
+      "name": "green peas",
+      "portion_estimate": "30",
+      "confidence": "55"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green herbal or vegetable salad",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Toasted bread slice",
+      "portion_estimate": "60g",
+      "confidence": "95"
+    },
+    {
+      "name": "Mixed chopped vegetables (tomato, bell pepper, etc.)",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Toasted bread slice (bottom plate)",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    },
+    {
+      "name": "Red or orange spread topping (on bread)",
+      "portion_estimate": "35g",
+      "confidence": "80"
+    }
+  ]
+}

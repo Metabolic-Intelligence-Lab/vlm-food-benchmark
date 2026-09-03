@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fritters",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "uncooked penne pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "crumbly topping",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "unwrapped bread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

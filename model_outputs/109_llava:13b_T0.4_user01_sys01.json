@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "yellow squash",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "cooked pasta or rice",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "salad with mixed greens, sliced apples, and nuts (possibly almonds)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "small bowl of what might be a condiment or dressing",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

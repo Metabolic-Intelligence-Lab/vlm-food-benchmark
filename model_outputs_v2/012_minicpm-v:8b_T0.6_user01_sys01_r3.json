@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Boiled egg with fried potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Green leafy vegetables (possibly spinach or kale)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll in plastic wrap",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Dairy product (possibly yogurt or cream cheese)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

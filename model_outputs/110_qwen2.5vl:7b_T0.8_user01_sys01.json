@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green pea and carrot stir-fry",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baked bread",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "50 grams",
+      "confidence": 60
+    }
+  ]
+}

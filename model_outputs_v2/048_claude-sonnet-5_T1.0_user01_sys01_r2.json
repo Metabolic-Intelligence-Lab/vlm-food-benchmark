@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato meat sauce",
+      "portion_estimate": "220",
+      "confidence": 75
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": 80
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "eggplant parmigiana with grated cheese",
+      "portion_estimate": "150",
+      "confidence": 65
+    },
+    {
+      "name": "yogurt cup (Yomo)",
+      "portion_estimate": "125",
+      "confidence": 70
+    },
+    {
+      "name": "packaged bread or crackers (in plastic wrapper)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

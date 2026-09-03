@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "vegetable stir-fry",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "quiche with broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "peach",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "baguette",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pinto beans with green onions",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "steamed broccoli with cheese",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "grilled fish fillet",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "cookie",
+      "portion_estimate": "30",
+      "confidence": "70"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "70",
+      "confidence": "80"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "70",
+      "confidence": "80"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "70",
+      "confidence": "80"
+    }
+  ]
+}

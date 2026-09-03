@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed vegetable medley with meatballs (chicken or mushroom)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "fried breadstick",
+      "portion_estimate": "80g",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with tomato sauce and herbs",
+      "portion_estimate": "180g",
+      "confidence": 85
+    },
+    {
+      "name": "garlic bread or toasted roll",
+      "portion_estimate": "70g",
+      "confidence": 80
+    },
+    {
+      "name": "water (in clear glass)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

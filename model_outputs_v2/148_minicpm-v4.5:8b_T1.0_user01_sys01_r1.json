@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "100-150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "100-150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "small vegetable quiche (or egg muffin) with diced carrots",
+      "portion_estimate": "60-80 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "grapefruit",
+      "portion_estimate": "70 grams (whole fruit)",
+      "confidence": "70"
+    },
+    {
+      "name": "grape",
+      "portion_estimate": "30 grams (3-4 grapes total)",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll (small bun)",
+      "portion_estimate": "40 grams",
+      "confidence": "80"
+    }
+  ]
+}

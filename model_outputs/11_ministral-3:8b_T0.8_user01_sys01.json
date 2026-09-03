@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "whole roasted egg (packaged)",
+      "portion_estimate": "70g (average large egg)",
+      "confidence": 85
+    },
+    {
+      "name": "mixed greens salad with shredded cabbage and dressing (bowl)",
+      "portion_estimate": "150g (greens + dressing)",
+      "confidence": 75
+    },
+    {
+      "name": "saut\u00e9ed or roasted kale (with crumb-like seasoning)",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "carrot slice",
+      "portion_estimate": "30g (approximate)",
+      "confidence": 65
+    }
+  ]
+}

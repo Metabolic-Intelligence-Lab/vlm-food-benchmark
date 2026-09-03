@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Whole wheat pasta shapes (ditalini)",
+      "portion_estimate": "150g",
+      "confidence": 92
+    },
+    {
+      "name": "Chickpeas",
+      "portion_estimate": "60g",
+      "confidence": 88
+    },
+    {
+      "name": "Cherry tomatoes (halved)",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "Diced cooked ham or turkey",
+      "portion_estimate": "40g",
+      "confidence": 80
+    },
+    {
+      "name": "Red onion pieces",
+      "portion_estimate": "20g",
+      "confidence": 85
+    },
+    {
+      "name": "Shredded carrots",
+      "portion_estimate": "30g",
+      "confidence": 78
+    },
+    {
+      "name": "Black olives (sliced)",
+      "portion_estimate": "15g",
+      "confidence": 72
+    },
+    {
+      "name": "Dressing (oil-based, possibly with herbs)",
+      "portion_estimate": "30g",
+      "confidence": 65
+    }
+  ]
+}

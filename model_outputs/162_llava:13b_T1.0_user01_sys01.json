@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "cooked vegetables or greens (broccoli or cabbage)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "boiled potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "soup or stew (meat and vegetables)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "bread or similar baked item",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

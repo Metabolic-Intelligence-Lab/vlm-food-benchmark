@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fish fillet (likely breaded)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "mixed vegetables with chunks of meat (chicken or mushroom) and carrots",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "buttered bread roll",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "pasta with tomato sauce and herbs",
+      "portion_estimate": "180g (cooked)",
+      "confidence": 85
+    },
+    {
+      "name": "small bread roll (possibly baguette or ciabatta)",
+      "portion_estimate": "60g",
+      "confidence": 80
+    },
+    {
+      "name": "water (clear liquid in a glass)",
+      "portion_estimate": "uncertain (no visible measurement scale)",
+      "confidence": 30
+    }
+  ]
+}

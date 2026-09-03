@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "fish",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "3 small",
+      "confidence": 90
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

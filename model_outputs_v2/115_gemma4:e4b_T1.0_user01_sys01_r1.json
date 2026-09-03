@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (Fettuccine) with light sauce",
+      "portion_estimate": "180 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "Mixed green salad with tomatoes and dressing",
+      "portion_estimate": "300 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "Breaded fried croquettes or arancini with tomato sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread/Breadstick portion (wrapped)",
+      "portion_estimate": "50 grams",
+      "confidence": "90"
+    }
+  ]
+}

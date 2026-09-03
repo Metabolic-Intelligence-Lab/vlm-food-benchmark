@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green soup",
+      "portion_estimate": "225g",
+      "confidence": 95
+    },
+    {
+      "name": "Stuffed green item",
+      "portion_estimate": "125g",
+      "confidence": 95
+    },
+    {
+      "name": "Mixed cooked vegetables",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Dinner roll",
+      "portion_estimate": "60g",
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "125g",
+      "confidence": 95
+    }
+  ]
+}

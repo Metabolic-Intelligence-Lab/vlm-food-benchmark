@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "whole wheat bun (sliced side visible)",
+      "portion_estimate": "60g",
+      "confidence": 85
+    },
+    {
+      "name": "grilled chicken breast with stuffing (approx. 2/3 of a standard serving)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "mixed greens salad with cherry tomatoes and olives",
+      "portion_estimate": "100g",
+      "confidence": 75
+    },
+    {
+      "name": "single cherry tomato",
+      "portion_estimate": "15g",
+      "confidence": 85
+    },
+    {
+      "name": "single plum (or small purple fruit)",
+      "portion_estimate": "100g",
+      "confidence": 80
+    }
+  ]
+}

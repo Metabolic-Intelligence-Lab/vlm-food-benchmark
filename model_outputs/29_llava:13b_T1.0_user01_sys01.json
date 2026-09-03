@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with vegetables",
+      "portion_estimate": "200-300 g",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted vegetables",
+      "portion_estimate": "150-200 g",
+      "confidence": "90"
+    },
+    {
+      "name": "sliced bread roll",
+      "portion_estimate": "80-100 g",
+      "confidence": "75"
+    },
+    {
+      "name": "fruit salad",
+      "portion_estimate": "200-300 g",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "red apple",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "red onion and carrot salad",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80",
+      "confidence": "85"
+    },
+    {
+      "name": "spaghetti with cream sauce",
+      "portion_estimate": "250",
+      "confidence": "90"
+    },
+    {
+      "name": "fried egg on toast with spinach and cheese",
+      "portion_estimate": "200",
+      "confidence": "85"
+    }
+  ]
+}

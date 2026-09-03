@@ -1,0 +1,36 @@
+{
+  "food_items": [
+    {
+      "name": "orange and brown small snacks",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "beans in a bowl",
+      "portion_estimate": "340g",
+      "confidence": "96"
+    },
+    {
+      "name": "a plastic cup with a lid on it and some type of sauce",
+      "portion_estimate": "215g",
+      "confidence": "78"
+    },
+    {
+      "name": "white bowl of soup in the table cloth lined tray",
+      "portion_estimate": "340g",
+      "confidence": "96"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "glass full of water with straw",
+      "portion_estimate": "180ml",
+      "confidence": "92"
+    },
+    {
+      "name": "bottle opener on the table",
+      "portion_estimate": "45g",
+      "confidence": "73"
+    }
+  ]
+}

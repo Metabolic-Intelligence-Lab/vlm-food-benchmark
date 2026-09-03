@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green Beans",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Egg Frittata",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Mushroom",
+      "portion_estimate": "20g",
+      "confidence": "70"
+    },
+    {
+      "name": "Tomato",
+      "portion_estimate": "100g",
+      ...
+    }
+  ]
+}

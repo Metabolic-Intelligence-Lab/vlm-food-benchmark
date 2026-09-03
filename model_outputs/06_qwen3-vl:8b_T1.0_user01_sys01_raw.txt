@@ -1,0 +1,53 @@
+### Identified Food and Beverage Items with Portions and Confidence Levels
+
+#### **Food Items:**
+1. **Penne pasta with pesto**  
+   - **Portion:** 120g  
+   - **Confidence Level:** 90%  
+   - *Reasoning:* Clearly visible as a cooked pasta dish with pesto sauce, and portion size matches standard serving sizes.
+
+2. **Fried egg**  
+   - **Portion:** 50g  
+   - **Confidence Level:** 90%  
+   - *Reasoning:* A single cooked egg (likely over-easy or sunny-side up) is distinguishable, and the portion aligns with typical egg servings.
+
+3. **Diced zucchini**  
+   - **Portion:** 80g  
+   - **Confidence Level:** 80%  
+   - *Reasoning:* Visible as small, diced pieces in the dish. Based on color and texture, it is most likely zucchini, but other similar vegetables (e.g., yellow squash) could also fit; thus, confidence is moderate.
+
+4. **Fried patty (under egg)**  
+   - **Portion:** 50g  
+   - **Confidence Level:** 70%  
+   - *Reasoning:* A small, fried item beneath the egg, possibly a hash brown, tofu patty, or vegetable fritter. Due to limited visibility, the exact identity is uncertain, so confidence is lower.
+
+5. **Yogurt (in DIDO container)**  
+   - **Portion:** 70g  
+   - **Confidence Level:** 80%  
+   - *Reasoning:* A small, sealed container labeled "DIDO" typically holds yogurt. While it could be cheese or another product, its appearance and common labeling suggest yogurt, giving moderate confidence.
+
+6. **Bread roll (in plastic bag)**  
+   - **Portion:** 50g  
+   - **Confidence Level:** 80%  
+   - *Reasoning:* A small, packaged item resembling a bread roll. It could also be a biscuit or similar product, so confidence is moderate.
+
+#### **Beverage Item:**
+7. **Water**  
+   - **Portion:** 200g  
+   - **Confidence Level:** 90%  
+   - *Reasoning:* A clear glass filled with liquid, unambiguously water, with a standard serving size.
+
+---
+
+### Summary of Findings:
+| Item                        | Portion | Confidence Level |
+|-----------------------------|---------|-------------------|
+| Penne pasta with pesto      | 120g    | 90%               |
+| Fried egg                   | 50g     | 90%               |
+| Diced zucchini              | 80g     | 80%               |
+| Fried patty (under egg)     | 50g     | 70%               |
+| Yogurt (DIDO container)     | 70g     | 80%               |
+| Bread roll (in plastic bag) | 50g     | 80%               |
+| Water                       | 200g    | 90%               |
+
+All items were identified based on visible characteristics, portion sizes, and contextual clues. Confidence levels reflect the certainty of identification, with higher values for unambiguous items and lower values where alternatives are plausible.

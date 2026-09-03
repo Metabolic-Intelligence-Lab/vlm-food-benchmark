@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "lentil/bean soup or stew (brown, thick) with grated cheese on top",
+      "portion_estimate": "420 g",
+      "confidence": "70"
+    },
+    {
+      "name": "vegetable patty (likely spinach/vegetable cake) topped with tomato slice, salami/pepperoni slice, and a slice of mozzarella/provolone",
+      "portion_estimate": "130 g",
+      "confidence": "60"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "170 g",
+      "confidence": "85"
+    },
+    {
+      "name": "bread slice/half roll (light-colored)",
+      "portion_estimate": "60 g",
+      "confidence": "70"
+    },
+    {
+      "name": "short pasta (bow-tie/farfalle) salad with a few black olives",
+      "portion_estimate": "220 g",
+      "confidence": "75"
+    },
+    {
+      "name": "string cheese (wrapped)",
+      "portion_estimate": "28 g",
+      "confidence": "85"
+    }
+  ]
+}

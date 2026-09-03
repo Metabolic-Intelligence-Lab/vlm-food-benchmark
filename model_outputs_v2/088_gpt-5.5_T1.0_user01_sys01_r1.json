@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with sauce and grated cheese",
+      "portion_estimate": "200 g",
+      "confidence": "85"
+    },
+    {
+      "name": "wrapped bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked farro or barley with green peas",
+      "portion_estimate": "160 g",
+      "confidence": "80"
+    },
+    {
+      "name": "slice of frittata or savory omelette",
+      "portion_estimate": "130 g",
+      "confidence": "75"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "115 g edible portion",
+      "confidence": "95"
+    },
+    {
+      "name": "uncertain packaged pale cheese or dairy item",
+      "portion_estimate": "25 g",
+      "confidence": "45"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "meatballs in sauce over pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "green beans or cooked vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roll",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sauce or dressing",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "spread or butter",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

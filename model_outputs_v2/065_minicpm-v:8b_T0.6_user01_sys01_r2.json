@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole grain roll",
+      "portion_estimate": "uncertain, approx. 100-200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Green salad with dressing in white bowl",
+      "portion_estimate": "uncertain, approx. 300g",
+      "confidence": "60"
+    },
+    {
+      "name": "White plate containing a patty and cubed potatoes",
+      "portion_estimate": "uncertain, approx. 150-200g for the potato cubes, less for the patty",
+      "confidence": "70"
+    },
+    {
+      "name": "Yellow dressing on top of the burger or patty",
+      "portion_estimate": "uncertain, small amount (possibly a tablespoon)",
+      "confidence": "50"
+    },
+    {
+      "name": "White cup with red label and white lid containing yogurt",
+      "portion_estimate": "uncertain, approx. 125g for the contents of the cup",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spinach pie (spanakopita-style, rectangular slice)",
+      "portion_estimate": "220 g",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed cooked vegetables (diced potatoes and carrots)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll (plain bun, packaged)",
+      "portion_estimate": "70 g",
+      "confidence": "70"
+    },
+    {
+      "name": "pasta with creamy mushroom sauce and grated cheese",
+      "portion_estimate": "260 g",
+      "confidence": "65"
+    },
+    {
+      "name": "grated cheese topping (likely parmesan)",
+      "portion_estimate": "10 g",
+      "confidence": "60"
+    },
+    {
+      "name": "plums (whole)",
+      "portion_estimate": "180 g",
+      "confidence": "80"
+    }
+  ]
+}

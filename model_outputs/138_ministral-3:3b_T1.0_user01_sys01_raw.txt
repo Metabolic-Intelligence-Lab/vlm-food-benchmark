@@ -1,0 +1,27 @@
+{
+  "food_items": [
+    {
+      "name": "steamed brown rice with green leafy vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "pearl couscous with fried onions",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "chopped white and light brown lentils",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}
+```---
+
+*Note: Due to the blend of ingredients, an exact breakdown is not feasible. The visual hints suggest:
+- **Brown rice** (~180-240g) as the base.
+- **Green leafy vegetables** (~50-100g, likely spinach or similar).
+- **Combination of rice noodles/couscous (~100g)** and lentils (~100-120g) for texture.*
+
+For calorie estimation, consider each ingredient separately if precision is needed. If uncertain about portion sizes, estimate conservatively per visual densi

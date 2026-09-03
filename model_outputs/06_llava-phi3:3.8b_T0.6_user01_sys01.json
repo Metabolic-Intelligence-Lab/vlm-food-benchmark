@@ -1,0 +1,38 @@
+{
+  "tray": [
+    {
+      "name": "Pasta Salad",
+      "quantity": "1 bowl",
+      "calories": 400,
+      "fat": 8,
+      "carbohydrates": 65,
+      "protein": 20
+    },
+    {
+      "name": "Steamed Asparagus with Fried Egg on top",
+      "quantity": "1 plate",
+      "calories": 300,
+      "fat": 8,
+      "carbohydrates": 25,
+      "protein": 25
+    },
+    {
+      "name": "Coffee Mug",
+      "quantity": "1 cup",
+      "calories": 200,
+      "fat": 3,
+      "carbohydrates": 10,
+      "protein": 5
+    }
+  ],
+  "drink": [
+    {
+      "name": "Coffee",
+      "quantity": "1 cup",
+      "calories": 200,
+      "fat": 3,
+      "carbohydrates": 10,
+      "protein": 5
+    }
+  ]
+}

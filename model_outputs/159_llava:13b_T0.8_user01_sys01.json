@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "sausage rolls",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "cooked vegetables (broccoli or cabbage)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "pasta (spaghetti or noodle-based dish)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "pasta with grated cheese (likely Parmesan)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "open sandwich with meat or poultry in a bun",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

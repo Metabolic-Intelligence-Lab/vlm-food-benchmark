@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "57g",
+      "confidence": "100"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "65g",
+      "confidence": "100"
+    },
+    {
+      "name": "chicken",
+      "portion_estimate": "123g",
+      "confidence": "100"
+    },
+    {
+      "name": "mushroom",
+      "portion_estimate": "57g",
+      "confidence": "100"
+    },
+    {
+      "name": "carrot",
+      "portion_estimate": "57g",
+      "confidence": "100"
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "57g",
+      "confidence": "100"
+    },
+    {
+      "name": "broth",
+      "portion_estimate": "120g",
+      "confidence": "100"
+    }
+  ]
+}

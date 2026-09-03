@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "carton of milk (200ml, likely whole milk with added sugar)",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "single chocolate-covered cake bar (e.g., chocolate sponge cake with cream filling)",
+      "portion_estimate": "70",
+      "confidence": 85
+    },
+    {
+      "name": "second chocolate-covered cake bar (similar to the first)",
+      "portion_estimate": "70",
+      "confidence": 85
+    }
+  ]
+}

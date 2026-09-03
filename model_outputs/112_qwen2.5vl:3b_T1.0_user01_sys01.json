@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable sprouts",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "unspecified soft doughy food",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "unidentifiable solid food in wrap",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "pasta with pesto sauce and breadcrumb topping",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "unidentifiable fruit with plastic wrap",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "unidentifiable fruit on the side",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

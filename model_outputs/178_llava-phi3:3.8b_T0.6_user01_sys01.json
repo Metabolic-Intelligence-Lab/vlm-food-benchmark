@@ -1,0 +1,43 @@
+{
+  "food_items": [
+    {
+      "name": "noodles",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "30g",
+      "confidence": "80"
+    },
+    {
+      "name": "quiche",
+      "portion_estimate": "25g",
+      "confidence": "70"
+    },
+    {
+      "name": "papaya",
+      "portion_estimate": "15g",
+      "confidence": "60"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "30g",
+      "confidence": "70"
+    }
+  ],
+  "tray": [
+    {
+      "name": "plate of noodles",
+      "image": "noodles.jpg"
+    },
+    {
+      "name": "quiche and mashed potatoes plate",
+      "image": "mashed_potatoes_and_quiche.jpg"
+    },
+    {
+      "name": "plate of bread rolls",
+      "image": "bread_rolls.jpg"
+    }
+  ]
+}

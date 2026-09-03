@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked pasta",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "diced tomatoes",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "canned tuna",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "30",
+      "confidence": "70"
+    },
+    {
+      "name": "mayonnaise or creamy dressing",
+      "portion_estimate": "20",
+      "confidence": "60"
+    }
+  ]
+}

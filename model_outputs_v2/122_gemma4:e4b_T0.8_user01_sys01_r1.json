@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole wheat bread roll",
+      "portion_estimate": "90g",
+      "confidence": "95"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "115g",
+      "confidence": "95"
+    },
+    {
+      "name": "Mixed nuts and seeds topping",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "Sliced raw carrots",
+      "portion_estimate": "180g",
+      "confidence": "90"
+    },
+    {
+      "name": "Crispy fried snacks (e.g., wonton or tortilla crisps)",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    }
+  ]
+}

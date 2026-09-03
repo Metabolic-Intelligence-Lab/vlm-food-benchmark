@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green Soup",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Roasted Potatoes",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "Yogurt with Berries",
+      "portion_estimate": "50",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Bread",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "Mixed Salad",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "Grilled Eggplant with Bread",
+      "portion_estimate": "200",
+      "confidence": "70"
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": "100",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup with crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "plate of food with beans, rice, and a lemon",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "roll and additional food items in a plastic bag",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

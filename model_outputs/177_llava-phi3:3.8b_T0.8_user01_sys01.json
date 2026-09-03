@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "white plate with soup",
+      "portion_estimate": "30g of vegetables, 20g of bread and 10g of sauce",
+      "confidence": "90"
+    },
+    {
+      "name": "orange macaroni noodles",
+      "portion_estimate": "50g of pasta, 30g of cheese, 20g of vegetables and 10g of sauce",
+      "confidence": "70"
+    },
+    {
+      "name": "brown bun with sesame seeds on top",
+      "portion_estimate": "30g of bread, 20g of cheese and 10g of sauce",
+      "confidence": "80"
+    },
+    {
+      "name": "yellow apple",
+      "portion_estimate": "50g of fruit",
+      "confidence": "70"
+    }
+  ]
+}

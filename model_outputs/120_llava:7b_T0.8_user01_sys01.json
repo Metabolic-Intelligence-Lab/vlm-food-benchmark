@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup with croutons",
+      "portion_estimate": "approx 400 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Macaroni and cheese",
+      "portion_estimate": "approx 250 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried fish fillet",
+      "portion_estimate": "1 piece (about 70-80 grams)",
+      "confidence": "60"
+    },
+    {
+      "name": "Homemade roll with butter",
+      "portion_estimate": "2 slices (approx 50 grams)",
+      "confidence": "60"
+    },
+    {
+      "name": "Soda, possibly root beer or cola",
+      "portion_estimate": "1 can (approx 375 ml)",
+      "confidence": "60"
+    }
+  ]
+}

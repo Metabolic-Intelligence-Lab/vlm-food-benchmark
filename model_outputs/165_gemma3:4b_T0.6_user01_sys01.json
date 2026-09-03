@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy Vegetable Soup",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Yogurt (Plain)",
+      "portion_estimate": "125g",
+      "confidence": 90
+    },
+    {
+      "name": "Chicken Patty",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "Cucumber Slices",
+      "portion_estimate": "30g",
+      "confidence": 60
+    }
+  ]
+}

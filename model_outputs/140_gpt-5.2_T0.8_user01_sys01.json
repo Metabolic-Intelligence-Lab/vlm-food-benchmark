@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "plums (whole)",
+      "portion_estimate": "150 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cheese stick (string cheese)",
+      "portion_estimate": "28 g",
+      "confidence": "75"
+    },
+    {
+      "name": "Brussels sprouts (cooked)",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "breaded fish fillet (fried or baked)",
+      "portion_estimate": "120 g",
+      "confidence": "65"
+    },
+    {
+      "name": "cooked leafy greens (spinach or similar)",
+      "portion_estimate": "120 g",
+      "confidence": "60"
+    }
+  ]
+}

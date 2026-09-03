@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli and potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Apple pie with apples",
+      "portion_estimate": "120g-150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Soup (carrot and potato)",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

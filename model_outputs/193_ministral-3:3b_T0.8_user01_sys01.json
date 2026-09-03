@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried rice or rice croquette",
+      "portion_estimate": "150\u2013200 g",
+      "confidence": 90
+    },
+    {
+      "name": "rice or grain soup (broth-based, possibly tofu or meat-based)",
+      "portion_estimate": "300\u2013400 g",
+      "confidence": 95
+    },
+    {
+      "name": "plain water (from two glasses)",
+      "portion_estimate": "200\u2013300 g total",
+      "confidence": 85
+    },
+    {
+      "name": "sliced orange (1/2\u20131 whole)",
+      "portion_estimate": "70\u2013150 g",
+      "confidence": 80
+    },
+    {
+      "name": "fried egg (on plate at bottom left)",
+      "portion_estimate": "50\u201370 g",
+      "confidence": 85
+    }
+  ]
+}

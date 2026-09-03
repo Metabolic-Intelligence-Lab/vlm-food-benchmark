@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mixed greens salad",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "tomato",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "onion",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "lettuce",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "carrot",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "cucumber",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

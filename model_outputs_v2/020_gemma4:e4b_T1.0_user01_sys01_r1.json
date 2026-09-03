@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "baby carrots",
+      "portion_estimate": "120g",
+      "confidence": "95"
+    },
+    {
+      "name": "fried chicken pieces",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "green apple",
+      "portion_estimate": "180g",
+      "confidence": "95"
+    },
+    {
+      "name": "green grapes",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    }
+  ]
+}

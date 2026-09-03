@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fusilli Pasta",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Brussels Sprouts",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "100 grams",
+      "confidence": 75
+    },
+    {
+      "name": "Mixed Salad",
+      "portion_estimate": "120 grams",
+      "confidence": 65
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cup of soup",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried fish with breading",
+      "portion_estimate": "80g",
+      "confidence": "70"
+    },
+    {
+      "name": "Crispy fries",
+      "portion_estimate": "35g",
+      "confidence": "60"
+    },
+    {
+      "name": "Fried chicken with breading",
+      "portion_estimate": "120g",
+      "confidence": "70"
+    },
+    {
+      "name": "Scoop of mashed potatoes",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    }
+  ]
+}

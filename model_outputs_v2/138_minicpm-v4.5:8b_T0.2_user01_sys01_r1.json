@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "brown rice",
+      "portion_estimate": "200-250 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "white beans (cannellini or navy)",
+      "portion_estimate": "50-75 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "chopped leafy greens (spinach or kale)",
+      "portion_estimate": "50-75 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "small chunks of cooked chicken",
+      "portion_estimate": "50-75 grams",
+      "confidence": "70"
+    }
+  ]
+}

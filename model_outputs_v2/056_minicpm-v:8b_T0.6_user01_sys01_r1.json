@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "chicken fillet",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "mixed vegetable medley (carrots, peas, mushrooms)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "water in a plastic cup",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

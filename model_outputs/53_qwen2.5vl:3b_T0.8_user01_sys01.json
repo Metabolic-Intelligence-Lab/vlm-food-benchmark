@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Fried green beans",
+      "portion_estimate": "uncertain",
+      "confidence": "30"
+    },
+    {
+      "name": "Fried chicken",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Rotini pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Whole wheat bread",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

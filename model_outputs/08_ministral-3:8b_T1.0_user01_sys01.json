@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "soupy broth with grated cheese on top (likely tomato-based)",
+      "portion_estimate": "uncertain (bowl appears roughly 300\u2013400 ml, liquid portion ~250\u2013350g, ~20\u201330g grated cheese)",
+      "confidence": 65
+    },
+    {
+      "name": "two pieces of cheese/egg-based fritters (e.g., spanakopita or cottage cheese fritters)",
+      "portion_estimate": "~100\u2013120g total (each piece ~50\u201360g)",
+      "confidence": 75
+    },
+    {
+      "name": "assorted sliced vegetable mix (e.g., carrots, cucumber, and possibly other chopped veggies)",
+      "portion_estimate": "~150\u2013200g",
+      "confidence": 70
+    },
+    {
+      "name": "plain roll/baguette (possibly in a paper sleeve)",
+      "portion_estimate": "~50\u201360g",
+      "confidence": 75
+    },
+    {
+      "name": "glass of water (clear beverage, marked with 200 ml reference)",
+      "portion_estimate": "200g (assuming standard 200 ml serving)",
+      "confidence": 95
+    },
+    {
+      "name": "red-colored yogurt or similar in disposable cup (possible Greek yogurt with fruit)",
+      "portion_estimate": "uncertain (~150\u2013180g, based on standard yogurt cup size)",
+      "confidence": 60
+    }
+  ]
+}

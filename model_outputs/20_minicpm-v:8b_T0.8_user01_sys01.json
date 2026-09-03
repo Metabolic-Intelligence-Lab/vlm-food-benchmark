@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Mashed potatoes with gravy and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 35
+    }
+  ]
+}

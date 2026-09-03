@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Sliced Tomatoes",
+      "portion_estimate": "80g",
+      "confidence": 90
+    },
+    {
+      "name": "Sliced Cucumbers",
+      "portion_estimate": "25g",
+      "confidence": 75
+    },
+    {
+      "name": "Mixed Lettuce (e.g., iceberg, romaine)",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Sliced White Onions",
+      "portion_estimate": "30g",
+      "confidence": 85
+    },
+    {
+      "name": "Julienned Carrots",
+      "portion_estimate": "20g",
+      "confidence": 65
+    },
+    {
+      "name": "Radicchio (Purple Leafy Vegetable)",
+      "portion_estimate": "25g",
+      "confidence": 70
+    },
+    {
+      "name": "Crunchy Seed Mix (Side Item)",
+      "portion_estimate": "30g",
+      "confidence": 90
+    }
+  ]
+}

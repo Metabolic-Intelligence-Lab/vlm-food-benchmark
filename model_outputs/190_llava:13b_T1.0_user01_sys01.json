@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "cooked pasta (linguine or fettuccini)",
+      "portion_estimate": "70-80 grams",
+      "confidence": 85
+    },
+    {
+      "name": "salmon with vegetables (broccoli)",
+      "portion_estimate": "100 grams or less",
+      "confidence": 75
+    },
+    {
+      "name": "dark green leafy vegetable (spinach)",
+      "portion_estimate": "100 grams or less",
+      "confidence": 60
+    }
+  ]
+}

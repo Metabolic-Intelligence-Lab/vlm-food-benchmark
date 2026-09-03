@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "white bread roll",
+      "portion_estimate": "40",
+      "confidence": 95
+    },
+    {
+      "name": "penne pasta with cheese and herbs",
+      "portion_estimate": "180",
+      "confidence": 90
+    },
+    {
+      "name": "boiled potato cubes",
+      "portion_estimate": "60",
+      "confidence": 90
+    },
+    {
+      "name": "boiled carrot slices",
+      "portion_estimate": "30",
+      "confidence": 90
+    },
+    {
+      "name": "boiled brussels sprouts",
+      "portion_estimate": "30",
+      "confidence": 85
+    },
+    {
+      "name": "mini vegetable patty with spinach topping",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "60",
+      "confidence": 95
+    }
+  ]
+}

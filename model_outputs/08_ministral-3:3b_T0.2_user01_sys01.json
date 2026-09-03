@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "chicken or vegetable soup",
+      "portion_estimate": "300 grams",
+      "confidence": 95
+    },
+    {
+      "name": "grated cheese on soup",
+      "portion_estimate": "10 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baked bun or roll",
+      "portion_estimate": "120 grams",
+      "confidence": 85
+    },
+    {
+      "name": "mixed salad with carrots, onions, and possibly cucumber",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "potato or vegetable patties",
+      "portion_estimate": "60 grams",
+      "confidence": 85
+    },
+    {
+      "name": "tomato-based dip (e.g., tomato soup or salsa)",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "water or similar beverage",
+      "portion_estimate": "200 milliliters",
+      "confidence": 90
+    }
+  ]
+}

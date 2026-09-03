@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain, estimated at approx. 150g",
+      "confidence": "65"
+    },
+    {
+      "name": "steamed vegetables (carrots)",
+      "portion_estimate": "uncertain, estimated at approx. 75g",
+      "confidence": "80"
+    },
+    {
+      "name": "chicken breast with sauce",
+      "portion_estimate": "uncertain, estimated at approx. 125g",
+      "confidence": "60"
+    },
+    {
+      "name": "bun roll (likely a hamburger bun)",
+      "portion_estimate": "uncertain, estimated at approx. 40-50g",
+      "confidence": "70"
+    },
+    {
+      "name": "peanut butter jar",
+      "portion_estimate": "uncertain, estimate not applicable as the content is unknown in terms of weight",
+      "confidence": "60"
+    },
+    {
+      "name": "SpaghettiOs can",
+      "portion_estimate": "uncertain, estimated at approx. 125g for entire contents",
+      "confidence": "70"
+    }
+  ]
+}

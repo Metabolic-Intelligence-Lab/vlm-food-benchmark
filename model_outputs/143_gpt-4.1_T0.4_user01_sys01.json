@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125",
+      "confidence": 95
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "80",
+      "confidence": 90
+    },
+    {
+      "name": "whole grain bread slices",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "boiled or baked white fish fillets",
+      "portion_estimate": "100",
+      "confidence": 85
+    },
+    {
+      "name": "diced cooked potatoes",
+      "portion_estimate": "90",
+      "confidence": 90
+    }
+  ]
+}

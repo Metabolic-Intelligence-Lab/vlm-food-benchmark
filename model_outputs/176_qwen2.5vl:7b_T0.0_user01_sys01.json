@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable fritter with tomato and sauce",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "bowl of lentil soup",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "bowl of oatmeal with nuts and raisins",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "slice of whole grain bread",
+      "portion_estimate": "30",
+      "confidence": "75"
+    }
+  ]
+}

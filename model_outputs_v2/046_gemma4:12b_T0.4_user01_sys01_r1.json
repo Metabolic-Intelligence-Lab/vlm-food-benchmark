@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "70g",
+      "confidence": "95"
+    },
+    {
+      "name": "lentil soup with melted cheese",
+      "portion_estimate": "400g",
+      "confidence": "90"
+    },
+    {
+      "name": "breaded croquettes",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "shredded cabbage salad",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "small snack container",
+      "portion_estimate": "100g",
+      "confidence": "85"
+    }
+  ]
+}

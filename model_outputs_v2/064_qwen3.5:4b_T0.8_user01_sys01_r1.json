@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fusilli pasta with tomato sauce and peppers",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "Roasted potato cubes",
+      "portion_estimate": "200",
+      "confidence": 90
+    },
+    {
+      "name": "Baked pasta roll (eggplant or zucchini)",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Savory breadsticks",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "Yoplait Yogurt (strawberry or similar)",
+      "portion_estimate": "130",
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "food_items": [
+    {
+      "name": "white rice (likely brown or basmati)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "grilled chicken breast with herb seasoning",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "roasted vegetables (brussels sprouts or similar)",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "pita bread roll",
+      "portion_estimate": "60g",
+      "confidence": 90
+    },
+    {
+      "name": "yogurt drink (Sport-Thai, mango flavor)",
+      "portion_estimate": "125ml"
+    }
+  ]
+}

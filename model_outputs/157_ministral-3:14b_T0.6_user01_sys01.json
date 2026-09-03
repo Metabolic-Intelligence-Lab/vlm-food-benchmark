@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "cooked farfalle (bowtie) pasta",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "grated parmesan cheese (on pasta)",
+      "portion_estimate": "10",
+      "confidence": 85
+    },
+    {
+      "name": "boiled lentils or brown beans",
+      "portion_estimate": "180",
+      "confidence": 88
+    },
+    {
+      "name": "roasted or saut\u00e9ed potato croquette (with cheese topping)",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "roasted or grilled eggplant slice (adjacent to croquette)",
+      "portion_estimate": "30",
+      "confidence": 80
+    },
+    {
+      "name": "whole yellow apple (on tray)",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "whole roasted or baked sweet potato (partially visible, wrapped)",
+      "portion_estimate": "250",
+      "confidence": 80
+    }
+  ]
+}

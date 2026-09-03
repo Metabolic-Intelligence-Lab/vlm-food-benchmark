@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Sausage and pasta",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta salad",
+      "portion_estimate": "120 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Vegetable dish with rice",
+      "portion_estimate": "200 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Fruit salad",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Piece of meat with sauce",
+      "portion_estimate": "120 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Whole grain bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "40"
+    },
+    {
+      "name": "Egg omelette with vegetables",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    }
+  ]
+}

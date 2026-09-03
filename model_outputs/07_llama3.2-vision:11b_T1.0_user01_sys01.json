@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Chickpea soup",
+      "portion_estimate": "1 cup",
+      "confidence": 100
+    },
+    {
+      "name": "Mixed greens salad",
+      "portion_estimate": "1 cup",
+      "confidence": 100
+    },
+    {
+      "name": "White bread",
+      "portion_estimate": "1 slice",
+      "confidence": 100
+    },
+    {
+      "name": "Pastry or cookie",
+      "portion_estimate": "1 piece",
+      "confidence": 90
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "1 cup",
+      "confidence": 100
+    }
+  ]
+}

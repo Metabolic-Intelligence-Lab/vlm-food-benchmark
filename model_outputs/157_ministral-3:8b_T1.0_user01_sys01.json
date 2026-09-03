@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with sprinkled salt",
+      "portion_estimate": "250 grams",
+      "confidence": 85
+    },
+    {
+      "name": "lentil-based dish (likely lentil stew with gravy)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "two meatballs or stuffed vegetable (likely cheese-filled mushrooms or fried potato/carrot balls)",
+      "portion_estimate": "80 grams (two small balls)",
+      "confidence": 75
+    },
+    {
+      "name": "pear (yellow-skinned variety)",
+      "portion_estimate": "180 grams",
+      "confidence": 85
+    },
+    {
+      "name": "sausage (peeled partially in packaging)",
+      "portion_estimate": "uncertain (visible portion ~150g but full portion likely more)",
+      "confidence": 60
+    }
+  ]
+}

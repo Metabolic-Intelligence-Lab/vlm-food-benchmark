@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy soup with croutons",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Stuffed pasta with red sauce",
+      "portion_estimate": "200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Green salad with vegetables and blueberries",
+      "portion_estimate": "100 grams",
+      "confidence": "90"
+    }
+  ]
+}

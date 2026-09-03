@@ -1,0 +1,18 @@
+Based on the image, I've identified the food items and estimated their portion sizes. Here's the output in the required JSON format:
+
+{
+  "food_items": [
+    {
+      "name": "Omelette",
+      "portion_estimate": "150-200g",
+      "confidence": "90"
+    },
+    {
+      "name": "Melted Cheese",
+      "portion_estimate": "50-70g",
+      "confidence": "85"
+    }
+  ]
+}
+
+I've identified the omelette and the melted cheese as the two food items in the image. I've estimated their portion sizes based on visual inspection. Please note that these estimates are based on the visible parts of the food in the image. If you have any questions or need further assistance, feel free to ask!

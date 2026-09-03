@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Cheese",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "Meat Stew",
+      "portion_estimate": "180g",
+      "confidence": 70
+    },
+    {
+      "name": "Biscuit",
+      "portion_estimate": "30g",
+      "confidence": 65
+    }
+  ]
+}

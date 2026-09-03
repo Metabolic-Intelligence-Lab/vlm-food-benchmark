@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Creamy dip or spread (on left plate)",
+      "portion_estimate": "90g",
+      "confidence": "85"
+    },
+    {
+      "name": "Mixed pickled vegetables and herbs (on left plate)",
+      "portion_estimate": "130g",
+      "confidence": "80"
+    },
+    {
+      "name": "Fried savory snack mix (on right plate)",
+      "portion_estimate": "180g",
+      "confidence": "75"
+    },
+    {
+      "name": "Bread roll or loaf piece",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Water or clear beverage",
+      "portion_estimate": "250g",
+      "confidence": "90"
+    }
+  ]
+}

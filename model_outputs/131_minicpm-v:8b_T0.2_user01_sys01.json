@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "rice",
+      "portion_estimate": "uncertain, approx. half container",
+      "confidence": "50"
+    },
+    {
+      "name": "chili sauce",
+      "portion_estimate": "approx. one-third of the rice portion",
+      "confidence": "60"
+    }
+  ]
+}

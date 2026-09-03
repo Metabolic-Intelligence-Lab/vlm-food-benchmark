@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "quesadilla",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": "30",
+      "confidence": "75"
+    },
+    {
+      "name": "tomato",
+      "portion_estimate": "10",
+      "confidence": "70"
+    }
+  ]
+}

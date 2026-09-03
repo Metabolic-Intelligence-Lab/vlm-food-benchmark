@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "braised beef with potatoes",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "saut\u00e9ed broccoli",
+      "portion_estimate": "80",
+      "confidence": "80"
+    },
+    {
+      "name": "meatballs in sauce",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100",
+      "confidence": "90"
+    }
+  ]
+}

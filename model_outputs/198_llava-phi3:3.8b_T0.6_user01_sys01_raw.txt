@@ -1,0 +1,57 @@
+{
+  "tray": [
+    {
+      "food_items": [
+        {
+          "name": "meat",
+          "portion_estimate": "30g",
+          "confidence": "80"
+        },
+        {
+          "name": "brussel sprouts",
+          "portion_estimate": "50g",
+          "confidence": "70"
+        }
+      ]
+    },
+    {
+      "food_items": [
+        {
+          "name": "white rice",
+          "portion_estimate": "40g",
+          "confidence": "80"
+        }
+      ]
+    },
+    {
+      "food_items": [
+        {
+          "name": "bread roll",
+          "portion_estimate": "50g",
+          "confidence": "70"
+        },
+        {
+          "name": "butter packet",
+          "portion_estimate": "40g",
+          "confidence": "80"
+        }
+      ]
+    },
+    {
+      "food_items": [
+        {
+          "name": "sauce packet",
+          "portion_estimate": "30g",
+          "confidence": "70"
+        }
+      ]
+    },
+    {
+      "food_items": [
+        {
+          "name": "meat and white rice with brussel sprouts on a plate",
+          "portion_estimate": "185g",
+          "confidence": "90"
+        }
+      ]
+    },

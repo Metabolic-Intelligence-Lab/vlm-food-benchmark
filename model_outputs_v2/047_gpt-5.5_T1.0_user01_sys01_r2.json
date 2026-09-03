@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce",
+      "portion_estimate": "200 g",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "omelette or frittata with herbs",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "120 g",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked mushroom slice",
+      "portion_estimate": "10 g",
+      "confidence": "75"
+    },
+    {
+      "name": "sealed yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "75"
+    },
+    {
+      "name": "uncertain",
+      "portion_estimate": "uncertain",
+      "confidence": "45"
+    }
+  ]
+}

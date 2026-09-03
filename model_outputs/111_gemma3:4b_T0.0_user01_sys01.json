@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta (Fusilli)",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Tomato and Basil Salad",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "80g",
+      "confidence": 85
+    }
+  ]
+}

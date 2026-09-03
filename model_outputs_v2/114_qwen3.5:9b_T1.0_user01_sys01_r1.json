@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried potatoes (French fries) with tomato sauce and parmesan cheese",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "Breaded meat cutlet (likely pork or chicken)",
+      "portion_estimate": 130,
+      "confidence": 92
+    },
+    {
+      "name": "Potato wedges",
+      "portion_estimate": 140,
+      "confidence": 96
+    },
+    {
+      "name": "Slice of white bread wrapped in plastic",
+      "portion_estimate": 35,
+      "confidence": 95
+    },
+    {
+      "name": "Mayonnaise cup (brand 'OMA')",
+      "portion_estimate": 40,
+      "confidence": 85
+    }
+  ]
+}

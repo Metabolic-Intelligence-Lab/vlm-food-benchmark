@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Fried rice",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Quiche with mushrooms and vegetables",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Potatoes with onions and carrots",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Apricots (2)",
+      "portion_estimate": "uncertain, approx. weight in grams each",
+      "confidence": "60"
+    }
+  ]
+}

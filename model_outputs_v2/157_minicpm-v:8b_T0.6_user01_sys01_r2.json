@@ -1,0 +1,26 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Canned lentils",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Mushroom with garlic bread",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "50"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "Unclear drink (yellow liquid)",
+      "portion_estimate": "uncertain, approx. weight in grams",
+      "confidence": "40"
+    }
+  ]
+}

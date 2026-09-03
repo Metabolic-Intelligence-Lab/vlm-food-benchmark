@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta Salad",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Grilled Chicken Breast",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Roasted Green Beans",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "Bun with Cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Pomegranate Fruit",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

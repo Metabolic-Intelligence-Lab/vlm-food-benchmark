@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "1 cup",
+      "confidence": "60"
+    },
+    {
+      "name": "Steamed rice with yellow cheese on top",
+      "portion_estimate": "1 serving",
+      "confidence": "70"
+    },
+    {
+      "name": "Green pineapple chunks",
+      "portion_estimate": "1 cup",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll with butter on top",
+      "portion_estimate": "1 piece",
+      "confidence": "50"
+    }
+  ]
+}

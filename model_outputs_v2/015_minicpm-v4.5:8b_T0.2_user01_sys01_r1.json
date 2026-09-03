@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "baked beans",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "two small meatballs with sauce",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "steamed cabbage or leafy greens",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "small bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "dark-colored sweet or dessert item (e.g., brownie or small cake)",
+      "portion_estimate": "30 grams",
+      "confidence": 70
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150 ml (weight varies by temperature)",
+      "confidence": 90
+    }
+  ]
+}

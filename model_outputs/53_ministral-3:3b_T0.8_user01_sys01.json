@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomatoes, peas, and meat sauce",
+      "portion_estimate": 200,
+      "confidence": 90
+    },
+    {
+      "name": "grilled breadsticks or pizza slice",
+      "portion_estimate": 100,
+      "confidence": 85
+    },
+    {
+      "name": "green beans with possible seasoning or oil",
+      "portion_estimate": 100,
+      "confidence": 75
+    },
+    {
+      "name": "plain white bread bun (possibly for sandwich)",
+      "portion_estimate": 50,
+      "confidence": 70
+    },
+    {
+      "name": "beverage in a clear plastic cup (approx. 250 ml water)",
+      "portion_estimate": 250,
+      "confidence": 80
+    },
+    {
+      "name": "roasted garlic or herb butter stuffed mushroom (1 piece, small)",
+      "portion_estimate": 10,
+      "confidence": 65
+    }
+  ]
+}

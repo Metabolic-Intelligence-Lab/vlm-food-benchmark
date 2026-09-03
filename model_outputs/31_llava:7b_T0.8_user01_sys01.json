@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "150g",
+      "confidence": "80"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "beef with cheese sauce and croutons",
+      "portion_estimate": "200g",
+      "confidence": "40"
+    },
+    {
+      "name": "rolls with butter and cheese",
+      "portion_estimate": "150g",
+      "confidence": "60"
+    },
+    {
+      "name": "sliced banana on the side of the pasta dish",
+      "portion_estimate": "75g",
+      "confidence": "30"
+    }
+  ]
+}

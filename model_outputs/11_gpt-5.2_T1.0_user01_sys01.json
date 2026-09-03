@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "plain bread roll (bun)",
+      "portion_estimate": "80 g",
+      "confidence": "72"
+    },
+    {
+      "name": "mixed cabbage salad (green and red cabbage, no visible dressing)",
+      "portion_estimate": "70 g",
+      "confidence": "70"
+    },
+    {
+      "name": "peach or nectarine",
+      "portion_estimate": "130 g",
+      "confidence": "62"
+    },
+    {
+      "name": "cooked leafy greens (spinach or similar)",
+      "portion_estimate": "60 g",
+      "confidence": "60"
+    },
+    {
+      "name": "wrap/crepe with filling (uncertain type)",
+      "portion_estimate": "90 g",
+      "confidence": "55"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "potato stew with meat",
+      "portion_estimate": "250",
+      "confidence": 80
+    },
+    {
+      "name": "white sauce or mayonnaise",
+      "portion_estimate": "30",
+      "confidence": 80
+    },
+    {
+      "name": "seasoned beans (e.g., cannellini)",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "45",
+      "confidence": 90
+    }
+  ]
+}

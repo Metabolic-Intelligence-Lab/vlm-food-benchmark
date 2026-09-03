@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "breaded/chicken cutlet with coating",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "roasted carrot wedges",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "white rice (with carrot bits)",
+      "portion_estimate": 100,
+      "confidence": 60
+    },
+    {
+      "name": "lentil dish with root vegetables",
+      "portion_estimate": 200,
+      "confidence": 90
+    },
+    {
+      "name": "canned tomato sauce (in small cup on tray)",
+      "portion_estimate": 100,
+      "confidence": 70
+    },
+    {
+      "name": "clear water (glass to the side)",
+      "portion_estimate": 250,
+      "confidence": 80
+    },
+    {
+      "name": "paper napkin",
+      "portion_estimate": "not applicable (doesn't count)",
+      "confidence": 0
+    },
+    {
+      "name": "package on the tray (likely wrapper or plastic film)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

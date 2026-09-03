@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with cheese",
+      "portion_estimate": "uncertain, approx. 300g",
+      "confidence": "65"
+    },
+    {
+      "name": "Bread in plastic wrap",
+      "portion_estimate": "uncertain, approx. 120-150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Plums and a plum tart",
+      "portion_estimate": "uncertain, approx. 3 pieces total",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed potatoes",
+      "portion_estimate": "approx. 150g",
+      "confidence": "80"
+    },
+    {
+      "name": "Saut\u00e9ed greens with tomato sauce and vegetables",
+      "portion_estimate": "uncertain, approx. 200-300g",
+      "confidence": "70"
+    }
+  ]
+}

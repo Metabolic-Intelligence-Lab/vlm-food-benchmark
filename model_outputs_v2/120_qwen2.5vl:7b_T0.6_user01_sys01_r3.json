@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded chicken",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "soup",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "30",
+      "confidence": "80"
+    },
+    {
+      "name": "condiment",
+      "portion_estimate": "15",
+      "confidence": "80"
+    }
+  ]
+}

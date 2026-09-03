@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup with vegetables (carrots, celery, onions, etc.)",
+      "portion_estimate": "350 grams",
+      "confidence": 85
+    },
+    {
+      "name": "saut\u00e9ed or boiled greens (likely kale or collard greens)",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "baked or pan-fried potato (or similar starchy side)",
+      "portion_estimate": "120 grams",
+      "confidence": 75
+    },
+    {
+      "name": "yogurt (in small container, possibly Greek yogurt)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

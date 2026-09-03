@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "rice or a grainy side dish",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "green vegetables that could be pickled cucumber or similar",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "possibly some fried tofu or dumplings",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "yellow salad or dressing",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

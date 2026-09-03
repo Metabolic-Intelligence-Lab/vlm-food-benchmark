@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti (dry or uncooked)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "bun (whole wheat or similar)",
+      "portion_estimate": "60g",
+      "confidence": 80
+    },
+    {
+      "name": "apple (small, likely Granny Smith or similar)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "pizza or pastry slice with yellow toppings (likely cheese and corn)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "sliced cheese (yellow, possibly mozzarella or cheddar)",
+      "portion_estimate": "30g",
+      "confidence": 85
+    },
+    {
+      "name": "shredded yellow vegetables (likely corn or zucchini)",
+      "portion_estimate": "100g",
+      "confidence": 75
+    }
+  ]
+}

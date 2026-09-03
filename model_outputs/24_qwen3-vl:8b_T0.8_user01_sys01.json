@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Herb-coated balls with orange slices",
+      "portion_estimate": "60g",
+      "confidence": 90
+    },
+    {
+      "name": "Carrot slices",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "Pine nuts with cheese",
+      "portion_estimate": "50g",
+      "confidence": 85
+    },
+    {
+      "name": "Red apple",
+      "portion_estimate": "150g",
+      "confidence": 92
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100g",
+      "confidence": 98
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "100g",
+      "confidence": 94
+    }
+  ]
+}

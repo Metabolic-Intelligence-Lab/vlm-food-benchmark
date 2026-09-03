@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "dal makhani",
+      "portion_estimate": "uncertain",
+      "confidence": 95
+    },
+    {
+      "name": "buttermilk",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "roti",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "naan",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "papadum/papadams",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

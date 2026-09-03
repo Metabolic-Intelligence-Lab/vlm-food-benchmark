@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grilled or baked fish (possibly cod or similar white fish) with herbs",
+      "portion_estimate": 120,
+      "confidence": 90
+    },
+    {
+      "name": "fettuccine or penne pasta with tomato sauce",
+      "portion_estimate": 150,
+      "confidence": 85
+    },
+    {
+      "name": "salad with shredded carrots, red cabbage, and sliced green onions",
+      "portion_estimate": 100,
+      "confidence": 88
+    },
+    {
+      "name": "red wine residue (not a full item, residual amount)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

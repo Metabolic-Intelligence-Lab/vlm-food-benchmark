@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rigatoni pasta",
+      "portion_estimate": "approximately 300 grams",
+      "confidence": "high"
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "approximately 50 grams",
+      "confidence": "moderate"
+    },
+    {
+      "name": "diced carrots",
+      "portion_estimate": "approximately 20 grams",
+      "confidence": "moderate"
+    },
+    {
+      "name": "mixed vegetable mixture",
+      "portion_estimate": "approximately 70 grams",
+      "confidence": "moderate"
+    },
+    {
+      "name": "thick tomato sauce",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "high"
+    }
+  ]
+}

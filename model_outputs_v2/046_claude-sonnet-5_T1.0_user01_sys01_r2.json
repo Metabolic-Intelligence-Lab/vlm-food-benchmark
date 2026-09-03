@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "corn/vegetable fritters with red cabbage and onion garnish",
+      "portion_estimate": "150",
+      "confidence": "65"
+    },
+    {
+      "name": "minestrone-style vegetable soup topped with grated cheese",
+      "portion_estimate": "350",
+      "confidence": "75"
+    },
+    {
+      "name": "shredded cabbage salad, dressed",
+      "portion_estimate": "120",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll, wrapped",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "Yomo fruit yogurt cup",
+      "portion_estimate": "125",
+      "confidence": "85"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowtie pasta with grated cheese",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "frittata or omelette",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted potato wedges",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    }
+  ]
+}

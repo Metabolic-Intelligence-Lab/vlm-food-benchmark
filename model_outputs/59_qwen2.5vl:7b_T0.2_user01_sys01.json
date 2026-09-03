@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot and cucumber salad",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "Plums",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Baked potato with butter and sauce",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Cooked greens",
+      "portion_estimate": "100",
+      "confidence": 70
+    }
+  ]
+}

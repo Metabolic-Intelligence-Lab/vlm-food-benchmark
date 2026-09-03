@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "creamy soup with spinach and cheese topping",
+      "portion_estimate": 350,
+      "confidence": 90
+    },
+    {
+      "name": "boiled red cabbage with sauce",
+      "portion_estimate": 120,
+      "confidence": 85
+    },
+    {
+      "name": "baked or fried potato croquettes",
+      "portion_estimate": 150,
+      "confidence": 80
+    },
+    {
+      "name": "plain bread roll (wrapped in plastic)",
+      "portion_estimate": 80,
+      "confidence": 75
+    },
+    {
+      "name": "sliced banana (partial, visible)",
+      "portion_estimate": 60,
+      "confidence": 85
+    },
+    {
+      "name": "salt and pepper shakers (non-food)",
+      "portion_estimate": 0,
+      "confidence": 0
+    }
+  ]
+}

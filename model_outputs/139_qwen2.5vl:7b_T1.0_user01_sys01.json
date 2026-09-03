@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "baked pasta with alfredo sauce",
+      "portion_estimate": "250",
+      "confidence": "80"
+    },
+    {
+      "name": "grilled fish with sauce",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "roasted vegetables",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "hamburger bun",
+      "portion_estimate": "60",
+      "confidence": "90"
+    }
+  ]
+}

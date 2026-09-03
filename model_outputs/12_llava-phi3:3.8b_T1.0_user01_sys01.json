@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "fried egg with yolk",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "sliced french fries",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fat free milk",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "creamer",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "ketchup bottle logo",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "plain hot dog hodge podge",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "a loaf of bread with white label",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Whole wheat roll or bun",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "Ripe banana",
+      "portion_estimate": 120,
+      "confidence": 98
+    },
+    {
+      "name": "Sliced carrots",
+      "portion_estimate": 80,
+      "confidence": 96
+    },
+    {
+      "name": "Crusted patties (chicken or fish)",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "Fusilli pasta with cheese",
+      "portion_estimate": 200,
+      "confidence": 93
+    }
+  ]
+}

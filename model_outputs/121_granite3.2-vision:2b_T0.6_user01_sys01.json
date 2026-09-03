@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "grilled sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "60g",
+      "confidence": 90
+    }
+  ]
+}

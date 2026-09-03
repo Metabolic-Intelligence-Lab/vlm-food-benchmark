@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "ground beef or meat sauce",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "pasta shells (penne or similar)",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    },
+    {
+      "name": "grated cheese (likely mozzarella)",
+      "portion_estimate": "20 grams",
+      "confidence": 85
+    }
+  ]
+}

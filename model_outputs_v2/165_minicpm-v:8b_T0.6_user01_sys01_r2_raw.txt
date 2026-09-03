@@ -1,0 +1,25 @@
+{
+  "food_items": [
+    {
+      "name": "Tomato soup",
+      "portion_estimate": "uncertain, approx. 300g",
+      "confidence": "65"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain, approx. 120-150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Vegetable salad",
+      "portion_estimate": "uncertain, approx. 60g",
+      "confidence": "75"
+    },
+    {
+      "name": "Cheese sauce",
+      "portion_estimate": "uncertain, approx. 120-150g",
+      "confidence": "80"
+    }
+  ],
+  "total_weight": "uncertain, approx. 930g" // sum of all identified items
+}

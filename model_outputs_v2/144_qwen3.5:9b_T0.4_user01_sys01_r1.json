@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with a creamy sauce and grated cheese (likely Parmesan)",
+      "portion_estimate": 250,
+      "confidence": 85
+    },
+    {
+      "name": "Baked potato topped with melted white cheese",
+      "portion_estimate": 180,
+      "confidence": 90
+    },
+    {
+      "name": "Canned baked beans in tomato sauce",
+      "portion_estimate": 150,
+      "confidence": 92
+    },
+    {
+      "name": "Slice of wholemeal bread (approx. 40g)",
+      "portion_estimate": 40,
+      "confidence": 88
+    },
+    {
+      "name": "Green apple",
+      "portion_estimate": 150,
+      "confidence": 95
+    }
+  ]
+}

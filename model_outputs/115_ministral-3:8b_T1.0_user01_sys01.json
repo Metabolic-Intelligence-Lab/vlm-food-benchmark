@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with yellow sauce or cheese",
+      "portion_estimate": "220g (approximate)",
+      "confidence": 75
+    },
+    {
+      "name": "mixed berry grapes (approximately 7-8 grapes)",
+      "portion_estimate": "100g (approximate)",
+      "confidence": 70
+    },
+    {
+      "name": "mixed greens salad with toppings including diced tomatoes and possibly other vegetables",
+      "portion_estimate": "180g (leaves + toppings)",
+      "confidence": 70
+    },
+    {
+      "name": "meatballs in tomato sauce",
+      "portion_estimate": "100g (meatballs only)",
+      "confidence": 75
+    },
+    {
+      "name": "sliced whole grain bread (or rye bread) wrapped in plastic",
+      "portion_estimate": "50g (approximate)",
+      "confidence": 65
+    }
+  ]
+}

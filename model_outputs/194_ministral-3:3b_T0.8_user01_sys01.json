@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked sweet potato or squash with caramelized topping",
+      "portion_estimate": "150-200",
+      "confidence": 95
+    },
+    {
+      "name": "small bowl of vegetable medley (likely spinach or similar greens)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "small orange",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "small glass of water",
+      "portion_estimate": "250",
+      "confidence": 95
+    },
+    {
+      "name": "bun or small bread roll",
+      "portion_estimate": "70-80",
+      "confidence": 90
+    }
+  ]
+}

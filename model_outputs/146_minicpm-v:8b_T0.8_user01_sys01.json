@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "uncertain, approx. cup size",
+      "confidence": "50"
+    },
+    {
+      "name": "breadsticks with garlic butter dip",
+      "portion_estimate": "uncertain, approx. 2-3 strips of breadstick (approximate finger length)",
+      "confidence": "40"
+    },
+    {
+      "name": "cauliflower",
+      "portion_estimate": "uncertain, approx. cup size",
+      "confidence": "50"
+    },
+    {
+      "name": "cracker with seeds and nuts",
+      "portion_estimate": "approx. medium-sized whole cracker",
+      "confidence": "60"
+    }
+  ]
+}

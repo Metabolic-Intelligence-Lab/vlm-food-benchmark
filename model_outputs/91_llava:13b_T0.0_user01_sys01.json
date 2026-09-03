@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "vegetable soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "grilled chicken breast",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "steamed broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "condiment/sauce (ketchup or mustard)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "beverage (tea or coffee)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

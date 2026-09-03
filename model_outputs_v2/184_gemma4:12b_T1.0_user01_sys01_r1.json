@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "mixed green salad",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "filled pastry with creamy filling",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "100g",
+      "confidence": 90
+    }
+  ]
+}

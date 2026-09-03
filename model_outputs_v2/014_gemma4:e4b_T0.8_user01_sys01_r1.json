@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Water (in glass)",
+      "portion_estimate": "300",
+      "confidence": "95"
+    },
+    {
+      "name": "Mixed salad or pickled vegetables (in white bowl)",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta dish (spaghetti type with sauce)",
+      "portion_estimate": "280",
+      "confidence": "95"
+    },
+    {
+      "name": "Bruschetta or toasted bread with toppings (on small plate)",
+      "portion_estimate": "90",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll or bun (on small plate)",
+      "portion_estimate": "90",
+      "confidence": "90"
+    }
+  ]
+}

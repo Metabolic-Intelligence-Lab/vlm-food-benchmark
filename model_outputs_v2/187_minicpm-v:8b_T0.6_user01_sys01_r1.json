@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Cream cheese",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "50"
+    },
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "uncertain, approx. 120g",
+      "confidence": "60-70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "approx. 50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green beans with seasoning",
+      "portion_estimate": "uncertain, approx.",
+      "confidence": "60-70"
+    },
+    {
+      "name": "Tofu balls or vegetable croquettes",
+      "portion_estimate": "approx. 50g each, total ~120g",
+      "confidence": "80-90"
+    }
+  ]
+}

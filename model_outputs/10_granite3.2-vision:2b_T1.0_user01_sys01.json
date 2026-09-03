@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup, creamy with potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "baked potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "dark bread or pastry",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

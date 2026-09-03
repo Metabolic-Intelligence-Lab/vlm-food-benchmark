@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Carrot",
+      "portion_estimate": "100g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta salad with peas and carrots",
+      "portion_estimate": "300g",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrot cake",
+      "portion_estimate": "150g",
+      "confidence": "50"
+    },
+    {
+      "name": "Apple slices",
+      "portion_estimate": "150g",
+      "confidence": "70"
+    }
+  ]
+}

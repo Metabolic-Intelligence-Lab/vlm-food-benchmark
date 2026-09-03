@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "diced vegetables and meat",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pasta with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "grapes",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "small pieces of meat",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

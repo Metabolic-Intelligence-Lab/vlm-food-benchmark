@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Curry or Stew in bowl",
+      "portion_estimate": "380g",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried or baked pastry with topping",
+      "portion_estimate": "90g",
+      "confidence": "75"
+    },
+    {
+      "name": "Creamy dip or sauce",
+      "portion_estimate": "80g",
+      "confidence": "80"
+    },
+    {
+      "name": "Yellow side item (e.g., bread or tortilla)",
+      "portion_estimate": "180g",
+      "confidence": "70"
+    }
+  ]
+}

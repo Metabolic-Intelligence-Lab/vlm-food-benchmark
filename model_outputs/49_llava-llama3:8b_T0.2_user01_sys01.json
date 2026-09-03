@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta salad",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "red cherry tomatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    }
+  ]
+}

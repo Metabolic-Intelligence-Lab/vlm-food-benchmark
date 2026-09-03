@@ -1,0 +1,38 @@
+### Portion Estimates for Visible Food Items in the Image
+
+Based on the description of the dish (penne pasta, shredded cheese, and ground meat in a tomato-based sauce), here are the **distinct, visible food items** identified. Each estimate is derived from standard portion guidelines, visual inspection of the dish, and typical serving sizes for such meals. Confidence levels reflect how clearly each item is identifiable in the image.
+
+---
+
+#### 1. **Penne Pasta**  
+- **Grams**: 100  
+- **Confidence**: 90%  
+- **Explanation**: The pasta forms the base of the dish and is clearly visible as cooked penne. A standard serving size for penne pasta in a meal (e.g., with sauce and cheese) is typically 100g. The shape and texture of the pasta are distinct, and it is evenly distributed in the dish, making this a highly reliable estimate.
+
+---
+
+#### 2. **Shredded Parmesan Cheese**  
+- **Grams**: 15  
+- **Confidence**: 85%  
+- **Explanation**: The white, shredded cheese on top of the pasta is identifiable as Parmesan. A typical serving of grated Parmesan for a pasta dish is about 15g (1–2 tablespoons). Its texture and color are unmistakable, though the exact amount could vary slightly if the cheese is lightly sprinkled. Confidence is high due to the clear contrast with the pasta and sauce.
+
+---
+
+#### 3. **Ground Meat (in Tomato Sauce)**  
+- **Grams**: 25  
+- **Confidence**: 80%  
+- **Explanation**: The reddish-brown meat chunks are visible in the sauce. Ground meat (e.g., beef or pork) in a tomato sauce is commonly used as a filling or mix-in, and 25g is a reasonable estimate for the visible portion. The meat is slightly distinct from the sauce but appears as small, cooked chunks, so the estimate is based on typical portion sizes for such dishes. Confidence is moderately high due to the visibility of the meat’s texture and color.
+
+---
+
+### Summary Table
+| Item                   | Grams | Confidence (%) |
+|-------------------------|-------|----------------|
+| Penne Pasta             | 100   | 90             |
+| Shredded Parmesan Cheese| 15    | 85             |
+| Ground Meat (in Sauce)  | 25    | 80             |
+
+### Notes:
+- **Sauce**: The tomato-based sauce is part of the dish but is not listed as a standalone item. It is assumed to have a volume of ~200ml for a typical serving (since sauce is often poured over the pasta and cheese), but it is not a distinct "food item" in the same way as the pasta, cheese, and meat.
+- **Accuracy**: These estimates are conservative and based on visual inspection. In reality, portions can vary, but the values provided align with common serving sizes for a balanced meal.  
+- **Why These Items?** These three items are the most prominent and distinct in the image—pasta as the base, cheese as a topping, and meat as a key component. Other elements (e.g., olive oil, herbs) are less visible or not clearly identifiable.

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "orange chicken",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "assorted vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "meatballs",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

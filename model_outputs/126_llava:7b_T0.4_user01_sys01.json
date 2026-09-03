@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "about 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "one",
+      "confidence": "80"
+    },
+    {
+      "name": "Cup of coffee with creamer",
+      "portion_estimate": "125ml",
+      "confidence": "70"
+    },
+    {
+      "name": "Portion of mashed potatoes with butter and herbs",
+      "portion_estimate": "about 150g",
+      "confidence": "60"
+    },
+    {
+      "name": "Rolled-up sandwich with fillings, possibly chicken or turkey",
+      "portion_estimate": "one",
+      "confidence": "70"
+    },
+    {
+      "name": "Baked potato with sour cream and chives",
+      "portion_estimate": "about 150g",
+      "confidence": "60"
+    }
+  ]
+}

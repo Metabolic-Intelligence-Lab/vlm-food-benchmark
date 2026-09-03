@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fruit and vegetable mix with carrots and beets",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "apple with sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "spaghetti with grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "single slice of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "egg and toast with cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

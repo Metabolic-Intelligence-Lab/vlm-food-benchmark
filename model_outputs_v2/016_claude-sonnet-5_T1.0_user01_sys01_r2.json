@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "breaded meat/vegetable cutlet patty",
+      "portion_estimate": "90",
+      "confidence": "55"
+    },
+    {
+      "name": "roasted diced potatoes with carrot cubes",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "shredded carrot and beet salad",
+      "portion_estimate": "100",
+      "confidence": "65"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60",
+      "confidence": "70"
+    },
+    {
+      "name": "plum",
+      "portion_estimate": "60",
+      "confidence": "60"
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "150",
+      "confidence": "50"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken fillet",
+      "portion_estimate": "uncertain, approx. 100-250g",
+      "confidence": "60"
+    },
+    {
+      "name": "Mixed salad greens with shredded carrots and purple cabbage",
+      "portion_estimate": "uncertain, approx. 30-80g",
+      "confidence": "70"
+    },
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": "uncertain, approx. 150-250g",
+      "confidence": "60"
+    },
+    {
+      "name": "Sliced whole grain bread",
+      "portion_estimate": "uncertain, approx. 30-80g",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt with red berry flavoring",
+      "portion_estimate": "uncertain, approx. 150g",
+      "confidence": "60"
+    }
+  ]
+}

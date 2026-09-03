@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "meat (sandwich or baked item)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "green vegetable (broccoli)",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

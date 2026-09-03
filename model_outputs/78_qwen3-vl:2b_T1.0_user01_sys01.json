@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Diced mango",
+      "portion_estimate": "uncertain",
+      "confidence": 90
+    },
+    {
+      "name": "Vegetable soup",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "Apricots",
+      "portion_estimate": "uncertain",
+      "confidence": 95
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Quiche",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    }
+  ]
+}

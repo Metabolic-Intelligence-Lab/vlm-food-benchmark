@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Beans and sausage",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "1 medium apple",
+      "confidence": "90"
+    }
+  ]
+}

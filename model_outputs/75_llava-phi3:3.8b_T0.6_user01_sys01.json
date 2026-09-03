@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "fried rice with green onions and sesame seeds",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "grilled chicken with creamy sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "baked beans with brown gravy",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "freshly-baked roll with sesame seeds",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    }
+  ]
+}

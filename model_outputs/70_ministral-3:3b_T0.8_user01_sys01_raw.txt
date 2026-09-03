@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "onion-based soup in glass dish",
+      "portion_estimate": 200,  // Approximate visual estimation for a typical serving
+      "confidence": 85
+    },
+    {
+      "name": "glass dish (container)",
+      "portion_estimate": "uncertain",
+      "confidence": 40  // Containers are not counted as food items in this response
+    }
+  ]
+}

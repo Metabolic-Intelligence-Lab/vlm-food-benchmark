@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "White plate with orange sauce",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    },
+    {
+      "name": "Plate of food in bowl",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Cup with sauce and spoon",
+      "portion_estimate": "200ml",
+      "confidence": "70"
+    },
+    {
+      "name": "Bagel on a plate in napkin",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Plate with food on it",
+      "portion_estimate": "80g",
+      "confidence": "70"
+    }
+  ]
+}

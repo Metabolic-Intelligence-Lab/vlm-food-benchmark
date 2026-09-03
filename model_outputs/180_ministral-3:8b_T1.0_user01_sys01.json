@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed bean and carrot dish (likely chickpeas and carrots)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "green pasta (penne/pasta with seasoning and grated cheese on top)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "mushroom-based dish with possible filling (potato/mashed vegetable and cheese)",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "yellow apple (whole, unpeeled)",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "pita bread (whole, no filling)",
+      "portion_estimate": "60g",
+      "confidence": 80
+    }
+  ]
+}

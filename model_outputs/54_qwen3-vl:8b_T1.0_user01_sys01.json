@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "rotini pasta",
+      "portion": 150,
+      "confidence": 80
+    },
+    {
+      "name": "water",
+      "portion": 200,
+      "confidence": 80
+    },
+    {
+      "name": "cucumber and cabbage salad",
+      "portion": 150,
+      "confidence": 75
+    },
+    {
+      "name": "mashed cauliflower",
+      "portion": 100,
+      "confidence": 80
+    },
+    {
+      "name": "bread roll",
+      "portion": 60,
+      "confidence": 70
+    },
+    {
+      "name": "yogurt",
+      "portion": 120,
+      "confidence": 70
+    }
+  ]
+}

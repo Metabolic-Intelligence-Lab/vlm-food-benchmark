@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bread or toast",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "roasted nuts or seeds",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "sauce (gravy or dip)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

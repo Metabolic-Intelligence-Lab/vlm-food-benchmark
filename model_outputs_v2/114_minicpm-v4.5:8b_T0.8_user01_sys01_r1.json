@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce and grated cheese",
+      "portion_estimate": "200-250 grams",
+      "confidence": 80
+    },
+    {
+      "name": "bread slice",
+      "portion_estimate": "50 grams",
+      "confidence": 80
+    },
+    {
+      "name": "potato wedges",
+      "portion_estimate": "100-150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "breaded cutlet (likely chicken or fish)",
+      "portion_estimate": "100-120 grams",
+      "confidence": 70
+    },
+    {
+      "name": "tomato juice or sauce (in red container)",
+      "portion_estimate": "40 grams",
+      "confidence": 70
+    }
+  ]
+}

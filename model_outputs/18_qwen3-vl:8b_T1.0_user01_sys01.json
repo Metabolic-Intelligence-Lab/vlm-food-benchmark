@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Salad (with lettuce, tomatoes, cucumbers)",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Grilled chicken",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "Mashed potatoes (as a side)",
+      "portion_estimate": "125g",
+      "confidence": 95
+    },
+    {
+      "name": "Water",
+      "portion_estimate": "250ml",
+      "confidence": 95
+    },
+    {
+      "name": "Red wine",
+      "portion_estimate": "150ml",
+      "confidence": 95
+    }
+  ]
+}

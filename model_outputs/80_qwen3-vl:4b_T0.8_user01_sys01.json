@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed rice and vegetable medley",
+      "portion_estimate": "200 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Roasted diced potatoes",
+      "portion_estimate": "120 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Omelette with meat",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Boiled egg (wrapped egg)",
+      "portion_estimate": "50 grams",
+      "confidence": 95
+    },
+    {
+      "name": "Yogurt or custard",
+      "portion_estimate": "100 grams",
+      "confidence": 95
+    }
+  ]
+}

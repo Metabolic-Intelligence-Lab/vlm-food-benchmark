@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni and Cheese",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "Small Roll",
+      "portion_estimate": "50g",
+      "confidence": 70
+    },
+    {
+      "name": "Side Salad with Greens",
+      "portion_estimate": "100g",
+      "confidence": 60
+    }
+  ]
+}

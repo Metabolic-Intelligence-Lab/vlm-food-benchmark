@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Spaghetti with red sauce and herbs",
+      "portion_estimate": "approx. 150g (served with a side of Parmesan cheese)",
+      "confidence": "90"
+    },
+    {
+      "name": "Pasta Alfredo",
+      "portion_estimate": "approximately 125g (served without sauce)",
+      "confidence": "70"
+    },
+    {
+      "name": "Chicken Parmesan with side of pasta and vegetables",
+      "portion_estimate": "approx. 250g with a scoop of mashed potatoes",
+      "confidence": "80"
+    }
+  ]
+}

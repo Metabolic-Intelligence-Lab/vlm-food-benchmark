@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "tomato sauce with pasta",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "boiled green vegetable - possibly kale",
+      "portion_estimate": "60",
+      "confidence": "75"
+    },
+    {
+      "name": "potato slice",
+      "portion_estimate": "30",
+      "confidence": "80"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "lettuce",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "potato",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "cheese sauce",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "hamburger bun",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "drink",
+      "portion_estimate": "200",
+      "confidence": "70"
+    }
+  ]
+}

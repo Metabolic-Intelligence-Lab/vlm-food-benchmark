@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spiral pasta mix",
+      "portion_estimate": "250 g",
+      "confidence": 95
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "150 g",
+      "confidence": 90
+    },
+    {
+      "name": "carrot sticks",
+      "portion_estimate": "70 g",
+      "confidence": 85
+    },
+    {
+      "name": "ham cubes",
+      "portion_estimate": "30 g",
+      "confidence": 80
+    },
+    {
+      "name": "olives",
+      "portion_estimate": "20 g",
+      "confidence": 88
+    }
+  ]
+}

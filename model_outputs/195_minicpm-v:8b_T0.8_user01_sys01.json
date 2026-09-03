@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Chili",
+      "portion_estimate": "150-200g",
+      "confidence": 85
+    },
+    {
+      "name": "Macaroni and Cheese with Protein",
+      "portion_estimate": "uncertain, approx. 300g",
+      "confidence": 60
+    },
+    {
+      "name": "Chopped Potatoes",
+      "portion_estimate": "25-100g (estimated total amount)",
+      "confidence": 90
+    }
+  ]
+}

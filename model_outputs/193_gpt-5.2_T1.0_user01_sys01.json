@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "lentil/vegetable soup (orange-colored, possibly red lentil)",
+      "portion_estimate": "320 g",
+      "confidence": "70"
+    },
+    {
+      "name": "crumbled fried/breaded chicken pieces (on small plate)",
+      "portion_estimate": "150 g",
+      "confidence": "55"
+    },
+    {
+      "name": "bread roll (small, packaged)",
+      "portion_estimate": "55 g",
+      "confidence": "75"
+    },
+    {
+      "name": "orange (whole)",
+      "portion_estimate": "140 g",
+      "confidence": "80"
+    },
+    {
+      "name": "sparkling water or clear carbonated beverage (in plastic cups)",
+      "portion_estimate": "500 g",
+      "confidence": "65"
+    }
+  ]
+}

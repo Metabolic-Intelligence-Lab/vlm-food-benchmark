@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "1/2 cup to 1 cup",
+      "confidence": 90
+    },
+    {
+      "name": "Pasta Dish",
+      "portion_estimate": "1/2 cup to 1 cup",
+      "confidence": 90
+    },
+    {
+      "name": "Dessert",
+      "portion_estimate": "1/2 cup to 1 cup",
+      "confidence": 60
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "1/2 slice to 1 slice",
+      "confidence": 60
+    },
+    {
+      "name": "Drink",
+      "portion_estimate": "1/2 cup to 1 cup",
+      "confidence": 60
+    }
+  ]
+}

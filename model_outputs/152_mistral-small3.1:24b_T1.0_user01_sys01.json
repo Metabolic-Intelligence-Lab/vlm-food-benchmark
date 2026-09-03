@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spinach and cheese sandwich",
+      "portion_estimate": "180",
+      "confidence": "80"
+    },
+    {
+      "name": "roasted mixed vegetables",
+      "portion_estimate": "225",
+      "confidence": "85"
+    },
+    {
+      "name": "steamed pasta with pesto and raisins",
+      "portion_estimate": "250",
+      "confidence": "80"
+    },
+    {
+      "name": "plain bagel",
+      "portion_estimate": "85",
+      "confidence": "85"
+    },
+    {
+      "name": "fresh plums",
+      "portion_estimate": "125",
+      "confidence": "90"
+    }
+  ]
+}

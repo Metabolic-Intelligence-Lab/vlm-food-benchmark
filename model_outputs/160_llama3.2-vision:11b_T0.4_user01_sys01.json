@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "200-300g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "100-150g",
+      "confidence": "70"
+    },
+    {
+      "name": "Roll",
+      "portion_estimate": "50-100g",
+      "confidence": "60"
+    }
+  ]
+}

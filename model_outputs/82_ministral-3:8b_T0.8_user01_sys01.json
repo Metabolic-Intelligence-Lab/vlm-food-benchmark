@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "chopped salad with lettuce and tomatoes",
+      "portion_estimate": "150",
+      "confidence": 85
+    },
+    {
+      "name": "cheesy pasta or baked pasta dish",
+      "portion_estimate": "250",
+      "confidence": 80
+    },
+    {
+      "name": "pickled or boiled green onions",
+      "portion_estimate": "30",
+      "confidence": 75
+    },
+    {
+      "name": "baked or boiled onion slices",
+      "portion_estimate": "80",
+      "confidence": 85
+    },
+    {
+      "name": "packaged cream cheese or yogurt-based dip/spread",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "packaged seaweed salad or nori",
+      "portion_estimate": "35",
+      "confidence": 75
+    },
+    {
+      "name": "plastic or disposable wrap (not food)",
+      "portion_estimate": "uncertain",
+      "confidence": 10
+    },
+    {
+      "name": "clear plastic cup (likely for drink)",
+      "portion_estimate": "uncertain",
+      "confidence": 5
+    }
+  ]
+}

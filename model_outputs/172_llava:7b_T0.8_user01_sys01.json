@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Salad",
+      "portion_estimate": "uncertain, but could be approximately 50-70 grams of leafy greens and other ingredients visible in the image",
+      "confidence": "60"
+    },
+    {
+      "name": "Pasta",
+      "portion_estimate": "approximate weight in grams: 120",
+      "confidence": "70"
+    },
+    {
+      "name": "Peas",
+      "portion_estimate": "uncertain, but could be approximately 30-50 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Orange slice",
+      "portion_estimate": "uncertain, but appears to be a single orange slice, so approximate weight in grams: 20-30",
+      "confidence": "60"
+    }
+  ]
+}

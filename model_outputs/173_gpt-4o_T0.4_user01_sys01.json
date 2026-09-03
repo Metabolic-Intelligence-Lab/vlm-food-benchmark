@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green beans",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "breaded potato balls",
+      "portion_estimate": "80 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "slice of bread",
+      "portion_estimate": "30 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "130 grams",
+      "confidence": "90"
+    }
+  ]
+}

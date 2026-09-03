@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "meatballs (ground meat)",
+      "portion_estimate": "60",
+      "confidence": "80"
+    },
+    {
+      "name": "carrot slices",
+      "portion_estimate": "45",
+      "confidence": "85"
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "80",
+      "confidence": "75"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "portion_estimate": "5",
+      "confidence": "65"
+    },
+    {
+      "name": "water (in glass)",
+      "portion_estimate": "240",
+      "confidence": "90"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with sauce",
+      "portion_estimate": "200",
+      "confidence": 95
+    },
+    {
+      "name": "steamed green leafy vegetables (likely spinach or kale)",
+      "portion_estimate": "150",
+      "confidence": 90
+    },
+    {
+      "name": "cornbread or cornmeal-based breading on corn",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "baguette or sandwich roll (partially visible in plastic wrap)",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "50",
+      "confidence": 80
+    }
+  ]
+}

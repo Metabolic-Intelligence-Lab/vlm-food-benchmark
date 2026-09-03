@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pizza",
+      "portion_estimate": "200g - 300g",
+      "confidence": "60"
+    },
+    {
+      "name": "roasted vegetables (carrots, potatoes)",
+      "portion_estimate": "150g - 200g",
+      "confidence": "80"
+    },
+    {
+      "name": "rice dish with vegetables (peas and corn)",
+      "portion_estimate": "150g - 200g",
+      "confidence": "60"
+    },
+    {
+      "name": "dessert rolls (possibly bread rolls or buns)",
+      "portion_estimate": "3 - 4 pieces",
+      "confidence": "40"
+    }
+  ]
+}

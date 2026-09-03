@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll (plain bun)",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "farfalle pasta (plain, cooked)",
+      "portion_estimate": "170 g",
+      "confidence": "75"
+    },
+    {
+      "name": "breaded patty/cutlet with red sauce and shredded garnish",
+      "portion_estimate": "140 g",
+      "confidence": "65"
+    },
+    {
+      "name": "mashed cauliflower or cauliflower rice (cooked)",
+      "portion_estimate": "110 g",
+      "confidence": "50"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "120 g",
+      "confidence": "85"
+    }
+  ]
+}

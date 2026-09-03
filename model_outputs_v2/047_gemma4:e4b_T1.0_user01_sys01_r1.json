@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bread rolls (wrapped)",
+      "portion_estimate": "130",
+      "confidence": "95"
+    },
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "280",
+      "confidence": "90"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Omelet or fried eggs",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "Water (beverage)",
+      "portion_estimate": "320",
+      "confidence": "95"
+    }
+  ]
+}

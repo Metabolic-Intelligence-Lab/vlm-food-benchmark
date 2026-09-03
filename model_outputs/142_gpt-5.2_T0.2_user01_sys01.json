@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "boiled/steamed cauliflower florets",
+      "portion_estimate": "200 g",
+      "confidence": "70"
+    },
+    {
+      "name": "white beans (cooked)",
+      "portion_estimate": "160 g",
+      "confidence": "72"
+    },
+    {
+      "name": "cooked fish fillet (likely mackerel or similar)",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "lemon wedges/pieces",
+      "portion_estimate": "10 g",
+      "confidence": "65"
+    },
+    {
+      "name": "fresh parsley garnish",
+      "portion_estimate": "3 g",
+      "confidence": "60"
+    },
+    {
+      "name": "slice of rustic bread",
+      "portion_estimate": "30 g",
+      "confidence": "75"
+    },
+    {
+      "name": "plums (whole)",
+      "portion_estimate": "140 g",
+      "confidence": "80"
+    }
+  ]
+}

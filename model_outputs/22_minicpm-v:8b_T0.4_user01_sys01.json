@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green Beans with Carrots",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Mashed Sweet Potatoes or Yam",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Rice with Vegetables and Protein (possibly chicken)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Whole Grain Bread or Flatbread",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Cottage Cheese with Red Sauce (possibly salsa)",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

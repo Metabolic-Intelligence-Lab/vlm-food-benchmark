@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "savory pastry slice",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "cheese-topped soup",
+      "portion_estimate": "300g",
+      "confidence": 95
+    },
+    {
+      "name": "roasted Brussels sprouts",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "whole green apple",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": 90
+    }
+  ]
+}

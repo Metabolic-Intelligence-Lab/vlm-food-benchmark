@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with red sauce and shredded cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "noodles (spaghetti or similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "mixed vegetable dish (carrots and broccoli)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "pizza slice",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "loaf of bread",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "meatballs",
+      "portion_estimate": "225",
+      "confidence": "85"
+    },
+    {
+      "name": "ketchup",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "savory pastry",
+      "portion_estimate": "110",
+      "confidence": "85"
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": "180",
+      "confidence": "90"
+    },
+    {
+      "name": "parmesan cheese",
+      "portion_estimate": "10",
+      "confidence": "90"
+    },
+    {
+      "name": "plain bun",
+      "portion_estimate": "uncertain",
+      "confidence": "55"
+    },
+    {
+      "name": "lemon",
+      "portion_estimate": "60",
+      "confidence": "90"
+    },
+    {
+      "name": "cucumber",
+      "portion_estimate": "300",
+      "confidence": "90"
+    }
+  ]
+}

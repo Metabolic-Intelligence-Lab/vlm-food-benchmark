@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Parmesan",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "Vegetable and Cheese Tart",
+      "portion_estimate": "80g",
+      "confidence": 70
+    },
+    {
+      "name": "Mixed Vegetables",
+      "portion_estimate": "100g",
+      "confidence": 80
+    },
+    {
+      "name": "Grapes",
+      "portion_estimate": "50g",
+      "confidence": 85
+    }
+  ]
+}

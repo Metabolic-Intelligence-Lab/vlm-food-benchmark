@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Baked bread rolls",
+      "portion_estimate": "120g",
+      "confidence": "90"
+    },
+    {
+      "name": "Spiced savory snacks (roasted or fried)",
+      "portion_estimate": "180g",
+      "confidence": "80"
+    },
+    {
+      "name": "Cooked lentils or pulses",
+      "portion_estimate": "280g",
+      "confidence": "90"
+    },
+    {
+      "name": "Water or clear beverage",
+      "portion_estimate": "320g",
+      "confidence": "95"
+    }
+  ]
+}

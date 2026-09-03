@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "uncertain (approx. a quarter of bun visible)",
+      "confidence": "50"
+    },
+    {
+      "name": "porridge or oatmeal with sugar",
+      "portion_estimate": "approximately 1/3 cup",
+      "confidence": "70"
+    },
+    {
+      "name": "bowtie pasta salad with pesto dressing and grated parmesan cheese",
+      "portion_estimate": "approx. 2 cups",
+      "confidence": "90"
+    },
+    {
+      "name": "quiche or cheesy pastry served on a plate",
+      "portion_estimate": "uncertain (total visible approx. half)",
+      "confidence": "50"
+    },
+    {
+      "name": "brussel sprouts, cooked and saut\u00e9ed",
+      "portion_estimate": "approximate 1 cup",
+      "confidence": "80"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "uncertain (total visible approx. half)",
+      "confidence": "65"
+    }
+  ]
+}

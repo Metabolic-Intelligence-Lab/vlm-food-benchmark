@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread",
+      "portion_estimate": "uncertain, approx. slice size",
+      "confidence": "50"
+    },
+    {
+      "name": "oatmeal with butter and nuts",
+      "portion_estimate": "uncertain, bowl full",
+      "confidence": "60"
+    },
+    {
+      "name": "pancake",
+      "portion_estimate": "uncertain, approx. 1/2 of plate size",
+      "confidence": "50"
+    },
+    {
+      "name": "sauteed brussels sprouts with cheese sauce",
+      "portion_estimate": "uncertain, approximately half a bowl full",
+      "confidence": "60"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "approx. medium size banana",
+      "confidence": "80"
+    }
+  ]
+}

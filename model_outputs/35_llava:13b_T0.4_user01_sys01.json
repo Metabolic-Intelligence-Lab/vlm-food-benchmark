@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta dish with cheese and tomato sauce",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "65"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "approximately 75 grams",
+      "confidence": "45"
+    },
+    {
+      "name": "meat patty or burger",
+      "portion_estimate": "approximately 100 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "sliced watermelon",
+      "portion_estimate": "approximately 250 grams",
+      "confidence": "80"
+    }
+  ]
+}

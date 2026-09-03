@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "creamy chicken pieces",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "seasoned green beans",
+      "portion_estimate": "100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "saut\u00e9ed green leafy vegetables with potatoes",
+      "portion_estimate": "120 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "130 grams",
+      "confidence": "90"
+    }
+  ]
+}

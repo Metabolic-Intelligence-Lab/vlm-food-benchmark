@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Broccoli soup",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Vegetable croquettes",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100",
+      "confidence": 70
+    }
+  ]
+}

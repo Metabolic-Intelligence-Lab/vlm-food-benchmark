@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "savory bread roll",
+      "portion_estimate": "uncertain (approximate slice)",
+      "confidence": "50"
+    },
+    {
+      "name": "potato stew with cheese",
+      "portion_estimate": "6 oz portion size, assuming bowl is standard diner plate sized",
+      "confidence": "80"
+    },
+    {
+      "name": "red potatoes",
+      "portion_estimate": "uncertain (approximate medium-sized)",
+      "confidence": "70"
+    },
+    {
+      "name": "apple and red apple",
+      "portion_estimate": "uncertain, whole fruit size assumed for both",
+      "confidence": "65"
+    },
+    {
+      "name": "mixed vegetables on plate (carrots, Brussels sprouts)",
+      "portion_estimate": "approx. 30g mixed carrots and Brussels sprouts per carrot slice or half-sized portion of dish.",
+      "confidence": "85"
+    }
+  ]
+}

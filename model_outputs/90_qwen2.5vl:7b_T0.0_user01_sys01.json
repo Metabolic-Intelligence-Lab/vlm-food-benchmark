@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "White rice",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "Apple",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "Mixed vegetables (carrots, potatoes, and leafy greens)",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

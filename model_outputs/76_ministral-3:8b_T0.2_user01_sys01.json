@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with meatballs and vegetables",
+      "portion_estimate": "400 grams (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "quinoa or couscous with saut\u00e9ed greens and herbs",
+      "portion_estimate": "150 grams",
+      "confidence": 75
+    },
+    {
+      "name": "bread roll (plain)",
+      "portion_estimate": "50 grams",
+      "confidence": 70
+    },
+    {
+      "name": "whole roasted plum (or similar stone fruit)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "shrimp or scallop wrapped in leaf (likely lettuce or cabbage)",
+      "portion_estimate": "80 grams (uncertain)",
+      "confidence": 65
+    }
+  ]
+}

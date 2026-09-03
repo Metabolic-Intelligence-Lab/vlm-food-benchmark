@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni pasta with cheese",
+      "portion_estimate": "150 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "lentils",
+      "portion_estimate": "100 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "stuffed pasta shells with sauce",
+      "portion_estimate": "80 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "grilled mushroom slice",
+      "portion_estimate": "15 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "pear",
+      "portion_estimate": "150 grams",
+      "confidence": "85"
+    }
+  ]
+}

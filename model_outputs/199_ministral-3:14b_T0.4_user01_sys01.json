@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with grated cheese",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "sliced baguette or round bread roll",
+      "portion_estimate": "120g",
+      "confidence": 80
+    },
+    {
+      "name": "peas with diced ham or bacon",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "quiche or savory tart with cheese and green toppings (likely spinach or chives)",
+      "portion_estimate": "180g",
+      "confidence": 75
+    }
+  ]
+}

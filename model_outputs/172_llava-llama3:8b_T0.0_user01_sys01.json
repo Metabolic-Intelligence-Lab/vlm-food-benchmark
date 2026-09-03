@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "green peas",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "salad composed of mixed greens and red onions",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "orange-colored noodles",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

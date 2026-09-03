@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "golden-brown fish",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "green and purple vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "sweet potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

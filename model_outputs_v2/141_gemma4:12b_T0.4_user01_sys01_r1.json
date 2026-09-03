@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "whole grain bread slice",
+      "portion_estimate": "60g",
+      "confidence": 95
+    },
+    {
+      "name": "broccoli and chicken salad",
+      "portion_estimate": "250g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted chickpeas",
+      "portion_estimate": "130g",
+      "confidence": 95
+    },
+    {
+      "name": "squeeze sauce",
+      "portion_estimate": "40g",
+      "confidence": 90
+    }
+  ]
+}

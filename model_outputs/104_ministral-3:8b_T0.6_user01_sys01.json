@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "broth-based soup with visible chunks and grated cheese sprinkled on top",
+      "portion_estimate": "300g (estimated based on bowl size and typical serving)",
+      "confidence": 70
+    },
+    {
+      "name": "steamed green peas and baby carrots mixed",
+      "portion_estimate": "250g (estimated based on plate size and volume)",
+      "confidence": 75
+    },
+    {
+      "name": "packaged yogurt (red container) with spoon",
+      "portion_estimate": "150g (standard yogurt cup size)",
+      "confidence": 85
+    },
+    {
+      "name": "packaged bread roll or roll in clear plastic wrap",
+      "portion_estimate": "80g (estimated based on size)",
+      "confidence": 70
+    }
+  ]
+}

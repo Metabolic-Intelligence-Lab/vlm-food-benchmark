@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Puri or Bhatura (fried Indian bread)",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Cooked leafy greens (e.g., saag/spinach)",
+      "portion_estimate": "120g",
+      "confidence": "85"
+    },
+    {
+      "name": "Vegetable fritter or Pakora",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "Fried snack pieces or Puri remnants",
+      "portion_estimate": "90g",
+      "confidence": "80"
+    }
+  ]
+}

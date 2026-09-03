@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Sandwich",
+      "portion_estimate": "30g",
+      "confidence": "100"
+    },
+    {
+      "name": "Sauerkraut",
+      "portion_estimate": "10g",
+      "confidence": "100"
+    },
+    {
+      "name": "Pastry",
+      "portion_estimate": "15g",
+      "confidence": "100"
+    }
+  ]
+}

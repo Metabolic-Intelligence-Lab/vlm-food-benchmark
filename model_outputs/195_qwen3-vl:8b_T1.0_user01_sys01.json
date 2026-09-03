@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "stir-fried pork with sauce",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "roasted diced potatoes",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "ground meat",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "ice water",
+      "portion_estimate": "200",
+      "confidence": "85"
+    }
+  ]
+}

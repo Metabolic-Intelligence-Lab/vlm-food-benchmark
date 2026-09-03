@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad with shredded carrots, cucumber, and greens",
+      "portion_estimate": "200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "whole wheat roll or bun (wrapped in plastic)",
+      "portion_estimate": "70 grams",
+      "confidence": 80
+    },
+    {
+      "name": "saut\u00e9ed or steamed greens (likely spinach or collard greens)",
+      "portion_estimate": "150 grams",
+      "confidence": 85
+    },
+    {
+      "name": "sauce-covered baked or fried dish (likely a quiche or casserole piece)",
+      "portion_estimate": "100 grams",
+      "confidence": 80
+    },
+    {
+      "name": "plums (3 visible)",
+      "portion_estimate": "150 grams (total for all three)",
+      "confidence": 85
+    }
+  ]
+}

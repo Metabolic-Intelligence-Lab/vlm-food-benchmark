@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta with tomato sauce and grated cheese",
+      "portion_estimate": "250 grams",
+      "confidence": 90
+    },
+    {
+      "name": "small patty (likely a mini burger or meatball) with tomato sauce and cheese",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    },
+    {
+      "name": "roasted or saut\u00e9ed diced potatoes with herbs",
+      "portion_estimate": "100 grams",
+      "confidence": 90
+    },
+    {
+      "name": "small container of yogurt (label 'Yomo Touservice')",
+      "portion_estimate": "50 grams",
+      "confidence": 90
+    },
+    {
+      "name": "packaged utensils (fork and knife)",
+      "portion_estimate": "uncertain",
+      "confidence": 5
+    }
+  ]
+}

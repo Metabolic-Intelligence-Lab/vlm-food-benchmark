@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "ditalini pasta",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "carrot slices",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "ground beef",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "green peas",
+      "portion_estimate": "30",
+      "confidence": "85"
+    },
+    {
+      "name": "cabbage",
+      "portion_estimate": "20",
+      "confidence": "85"
+    }
+  ]
+}

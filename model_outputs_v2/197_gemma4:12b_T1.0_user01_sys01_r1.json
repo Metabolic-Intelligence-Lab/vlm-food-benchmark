@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chunks of meat or tofu in spicy sauce",
+      "portion_estimate": "180g",
+      "confidence": 90
+    },
+    {
+      "name": "sauteed green vegetables",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "fried meatballs or tofu balls",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "tangerine",
+      "portion_estimate": "150g",
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "tomato mozzarella salad",
+      "portion_estimate": "uncertain, approx. weight of plate's contents",
+      "confidence": "50"
+    },
+    {
+      "name": "potato wedges",
+      "portion_estimate": "uncertain, approx. 1/3-2/5th the size of white plate",
+      "confidence": "60"
+    },
+    {
+      "name": "green tea with milk",
+      "portion_estimate": "uncertain, approx. half full glass",
+      "confidence": "40"
+    },
+    {
+      "name": "apple juice (125ml)",
+      "portion_estimate": "uncertain, approx. 3/8th of container's capacity",
+      "confidence": "60"
+    },
+    {
+      "name": "white bread roll",
+      "portion_estimate": "uncertain, size of typical slice",
+      "confidence": "75"
+    }
+  ]
+}

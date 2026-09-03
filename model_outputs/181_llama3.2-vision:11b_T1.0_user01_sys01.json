@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spaghetti",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "100g",
+      "confidence": "70"
+    },
+    {
+      "name": "margarita pizza",
+      "portion_estimate": "150g",
+      "confidence": "75"
+    },
+    {
+      "name": "chocolate bar",
+      "portion_estimate": "100g",
+      "confidence": "60"
+    }
+  ]
+}

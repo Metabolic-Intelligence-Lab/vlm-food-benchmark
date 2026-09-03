@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "soup with broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "bread or crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "cheese and crackers",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

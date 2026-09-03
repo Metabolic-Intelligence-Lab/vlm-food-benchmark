@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrot slices",
+      "portion_estimate": "150g (approx.)",
+      "confidence": 95
+    },
+    {
+      "name": "carrot-based patty (green-topped)",
+      "portion_estimate": "50g (approx.)",
+      "confidence": 85
+    },
+    {
+      "name": "fettuccine pasta with cheese",
+      "portion_estimate": "200g (approx.)",
+      "confidence": 90
+    },
+    {
+      "name": "blueberries",
+      "portion_estimate": "3 medium blueberries (~15g total)",
+      "confidence": 80
+    },
+    {
+      "name": "packaged flour mixture (looks like a muffin batter)",
+      "portion_estimate": "100g (approx.)",
+      "confidence": 70
+    }
+  ]
+}

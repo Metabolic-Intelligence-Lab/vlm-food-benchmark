@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "green soup",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "meat cutlet with zucchini",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": "60"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "120",
+      "confidence": "60"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "150",
+      "confidence": "60"
+    }
+  ]
+}

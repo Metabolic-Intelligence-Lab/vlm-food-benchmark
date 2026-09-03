@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked white fish fillet with breadcrumbs/herbs",
+      "portion_estimate": "120 g",
+      "confidence": "82"
+    },
+    {
+      "name": "cooked sliced carrots",
+      "portion_estimate": "90 g",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked lentils with small carrot pieces",
+      "portion_estimate": "210 g",
+      "confidence": "92"
+    },
+    {
+      "name": "water in cup",
+      "portion_estimate": "200 g",
+      "confidence": "95"
+    },
+    {
+      "name": "sealed yogurt cup, flavor uncertain",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    }
+  ]
+}

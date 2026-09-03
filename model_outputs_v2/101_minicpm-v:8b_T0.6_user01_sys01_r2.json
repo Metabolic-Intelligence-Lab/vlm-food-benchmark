@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with Alfredo Sauce",
+      "portion_estimate": "uncertain, approx. 200g - 300g",
+      "confidence": "65"
+    },
+    {
+      "name": "Canned Tuna",
+      "portion_estimate": "uncertain, approx. 80g to 100g",
+      "confidence": "70"
+    },
+    {
+      "name": "Whole Grain Bread Roll",
+      "portion_estimate": "uncertain, approx. 50g - 60g",
+      "confidence": "55"
+    },
+    {
+      "name": "Peanut Butter",
+      "portion_estimate": "uncertain, approx. 30g to 40g",
+      "confidence": "70"
+    },
+    {
+      "name": "Yogurt with Berries",
+      "portion_estimate": "uncertain, approx. 150g - 200g",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked pasta with cheese",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "vegetable mix (zucchini and potatoes)",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "vegetable frittata slice",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150",
+      "confidence": "85"
+    }
+  ]
+}

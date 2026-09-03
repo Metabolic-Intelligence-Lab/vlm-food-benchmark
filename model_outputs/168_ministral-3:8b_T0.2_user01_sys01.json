@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni pasta",
+      "portion_estimate": "200 grams (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "diced carrots",
+      "portion_estimate": "100 grams (uncertain)",
+      "confidence": 70
+    },
+    {
+      "name": "chicken breast (shredded)",
+      "portion_estimate": "100 grams (uncertain)",
+      "confidence": 65
+    },
+    {
+      "name": "cauliflower florets",
+      "portion_estimate": "50 grams (uncertain)",
+      "confidence": 60
+    },
+    {
+      "name": "green peas",
+      "portion_estimate": "30 grams (uncertain)",
+      "confidence": 60
+    }
+  ]
+}

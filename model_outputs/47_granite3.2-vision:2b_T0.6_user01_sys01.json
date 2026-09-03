@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta with sauce/cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "snap peas or string beans",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "grilled cheese or stuffed vegetable",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

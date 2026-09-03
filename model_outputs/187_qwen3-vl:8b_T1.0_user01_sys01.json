@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Baked pasta with cheese",
+      "portion_estimate": "175g",
+      "confidence": "80"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "120g",
+      "confidence": "80"
+    },
+    {
+      "name": "Meatballs",
+      "portion_estimate": "70g",
+      "confidence": "70"
+    },
+    {
+      "name": "Mushrooms",
+      "portion_estimate": "20g",
+      "confidence": "70"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Diet Coke",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    }
+  ]
+}

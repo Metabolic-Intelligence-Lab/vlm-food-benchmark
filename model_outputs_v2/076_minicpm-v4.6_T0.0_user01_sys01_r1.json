@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta salad",
+      "portion_estimate": "250 g",
+      "confidence": 90
+    },
+    {
+      "name": "couscous salad",
+      "portion_estimate": "150 g",
+      "confidence": 85
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "100 g",
+      "confidence": 70
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 g",
+      "confidence": 80
+    },
+    {
+      "name": "baked dish (omelet)",
+      "portion_estimate": "150 g",
+      "confidence": 90
+    }
+  ]
+}

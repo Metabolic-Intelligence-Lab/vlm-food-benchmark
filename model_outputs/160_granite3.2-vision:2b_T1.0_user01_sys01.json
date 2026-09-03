@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded round item",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "sliced avocado",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "quiche or frittata",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "yellowish substance",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "hard-boiled egg",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    }
+  ]
+}

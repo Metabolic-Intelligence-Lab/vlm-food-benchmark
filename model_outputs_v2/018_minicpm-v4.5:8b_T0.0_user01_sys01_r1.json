@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "150-200 grams",
+      "confidence": 85
+    },
+    {
+      "name": "coleslaw (purple and green cabbage, carrot)",
+      "portion_estimate": "100-150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "water (in clear glass)",
+      "portion_estimate": "200-250 ml",
+      "confidence": 90
+    },
+    {
+      "name": "red beverage (possibly juice or soda)",
+      "portion_estimate": "100-150 ml",
+      "confidence": 70
+    }
+  ]
+}

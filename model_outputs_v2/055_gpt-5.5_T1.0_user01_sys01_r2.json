@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "breaded cutlet, protein unspecified",
+      "portion_estimate": "90 g",
+      "confidence": "70"
+    },
+    {
+      "name": "mixed diced vegetables with mushrooms",
+      "portion_estimate": "120 g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked spinach or leafy greens",
+      "portion_estimate": "100 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200 g",
+      "confidence": "95"
+    },
+    {
+      "name": "uncertain packaged soft cheese or dairy spread",
+      "portion_estimate": "20 g",
+      "confidence": "55"
+    }
+  ]
+}

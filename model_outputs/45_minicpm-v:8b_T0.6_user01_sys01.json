@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken",
+      "portion_estimate": "uncertain, approximately a quarter of a plate",
+      "confidence": "60"
+    },
+    {
+      "name": "green beans with corn and tomato on top",
+      "portion_estimate": "uncertain, possibly half a cup for the vegetables",
+      "confidence": "50"
+    },
+    {
+      "name": "boiled egg",
+      "portion_estimate": "approximately 7 grams per gram weight estimate is uncertain",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Green beans",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 60
+    },
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 70
+    },
+    {
+      "name": "Egg",
+      "portion_estimate": "approximate weight in grams",
+      "confidence": 50
+    }
+  ]
+}

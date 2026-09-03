@@ -1,0 +1,28 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "100g",
+      "confidence": "90"
+    },
+    {
+      "name": "Mashed Potatoes",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "Biscuit",
+      "portion_estimate": "20g",
+      "confidence": "70"
+    },
+    {
+      "name": "Coffee Creamer",
+      "portion_estimate": "50ml",
+      "confidence": "60"
+    }
+  ],
+  "tablecloth": {
+    "color": "white",
+    "pattern": "dots"
+  }
+}

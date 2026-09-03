@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "seafood with sauce or cream",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "fried potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "poultry",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "meat or sausage",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

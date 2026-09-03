@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "bread (rolls or slices)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "baked good (quiche or pie)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "dessert or pudding (custard or cream-based)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "chicken or similar meat with stewed vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    }
+  ]
+}

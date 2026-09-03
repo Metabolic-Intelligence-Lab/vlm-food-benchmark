@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "macaroni and cheese",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "spinach and cheese turnover",
+      "portion_estimate": "75",
+      "confidence": "75"
+    },
+    {
+      "name": "mixed greens salad",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "100",
+      "confidence": "90"
+    }
+  ]
+}

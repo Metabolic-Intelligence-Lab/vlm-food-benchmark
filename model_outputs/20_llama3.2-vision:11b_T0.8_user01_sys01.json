@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "carrots",
+      "portion_estimate": "100",
+      "confidence": "100"
+    },
+    {
+      "name": "chicken wings",
+      "portion_estimate": "150",
+      "confidence": "100"
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": "100",
+      "confidence": "100"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "100",
+      "confidence": "100"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "100"
+    }
+  ]
+}

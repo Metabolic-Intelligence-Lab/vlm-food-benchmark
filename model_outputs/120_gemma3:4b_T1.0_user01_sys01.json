@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Mashed Potato",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Chicken and Vegetable Soup",
+      "portion_estimate": "250g",
+      "confidence": 75
+    },
+    {
+      "name": "Yomo Sandwich",
+      "portion_estimate": "60g",
+      "confidence": 65
+    }
+  ]
+}

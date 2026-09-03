@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of green soup",
+      "portion_estimate": "300",
+      "confidence": "85"
+    },
+    {
+      "name": "bowl of vegetable medley",
+      "portion_estimate": "100",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "80",
+      "confidence": "65"
+    }
+  ]
+}

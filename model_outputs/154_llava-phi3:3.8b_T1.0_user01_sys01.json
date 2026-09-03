@@ -1,0 +1,30 @@
+{
+  "tray": [
+    {
+      "name": "Bread Roll",
+      "portion_estimate": "100g"
+    },
+    {
+      "name": "Celery Sticks with Carrot Sticks and Cheese Cubes",
+      "portion_estimate": "350g"
+    },
+    {
+      "name": "Pasta with Parmesan Cheese",
+      "portion_estimate": "450g"
+    },
+    {
+      "name": "Bottled Beer",
+      "portion_estimate": "125g"
+    }
+  ],
+  "tablecloth": [
+    {
+      "name": "Paper Linen Bag",
+      "position": "bread roll"
+    },
+    {
+      "name": "Strawberries in a paper bag",
+      "position": "cheese cubes"
+    }
+  ]
+}

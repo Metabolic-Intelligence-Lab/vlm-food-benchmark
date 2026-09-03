@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pizza",
+      "portion_estimate": "1 slice",
+      "confidence": "80"
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "1 serving",
+      "confidence": "70"
+    },
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "1 serving",
+      "confidence": "80"
+    },
+    {
+      "name": "Chicken breast",
+      "portion_estimate": "1 serving",
+      "confidence": "70"
+    },
+    {
+      "name": "Coleslaw",
+      "portion_estimate": "1 serving",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled chicken breast",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Steamed broccoli",
+      "portion_estimate": "120 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Mashed potatoes with herbs",
+      "portion_estimate": "150 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Cooked carrots",
+      "portion_estimate": "70 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "50"
+    },
+    {
+      "name": "Cooked green beans",
+      "portion_estimate": "70 grams",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta Soup",
+      "portion_estimate": "150g",
+      "confidence": 85
+    },
+    {
+      "name": "Green Beans",
+      "portion_estimate": "80g",
+      "confidence": 75
+    },
+    {
+      "name": "Cheese and Herb Tartlet",
+      "portion_estimate": "60g",
+      "confidence": 65
+    },
+    {
+      "name": "Pear",
+      "portion_estimate": "100g",
+      "confidence": 70
+    }
+  ]
+}

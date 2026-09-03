@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "breaded fish fillet",
+      "portion_estimate": "120",
+      "confidence": 85
+    },
+    {
+      "name": "stuffed mushrooms or roasted capsicums",
+      "portion_estimate": "100",
+      "confidence": 75
+    },
+    {
+      "name": "mashed potatoes with cheese and breadcrumbs",
+      "portion_estimate": "180",
+      "confidence": 80
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "90",
+      "confidence": 95
+    }
+  ]
+}

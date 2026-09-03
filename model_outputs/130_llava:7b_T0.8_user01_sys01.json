@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "Rice with sauce",
+      "portion_estimate": "uncertain",
+      "confidence": 30
+    },
+    {
+      "name": "Curry, spiced meat or vegetables in gravy",
+      "portion_estimate": "approx. 150g",
+      "confidence": 70
+    }
+  ]
+}

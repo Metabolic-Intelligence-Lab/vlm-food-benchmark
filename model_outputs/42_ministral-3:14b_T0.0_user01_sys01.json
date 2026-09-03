@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fusilli pasta with tomato and vegetable sauce",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "roasted Brussels sprouts with glaze",
+      "portion_estimate": "120g",
+      "confidence": 85
+    },
+    {
+      "name": "roasted potato wedges",
+      "portion_estimate": "80g",
+      "confidence": 80
+    },
+    {
+      "name": "grilled or roasted red cabbage",
+      "portion_estimate": "30g",
+      "confidence": 75
+    },
+    {
+      "name": "cornbread or polenta slice",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "fresh apricots (whole, 2 pieces)",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "cheese slice (cheddar or similar)",
+      "portion_estimate": "30g",
+      "confidence": 70
+    }
+  ]
+}

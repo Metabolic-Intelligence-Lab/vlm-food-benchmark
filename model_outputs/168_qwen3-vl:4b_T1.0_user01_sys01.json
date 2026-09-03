@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "300 grams",
+      "confidence": "100"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "100 grams",
+      "confidence": "100"
+    },
+    {
+      "name": "Kidney beans",
+      "portion_estimate": "50 grams",
+      "confidence": "100"
+    },
+    {
+      "name": "Cabbage",
+      "portion_estimate": "50 grams",
+      "confidence": "100"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "saut\u00e9ed green beans",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "white meat with sauce (likely chicken with cream sauce)",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "spinach with potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 85
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "150 grams",
+      "confidence": 95
+    }
+  ]
+}

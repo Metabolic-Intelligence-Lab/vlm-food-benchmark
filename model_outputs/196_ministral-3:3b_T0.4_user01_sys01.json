@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "beef or pork stew in gravy",
+      "portion_estimate": "200g",
+      "confidence": 90
+    },
+    {
+      "name": "chickpeas (garbanzo beans)",
+      "portion_estimate": "100g",
+      "confidence": 95
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "150g (sliced portion)",
+      "confidence": 85
+    },
+    {
+      "name": "water in glass",
+      "portion_estimate": "200ml",
+      "confidence": 70
+    },
+    {
+      "name": "gravy or sauce packet (unspecified flavor)",
+      "portion_estimate": "1 small packet (~5g)",
+      "confidence": 80
+    }
+  ]
+}

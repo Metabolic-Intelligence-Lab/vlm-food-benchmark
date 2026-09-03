@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of soup (likely tomato-based or broth)",
+      "portion_estimate": "300-350g",
+      "confidence": 85
+    },
+    {
+      "name": "sauce or gravy in small bowl (orange-red color)",
+      "portion_estimate": "50-70g",
+      "confidence": 75
+    },
+    {
+      "name": "mixed greens or saut\u00e9ed vegetables (dark green)",
+      "portion_estimate": "100-150g",
+      "confidence": 80
+    },
+    {
+      "name": "butter or margarine packet (partially visible, ~1/2 used)",
+      "portion_estimate": "10-15g",
+      "confidence": 70
+    },
+    {
+      "name": "yogurt or dairy drink cup (red packaging, partially visible)",
+      "portion_estimate": "uncertain (likely 120-150g)",
+      "confidence": 55
+    }
+  ]
+}

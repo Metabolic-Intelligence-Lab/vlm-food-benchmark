@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "open-faced sandwich (likely tuna melt or cheese with herbs)",
+      "portion_estimate": "120-150g",
+      "confidence": 85
+    },
+    {
+      "name": "fried or roasted chickpeas/pulses (likely falafel-like) or saut\u00e9ed greens (spinach/kale)",
+      "portion_estimate": "100-120g",
+      "confidence": 70
+    },
+    {
+      "name": "roasted or fried fries (likely sweet potato or regular)",
+      "portion_estimate": "200-250g",
+      "confidence": 80
+    },
+    {
+      "name": "unspecified sauce or condiment in small container (possibly ketchup or yogurt-based)",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    },
+    {
+      "name": "water in clear glass",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

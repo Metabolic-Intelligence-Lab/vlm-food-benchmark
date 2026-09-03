@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "Fried pasta",
+      "portion_estimate": "90g",
+      "confidence": 90
+    },
+    {
+      "name": "Diced carrots",
+      "portion_estimate": "50g",
+      "confidence": 80
+    },
+    {
+      "name": "Diced onions",
+      "portion_estimate": "30g",
+      "confidence": 70
+    },
+    {
+      "name": "Baked chicken breast",
+      "portion_estimate": "120g",
+      "confidence": 95
+    },
+    {
+      "name": "Lettuce",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "65g",
+      "confidence": 90
+    },
+    {
+      "name": "Candies (Smarties)",
+      "portion_estimate": "25g",
+      "confidence": 60
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120g",
+      "confidence": 90
+    }
+  ]
+}

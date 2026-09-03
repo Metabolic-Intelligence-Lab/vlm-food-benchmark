@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with spiral shape",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Carrots (sliced and cooked)",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Omelette with toppings",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "Peach",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Glass of water",
+      "portion_estimate": "200",
+      "confidence": 70
+    }
+  ]
+}

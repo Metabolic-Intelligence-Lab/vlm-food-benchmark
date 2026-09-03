@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bowl of vegetable soup",
+      "portion_estimate": "250 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "plate of rice with sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "130 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "two glasses of water",
+      "portion_estimate": "500 grams",
+      "confidence": "95"
+    }
+  ]
+}

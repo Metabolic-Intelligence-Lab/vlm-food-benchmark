@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "cooked leafy greens (spinach/kale-like)",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "cooked green beans",
+      "portion_estimate": "160 g",
+      "confidence": "85"
+    },
+    {
+      "name": "poached white fish (cod-like) with small amount of egg/egg sauce",
+      "portion_estimate": "110 g",
+      "confidence": "60"
+    },
+    {
+      "name": "sliced whole-grain bread",
+      "portion_estimate": "60 g",
+      "confidence": "75"
+    },
+    {
+      "name": "fruit yogurt cup",
+      "portion_estimate": "125 g",
+      "confidence": "70"
+    },
+    {
+      "name": "wrapped bread roll or baguette piece",
+      "portion_estimate": "70 g",
+      "confidence": "55"
+    }
+  ]
+}

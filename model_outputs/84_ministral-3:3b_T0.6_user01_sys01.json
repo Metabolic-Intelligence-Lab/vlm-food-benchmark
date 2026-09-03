@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "broccoli and potato mix (lightly saut\u00e9ed)",
+      "portion_estimate": "150",
+      "confidence": 95
+    },
+    {
+      "name": "toasted whole-grain bread or flatbread with butter",
+      "portion_estimate": "50",
+      "confidence": 90
+    },
+    {
+      "name": "packaged condiment (red sauce) on bread",
+      "portion_estimate": "20",
+      "confidence": 70
+    },
+    {
+      "name": "roasted carrots and mixed vegetables (peppers, onions)",
+      "portion_estimate": "100",
+      "confidence": 95
+    },
+    {
+      "name": "plain yogurt or cheese packet (red label, unsure of contents)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

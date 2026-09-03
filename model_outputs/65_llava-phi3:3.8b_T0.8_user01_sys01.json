@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "salad",
+      "portion_estimate": "50g",
+      "confidence": "80"
+    },
+    {
+      "name": "eggs benedict",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    },
+    {
+      "name": "hash browns",
+      "portion_estimate": "80g",
+      "confidence": "90"
+    }
+  ],
+  "tablecloth": [
+    {
+      "color": "gray",
+      "pattern": "flowers"
+    },
+    {
+      "material": "paper",
+      "design": "geometric"
+    }
+  ]
+}

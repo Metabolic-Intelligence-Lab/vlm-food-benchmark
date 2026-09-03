@@ -1,0 +1,14 @@
+{
+  "food_items": [
+    {
+      "name": "mushroom soup",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "parmesan cheese sprinkled on top of the mushroom soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

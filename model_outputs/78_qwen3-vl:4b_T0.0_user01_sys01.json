@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Carrots",
+      "portion_estimate": "120 g",
+      "confidence": "90"
+    },
+    {
+      "name": "Apricots",
+      "portion_estimate": "70 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Tomato Soup",
+      "portion_estimate": "250 g",
+      "confidence": "85"
+    },
+    {
+      "name": "Bread (Roll)",
+      "portion_estimate": "80 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Cheese",
+      "portion_estimate": "30 g",
+      "confidence": "75"
+    }
+  ]
+}

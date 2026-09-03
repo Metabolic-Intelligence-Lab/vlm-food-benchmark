@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "green peas (whole, cooked or raw)",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "green salad with mixed lettuce, carrots, and radish slices",
+      "portion_estimate": "120",
+      "confidence": "80"
+    },
+    {
+      "name": "small whole orange (peeled, segmented)",
+      "portion_estimate": "130",
+      "confidence": "90"
+    },
+    {
+      "name": "cooked penne pasta with herbs and possible light seasoning",
+      "portion_estimate": "180",
+      "confidence": "85"
+    }
+  ]
+}

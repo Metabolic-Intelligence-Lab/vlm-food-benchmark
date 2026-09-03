@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pasta rigatoni with tomato-based sauce",
+      "portion_estimate": "250",
+      "confidence": 85
+    },
+    {
+      "name": "breaded cutlet (likely chicken or pork) steamed green leafy vegetable (possibly spinach or kale)",
+      "portion_estimate": "300",
+      "confidence": 80
+    },
+    {
+      "name": "whole lemon",
+      "portion_estimate": "150",
+      "confidence": 95
+    }
+  ]
+}

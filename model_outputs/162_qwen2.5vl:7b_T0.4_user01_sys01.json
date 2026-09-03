@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Mixed vegetables with potatoes",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Soup",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "Toast with diced potatoes",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "Lemon",
+      "portion_estimate": "50",
+      "confidence": 80
+    }
+  ]
+}

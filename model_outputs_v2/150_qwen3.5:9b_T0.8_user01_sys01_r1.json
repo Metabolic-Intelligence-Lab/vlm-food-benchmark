@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Cubed pasta (penne) with grated cheese",
+      "portion_estimate": 200,
+      "confidence": 95
+    },
+    {
+      "name": "Mixed steamed vegetables (broccoli, carrots, potatoes)",
+      "portion_estimate": 180,
+      "confidence": 90
+    },
+    {
+      "name": "Frittata or baked egg portion with spinach",
+      "portion_estimate": 85,
+      "confidence": 85
+    },
+    {
+      "name": "Plum or similar fruit",
+      "portion_estimate": 40,
+      "confidence": 95
+    },
+    {
+      "name": "Plum",
+      "portion_estimate": 25,
+      "confidence": 80
+    },
+    {
+      "name": "Bread roll in plastic wrapper",
+      "portion_estimate": 45,
+      "confidence": 95
+    }
+  ]
+}

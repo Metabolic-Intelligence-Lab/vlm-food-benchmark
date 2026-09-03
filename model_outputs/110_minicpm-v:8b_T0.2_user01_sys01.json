@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pea and carrot salad",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Carrot cake slice",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Pea and carrot soup",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

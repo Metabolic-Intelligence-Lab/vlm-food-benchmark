@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "spinach and broccoli",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "breaded spinach and batter",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

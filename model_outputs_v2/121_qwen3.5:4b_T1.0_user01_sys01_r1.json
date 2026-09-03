@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "120g",
+      "confidence": 90
+    },
+    {
+      "name": "Bread (Sourdish)",
+      "portion_estimate": "45g",
+      "confidence": 85
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "100g",
+      "confidence": 90
+    },
+    {
+      "name": "Sausage Roll (or Pie)",
+      "portion_estimate": "120g",
+      "confidence": 80
+    }
+  ]
+}

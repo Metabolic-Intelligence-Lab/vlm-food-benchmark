@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Baked pasta dish (lasagna-like)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Vegetable-based side dish/salad",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Breaded meat cutlet (chicken or pork)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Roll/Bread item",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

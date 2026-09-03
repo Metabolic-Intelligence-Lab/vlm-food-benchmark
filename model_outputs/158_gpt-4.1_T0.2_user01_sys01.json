@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "cooked Brussels sprouts",
+      "portion_estimate": "70",
+      "confidence": 90
+    },
+    {
+      "name": "piece of baked frittata or omelette",
+      "portion_estimate": "60",
+      "confidence": 85
+    },
+    {
+      "name": "fusilli pasta with tomato sauce and grated cheese",
+      "portion_estimate": "180",
+      "confidence": 95
+    },
+    {
+      "name": "plain bread roll",
+      "portion_estimate": "50",
+      "confidence": 95
+    },
+    {
+      "name": "whole pear",
+      "portion_estimate": "120",
+      "confidence": 90
+    }
+  ]
+}

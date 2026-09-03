@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "creamy soup with cheese and mixed vegetables (likely tomato-based)",
+      "portion_estimate": "350 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "whole wheat bread (1 slice)",
+      "portion_estimate": "60 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "grated hard cheese on bread (possibly Parmesan-style)",
+      "portion_estimate": "30 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "pre-packaged cheese spread or spreadable cheese",
+      "portion_estimate": "40 grams (estimated from small container size)",
+      "confidence": "70"
+    },
+    {
+      "name": "diet soda/carbonated drink in plastic cup (no visible label text but canteen container)",
+      "portion_estimate": "330 milliliters (uncertain due to no visible scale)",
+      "confidence": "55"
+    }
+  ]
+}

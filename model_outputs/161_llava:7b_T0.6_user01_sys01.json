@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with red sauce",
+      "portion_estimate": "150 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Carrot salad with greens",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Vegetable pizza slice",
+      "portion_estimate": "150 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Loaf of bread with butter",
+      "portion_estimate": "50 grams",
+      "confidence": "60"
+    }
+  ]
+}

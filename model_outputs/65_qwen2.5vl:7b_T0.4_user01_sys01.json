@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Grilled Cheese Sandwich",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Fried Potatoes",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "Salad",
+      "portion_estimate": "150 grams",
+      "confidence": 80
+    },
+    {
+      "name": "Bread",
+      "portion_estimate": "50 grams",
+      "confidence": 60
+    },
+    {
+      "name": "Yogurt",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    }
+  ]
+}

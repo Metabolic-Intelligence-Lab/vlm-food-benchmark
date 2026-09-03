@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "boiled green beans",
+      "portion_estimate": "250 grams",
+      "confidence": 95
+    },
+    {
+      "name": "small boiled potatoes or mashed egg whites (top-right)",
+      "portion_estimate": "40 grams (approx 2 small potatoes or 2 small boiled eggs)",
+      "confidence": 80
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": "150 grams",
+      "confidence": 90
+    },
+    {
+      "name": "sliced bread wrapped in plastic",
+      "portion_estimate": "40 grams",
+      "confidence": 85
+    },
+    {
+      "name": "orange slice",
+      "portion_estimate": "70 grams",
+      "confidence": 95
+    }
+  ]
+}

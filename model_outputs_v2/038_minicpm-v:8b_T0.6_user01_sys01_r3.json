@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Macaroni and Cheese",
+      "portion_estimate": "150g - 200g",
+      "confidence": "80"
+    },
+    {
+      "name": "Mashed Potatoes with Mushrooms",
+      "portion_estimate": "uncertain, approximately a cupful (about 70-90g)",
+      "confidence": "60"
+    },
+    {
+      "name": "Banana",
+      "portion_estimate": "150g - 200g",
+      "confidence": "80"
+    }
+  ]
+}

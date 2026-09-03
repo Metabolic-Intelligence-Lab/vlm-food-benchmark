@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "green vegetable soup (pureed) with grated cheese",
+      "portion_estimate": "350 g",
+      "confidence": "78"
+    },
+    {
+      "name": "pan-fried diced potatoes (home fries)",
+      "portion_estimate": "180 g",
+      "confidence": "80"
+    },
+    {
+      "name": "herb butter rounds (2 pieces)",
+      "portion_estimate": "30 g",
+      "confidence": "70"
+    },
+    {
+      "name": "bread roll (packaged)",
+      "portion_estimate": "70 g",
+      "confidence": "75"
+    },
+    {
+      "name": "flavored yogurt cup (uncertain type)",
+      "portion_estimate": "125 g",
+      "confidence": "55"
+    }
+  ]
+}

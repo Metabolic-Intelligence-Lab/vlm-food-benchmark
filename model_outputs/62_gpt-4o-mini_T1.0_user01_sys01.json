@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "farfalle pasta with tomato sauce and chopped tomatoes",
+      "portion_estimate": "200",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked leafy greens (spinach or similar)",
+      "portion_estimate": "150",
+      "confidence": "75"
+    },
+    {
+      "name": "savory muffin with sauce on top",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "soft bread roll",
+      "portion_estimate": "50",
+      "confidence": "85"
+    },
+    {
+      "name": "yogurt dessert cup",
+      "portion_estimate": "125",
+      "confidence": "80"
+    }
+  ]
+}

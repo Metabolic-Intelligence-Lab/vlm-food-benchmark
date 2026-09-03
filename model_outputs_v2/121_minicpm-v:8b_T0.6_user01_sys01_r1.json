@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with white sauce and grated cheese",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Salad (carrots, lettuce, red cabbage)",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    },
+    {
+      "name": "Banana with peanut butter and honey on toast",
+      "portion_estimate": "uncertain",
+      "confidence": 40
+    }
+  ]
+}

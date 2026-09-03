@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "banana (whole, medium)",
+      "portion_estimate": "120 grams",
+      "confidence": 90
+    },
+    {
+      "name": "mixed greens salad (includes lettuce, tomatoes, black olives, grilled meat strips)",
+      "portion_estimate": "200 grams",
+      "confidence": 80
+    },
+    {
+      "name": "mozzarella balls (three pieces, fresh)",
+      "portion_estimate": "100 grams",
+      "confidence": 70
+    },
+    {
+      "name": "pre-packaged baguette-style bread",
+      "portion_estimate": "150 grams (unsliced, based on visual estimate of wrapped portion)",
+      "confidence": 75
+    }
+  ]
+}

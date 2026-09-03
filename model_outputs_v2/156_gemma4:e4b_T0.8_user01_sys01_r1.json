@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baguette or small loaf of bread",
+      "portion_estimate": "250",
+      "confidence": "95"
+    },
+    {
+      "name": "cereal or granola mix in a bowl",
+      "portion_estimate": "175",
+      "confidence": "90"
+    },
+    {
+      "name": "folded omelet or egg dish",
+      "portion_estimate": "125",
+      "confidence": "90"
+    },
+    {
+      "name": "green grapes or olives (side plate)",
+      "portion_estimate": "60",
+      "confidence": "85"
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "110",
+      "confidence": "95"
+    }
+  ]
+}

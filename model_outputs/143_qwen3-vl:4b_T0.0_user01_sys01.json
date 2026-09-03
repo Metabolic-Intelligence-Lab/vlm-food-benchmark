@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Yogurt (YOMA brand container)",
+      "portion_estimate": "150g (approximately 5.3 oz)",
+      "confidence": 80
+    },
+    {
+      "name": "Cooked greens (broccoli/kale in bowl)",
+      "portion_estimate": "120g (approximately 4.2 oz)",
+      "confidence": 70
+    },
+    {
+      "name": "Whole wheat bread slice",
+      "portion_estimate": "35g (approximately 1.2 oz)",
+      "confidence": 90
+    },
+    {
+      "name": "Baked fish (two pieces on plate)",
+      "portion_estimate": "180g (approximately 6.3 oz)",
+      "confidence": 60
+    },
+    {
+      "name": "Diced potatoes (on plate)",
+      "portion_estimate": "120g (approximately 4.2 oz)",
+      "confidence": 70
+    }
+  ]
+}

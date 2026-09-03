@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "steamed broccoli with chunks of cheese",
+      "portion_estimate": "uncertain, approx 200-300 grams",
+      "confidence": "65"
+    },
+    {
+      "name": "ham sandwich on multigrain bread",
+      "portion_estimate": "approx. 1 slice ham and 1/4 of a small baguette or similar roll (around 70g each)",
+      "confidence": "95"
+    },
+    {
+      "name": "multicolored vegetable mix with tomato sauce on rice cake",
+      "portion_estimate": "uncertain, approx. half plate",
+      "confidence": "60"
+    },
+    {
+      "name": "sliced cheese stick and yogurt",
+      "portion_estimate": "uncertain (yogurt cup appears to be small), maybe 1-2 ounces of sliced cheese or similar portion for the stick",
+      "confidence": "75"
+    }
+  ]
+}

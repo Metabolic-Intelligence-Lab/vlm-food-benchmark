@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "spinach-filled bread roll (sandwich)",
+      "portion_estimate": "170 g",
+      "confidence": "72"
+    },
+    {
+      "name": "creamy shredded vegetable salad (likely cabbage/potato)",
+      "portion_estimate": "120 g",
+      "confidence": "55"
+    },
+    {
+      "name": "penne pasta with tomato-based sauce, zucchini pieces, and grated cheese",
+      "portion_estimate": "320 g",
+      "confidence": "78"
+    },
+    {
+      "name": "packaged plain bread roll/bun",
+      "portion_estimate": "65 g",
+      "confidence": "85"
+    },
+    {
+      "name": "plums (3 whole)",
+      "portion_estimate": "180 g",
+      "confidence": "90"
+    }
+  ]
+}

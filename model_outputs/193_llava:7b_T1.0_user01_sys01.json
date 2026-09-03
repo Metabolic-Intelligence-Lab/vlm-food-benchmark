@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "Chicken with rice",
+      "portion_estimate": "200 g",
+      "confidence": "85"
+    },
+    {
+      "name": "Steamed carrots",
+      "portion_estimate": "100 g",
+      "confidence": "95"
+    },
+    {
+      "name": "Soup (possibly tomato or beef broth)",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Dip (possibly ranch)",
+      "portion_estimate": "uncertain",
+      "confidence": "35"
+    },
+    {
+      "name": "Ground pepper in bowl",
+      "portion_estimate": "1 g",
+      "confidence": "90"
+    },
+    {
+      "name": "Aqua with lemon slice",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

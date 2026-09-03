@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "carrot and radicchio salad",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "70"
+    },
+    {
+      "name": "spaghetti with cheese",
+      "portion_estimate": "180",
+      "confidence": "85"
+    },
+    {
+      "name": "egg with spinach and cheese on toast",
+      "portion_estimate": "150",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "90"
+    }
+  ]
+}

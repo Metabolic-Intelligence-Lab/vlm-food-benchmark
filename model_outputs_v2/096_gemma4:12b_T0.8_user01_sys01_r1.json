@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pear juice",
+      "portion_estimate": "200g",
+      "confidence": 95
+    },
+    {
+      "name": "pastry with cocoa topping (front)",
+      "portion_estimate": "60g",
+      "confidence": 90
+    },
+    {
+      "name": "pastry with cocoa topping (back)",
+      "portion_estimate": "60g",
+      "confidence": 90
+    }
+  ]
+}

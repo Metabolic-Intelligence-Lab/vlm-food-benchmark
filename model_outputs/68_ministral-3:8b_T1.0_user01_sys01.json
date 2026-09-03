@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta (whole wheat or regular)",
+      "portion_estimate": "150g",
+      "confidence": 80
+    },
+    {
+      "name": "diced tomatoes (fresh or canned)",
+      "portion_estimate": "60g",
+      "confidence": 75
+    },
+    {
+      "name": "chopped onions",
+      "portion_estimate": "30g",
+      "confidence": 70
+    },
+    {
+      "name": "chopped carrots",
+      "portion_estimate": "40g",
+      "confidence": 70
+    },
+    {
+      "name": "chicken or turkey chunks (cooked)",
+      "portion_estimate": "70g",
+      "confidence": 75
+    },
+    {
+      "name": "black olives or similar small dark food items (uncertain)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    }
+  ]
+}

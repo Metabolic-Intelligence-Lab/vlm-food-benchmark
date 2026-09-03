@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "baked penne pasta with tomato sauce",
+      "portion_estimate": "300",
+      "confidence": 90
+    },
+    {
+      "name": "baked or roasted potato wedges",
+      "portion_estimate": "250",
+      "confidence": 90
+    },
+    {
+      "name": "brown rice or risotto-like dish",
+      "portion_estimate": "200",
+      "confidence": 85
+    }
+  ]
+}

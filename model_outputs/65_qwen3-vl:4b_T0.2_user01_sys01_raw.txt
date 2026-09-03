@@ -1,0 +1,55 @@
+Based on the visual description of the scene (a meal setup with a salad, bread roll, yogurt container, water glass, and a plate with a patty and diced potatoes), I have identified and estimated the following **distinct, visible food and beverage items**. Each entry includes:
+
+- **Name**: The specific item as observed.
+- **Portion**: Estimated weight in grams (g), based on standard serving sizes for typical dishes.
+- **Confidence**: A percentage reflecting the reliability of the estimate (e.g., high confidence for items with clear visual cues, moderate for subjective estimates).
+
+---
+
+### Final Answer:
+```json
+[
+  {
+    "name": "Mixed greens salad",
+    "portion": "150g",
+    "confidence": "70"
+  },
+  {
+    "name": "Small bread roll",
+    "portion": "35g",
+    "confidence": "80"
+  },
+  {
+    "name": "YOYO milk pudding yogurt",
+    "portion": "100g",
+    "confidence": "70"
+  },
+  {
+    "name": "Water",
+    "portion": "200g",
+    "confidence": "90"
+  },
+  {
+    "name": "Cheese-topped patty",
+    "portion": "100g",
+    "confidence": "70"
+  },
+  {
+    "name": "Diced potatoes",
+    "portion": "100g",
+    "confidence": "70"
+  }
+]
+```
+
+---
+
+### Key Details:
+- **Mixed greens salad**: Estimated at 150g (a standard portion for a salad bowl; confidence 70% due to visual estimation of leaf volume).
+- **Small bread roll**: Estimated at 35g (typical for a single small roll; confidence 80% as rolls are uniform in size).
+- **YOYO milk pudding yogurt**: Estimated at 100g (a small container size; confidence 70% as yogurt portions can vary slightly).
+- **Water**: Estimated at 200g (a standard 200ml glass; confidence 90% as volume is precise).
+- **Cheese-topped patty**: Estimated at 100g (a typical burger patty size; confidence 70% as shape/size is subjective).
+- **Diced potatoes**: Estimated at 100g (a common serving size for a side dish; confidence 70% as dice size varies).
+
+This list covers all distinct items visible in the scene, with portions based on realistic culinary standards and confidence levels reflecting the reliability of visual estimation.

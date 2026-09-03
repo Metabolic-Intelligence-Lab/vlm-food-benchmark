@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Penne pasta with tomato sauce",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Whole wheat bread roll",
+      "portion_estimate": "120g (approx)",
+      "confidence": "90"
+    },
+    {
+      "name": "Cottage cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Green sauce on a seaweed wrap with potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "Macadamia nut spread or pesto",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    }
+  ]
+}

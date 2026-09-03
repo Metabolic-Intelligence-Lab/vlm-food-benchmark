@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce and cheese",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Roasted chickpeas",
+      "portion_estimate": "1.2 oz (34g)",
+      "confidence": "90"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "Omelet with herbs",
+      "portion_estimate": "1.7 oz (48g)",
+      "confidence": "95"
+    },
+    {
+      "name": "Cheese slice",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "mashed potato",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "condiment",
+      "portion_estimate": "20",
+      "confidence": 60
+    },
+    {
+      "name": "glass of water",
+      "portion_estimate": "200",
+      "confidence": 80
+    }
+  ]
+}

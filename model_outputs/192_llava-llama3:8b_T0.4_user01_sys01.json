@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange shrimp",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "grilled salmon",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "kale leaves",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "orange slices",
+      "portion_estimate": "uncertain",
+      "confidence": 80
+    },
+    {
+      "name": "clear liquid",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

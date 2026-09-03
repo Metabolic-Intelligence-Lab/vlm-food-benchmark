@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "orange",
+      "portion_estimate": "uncertain, approx 150-200g",
+      "confidence": "60"
+    },
+    {
+      "name": "sliced avocado on a plate with leafy greens",
+      "portion_estimate": "uncertain, approx 30-40g",
+      "confidence": "70"
+    },
+    {
+      "name": "wrap or flatbread with sesame seeds and visible filling of meat or cheese",
+      "portion_estimate": "uncertain, approx 60-80g",
+      "confidence": "50"
+    },
+    {
+      "name": "bowl of mixed greens salad (likely cabbage) in a white bowl",
+      "portion_estimate": "uncertain, approx 120g",
+      "confidence": "90"
+    },
+    {
+      "name": "peach or nectarine",
+      "portion_estimate": "uncertain, approx 60-80g",
+      "confidence": "70"
+    }
+  ]
+}

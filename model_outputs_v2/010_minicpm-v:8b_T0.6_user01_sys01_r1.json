@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "Green soup with cheese",
+      "portion_estimate": "uncertain, approximately 200g",
+      "confidence": "50"
+    },
+    {
+      "name": "Potato wedges with green sauce and white dip",
+      "portion_estimate": "uncertain, approximately 150g for the potatoes (3-4 servings)",
+      "confidence": "60"
+    },
+    {
+      "name": "Bread roll in plastic wrap",
+      "portion_estimate": "uncertain, approximately 75g",
+      "confidence": "50"
+    }
+  ]
+}

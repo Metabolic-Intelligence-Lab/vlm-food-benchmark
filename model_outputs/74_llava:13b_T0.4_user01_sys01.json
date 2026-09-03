@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with vegetables",
+      "portion_estimate": "150-200 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "50-70 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Carrots",
+      "portion_estimate": "30-40 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "50-70 grams",
+      "confidence": "60"
+    },
+    {
+      "name": "Butter",
+      "portion_estimate": "10-20 grams",
+      "confidence": "40"
+    }
+  ]
+}

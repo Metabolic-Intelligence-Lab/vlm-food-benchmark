@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "saut\u00e9ed green beans",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "fried eggs",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "90g",
+      "confidence": 90
+    },
+    {
+      "name": "penne pasta with sauce",
+      "portion_estimate": "180g",
+      "confidence": 95
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "150g",
+      "confidence": 95
+    }
+  ]
+}

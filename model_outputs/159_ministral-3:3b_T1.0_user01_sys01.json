@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta (rotini/tubular pasta) with grated cheese",
+      "portion_estimate": 200,
+      "confidence": 85
+    },
+    {
+      "name": "roasted vegetable and meat mix (likely chicken/sausage with herbs)",
+      "portion_estimate": 200,
+      "confidence": 80
+    },
+    {
+      "name": "fried chicken leg (partially wrapped in breading/tenderloin cut)",
+      "portion_estimate": 250,
+      "confidence": 80
+    },
+    {
+      "name": "small lemon (cut or garnish)",
+      "portion_estimate": 80,
+      "confidence": 70
+    }
+  ]
+}

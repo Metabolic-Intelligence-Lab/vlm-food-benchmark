@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "baked spinach and cheese pie",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "diced butternut squash",
+      "portion_estimate": "80",
+      "confidence": "80"
+    },
+    {
+      "name": "short-cut pasta (penne or similar)",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "70"
+    }
+  ]
+}

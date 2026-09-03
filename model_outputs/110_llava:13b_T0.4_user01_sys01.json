@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "Minestrone Soup",
+      "portion_estimate": "uncertain",
+      "confidence": 85
+    },
+    {
+      "name": "Bread (Baguette or Ciabatta)",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "Butter",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "Vegetables (Peas, Carrots, Mixed Vegetables)",
+      "portion_estimate": "uncertain",
+      "confidence": 75
+    },
+    {
+      "name": "Fruit Salad (Grapes, Berries, Other Fruits)",
+      "portion_estimate": "uncertain",
+      "confidence": 65
+    },
+    {
+      "name": "Roll (Brioche or Similar)",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    }
+  ]
+}

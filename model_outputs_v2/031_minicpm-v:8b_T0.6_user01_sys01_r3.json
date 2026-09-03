@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Green pasta with cheese sauce",
+      "portion_estimate": "uncertain, approx. weight of plate",
+      "confidence": "50"
+    },
+    {
+      "name": "White bread bun",
+      "portion_estimate": "uncertain, approx. 120g per medium-sized bun",
+      "confidence": "60"
+    },
+    {
+      "name": "Yellow banana",
+      "portion_estimate": "approx. weight of average banana (around 145-300g)",
+      "confidence": "90"
+    },
+    {
+      "name": "Green beans with sauce",
+      "portion_estimate": "uncertain, approx. portion size on plate",
+      "confidence": "60"
+    },
+    {
+      "name": "Portobello mushroom with green shavings",
+      "portion_estimate": "uncertain, approx. weight of average slice (around 35-70g)",
+      "confidence": "60"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Bowl of green vegetable soup (appears to be minestrone or similar) with a dollop of cream or cheese on top",
+      "portion_estimate": 350,
+      "confidence": 92
+    },
+    {
+      "name": "Round roll or bread bun in plastic wrapper",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "YOMO brand yogurt cup (peach/apricot flavor)",
+      "portion_estimate": 125,
+      "confidence": 98
+    },
+    {
+      "name": "Breaded and fried cutlet (likely schnitzel or chicken breast) with potato chips on top",
+      "portion_estimate": 180,
+      "confidence": 90
+    },
+    {
+      "name": "Side of cooked cabbage slaw or sauerkraut",
+      "portion_estimate": 130,
+      "confidence": 85
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "sandwich",
+      "portion_estimate": "uncertain",
+      "confidence": 70
+    },
+    {
+      "name": "salad with mixed greens and vegetables/fruits",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "rice with chicken/fish and vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": 60
+    },
+    {
+      "name": "apples or pears",
+      "portion_estimate": "uncertain",
+      "confidence": 50
+    }
+  ]
+}

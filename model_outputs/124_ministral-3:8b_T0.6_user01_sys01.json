@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "fried chicken pieces (likely with skin)",
+      "portion_estimate": "180g",
+      "confidence": 75
+    },
+    {
+      "name": "buttered yellow onion (whole, unpeeled)",
+      "portion_estimate": "120g",
+      "confidence": 75
+    },
+    {
+      "name": "creamy tomato-based soup with garnish (grated cheese and herbs)",
+      "portion_estimate": "300g",
+      "confidence": 70
+    },
+    {
+      "name": "fried or baked potato croquette",
+      "portion_estimate": "150g",
+      "confidence": 75
+    },
+    {
+      "name": "plain yogurt (small container, ~150ml)",
+      "portion_estimate": "150g",
+      "confidence": 70
+    }
+  ]
+}

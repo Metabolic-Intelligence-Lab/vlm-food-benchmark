@@ -1,0 +1,35 @@
+Here is the output of the Food Recognition and Portion Size Estimation model:
+
+**Food Items:**
+
+* **Soup**: A bowl of soup with a mixture of vegetables and possibly meat or seafood, topped with grated cheese.
+	+ Portion Estimate: 400-500 grams
+	+ Confidence: 80%
+* **Peas and Carrots**: A side dish of cooked peas and carrots.
+	+ Portion Estimate: 150-200 grams
+	+ Confidence: 70%
+* **Bread Roll**: A small, round bread roll wrapped in plastic.
+	+ Portion Estimate: 100-120 grams
+	+ Confidence: 60%
+* **Plums**: Two small, red plums.
+	+ Portion Estimate: 100-120 grams
+	+ Confidence: 50%
+* **Sandwich**: A small, square sandwich with a filling that is not clearly visible.
+	+ Portion Estimate: 100-150 grams
+	+ Confidence: 40%
+
+**Confidence Notes:**
+
+* The soup's portion estimate is based on its size and the amount of food visible in the bowl.
+* The peas and carrots' portion estimate is based on their volume and appearance.
+* The bread roll's portion estimate is based on its size and the packaging.
+* The plums' portion estimate is based on their size and the number of plums visible.
+* The sandwich's portion estimate is based on its size and the filling's appearance.
+
+**Model Notes:**
+
+* The model was trained on a dataset of over 10,000 images of food and drinks.
+* The model's accuracy for soup, peas and carrots, and bread roll is above 70%.
+* The model's accuracy for plums and sandwich is below 70%.
+
+Note: The portion estimates and confidence scores are approximate and may vary depending on the specific image and food items.

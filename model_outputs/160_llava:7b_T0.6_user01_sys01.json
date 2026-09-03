@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Soup",
+      "portion_estimate": "approximate 500 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "approximate 100 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "Corn on the cob",
+      "portion_estimate": "approximate 50 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "Lemon",
+      "portion_estimate": "1 piece",
+      "confidence": "60"
+    },
+    {
+      "name": "Sour cream and chive roll",
+      "portion_estimate": "approximate 50 grams",
+      "confidence": "70"
+    }
+  ]
+}

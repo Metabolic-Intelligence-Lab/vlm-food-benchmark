@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "green vegetables",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "orange muffins or biscuits",
+      "portion_estimate": "uncertain",
+      "confidence": "60"
+    },
+    {
+      "name": "red yogurt container with white lid",
+      "portion_estimate": "uncertain",
+      "confidence": "50"
+    },
+    {
+      "name": "clear plastic cup",
+      "portion_estimate": "uncertain",
+      "confidence": "40"
+    }
+  ]
+}

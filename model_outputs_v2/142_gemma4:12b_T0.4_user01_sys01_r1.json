@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with herbs (top plate)",
+      "portion_estimate": "200g",
+      "confidence": "90"
+    },
+    {
+      "name": "Grilled white fish fillet",
+      "portion_estimate": "150g",
+      "confidence": "90"
+    },
+    {
+      "name": "Small pasta (gnocchetti)",
+      "portion_estimate": "150g",
+      "confidence": "85"
+    },
+    {
+      "name": "Rustic bread slice",
+      "portion_estimate": "50g",
+      "confidence": "90"
+    },
+    {
+      "name": "Small purple eggplants",
+      "portion_estimate": "40g",
+      "confidence": "80"
+    }
+  ]
+}

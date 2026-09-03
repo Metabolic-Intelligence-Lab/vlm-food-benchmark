@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "fried meatballs (approx. 10 pieces)",
+      "portion_estimate": "200g",
+      "confidence": 85
+    },
+    {
+      "name": "fried cheese or potato fritter (single serving)",
+      "portion_estimate": "100g",
+      "confidence": 85
+    },
+    {
+      "name": "pasta with tomato sauce (short pasta, e.g., fusilli)",
+      "portion_estimate": "150g",
+      "confidence": 90
+    },
+    {
+      "name": "whole lemon (as garnish or for flavor)",
+      "portion_estimate": "80g",
+      "confidence": 95
+    },
+    {
+      "name": "plastic-wrapped baked good (uncertain type, e.g., bread, roll, or bun)",
+      "portion_estimate": "uncertain",
+      "confidence": 55
+    },
+    {
+      "name": "packaged salt or seasoning",
+      "portion_estimate": "5g",
+      "confidence": 90
+    }
+  ]
+}

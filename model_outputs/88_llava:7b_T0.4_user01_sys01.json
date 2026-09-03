@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with sauce",
+      "portion_estimate": "125g",
+      "confidence": "80"
+    },
+    {
+      "name": "Banana and bread",
+      "portion_estimate": "1 banana, 1 slice of bread",
+      "confidence": "70"
+    },
+    {
+      "name": "Omelette with vegetables",
+      "portion_estimate": "1 omelette",
+      "confidence": "60"
+    },
+    {
+      "name": "Cereal",
+      "portion_estimate": "50g",
+      "confidence": "70"
+    }
+  ]
+}

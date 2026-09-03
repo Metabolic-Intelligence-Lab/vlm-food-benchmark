@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pasta with tomato sauce",
+      "portion_estimate": "150 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Green beans",
+      "portion_estimate": "75 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Egg omelette",
+      "portion_estimate": "100 g",
+      "confidence": "80"
+    },
+    {
+      "name": "Bread roll",
+      "portion_estimate": "75 g",
+      "confidence": "60"
+    },
+    {
+      "name": "Coffee or tea in a cup",
+      "portion_estimate": "200 ml",
+      "confidence": "90"
+    }
+  ]
+}
