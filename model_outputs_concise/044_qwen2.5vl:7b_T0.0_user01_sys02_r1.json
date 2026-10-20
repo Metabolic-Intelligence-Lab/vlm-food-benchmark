@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "roasted potatoes",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "tomato salad",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "bun",
+      "portion_estimate": "50",
+      "confidence": 80
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "125",
+      "confidence": 80
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": 80
+    }
+  ]
+}

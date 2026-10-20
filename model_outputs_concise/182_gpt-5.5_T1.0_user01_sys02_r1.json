@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "180 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "broccoli",
+      "portion_estimate": "120 grams",
+      "confidence": "85"
+    },
+    {
+      "name": "lasagna",
+      "portion_estimate": "170 grams",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "mandarins",
+      "portion_estimate": "160 grams",
+      "confidence": "90"
+    }
+  ]
+}

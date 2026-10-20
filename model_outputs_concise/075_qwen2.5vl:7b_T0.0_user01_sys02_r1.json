@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "grilled chicken",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "baked beans",
+      "portion_estimate": "120",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": 80
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "salad",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "apple",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "spaghetti",
+      "portion_estimate": 200,
+      "confidence": 95
+    },
+    {
+      "name": "bread",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "egg",
+      "portion_estimate": 50,
+      "confidence": 95
+    }
+  ]
+}

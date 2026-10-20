@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "spinach pie",
+      "portion_estimate": "180 grams",
+      "confidence": "72"
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "130 grams",
+      "confidence": "82"
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "180 grams",
+      "confidence": "86"
+    },
+    {
+      "name": "grated cheese",
+      "portion_estimate": "8 grams",
+      "confidence": "78"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": "92"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "180 grams",
+      "confidence": "95"
+    }
+  ]
+}

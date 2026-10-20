@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "potato",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "salad",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": 120,
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "penne pasta",
+      "portion_estimate": 100,
+      "confidence": 95
+    },
+    {
+      "name": "black olives",
+      "portion_estimate": 30,
+      "confidence": 95
+    },
+    {
+      "name": "tomatoes",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "chicken",
+      "portion_estimate": 40,
+      "confidence": 85
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": 60,
+      "confidence": 75
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "150",
+      "confidence": "90"
+    },
+    {
+      "name": "chicken and rice",
+      "portion_estimate": "200",
+      "confidence": "85"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "50",
+      "confidence": "90"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "cake",
+      "portion_estimate": "120",
+      "confidence": "85"
+    },
+    {
+      "name": "lemon wedge",
+      "portion_estimate": "10",
+      "confidence": "70"
+    }
+  ]
+}

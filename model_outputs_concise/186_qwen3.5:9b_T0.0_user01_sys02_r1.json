@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "rice",
+      "portion_estimate": 150,
+      "confidence": 90
+    },
+    {
+      "name": "ham",
+      "portion_estimate": 80,
+      "confidence": 90
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": 120,
+      "confidence": 90
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": 60,
+      "confidence": 85
+    },
+    {
+      "name": "water",
+      "portion_estimate": 200,
+      "confidence": 95
+    }
+  ]
+}

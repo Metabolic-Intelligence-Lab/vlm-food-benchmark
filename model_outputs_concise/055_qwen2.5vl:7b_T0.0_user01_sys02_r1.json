@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "pancake",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "mixed vegetables",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "100",
+      "confidence": 80
+    }
+  ]
+}

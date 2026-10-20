@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "mixed salad",
+      "portion_estimate": "150 g",
+      "confidence": "75"
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "160 g",
+      "confidence": "85"
+    },
+    {
+      "name": "breaded patty",
+      "portion_estimate": "90 g",
+      "confidence": "65"
+    },
+    {
+      "name": "milk",
+      "portion_estimate": "200 g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "nectarine",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "fried egg",
+      "portion_estimate": 50,
+      "confidence": 95
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": 100,
+      "confidence": 90
+    },
+    {
+      "name": "cornbread",
+      "portion_estimate": 80,
+      "confidence": 95
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "parmesan cheese",
+      "portion_estimate": 15,
+      "confidence": 85
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "apple",
+      "portion_estimate": 150,
+      "confidence": 95
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+participant,n_images,rho_within_vs_full,rho_lopo_vs_full,best_open_lopo,best_overall_lopo,best_open_within
+participant_1,48,0.983467741935484,0.9951612903225807,qwen2.5vl:7b,gpt-4o,qwen2.5vl:7b
+participant_2,28,0.9645161290322581,0.9967741935483874,qwen2.5vl:7b,gpt-4o,qwen3.5:9b
+participant_3,34,0.6713709677419356,0.9975806451612905,qwen2.5vl:7b,gpt-4o,minicpm-v:8b
+participant_4,22,0.9491935483870969,0.9915322580645162,qwen2.5vl:7b,gpt-4o,qwen3.5:9b
+participant_5,8,0.9213709677419357,0.9991935483870967,qwen2.5vl:7b,gpt-4o,minicpm-v4.5:8b
+participant_6,60,0.9737903225806454,0.997983870967742,qwen2.5vl:7b,gpt-4o,qwen2.5vl:7b

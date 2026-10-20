@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "white fish",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "140 g",
+      "confidence": "85"
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "160 g",
+      "confidence": "75"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "50 g",
+      "confidence": "80"
+    },
+    {
+      "name": "plums",
+      "portion_estimate": "140 g",
+      "confidence": "95"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "250 g",
+      "confidence": "90"
+    }
+  ]
+}

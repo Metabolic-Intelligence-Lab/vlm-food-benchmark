@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "meatballs",
+      "portion_estimate": "180g",
+      "confidence": "70"
+    },
+    {
+      "name": "pizza",
+      "portion_estimate": "120g",
+      "confidence": "65"
+    },
+    {
+      "name": "pasta with tomato sauce",
+      "portion_estimate": "240g",
+      "confidence": "85"
+    },
+    {
+      "name": "grated cheese",
+      "portion_estimate": "10g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "uncertain",
+      "portion_estimate": "150g",
+      "confidence": "50"
+    },
+    {
+      "name": "cheese stick",
+      "portion_estimate": "25g",
+      "confidence": "65"
+    }
+  ]
+}

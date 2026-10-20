@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pesto pasta",
+      "portion_estimate": "200 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "peas",
+      "portion_estimate": "150 grams",
+      "confidence": "95"
+    },
+    {
+      "name": "ham",
+      "portion_estimate": "20 grams",
+      "confidence": "80"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 grams",
+      "confidence": "90"
+    },
+    {
+      "name": "stuffed fish",
+      "portion_estimate": "100 grams",
+      "confidence": "55"
+    }
+  ]
+}

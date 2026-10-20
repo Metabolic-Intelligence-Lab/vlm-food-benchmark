@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "ground beef",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "stir-fried vegetables",
+      "portion_estimate": 180,
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": 250,
+      "confidence": 95
+    },
+    {
+      "name": "brussels sprouts",
+      "portion_estimate": 100,
+      "confidence": 95
+    },
+    {
+      "name": "apple",
+      "portion_estimate": 180,
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": 60,
+      "confidence": 90
+    },
+    {
+      "name": "baklava",
+      "portion_estimate": 80,
+      "confidence": 95
+    }
+  ]
+}

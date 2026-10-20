@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": 350,
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": 80,
+      "confidence": 95
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": 120,
+      "confidence": 95
+    },
+    {
+      "name": "stuffed chicken breast",
+      "portion_estimate": 180,
+      "confidence": 90
+    },
+    {
+      "name": "vegetable stew",
+      "portion_estimate": 120,
+      "confidence": 90
+    }
+  ]
+}

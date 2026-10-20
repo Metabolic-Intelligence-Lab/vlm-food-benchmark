@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "tomato pasta",
+      "portion_estimate": "250 g",
+      "confidence": "90"
+    },
+    {
+      "name": "grated cheese",
+      "portion_estimate": "8 g",
+      "confidence": "85"
+    },
+    {
+      "name": "spinach cannelloni",
+      "portion_estimate": "180 g",
+      "confidence": "75"
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "90 g",
+      "confidence": "85"
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "120 g",
+      "confidence": "90"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "500 g",
+      "confidence": "70"
+    }
+  ]
+}

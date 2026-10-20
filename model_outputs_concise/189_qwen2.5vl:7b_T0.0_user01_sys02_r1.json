@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "cracker",
+      "portion_estimate": "15",
+      "confidence": 70
+    },
+    {
+      "name": "vegetable",
+      "portion_estimate": "50",
+      "confidence": 70
+    },
+    {
+      "name": "crab stick",
+      "portion_estimate": "30",
+      "confidence": 60
+    }
+  ]
+}

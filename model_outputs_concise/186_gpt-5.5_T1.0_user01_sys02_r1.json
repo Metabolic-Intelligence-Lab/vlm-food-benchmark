@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "uncertain",
+      "portion_estimate": "180 g",
+      "confidence": "45"
+    },
+    {
+      "name": "ham",
+      "portion_estimate": "70 g",
+      "confidence": "75"
+    },
+    {
+      "name": "mashed potatoes",
+      "portion_estimate": "120 g",
+      "confidence": "70"
+    },
+    {
+      "name": "milk",
+      "portion_estimate": "120 g",
+      "confidence": "65"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "220 grams",
+      "confidence": "88"
+    },
+    {
+      "name": "grated cheese",
+      "portion_estimate": "5 grams",
+      "confidence": "70"
+    },
+    {
+      "name": "zucchini",
+      "portion_estimate": "130 grams",
+      "confidence": "78"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60 grams",
+      "confidence": "90"
+    }
+  ]
+}

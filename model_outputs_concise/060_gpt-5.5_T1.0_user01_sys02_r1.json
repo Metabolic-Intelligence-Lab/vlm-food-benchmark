@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "180g",
+      "confidence": "85"
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "220g",
+      "confidence": "85"
+    },
+    {
+      "name": "breaded chicken",
+      "portion_estimate": "160g",
+      "confidence": "75"
+    },
+    {
+      "name": "yogurt",
+      "portion_estimate": "125g",
+      "confidence": "80"
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "60g",
+      "confidence": "70"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200g",
+      "confidence": "70"
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "15g",
+      "confidence": "65"
+    }
+  ]
+}

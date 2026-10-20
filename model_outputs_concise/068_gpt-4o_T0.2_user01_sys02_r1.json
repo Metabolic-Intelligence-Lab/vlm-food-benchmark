@@ -1,0 +1,39 @@
+{
+  "food_items": [
+    {
+      "name": "pasta salad",
+      "portion_estimate": "250",
+      "confidence": "85"
+    },
+    {
+      "name": "cherry tomatoes",
+      "portion_estimate": "30",
+      "confidence": "80"
+    },
+    {
+      "name": "chickpeas",
+      "portion_estimate": "40",
+      "confidence": "75"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "20",
+      "confidence": "70"
+    },
+    {
+      "name": "olives",
+      "portion_estimate": "10",
+      "confidence": "65"
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": "20",
+      "confidence": "70"
+    },
+    {
+      "name": "ham",
+      "portion_estimate": "30",
+      "confidence": "70"
+    }
+  ]
+}

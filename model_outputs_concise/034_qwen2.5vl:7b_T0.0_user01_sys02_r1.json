@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pancakes",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "eggs",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "200",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150",
+      "confidence": 80
+    }
+  ]
+}

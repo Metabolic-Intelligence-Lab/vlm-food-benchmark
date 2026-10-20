@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "grilled fish",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "pasta",
+      "portion_estimate": "150",
+      "confidence": "70"
+    },
+    {
+      "name": "salad",
+      "portion_estimate": "100",
+      "confidence": "70"
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": "80"
+    }
+  ]
+}

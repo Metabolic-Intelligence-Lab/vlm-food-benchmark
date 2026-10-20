@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "chicken",
+      "portion_estimate": "60 g",
+      "confidence": "85"
+    },
+    {
+      "name": "lettuce",
+      "portion_estimate": "35 g",
+      "confidence": "85"
+    },
+    {
+      "name": "radicchio",
+      "portion_estimate": "20 g",
+      "confidence": "90"
+    },
+    {
+      "name": "carrot",
+      "portion_estimate": "5 g",
+      "confidence": "80"
+    }
+  ]
+}

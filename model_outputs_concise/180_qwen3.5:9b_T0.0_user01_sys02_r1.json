@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "chickpeas",
+      "portion_estimate": 100,
+      "confidence": 95
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": 80,
+      "confidence": 95
+    },
+    {
+      "name": "penne pasta",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "cheese",
+      "portion_estimate": 20,
+      "confidence": 85
+    },
+    {
+      "name": "apple",
+      "portion_estimate": 150,
+      "confidence": 95
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": 60,
+      "confidence": 95
+    },
+    {
+      "name": "cheese stick",
+      "portion_estimate": 30,
+      "confidence": 85
+    },
+    {
+      "name": "stuffed eggplant",
+      "portion_estimate": 100,
+      "confidence": 90
+    }
+  ]
+}

@@ -35,6 +35,9 @@ participants and human raters are identified only by anonymous codes.
   proprietary baselines (GPT-5.5, Claude Sonnet 5). `run_manifest.jsonl`
   records model digests, seeds, timestamps and software versions for every
   run (hostnames anonymized as `machine_N`).
+- `model_outputs_concise/` — concise-name prompt experiment: GPT-4o, GPT-5.5,
+  Qwen2.5-VL:7B and Qwen3.5:9B re-run with `system_prompts/02.txt`, which differs
+  from the original prompt only in requesting the shortest common food name.
 
 ## Code
 
@@ -42,9 +45,10 @@ participants and human raters are identified only by anonymous codes.
 |---|---|
 | `main.py`, `runpod/main_v2.py` | inference over the image set via Ollama (temperature grid, seeds, JSON output) |
 | `openai_baseline.py`, `runpod/openai_v2.py` | proprietary-model baselines |
-| `system_prompts/`, `user_prompts/` | the exact prompts used |
+| `system_prompts/`, `user_prompts/` | the exact prompts used (`01.txt` main prompt, `02.txt` concise-name variant) |
 | `analysis/evaluation.py` | shared evaluation library: GT loading, robust gram parsing, CrossEncoder scoring, greedy/Hungarian matching |
 | `analysis/00…15_*.py` | numbered pipeline: pair scoring, metrics, portion baselines, bootstrap CIs, calibration (LOIO-CV), human-eval form, LLM-as-judge, matcher validation, figures |
+| `analysis/16…23_*.py` | additional analyses: portion bias, name verbosity, outcome accounting and metric sensitivity, dataset composition and leave-one-participant-out robustness, visual vs identity-based portion estimates, matcher threshold and match composition, output repair and temperature robustness, concise-name prompt experiment |
 | `analysis/outputs/` | all published metrics, bootstrap intervals, judge verdicts, human-rater labels (`rater1..3`), figures |
 
 ### Reproducing the analysis

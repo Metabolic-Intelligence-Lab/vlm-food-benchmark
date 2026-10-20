@@ -1,0 +1,34 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "beef",
+      "portion_estimate": "100",
+      "confidence": 70
+    },
+    {
+      "name": "spinach",
+      "portion_estimate": "50",
+      "confidence": 85
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": 75
+    },
+    {
+      "name": "tomato sauce",
+      "portion_estimate": "20",
+      "confidence": 60
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": 90
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "food_items": [
+    {
+      "name": "baked fish",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "carrots",
+      "portion_estimate": "50",
+      "confidence": "80"
+    },
+    {
+      "name": "lentils",
+      "portion_estimate": "150",
+      "confidence": "80"
+    }
+  ]
+}

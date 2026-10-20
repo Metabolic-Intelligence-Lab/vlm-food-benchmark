@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "vegetable mix",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "omelette",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "apple",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "bread",
+      "portion_estimate": "50",
+      "confidence": 80
+    }
+  ]
+}

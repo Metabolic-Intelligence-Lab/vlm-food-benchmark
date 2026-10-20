@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "bread roll",
+      "portion_estimate": "55 g",
+      "confidence": "90"
+    },
+    {
+      "name": "rice",
+      "portion_estimate": "150 g",
+      "confidence": "95"
+    },
+    {
+      "name": "chicken",
+      "portion_estimate": "110 g",
+      "confidence": "75"
+    },
+    {
+      "name": "Brussels sprouts",
+      "portion_estimate": "80 g",
+      "confidence": "85"
+    },
+    {
+      "name": "grape jelly",
+      "portion_estimate": "14 g",
+      "confidence": "70"
+    }
+  ]
+}

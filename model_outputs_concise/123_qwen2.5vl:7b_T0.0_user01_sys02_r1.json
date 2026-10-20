@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "pasta",
+      "portion_estimate": "150",
+      "confidence": 80
+    },
+    {
+      "name": "banana",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "omelette",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "potato",
+      "portion_estimate": "100",
+      "confidence": 80
+    },
+    {
+      "name": "water",
+      "portion_estimate": "200",
+      "confidence": 80
+    }
+  ]
+}

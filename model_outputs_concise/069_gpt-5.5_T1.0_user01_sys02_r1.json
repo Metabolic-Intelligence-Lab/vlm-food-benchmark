@@ -1,0 +1,24 @@
+{
+  "food_items": [
+    {
+      "name": "sausage",
+      "portion_estimate": "70 g",
+      "confidence": "85"
+    },
+    {
+      "name": "bell pepper",
+      "portion_estimate": "90 g",
+      "confidence": "78"
+    },
+    {
+      "name": "mushrooms",
+      "portion_estimate": "60 g",
+      "confidence": "65"
+    },
+    {
+      "name": "sauce",
+      "portion_estimate": "30 g",
+      "confidence": "55"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "chicken",
+      "portion_estimate": "150",
+      "confidence": "85"
+    },
+    {
+      "name": "green beans",
+      "portion_estimate": "100",
+      "confidence": "85"
+    },
+    {
+      "name": "cooked greens",
+      "portion_estimate": "100",
+      "confidence": "80"
+    },
+    {
+      "name": "potatoes",
+      "portion_estimate": "50",
+      "confidence": "75"
+    },
+    {
+      "name": "orange",
+      "portion_estimate": "130",
+      "confidence": "90"
+    }
+  ]
+}

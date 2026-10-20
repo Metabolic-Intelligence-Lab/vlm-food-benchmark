@@ -1,0 +1,44 @@
+{
+  "food_items": [
+    {
+      "name": "soup",
+      "portion_estimate": "300g",
+      "confidence": "75"
+    },
+    {
+      "name": "grated cheese",
+      "portion_estimate": "10g",
+      "confidence": "80"
+    },
+    {
+      "name": "cooked carrots",
+      "portion_estimate": "130g",
+      "confidence": "65"
+    },
+    {
+      "name": "apricots",
+      "portion_estimate": "120g",
+      "confidence": "75"
+    },
+    {
+      "name": "bread roll",
+      "portion_estimate": "60g",
+      "confidence": "85"
+    },
+    {
+      "name": "butter",
+      "portion_estimate": "10g",
+      "confidence": "60"
+    },
+    {
+      "name": "uncertain",
+      "portion_estimate": "100g",
+      "confidence": "45"
+    },
+    {
+      "name": "uncertain",
+      "portion_estimate": "25g",
+      "confidence": "45"
+    }
+  ]
+}

@@ -26,6 +26,8 @@ def parse_args():
     p.add_argument("--models", default="gpt-4o", help="comma-separated")
     p.add_argument("--temps", default="0.0,0.2,0.4,0.6,0.8,1.0")
     p.add_argument("--run-id", default="r1")
+    p.add_argument("--system-prompt-file",
+                   default=os.path.join(REPO, "system_prompts/01.txt"))
     p.add_argument("--input_folder",
                    default=os.path.join(REPO, "GT_Mensa_2025/resized_images"))
     p.add_argument("--output-folder",
@@ -39,8 +41,9 @@ def main():
     from openai import OpenAI
     client = OpenAI()
 
-    with open(os.path.join(REPO, "system_prompts/01.txt")) as f:
+    with open(args.system_prompt_file) as f:
         system_prompt = f.read()
+    sys_ = Path(args.system_prompt_file).stem
 
     n = len([f for f in os.listdir(args.input_folder) if f.endswith(".jpg")])
     manifest_path = os.path.join(args.output_folder, "run_manifest.jsonl")
@@ -55,7 +58,7 @@ def main():
             for i in range(1, n + 1):
                 out_path = os.path.join(
                     args.output_folder,
-                    f"{i:03d}_{model}_T{temp}_user01_sys01_{args.run_id}.json")
+                    f"{i:03d}_{model}_T{temp}_user01_sys{sys_}_{args.run_id}.json")
                 if Path(out_path).exists():
                     continue
                 image_path = os.path.join(args.input_folder, f"{i:03d}.jpg")
