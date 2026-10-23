@@ -48,7 +48,7 @@ participants and human raters are identified only by anonymous codes.
 | `system_prompts/`, `user_prompts/` | the exact prompts used (`01.txt` main prompt, `02.txt` concise-name variant) |
 | `analysis/evaluation.py` | shared evaluation library: GT loading, robust gram parsing, CrossEncoder scoring, greedy/Hungarian matching |
 | `analysis/00…15_*.py` | numbered pipeline: pair scoring, metrics, portion baselines, bootstrap CIs, calibration (LOIO-CV), human-eval form, LLM-as-judge, matcher validation, figures |
-| `analysis/16…23_*.py` | additional analyses: portion bias, name verbosity, outcome accounting and metric sensitivity, dataset composition and leave-one-participant-out robustness, visual vs identity-based portion estimates, matcher threshold and match composition, output repair and temperature robustness, concise-name prompt experiment |
+| `analysis/16…24_*.py` | additional analyses: portion bias, name verbosity, outcome accounting and metric sensitivity, dataset composition and leave-one-participant-out robustness, visual vs identity-based portion estimates, matcher threshold and match composition, output repair and temperature robustness, concise-name prompt experiment, linear calibration at the primary threshold |
 | `analysis/outputs/` | all published metrics, bootstrap intervals, judge verdicts, human-rater labels (`rater1..3`), figures |
 
 ### Reproducing the analysis
