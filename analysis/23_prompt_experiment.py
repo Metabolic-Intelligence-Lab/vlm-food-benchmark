@@ -14,7 +14,7 @@ recall and F1 (Cross Encoder, eps=0.5, greedy matching), F1 under the LLM judge
                  judge band and not yet judged to outputs/prompt_experiment_band.parquet,
                  to be judged with: 08_llm_judge.py --pairs-file <that file>
 
-Usage: analysis_env/bin/python analysis/23_prompt_experiment.py [--export-band]
+Usage: python analysis/23_prompt_experiment.py [--export-band]
 Output: analysis/outputs/prompt_experiment.csv
 """
 import argparse

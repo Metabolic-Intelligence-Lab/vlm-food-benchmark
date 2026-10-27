@@ -1,4 +1,4 @@
-"""WP8 - OpenAI baseline runner v2: replicates, exact snapshot logging.
+"""OpenAI baseline runner v2: replicates, exact snapshot logging.
 
 Improvements vs openai_baseline.py (kept unchanged):
   - --run-id for stochastic replicates; --models and --temps configurable
@@ -7,7 +7,7 @@ Improvements vs openai_baseline.py (kept unchanged):
   - resumable (skips existing outputs); strict JSON via response_format
 
 Usage:
-  OPENAI_API_KEY=... python runpod/openai_v2.py --models gpt-4o \
+  OPENAI_API_KEY=... python inference/openai_v2.py --models gpt-4o \
       --temps 0.6 --run-id r2
 """
 import argparse

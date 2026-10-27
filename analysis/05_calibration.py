@@ -1,16 +1,15 @@
-"""WP4 - Linear calibration evaluated OUT-OF-SAMPLE.
+"""Linear calibration evaluated OUT-OF-SAMPLE.
 
-The submitted paper fitted GT = w0 + k*pred on all matched items and reported
-the error reduction on the SAME items (in-sample). Here the calibration is
-evaluated with leave-one-image-out cross-validation (clusters = images, same
-clustering as the bootstrap): for every image, the line is fitted on the items
-of the other images and applied to this image's items.
+Linear calibration GT = w0 + k*pred fitted on the matched items of every
+(model, T, eps) configuration. The calibrated errors are evaluated with
+leave-one-image-out cross-validation (clusters = images, same clustering as the
+bootstrap): for every image, the line is fitted on the items of the other
+images and applied to this image's items.
 
 Outputs: analysis/outputs/calibration_<mode>.csv with, per (model, T, eps):
-  mae/medae raw, in-sample calibrated (paper's optimistic number),
-  LOIO-CV calibrated (honest number), fitted w0/k on the full data.
+  mae/medae raw, in-sample calibrated, LOIO-CV calibrated, fitted w0/k.
 
-Usage: analysis_env/bin/python analysis/05_calibration.py [--mode greedy]
+Usage: python analysis/05_calibration.py [--mode greedy]
 """
 import argparse
 import os
@@ -79,7 +78,7 @@ def main():
     print(f"saved {out} ({len(df)} rows)")
 
     # Paper's Table 2 configuration: T=0.4, eps=0.6
-    print("\n=== T=0.4, eps=0.6 (paper Table 2 config) ===")
+    print("\n=== T=0.4, eps=0.6 ===")
     sel = df[(df.temperature == 0.4) & (df.epsilon == 0.6) &
              df.model.isin(["qwen2.5vl:7b", "gpt-4o", "gpt-4.1", "gpt-5.2"])]
     cols = ["model", "n", "w0", "k", "medae_raw", "medae_cal_insample",

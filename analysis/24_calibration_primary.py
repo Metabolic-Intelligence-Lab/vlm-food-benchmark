@@ -1,9 +1,8 @@
 """Linear calibration at the primary configurations of Table 2 (eps = 0.5).
 
-Re-does the calibration analysis of Section 3.2 (Table 4, Fig. 9) at the
-primary threshold eps = 0.5 and at the temperature of Table 2 for eight
-representative models, instead of the (T = 0.4, eps = 0.6) configuration of
-the submitted paper. Same procedure as 05_calibration.py: OLS fit
+Calibration analysis of Section 3.2 (Table 4, Fig. 9) at the primary
+threshold eps = 0.5 and at the temperature of Table 2 for eight representative
+models. Same procedure as 05_calibration.py: OLS fit
 GT = b + k * pred on the matched items with a numerical estimate, errors of
 the calibrated estimates evaluated with leave-one-image-out cross-validation.
 
@@ -16,7 +15,7 @@ Outputs:
   analysis/outputs/figures/GT_PRED_qwen25vl_7b.png
   analysis/outputs/figures/GT_PRED_gpt4o.png
 
-Usage: analysis_env/bin/python analysis/24_calibration_primary.py
+Usage: python analysis/24_calibration_primary.py
 """
 import os
 import sys

@@ -1,4 +1,4 @@
-"""WP6 - Build the human validation set for the semantic matcher.
+"""Build the human validation set for the semantic matcher.
 
 Stratified sample of (predicted name, GT name) pairs across the similarity-score
 spectrum, denser around the decision thresholds. Judges see the pairs BLIND
@@ -10,7 +10,7 @@ spectrum, denser around the decision thresholds. Judges see the pairs BLIND
                               name + choices, then copies the generated CSV block
                               and sends it back (save as human_labels_<judge>.csv)
 
-Usage: analysis_env/bin/python analysis/07_build_human_eval.py [--n 300] [--seed 7]
+Usage: python analysis/07_build_human_eval.py [--n 300] [--seed 7]
 """
 import argparse
 import html

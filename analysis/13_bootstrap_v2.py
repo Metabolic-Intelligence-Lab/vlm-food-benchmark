@@ -4,7 +4,7 @@ Same resampling scheme as 04_bootstrap (200 images, B=2000, fixed seed, shared
 indices for paired comparisons). Covers the 6 new open models (r1) and the
 replicate runs. Outputs: bootstrap_ci_v2.csv + paired vs qwen2.5vl:7b (clean).
 
-Usage: analysis_env/bin/python analysis/13_bootstrap_v2.py
+Usage: python analysis/13_bootstrap_v2.py
 """
 import os
 import sys

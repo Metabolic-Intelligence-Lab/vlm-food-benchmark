@@ -8,7 +8,7 @@
    Participants photographed their own meals with their own smartphones, so the
    split approximates a change of photographer, device and acquisition habits.
 
-Usage: analysis_env/bin/python analysis/19_dataset_composition.py
+Usage: python analysis/19_dataset_composition.py
 Outputs: analysis/outputs/dataset_composition_{categories,participants}.csv,
          participant_robustness.csv
 """

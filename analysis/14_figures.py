@@ -1,18 +1,12 @@
-"""B5 - Paper figures, BOTH candidate versions, from the official configuration
-(clean mode for the first campaign + metrics_v2_all for the 2026 campaign).
+"""Paper figures (Figs. 4-7) from the official configuration (clean mode for the
+first campaign + metrics_v2_all for the 2026 campaign), saved in
+analysis/outputs/figures/:
+  f1_mosaic_open_{1,2}.png/pdf     T x eps heatmaps, open models, split in two
+  nmae_mosaic_open_{1,2}.png/pdf
+  f1_mosaic_proprietary.png/pdf    gpt-4o/4.1/5.2 (T axis) + gpt-5.5/claude (replicas)
+  nmae_mosaic_proprietary.png/pdf
 
-Version A (identical style to the submitted paper, extended):
-  A_f1_mosaic_open_{1,2}.png/pdf   T x eps heatmaps, open models, split in two
-  A_nmae_mosaic_open_{1,2}.png/pdf
-  A_f1_mosaic_proprietary.png/pdf  gpt-4o/4.1/5.2 (T axis) + gpt-5.5/claude (replicas)
-  A_nmae_mosaic_proprietary.png/pdf
-
-Version B (new proposal):
-  B_f1_models_by_eps.png/pdf       single annotated heatmap, open models x eps (T=0.0)
-  B_proprietary_lines.png/pdf      F1 vs eps, one line per proprietary model,
-                                   band = spread across T (or replicas)
-
-Usage: analysis_env/bin/python analysis/14_figures.py
+Usage: python analysis/14_figures.py
 """
 import json
 import os
@@ -28,7 +22,7 @@ import seaborn as sns
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from evaluation import OUTPUTS_DIR, THRESHOLDS
 
-PLOTS = os.path.join(OUTPUTS_DIR, "plots_v2")
+PLOTS = os.path.join(OUTPUTS_DIR, "figures")
 os.makedirs(PLOTS, exist_ok=True)
 
 TEMPS = [0.0, 0.2, 0.4, 0.6, 0.8, 1.0]
@@ -103,11 +97,11 @@ def version_a(df):
             ("nmae", 60, 125, "inferno_r", "NMAE [g]", ".0f")]:
         r1 = df[df.run == "r1"]
         mosaic(r1, open_models[:half], value,
-               f"A_{value}_mosaic_open_1", vmin, vmax, cmap, lab, fmt)
+               f"{value}_mosaic_open_1", vmin, vmax, cmap, lab, fmt)
         mosaic(r1, open_models[half:], value,
-               f"A_{value}_mosaic_open_2", vmin, vmax, cmap, lab, fmt)
+               f"{value}_mosaic_open_2", vmin, vmax, cmap, lab, fmt)
         # proprietari: UNICA figura a 5 pannelli (3 con asse T, 2 con asse replica)
-        prop_mosaic(df, value, f"A_{value}_mosaic_proprietary",
+        prop_mosaic(df, value, f"{value}_mosaic_proprietary",
                     vmin, vmax, cmap, lab, fmt)
 
 
@@ -147,54 +141,7 @@ def prop_mosaic(df, value, fname, vmin, vmax, cmap, cbar_label, fmt):
     print(f"salvata {fname} (5 pannelli misti)")
 
 
-def version_b(df):
-    # B1: heatmap open models x eps at T=0.0
-    open_models = [m for m in df.model.unique()
-                   if not m.startswith("gpt") and m != "claude-sonnet-5"]
-    sub = df[(df.temperature == 0.0) & (df.run == "r1")
-             & df.model.isin(open_models)]
-    hm = sub.pivot_table(index="model", columns="epsilon", values="f1")
-    hm = hm.loc[hm[0.5].sort_values(ascending=False).index]
-    fig, ax = plt.subplots(figsize=(7, 0.42 * len(hm) + 1.2))
-    sns.heatmap(hm, ax=ax, cmap="inferno", vmin=0, vmax=1, annot=True,
-                fmt=".2f", annot_kws={"fontsize": 8},
-                cbar_kws={"label": "F1 Score"})
-    ax.set_xlabel("CrossEnc Threshold ε", fontsize=11)
-    ax.set_ylabel("")
-    ax.set_title("Open-source VLMs — F1 at T=0.0", fontsize=12)
-    plt.tight_layout()
-    for ext in ("png", "pdf"):
-        fig.savefig(os.path.join(PLOTS, f"B_f1_models_by_eps.{ext}"), dpi=300)
-    plt.close(fig)
-    print("salvata B_f1_models_by_eps")
-
-    # B2: proprietari, linee F1 vs eps con banda di variabilita'
-    fig, ax = plt.subplots(figsize=(6.5, 4.5))
-    colors = {"gpt-4o": "#4053d3", "gpt-4.1": "#ddb310", "gpt-5.2": "#b51d14",
-              "gpt-5.5": "#00beff", "claude-sonnet-5": "#fb49b0"}
-    for model in ["gpt-4o", "gpt-4.1", "gpt-5.2", "gpt-5.5", "claude-sonnet-5"]:
-        sub = df[df.model == model]
-        agg = sub.groupby("epsilon")["f1"].agg(["mean", "min", "max"])
-        c = colors[model]
-        ax.plot(agg.index, agg["mean"], "-o", color=c, lw=2, ms=5, label=model)
-        ax.fill_between(agg.index, agg["min"], agg["max"], color=c, alpha=0.15)
-    ax.set_xlabel("CrossEnc Threshold ε", fontsize=11)
-    ax.set_ylabel("F1 Score", fontsize=11)
-    ax.set_ylim(0, 0.85)
-    ax.set_xlim(0.48, 0.92)
-    ax.grid(True, alpha=0.25, lw=0.5)
-    ax.set_title("Proprietary baselines — band: spread across T (or replicas)",
-                 fontsize=11)
-    ax.legend(fontsize=8, loc="upper right")
-    plt.tight_layout()
-    for ext in ("png", "pdf"):
-        fig.savefig(os.path.join(PLOTS, f"B_proprietary_lines.{ext}"), dpi=300)
-    plt.close(fig)
-    print("salvata B_proprietary_lines")
-
-
 if __name__ == "__main__":
     df = load_official()
     print(f"{df.model.nunique()} modelli, {len(df)} righe")
     version_a(df)
-    version_b(df)

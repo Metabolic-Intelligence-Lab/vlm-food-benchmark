@@ -1,4 +1,4 @@
-"""B4 - Batch evaluation of every (model, T, run) in model_outputs_v2/.
+"""Batch evaluation of every (model, T, run) in model_outputs_v2/.
 
 One pass: collect all missing (pred, gt) pairs across all v2 runs, score them
 once with the CrossEncoder (appended to pair_scores_v2.parquet), then compute
@@ -9,7 +9,7 @@ Outputs (analysis/outputs/):
   metrics_v2_all.csv       per (model, T, run, epsilon)
   per_image_v2.parquet     per-image TP/FP/FN + portion sums (bootstrap-ready)
   per_item_v2.parquet      matched items with weights
-Usage: analysis_env/bin/python analysis/12_eval_all_v2.py
+Usage: python analysis/12_eval_all_v2.py
 """
 import json
 import os

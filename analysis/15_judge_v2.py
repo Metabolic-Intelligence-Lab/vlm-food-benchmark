@@ -1,4 +1,4 @@
-"""WP6-ext - LLM-judge metrics for the 2026 campaign (model_outputs_v2) and
+"""LLM-judge metrics for the 2026 campaign (model_outputs_v2) and
 combined threshold-free ranking correlation over ALL models.
 
 Mirrors 09_matcher_validation.part_c: the judge replaces the epsilon threshold
@@ -10,7 +10,7 @@ official v2 evaluation (12_eval_all_v2.load_all_runs).
 Outputs: analysis/outputs/metrics_judge_v2.csv, plus the combined Spearman
 rho (judge-F1 vs Cross Encoder F1, best-T per model, r1) printed for the paper.
 
-Usage: analysis_env/bin/python analysis/15_judge_v2.py
+Usage: python analysis/15_judge_v2.py
 """
 import importlib.util
 import json

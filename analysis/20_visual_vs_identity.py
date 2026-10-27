@@ -13,7 +13,7 @@ eps=0.5), on the SAME matched items:
     same food (image bootstrap CI). This is the cleanest test of visual size
     sensitivity, since food identity is held fixed.
 
-Usage: analysis_env/bin/python analysis/20_visual_vs_identity.py
+Usage: python analysis/20_visual_vs_identity.py
 Output: analysis/outputs/visual_vs_identity.csv
 """
 import os

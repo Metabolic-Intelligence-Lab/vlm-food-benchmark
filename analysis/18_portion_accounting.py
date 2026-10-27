@@ -19,7 +19,7 @@ Wrong matches: matched pairs that the LLM judge (llm_judge_results.jsonl, same
 rules as 15_judge_v2.py) rates as different foods are re-scored as FN + FP.
 Image-level bootstrap CIs (B=2000, seed 20260901) for cpMAE+FP and meal error.
 
-Usage: analysis_env/bin/python analysis/18_portion_accounting.py
+Usage: python analysis/18_portion_accounting.py
 Outputs: analysis/outputs/portion_accounting.csv, nmae_sensitivity.csv
 """
 import importlib.util

@@ -1,4 +1,4 @@
-"""WP6 - LLM-as-judge: independent semantic evaluator for food-name pairs.
+"""LLM-as-judge: independent semantic evaluator for food-name pairs.
 
 Judges whether (predicted name, GT name) refer to the same food item, for all
 unique pairs in the ambiguous cross-encoder band [0.30, 0.95). Pairs below the
@@ -10,7 +10,7 @@ Resumable: results are appended to analysis/outputs/llm_judge_results.jsonl and
 already-judged pairs are skipped on restart.
 
 Usage:
-  OPENAI_API_KEY=... analysis_env/bin/python analysis/08_llm_judge.py \
+  OPENAI_API_KEY=... python analysis/08_llm_judge.py \
       [--model gpt-5.2] [--batch 40] [--lo 0.30] [--hi 0.95] [--limit N]
 """
 import argparse

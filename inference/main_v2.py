@@ -1,4 +1,4 @@
-"""WP8 - Improved benchmark runner (v2) for new models and stochastic replicates.
+"""Improved benchmark runner (v2) for new models and stochastic replicates.
 
 Differences vs the original main.py (kept unchanged for the record):
   - --run-id: replicate identifier appended to output filenames (r1, r2, ...);
@@ -11,7 +11,7 @@ Differences vs the original main.py (kept unchanged for the record):
     to run_manifest.jsonl for reproducibility reporting.
 
 Usage example:
-  python runpod/main_v2.py --model qwen3.5:9b --model_temperature 0.6 --run-id r1
+  python inference/main_v2.py --model qwen3.5:9b --model_temperature 0.6 --run-id r1
 """
 import argparse
 import hashlib

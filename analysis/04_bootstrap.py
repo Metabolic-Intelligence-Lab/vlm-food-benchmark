@@ -1,4 +1,4 @@
-"""WP3 - Image-level bootstrap CIs, paired comparisons, ranking stability.
+"""Image-level bootstrap CIs, paired comparisons, ranking stability.
 
 Resamples the 200 images with replacement (B=2000, fixed seed). The SAME
 resample indices are used for every (model, T, eps), so differences between
@@ -10,7 +10,7 @@ Outputs (analysis/outputs/):
   paired_comparisons_<mode>.csv  paired deltas vs reference models
   rank_probabilities_<mode>.csv  P(model has best F1 / best cpmae among open models)
 
-Usage: analysis_env/bin/python analysis/04_bootstrap.py [--mode greedy] [--B 2000]
+Usage: python analysis/04_bootstrap.py [--mode greedy] [--B 2000]
 """
 import argparse
 import os

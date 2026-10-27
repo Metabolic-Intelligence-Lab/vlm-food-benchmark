@@ -9,7 +9,7 @@ characterizes the signed error pred - GT on matched items with a parsed weight:
   - repaired / truncated raw outputs of the same configurations (rules out
     output-length constraints as a cause)
 
-Usage: analysis_env/bin/python analysis/16_portion_bias.py
+Usage: python analysis/16_portion_bias.py
 Outputs: analysis/outputs/portion_bias_models.csv, portion_bias_categories.csv
 """
 import importlib.util

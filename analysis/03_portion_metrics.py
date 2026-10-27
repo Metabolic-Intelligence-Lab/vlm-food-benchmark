@@ -1,4 +1,4 @@
-"""WP2 - Revised portion metrics and reference baselines.
+"""Revised portion metrics and reference baselines.
 
 Metrics per (model, T, eps), computed from per_image_greedy.parquet:
   mae, medae            over matched items with a parsed weight (as before)
@@ -17,7 +17,7 @@ Reference baselines (model-independent, answer "do VLMs beat priors?"):
   typical_serving every GT item matched, weight = per-food median computed
                   leave-one-image-out (global median for foods seen only once)
 
-Usage: analysis_env/bin/python analysis/03_portion_metrics.py [--mode greedy]
+Usage: python analysis/03_portion_metrics.py [--mode greedy]
 Outputs: analysis/outputs/portion_metrics_<mode>.csv, portion_baselines.json
 """
 import argparse

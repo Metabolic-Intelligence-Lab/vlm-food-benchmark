@@ -4,7 +4,7 @@ Benchmark dataset and full evaluation pipeline for **food image recognition and
 portion size estimation with Vision-Language Models (VLMs)**, accompanying the
 paper *"Benchmarking Open-Source Vision-Language Models for Food Image
 Recognition and Portion Size Estimation"* (Marchetti, Capezzone, Esposito,
-De Spirito, Maulucci — under review).
+De Spirito, Maulucci, *Nutrients*, 2026, accepted).
 
 ## Dataset
 
@@ -43,13 +43,16 @@ participants and human raters are identified only by anonymous codes.
 
 | Path | Purpose |
 |---|---|
-| `main.py`, `runpod/main_v2.py` | inference over the image set via Ollama (temperature grid, seeds, JSON output) |
-| `openai_baseline.py`, `runpod/openai_v2.py` | proprietary-model baselines |
-| `system_prompts/`, `user_prompts/` | the exact prompts used (`01.txt` main prompt, `02.txt` concise-name variant) |
-| `analysis/evaluation.py` | shared evaluation library: GT loading, robust gram parsing, CrossEncoder scoring, greedy/Hungarian matching |
-| `analysis/00…15_*.py` | numbered pipeline: pair scoring, metrics, portion baselines, bootstrap CIs, calibration (LOIO-CV), human-eval form, LLM-as-judge, matcher validation, figures |
-| `analysis/16…24_*.py` | additional analyses: portion bias, name verbosity, outcome accounting and metric sensitivity, dataset composition and leave-one-participant-out robustness, visual vs identity-based portion estimates, matcher threshold and match composition, output repair and temperature robustness, concise-name prompt experiment, linear calibration at the primary threshold |
-| `analysis/outputs/` | all published metrics, bootstrap intervals, judge verdicts, human-rater labels (`rater1..3`), figures |
+| `inference/main.py`, `inference/main_v2.py` | inference over the image set via Ollama (first and second campaign: temperature grid, seeds, replicate ids, JSON output) |
+| `inference/openai_baseline.py`, `inference/openai_v2.py` | proprietary-model baselines (OpenAI and Anthropic APIs) |
+| `system_prompts/`, `user_prompts/` | the exact prompts used (`01.txt` main prompt, `02.txt` concise-name variant, `json_llm_prompt_01.txt` JSON-repair prompt) |
+| `utils/` | image resizing and output integrity checks |
+| `analysis/evaluation.py` | shared evaluation library: GT loading, gram parsing, CrossEncoder scoring, greedy/Hungarian matching |
+| `analysis/00…05_*.py` | core pipeline, first campaign: inventory, pair scoring, metrics (greedy / Hungarian / repair-sensitivity modes), portion metrics and reference predictors, bootstrap CIs and paired comparisons, calibration (LOIO-CV) |
+| `analysis/06…10_*.py` | validation: JSON-repair step, human-evaluation set, LLM-as-judge, matcher validation, dataset characterization and stratified errors |
+| `analysis/11…15_*.py` | second campaign (`model_outputs_v2/`): evaluation, bootstrap, figures, LLM-judge metrics |
+| `analysis/16…24_*.py` | revision analyses: portion bias, name verbosity, outcome accounting and metric sensitivity, dataset composition and leave-one-participant-out robustness, visual vs identity-based portion estimates, matcher threshold and match composition, output repair and temperature robustness, concise-name prompt experiment, calibration at the primary threshold |
+| `analysis/outputs/` | all published metrics (`metrics_*.json/csv`, one file per replicate for the proprietary models), per-image and per-item tables (`*.parquet`), bootstrap intervals, judge verdicts, human-rater labels (`rater1..3`), and the paper figures (`figures/`) |
 
 ### Reproducing the analysis
 
@@ -60,7 +63,15 @@ python analysis/01_score_pairs.py      # CrossEncoder pair scores (cached)
 python analysis/02_compute_metrics.py  # F1/portion metrics per model/T/eps
 python analysis/12_eval_all_v2.py      # same for the v2 campaign
 python analysis/04_bootstrap.py        # confidence intervals
+python analysis/14_figures.py          # Figs. 4-7
+python analysis/16_portion_bias.py ... analysis/24_calibration_primary.py   # tables and numbers of the revision
 ```
+
+Every script reads its inputs from `analysis/outputs/` (all included) and
+documents its outputs in its docstring; the metric variants (`greedy`,
+`hungarian`, `clean`) are sensitivity analyses reported in the paper.
+The LLM-judge scripts (08, 15) and the prompt experiment (23) require API
+keys; their outputs are included.
 
 Re-running inference from scratch requires Ollama ≥ 0.9 with the model tags
 listed in the paper (and API keys for the proprietary baselines); all outputs
@@ -74,5 +85,5 @@ are already included, so the analysis is fully reproducible offline.
 
 ## Citation
 
-The paper is under review; until it is published, please cite this repository
-(see `CITATION.cff`).
+The paper has been accepted in *Nutrients* (2026); the DOI will be added here
+upon publication. Until then, please cite this repository (see `CITATION.cff`).

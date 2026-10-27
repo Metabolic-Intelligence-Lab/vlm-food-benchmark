@@ -1,20 +1,10 @@
-"""WP1 - Shared evaluation utilities for the BYO-ME VLM benchmark.
+"""Shared evaluation utilities for the BYO-ME VLM benchmark.
 
 This module is the single source of truth for:
-  - ground-truth loading (with the CORRECT image -> GT mapping, plus a helper
-    reproducing the legacy buggy lookup for impact quantification)
-  - prediction loading/normalization (same tolerant logic as the submitted paper)
-  - gram extraction from portion strings (legacy + robust variants)
-  - matching algorithms (legacy first-come-argmax, greedy one-to-one, Hungarian)
-
-Known bugs of the submitted pipeline (compute_performance.py), reproduced here
-only behind explicit *legacy* flags so their impact can be measured:
-  1. GT lookup via endswith("NN.jpg"): 47/200 images matched the wrong GT
-     (e.g. image 4 scored against the labels of image 104).
-  2. False negatives of the last image double-counted outside the file loop.
-  3. Predictions matched via argmax over all GT items; a prediction whose best
-     GT was already taken counted as FP even if another GT above threshold
-     was available (order-dependent, not one-to-one optimal).
+  - ground-truth loading (image -> list of (food name, weight in grams))
+  - prediction loading/normalization (tolerant to the output variants of the models)
+  - gram extraction from portion strings
+  - matching algorithms (greedy one-to-one, Hungarian)
 """
 from __future__ import annotations
 
@@ -65,27 +55,6 @@ def load_ground_truth() -> dict[int, list[tuple[str, float]]]:
     return gt
 
 
-def load_ground_truth_legacy() -> dict[int, list[tuple[str, float]]]:
-    """Reproduce the buggy legacy lookup (endswith on 2-digit id, first sorted path)."""
-    gt_df = pd.read_csv(GT_CSV)
-    gt_df["food"] = gt_df["food"].astype(str).map(normalize)
-    by_path: dict[str, list[tuple[str, float]]] = defaultdict(list)
-    for _, row in gt_df.iterrows():
-        by_path[row["image"]].append((row["food"], float(row["portion"])))
-    sorted_paths = sorted(by_path)  # pandas groupby sorted keys
-    gt: dict[int, list[tuple[str, float]]] = {}
-    for i in range(1, N_IMAGES + 1):
-        image_id = str(i).zfill(2)  # what basename.split("_")[0].zfill(2) produced
-        key = next(p for p in sorted_paths if p.endswith(f"{image_id}.jpg"))
-        gt[i] = by_path[key]
-    return gt
-
-
-def wrong_gt_images() -> list[int]:
-    correct, legacy = load_ground_truth(), load_ground_truth_legacy()
-    return [i for i in range(1, N_IMAGES + 1) if correct[i] != legacy[i]]
-
-
 def load_annotator_map() -> dict[int, str]:
     df = pd.read_csv(MAPPING_CSV)
     out = {}
@@ -97,7 +66,7 @@ def load_annotator_map() -> dict[int, str]:
 # ----------------------------------------------------------------- predictions
 
 def load_and_normalize_preds(path: str) -> tuple[list[dict], list[str]]:
-    """Same tolerant logic as the submitted pipeline."""
+    """Tolerant loader for the JSON variants produced by the models."""
     with open(path) as f:
         data = json.load(f)
     if isinstance(data, dict):
@@ -167,15 +136,6 @@ def complete_runs() -> list[tuple[str, str]]:
 
 # -------------------------------------------------------------- gram extraction
 
-def extract_grams_legacy(text: str) -> float | None:
-    """Exactly the submitted paper's parser."""
-    text = str(text).lower().replace("grams", "").replace("gram", "").replace("g", "").strip()
-    try:
-        return float(text)
-    except ValueError:
-        return None
-
-
 _RANGE_RE = re.compile(r"^\s*(\d+(?:\.\d+)?)\s*[-–~]\s*(\d+(?:\.\d+)?)\s*$")
 _NUM_RE = re.compile(r"(\d+(?:\.\d+)?)")
 
@@ -214,28 +174,6 @@ class MatchResult:
     @property
     def fn(self) -> int:
         return len(self.fn_gt_idx)
-
-
-def match_legacy(scores: np.ndarray, threshold: float) -> MatchResult:
-    """Submitted paper's algorithm: iterate predictions in output order, take the
-    argmax GT over ALL GT items; count FP if below threshold OR argmax GT already
-    taken (even when another GT above threshold is free)."""
-    n_pred, n_gt = scores.shape
-    matched_gt: set[int] = set()
-    pairs, fps = [], []
-    for p in range(n_pred):
-        if n_gt == 0:
-            fps.append(p)
-            continue
-        best = int(np.argmax(scores[p]))
-        best_score = float(scores[p, best])
-        if best_score >= threshold and best not in matched_gt:
-            matched_gt.add(best)
-            pairs.append((p, best, best_score))
-        else:
-            fps.append(p)
-    fns = [g for g in range(n_gt) if g not in matched_gt]
-    return MatchResult(pairs, fps, fns)
 
 
 def match_greedy(scores: np.ndarray, threshold: float) -> MatchResult:
@@ -282,7 +220,7 @@ def match_hungarian(scores: np.ndarray, threshold: float) -> MatchResult:
     return MatchResult(pairs, fps, fns)
 
 
-MATCHERS = {"legacy": match_legacy, "greedy": match_greedy, "hungarian": match_hungarian}
+MATCHERS = {"greedy": match_greedy, "hungarian": match_hungarian}
 
 
 # ------------------------------------------------------------------ pair cache

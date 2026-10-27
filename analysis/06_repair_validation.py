@@ -1,4 +1,4 @@
-"""WP5 - Validate the gemma3:4b JSON-repair step.
+"""Validate the gemma3:4b JSON-repair step.
 
 For every output that went through the second-LLM repair (a *_raw.txt exists),
 re-parse the raw text with a deterministic tolerant parser and compare with the
@@ -10,7 +10,7 @@ repaired JSON actually used in the benchmark:
 Additionally, a sensitivity analysis: F1 per (model, T, eps) computed on
 non-repaired images only vs all images.
 
-Usage: analysis_env/bin/python analysis/06_repair_validation.py
+Usage: python analysis/06_repair_validation.py
 Outputs: analysis/outputs/repair_validation.csv, repair_sensitivity.csv
 """
 import difflib

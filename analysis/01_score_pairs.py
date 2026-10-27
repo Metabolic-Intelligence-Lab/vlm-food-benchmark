@@ -1,11 +1,10 @@
-"""WP1 - Score every unique (pred_name, gt_name) pair once with the CrossEncoder.
+"""Score every unique (pred_name, gt_name) pair once with the CrossEncoder.
 
-Collects prediction names from ALL model outputs and pairs each with the GT
-names of its image under BOTH the correct mapping and the legacy (buggy)
-mapping, so that downstream scripts can reproduce the submitted paper's numbers
-and compute the corrected ones from the same cache.
+Collects the prediction names from all model outputs and pairs each with the
+ground-truth names of its image; the scores are cached once and reused by all
+downstream scripts.
 
-Usage: analysis_env/bin/python analysis/01_score_pairs.py [--count-only]
+Usage: python analysis/01_score_pairs.py [--count-only]
 Output: analysis/outputs/pair_scores.parquet  (pred_name, gt_name, score)
 """
 import argparse
@@ -18,8 +17,7 @@ import pandas as pd
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from evaluation import (OUTPUTS_DIR, iter_run_files, list_runs,
-                        load_and_normalize_preds, load_ground_truth,
-                        load_ground_truth_legacy, normalize)
+                        load_and_normalize_preds, load_ground_truth, normalize)
 
 CROSS_ENCODER = "cross-encoder/stsb-distilroberta-base"
 OUT_PATH = os.path.join(OUTPUTS_DIR, "pair_scores.parquet")
@@ -27,11 +25,7 @@ OUT_PATH = os.path.join(OUTPUTS_DIR, "pair_scores.parquet")
 
 def collect_pairs():
     gt_correct = load_ground_truth()
-    gt_legacy = load_ground_truth_legacy()
-    gt_names = {
-        i: sorted({name for name, _ in gt_correct[i]} | {name for name, _ in gt_legacy[i]})
-        for i in gt_correct
-    }
+    gt_names = {i: sorted({name for name, _ in gt_correct[i]}) for i in gt_correct}
     pairs = set()
     n_files = n_bad = 0
     for (model, temp) in sorted(list_runs()):

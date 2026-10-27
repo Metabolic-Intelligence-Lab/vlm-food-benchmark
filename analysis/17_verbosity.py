@@ -4,7 +4,7 @@ Mean words per predicted name and items per image for every model at its
 best-F1 configuration (eps=0.5; v1 clean + v2 r1), with the Spearman
 correlation between verbosity and F1.
 
-Usage: analysis_env/bin/python analysis/17_verbosity.py
+Usage: python analysis/17_verbosity.py
 """
 import sys, json, numpy as np, pandas as pd
 from scipy.stats import spearmanr

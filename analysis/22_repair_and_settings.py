@@ -14,7 +14,7 @@
 3. Temperature selection: best-T vs mean-over-T ranking, best open model at every
    temperature, proprietary models at the OpenAI default temperature (T=1).
 
-Usage: analysis_env/bin/python analysis/22_repair_and_settings.py
+Usage: python analysis/22_repair_and_settings.py
 Outputs: analysis/outputs/repair_rates.csv, repair_sensitivity_v2.csv,
          temperature_robustness.csv
 """

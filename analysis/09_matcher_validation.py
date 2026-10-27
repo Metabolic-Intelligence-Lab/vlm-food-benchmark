@@ -1,4 +1,4 @@
-"""WP6 - Matcher validation analysis. Three parts, each
+"""Matcher validation analysis. Three parts, each
 running only when its inputs are available:
 
 A. Human labels vs cross-encoder score: inter-judge agreement (Cohen's kappa),
@@ -14,7 +14,7 @@ C. LLM judge (threshold-free evaluator): recompute F1 per (model, T) using
    score < lo -> different, >= hi -> same), then Spearman vs cross-encoder
    rankings. Output: metrics_judge.csv.
 
-Usage: analysis_env/bin/python analysis/09_matcher_validation.py
+Usage: python analysis/09_matcher_validation.py
 """
 import glob
 import json

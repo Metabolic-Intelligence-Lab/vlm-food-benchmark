@@ -11,7 +11,7 @@
 3. Strict F1 (only expected same-food matches count as TP), and F1 at eps =
    0.55 / 0.6, with Spearman correlations against the primary ranking.
 
-Usage: analysis_env/bin/python analysis/21_matcher_composition.py
+Usage: python analysis/21_matcher_composition.py
 Outputs: analysis/outputs/matcher_thresholds.csv, matcher_composition.csv
 """
 import glob

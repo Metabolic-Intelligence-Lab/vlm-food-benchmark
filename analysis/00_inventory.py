@@ -1,4 +1,4 @@
-"""WP0 - Full inventory of model outputs and ground-truth integrity checks.
+"""Full inventory of model outputs and ground-truth integrity checks.
 
 Stdlib-only so it can run with any Python. Produces analysis/outputs/inventory.json
 and prints a human-readable report. Read-only: never touches model_outputs content.

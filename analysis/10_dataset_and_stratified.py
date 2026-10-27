@@ -1,4 +1,4 @@
-"""WP7 - Dataset characterization + stratified error analyses.
+"""Dataset characterization + stratified error analyses.
 
 1. Macro-category mapping of the 314 unique GT food names (keyword rules,
    exported to food_categories.csv for manual review).
@@ -8,7 +8,7 @@
    F1 and portion error per annotator, for the top models.
 4. Dataset statistics for the manuscript (R2.1: instances vs unique names).
 
-Usage: analysis_env/bin/python analysis/10_dataset_and_stratified.py [--mode clean]
+Usage: python analysis/10_dataset_and_stratified.py [--mode clean]
 Outputs: food_categories.csv, category_errors.csv, annotator_errors.csv,
          dataset_stats.json
 """

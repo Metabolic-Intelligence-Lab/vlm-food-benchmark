@@ -1,11 +1,11 @@
-"""WP8/B4 - Evaluate a model run from model_outputs_v2/ (new-campaign outputs).
+"""Evaluate a model run from model_outputs_v2/ (new-campaign outputs).
 
 Handles the v2 filename pattern NNN_<model>_T<t>_user01_sys01_<runid>.json,
 scores any (pred, gt) pairs missing from the cache with the same CrossEncoder,
 appends them to pair_scores_v2.parquet (main cache untouched), and reports
 F1/portion metrics with the standard greedy matcher across the epsilon grid.
 
-Usage: analysis_env/bin/python analysis/11_eval_v2.py --model claude-sonnet-5 \
+Usage: python analysis/11_eval_v2.py --model claude-sonnet-5 \
            --temp 1.0 --run r1 [--compare gpt-4o]
 """
 import argparse
