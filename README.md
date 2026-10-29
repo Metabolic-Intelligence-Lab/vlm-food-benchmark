@@ -4,7 +4,8 @@ Benchmark dataset and full evaluation pipeline for **food image recognition and
 portion size estimation with Vision-Language Models (VLMs)**, accompanying the
 paper *"Benchmarking Open-Source Vision-Language Models for Food Image
 Recognition and Portion Size Estimation"* (Marchetti, Capezzone, Esposito,
-De Spirito, Maulucci, *Nutrients*, 2026, accepted).
+De Spirito, Maulucci, *Nutrients* **2026**, *18*(21), 3582,
+[doi:10.3390/nu18213582](https://doi.org/10.3390/nu18213582)).
 
 ## Dataset
 
@@ -85,5 +86,25 @@ are already included, so the analysis is fully reproducible offline.
 
 ## Citation
 
-The paper has been accepted in *Nutrients* (2026); the DOI will be added here
-upon publication. Until then, please cite this repository (see `CITATION.cff`).
+If you use this dataset or code, please cite the paper:
+
+> Marchetti, T.; Capezzone, S.; Esposito, R.; De Spirito, M.; Maulucci, G.
+> Benchmarking Open-Source Vision-Language Models for Food Image Recognition
+> and Portion Size Estimation. *Nutrients* **2026**, *18*, 3582.
+> https://doi.org/10.3390/nu18213582
+
+```bibtex
+@article{Marchetti2026VLMFood,
+  author  = {Marchetti, Tommaso and Capezzone, Stefano and Esposito, Rosita and De Spirito, Marco and Maulucci, Giuseppe},
+  title   = {Benchmarking Open-Source Vision-Language Models for Food Image Recognition and Portion Size Estimation},
+  journal = {Nutrients},
+  year    = {2026},
+  volume  = {18},
+  number  = {21},
+  pages   = {3582},
+  doi     = {10.3390/nu18213582}
+}
+```
+
+The paper is open access (CC BY 4.0): https://www.mdpi.com/2072-6643/18/21/3582.
+Machine-readable metadata for this repository are in `CITATION.cff`.

@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this dataset or code, please cite it as below."
+message: "If you use this dataset or code, please cite the paper (preferred-citation) and this repository."
 title: "VLM Food Benchmark"
 type: dataset
 authors:
@@ -16,3 +16,25 @@ authors:
 repository-code: "https://github.com/Metabolic-Intelligence-Lab/vlm-food-benchmark"
 license: MIT
 year: 2026
+date-released: "2026-10-29"
+preferred-citation:
+  type: article
+  title: "Benchmarking Open-Source Vision-Language Models for Food Image Recognition and Portion Size Estimation"
+  authors:
+    - family-names: Marchetti
+      given-names: Tommaso
+    - family-names: Capezzone
+      given-names: Stefano
+    - family-names: Esposito
+      given-names: Rosita
+    - family-names: De Spirito
+      given-names: Marco
+    - family-names: Maulucci
+      given-names: Giuseppe
+  journal: "Nutrients"
+  year: 2026
+  volume: 18
+  issue: 21
+  start: 3582
+  doi: "10.3390/nu18213582"
+  url: "https://www.mdpi.com/2072-6643/18/21/3582"
